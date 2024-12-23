@@ -20,11 +20,10 @@
 
 title: mga/blog
 domain: mgiraldo.github.io
-url: https://mgiraldo.github.io
 description: >- # this means to ignore newlines until "baseurl:"
   ISSN 2011-0146
-baseurl: "" # the subpath of your site
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: https://mgiraldo.github.io
+baseurl: "blog/" # leave blank for custom domain
 github_username:  mgiraldo
 
 # Build settings
