@@ -32,7 +32,7 @@ github_username:  mgiraldo
 theme: minima
 plugins:
   - jekyll-feed
-markdown: kramdown
+markdown: GFM
 
 # Exclude from processing.
 # The following items will not be processed, by default.
