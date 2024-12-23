@@ -15,28 +15,28 @@
   <link rel="stylesheet" href="assets/ee7e25053841e59478d90b3a8619ae38.css" media="print" />
   <link rel="stylesheet" href="assets/b2a7253f662e3db973debaddbc9659b0.css" media="screen, print" />
   
-<link rel="apple-touch-icon" type="image/png" href="/wp-content/apple-touch-icon-57x57-0af2b52ac2b1a8cb0aba42f17aa901bfdedb9174bd978f838e3b3e1dd8602f52.png" sizes="57x57" />
-<link rel="apple-touch-icon" type="image/png" href="/wp-content/apple-touch-icon-60x60-cff74c9066d8e7fd08b29407712edbae5613cc9a4c03ee0398a89502a6a41d1f.png" sizes="60x60" />
-<link rel="apple-touch-icon" type="image/png" href="/wp-content/apple-touch-icon-72x72-63c6fdf3ddf65feebac1c0441bf6a378d1e4bde7107f598ae86733c402895eae.png" sizes="72x72" />
-<link rel="apple-touch-icon" type="image/png" href="/wp-content/apple-touch-icon-76x76-1740d6e7a59521693c496dd8fbe1caf3d5ad302017cb0f5073b6914b4f5b7544.png" sizes="76x76" />
-<link rel="apple-touch-icon" type="image/png" href="/wp-content/apple-touch-icon-114x114-20ba9df1a8f9b341040d661b7942b7b10288b9b4c4ce0663e10018958dc7f4a8.png" sizes="114x114" />
-<link rel="apple-touch-icon" type="image/png" href="/wp-content/apple-touch-icon-120x120-c304991e604d1be82639709b96fb87f7b6b6688cc0d04d5f6141604259299648.png" sizes="120x120" />
-<link rel="apple-touch-icon" type="image/png" href="/wp-content/apple-touch-icon-144x144-fbf20bdf9d2f7c1fe8eb85d7869a9bda285be88c93a39438150f5eb5955758ce.png" sizes="144x144" />
-<link rel="apple-touch-icon" type="image/png" href="/wp-content/apple-touch-icon-152x152-af45dc979e972cab863517b2cb33a3dcf3e04e02a2eb2734c6f93edc21fa395d.png" sizes="152x152" />
-<link rel="apple-touch-icon" type="image/png" href="/wp-content/apple-touch-icon-180x180-ea6361d7ae5b3f08c6290652ad703fa239364cc09c84873044f3299845f24652.png" sizes="180x180" />
-<link rel="icon" type="image/png" href="/wp-content/favicon-32x32-99b88fcadeef736889823c8a886b89d8cada9d4423a49a27de29bacc0a6bebd1.png" sizes="32x32" />
-<link rel="icon" type="image/png" href="/wp-content/favicon-194x194-79d3fb0152c735866e64b1d7535d504483cd13c2fad0131a6142bd9629d30de2.png" sizes="194x194" />
-<link rel="icon" type="image/png" href="/wp-content/favicon-96x96-6ffbc38962fddb870f9577b76430a0ee4db5fb4eca485f850cd45436d7f3eb87.png" sizes="96x96" />
-<link rel="icon" type="image/png" href="/wp-content/android-chrome-192x192-f970b9be3965dfda6ea9481b305c39b2ec794e296f802235e30d4671f0f896e1.png" sizes="192x192" />
-<link rel="icon" type="image/png" href="/wp-content/favicon-16x16-474476c1b2381628a81361a9e2bf04b936d21f77c59e84b48c6c69ea376fb6cf.png" sizes="16x16" />
-<link rel="mask-icon" href="/wp-content/tab-icon-d48738778a27141c72d1101a03b278b681e85b966a688533f497aa8bafca2a49.svg" color="#7ebc6f">
-<link rel="manifest" href="/wp-content/manifest-b2cc1407226d3e16e6149425747239c259fbe44b41bff3aca36ca6d9e56a6e18.json">
-<meta name="msapplication-config" content="/wp-content/browserconfig-c59184dc0264731151cbf50ae58f7fa8ae5153138013f125203e1193800f862f.xml">
+<link rel="apple-touch-icon" type="image/png" href="/blog/wp-content/apple-touch-icon-57x57-0af2b52ac2b1a8cb0aba42f17aa901bfdedb9174bd978f838e3b3e1dd8602f52.png" sizes="57x57" />
+<link rel="apple-touch-icon" type="image/png" href="/blog/wp-content/apple-touch-icon-60x60-cff74c9066d8e7fd08b29407712edbae5613cc9a4c03ee0398a89502a6a41d1f.png" sizes="60x60" />
+<link rel="apple-touch-icon" type="image/png" href="/blog/wp-content/apple-touch-icon-72x72-63c6fdf3ddf65feebac1c0441bf6a378d1e4bde7107f598ae86733c402895eae.png" sizes="72x72" />
+<link rel="apple-touch-icon" type="image/png" href="/blog/wp-content/apple-touch-icon-76x76-1740d6e7a59521693c496dd8fbe1caf3d5ad302017cb0f5073b6914b4f5b7544.png" sizes="76x76" />
+<link rel="apple-touch-icon" type="image/png" href="/blog/wp-content/apple-touch-icon-114x114-20ba9df1a8f9b341040d661b7942b7b10288b9b4c4ce0663e10018958dc7f4a8.png" sizes="114x114" />
+<link rel="apple-touch-icon" type="image/png" href="/blog/wp-content/apple-touch-icon-120x120-c304991e604d1be82639709b96fb87f7b6b6688cc0d04d5f6141604259299648.png" sizes="120x120" />
+<link rel="apple-touch-icon" type="image/png" href="/blog/wp-content/apple-touch-icon-144x144-fbf20bdf9d2f7c1fe8eb85d7869a9bda285be88c93a39438150f5eb5955758ce.png" sizes="144x144" />
+<link rel="apple-touch-icon" type="image/png" href="/blog/wp-content/apple-touch-icon-152x152-af45dc979e972cab863517b2cb33a3dcf3e04e02a2eb2734c6f93edc21fa395d.png" sizes="152x152" />
+<link rel="apple-touch-icon" type="image/png" href="/blog/wp-content/apple-touch-icon-180x180-ea6361d7ae5b3f08c6290652ad703fa239364cc09c84873044f3299845f24652.png" sizes="180x180" />
+<link rel="icon" type="image/png" href="/blog/wp-content/favicon-32x32-99b88fcadeef736889823c8a886b89d8cada9d4423a49a27de29bacc0a6bebd1.png" sizes="32x32" />
+<link rel="icon" type="image/png" href="/blog/wp-content/favicon-194x194-79d3fb0152c735866e64b1d7535d504483cd13c2fad0131a6142bd9629d30de2.png" sizes="194x194" />
+<link rel="icon" type="image/png" href="/blog/wp-content/favicon-96x96-6ffbc38962fddb870f9577b76430a0ee4db5fb4eca485f850cd45436d7f3eb87.png" sizes="96x96" />
+<link rel="icon" type="image/png" href="/blog/wp-content/android-chrome-192x192-f970b9be3965dfda6ea9481b305c39b2ec794e296f802235e30d4671f0f896e1.png" sizes="192x192" />
+<link rel="icon" type="image/png" href="/blog/wp-content/favicon-16x16-474476c1b2381628a81361a9e2bf04b936d21f77c59e84b48c6c69ea376fb6cf.png" sizes="16x16" />
+<link rel="mask-icon" href="/blog/wp-content/tab-icon-d48738778a27141c72d1101a03b278b681e85b966a688533f497aa8bafca2a49.svg" color="#7ebc6f">
+<link rel="manifest" href="/blog/wp-content/manifest-b2cc1407226d3e16e6149425747239c259fbe44b41bff3aca36ca6d9e56a6e18.json">
+<meta name="msapplication-config" content="/blog/wp-content/browserconfig-c59184dc0264731151cbf50ae58f7fa8ae5153138013f125203e1193800f862f.xml">
 <meta name="msapplication-TileColor" content="#00a300">
-<meta name="msapplication-TileImage" content="/wp-content/mstile-144x144-02723f6f7cb2c18e6f8041c93f80982decb52b24a7e447477bc2ce3136d75806.png">
+<meta name="msapplication-TileImage" content="/blog/wp-content/mstile-144x144-02723f6f7cb2c18e6f8041c93f80982decb52b24a7e447477bc2ce3136d75806.png">
 <meta name="theme-color" content="#ffffff">
 <link href="https://www.openstreetmap.org/" rel="canonical" />
-<link rel="search" type="application/opensearchdescription+xml" title="OpenStreetMap Search" href="/wp-content/osm-42b7b3fbcee2193e455a773db6cd3d34a2f48ca94547fed54901dd9d8307b02b.xml">
+<link rel="search" type="application/opensearchdescription+xml" title="OpenStreetMap Search" href="/blog/wp-content/osm-42b7b3fbcee2193e455a773db6cd3d34a2f48ca94547fed54901dd9d8307b02b.xml">
 <meta name="description" content="OpenStreetMap is the free wiki world map.">
 <meta property="og:site_name" content="OpenStreetMap">
 <meta property="og:title" content="OpenStreetMap">
@@ -59,8 +59,8 @@
   <h1>
     <a href="/" class="geolink">
       <picture>
-        <source srcset="/wp-content/osm_logo-d4979005d8a03d67bbf051b4e7e6ef1b26c6a34a5cd1b65908e2947c360ca391.svg" type="image/svg+xml" />
-        <img srcset="/wp-content/osm_logo-d4979005d8a03d67bbf051b4e7e6ef1b26c6a34a5cd1b65908e2947c360ca391.svg" alt="OpenStreetMap logo" class="logo" src="assets/985073c782543e9e1913d26962c9b117.png" />
+        <source srcset="/blog/wp-content/osm_logo-d4979005d8a03d67bbf051b4e7e6ef1b26c6a34a5cd1b65908e2947c360ca391.svg" type="image/svg+xml" />
+        <img srcset="/blog/wp-content/osm_logo-d4979005d8a03d67bbf051b4e7e6ef1b26c6a34a5cd1b65908e2947c360ca391.svg" alt="OpenStreetMap logo" class="logo" src="assets/985073c782543e9e1913d26962c9b117.png" />
       </picture>
       OpenStreetMap
     </a>

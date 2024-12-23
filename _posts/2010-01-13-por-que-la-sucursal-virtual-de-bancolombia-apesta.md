@@ -6,7 +6,7 @@ author: blog
 layout: post
 permalink: /2010/01/13/por-que-la-sucursal-virtual-de-bancolombia-apesta/
 enclosure:
-    - "/wp-content/uploads/2010/01/queremosprohibicion.mp3\n303566\naudio/mpeg\n"
+    - "/blog/wp-content/uploads/2010/01/queremosprohibicion.mp3\n303566\naudio/mpeg\n"
 categories:
     - crítica
     - web

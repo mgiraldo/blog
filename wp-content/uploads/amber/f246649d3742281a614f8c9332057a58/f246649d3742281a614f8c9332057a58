@@ -49,8 +49,8 @@
 	<script type="text/javascript" src="assets/5227aa65c4077a1ad96c690e65cbd21a.js"></script>
 	<script type="text/javascript" src="assets/bce7f9166811e4cd982c30b17ebf238e.js"></script>
 	
-	<!--<script type="text/javascript" src="/wp-content/javascript/lightbox/js/lightbox.js"></script>
-	<link rel="stylesheet" href="/wp-content/javascript/lightbox/css/lightbox.css" type="text/css" media="screen" />-->
+	<!--<script type="text/javascript" src="/blog/wp-content/javascript/lightbox/js/lightbox.js"></script>
+	<link rel="stylesheet" href="/blog/wp-content/javascript/lightbox/css/lightbox.css" type="text/css" media="screen" />-->
 
 	<a href="/index.php">
 	<div id="header">
@@ -133,7 +133,7 @@
 <h2>Sponsor</h2>
 <!--
 <div id="extras-box">
-	<a href="http://www.text-link-ads.com"><img src="/wp-content/img/ad_link.png" width="208" height="45" alt="Place your advertising here" /></a>
+	<a href="http://www.text-link-ads.com"><img src="/blog/wp-content/img/ad_link.png" width="208" height="45" alt="Place your advertising here" /></a>
 </div>
 -->
 <div id="extras-box">
@@ -310,7 +310,7 @@ new TWTR.Widget({
       <p>
       	<div id="flash_photogallery"><a href="http://www.flickr.com/photos/alessandro_crugnola/">Visit my Photo Gallery</a><br /><br /></div>
 			<script type="text/javascript">
-				var so = new SWFObject("/wp-content/media/photogallery/main.swf", "flash_flickr", "200", "100", "9", "#FFFFFF");
+				var so = new SWFObject("/blog/wp-content/media/photogallery/main.swf", "flash_flickr", "200", "100", "9", "#FFFFFF");
 				so.addParam("quality", "high");
 				so.addParam("flashVars", "path=/wp-content/media/photogallery/cache&max_images=2500&total_images=1500&pause=5000&effect_duration=1000&api=9d01e2f2cc8dcd913a056eed2193adc2&nsid=51213739@N00");
 				so.write("flash_photogallery");

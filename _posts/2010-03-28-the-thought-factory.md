@@ -19,7 +19,7 @@ I was invited by my colleagues Hernando Barragán and Annelie Franke to collabor
 
 With this in mind, the *Thought Factory* was created and its main purpose was to save and classify the thoughts of festival visitors. Thoughts are abstract and intangible notions (we can’t read minds… yet). The Factory was made to make those thoughts somewhat tangible, “saving” them in bottles that can later be opened and their contents made visible as the genius in the lamp.
 
-<embed autoplay="false" controller="true" height="288" loop="false" src="/wp-content/uploads/2010/03/visualizador.m4v" type="video/quicktime" width="450">
+<embed autoplay="false" controller="true" height="288" loop="false" src="/blog/wp-content/uploads/2010/03/visualizador.m4v" type="video/quicktime" width="450">
 
 Each bottle represents an inquiry made by festival organizers. Every hour and a half a new bottle is placed in the filling station:
 
@@ -55,7 +55,7 @@ Curating machine
 
 Once approved, the message enters the bottle in the filling station:
 
-<embed autoplay="false" controller="true" height="288" loop="false" src="/wp-content/uploads/2010/03/llenado.m4v" type="video/quicktime" width="450">
+<embed autoplay="false" controller="true" height="288" loop="false" src="/blog/wp-content/uploads/2010/03/llenado.m4v" type="video/quicktime" width="450">
 
 When removed from the filling station, the bottle is labelled and placed with the rest of the full bottles so its thoughts can be read in the viewing station.
 

@@ -19,7 +19,7 @@ Fui invitado por mis colegas Hernando Barragán y Annelie Franke a participar en
 
 A partir de esa premisa, se realizó la *Fábrica de Pensamientos* cuya idea principal es guardar y clasificar los pensamientos de los visitantes al festival. Los pensamientos son nociones abstractas e intangibles (aún no podemos leer la mente). Con la Fábrica se busca hacer esos pensamientos tangibles de alguna forma, “guardándolos” en botellas que luego pueden ser abiertas y su contenido se hace visible como el genio de la lámpara.
 
-<embed autoplay="false" controller="true" height="288" loop="false" src="/wp-content/uploads/2010/03/visualizador.m4v" type="video/quicktime" width="450">
+<embed autoplay="false" controller="true" height="288" loop="false" src="/blog/wp-content/uploads/2010/03/visualizador.m4v" type="video/quicktime" width="450">
 
 Cada botella representa una inquietud planteada por el festival. Cada hora y media se pone una nueva botella en la base de llenado:
 
@@ -55,7 +55,7 @@ Máquina de curaduría
 
 Una vez aprobado, el mensaje entra a la botella que se encuentra en la base de llenado:
 
-<embed autoplay="false" controller="true" height="288" loop="false" src="/wp-content/uploads/2010/03/llenado.m4v" type="video/quicktime" width="450">
+<embed autoplay="false" controller="true" height="288" loop="false" src="/blog/wp-content/uploads/2010/03/llenado.m4v" type="video/quicktime" width="450">
 
 Cuando se retira la botella de la base, se etiqueta y se guarda para luego ser consultada por los visitantes en cualquier momento en la estación de visualización.
 

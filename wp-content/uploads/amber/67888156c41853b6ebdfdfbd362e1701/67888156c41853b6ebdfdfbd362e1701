@@ -5,7 +5,7 @@
 <meta charset="utf-8">
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<link rel="shortcut icon" href="/wp-content/ico/favicon.ico">
+<link rel="shortcut icon" href="/blog/wp-content/ico/favicon.ico">
 <title>
        Generic Error
 	</title>
@@ -13,7 +13,7 @@
 <link href='assets/7d9f0e4cda22c2e35806bd174f8b2eeb.css' rel='stylesheet' type='text/css'>
 <link href="assets/4ed8520bcb7c561435a8a8faa6c85cd7.css" rel="stylesheet">
 
-<!--[if lt IE 9]><script src="/wp-content/js/ie8-responsive-file-warning.js"></script><![endif]-->
+<!--[if lt IE 9]><script src="/blog/wp-content/js/ie8-responsive-file-warning.js"></script><![endif]-->
 <!--[if lt IE 9]>
         <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>

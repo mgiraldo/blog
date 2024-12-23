@@ -15,11 +15,11 @@
   <link href="assets/21d308a92a99a47fbdbabda3d896bf06.css" rel="stylesheet">
 
   <!--[if lt IE 9]>
-      <script src="/wp-content/js/respond.min.js"></script>
+      <script src="/blog/wp-content/js/respond.min.js"></script>
       <script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script>
       <![endif]-->
-  <link rel="icon" type="image/png" href="/wp-content/img/favicon-32x32.png" sizes="32x32" />
-  <link rel="icon" type="image/png" href="/wp-content/img/favicon-16x16.png" sizes="16x16" />
+  <link rel="icon" type="image/png" href="/blog/wp-content/img/favicon-32x32.png" sizes="32x32" />
+  <link rel="icon" type="image/png" href="/blog/wp-content/img/favicon-16x16.png" sizes="16x16" />
 
 </head>
 

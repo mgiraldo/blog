@@ -6,14 +6,14 @@ author: blog
 layout: post
 permalink: /2009/10/09/multiples-views-no-jerarquicas-en-iphone/
 enclosure:
-    - "/wp-content/uploads/2009/10/InfiniteViews1.mov\n255554\nvideo/quicktime\n"
+    - "/blog/wp-content/uploads/2009/10/InfiniteViews1.mov\n255554\nvideo/quicktime\n"
 categories:
     - iphone
     - programación
     - tips
 ---
 
-<embed align="right" height="380" src="/wp-content/uploads/2009/10/InfiniteViews1.mov" style="width: 192px; height: 380px;" type="video/quicktime" width="192">
+<embed align="right" height="380" src="/blog/wp-content/uploads/2009/10/InfiniteViews1.mov" style="width: 192px; height: 380px;" type="video/quicktime" width="192">
 
 *(English version at the bottom of this post)*
 

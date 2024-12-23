@@ -12,7 +12,7 @@ categories:
 
 yeah! \\m/
 
-<embed autoplay="false" controller="false" height="200" href="/wp-content/uploads/2009/07/Grid_VFX_ConceptTest_Low.mov" loop="false" src="/wp-content/uploads/2009/07/Grid_VFX_ConceptTest_Low_click.mov" target="myself" type="video/quicktime" width="480">
+<embed autoplay="false" controller="false" height="200" href="/blog/wp-content/uploads/2009/07/Grid_VFX_ConceptTest_Low.mov" loop="false" src="/blog/wp-content/uploads/2009/07/Grid_VFX_ConceptTest_Low_click.mov" target="myself" type="video/quicktime" width="480">
 
 si no tiene Quicktime o si prefiere alta calidad, puede [verlo en otros formatos](http://www.flynnlives.com/media/video/0xendgame.aspx "trailer de Tron Legacy en varios formatos")
 
