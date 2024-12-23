@@ -10,6 +10,6 @@ categories:
     - video
 ---
 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="360" width="480"><param name="allowfullscreen" value="true"></param><param name="wmode" value="transparent"></param><param name="allowScriptAccess" value="always"></param><param name="src" value="http://www.collegehumor.com/moogaloop/moogaloop.swf?clip_id=1908415&fullscreen=1"></param><embed allowfullscreen="true" allowscriptaccess="always" height="360" src="http://www.collegehumor.com/moogaloop/moogaloop.swf?clip_id=1908415&fullscreen=1" type="application/x-shockwave-flash" width="480" wmode="transparent"></embed></object>
+<embed allowfullscreen="true" allowscriptaccess="always" height="360" src="http://www.collegehumor.com/moogaloop/moogaloop.swf?clip_id=1908415&fullscreen=1" type="application/x-shockwave-flash" width="480" wmode="transparent">
 
 que no se diga que estoy parcializado al skate…

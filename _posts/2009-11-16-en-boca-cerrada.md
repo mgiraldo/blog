@@ -1,6 +1,6 @@
 ---
 id: 530
-title: 'en boca cerrada&#8230;'
+title: 'en boca cerrada...'
 date: '2009-11-16T01:17:54+00:00'
 author: blog
 layout: post

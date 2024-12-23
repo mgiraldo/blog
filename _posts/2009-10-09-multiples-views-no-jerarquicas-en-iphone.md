@@ -13,7 +13,7 @@ categories:
     - tips
 ---
 
-<object classid="clsid:02bf25d5-8c17-4b23-bc80-d3488abddc6b" codebase="http://www.apple.com/qtactivex/qtplugin.cab#version=6,0,2,0" height="380" style="width: 192px; height: 380px;" width="192"><param name="src" value="/wp-content/uploads/2009/10/InfiniteViews1.mov"></param><param name="align" value="right"></param><embed align="right" height="380" src="/wp-content/uploads/2009/10/InfiniteViews1.mov" style="width: 192px; height: 380px;" type="video/quicktime" width="192"></embed></object>
+<embed align="right" height="380" src="/wp-content/uploads/2009/10/InfiniteViews1.mov" style="width: 192px; height: 380px;" type="video/quicktime" width="192">
 
 *(English version at the bottom of this post)*
 

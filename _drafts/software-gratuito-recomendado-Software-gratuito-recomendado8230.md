@@ -1,6 +1,6 @@
 ---
 id: 20
-title: 'Software gratuito recomendado&#8230;'
+title: 'Software gratuito recomendado...'
 date: '2007-01-30T18:16:11+00:00'
 author: blog
 layout: page

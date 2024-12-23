@@ -12,7 +12,7 @@ categories:
     - visualización
 ---
 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="150" width="500"><param name="src" value="http:/wp-content/uploads/2009/10/weasel.swf"></param><embed height="150" src="http:/wp-content/uploads/2009/10/weasel.swf" type="application/x-shockwave-flash" width="500"></embed></object>
+<embed height="150" src="http:/wp-content/uploads/2009/10/weasel.swf" type="application/x-shockwave-flash" width="500">
 
 [Inventando el agua que moja](http://en.wikipedia.org/wiki/Weasel_program)
 

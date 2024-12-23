@@ -32,7 +32,7 @@ mencionar el video de fingerboarding que puse antes: http://www.mauriciogiraldo.
 
 Campaña “Claim it!” de Element:
 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="225" width="400"><param name="allowfullscreen" value="true"></param><param name="allowscriptaccess" value="always"></param><param name="src" value="http://www.vimeo.com/moogaloop.swf?clip_id=2922930&server=www.vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1"></param><embed allowfullscreen="true" allowscriptaccess="always" height="225" src="http://www.vimeo.com/moogaloop.swf?clip_id=2922930&server=www.vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1" type="application/x-shockwave-flash" width="400"></embed></object>
+<embed allowfullscreen="true" allowscriptaccess="always" height="225" src="http://www.vimeo.com/moogaloop.swf?clip_id=2922930&server=www.vimeo.com&show_title=1&show_byline=1&show_portrait=0&color=&fullscreen=1" type="application/x-shockwave-flash" width="400">
 
 touch grind: http://technabob.com/blog/2008/09/10/touch-grind-iphone-gets-multitouch-skateboarding-game/
 

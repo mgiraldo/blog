@@ -35,7 +35,7 @@ En los juegos de video el desgaste es realismo: las cosas en el juego se pueden 
 
 Cerrando con algo totalmente ajeno al ecodiseño, y por si alguna vez han jugado (o escuchado de) [Doom](http://en.wikipedia.org/wiki/Doom "Doom en Wikipedia"):
 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="350" width="425"><param name="src" value="http://www.youtube.com/v/a89yRqqK1T8"></param><param name="wmode" value="transparent"></param><embed height="350" src="//www.youtube.com/v/a89yRqqK1T8" type="application/x-shockwave-flash" width="425" wmode="transparent"></embed></object>  
+<embed height="350" src="//www.youtube.com/v/a89yRqqK1T8" type="application/x-shockwave-flash" width="425" wmode="transparent">  
 \[vía [Gizmodo](http://www.gizmodo.com)\]
 
 *Tenía* que poner ese video. 🙂

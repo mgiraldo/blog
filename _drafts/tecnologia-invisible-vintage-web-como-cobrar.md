@@ -22,7 +22,7 @@ I live near Orlando, Florida with my beautiful family – my wife Rebekka and ou
 
 vintage web:
 
-<object allowfullscreen="true" data="http://blip.tv/scripts/flash/showplayer.swf?enablejs=true&feedurl=http%3A%2F%2Fwaxy%2Eblip%2Etv%2Frss&file=http%3A%2F%2Fblip%2Etv%2Frss%2Fflash%2F758928&showplayerpath=http%3A%2F%2Fblip%2Etv%2Fscripts%2Fflash%2Fshowplayer%2Eswf" height="255" id="showplayer" type="application/x-shockwave-flash" width="400"><param name="movie" value="http://blip.tv/scripts/flash/showplayer.swf?enablejs=true&feedurl=http%3A%2F%2Fwaxy%2Eblip%2Etv%2Frss&file=http%3A%2F%2Fblip%2Etv%2Frss%2Fflash%2F758928&showplayerpath=http%3A%2F%2Fblip%2Etv%2Fscripts%2Fflash%2Fshowplayer%2Eswf"></param><param name="quality" value="best"></param><embed height="255" name="showplayer" quality="best" src="http://blip.tv/scripts/flash/showplayer.swf?enablejs=true&feedurl=http%3A%2F%2Fwaxy%2Eblip%2Etv%2Frss&file=http%3A%2F%2Fblip%2Etv%2Frss%2Fflash%2F758928&showplayerpath=http%3A%2F%2Fblip%2Etv%2Fscripts%2Fflash%2Fshowplayer%2Eswf" type="application/x-shockwave-flash" width="400"></embed></object>
+<embed height="255" name="showplayer" quality="best" src="http://blip.tv/scripts/flash/showplayer.swf?enablejs=true&feedurl=http%3A%2F%2Fwaxy%2Eblip%2Etv%2Frss&file=http%3A%2F%2Fblip%2Etv%2Frss%2Fflash%2F758928&showplayerpath=http%3A%2F%2Fblip%2Etv%2Fscripts%2Fflash%2Fshowplayer%2Eswf" type="application/x-shockwave-flash" width="400">
 
 > When we price out a project we not only price out what we know about the project, but also detail what we don’t know. We come up with worst-case scenarios, address risks, point out all the things we think could impact meeting the goals of the project.
 > 

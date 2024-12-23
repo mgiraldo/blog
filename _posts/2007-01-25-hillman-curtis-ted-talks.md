@@ -1,6 +1,6 @@
 ---
 id: 6
-title: 'Hillman Curtis, TED Talks&#8230;'
+title: 'Hillman Curtis, TED Talks...'
 date: '2007-01-25T09:26:13+00:00'
 author: blog
 layout: post

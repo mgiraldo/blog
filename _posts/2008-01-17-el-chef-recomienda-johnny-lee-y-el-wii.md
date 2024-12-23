@@ -34,7 +34,7 @@ Varios meses sin publicar acá (un poco distraído en general) pero regreso con 
 
 Entre los proyectos de Lee se destaca el trabajo que hace con el **Nintendo Wii**. Usando la tecnología presente en el control del Wii, Lee ha creado desde interfases similares a las que se vieron en la película Minority Report, hasta ambientes inmersivos tridimensionales. Lee [documenta sus proyectos Wii en su sitio web](http://www.cs.cmu.edu/~johnny/projects/wii/). El software requerido para uno implementar esas interfases, si es que tiene un Wii, yo tengo el mío :), está **disponible para descarga**. Sin embargo lo que más descresta es la simplicidad como explica y presenta los proyectos, como se puede ver en el siguiente video:
 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="373" width="425"><param name="wmode" value="transparent"></param><param name="src" value="http://www.youtube.com/v/Jd3-eiid-Uw&rel=1&border=1"></param><embed height="373" src="//www.youtube.com/v/Jd3-eiid-Uw&rel=1&border=1" type="application/x-shockwave-flash" width="425" wmode="transparent"></embed></object>  
+<embed height="373" src="//www.youtube.com/v/Jd3-eiid-Uw&rel=1&border=1" type="application/x-shockwave-flash" width="425" wmode="transparent">  
 vía [Gizmodo](http://gizmodo.com/337068/wii-headtracking-creates-3d-window-display)
 
 Hay otro [video de la interfaz tipo Minority Report](http://youtube.com/watch?v=0awjPUkBXOU), un [video de un pizarrón electrónico](http://youtube.com/watch?v=5s5EvhHy7eQ) y [un impresionante video de pantallas plegables](http://youtube.com/watch?v=nhSR_6-Y5Kg), todos muy recomendados.

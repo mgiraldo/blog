@@ -116,7 +116,9 @@ Nous devons convertir notre tableau en un objet GeoJSON, puis remplacer les vale
 
 Ouvrez donc [GeoJSON.io](http://geojson.io/) dans une nouvelle fenêtre de votre navigateur. Vous verrez la carte par défaut, sans aucun zoom. Maintenant, bricolons un peu. Faites un clic droit n’importe où sur la carte, et choisissez `Examiner l’élément` (`Inspect Element` en anglais):
 
-<figure class="wp-block-image">![Right-Click -/> Inspect Element](https://i.imgur.com/EIqHCRu.gif)</figure>Clic droit→ Examiner l’élément*
+<figure markdown="1" class="wp-block-image">
+![Right-Click -/> Inspect Element](https://i.imgur.com/EIqHCRu.gif)
+</figure>Clic droit→ Examiner l’élément*
 
 Ceci ouvrira un affichage avancé permettant de lire et de modifier le code de la page vue (ici, l’interface cartographique). GeoJSON.io comprend une interface de programmation (API) pour contrôler la carte affichée. Le noyau du site est [MapBoxJS](https://www.mapbox.com/mapbox.js/), lui-même construit sur [Leaflet](http://leafletjs.com/), une “bibliothèque JavaScript open-source pour des cartes interactives adaptées aux mobiles”. Je mentionne les deux, puisque, la plupart du temps, ce qui fonctionne dans l’un fonctionne dans l’autre (documentez-vous bien avant de choisir!), et j’utiliserai le terme Leaflet au lieu de MapBoxJS.
 
@@ -160,11 +162,17 @@ Les points indiqués dans notre CSV sont tous localisés les uns sur les autres,
 
 Il est relativement facile de trouver les adresses puisque les coins de chaque pâté de maisons indiquent les numéros des immeubles correspondants. La numérotation des “carreras” (rues verticales) va du sud vers le nord, et se répartit entre pairs à l’ouest et impairs à l’est ; alors que celle des “calles” (rues horizontales) va de l’est à l’ouest, avec les numéros pairs au nord et impairs au sud:
 
-<figure class="wp-block-image">![Address numbers](https://i.imgur.com/RAQxw8q.gif)</figure>Plaçons-nous sur une adresse approximative, en nous repérant sur les coins de rues. Pour ce faire, ouvrez le mode édition en cliquant sur l’icône
+<figure markdown="1" class="wp-block-image">
+![Address numbers](https://i.imgur.com/RAQxw8q.gif)
+</figure>Plaçons-nous sur une adresse approximative, en nous repérant sur les coins de rues. Pour ce faire, ouvrez le mode édition en cliquant sur l’icône
 
-<figure class="wp-block-image">![Edit icon](https://i.imgur.com/52FWtfw.png)</figure>Les marqueurs sont encadrés en rose, et vous pouvez les déplacer. Placez-les à l’endroit voulu, cliquez sur “Save” pour enregistrer les modifications:
+<figure markdown="1" class="wp-block-image">
+![Edit icon](https://i.imgur.com/52FWtfw.png)
+</figure>Les marqueurs sont encadrés en rose, et vous pouvez les déplacer. Placez-les à l’endroit voulu, cliquez sur “Save” pour enregistrer les modifications:
 
-<figure class="wp-block-image">![Moving points around](https://i.imgur.com/LEfv82X.gif)</figure>Certaines adresses sont délicates à placer, mais il est plaisant de pouvoir se perdre ainsi dans le Bogota de 1891.
+<figure markdown="1" class="wp-block-image">
+![Moving points around](https://i.imgur.com/LEfv82X.gif)
+</figure>Certaines adresses sont délicates à placer, mais il est plaisant de pouvoir se perdre ainsi dans le Bogota de 1891.
 
 Vous remarquerez que sur cette carte les bâtiments gouvernementaux portent les couleurs du [drapeau colombien](https://fr.wikipedia.org/wiki/Drapeau_de_la_Colombie). Quand on place [Rafael Núñez Moledo](https://fr.wikipedia.org/wiki/Rafael_N%C3%BA%C3%B1ez), le président en exercice à cette date, son adresse correspond à un de ces bâtiments, la [Casa de Nariño](https://fr.wikipedia.org/wiki/Casa_de_Nari%C3%B1o).
 
@@ -178,7 +186,9 @@ Nous voulons comparer cette carte de 1891 avec le Bogota d’aujourd’hui, afin
 
 Quand vous aurez fini, notez bien l’identifiant de la carte (“Map ID”), qui se présentera sur le modèle `username.k53dp4io`. La page “Projects” de MapBox permet de voir toutes vos cartes et de copier directement les identifiants dans votre presse-papiers:
 
-<figure class="wp-block-image">![MapBox Map ID](https://i.imgur.com/se6Hmtd.png)</figure>> **Note:** Si vous ne voulez pas créer votre propre carte personnalisée, je donnerai plus loin un exemple de MapBox ID.
+<figure markdown="1" class="wp-block-image">
+![MapBox Map ID](https://i.imgur.com/se6Hmtd.png)
+</figure>> **Note:** Si vous ne voulez pas créer votre propre carte personnalisée, je donnerai plus loin un exemple de MapBox ID.
 
 ### 4) Assemblage final
 
@@ -388,7 +398,9 @@ var geolayer = L.geoJson(geodata, {onEachFeature: showPopup});
 
 Si vous chargez la carte et cliquez sur un repère, vous verrez quelque chose comme cela:
 
-<figure class="wp-block-image">![A popup!](https://i.imgur.com/gz58uZb.png)</figure>C’est déjà très bien, mais ce serait encore mieux en affichant la photo, et en liant le numéro de page à l’annuaire numérisé. C’est ce que nous allons faire. Remplacez la fonction `showPopup` par celle-ci:
+<figure markdown="1" class="wp-block-image">
+![A popup!](https://i.imgur.com/gz58uZb.png)
+</figure>C’est déjà très bien, mais ce serait encore mieux en affichant la photo, et en liant le numéro de page à l’annuaire numérisé. C’est ce que nous allons faire. Remplacez la fonction `showPopup` par celle-ci:
 
 ```
 function showPopup(feature, layer) {
@@ -411,7 +423,9 @@ Nous avons juste ajouté une action sous condition : si `key` est égal à “Pa
 
 Voici à quoi ressemble M. Núñez maintenant:
 
-<figure class="wp-block-image">![Rafael Núñez bio](https://i.imgur.com/0LFioyt.png)</figure>…tout à fait présidentiel!
+<figure markdown="1" class="wp-block-image">
+![Rafael Núñez bio](https://i.imgur.com/0LFioyt.png)
+</figure>…tout à fait présidentiel!
 
 Et nous en avons fini!
 

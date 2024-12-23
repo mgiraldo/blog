@@ -1,6 +1,6 @@
 ---
 id: 8
-title: 'Soundflavor, las obras completas de Charles Darwin&#8230;'
+title: 'Soundflavor, las obras completas de Charles Darwin...'
 date: '2007-01-25T09:28:18+00:00'
 author: blog
 layout: post

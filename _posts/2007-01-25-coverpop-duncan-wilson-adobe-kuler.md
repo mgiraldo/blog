@@ -1,6 +1,6 @@
 ---
 id: 10
-title: 'Coverpop, Duncan Wilson, Adobe Kuler&#8230;'
+title: 'Coverpop, Duncan Wilson, Adobe Kuler...'
 date: '2007-01-25T09:32:41+00:00'
 author: blog
 layout: post

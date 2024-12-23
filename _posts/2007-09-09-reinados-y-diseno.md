@@ -19,11 +19,11 @@ categories:
 
 Todos (los colombianos por lo menos… y aquellos que lo recibieron por internet) conocemos el tristemente célebre video de la Señorita Guainía 1999 Yeris Paola Sepúlveda:
 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="350" width="425"><param name="src" value="http://www.youtube.com/v/c--qgp-narY"></param><param name="wmode" value="transparent"></param><embed height="350" src="http://www.youtube.com/v/c--qgp-narY" type="application/x-shockwave-flash" width="425" wmode="transparent"></embed></object>
+<embed height="350" src="http://www.youtube.com/v/c--qgp-narY" type="application/x-shockwave-flash" width="425" wmode="transparent">
 
 La Señorita Guainía no tiene la culpa de no saber inglés… tratando de quedar bien y ganar algo de puntos, finalmente cedió ante la prensa. Ahora es el turno de Lauren Caitlin Upton, aspirante a Miss Teen EE.UU.:
 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="350" width="425"><param name="src" value="http://www.youtube.com/v/lj3iNxZ8Dww"></param><param name="wmode" value="transparent"></param><embed height="350" src="http://www.youtube.com/v/lj3iNxZ8Dww" type="application/x-shockwave-flash" width="425" wmode="transparent"></embed></object>
+<embed height="350" src="http://www.youtube.com/v/lj3iNxZ8Dww" type="application/x-shockwave-flash" width="425" wmode="transparent">
 
 Aparecen nuevamente las reacciones esperadas (no es que me la pase leyendo noticias de farándula… ejem… bueno no tanto como parece), entre las cuales encontré dos que me llamaron la atención y quise incluir acá por venir de diseñadores reconocidos. Primero Debbie Millman (Sterling Brands, School of Visual Arts, AIGA EE.UU.) en [una columna para A Brief Message](http://www.abriefmessage.com/2007/09/06/millman/ "leer columna completa"):
 

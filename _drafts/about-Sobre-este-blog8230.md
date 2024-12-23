@@ -1,6 +1,6 @@
 ---
 id: 1017
-title: 'Sobre este blog&#8230;'
+title: 'Sobre este blog...'
 date: '2007-01-24T19:33:33+00:00'
 author: blog
 layout: page

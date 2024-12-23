@@ -28,7 +28,7 @@ I will be sending the game to the App Store in a few weeks so [you should contac
 
 A (very) crude version of the game circa august 2009. I know it’s *very* simple but I like to see how much it has progressed since then… although you will never know if you don’t see the game 😉 :
 
-<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" data="http://www.flickr.com/apps/video/stewart.swf?v=71377" height="300" type="application/x-shockwave-flash" width="400"><param name="flashvars" value="intl_lang=en-us&photo_secret=9dddbca2c8&photo_id=3850309948"></param><param name="movie" value="http://www.flickr.com/apps/video/stewart.swf?v=71377"></param><param name="bgcolor" value="#000000"></param><param name="allowFullScreen" value="true"></param><embed allowfullscreen="true" bgcolor="#000000" flashvars="intl_lang=en-us&photo_secret=9dddbca2c8&photo_id=3850309948" height="300" src="//www.flickr.com/apps/video/stewart.swf?v=71377" type="application/x-shockwave-flash" width="400"></embed></object>
+<embed allowfullscreen="true" bgcolor="#000000" flashvars="intl_lang=en-us&photo_secret=9dddbca2c8&photo_id=3850309948" height="300" src="//www.flickr.com/apps/video/stewart.swf?v=71377" type="application/x-shockwave-flash" width="400">
 
 **Buscando *beta* *testers* para juego de iPhone/iPod Touch**<a name="betaespanol"> </a>
 

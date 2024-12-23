@@ -1,6 +1,6 @@
 ---
 id: 12
-title: 'Pasando de Fireworks a CSS&#8230;'
+title: 'Pasando de Fireworks a CSS...'
 date: '2007-01-25T09:34:04+00:00'
 author: blog
 layout: post

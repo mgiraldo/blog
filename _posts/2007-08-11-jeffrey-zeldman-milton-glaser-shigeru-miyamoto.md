@@ -39,7 +39,7 @@ Posiblemente conozcan el logo arriba. Fue diseñado por **[Milton Glaser](http:/
 
 Siguiendo con el *feeling* existencialista de la charla de Glaser está este divertido video/animación creado por [Clemens Kogler](http://www.clemenskogler.net/ "sitio web personal"), diseñador austriaco de 25 años, que es una rara combinación entre Nietzsche y PowerPoint:
 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="350" width="425"><param name="src" value="http://www.youtube.com/v/lWWKBY7gx_0"></param><param name="wmode" value="transparent"></param><embed height="350" src="//www.youtube.com/v/lWWKBY7gx_0" type="application/x-shockwave-flash" width="425" wmode="transparent"></embed></object>
+<embed height="350" src="//www.youtube.com/v/lWWKBY7gx_0" type="application/x-shockwave-flash" width="425" wmode="transparent">
 
 ![Super Mario © Nintendo](/wp-content/uploads/2007/08/mario.gif)
 
@@ -51,4 +51,4 @@ Si reconocen el personaje de arriba conocen el trabajo de **[Shigeru Miyamoto](h
 
 Para terminar, el primer trabajo de CombatTV (un grupo al cual pertenecen estudiantes y profesores del Departamento de Arte de la Universidad de los Andes) que se inspira y hace homenaje a Game Over (sí… de este también se ha [hecho mención acá](http://www.mauriciogiraldo.com/blog/2007/04/03/ze-frank-caratulas-juegos-de-video/ "mga/blog: Ze Frank, carátulas, juegos de video")). En este caso se trata de Breakout, un conocido juego de video de los ochentas:
 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="350" width="425"><param name="src" value="http://www.youtube.com/v/hoAIOOdtaG8"></param><param name="wmode" value="transparent"></param><embed height="350" src="//www.youtube.com/v/hoAIOOdtaG8" type="application/x-shockwave-flash" width="425" wmode="transparent"></embed></object>
+<embed height="350" src="//www.youtube.com/v/hoAIOOdtaG8" type="application/x-shockwave-flash" width="425" wmode="transparent">

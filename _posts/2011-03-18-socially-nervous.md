@@ -40,7 +40,7 @@ The stimulus is always represented in the 5×7 matrix as an icon followed by the
 
 A video of the behaviors working (indirect stimulus received via Bluetooth from a computer not in video). Initial/passive message was later changed to “please hug me”:
 
- <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" data="http://www.flickr.com/apps/video/stewart.swf?v=71377" height="210" type="application/x-shockwave-flash" width="280"><param name="flashvars" value="intl_lang=en-us&photo_secret=1da017c9a9&photo_id=5249779670"></param><param name="movie" value="http://www.flickr.com/apps/video/stewart.swf?v=71377"></param><param name="bgcolor" value="#000000"></param><param name="allowFullScreen" value="true"></param><embed allowfullscreen="true" bgcolor="#000000" flashvars="intl_lang=en-us&photo_secret=1da017c9a9&photo_id=5249779670" height="210" src="//www.flickr.com/apps/video/stewart.swf?v=71377" type="application/x-shockwave-flash" width="280"></embed></object>
+ <embed allowfullscreen="true" bgcolor="#000000" flashvars="intl_lang=en-us&photo_secret=1da017c9a9&photo_id=5249779670" height="210" src="//www.flickr.com/apps/video/stewart.swf?v=71377" type="application/x-shockwave-flash" width="280">
 
 **Part list**
 

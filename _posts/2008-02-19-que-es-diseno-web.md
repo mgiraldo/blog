@@ -39,7 +39,7 @@ Si no tuvo la oportunidad de ver esos sitios web como eran hace 10 años no se p
 
 Hoy día no nos libramos de esas “modas de diseño web”: ahora se habla de una tal Web 2.0 y un tal AJAX (y no es el héroe mitológico ni el detergente) y que en realidad no son más que apodos (también conocidos como *[buzzwords](http://www.tfd.com/buzzword)*) a estilos de diseño, tecnologías o metodologías que existen desde hace rato (más de diez años en el caso de AJAX). No pongo links intencionalmente :). Al parecer no soy el único que detesta (sí, detesta) la compulsividad de algunos a reempaquetar conceptos/ideas/modas en “nuevos e innovadores” conceptos y de otros de seguirlos ciegamente: en 2007 se llevó a cabo la charla [Destroy The Web 2.0 Look](http://elliotjaystocks.com/blog/archive/2007/destroy-the-web-20-look-future-of-web-design-new-york/):
 
-<div id="__ss_160068" style="width: 425px; text-align: left;"><object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="355" style="margin:0px" width="425"><param name="allowFullScreen" value="true"></param><param name="allowScriptAccess" value="always"></param><param name="src" value="http://static.slideshare.net/swf/ssplayer2.swf?doc=fowd-november-2007-1194556763131314-1"></param><param name="allowfullscreen" value="true"></param><embed allowfullscreen="true" allowscriptaccess="always" height="355" src="//static.slideshare.net/swf/ssplayer2.swf?doc=fowd-november-2007-1194556763131314-1" style="margin:0px" type="application/x-shockwave-flash" width="425"></embed></object></div>Lialina tiene también un artículo sobre la “nueva generación web”, aptamente llamado *[La web vernácula 2](http://contemporary-home-computing.org/vernacular-web-2/)* que también vale la pena leer.
+<div id="__ss_160068" style="width: 425px; text-align: left;"><embed allowfullscreen="true" allowscriptaccess="always" height="355" src="//static.slideshare.net/swf/ssplayer2.swf?doc=fowd-november-2007-1194556763131314-1" style="margin:0px" type="application/x-shockwave-flash" width="425"></div>Lialina tiene también un artículo sobre la “nueva generación web”, aptamente llamado *[La web vernácula 2](http://contemporary-home-computing.org/vernacular-web-2/)* que también vale la pena leer.
 
 Pero el problema sigue ahí: **aún no sabemos qué es “diseño web”**. [Wikipedia hace un intento](http://en.wikipedia.org/wiki/Web_design) pero se queda en una definición técnica. Recientemente encontré un [artículo de Jeffrey Zeldman](http://alistapart.com/articles/understandingwebdesign) que podría ser lo que buscamos:
 
@@ -59,7 +59,7 @@ Mi traducción: **el diseño web es la creación de ambientes digitales que faci
 
 Para terminar, ya que estamos en eso de las definiciones, veamos qué dice Paul Rand (logo de IBM y UPS entre otros) sobre su definición de diseño:
 
-<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,40,0" height="355" width="425"><param name="wmode" value="transparent"></param><param name="src" value="http://www.youtube.com/v/4yOjts0tpco&rel=1&border=0"></param><embed height="355" src="//www.youtube.com/v/4yOjts0tpco&rel=1&border=0" type="application/x-shockwave-flash" width="425" wmode="transparent"></embed></object>
+<embed height="355" src="//www.youtube.com/v/4yOjts0tpco&rel=1&border=0" type="application/x-shockwave-flash" width="425" wmode="transparent">
 
 Links relacionados en este mismo blog:
 
