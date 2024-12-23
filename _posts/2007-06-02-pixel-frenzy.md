@@ -33,7 +33,7 @@ Para quienes gusten de los píxeles, hay otros videos en [este otro post](http:/
 
 **Actualización 2:** Los Pet Shop Boys ahora tienen un video que usa una técnica muy similar a la de Modest Mouse (aunque en este se nota el pre$upue$to) \[[vía](http://www.we-make-money-not-art.com/)\]:
 
-[![Pet Shop Boys - Integral](/wp-content/uploads/2007/10/psb_code.jpg)](http://www.therumpusroom.tv/integral/rgb.html)
+[![Pet Shop Boys - Integral](/blog/wp-content/uploads/2007/10/psb_code.jpg)](http://www.therumpusroom.tv/integral/rgb.html)
 
 Los PSB han sido críticos de las recientes políticas de una tarjeta de identificación ciudadana única y obligatoria en el Reino Unido. [Integral](http://www.petshopboys.co.uk/integral-project/) es el nombre que pusieron a una canción que critica dicha iniciativa:
 

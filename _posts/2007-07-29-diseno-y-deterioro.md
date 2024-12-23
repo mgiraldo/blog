@@ -19,7 +19,7 @@ categories:
 
 Por lo general en diseño cuando se habla de diseñar para la vida útil de un producto se usan términos como [Life Cycle Assesment](http://www.pre.nl/life_cycle_assessment/default.htm "LCA según PRé Consultants") o [ecodiseño](http://www.pre.nl/ecodesign/ecodesign.htm "Ecodesign según PRé Consultants"). Este post no tiene nada que ver con eso, sino con la “buena vejez” de un diseño: así como toda cicatriz está acompañada de una historia y puede hacer que una persona sea “más interesante”, algunos objetos adquieren “belleza” a medida que los usamos.
 
-[![Los Converse mejoran con el tiempo](/wp-content/uploads/2007/07/converse.jpg)](http://www.flickr.com/photos/kk/98601059/ "Tomada de Flickr - Algunos derechos reservados")
+[![Los Converse mejoran con el tiempo](/blog/wp-content/uploads/2007/07/converse.jpg)](http://www.flickr.com/photos/kk/98601059/ "Tomada de Flickr - Algunos derechos reservados")
 
 Estos objetos *necesitan* estar deteriorados para verse bien, como se evidencia en la foto arriba. Unos Converse recién comprados no son lo mismo. Khoi Vinh ([mencionado](http://www.mauriciogiraldo.com/blog/2007/05/11/larga-vida-a-helvetica/ "mga/blog: Larga vida a Helvetica") [anteriormente](http://www.mauriciogiraldo.com/blog/2007/04/19/la-reticula-es-tu-amiga/ "mga/blog: La retícula es tu amiga") acá) tiene [un artículo muy interesante](http://www.subtraction.com/archives/2007/0716_designed_det.php "Designed Deterioration en Subtraction") sobre lo que el llama “diseño para el deterioro”:
 
@@ -29,7 +29,7 @@ Empresas como Levi’s, Diesel y Guess ropa han capitalizado esto creando un “
 
 El deterioro también genera credibilidad: una película de ciencia ficción con naves espaciales recién salidas del concesionario no es tan interesante. George Lucas sabía esto y por eso en Star Wars las maquetas (y luego los modelos en computador) tienen toda clase de rayones/imperfecciones/manchas que las hacen más reales (aunque yo prefiero las “primeras” tres… más exactamente la “segunda”, [El Imperio Contraataca](http://www.imdb.com/title/tt0080684/ "El Imperio Contraataca en IMDb")):
 
-[![Imperial Walker - © 1980, 1997, 2004 Lucasfilm Ltd. All Rights Reserved.](/wp-content/uploads/2007/07/atat.jpg)](http://en.wikipedia.org/wiki/Image:Battlehothesb.JPG "Imperial Walker - Tomada de Wikipedia © 1980, 1997, 2004 Lucasfilm Ltd. All Rights Reserved.")
+[![Imperial Walker - © 1980, 1997, 2004 Lucasfilm Ltd. All Rights Reserved.](/blog/wp-content/uploads/2007/07/atat.jpg)](http://en.wikipedia.org/wiki/Image:Battlehothesb.JPG "Imperial Walker - Tomada de Wikipedia © 1980, 1997, 2004 Lucasfilm Ltd. All Rights Reserved.")
 
 En los juegos de video el desgaste es realismo: las cosas en el juego se pueden golpear, ensuciar, destruir, haciendo del juego una experiencia más inmersiva. Esa suciedad tiene un costo: hay mucha computación involucrada. El PlayStation 3, la consola más avanzada en ese sentido, permite crear juegos donde, por ejemplo, [el barro se convierte en una ventaja táctica](http://www.wired.com/wired/archive/15.04/play.html?pg=5 "Ridin’ Dirty en Wired") en una carrera.
 

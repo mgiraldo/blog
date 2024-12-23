@@ -25,7 +25,7 @@ Tres reconocidos personajes representando tres mundos diferentes:
 
 **[Jeffrey Zeldman](http://www.zeldman.com/ "sitio web oficial")** — mejor conocido por su revista web [A List Apart](http://www.alistapart.com/ "sitio web oficial"), ha sido [nombrado *King of Web Standards*](http://www.businessweek.com/innovate/content/aug2007/id2007086_670396.htm) (rey de los estándares web) por la revista BusinessWeek. Zeldman se convirtió en una celebridad luego de escribir *[Designing with web standards](http://www.amazon.com/gp/redirect.html?ie=UTF8&location=http%3A%2F%2Fwww.amazon.com%2FDesigning-Web-Standards-Jeffrey-Zeldman%2Fdp%2F0321385551&tag=maurigiral-20&linkCode=ur2&camp=1789&creative=9325)* en el 2003. Como cofundador del [Web Standards Project](http://www.webstandards.org/ "sitio web oficial") Zeldman contribuyó a la creación de estándares sobre los cuales se deberían crear los navegadores web: sin un estándar, empresas como Microsoft y Netscape creaban los navegadores que les daba la gana (algo como “mi navegador hace esto que el otro no hace… usa mi navegador”) y los diseñadores/desarrolladores web nos veíamos obligados a crear múltiples versiones de los sitios web (algo que todavía sucede pero en un menor grado… aunque ¿alguien ha podido ver [Yahoo! Music](http://music.yahoo.com/ "la emisora aún no funciona en Firefox") en Firefox?). Recomiendo [ver el slideshow que acompaña el artículo](http://images.businessweek.com/ss/07/08/0806_zeldman_2/index_01.htm).
 
-![I LOVE NY](/wp-content/uploads/2007/08/glaser.jpg)
+![I LOVE NY](/blog/wp-content/uploads/2007/08/glaser.jpg)
 
 Posiblemente conozcan el logo arriba. Fue diseñado por **[Milton Glaser](http://miltonglaser.com/)**, uno de los más importantes e influyentes diseñadores gráficos (y de quien ya se había [hecho mención acá](http://www.mauriciogiraldo.com/blog/2007/01/25/hillman-curtis-ted-talks/ "mga/blog: Hillman Curtis - Ted Talks")). La revista Foro Alfa tiene en su más reciente número digital una [transcripción de una charla](http://www.foroalfa.com/A.php/Diez_cosas_que_aprendi/103 "Diez Cosas Que Aprendí - Milton Glaser en Foro Alfa") que Glaser, ya por sus 78 años, dió a la AIGA en Londres llamada “Diez cosas que aprendí”. Algunos apartes:
 
@@ -41,7 +41,7 @@ Siguiendo con el *feeling* existencialista de la charla de Glaser está este div
 
 <embed height="350" src="//www.youtube.com/v/lWWKBY7gx_0" type="application/x-shockwave-flash" width="425" wmode="transparent">
 
-![Super Mario © Nintendo](/wp-content/uploads/2007/08/mario.gif)
+![Super Mario © Nintendo](/blog/wp-content/uploads/2007/08/mario.gif)
 
 Si reconocen el personaje de arriba conocen el trabajo de **[Shigeru Miyamoto](http://en.wikipedia.org/wiki/Shigeru_Miyamoto "Shigeru Miyamoto en Wikipedia")**. Este japonés es el padre de Mario, Donkey Kong, Zelda y demás personajes y juegos de Nintendo. Es la cabeza detrás del enormemente exitoso Wii (del cual se ha hecho [mención anteriormente acá](http://www.mauriciogiraldo.com/blog/2007/01/30/wii-rule/ "mga/blog: Wii rule")). Fue nombrado caballero de la Legión de Honor por el gobierno francés y recientemente El Mundo de España [publicó una entrevista](http://www.elmundo.es/suplementos/magazine/2007/410/1186053889.html "En Japón le idolatran más que a David Beckham - El Mundo") con él \[[vía](http://we-make-money-not-art.com/ "We make money not art")\]:
 

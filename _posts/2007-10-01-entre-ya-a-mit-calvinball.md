@@ -22,7 +22,7 @@ En realidad esos links llevan al examen de entrada a MIT para los años 1869-70:
 
 En contraste, durante el período 2006-2007 MIT contaba con 4,127 estudiantes de pregrado y 6,126 de posgrado. MIT fue fundado en 1865 y para 1871 ya recibían estudiantes mujeres. [Otras estadísticas interesantes se pueden encontrar acá](http://web.mit.edu/facts/).
 
-[![Calvin & Hobbes © Bill Watterson - Universal Press Syndicate](/wp-content/uploads/2007/10/calvinball.gif)](http://www.simplych.com/cb_rules.htm)
+[![Calvin & Hobbes © Bill Watterson - Universal Press Syndicate](/blog/wp-content/uploads/2007/10/calvinball.gif)](http://www.simplych.com/cb_rules.htm)
 
 **Las reglas de *Calvinball***
 

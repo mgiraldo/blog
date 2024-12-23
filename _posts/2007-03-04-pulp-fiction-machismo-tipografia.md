@@ -14,7 +14,7 @@ categories:
     - video
 ---
 
-![Herbert Bayer - Kandinsky](/wp-content/uploads/2007/03/bayer.jpg)  
+![Herbert Bayer - Kandinsky](/blog/wp-content/uploads/2007/03/bayer.jpg)  
 **Kandinsky** Cartel por Herbert Bayer  
 ©2003 [ARS](http://www.arsny.com/)
 
@@ -24,7 +24,7 @@ La tipografí­a juega un papel fundamental en la comunicación de un texto. Par
 
 Kurt Schwitters, uno de sus exponentes, alternaba su obra dadaí­sta con proyectos publicitarios y, junto con Laszlo Moholy-Nagy, Jan Tsichold, El Lissitzky, Herbert Bayer y otros, da inicio a lo que luego se conocerá como diseño gráfico. A partir de la experimentación con la retí­cula tipográfica se genera un nuevo lenguaje visual que alimenta otras disciplinas del diseño.
 
-[![Kurt Schwitters - Merz](/wp-content/uploads/2007/03/merz.jpg)  ](http://www.mauriciogiraldo.com/blog/2007/03/04/pulp-fiction-machismo-tipografia/kurt-schwitters-merz/ "Kurt Schwitters - Merz")
+[![Kurt Schwitters - Merz](/blog/wp-content/uploads/2007/03/merz.jpg)  ](http://www.mauriciogiraldo.com/blog/2007/03/04/pulp-fiction-machismo-tipografia/kurt-schwitters-merz/ "Kurt Schwitters - Merz")
 
 A continuación algunos ejemplos del uso de tipografía en video:
 
@@ -32,7 +32,7 @@ Famoso diálogo de Pulp Fiction:
 \[youtube syf8olcM0z4 nolink\]\[ví­a [37 signals](http://www.37signals.com/svn/posts/298-animation-of-a-samuel-l-jackson-pulp-fiction-speech-in-type)\]
 
 Video de [MK12](http://media2.mk12.com/v6/mk12_v6_index.html "sitio web MK12") de una [conversación sobre el machismo en Brasil](http://media2.mk12.com/v5_qt_html/2003/brazil.html "clic para ver el video") que alterna imágenes vectoriales con texto:  
-[![MK12 - Machismo](/wp-content/uploads/2007/03/mk12.jpg)](http://media2.mk12.com/v5_qt_html/2003/brazil.html "clic para ver el video")
+[![MK12 - Machismo](/blog/wp-content/uploads/2007/03/mk12.jpg)](http://media2.mk12.com/v5_qt_html/2003/brazil.html "clic para ver el video")
 
 Algunos libros recomendados:
 

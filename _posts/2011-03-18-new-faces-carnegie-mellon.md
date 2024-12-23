@@ -16,7 +16,7 @@ categories:
 
 *–Texto en inglés como parte de [mi estudio en Carnegie Mellon University](http://www.hcii.cmu.edu). Eventualmente haré una versión en español.–*
 
-![](/wp-content/uploads/2011/03/faces.png "faces")
+![](/blog/wp-content/uploads/2011/03/faces.png "faces")
 
 *New Faces* is a project that began in 2009 after I got fed up with Colombia’s online newspapers’ ([one site](http://www.eltiempo.com/), [another site](http://www.elespectador.com/)) high emphasis in sports and celebtrity-related news. I decided to take a screenshot of the offending website and remove this information (along with advertising) in order to see [what was left](http://www.flickr.com/photos/mgiraldo/4083937501/).
 

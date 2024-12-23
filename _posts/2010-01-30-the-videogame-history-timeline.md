@@ -26,7 +26,7 @@ I had the opportunity of creating a history timeline for a client and decided to
 The URL is: <http://www.mauriciogiraldo.com/vgline/beta/>
 
 <figure markdown="1" aria-describedby="caption-attachment-620" class="wp-caption alignnone" id="attachment_620" style="width: 300px">
-[![](/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-29-53-300x190.png "principal")](/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-29-53.png)
+[![](/blog/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-29-53-300x190.png "principal")](/blog/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-29-53.png)
 <figcaption markdown="0" class="wp-caption-text" id="caption-attachment-620">
 clic para ver imagen completa
 </figcaption>
@@ -55,7 +55,7 @@ Presenting this information clearly to the user is rather complicated. *Not to s
 You need to press SPACEBAR in order to see the relationships between events:
 
 <figure markdown="1" aria-describedby="caption-attachment-621" class="wp-caption alignnone" id="attachment_621" style="width: 300px">
-[![](/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-29-57-300x190.png "relations between events")](/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-29-57.png)
+[![](/blog/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-29-57-300x190.png "relations between events")](/blog/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-29-57.png)
 <figcaption markdown="0" class="wp-caption-text" id="caption-attachment-621">
 relations between events
 </figcaption>
@@ -65,7 +65,7 @@ relations between events
 Given that you see *a lot* of relations between events in the default display mode (and even more events are missing from the timeline) I decided to allow the user **to turn on/off event types and relation types**. This way, if I turn off all events except people and games, I can see the screen with less “noise”:
 
 <figure markdown="1" aria-describedby="caption-attachment-622" class="wp-caption alignnone" id="attachment_622" style="width: 300px">
-[![](/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-30-15-300x190.png "people and games")](/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-30-15.png)
+[![](/blog/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-30-15-300x190.png "people and games")](/blog/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-30-15.png)
 <figcaption markdown="0" class="wp-caption-text" id="caption-attachment-622">
 people and games
 </figcaption>
@@ -77,7 +77,7 @@ It’s difficult (maybe even impossible) to plot all events and relations while 
 This is what I see if I turn on *series* and games:
 
 <figure markdown="1" aria-describedby="caption-attachment-623" class="wp-caption alignnone" id="attachment_623" style="width: 300px">
-[![](/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-30-57-300x190.png "game series")](/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-30-57.png)
+[![](/blog/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-30-57-300x190.png "game series")](/blog/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-30-57.png)
 <figcaption markdown="0" class="wp-caption-text" id="caption-attachment-623">
 game series
 </figcaption>
@@ -91,7 +91,7 @@ You can see that [Doom II](http://www.mauriciogiraldo.com/vgline/beta/#/338 "Doo
 Users are lazy (okay, all but you) and if they don’t find what they are looking for in a few seconds they will go somewhere else. Also, in large sets of information (even though the timeline currently has only a few hundred events) it is difficult to predict how a user expects to find some particular data point. This is why the timeline has a search box:
 
 <figure markdown="1" aria-describedby="caption-attachment-624" class="wp-caption alignnone" id="attachment_624" style="width: 300px">
-[![](/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-2-4-28-300x190.png "search results")](/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-2-4-28.png)
+[![](/blog/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-2-4-28-300x190.png "search results")](/blog/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-2-4-28.png)
 <figcaption markdown="0" class="wp-caption-text" id="caption-attachment-624">
 search results for "nintendo"
 </figcaption>

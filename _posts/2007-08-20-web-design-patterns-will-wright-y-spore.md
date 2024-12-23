@@ -25,15 +25,15 @@ categories:
 
 **Un problema de diseño web puede tener muchas soluciones**, no todas necesariamente correctas (lo correcto o apropiado de la solución depende en buena medida del contexto en el que se utiliza). Esto lo había [mencionado antes](http://www.mauriciogiraldo.com/blog/2007/04/03/visualizacion-de-informacion-diseno-de-interfaces-naturaleza-y-codigo/ "mga/blog: Visualización de información, diseño de interfaces, naturaleza y código"), pero vale la pena ampliar. Tomemos, por ejemplo, algo aparentemente muy sencillo: la restricción de acceso a un sitio. ¿Cuándo es el momento apropiado para pedir el *login* del visitante? Algunos sitios web permiten que el usuario los utilice sin exigir un registro a menos que éste quiera interactuar con otros usuarios:
 
-![En Flickr.com el usuario puede ver casi todo el contenido sin necesidad de registrarse](/wp-content/uploads/2007/08/flickr.gif)
+![En Flickr.com el usuario puede ver casi todo el contenido sin necesidad de registrarse](/blog/wp-content/uploads/2007/08/flickr.gif)
 
 … otros, en cambio, excluyen por completo a usuarios nuevos:
 
-![Facebook.com está completamente restringido a usuarios no registrados](/wp-content/uploads/2007/08/facebook.gif)
+![Facebook.com está completamente restringido a usuarios no registrados](/blog/wp-content/uploads/2007/08/facebook.gif)
 
 … y también hay casos donde el tipo de servicio que ofrece el sitio hace obligatoria la identificación del usuario:
 
-![No queremos que otras personas lean nuestro correo en Hotmail.com](/wp-content/uploads/2007/08/hotmail.gif)
+![No queremos que otras personas lean nuestro correo en Hotmail.com](/blog/wp-content/uploads/2007/08/hotmail.gif)
 
 Eso sin tener en cuenta **si es necesario exigir que el usuario se registre** ni los detalles que se pueden ver en las imágenes como el link “¿olvidó su clave?”, la casilla “recordar mi identidad en este computador” y otros elementos que cambian de un sitio a otro. La “respuesta correcta” depende de diferentes factores como el modelo de negocio del sitio, el carácter costo/beneficio de ese paso (o pasos) adicional (suele ser dispendioso registrarse en un sitio web, al punto de perder potenciales usuarios en ese punto a menos que el contenido o servicio que ofrezca sea valioso para el usuario), el tipo de servicio que se ofrece, y más.
 
@@ -53,7 +53,7 @@ Una definición bastante [darwiniana](http://www.mauriciogiraldo.com/blog/2007/0
 
 Adicionalmente está [User Interface Engineering](http://www.uie.com/), una firma de investigación en usabilidad de interfaces. Tienen una gran cantidad de [artículos en el tema](http://www.uie.com/articles/web_forms/).
 
-[![Spore - © 2006 Electronic Arts, Inc.](/wp-content/uploads/2007/08/spore.jpg)](http://www.spore.com/)
+[![Spore - © 2006 Electronic Arts, Inc.](/blog/wp-content/uploads/2007/08/spore.jpg)](http://www.spore.com/)
 
 **SPORE**
 

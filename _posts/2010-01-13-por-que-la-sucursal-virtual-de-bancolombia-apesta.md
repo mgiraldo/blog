@@ -27,7 +27,7 @@ Cuán equivocado estaba…
 Empecemos por el *login*:
 
 <figure markdown="1" aria-describedby="caption-attachment-581" class="wp-caption alignnone" id="attachment_581" style="width: 300px">
-[![](/wp-content/uploads/2010/01/login-300x228.png "login")](/wp-content/uploads/2010/01/login.png)
+[![](/blog/wp-content/uploads/2010/01/login-300x228.png "login")](/blog/wp-content/uploads/2010/01/login.png)
 <figcaption markdown="0" class="wp-caption-text" id="caption-attachment-581">
 login fail
 </figcaption>
@@ -46,7 +46,7 @@ Algunos detalles:
 Ya sé lo que están pensando: “el punto del tecladito ese es para evitar [*key loggers*](http://es.wikipedia.org/wiki/Keylogger)“. La verdad **no imagino que clase de imbécil se mete a la sucursal virtual de una empresa desde un web café** (que es donde suele haber *key loggers*) pero digamos que es medianamente sensato (aunque estoy seguro que si hay *key loggers* será igual de facil instalar otro tipo de programas espías). Eso significa que la Sucursal Virtual Empresas mantiene esa seguridad en todos lados donde se solicita la clave. ¿Cierto? Por ejemplo, donde uno puede cambiar su clave:
 
 <figure markdown="1" aria-describedby="caption-attachment-584" class="wp-caption alignnone" id="attachment_584" style="width: 300px">
-[![](/wp-content/uploads/2010/01/clave-300x225.png "clave")](/wp-content/uploads/2010/01/clave.png)
+[![](/blog/wp-content/uploads/2010/01/clave-300x225.png "clave")](/blog/wp-content/uploads/2010/01/clave.png)
 <figcaption markdown="0" class="wp-caption-text" id="caption-attachment-584">
 ¿y dónde está el teclado?
 </figcaption>
@@ -62,7 +62,7 @@ Dicho eso, veamos un par de casos:
 ### Navegación
 
 <figure markdown="1" aria-describedby="caption-attachment-585" class="wp-caption alignnone" id="attachment_585" style="width: 300px">
-[![](/wp-content/uploads/2010/01/navegacion-300x193.png "navegacion")](/wp-content/uploads/2010/01/navegacion.png)
+[![](/blog/wp-content/uploads/2010/01/navegacion-300x193.png "navegacion")](/blog/wp-content/uploads/2010/01/navegacion.png)
 <figcaption markdown="0" class="wp-caption-text" id="caption-attachment-585">
 test de motricidad fina
 </figcaption>
@@ -76,7 +76,7 @@ Si doy clic en “saldos” veamos qué sale (no sé por qué toca hacer clic y 
 ### Saldos y Movimientos
 
 <figure markdown="1" aria-describedby="caption-attachment-586" class="wp-caption alignnone" id="attachment_586" style="width: 300px">
-[![](/wp-content/uploads/2010/01/saldo-resumen-300x225.png "saldo resumen")](/wp-content/uploads/2010/01/saldo-resumen.png)
+[![](/blog/wp-content/uploads/2010/01/saldo-resumen-300x225.png "saldo resumen")](/blog/wp-content/uploads/2010/01/saldo-resumen.png)
 <figcaption markdown="0" class="wp-caption-text" id="caption-attachment-586">
 óptimo uso del espacio disponible
 </figcaption>
@@ -86,7 +86,7 @@ Si doy clic en “saldos” veamos qué sale (no sé por qué toca hacer clic y 
 En esta pantalla se nota que el diseñador tuvo un momento de lucidez destacable. **Es un juego compositivo que busca darle un nuevo significado al espacio en blanco**. Un par de clics más y vemos el detalle de una cuenta (sí, si quiero llegar a ver el detalle de movimientos de una cuenta todavía me falta ver dos pantallas que no quiero incluir para no aburrirlos):
 
 <figure markdown="1" aria-describedby="caption-attachment-587" class="wp-caption alignnone" id="attachment_587" style="width: 300px">
-[![](/wp-content/uploads/2010/01/movimientos-300x189.png "movimientos")](/wp-content/uploads/2010/01/movimientos.png)
+[![](/blog/wp-content/uploads/2010/01/movimientos-300x189.png "movimientos")](/blog/wp-content/uploads/2010/01/movimientos.png)
 <figcaption markdown="0" class="wp-caption-text" id="caption-attachment-587">
 ¿qué prefiere, tablas o tablas?
 </figcaption>
@@ -100,7 +100,7 @@ Empezamos a ver un patrón (y no me refiero a [ese patrón](http://en.wikipedia.
 Hagamos una transferencia. Eso sí es un servicio. Todo lo anterior no ha sido más que presentación de datos. Supongamos que ya tengo una cuenta creada (ese formato también es bello pero me lo voy a saltar) y que voy a hacer un “pago a proveedores”:
 
 <figure markdown="1" aria-describedby="caption-attachment-589" class="wp-caption alignnone" id="attachment_589" style="width: 300px">
-[![](/wp-content/uploads/2010/01/transferencias-300x134.png "transferencias")](/wp-content/uploads/2010/01/transferencias.png)
+[![](/blog/wp-content/uploads/2010/01/transferencias-300x134.png "transferencias")](/blog/wp-content/uploads/2010/01/transferencias.png)
 <figcaption markdown="0" class="wp-caption-text" id="caption-attachment-589">
 formulario de creación de transferencia
 </figcaption>
@@ -110,7 +110,7 @@ formulario de creación de transferencia
 En “tipo de pago” hay:
 
 <figure markdown="1" aria-describedby="caption-attachment-590" class="wp-caption alignnone" id="attachment_590" style="width: 300px">
-[![](/wp-content/uploads/2010/01/pagos-300x223.png "pagos")](/wp-content/uploads/2010/01/pagos.png)
+[![](/blog/wp-content/uploads/2010/01/pagos-300x223.png "pagos")](/blog/wp-content/uploads/2010/01/pagos.png)
 <figcaption markdown="0" class="wp-caption-text" id="caption-attachment-590">
 ¿cuál de estos es el formato correcto?
 </figcaption>
@@ -128,7 +128,7 @@ En “tipo de pago” hay:
 Bueno selecciono “pago a proveedores”. Ahora solo debo ponerle un nombre al pago… algo que me sirva para luego recordar qué estaba pensando yo al mandarle plata a otra persona: “Pago Paulo Pinto 12/1/2010” es suficientemente claro y explícito (cualquier parecido con nombres de personas reales es pura coincidencia):
 
 <figure markdown="1" aria-describedby="caption-attachment-591" class="wp-caption alignnone" id="attachment_591" style="width: 300px">
-[![](/wp-content/uploads/2010/01/limite-chars-300x198.png "limite chars")](/wp-content/uploads/2010/01/limite-chars.png)
+[![](/blog/wp-content/uploads/2010/01/limite-chars-300x198.png "limite chars")](/blog/wp-content/uploads/2010/01/limite-chars.png)
 <figcaption markdown="0" class="wp-caption-text" id="caption-attachment-591">
 26 caracteres ya es demasiado
 </figcaption>
@@ -137,7 +137,7 @@ Bueno selecciono “pago a proveedores”. Ahora solo debo ponerle un nombre al 
 
 ¡Pues no! ¿Quién dijo que podía usar más de 25 caracteres? ¡Bruto! ¡Lo que sea que le va a poner al nombre de la transferencia debe ser menos de 25 letras y espacios! ¡25 es más que suficiente!
 
-Con lo costoso que es guardar, digamos, 64 caracteres… hay niños muriendo de hambre y usted pidiendo más de 25 caracteres. ¿[Alguien quiere pensar en los niños](/wp-content/uploads/2010/01/queremosprohibicion.mp3)? Supongo que si permitiera más caracteres el servicio no podría ser tan económico… 200 dólares al año son una **ganga** (ni mencionar la Sucursal Virtual Personas Bancolombia que **cobra por cada login**). Esto me recuerda la arbitrariedad que tenían (y tienen) algunos sistemas operativos con los nombres de los archivos ([8 caracteres debía ser suficiente](http://blogs.msdn.com/oldnewthing/archive/2009/06/10/9718865.aspx "Why does MS-DOS use 8.3 filenames instead of, say, 11.2 or 16.16?")).
+Con lo costoso que es guardar, digamos, 64 caracteres… hay niños muriendo de hambre y usted pidiendo más de 25 caracteres. ¿[Alguien quiere pensar en los niños](/blog/wp-content/uploads/2010/01/queremosprohibicion.mp3)? Supongo que si permitiera más caracteres el servicio no podría ser tan económico… 200 dólares al año son una **ganga** (ni mencionar la Sucursal Virtual Personas Bancolombia que **cobra por cada login**). Esto me recuerda la arbitrariedad que tenían (y tienen) algunos sistemas operativos con los nombres de los archivos ([8 caracteres debía ser suficiente](http://blogs.msdn.com/oldnewthing/archive/2009/06/10/9718865.aspx "Why does MS-DOS use 8.3 filenames instead of, say, 11.2 or 16.16?")).
 
 FAIL
 
@@ -148,7 +148,7 @@ Olvidaba mencionar que **los nombres de las transferencias deben ser únicos** (
 Seleccionemos una cuenta a la cual transferir:
 
 <figure markdown="1" aria-describedby="caption-attachment-592" class="wp-caption alignnone" id="attachment_592" style="width: 300px">
-[![](/wp-content/uploads/2010/01/abono-ahorros-300x182.png "abono ahorros")](/wp-content/uploads/2010/01/abono-ahorros.png)
+[![](/blog/wp-content/uploads/2010/01/abono-ahorros-300x182.png "abono ahorros")](/blog/wp-content/uploads/2010/01/abono-ahorros.png)
 <figcaption markdown="0" class="wp-caption-text" id="caption-attachment-592">
 ¿pago en efectivo? ¿desde la Sucursal Virtual empresas de Bancolombia?
 </figcaption>

@@ -24,7 +24,7 @@ With this in mind, the *Thought Factory* was created and its main purpose was to
 Each bottle represents an inquiry made by festival organizers. Every hour and a half a new bottle is placed in the filling station:
 
 <figure markdown="1" aria-describedby="caption-attachment-705" class="wp-caption alignnone" id="attachment_705" style="width: 450px">
-![](/wp-content/uploads/2010/03/fill.jpg "A bottle being filled")
+![](/blog/wp-content/uploads/2010/03/fill.jpg "A bottle being filled")
 <figcaption markdown="0" class="wp-caption-text" id="caption-attachment-705">
 A bottle being filled
 </figcaption>
@@ -34,7 +34,7 @@ A bottle being filled
 From that moment, and during the next ninety minutes, that bottle will be filled with thoughts from people who type them in the input stations:
 
 <figure markdown="1" aria-describedby="caption-attachment-703" class="wp-caption alignnone" id="attachment_703" style="width: 450px">
-![](/wp-content/uploads/2010/03/input.jpg "Thought input machine")
+![](/blog/wp-content/uploads/2010/03/input.jpg "Thought input machine")
 <figcaption markdown="0" class="wp-caption-text" id="caption-attachment-703">
 Thought input machine
 </figcaption>
@@ -46,7 +46,7 @@ Thoughts can also be sent as an SMS message via mobile phone.
 Since the Festival as for all ages it was necessary to curate these thoughts (basically removing obscene ones… let’s be honest, there’s plenty of obscenities in our thoughts :P).
 
 <figure markdown="1" aria-describedby="caption-attachment-710" class="wp-caption alignnone" id="attachment_710" style="width: 450px">
-![](/wp-content/uploads/2010/03/curaduria.jpg "Curating machine")
+![](/blog/wp-content/uploads/2010/03/curaduria.jpg "Curating machine")
 <figcaption markdown="0" class="wp-caption-text" id="caption-attachment-710">
 Curating machine
 </figcaption>

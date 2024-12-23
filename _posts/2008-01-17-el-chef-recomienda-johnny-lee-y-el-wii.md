@@ -47,7 +47,7 @@ Nos gustan las recomendaciones. A pesar de tener una amplia selección en un men
 
 En [su charla en TED Talks](http://www.ted.com/index.php/talks/view/id/93) Schwarz menciona ejemplos que aclaran su idea que **muchas opciones en realidad perjudican nuestro bienestar generándonos un estrés innecesario**. En un restaurante contamos con un mesero que, esperamos, nos va a dar una buena recomendación basada en la información que proveamos: “no puedo comer pescado y no me gustan los pepinillos”. En internet, sitios web como Amazon se basan en **millones de clics** que hacen los compradores para encontrar **patrones** que sivan como punto de partida para recomendaciones: de los que compraron la última película de Harry Potter una gran cantidad compró Piratas del Caribe. Entre más compras se hagan (y más compras haga usted) más precisa es la recomendación… o por lo menos eso creemos; si compra un regalo para alguien con gustos muy diferentes a usted estará “dañando” futuras recomendaciones.
 
-![Last.fm](/wp-content/uploads/2008/01/lastfm.gif)
+![Last.fm](/blog/wp-content/uploads/2008/01/lastfm.gif)
 
 **¿Qué me recomienda?**
 

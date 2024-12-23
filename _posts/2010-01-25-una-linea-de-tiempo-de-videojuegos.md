@@ -24,7 +24,7 @@ Por cosas de la vida un cliente me comisionó un trabajo de una línea de tiempo
 El link es: <http://www.mauriciogiraldo.com/vgline/beta/>
 
 <figure markdown="1" aria-describedby="caption-attachment-620" class="wp-caption alignnone" id="attachment_620" style="width: 300px">
-[![](/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-29-53-300x190.png "principal")](/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-29-53.png)
+[![](/blog/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-29-53-300x190.png "principal")](/blog/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-29-53.png)
 <figcaption markdown="0" class="wp-caption-text" id="caption-attachment-620">
 clic para ver imagen completa
 </figcaption>
@@ -51,7 +51,7 @@ Cada tipo de evento puede estar **relacionado a otros** de tres formas:
 Toda esa información presenta el problema de cómo visualizarla de la forma más clara para el usuario. Para hacer visibles las relaciones se oprime la tecla SPACEBAR:
 
 <figure markdown="1" aria-describedby="caption-attachment-621" class="wp-caption alignnone" id="attachment_621" style="width: 300px">
-[![](/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-29-57-300x190.png "relaciones")](/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-29-57.png)
+[![](/blog/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-29-57-300x190.png "relaciones")](/blog/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-29-57.png)
 <figcaption markdown="0" class="wp-caption-text" id="caption-attachment-621">
 relaciones entre eventos
 </figcaption>
@@ -61,7 +61,7 @@ relaciones entre eventos
 En el estado inicial aparecen *muchas* relaciones y aún falta poner muchísimos eventos. Es por esto que decidí **permitir al usuario encender/apagar eventos y líneas de relación** (puede usar el teclado). De esta forma, si apago todos los eventos menos personas y juegos puedo ver la misma pantalla con menos “ruido”:
 
 <figure markdown="1" aria-describedby="caption-attachment-622" class="wp-caption alignnone" id="attachment_622" style="width: 300px">
-[![](/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-30-15-300x190.png "relaciones entre personas y juegos")](/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-30-15.png)
+[![](/blog/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-30-15-300x190.png "relaciones entre personas y juegos")](/blog/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-30-15.png)
 <figcaption markdown="0" class="wp-caption-text" id="caption-attachment-622">
 relaciones juegos - personas
 </figcaption>
@@ -73,7 +73,7 @@ Es difícil (hasta diría que imposible) hacer que la interfaz grafique automát
 Esto es lo que se ve si prendo solamente las relaciones tipo *serie* junto con los juegos:
 
 <figure markdown="1" aria-describedby="caption-attachment-623" class="wp-caption alignnone" id="attachment_623" style="width: 300px">
-[![](/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-30-57-300x190.png "series de juegos")](/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-30-57.png)
+[![](/blog/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-30-57-300x190.png "series de juegos")](/blog/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-30-57.png)
 <figcaption markdown="0" class="wp-caption-text" id="caption-attachment-623">
 series de juegos
 </figcaption>
@@ -87,7 +87,7 @@ Se puede apreciar que [Doom II](http://www.mauriciogiraldo.com/vgline/beta/#/338
 Los usuarios son flojos (bueno, todos menos usted) y si no logran encontrar lo que están buscando en un par de segundos, desistirán e irán a otro sitio web. Adicionalmente, en grandes cantidades de información es difícil predecir por dónde van a llegar a un dato en particular. Es por esto que la línea de tiempo cuenta con un buscador:
 
 <figure markdown="1" aria-describedby="caption-attachment-624" class="wp-caption alignnone" id="attachment_624" style="width: 300px">
-[![](/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-2-4-28-300x190.png "resultado de búsqueda")](/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-2-4-28.png)
+[![](/blog/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-2-4-28-300x190.png "resultado de búsqueda")](/blog/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-2-4-28.png)
 <figcaption markdown="0" class="wp-caption-text" id="caption-attachment-624">
 resultado para "nintendo"
 </figcaption>

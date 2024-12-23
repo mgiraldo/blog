@@ -25,14 +25,14 @@ categories:
 
 (ese fue el título más ñoño que pude pensar para este post)
 
-![Dragón](/wp-content/uploads/2008/12/dnd1.jpg "Dragón")
+![Dragón](/blog/wp-content/uploads/2008/12/dnd1.jpg "Dragón")
 
 Entre otras cosas, las mudanzas sirven para encontrar **tesoros olvidados**, recuerdos agradables (y otros no tanto). Entre dichos tesoros encontré cuatro de los libros que componen la saga (¿serie?) de [*El Señor de los anillos*](http://www.amazon.com/dp/0345340426/maurigiral-20/) de [J. R. R. Tolkien](http://en.wikipedia.org/wiki/J._R._R._Tolkien).
 
 **Antes de que existiera un tal Harry Potter había un grupo conocido como *The Fellowship of the Ring***, y el cual es el nombre del primer libro de la saga (junto con un “prefacio” titulado *The Hobbit*) los cuales leí relativamente rápido mientras que *The Two Towers* fue demasiado lento para mi gusto adolescente (luego lo leí junto con *The Return of the King* a tiempo para ir a ver [la película](http://www.amazon.com/dp/B000654ZK0/maurigiral-20/) en cine).
 
 <figure markdown="1" aria-describedby="caption-attachment-153" class="wp-caption alignnone" id="attachment_153" style="width: 465px">
-[![La serie de The Lord of the Rings](/wp-content/uploads/2008/12/tolkien.jpg "La serie de The Lord of the Rings")](http://www.amazon.com/dp/0345340426/maurigiral-20/)
+[![La serie de The Lord of the Rings](/blog/wp-content/uploads/2008/12/tolkien.jpg "La serie de The Lord of the Rings")](http://www.amazon.com/dp/0345340426/maurigiral-20/)
 <figcaption markdown="0" class="wp-caption-text" id="caption-attachment-153">
 La serie de The Lord of the Rings
 </figcaption>
@@ -72,7 +72,7 @@ El trabajo de Tolkien ha inspirado a millones y sus libros hoy día se encuentra
 Debo admitir que, basado únicamente en las películas, estoy de acuerdo en buena parte de lo que dice el señor Suellentrop. Espero la cita sirva de motivación para que los *harrypotterunos* [le den una leída](http://www.slate.com/?id=2073627) 🙂
 
 <figure markdown="1" aria-describedby="caption-attachment-169" class="wp-caption alignnone" id="attachment_169" style="width: 465px">
-![Estos dados son el núcleo numérico/aleatorio de los juegos de rol. Se componen de los cinco sólidos platónicos y un sexto sólido. De izquierda a derecha: seis caras (hexaedro), veinte caras (icosaedro), ocho caras (octaedro), cuatro caras (tetraedro), diez caras, doce caras (dodecaedro).](/wp-content/uploads/2008/12/dados.jpg "Set de dados para juego de rol")
+![Estos dados son el núcleo numérico/aleatorio de los juegos de rol. Se componen de los cinco sólidos platónicos y un sexto sólido. De izquierda a derecha: seis caras (hexaedro), veinte caras (icosaedro), ocho caras (octaedro), cuatro caras (tetraedro), diez caras, doce caras (dodecaedro).](/blog/wp-content/uploads/2008/12/dados.jpg "Set de dados para juego de rol")
 <figcaption markdown="0" class="wp-caption-text" id="caption-attachment-169">
 Estos dados son el núcleo numérico/aleatorio de los juegos de rol. Se componen de los 
 </figcaption>
@@ -84,7 +84,7 @@ Estos dados son el núcleo numérico/aleatorio de los juegos de rol. Se componen
 Volviendo a Tolkien, dentro de mis tesoros perdidos tambien encontré mi **set de reglas y monstruos de [*Dungeons &amp; Dragons*](http://en.wikipedia.org/wiki/Dungeons_&_Dragons)**. Para los que no conocen D&amp;D, se trata de un juego de mesa, con o sin tablero y por lo general con papel y lápiz que suele jugarse lanzando **dados de una variada cantidad de caras** (hay dados desde cuatro hasta veinte caras); el juego está basado en un **sistema de reglas claramente definido dentro del cual los jugadores tienen la posibilidad de improvisar** y afectar el desenvolvimiento del mismo. Un “maestro de juego” narra los acontecimientos del ambiente y sus habitantes mientras que los demás jugadores describen las respuestas y actividades de sus personajes a dicho ambiente.
 
 <figure markdown="1" aria-describedby="caption-attachment-148" class="wp-caption alignnone" id="attachment_148" style="width: 465px">
-![El set de reglas experto de D&D (este set era de una serie "básica" ya descontinuada)](/wp-content/uploads/2008/12/dnd2.jpg "Dungeons & Dragons")
+![El set de reglas experto de D&D (este set era de una serie "básica" ya descontinuada)](/blog/wp-content/uploads/2008/12/dnd2.jpg "Dungeons & Dragons")
 <figcaption markdown="0" class="wp-caption-text" id="caption-attachment-148">
 El set de reglas experto de D&amp;D (este set era de una serie "básica" ya descontinuada)
 </figcaption>
@@ -94,7 +94,7 @@ El set de reglas experto de D&amp;D (este set era de una serie "básica" ya desc
 Este tipo de juego se conoce como [juego de rol](http://en.wikipedia.org/wiki/Role-playing_game "Role-playing Game según Wikipedia en inglés") (RPG por sus siglas en inglés) y tiene la peculiaridad de **existir únicamente en la imaginación de sus jugadores**; sí, hay un manual de juego con un reglamento y “compendios de monstruos” (una suerte de enciclopedia que incluye la descripción y estadísticas de los enemigos que un personaje puede encontrar en sus aventuras) y guías para aventuras, pero en realidad toda la dinámica del juego sucede con un par de hojas de papel (usadas principalmente para realizar **cálculos de probabilidad** de que una u otra cosa suceda en función de un lanzamiento de dados); pero en buena medida el nivel de entretenimiento o diversión está determinado por la **capacidad del maestro de juego de narrar los acontecimientos y de los jugadores en asumir el rol de sus personajes** y reaccionar ante dichos sucesos. Es realmente un **juego social**. Una sesión puede durar horas o días e incluso puede interrumpirse durante un tiempo para reanudarse luego. El juego **no cuenta con un objetivo definido ni un ganador**; cada jugador tiene sus propios objetivos: conseguir objetos o equipo valioso, ganar reputación, explorar incansablemente, aprender la mayor cantidad de hechizos. Los personajes adquieren “puntos de experiencia” y conocimiento a medida que descubren nuevos lugares o derrotan enemigos, que son determinantes en la capacidad de este para tener éxito en futuras expediciones.
 
 <figure markdown="1" aria-describedby="caption-attachment-150" class="wp-caption alignnone" id="attachment_150" style="width: 465px">
-![Uno de los mapas que hice para una aventura D&D. El maestro de juego usa esos mapas (que nadie más puede ver) para narrar y determinar el curso de acontecimientos.](/wp-content/uploads/2008/12/dnd4.jpg "Mapa de aventura")
+![Uno de los mapas que hice para una aventura D&D. El maestro de juego usa esos mapas (que nadie más puede ver) para narrar y determinar el curso de acontecimientos.](/blog/wp-content/uploads/2008/12/dnd4.jpg "Mapa de aventura")
 <figcaption markdown="0" class="wp-caption-text" id="caption-attachment-150">
 Uno de los mapas que hice para una aventura D&amp;D. El maestro de juego usa esos mapas (que nadie más puede ver) para narrar y determinar el curso de acontecimientos.
 </figcaption>
@@ -104,7 +104,7 @@ Uno de los mapas que hice para una aventura D&amp;D. El maestro de juego usa eso
 **La verdad nunca fui muy bueno jugando D&amp;D.** Se necesita que el maestro de juego sea buen narrador y que los participantes estén “metidos en el cuento” y, aún así, **la dinámica puede ser bastante lenta** mientras uno está lanzando dados y calculando: por ejemplo para determinar el efecto de un hechizo *Magic Missile* realizado por un mago (mi personaje preferido) había que lanzar un dado de cuatro caras (en sintaxis D&amp;D esto se escribe 1d4) y al resultado sumarle 1 (esto genera un número entre 2 y 5 que corresponde al daño realizado por el misil); luego se determina cual de los enemigos están dentro del rango de acción del misil (que varía según el nivel de experiencia del mago); si el mago es nivel 3 o superior podrá lanzar más de un misil en un conjuro; combine esto con la probabilidad de que el misil llegue o no exitosamente a su blanco (todo lo anterior depende de la edición que esté usando de las reglas de juego puesto que hay variaciones). Súmele a esto que haya tres o cuatro personajes más en el *party* (grupo de jugadores) y uno o dos monstruos/enemigos cada uno tomando turnos para decidir que sucederá luego. Olvidaba mencionar que *antes* de empezar toca *crear el personaje* lo requiere de una [hoja especial](http://blog.wired.com/underwire/2008/05/exclusive-dd--1.html) y un buen rato lanzando dados para cada una de sus características como fuerza, agilidad, carisma y demás.
 
 <figure markdown="1" aria-describedby="caption-attachment-149" class="wp-caption alignnone" id="attachment_149" style="width: 465px">
-![Parte de un mapa de un calabozo para una aventura que creé. Nótese como el mapa está descrito sobre una retícula acompañado de una leyenda para los elementos importantes como monstruos y trampas.](/wp-content/uploads/2008/12/dnd3.jpg "Mapa de calabozo")
+![Parte de un mapa de un calabozo para una aventura que creé. Nótese como el mapa está descrito sobre una retícula acompañado de una leyenda para los elementos importantes como monstruos y trampas.](/blog/wp-content/uploads/2008/12/dnd3.jpg "Mapa de calabozo")
 <figcaption markdown="0" class="wp-caption-text" id="caption-attachment-149">
 Parte de un mapa de un calabozo para una aventura que creé. Nótese como el mapa está descrito sobre una retícula acompañado de una leyenda para los elementos importantes como monstruos y trampas.
 </figcaption>
@@ -129,12 +129,12 @@ La mitología que rodea a D&amp;D está fuertemente inspirada en el trabajo de J
 
 Hay que admitir que, por lo general, los jugadores de juegos de rol son (¿somos?) *nerds*. Esa *nerditud* también se encuentra entre programadores (hay una gran correlación entre los dos, pero [no todo programador es *nerd* y vice-versa](http://en.wikipedia.org/wiki/Correlation_does_not_imply_causation)) y no tardó mucho en que alguno uniera los dos en lo que se conocería como [Multi-User Dungeon/Domain o MUD](http://en.wikipedia.org/wiki/MUD). Dicha creación se le atribuye a [Richard Bartle](http://en.wikipedia.org/wiki/Richard_Bartle) ([sitio personal](http://mud.co.uk/richard/)), matemático, programador, jugador de rol (y *nerd*, aunque no lo conozco personalmente pero un tipo que hace un doctorado en inteligencia artificial, crea el primer MUD y [en su autobiografía menciona su vida social como “inexistente”](http://mud.co.uk/richard/biog.htm) puede ameritar dicho calificativo… y lo uso con el respeto que merece recibirlo)
 
-![Sneezy MUD, el MUD que solía jugar cuando empecé la universidad. Más información en www.sneezymud.com](/wp-content/uploads/2008/12/sneezy1.gif "Sneezy MUD")
+![Sneezy MUD, el MUD que solía jugar cuando empecé la universidad. Más información en www.sneezymud.com](/blog/wp-content/uploads/2008/12/sneezy1.gif "Sneezy MUD")
 
 **Un MUD es un juego de rol que reside en un computador central al que se conectan los jugadores por medio de una red** (antes de la red unificada que ahora conocemos como Internet había redes pequeñas a las que también se accedía por módem). Toda interacción está reducida a **comandos tecleados en una pantalla** en la que se leen los resultados de dichos comandos y las descripciones del mundo que ha sido creado por quien lo programó. Si usted ha estado en una sala de chat de texto ya tiene una idea de cómo es un MUD. Súmele a eso una descripción (en texto, claramente) del lugar donde su personaje está en un momento dado y ya tiene una idea completa. **En un MUD, el programa asume el papel de maestro de juego**. La descripción de todas las habitaciones, lugares, monstruos y personajes del mundo ha sido previamente incluida. **El sistema de reglas puede estar basado en D&amp;D o en cualquier otra mitología/franquicia** que usted quiera (hay MUDs de Star Wars, Star Trek, X-MEN y cuanta cosa). [Sneezy MUD](http://www.sneezymud.com), el MUD que yo jugaba en mis épocas universitarias, tenía (“tiene” porque aún funciona en play.sneezymud.com puerto 7900) una interfaz similar a esto:
 
 <figure markdown="1" aria-describedby="caption-attachment-160" class="wp-caption alignnone" id="attachment_160" style="width: 465px">
-![Una pantalla normal en Sneezy MUD](/wp-content/uploads/2008/12/sneezy2.gif "Sneezy MUD")
+![Una pantalla normal en Sneezy MUD](/blog/wp-content/uploads/2008/12/sneezy2.gif "Sneezy MUD")
 <figcaption markdown="0" class="wp-caption-text" id="caption-attachment-160">
 Una pantalla normal en Sneezy MUD... aunque cuando yo jugaba no tenían colores
 </figcaption>
@@ -144,7 +144,7 @@ Una pantalla normal en Sneezy MUD... aunque cuando yo jugaba no tenían colores
 **El juego inicia como todo juego de rol: creando el personaje** y, como todo juego de rol, dicho proceso podía tardar unos segundos o decenas de minutos dependiendo de lo detallado que uno quería ser (en algunos MUDs existe la opción de usar personajes creados aleatoriamente). Una vez adentro, al jugador se le presenta la descripción de la habitación donde se encuentra junto con las posibles salidas o caminos de esta (“You can see exits to the north, south, west, and up”). El jugador teclea el comando deseado ya sea este un comando de movimiento (“north” para ir en sentido norte), un comando de interacción con el entorno (“pick trash” para tomar la basura del suelo o “kill mouse” para hacer de las suyas con un enemigo peligroso) o un comando de interacción con otros personajes (“say hello” para decir “hello” y que otros personajes en la habitación lean esto). Esta forma de interacción con comandos de texto fue inspirada por [Adventure! creado por Will Crowther](http://en.wikipedia.org/wiki/Colossal_Cave_Adventure) y ha sido ampliamente utilizada en otros juegos, entre los que se encuentran los *quests* de Sierra Online: [King’s Quest](http://en.wikipedia.org/wiki/King%27s_Quest), [Space Quest](http://en.wikipedia.org/wiki/Space_Quest) y [Leisure Suit Larry](http://en.wikipedia.org/wiki/Leisure_Suit_Larry).
 
 <figure markdown="1" aria-describedby="caption-attachment-178" class="wp-caption alignnone" id="attachment_178" style="width: 465px">
-![Una pelea con un ratón en Sneezy MUD](/wp-content/uploads/2008/12/sneezy-fight.gif "Una pelea con un ratón en Sneezy MUD")
+![Una pelea con un ratón en Sneezy MUD](/blog/wp-content/uploads/2008/12/sneezy-fight.gif "Una pelea con un ratón en Sneezy MUD")
 <figcaption markdown="0" class="wp-caption-text" id="caption-attachment-178">
 Una pelea con un ratón en Sneezy MUD
 </figcaption>
@@ -158,7 +158,7 @@ La ausencia de gráficas en los MUDs tiene su encanto y un *feeling* romántico 
 En el grupo de videojuegos RPG gráficos vale la pena destacar [*Diablo*](http://en.wikipedia.org/wiki/Diablo_(video_game)), lanzado al mercado en enero de 1997. *Diablo* no es un RPG en sentido estricto ya que su dinámica de juego excluye muchos aspectos de estos, pero maneja suficientes elementos RPG para que el jugador se sienta inmerso en la historia y aventura. Otra diferencia importante entre *Diablo* y otros RPG gráficos como [*Baldur’s Gate*](http://en.wikipedia.org/wiki/Baldur%27s_Gate) es que no se juega por turnos y se simplifica la dinámica de juego (con el *mouse* y un par de clics se hacen hechizos, se lucha, corre, salta) lo cual lo convierte en un juego muy entretenido, rápido de aprender y jugar.
 
 <figure markdown="1" aria-describedby="caption-attachment-180" class="wp-caption alignnone" id="attachment_180" style="width: 465px">
-![Nótese cómo Diablo conserva los elementos de diseño de calabozos de D&D (pero usando una perspectiva isométrica) con el mini-mapa que se aprecia arriba a la izquierda.](/wp-content/uploads/2008/12/diablo.jpg "Diablo II")
+![Nótese cómo Diablo conserva los elementos de diseño de calabozos de D&D (pero usando una perspectiva isométrica) con el mini-mapa que se aprecia arriba a la izquierda.](/blog/wp-content/uploads/2008/12/diablo.jpg "Diablo II")
 <figcaption markdown="0" class="wp-caption-text" id="caption-attachment-180">
 Nótese cómo Diablo conserva los elementos de diseño de calabozos de D&amp;D (pero usando una perspectiva isométrica) con el mini-mapa que se aprecia arriba a la izquierda.
 </figcaption>
@@ -186,7 +186,7 @@ No obstante, ***Diablo* es principalmente para un jugador**. La parte multi-juga
 La anterior es una lista incompleta pero relativamente detallada para hacer una idea del **problema de diseño de información** al que se enfrentan quienes crean la interfaz de un juego como este. Un juego de video abarca una gran cantidad de elementos (narrativos, de diseño, artísticos, de ingeniería, de información) y WoW es un excelente ejemplo de solución (aunque no es el único pero si el [estado del arte](http://es.wikipedia.org/wiki/Estado_del_arte)) y, lo mejor de todo, **hace evidente ese núcleo numérico de los juegos de rol** que se originaron con el trabajo de Gygax y que construyeron sus narrativas y mitologías inspirados en trabajos como el de Tolkien.
 
 <figure markdown="1" aria-describedby="caption-attachment-168" class="wp-caption alignnone" id="attachment_168" style="width: 465px">
-[![World of Warcraft es un MUD gráfico y hace evidente el núcleo numérico detrás de los juegos de rol. Clic en la imagen para verla en tamaño completo (474.59 KB).](/wp-content/uploads/2008/12/wow_th.jpg "World of Warcraft es un MUD gráfico y hace evidente el núcleo numérico detrás de los juegos de rol. Clic en la imagen para verla en tamaño completo (474.59 KB).")](/wp-content/uploads/2008/12/wow.jpg)
+[![World of Warcraft es un MUD gráfico y hace evidente el núcleo numérico detrás de los juegos de rol. Clic en la imagen para verla en tamaño completo (474.59 KB).](/blog/wp-content/uploads/2008/12/wow_th.jpg "World of Warcraft es un MUD gráfico y hace evidente el núcleo numérico detrás de los juegos de rol. Clic en la imagen para verla en tamaño completo (474.59 KB).")](/blog/wp-content/uploads/2008/12/wow.jpg)
 <figcaption markdown="0" class="wp-caption-text" id="caption-attachment-168">
 World of Warcraft es un MUD gráfico y hace evidente el núcleo numérico detrás de los juegos de rol. Clic en la imagen para verla en tamaño completo (474.59 KB).
 </figcaption>

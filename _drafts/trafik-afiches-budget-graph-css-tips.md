@@ -14,7 +14,7 @@ categories:
     - visualización
 ---
 
-[![Trafik](/wp-content/uploads/2007/06/trafik.jpg)](http://www.apple.com/pro/profiles/trafik/ "Perfil de Trafik en Apple.com")
+[![Trafik](/blog/wp-content/uploads/2007/06/trafik.jpg)](http://www.apple.com/pro/profiles/trafik/ "Perfil de Trafik en Apple.com")
 
 [Trafik](http://www.lavitrinedetrafik.fr/ "sitio web") es una agencia de diseño ubicada en Lyon, Francia. Realizan, entre otros, instalaciones interactivas, proyectos de diseño gráfico y escenografías. Recientemente Apple hizo un perfil de ellos que incluye una entrevista y
 
@@ -30,4 +30,4 @@ colores en afiches de peliculas:
 
 http://www.underconsideration.com/speakup/archives/003641.html
 
-[![Análisis de color de afiches de películas y su rating](/wp-content/uploads/2007/07/movs_color_spectrum.jpg)](http://www.underconsideration.com/speakup/archives/003641.html "Dark and Fleshy: The Color of Top Grossing Movies")
+[![Análisis de color de afiches de películas y su rating](/blog/wp-content/uploads/2007/07/movs_color_spectrum.jpg)](http://www.underconsideration.com/speakup/archives/003641.html "Dark and Fleshy: The Color of Top Grossing Movies")
