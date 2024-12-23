@@ -4,7 +4,7 @@ title: 'Parodias de comerciales de Mac por Novell'
 date: '2007-03-25T11:48:36+00:00'
 author: blog
 layout: post
-permalink: /blog/2007/03/25/parodias-de-comerciales-de-mac-por-novell/
+permalink: /2007/03/25/parodias-de-comerciales-de-mac-por-novell/
 categories:
     - general
     - publicidad

@@ -4,7 +4,7 @@ title: '¿El fin de las interfaces aburridas?'
 date: '2007-06-11T13:49:46+00:00'
 author: blog
 layout: post
-permalink: /blog/2007/06/11/el-fin-de-las-interfaces-aburridas/
+permalink: /2007/06/11/el-fin-de-las-interfaces-aburridas/
 cc_content_license:
     - ''
 cc_content_license_uri:

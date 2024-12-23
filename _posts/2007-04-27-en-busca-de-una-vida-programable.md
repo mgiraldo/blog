@@ -4,7 +4,7 @@ title: 'En busca de una vida programable'
 date: '2007-04-27T18:59:54+00:00'
 author: blog
 layout: post
-permalink: /blog/2007/04/27/en-busca-de-una-vida-programable/
+permalink: /2007/04/27/en-busca-de-una-vida-programable/
 categories:
     - arte
     - ciencia

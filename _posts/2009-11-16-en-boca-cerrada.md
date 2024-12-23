@@ -4,7 +4,7 @@ title: 'en boca cerrada&#8230;'
 date: '2009-11-16T01:17:54+00:00'
 author: blog
 layout: post
-permalink: /blog/2009/11/16/en-boca-cerrada/
+permalink: /2009/11/16/en-boca-cerrada/
 categories:
     - general
 ---

@@ -4,7 +4,7 @@ title: 'aprenda a jugar Starcraft en la universidad'
 date: '2009-01-28T22:23:52+00:00'
 author: blog
 layout: post
-permalink: /blog/2009/01/28/aprenda-a-jugar-starcraft-en-la-universidad/
+permalink: /2009/01/28/aprenda-a-jugar-starcraft-en-la-universidad/
 categories:
     - historia
     - juegos

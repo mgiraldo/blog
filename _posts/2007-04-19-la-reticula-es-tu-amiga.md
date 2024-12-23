@@ -4,7 +4,7 @@ title: 'La retí­cula es tu amiga'
 date: '2007-04-19T20:16:22+00:00'
 author: blog
 layout: post
-permalink: /blog/2007/04/19/la-reticula-es-tu-amiga/
+permalink: /2007/04/19/la-reticula-es-tu-amiga/
 categories:
     - diseño
     - tipografí­a

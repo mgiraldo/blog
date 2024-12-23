@@ -4,7 +4,7 @@ title: 'Generative ebook covers'
 date: '2014-10-10T16:22:06+00:00'
 author: blog
 layout: post
-permalink: /blog/2014/10/10/generative-ebook-covers/
+permalink: /2014/10/10/generative-ebook-covers/
 categories:
     - general
     - programación

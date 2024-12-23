@@ -4,7 +4,7 @@ title: 'ahora en su iPhone/Android/Palm : )'
 date: '2010-05-05T21:28:43+00:00'
 author: blog
 layout: post
-permalink: /blog/2010/05/05/ahora-en-su-iphoneandroidpalm/
+permalink: /2010/05/05/ahora-en-su-iphoneandroidpalm/
 categories:
     - general
 ---

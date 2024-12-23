@@ -4,7 +4,7 @@ title: 'detalles coquetos'
 date: '2012-01-22T21:32:47+00:00'
 author: blog
 layout: post
-permalink: /blog/2012/01/22/detalles-coquetos/
+permalink: /2012/01/22/detalles-coquetos/
 categories:
     - diseño
     - interacción

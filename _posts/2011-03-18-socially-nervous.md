@@ -4,7 +4,7 @@ title: 'socially nervous'
 date: '2011-03-18T21:06:29+00:00'
 author: blog
 layout: post
-permalink: /blog/2011/03/18/socially-nervous/
+permalink: /2011/03/18/socially-nervous/
 categories:
     - arte
     - crítica

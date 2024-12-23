@@ -4,7 +4,7 @@ title: 'Tipografía, Pulp Fiction y machismo'
 date: '2007-03-04T16:07:29+00:00'
 author: blog
 layout: post
-permalink: /blog/2007/03/04/pulp-fiction-machismo-tipografia/
+permalink: /2007/03/04/pulp-fiction-machismo-tipografia/
 categories:
     - arte
     - diseño

@@ -4,7 +4,7 @@ title: 'Enciclopedia de la Vida'
 date: '2007-05-14T23:19:51+00:00'
 author: blog
 layout: post
-permalink: /blog/2007/05/14/enciclopedia-de-la-vida/
+permalink: /2007/05/14/enciclopedia-de-la-vida/
 categories:
     - ciencia
     - diseño

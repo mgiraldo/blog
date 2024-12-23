@@ -4,7 +4,7 @@ title: 'The machine is us'
 date: '2007-02-15T15:12:17+00:00'
 author: blog
 layout: post
-permalink: /blog/2007/02/15/the-machine-is-us/
+permalink: /2007/02/15/the-machine-is-us/
 categories:
     - web
 ---

@@ -4,7 +4,7 @@ title: '¿por qué la Sucursal Virtual de Bancolombia apesta?'
 date: '2010-01-13T21:00:00+00:00'
 author: blog
 layout: post
-permalink: /blog/2010/01/13/por-que-la-sucursal-virtual-de-bancolombia-apesta/
+permalink: /2010/01/13/por-que-la-sucursal-virtual-de-bancolombia-apesta/
 enclosure:
     - "/blog/wp-content/uploads/2010/01/queremosprohibicion.mp3\n303566\naudio/mpeg\n"
 categories:

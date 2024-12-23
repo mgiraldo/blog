@@ -4,7 +4,7 @@ title: 'matrix ping-pong'
 date: '2007-05-28T04:35:37+00:00'
 author: blog
 layout: post
-permalink: /blog/2007/05/28/matrix-ping-pong/
+permalink: /2007/05/28/matrix-ping-pong/
 categories:
     - general
 ---

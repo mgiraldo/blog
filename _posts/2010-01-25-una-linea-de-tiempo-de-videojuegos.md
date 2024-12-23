@@ -4,7 +4,7 @@ title: 'Una línea de tiempo de videojuegos'
 date: '2010-01-25T00:25:36+00:00'
 author: blog
 layout: post
-permalink: /blog/2010/01/25/una-linea-de-tiempo-de-videojuegos/
+permalink: /2010/01/25/una-linea-de-tiempo-de-videojuegos/
 categories:
     - diseño
     - general

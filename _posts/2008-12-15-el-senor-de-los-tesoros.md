@@ -4,7 +4,7 @@ title: 'el Señor de los tesoros'
 date: '2008-12-15T17:08:06+00:00'
 author: blog
 layout: post
-permalink: /blog/2008/12/15/el-senor-de-los-tesoros/
+permalink: /2008/12/15/el-senor-de-los-tesoros/
 cc_content_license:
     - ''
 cc_content_license_uri:

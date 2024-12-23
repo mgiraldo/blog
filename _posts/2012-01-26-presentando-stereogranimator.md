@@ -4,7 +4,7 @@ title: 'Presentando Stereogranimator'
 date: '2012-01-26T11:03:16+00:00'
 author: blog
 layout: post
-permalink: /blog/2012/01/26/presentando-stereogranimator/
+permalink: /2012/01/26/presentando-stereogranimator/
 categories:
     - arte
     - diseño

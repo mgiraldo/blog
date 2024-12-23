@@ -4,7 +4,7 @@ title: 'El chef recomienda: Johnny Lee y el Wii'
 date: '2008-01-17T18:42:10+00:00'
 author: blog
 layout: post
-permalink: /blog/2008/01/17/el-chef-recomienda-johnny-lee-y-el-wii/
+permalink: /2008/01/17/el-chef-recomienda-johnny-lee-y-el-wii/
 cc_content_license:
     - ''
 cc_content_license_uri:

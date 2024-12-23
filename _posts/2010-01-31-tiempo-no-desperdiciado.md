@@ -4,7 +4,7 @@ title: 'Tiempo no desperdiciado'
 date: '2010-01-31T15:00:24+00:00'
 author: blog
 layout: post
-permalink: /blog/2010/01/31/tiempo-no-desperdiciado/
+permalink: /2010/01/31/tiempo-no-desperdiciado/
 categories:
     - general
     - juegos

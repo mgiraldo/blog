@@ -4,7 +4,7 @@ title: 'Hillman Curtis, TED Talks&#8230;'
 date: '2007-01-25T09:26:13+00:00'
 author: blog
 layout: post
-permalink: /blog/2007/01/25/hillman-curtis-ted-talks/
+permalink: /2007/01/25/hillman-curtis-ted-talks/
 categories:
     - diseño
     - general

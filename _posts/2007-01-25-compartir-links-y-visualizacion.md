@@ -4,7 +4,7 @@ title: 'Compartiendo links y visualización'
 date: '2007-01-25T09:24:43+00:00'
 author: blog
 layout: post
-permalink: /blog/2007/01/25/compartir-links-y-visualizacion/
+permalink: /2007/01/25/compartir-links-y-visualizacion/
 categories:
     - general
     - visualización

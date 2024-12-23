@@ -4,7 +4,7 @@ title: 'línea de tiempo en la blogosfera :)'
 date: '2010-02-03T20:44:17+00:00'
 author: blog
 layout: post
-permalink: /blog/2010/02/03/en-la-blogosfera/
+permalink: /2010/02/03/en-la-blogosfera/
 categories:
     - general
 tags:

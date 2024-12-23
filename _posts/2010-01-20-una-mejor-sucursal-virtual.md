@@ -4,7 +4,7 @@ title: 'Una mejor sucursal virtual'
 date: '2010-01-20T21:29:53+00:00'
 author: blog
 layout: post
-permalink: /blog/2010/01/20/una-mejor-sucursal-virtual/
+permalink: /2010/01/20/una-mejor-sucursal-virtual/
 categories:
     - general
 ---

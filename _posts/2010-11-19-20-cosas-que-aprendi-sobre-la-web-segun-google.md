@@ -4,7 +4,7 @@ title: '20 cosas que aprendí sobre la web (según Google)'
 date: '2010-11-19T19:15:19+00:00'
 author: blog
 layout: post
-permalink: /blog/2010/11/19/20-cosas-que-aprendi-sobre-la-web-segun-google/
+permalink: /2010/11/19/20-cosas-que-aprendi-sobre-la-web-segun-google/
 categories:
     - general
     - historia

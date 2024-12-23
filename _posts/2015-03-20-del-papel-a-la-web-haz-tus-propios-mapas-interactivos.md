@@ -4,7 +4,7 @@ title: 'Del papel a la web: haz tus propios mapas interactivos.'
 date: '2015-03-20T11:30:18+00:00'
 author: blog
 layout: post
-permalink: /blog/2015/03/20/del-papel-a-la-web-haz-tus-propios-mapas-interactivos/
+permalink: /2015/03/20/del-papel-a-la-web-haz-tus-propios-mapas-interactivos/
 force_ssl:
     - '1'
 categories:

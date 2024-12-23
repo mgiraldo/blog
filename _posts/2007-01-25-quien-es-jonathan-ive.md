@@ -4,7 +4,7 @@ title: '¿quién es Jonathan Ive?'
 date: '2007-01-25T09:25:14+00:00'
 author: blog
 layout: post
-permalink: /blog/2007/01/25/quien-es-jonathan-ive/
+permalink: /2007/01/25/quien-es-jonathan-ive/
 categories:
     - diseño
     - interacción

@@ -4,7 +4,7 @@ title: 'Web design patterns, Will Wright y Spore'
 date: '2007-08-20T03:39:12+00:00'
 author: blog
 layout: post
-permalink: /blog/2007/08/20/web-design-patterns-will-wright-y-spore/
+permalink: /2007/08/20/web-design-patterns-will-wright-y-spore/
 cc_content_license:
     - ''
 cc_content_license_uri:

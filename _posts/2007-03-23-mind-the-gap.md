@@ -4,7 +4,7 @@ title: 'mind the gap'
 date: '2007-03-23T01:39:37+00:00'
 author: blog
 layout: post
-permalink: /blog/2007/03/23/mind-the-gap/
+permalink: /2007/03/23/mind-the-gap/
 categories:
     - ciencia
     - diseño

@@ -4,7 +4,7 @@ title: 'Jorge Giraldo Jáuregui 1938-2020'
 date: '2020-10-01T15:53:47+00:00'
 author: blog
 layout: post
-permalink: /blog/2020/10/01/jorge-giraldo-jauregui-1938-2020/
+permalink: /2020/10/01/jorge-giraldo-jauregui-1938-2020/
 categories:
     - general
 ---

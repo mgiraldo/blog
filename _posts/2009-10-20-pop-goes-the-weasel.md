@@ -4,7 +4,7 @@ title: 'pop goes the weasel'
 date: '2009-10-20T20:31:38+00:00'
 author: blog
 layout: post
-permalink: /blog/2009/10/20/pop-goes-the-weasel/
+permalink: /2009/10/20/pop-goes-the-weasel/
 categories:
     - ciencia
     - general

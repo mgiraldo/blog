@@ -4,7 +4,7 @@ title: 'Du papier au Web : créez vos propres cartes interactives'
 date: '2021-12-14T17:07:08+00:00'
 author: blog
 layout: post
-permalink: /blog/2021/12/14/du-papier-au-web-creez-vos-propres-cartes-interactives/
+permalink: /2021/12/14/du-papier-au-web-creez-vos-propres-cartes-interactives/
 categories:
     - arte
     - diseño

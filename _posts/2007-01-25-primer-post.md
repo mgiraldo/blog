@@ -4,7 +4,7 @@ title: 'John Maeda y Diego Rodrí­guez'
 date: '2007-01-25T09:23:19+00:00'
 author: blog
 layout: post
-permalink: /blog/2007/01/25/primer-post/
+permalink: /2007/01/25/primer-post/
 categories:
     - general
 ---

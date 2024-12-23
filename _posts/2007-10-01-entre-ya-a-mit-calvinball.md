@@ -4,7 +4,7 @@ title: '¡Entre ya a MIT!, Calvinball, Craigslist'
 date: '2007-10-01T15:40:41+00:00'
 author: blog
 layout: post
-permalink: /blog/2007/10/01/entre-ya-a-mit-calvinball/
+permalink: /2007/10/01/entre-ya-a-mit-calvinball/
 categories:
     - comics
     - general

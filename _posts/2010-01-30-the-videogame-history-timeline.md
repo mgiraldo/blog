@@ -4,7 +4,7 @@ title: 'The videogame history timeline'
 date: '2010-01-30T16:40:49+00:00'
 author: blog
 layout: post
-permalink: /blog/2010/01/30/the-videogame-history-timeline/
+permalink: /2010/01/30/the-videogame-history-timeline/
 categories:
     - diseño
     - general

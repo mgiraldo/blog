@@ -4,7 +4,7 @@ title: '¿qué es copyright?'
 date: '2007-05-21T01:26:04+00:00'
 author: blog
 layout: post
-permalink: /blog/2007/05/21/que-es-copyright/
+permalink: /2007/05/21/que-es-copyright/
 categories:
     - general
 ---

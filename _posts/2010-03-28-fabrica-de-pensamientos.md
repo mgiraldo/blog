@@ -4,7 +4,7 @@ title: 'La Fábrica de Pensamientos'
 date: '2010-03-28T15:30:37+00:00'
 author: blog
 layout: post
-permalink: /blog/2010/03/28/fabrica-de-pensamientos/
+permalink: /2010/03/28/fabrica-de-pensamientos/
 categories:
     - arte
     - diseño

@@ -4,7 +4,7 @@ title: 'web es mi religión'
 date: '2009-02-01T19:47:39+00:00'
 author: blog
 layout: post
-permalink: /blog/2009/02/01/web-es-mi-religion/
+permalink: /2009/02/01/web-es-mi-religion/
 categories:
     - general
 ---

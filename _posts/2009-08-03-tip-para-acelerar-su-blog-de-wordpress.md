@@ -4,7 +4,7 @@ title: '¿su blog de WordPress está lento?'
 date: '2009-08-03T18:02:55+00:00'
 author: blog
 layout: post
-permalink: /blog/2009/08/03/tip-para-acelerar-su-blog-de-wordpress/
+permalink: /2009/08/03/tip-para-acelerar-su-blog-de-wordpress/
 categories:
     - tips
     - video

@@ -4,7 +4,7 @@ title: pixel-frenzy
 date: '2007-06-02T13:47:05+00:00'
 author: blog
 layout: post
-permalink: /blog/2007/06/02/pixel-frenzy/
+permalink: /2007/06/02/pixel-frenzy/
 categories:
     - general
     - música

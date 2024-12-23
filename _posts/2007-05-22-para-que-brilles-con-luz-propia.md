@@ -4,7 +4,7 @@ title: 'Para que brilles con luz propia'
 date: '2007-05-22T15:48:45+00:00'
 author: blog
 layout: post
-permalink: /blog/2007/05/22/para-que-brilles-con-luz-propia/
+permalink: /2007/05/22/para-que-brilles-con-luz-propia/
 enclosure:
     - "http://www.cs.colorado.edu/~buechley/movies/Buechley_ETextiles.mov\n13741241\nvideo/quicktime"
 categories:

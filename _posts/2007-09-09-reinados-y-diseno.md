@@ -4,7 +4,7 @@ title: 'Reinados y diseño'
 date: '2007-09-09T22:45:11+00:00'
 author: blog
 layout: post
-permalink: /blog/2007/09/09/reinados-y-diseno/
+permalink: /2007/09/09/reinados-y-diseno/
 cc_content_license:
     - ''
 cc_content_license_uri:

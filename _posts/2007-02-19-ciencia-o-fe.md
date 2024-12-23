@@ -4,7 +4,7 @@ title: '¿Ciencia o fe?'
 date: '2007-02-19T02:36:37+00:00'
 author: blog
 layout: post
-permalink: /blog/2007/02/19/ciencia-o-fe/
+permalink: /2007/02/19/ciencia-o-fe/
 categories:
     - ciencia
     - general
