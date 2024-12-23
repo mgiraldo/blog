@@ -14,7 +14,7 @@ categories:
     - visualización
 ---
 
-![Jeff Han - Multi-touch interaction](//www.mauriciogiraldo.com/blog/wp-content/uploads/2007/03/jeffhan.jpg)
+![Jeff Han - Multi-touch interaction](/blog/assets/uploads/2007/03/jeffhan.jpg)
 
 Este video, o una de sus muchas [versiones](http://www.fastcompany.com/video/player.html?bctid=422563006 "en FastCompany"), se puede encontrar en la web. Resume parte del trabajo de [Jeff Han](http://cs.nyu.edu/~jhan/ "sitio web de Jeff Han en NYU"), del Courant Institute of Mathematical Sciences de NYU, con interfases gráficas con varios puntos de contacto (pantallas táctiles donde se pueden usar varios dedos simultáneamente). La capacidad de detectar múltiples puntos de contacto presenta posibilidades muy interesantes en términos de interacción con información, de las cuales se hacen algunos ejemplos en el video:
 

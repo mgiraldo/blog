@@ -25,7 +25,7 @@ Algo importante a tener en cuenta al usar NIBs es que para que el iPhone efectiv
 
 Si lo que acabo de escribir suena un poco a chino avanzado (para aquellos no familiarizados con Obj-C), en parte es porque lo es (para mi Obj-C ha sido como un camino zen… el camino del ninja o algo así). Inauguro, entonces, el *tag* “iphone” en mi blog con este ZIP que pueden bajar y usar libremente (y si se le tira el proyecto que está haciendo no me eche la culpa):
 
-[Descargar InfiniteViews](/assets/uploads/2009/10/InfiniteViews.zip)
+[Descargar InfiniteViews](/blog/assets/uploads/2009/10/InfiniteViews.zip)
 
 Para que los angloparlantes puedan llegar a este post, a continuación la versión en inglés:
 
@@ -33,4 +33,4 @@ Para que los angloparlantes puedan llegar a este post, a continuación la versi�
 
 This is a a framework based on [the work of Jeffrey Berthiaume](http://www.pushplay.net/blog_detail.php?id=27 " Framework for having Multiple Views in an iPhone app") for developing NIB-based iPhone applications with non-linear, non-hierarchichal UIViewControllers, when the UITabBarController is not an option (games with multiple NIBs come to mind). Keep in mind that, in order for Obj-C to free NIBs with UIImageViews from memory, you need to load the images via code **without** using imageNamed. More info regarding this can be seen in [this question in Stackoverflow](http://stackoverflow.com/questions/1482934/iphone-app-with-multiple-views-subviews-memory-is-not-being-deallocated "iphone app with multiple views/subviews: memory is not being deallocated"):
 
-[Download InfiniteViews](/assets/uploads/2009/10/InfiniteViews.zip)
+[Download InfiniteViews](/blog/assets/uploads/2009/10/InfiniteViews.zip)

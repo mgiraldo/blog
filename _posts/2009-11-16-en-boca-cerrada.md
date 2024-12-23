@@ -22,6 +22,6 @@ Apple se encontraba en problemas, Steve Jobs llevaba menos de un año de regreso
 
 Una [búsqueda rápida](http://www.wolframalpha.com/input/?i=dell+market+cap+vs+apple+market+cap "Capital de Dell vs. Apple 2000-2009") en Wolfram|Alpha da esto como resultado financiero de los últimos diez años de ambas empresas:
 
-[![Capital de Dell vs. Apple 2000-2009](//www.mauriciogiraldo.com/blog/wp-content/uploads/2009/11/wolframalpha.com-screen-capture-2009-11-16-0-27-48.png "Capital de Dell vs. Apple 2000-2009")](http://www.wolframalpha.com/input/?i=dell+market+cap+vs+apple+market+cap)
+[![Capital de Dell vs. Apple 2000-2009](/blog/assets/uploads/2009/11/wolframalpha.com-screen-capture-2009-11-16-0-27-48.png "Capital de Dell vs. Apple 2000-2009")](http://www.wolframalpha.com/input/?i=dell+market+cap+vs+apple+market+cap)
 
 No en vano la revista [Fortune nombró a Jobs el presidente corporativo de la década](http://money.cnn.com/2009/11/04/technology/steve_jobs_ceo_decade.fortune/index.htm "The decade of Steve Jobs"). Jobs puede ser [pedante y malgeniado](http://gadgets.boingboing.net/2008/11/25/a-private-moment-wit.html) pero se le reconoce que sabe cómo obtener lo que quiere.

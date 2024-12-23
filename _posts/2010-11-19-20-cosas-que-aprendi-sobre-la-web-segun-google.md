@@ -11,7 +11,7 @@ categories:
     - web
 ---
 
-[![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/11/googlepong.png "Google Ping Pong")](http://www.20thingsilearned.com/)
+[![](/blog/assets/uploads/2010/11/googlepong.png "Google Ping Pong")](http://www.20thingsilearned.com/)
 
 El equipo de Google Chrome acaba de publicar *[20 Things I Learned About Browsers and the Web](http://20thingsilearned.com/)*, un recuento de la historia de la web y tecnologías relacionadas en formato de cuento para niños. Además de ser interesante y bonito, hace uso de los más recientes avances (siendo “reciente” los últimos [cinco años](http://en.wikipedia.org/wiki/Cascading_Style_Sheets#CSS_3) en algunos casos) en técnicas y tecnologías web.
 

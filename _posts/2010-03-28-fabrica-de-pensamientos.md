@@ -23,17 +23,17 @@ A partir de esa premisa, se realizó la *Fábrica de Pensamientos* cuya idea pri
 
 Cada botella representa una inquietud planteada por el festival. Cada hora y media se pone una nueva botella en la base de llenado:
 
-<figure aria-describedby="caption-attachment-705" class="wp-caption alignnone" id="attachment_705" style="width: 450px">![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/03/fill.jpg "Una botella en proceso de ser llenada")<figcaption class="wp-caption-text" id="caption-attachment-705">Una botella en proceso de ser llenada</figcaption></figure>
+<figure aria-describedby="caption-attachment-705" class="wp-caption alignnone" id="attachment_705" style="width: 450px">![](/blog/assets/uploads/2010/03/fill.jpg "Una botella en proceso de ser llenada")<figcaption class="wp-caption-text" id="caption-attachment-705">Una botella en proceso de ser llenada</figcaption></figure>
 
 A partir de ese momento, y durante los siguientes noventa minutos, se llenará esa botella con los pensamientos que la gente escribe en las máquinas de entrada:
 
-<figure aria-describedby="caption-attachment-703" class="wp-caption alignnone" id="attachment_703" style="width: 450px">![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/03/input.jpg "Máquina de entrada de pensamiento")<figcaption class="wp-caption-text" id="caption-attachment-703">Máquina de entrada de pensamiento</figcaption></figure>
+<figure aria-describedby="caption-attachment-703" class="wp-caption alignnone" id="attachment_703" style="width: 450px">![](/blog/assets/uploads/2010/03/input.jpg "Máquina de entrada de pensamiento")<figcaption class="wp-caption-text" id="caption-attachment-703">Máquina de entrada de pensamiento</figcaption></figure>
 
 Pensamientos también pueden entrar en la botella vía mensaje de texto de teléfono celular.
 
 Dado que el Festival es un evento para toda la familia es necesario hacer una curaduría de los pensamientos (básicamente prevenir el ingreso de obscenidades… seamos honestos, hay *mucho* pensamiento obsceno sucediendo en nuestras cabezas 😛 ).
 
-<figure aria-describedby="caption-attachment-710" class="wp-caption alignnone" id="attachment_710" style="width: 450px">![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/03/curaduria.jpg "Máquina de curaduría")<figcaption class="wp-caption-text" id="caption-attachment-710">Máquina de curaduría</figcaption></figure>
+<figure aria-describedby="caption-attachment-710" class="wp-caption alignnone" id="attachment_710" style="width: 450px">![](/blog/assets/uploads/2010/03/curaduria.jpg "Máquina de curaduría")<figcaption class="wp-caption-text" id="caption-attachment-710">Máquina de curaduría</figcaption></figure>
 
 Una vez aprobado, el mensaje entra a la botella que se encuentra en la base de llenado:
 

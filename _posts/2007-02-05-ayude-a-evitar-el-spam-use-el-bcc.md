@@ -11,7 +11,7 @@ categories:
     - web
 ---
 
-![Use el campo Bcc cuando quiera enviar correos masivos](//www.mauriciogiraldo.com/blog/wp-content/uploads/2007/02/bcc2.gif)
+![Use el campo Bcc cuando quiera enviar correos masivos](/blog/assets/uploads/2007/02/bcc2.gif)
 
 Más de una vez amigos suyos han querido compartir alguna noticia con ustedes (o vice-versa), y en el proceso su e-mail ha quedado a disposición de los “cazadores de emails” (también conocidos como [*spammers*](http://es.wikipedia.org/wiki/Spam "SPAM según Wikipedia en Español")):
 

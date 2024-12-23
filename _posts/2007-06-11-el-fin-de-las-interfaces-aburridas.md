@@ -25,11 +25,11 @@ Hay que admitirlo: la mayoría de las interfaces humano-computador son aburridas
 
 Pero aún seguimos con el *mouse* y el teclado. En los setentas y ochentas, antes del auge de las consolas de juego, existían unas mesitas con uno o varios juegos de video incluidos. Juegos como Space Invaders en esas mesas tenían un aspecto similar a este:
 
-[![Retro Arcade Machine Coffee Table](//www.mauriciogiraldo.com/blog/wp-content/uploads/2007/06/retro_arcade_machine_coffee_table.jpg)](http://www.bornrich.org/entry/retro-arcade-machine-coffee-table/)
+[![Retro Arcade Machine Coffee Table](/blog/assets/uploads/2007/06/retro_arcade_machine_coffee_table.jpg)](http://www.bornrich.org/entry/retro-arcade-machine-coffee-table/)
 
 Uno se podía tomar una gaseosa mientras retaba a sus amigos y esperaba la pizza. Esas mesas eran un televisor de 14 pulgadas dentro de una caja de la cual salían los *joysticks* y botones por un lado. Hoy día se pueden conseguir esas mismas mesas en tiendas de antigüedades (la foto tiene un link a una tienda… se reciben regalos). Hace poco Microsoft anunció [*Surface*](http://www.microsoft.com/surface/ "Microsoft Surface"), una mesa con una pantalla (un poco) más grande, sensible a múltiples puntos de contacto (similar a las que [ya se habían mencionado antes](http://www.mauriciogiraldo.com/blog/2007/03/11/interfases-tactiles-serpientes-hideo-kojima/ "mga/blog: Interfases táctiles, serpientes, Metal Gear Solid")) y que piensan instalar en bares y tiendas por todo el mundo. Hay unos ejemplos interesantes de esa mesa en uso:
 
-[![Microsoft Surface](//www.mauriciogiraldo.com/blog/wp-content/uploads/2007/06/mssurface.jpg)](http://www.microsoft.com/surface/)
+[![Microsoft Surface](/blog/assets/uploads/2007/06/mssurface.jpg)](http://www.microsoft.com/surface/)
 
 Por otro lado, **Jonathan Harris, Marcos Weskamp y Aaron Koblin**, tres expertos en visualización de datos, han sido reunidos por 37signals en [este chat donde hablan de sus proyectos](http://www.37signals.com/svn/posts/445-fireside-chat-jonathan-harris-aaron-koblin-and-marcos-weskamp-part-1-of-2 "Parte 1").
 

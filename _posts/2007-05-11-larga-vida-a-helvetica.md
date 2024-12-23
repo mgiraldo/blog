@@ -23,7 +23,7 @@ categories:
 
 —
 
-![Helvetica](//www.mauriciogiraldo.com/blog/wp-content/uploads/2007/04/helvetica.gif)
+![Helvetica](/blog/assets/uploads/2007/04/helvetica.gif)
 
 [Helvetica](http://en.wikipedia.org/wiki/Helvetica "Helvetica en Wikipedia") —pronunciada *helvética*— es una fuente tipográfica creada por los diseñadores suizos Max Miedinger y Eduard Hoffmann. Su nombre se deriva del nombre en latí­n de Suiza. Este año (2007) Helvetica se cumplen 50 años de la creación de esta legendaria fuente que se convertiría en una de las más representativas del diseño gráfico moderno. Para celebrar el cincuentenario, [Swiss Dots](http://www.swissdots.com/) y [Veer](http://www.veer.com/) se unieron para producir “[Helvetica: a documentary film](http://www.helveticafilm.com/ "sitio web del documental")“. Dirigida por Gary Hustwit (quien también ha trabajado en proyectos documentales sobre bandas como Wilco y pioneros musicales como Robert Moog, inventor del *Moog*) el documental incluye entrevistas con destacados diseñadores y el sitio web lo describe de la siguiente manera:
 
@@ -33,7 +33,7 @@ Al final de este post hay varios apartes del documental disponibles en YouTube.
 
 Helvetica tiene muchos amigos; [en MySpace ya tiene 3195](http://www.myspace.com/helveticafilm "MySpace del documental"). Khoi Vinh, quien ha sido [mencionado anteriormente en este blog](http://www.mauriciogiraldo.com/blog/2007/04/19/la-reticula-es-tu-amiga/ "mga/blog: La retí­cula es tu amiga"), diseñó una camiseta homenaje a Helvetica:
 
-[![Hel-fucking-vetica](//www.mauriciogiraldo.com/blog/wp-content/uploads/2007/05/helfuckingvetica.jpg)](http://www.subtraction.com/archives/2006/0913_what_everyon.php)
+[![Hel-fucking-vetica](/blog/assets/uploads/2007/05/helfuckingvetica.jpg)](http://www.subtraction.com/archives/2006/0913_what_everyon.php)
 
 Cuando Apple creó el primer Mac en 1984, Helvetica fue incluida con el sistema operativo (pagando una licencia a los diseñadores que la crearon) contribuyendo a la popularidad de la fuente.
 
