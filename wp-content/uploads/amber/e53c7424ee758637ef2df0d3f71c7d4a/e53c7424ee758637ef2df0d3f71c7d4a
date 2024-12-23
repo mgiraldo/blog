@@ -1,0 +1,590 @@
+
+<!DOCTYPE html>
+<html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="profile" href="https://gmpg.org/xfn/11">
+<script>(function(html){html.className = html.className.replace(/\bno-js\b/,'js')})(document.documentElement);</script>
+<title>About The Licenses - Creative Commons</title>
+<link rel="alternate" type="application/rss+xml" title="Creative Commons &raquo; Feed" href="https://creativecommons.org/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Creative Commons &raquo; Comments Feed" href="https://creativecommons.org/comments/feed/" />
+<link rel='stylesheet' id='twentysixteen-jetpack-css' href='assets/7c9531d8104afd86dd146bae5a382daa.css' type='text/css' media='all' />
+<link rel='stylesheet' id='cc-donate-css' href='assets/7721e15ad15197bacb2efb7234f8fe82.css' type='text/css' media='all' />
+<link rel='stylesheet' id='parent-style-css' href='assets/781ec3fc852c1daf0e68f71c6100683a.css' type='text/css' media='all' />
+<link rel="stylesheet" id="cc-fontello-css" href="assets/27c418210bc22453eb9f30e9bed72751.css" type="text/css" media="all">
+<link rel='stylesheet' id='cc-style-css' href='assets/68d0d6e8081b74f7a55f8c03bd9b0d2a.css' type='text/css' media='all' />
+<link rel='stylesheet' id='cc-style-css' href='https://ccstatic.org/ccwww2016/css/static.css' type='text/css' media='all' />
+<link rel='stylesheet' id='twentysixteen-style-css' href='assets/01b75e6b4d4689943312395f5c0e3fc9.css' type='text/css' media='all' />
+<!--[if lt IE 10]>
+    <link rel='stylesheet' id='twentysixteen-ie-css'  href='https://creativecommons.org/wp-content/themes/twentysixteen/css/ie.css?ver=20160412' type='text/css' media='all' />
+    <![endif]-->
+<!--[if lt IE 9]>
+    <link rel='stylesheet' id='twentysixteen-ie8-css'  href='https://creativecommons.org/wp-content/themes/twentysixteen/css/ie8.css?ver=20160412' type='text/css' media='all' />
+    <![endif]-->
+<!--[if lt IE 8]>
+    <link rel='stylesheet' id='twentysixteen-ie7-css'  href='https://creativecommons.org/wp-content/themes/twentysixteen/css/ie7.css?ver=20160412' type='text/css' media='all' />
+    <![endif]-->
+<script src="assets/63d25a61bcc56cbd465451c17ce35a2f.js" integrity="sha256-Qw82+bXyGq6MydymqBxNPYTaUXXq7c8v3CwiYwLLNXU=" crossorigin="anonymous"></script>
+<script src="assets/eed178c035eed3f53fc6e1ce816c37ae.js" integrity="sha256-SOuLUArmo4YXtXONKz+uxIGSKneCJG4x0nVcA0pFzV0=" crossorigin="anonymous"></script>
+<!--[if lt IE 9]>
+    <script type='text/javascript' src='https://creativecommons.org/wp-content/themes/twentysixteen/js/html5.js?ver=3.7.3'></script>
+    <![endif]-->
+<link rel="icon" href="https://creativecommons.org/wp-content/uploads/2016/05/cc-site-icon-300x300.png" sizes="192x192" />
+<link rel="apple-touch-icon-precomposed" href="https://creativecommons.org/wp-content/uploads/2016/05/cc-site-icon-300x300.png" />
+<meta name="msapplication-TileImage" content="https://creativecommons.org/wp-content/uploads/2016/05/cc-site-icon-300x300.png" />
+<link rel="stylesheet" href="assets/c9a08c04edfd84874ee31731f5640c66.css">
+<script type="text/javascript" src="assets/b1b4f49185a8226a7dbffaf6f0384ee4.js">
+  </script>
+<style type="text/css">
+#license_layers {
+    width: 247px;
+    height: 400px;
+    padding-left: 81px;
+    margin-top: 10px;
+    position: relative;
+}
+
+#license_layers h3 {
+    position: absolute;
+    bottom: 10px;
+    left: 0;
+    width: 170px;
+    text-align: center;
+    font-size: 15px;
+}
+
+#machine, #human, #legal {
+    position: absolute;
+    background: #ff0;
+    width: 170px;
+    height: 180px;
+    transform: rotate(45deg) skewX(-17deg) skewY(-17deg);
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.35);
+    transition: opacity .5s;
+    
+    /* for compatibility:*/
+    -ms-transform: rotate(45deg) skewX(-17deg) skewY(-17deg);
+    -moz-transform: rotate(45deg) skewX(-17deg) skewY(-17deg);
+    -webkit-transform: rotate(45deg) skewX(-17deg) skewY(-17deg);
+    -o-transform: rotate(45deg) skewX(-17deg) skewY(-17deg);
+    
+    -moz-transition: opacity .5s;
+    -webkit-transition: opacity .5s;
+    -o-transition: opacity .5s;
+    
+    -webkit-box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.35);	
+}
+
+#license_layers:hover #machine:not(:hover), 
+#license_layers:hover #human:not(:hover),
+#license_layers:hover #legal:not(:hover),
+.transparent {
+    opacity: .4;
+    filter:alpha(opacity=40); /* for ie */
+}
+
+#machine:hover, #human:hover, #legal:hover {
+    opacity: 1;
+    filter:alpha(opacity=100); /* for ie */
+}
+
+#machine {
+    background: url(assets/425df4c3aa9867bedab95a51f4a3402a.png) no-repeat;
+    top: 200px;
+    color: #fff;
+}
+
+#human {
+    background: url(assets/cd75dd15e599ff72de7b08f5fd486f23.png) no-repeat;
+    top: 100px;
+}
+
+#legal {
+    background: url(assets/05914bbcf1e8207265aeae5dded3acad.png) no-repeat;
+    top: 0px;
+}
+
+#desc_human, #desc_legal, #desc_machine {
+    transition: opacity .5s;
+    -moz-transition: opacity .5s;
+    -webkit-transition: opacity .5s;
+    -o-transition: opacity .5s;
+}
+
+  </style>
+<script src="assets/48b45b2c1e4ef013a2c4e0b90f0b5195.js" integrity="sha384-nvAa0+6Qg9clwYCGGPpDQLVpLNn0fRaROjHqs13t4Ggj3Ez50XnGQqc/r8MhnRDZ" crossorigin="anonymous"></script>
+<script type="text/javascript" charset="utf-8">	      
+// License layer cake rollover funtime
+$(document).ready(function() {
+    var timeout = null;
+    var static_layers = $("#static_license_layers")[0];
+    var dyne_layers = $("#license_layers")[0];
+
+    if (Modernizr.csstransforms) {
+	static_layers.style.display = "none";
+	dyne_layers.style.display = "block";
+    
+	$("#legal, #human, #machine").hover(function(e) {
+	    var target = "#desc_" + this.id;
+	    var blur = $('#license_descriptions p:not("'+target+'")');	    
+	    if (e.type === "mouseenter") {
+		blur.addClass("transparent");
+	    }
+	    else {
+		blur.removeClass("transparent");
+	    }
+	});
+    }
+    else {
+	static_layers.style.display = "block";
+	dyne_layers.style.display = "none";
+    }
+});
+  </script>
+</head>
+<body class="page page-static page-parent page-template-default wp-custom-logo group-blog">
+<div id="page" class="site">
+<div class="site-inner">
+<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+<div class="site-header-wrapper">
+<header id="masthead" class="site-header sticky-nav-main" role="banner">
+<div class="site-header-main">
+<div class="site-branding">
+<a class="cc-site-logo-link" href="https://creativecommons.org/" rel="home">
+<img class="cc-site-logo" width="303" height="72" src="assets/8eb422212bb035515788bb56f4fdb929.svg">
+</a>
+</div>
+<button id="menu-toggle" class="menu-toggle"><i class="cc-icon-menu"></i> <span>Menu</span></button>
+<div id="site-header-menu" class="site-header-menu">
+<nav id="mobile-navigation" class="mobile-navigation" role="navigation" aria-label="Mobile Menu">
+<div class="menu-mobile-menu-container"><ul id="menu-mobile-menu" class="mobile-menu">
+<li id="menu-item-48798" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48798"><a href="https://creativecommons.org/share-your-work/">Share your work</a></li>
+<li id="menu-item-48799" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48799"><a href="https://creativecommons.org/use-remix/">Use &#038; remix</a></li>
+<li id="menu-item-48800" class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-7466 menu-item-48800"><a href="https://creativecommons.org/about/">What We do</a></li>
+<li id="menu-item-48801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48801"><a href="https://creativecommons.org/blog/">Blog</a></li>
+<li id="menu-item-48802" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48802"><a href="https://network.creativecommons.org/?ref=global-affiliate-network">Global Network</a></li>
+<li id="menu-item-48803" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48803"><a href="https://creativecommons.org/use-remix/search-the-commons/">Search the Commons</a></li>
+</ul></div>
+</nav>
+<nav id="site-navigation" class="main-navigation" role="navigation" aria-label="Primary Menu">
+<div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="primary-menu">
+<li id="menu-item-48791" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48791"><a href="https://creativecommons.org/share-your-work/">Share your work</a></li>
+<li id="menu-item-48792" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48792"><a href="https://creativecommons.org/use-remix/">Use &#038; remix</a></li>
+<li id="menu-item-48570" class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-7466 menu-item-48570"><a href="https://creativecommons.org/about/">What We do</a></li>
+<li id="menu-item-48793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48793"><a href="https://creativecommons.org/blog/">Blog</a></li>
+</ul></div>
+</nav>
+<nav id="secondary-navigation" class="secondary-navigation" role="navigation" aria-label="Secondary Menu">
+<div class="menu-secondary-menu-container"><ul id="menu-secondary-menu" class="secondary-menu">
+<li id="menu-item-55890" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-55890"><a href="https://search.creativecommons.org/">Search for CC images</a></li>
+<li id="menu-item-48804" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48804"><a href="https://network.creativecommons.org/?ref=global-affiliate-network">Global Network</a></li>
+<li id="menu-item-56460" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-56460"><a href="https://us.e-activist.com/page/6747/subscribe/1?ea.tracking.id=mailing-list-page">Newsletters</a></li>
+<li id="menu-item-52800" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52800"><a href="https://store.creativecommons.org/">Store</a></li>
+<li id="menu-item-48806" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48806"><a href="https://creativecommons.org/about/contact/">Contact</a></li>
+</ul></div>
+</nav>
+<nav id="social-navigation" class="social-navigation" role="navigation" aria-label="Social Links Menu">
+<div class="menu-social-links-container"><ul id="menu-social-links" class="social-links-menu">
+<li id="menu-item-48807" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48807"><a href="https://www.facebook.com/creativecommons"><span class="screen-reader-text">Facebook</span></a></li>
+<li id="menu-item-48808" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48808"><a href="https://twitter.com/creativecommons"><span class="screen-reader-text">Twitter</span></a></li>
+<li id="menu-item-48809" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48809"><a href="mailto:info@creativecommons.org"><span class="screen-reader-text">Mail</span></a></li>
+</ul></div>
+</nav>
+</div>
+</div>
+</header>
+</div>
+<div id="content" class="site-content">
+
+<aside id="header-below" class="widget-area">
+<section id="text-3" class="widget-1 widget-first widget-last widget-odd widget widget_text">
+<div class="textwidget">
+<div id="donation-bar-wrapper" class="donation-bar-wrapper">
+<div id="donation-bar-inner" class="donation-bar-inner">
+<p class="donate-text">Help us build a vibrant, collaborative global commons</p>
+<div class="donate-action">
+<a href="https://us.netdonor.net/page/6650/donate/1?ea.tracking.id=chooser" class="button donate arrow">Donate<span class="hide-on-mobile"> Now</span></a>
+</div>
+</div>
+</div></div>
+</section>
+</aside>
+
+<div id="primary" class="content-area">
+<div id="wrapper-main" class="wrapper-main">
+<main id="main" class="site-main" role="main">
+<article class="static-page page type-page status-publish hentry">
+<div dir="ltr" style="text-align: left" id="main" role="main">
+<h1 dir="ltr" style="text-align: left">About The Licenses</h1>
+<div dir="ltr" style="text-align: left" id="content">
+<div style="border: 1px solid darkred; border-radius: 5px; padding: 12px; margin: 12px auto;">
+Creative Commons has updated its
+<a href="https://creativecommons.org/terms/">Master&nbsp;Terms&nbsp;of&nbsp;Service</a> and
+<a href="https://creativecommons.org/privacy/">Master&nbsp;Privacy&nbsp;Policy</a>,
+effective November 7, 2017.
+<em><strong>Before continuing on our websites or using our services, please review.</strong></em>
+</div>
+<div class="row">
+<div class="eight columns alpha">
+<h2>
+What our licenses do
+</h2>
+<div>
+The Creative Commons copyright licenses and tools forge a balance inside the traditional “all rights reserved” setting that copyright law creates. Our tools give everyone from individual creators to large companies and institutions a simple, standardized way to grant copyright permissions to their creative work. The combination of our tools and our users is a <a href="https://creativecommons.org/videos/a-shared-culture">vast and growing digital commons</a>, a pool of content that can be <a href="https://creativecommons.org/videos/wanna-work-together">copied, distributed, edited, remixed, and built upon</a>, all within the boundaries of copyright law.
+</div>
+</div>
+<div class="eight columns omega">
+<div class="embed-container" style="padding: 55% 0 0 0;position: relative; width: 640px; height: 480px;margin: auto;">
+<iframe src="https://player.vimeo.com/video/13590841?byline=0&amp;portrait=0" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen=""></iframe>
+</div>
+</div>
+</div> 
+<div class="row">
+<h2>
+License design and rationale
+</h2>
+<div class="eight columns alpha">
+<p>
+All Creative Commons licenses have many important features in common. Every license helps creators &mdash; we call them licensors if they use our tools &mdash; retain copyright while allowing others to copy, distribute, and make some uses of their work &mdash; at least non-commercially. Every Creative Commons license also ensures licensors get the credit for their work they deserve. Every Creative Commons license works around the world and lasts as long as applicable copyright lasts (because they are built on copyright). These common features serve as the baseline, on top of which licensors can choose to grant additional permissions when deciding how they want their work to be used.
+</p>
+<p>
+A Creative Commons licensor answers a few simple questions on the path to choosing a license &mdash; first, do I want to allow commercial use or not, and then second, do I want to allow derivative works or not? If a licensor decides to allow derivative works, she may also choose to require that anyone who uses the work &mdash; we call them licensees &mdash; to make that new work available under the same license terms. We call this idea “ShareAlike” and it is one of the mechanisms that (if chosen) helps the digital commons grow over time. ShareAlike is inspired by the GNU General Public License, used by many free and open source software projects.
+</p>
+</div>
+<div class="eight columns omega">
+<p>
+Our licenses do not affect freedoms that the law grants to users of creative works otherwise protected by copyright, such as exceptions and limitations to copyright law like fair dealing. Creative Commons licenses require licensees to get permission to do any of the things with a work that the law reserves exclusively to a licensor and that the license does not expressly allow. Licensees must credit the licensor, keep copyright notices intact on all copies of the work, and link to the license from copies of the work. Licensees cannot use technological measures to restrict access to the work by others.
+</p>
+<p>
+<a href="https://creativecommons.org/choose">Try out our simple <em>License Chooser</em></a>.
+</p>
+</div>
+</div>
+<div class="alt" id="layers">
+<div class="row">
+<h2>
+Three “Layers” Of Licenses
+</h2>
+<div class="six columns alpha">
+<img id="static_license_layers" style="display:none" src="assets/5916901ba84d6524b656e41720073558.png" alt="Three Layers of Licenses" />
+<div id="license_layers" style="display:block">
+<div id="machine">
+<h3>Machine Readable</h3>
+</div>
+<div id="human">
+<h3>Human Readable</h3>
+</div>
+<div id="legal">
+<h3>Legal Code</h3>
+</div>
+</div>
+</div>
+<div class="ten columns omega" id="license_descriptions">
+<p id="desc_legal">
+Our public copyright licenses incorporate a unique and innovative “three-layer” design. Each license begins as a traditional legal tool, in the kind of language and text formats that most lawyers know and love. We call this the Legal Code layer of each license.
+</p>
+<p id="desc_human">
+But since most creators, educators, and scientists are not in fact lawyers, we also make the licenses available in a format that normal people can read — the Commons Deed (also known as the “human readable” version of the license). The Commons Deed is a handy reference for licensors and licensees, summarizing and expressing some of the most important terms and conditions. Think of the Commons Deed as a user-friendly interface to the Legal Code beneath, although the Deed itself is not a license, and its contents are not part of the Legal Code itself.
+</p>
+<p id="desc_machine">
+The final layer of the license design recognizes that software, from search engines to office productivity to music editing, plays an enormous role in the creation, copying, discovery, and distribution of works. In order to make it easy for the Web to know when a work is available under a Creative Commons license, we provide a “machine readable” version of the license — a summary of the key freedoms and obligations written into a format that software systems, search engines, and other kinds of technology can understand. We developed a standardized way to describe licenses that software can understand called <a href="https://wiki.creativecommons.org/Ccrel">CC Rights Expression Language</a> (CC REL) to accomplish this.
+</p>
+<p>
+Searching for open content is an important function enabled by our approach. You can use <a href="https://www.google.com/support/websearch/bin/answer.py?&amp;answer=29508&amp;hl=">Google</a> to search for Creative Commons content, look for pictures at <a href="https://www.flickr.com/creativecommons/">Flickr</a>, albums at <a href="https://www.jamendo.com/en/creativecommons">Jamendo</a>, and general media at <a href="http://spinxpress.com/">spinxpress</a>. The <a href="https://commons.wikimedia.org/wiki/Main_Page">Wikimedia Commons</a>, the multimedia repository of <a href="https://wikipedia.org">Wikipedia</a>, is a core user of our licenses as well.
+</p>
+<p>
+Taken together, these three layers of licenses ensure that the spectrum of rights isn’t just a legal concept. It’s something that the creators of works can understand, their users can understand, and even the Web itself can understand.
+</p>
+</div>
+</div>
+</div>
+<div class="row" id="licenses">
+<h2>
+The Licenses
+</h2>
+<div class="row">
+<div class="eight columns alpha">
+<div class="two columns alpha">
+<img src="assets/722c0d4d947e96557eb83669a0f035f8.png" alt="" width="88" height="31" />
+</div>
+<div class="six columns omega">
+<p>
+<strong>
+Attribution
+<br />CC BY</strong>
+</p>
+<p>
+This license lets others distribute, remix, adapt, and build upon your work, even commercially, as long as they credit you for the original creation. This is the most accommodating of licenses offered. Recommended for maximum dissemination and use of licensed materials.
+</p>
+<p>
+<span style="color: #000000;">
+<a href="//creativecommons.org/licenses/by/4.0">
+View License Deed</a>
+| <a href="//creativecommons.org/licenses/by/4.0/legalcode">
+View Legal Code</a>
+</span>
+</p>
+</div>
+</div>
+<div class="eight columns omega">
+<div class="two columns alpha">
+<img src="assets/75e573b1363c938641f4787e82ebda37.png" alt="" width="88" height="31" />
+</div>
+<div class="six columns omega">
+<p>
+<strong>
+Attribution-ShareAlike
+<br />
+CC BY-SA
+</strong>
+</p>
+<p>
+This license lets others remix, adapt, and build upon your work even for commercial purposes, as long as they credit you and license their new creations under the identical terms. This license is often compared to “copyleft” free and open source software licenses. All new works based on yours will carry the same license, so any derivatives will also allow commercial use. This is the license used by Wikipedia, and is recommended for materials that would benefit from incorporating content from Wikipedia and similarly licensed projects.
+</p>
+<p>
+<span style="color: #000000;">
+<a href="//creativecommons.org/licenses/by-sa/4.0">
+View License Deed</a>
+| <a href="//creativecommons.org/licenses/by-sa/4.0/legalcode">
+View Legal Code</a>
+</span>
+</p>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="eight columns alpha">
+<div class="two columns alpha">
+<img src="assets/88d7b4522bb21ff02f6f4425789258e5.png" alt="" width="88" height="31" />
+</div>
+<div class="six columns omega">
+<p>
+<strong>
+Attribution-NoDerivs
+<br />
+ CC BY-ND
+</strong>
+</p>
+<p>
+This license lets others reuse the work for any purpose, including commercially; however, it cannot be shared with others in adapted form, and credit must be provided to you.
+</p>
+<p>
+<span style="color: #000000;">
+<a href="//creativecommons.org/licenses/by-nd/4.0">
+View License Deed</a>
+| <a href="//creativecommons.org/licenses/by-nd/4.0/legalcode">
+View Legal Code</a>
+</span>
+</p>
+</div>
+</div>
+<div class="eight columns omega">
+<div class="two columns alpha">
+<img src="assets/a4610d6de646b979a0b827add6a0de06.png" alt="" width="88" height="31" />
+</div>
+<div class="six columns omega">
+<p>
+<strong>
+Attribution-NonCommercial
+<br />
+CC BY-NC
+</strong>
+</p>
+<p>
+This license lets others remix, adapt, and build upon your work non-commercially, and although their new works must also acknowledge you and be non-commercial, they don’t have to license their derivative works on the same terms.
+</p>
+<p>
+<span style="color: #000000;">
+<a href="//creativecommons.org/licenses/by-nc/4.0">
+View License Deed</a>
+| <a href="//creativecommons.org/licenses/by-nc/4.0/legalcode">
+View Legal Code</a>
+</span>
+</p>
+</div>
+</div>
+</div>
+<div class="row">
+<div class="eight columns alpha">
+<div class="two columns alpha">
+<img src="assets/e9ee9cbc8a0f92b841ea1a91c391563b.png" alt="" width="88" height="31" />
+</div>
+<div class="six columns omega">
+<p>
+<strong>
+Attribution-NonCommercial-ShareAlike
+<br />
+CC BY-NC-SA
+</strong>
+</p>
+<p>
+This license lets others remix, adapt, and build upon your work non-commercially, as long as they credit you and license their new creations under the identical terms.
+</p>
+<p>
+<span style="color: #000000;">
+<a href="//creativecommons.org/licenses/by-nc-sa/4.0">
+View License Deed</a>
+| <a href="//creativecommons.org/licenses/by-nc-sa/4.0/legalcode">
+View Legal Code</a>
+</span>
+</p>
+</div>
+</div>
+<div class="eight columns omega">
+<div class="two columns alpha">
+<img src="assets/cff2db59710b31da9b154c45987fed6d.png" alt="" width="88" height="31" />
+</div>
+<div class="six columns omega">
+<p>
+<strong>
+Attribution-NonCommercial-NoDerivs
+<br />
+CC BY-NC-ND
+</strong>
+</p>
+<p>
+This license is the most restrictive of our six main licenses, only allowing others to download your works and share them with others as long as they credit you, but they can’t change them in any way or use them commercially.
+</p>
+<p>
+<span style="color: #000000;">
+<a href="//creativecommons.org/licenses/by-nc-nd/4.0">
+View License Deed</a>
+| <a href="//creativecommons.org/licenses/by-nc-nd/4.0/legalcode">
+View Legal Code</a>
+</span>
+</p>
+</div>
+</div>
+</div>
+<div class="row">
+<p>
+We also provide tools that work in the “all rights granted” space of the <a href="https://wiki.creativecommons.org/Public_domain">public domain</a>. Our <a href="https://creativecommons.org/about/cc0">CC0 tool</a> allows licensors to waive all rights and place a work in the public domain, and our <a href="https://creativecommons.org/about/pdm">Public Domain Mark</a> allows any web user to “mark” a work as being in the public domain.
+</p>
+</div>
+</div>
+<div class="row">
+<div class="licensebox" style="background:#FAFAD6;">
+<span dir="ltr" style="text-align: left">
+This page is available in the following languages:
+</span>
+<br />
+<a title="Bahasa Indonesia" href="?lang=id" hreflang="id" xml:lang="id">Bahasa Indonesia</a>
+<a title="Bahasa Malaysia" href="?lang=ms" hreflang="ms" xml:lang="ms">Bahasa Malaysia</a>
+<a title="Castellano (España)" href="?lang=es_ES" hreflang="es_ES" xml:lang="es_ES">Castellano (España)</a>
+<a title="Català" href="?lang=ca" hreflang="ca" xml:lang="ca">Català</a>
+<a title="Dansk" href="?lang=da" hreflang="da" xml:lang="da">Dansk</a>
+<a title="Deutsch" href="?lang=de" hreflang="de" xml:lang="de">Deutsch</a>
+<a title="English" href="?lang=en" hreflang="en" xml:lang="en">English</a>
+<a title="Español" href="?lang=es" hreflang="es" xml:lang="es">Español</a>
+<a title="Esperanto" href="?lang=eo" hreflang="eo" xml:lang="eo">Esperanto</a>
+<a title="Euskara" href="?lang=eu" hreflang="eu" xml:lang="eu">Euskara</a>
+<a title="français" href="?lang=fr" hreflang="fr" xml:lang="fr">français</a>
+<a title="Galego" href="?lang=gl" hreflang="gl" xml:lang="gl">Galego</a>
+<a title="hrvatski" href="?lang=hr" hreflang="hr" xml:lang="hr">hrvatski</a>
+<a title="Italiano" href="?lang=it" hreflang="it" xml:lang="it">Italiano</a>
+<a title="Latviski" href="?lang=lv" hreflang="lv" xml:lang="lv">Latviski</a>
+<a title="Lietuvių" href="?lang=lt" hreflang="lt" xml:lang="lt">Lietuvių</a>
+<a title="Magyar" href="?lang=hu" hreflang="hu" xml:lang="hu">Magyar</a>
+<a title="Nederlands" href="?lang=nl" hreflang="nl" xml:lang="nl">Nederlands</a>
+<a title="norsk" href="?lang=no" hreflang="no" xml:lang="no">norsk</a>
+<a title="polski" href="?lang=pl" hreflang="pl" xml:lang="pl">polski</a>
+<a title="Português" href="?lang=pt" hreflang="pt" xml:lang="pt">Português</a>
+<a title="Português (BR)" href="?lang=pt_BR" hreflang="pt_BR" xml:lang="pt_BR">Português (BR)</a>
+<a title="română" href="?lang=ro" hreflang="ro" xml:lang="ro">română</a>
+<a title="Slovenščina" href="?lang=sl" hreflang="sl" xml:lang="sl">Slovenščina</a>
+<a title="srpski (latinica)" href="?lang=sr_LATN" hreflang="sr_LATN" xml:lang="sr_LATN">srpski (latinica)</a>
+<a title="suomeksi" href="?lang=fi" hreflang="fi" xml:lang="fi">suomeksi</a>
+<a title="svenska" href="?lang=sv" hreflang="sv" xml:lang="sv">svenska</a>
+<a title="Türkçe" href="?lang=tr" hreflang="tr" xml:lang="tr">Türkçe</a>
+<a title="Íslenska" href="?lang=is" hreflang="is" xml:lang="is">Íslenska</a>
+<a title="čeština" href="?lang=cs" hreflang="cs" xml:lang="cs">čeština</a>
+<a title="Ελληνικά" href="?lang=el" hreflang="el" xml:lang="el">Ελληνικά</a>
+<a title="Беларуская" href="?lang=be" hreflang="be" xml:lang="be">Беларуская</a>
+<a title="русский" href="?lang=ru" hreflang="ru" xml:lang="ru">русский</a>
+<a title="українська" href="?lang=uk" hreflang="uk" xml:lang="uk">українська</a>
+<a title="العربية" href="?lang=ar" hreflang="ar" xml:lang="ar">العربية</a>
+<a title="پارسی" href="?lang=fa" hreflang="fa" xml:lang="fa">پارسی</a>
+<a title="বাংলা" href="?lang=bn" hreflang="bn" xml:lang="bn">বাংলা</a>
+<a title="中文" href="?lang=zh" hreflang="zh" xml:lang="zh">中文</a>
+<a title="日本語" href="?lang=ja" hreflang="ja" xml:lang="ja">日本語</a>
+<a title="華語 (台灣)" href="?lang=zh_TW" hreflang="zh_TW" xml:lang="zh_TW">華語 (台灣)</a>
+<a title="한국어" href="?lang=ko" hreflang="ko" xml:lang="ko">한국어</a>
+</div>
+</div>
+</div>
+</article>
+</main>
+</div>
+</div>
+</div>
+<div class="site-footer-wrapper">
+<footer id="colophon" class="site-footer sticky-nav-main" role="contentinfo">
+<div class="cc-footer">
+<div class="column cc-footer-main">
+<div class="cc-footer-logo">
+<a href="https://creativecommons.org/" class="custom-logo-link" rel="home" itemprop="url"><img width="980" height="240" src="assets/c22bbddc9da8e4ea01a5d02a0bea8711.png" class="custom-logo" alt="cc.logo.white" itemprop="logo" srcset="assets/c22bbddc9da8e4ea01a5d02a0bea8711.png 980w, https://creativecommons.org/wp-content/uploads/2016/06/cc.logo_.white_-300x73.png 300w, https://creativecommons.org/wp-content/uploads/2016/06/cc.logo_.white_-768x188.png 768w, https://creativecommons.org/wp-content/uploads/2016/06/cc.logo_.white_-140x34.png 140w, https://creativecommons.org/wp-content/uploads/2016/06/cc.logo_.white_-50x12.png 50w, https://creativecommons.org/wp-content/uploads/2016/06/cc.logo_.white_-270x66.png 270w, https://creativecommons.org/wp-content/uploads/2016/06/cc.logo_.white_-245x60.png 245w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></a>
+</div>
+<div class="cc-footer-links">
+<div class="menu-footer-links-container">
+<ul id="menu-footer-links" class="menu">
+<li id="menu-item-48794" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48794"><a href="https://creativecommons.org/about/contact/">Contact</a></li>
+<li id="menu-item-48795" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48795"><a href="https://creativecommons.org/privacy/">Privacy</a></li>
+<li id="menu-item-48796" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48796"><a href="https://creativecommons.org/policies/">Policies</a></li>
+<li id="menu-item-48797" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48797"><a href="https://creativecommons.org/terms/">Terms</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="column cc-footer-contact">
+<h6><a href="https://creativecommons.org/about/contact">We'd love to hear from you!</a></h6>
+<address>
+Creative Commons<br />
+PO Box 1866, Mountain View, CA 94042
+</address>
+<ul>
+<li><a href="mailto:info@creativecommons.org" class="mail">info@creativecommons.org</a></li>
+<li><a href="https://creativecommons.org/faq">Frequently Asked Questions</a></li>
+</ul>
+</div>
+<div class="column cc-footer-license">
+<div class="license-icons">
+<a rel="license" href="https://creativecommons.org/licenses/by/4.0/" title="Creative Commons Attribution 4.0 International license">
+<i class="cc-icon-cc"></i>
+<i class="cc-icon-cc-by"></i>
+</a>
+</div>
+<aside>
+<div xmlns:cc="https://creativecommons.org/ns#" about="https://creativecommons.org">
+<p>Except where otherwise <a class="subfoot" href="https://creativecommons.org/policies#license">noted</a>, content on this site is licensed under a <a class="subfoot" href="https://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons Attribution 4.0 International license</a>. <a class="subfoot" href="https://creativecommons.org/website-icons" target="blank">Icons</a> by The Noun Project.</p>
+</div>
+</aside>
+</div>
+</div>
+</footer>
+</div>
+</div>
+</div>
+<div style="display:none">
+</div>
+<script type='text/javascript' src='assets/e1dd103707a5ee9b8b0d9f36da384045.js'></script>
+<script type='text/javascript' src='assets/394755fab6a5d3a861a49f98e297edf6.js'></script>
+<script type='text/javascript' src='assets/af938de926810c06eeafcdbcc5b3eada.js'></script>
+<script type='text/javascript' src='assets/f666a6734505a49ae6a7d90c6f5ba4c6.js'></script>
+<script type='text/javascript' src='assets/ec662018ac89dcc3723fc3e1091ce6b1.js'></script>
+<script type='text/javascript' src='assets/117f7c3c7ad112b214d0d04ca30bfdcf.js'></script>
+<script type='text/javascript' src='assets/baa405531f41ed2ba4d7bb226dd2e071.js'></script>
+<script type='text/javascript' src='assets/6869df7a03112669737ed17bb70a56f5.js'></script>
+<script type='text/javascript'>
+        /* <![CDATA[ */
+        var screenReaderText = {"expand":"expand child menu","collapse":"collapse child menu"};
+        /* ]]> */
+    </script>
+<script type='text/javascript' src='assets/53dceaa68aa5c6fd8a60ed30befd4706.js'></script>
+<script type='text/javascript' src='assets/4f962b00f3203d041388754009b6b912.2'></script>
+<script type='text/javascript' src='assets/117c56629fba3b8c8516169f1513cd90.19'></script>
+
+<div style="position:fixed;top:0;left:0;width:100%;height:45px;z-index:2147483647;background-color:rgba(253,147,38,0.90) !important;color:black !important;text-align:right !important;font:normal 12px/45px Arial, sans-serif !important;border-radius:0 !important;margin:0 !important;max-width:100% !important;background-repeat: no-repeat !important;background-position: 15px center !important;
+background-image: url(data:image/png;base64,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);
+"><span style="padding-right:15px;">You are viewing a snapshot of <a style='font-weight:bold !important; color:white !important' href='http://creativecommons.org/about/licenses/'>http://creativecommons.org/about/licenses/</a> created on 2020/08/10</span></div></body>
+</html>

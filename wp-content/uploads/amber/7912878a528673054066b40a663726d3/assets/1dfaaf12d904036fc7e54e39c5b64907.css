@@ -1,0 +1,131 @@
+a:link {
+	text-decoration: underline;
+	background: none;
+	color: #7E4949;
+}
+a:visited {
+	text-decoration: underline;
+	background: none;
+	color: #7E4949;
+}
+a:hover {
+	color: #9A4848;
+	text-decoration: underline;
+	background: #1E1B1B;
+}
+.menu a:link, .menu a:visited {
+	color: #F6004F;
+	padding: 2px;
+	text-decoration: none;
+	background: none;
+}
+.menu a:hover{
+	text-decoration: none;
+	background: #352424;
+}
+.menu {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 13px;
+	font-family: verdana;
+	font-size: 11px;
+	font-style: italic;
+	line-height: 17px;
+	color: #CCCCCC;
+}
+.normal {
+	font-family: arial, verdana, arial, sans-serif;
+	font-size: 16px;
+	line-height: 21px;
+	color: #5F4B4B;
+	color: #9E5E5E;
+	color: #BE6868;
+}
+.header {
+	color: #F6004F;
+	font-family: arial, verdana, arial, sans-serif;
+	font-size: 16px;
+	line-height: 21px;
+	font-style: normal;
+}
+.open {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 21px;
+	font-style: italic;
+	line-height: 21px;
+	color: #F6004F;
+}
+.title {
+	font-family: Georgia, "Times New Roman", Times, serif;
+	font-size: 29px;
+	font-style: italic;
+	line-height: 27px;
+	color: #F6004F;
+}
+.title a:link, .title a:visited {
+	text-decoration: none;
+	color: #F6004F;
+	color: #F67895;
+}
+img.left {
+	float: left;
+	margin: 0 12px 2px 0;
+	display: inline;
+	padding: 8px;
+	border: 1px solid #2D2020;
+}
+img.left-noborder {
+	float: left;
+	margin: 0 12px 2px 0;
+	display: inline;
+}
+.clear {
+	clear: both;
+}
+.bar{
+	clear: both;
+	margin: 25px 0;
+	height: 1px;
+	overflow: hidden;
+	display: block;
+	background: #372424;
+}
+.box {
+	text-align: center;
+}
+.box a:link, .box a:visited {
+	display: block;
+	padding: 15px;
+	background: #2D2020;
+	margin: 15px 10px 0 0;
+	padding: 15px;
+	text-decoration: none;
+	border: 3px solid #3F2C2C;
+}
+.box a:hover {
+	background: #352424;
+	text-decoration: none;
+}
+.red, .red a:link, .red a:visited {
+	color: #F6004F;
+}
+.white {
+	color: #FFFFFF;
+}
+.bright {
+	color: #DC8383;
+}
+.webby {
+	background: #222;
+	padding: 8px;
+	display: block;
+}
+.webby .image {
+	float: left;
+	margin: 0 8px 0 0;
+}
+.webby .image a:link img, .webby .image a:visited img {
+	border: 0;
+}
+.webby .text p {
+	margin: 0 0 8px 0;
+}

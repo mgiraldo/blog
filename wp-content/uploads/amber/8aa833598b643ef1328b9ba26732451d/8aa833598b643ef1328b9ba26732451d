@@ -1,0 +1,600 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-GB" lang="en-GB">
+
+
+<head>
+<title>The Encyclopedia of Arda - Galadriel</title>
+<link rel="stylesheet" href="assets/a064d6f5250d45d66b6d524721d3e905.css" />
+<!--[if IE]>
+<link rel="stylesheet" href="../encarda-2012-ie.css" />
+<![endif]-->
+<link rel="stylesheet" href="assets/6e1d28fbbbb08cc0776fe89a462d097e.css" />
+<link rel="stylesheet" href="assets/578f0f3677ba13404d075d804f467ab5.css" />
+<link rel="shortcut icon" href="../icon_palantir.ico" />
+<link rel="canonical" href="http://www.glyphweb.com/arda/g/galadriel.php" />
+<script type="text/javascript" src="assets/c58f995d6fceb73277e6d0e223f3b500.js" /></script>
+<script type="text/javascript" src="assets/74e2318e39dd728c576496d9022242c8.js" /></script>
+<script type="text/javascript">
+var root = '../';
+</script>
+<script type="text/javascript" src="assets/48e047b151e72207195d609ca3b5bbce.js" /></script>
+
+<meta name="description" content="Lady of L&#243;rien" />
+<meta name="keywords" content="j.r.r. tolkien,encyclopedia,arda,middle-earth,maps,timeline,chronicle,calendar,search,lexicon,dictionary,links" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta http-equiv="X-UA-Compatible" content="IE=9" />
+<!--<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9" />-->
+<script type="text/javascript">
+url = 'http://www.glyphweb.com/arda/g/galadriel.html';
+homeUrl = 'http://www.glyphweb.com/arda/default.php';
+url = escape(url);
+title = document.title;
+function makeShareLink(target,urlParam,titleParam){
+  target = target + '?' + urlParam + url;
+  if (titleParam != '') {
+    target = target + '&' + titleParam + title;
+  }
+  location.href = target;
+}
+</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-40719156-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
+
+<body onload="initHomepageImage('elves');if (themeName) { initTheme(); }">
+
+<table class="structure" id="themePageStructure">
+
+    <col width="50%" />
+    <col width="1000px" />
+    <col width="50%" />
+
+    <tr>
+        <td class="margin"></td>
+        <td class="content" id="themePageTop">
+            
+<table class="homepageStructure" cellspacing="0" cellpadding="0" border="0" id="themeBaseStructure">
+    
+<col width="1000px" />
+    
+<tr>
+<td colspan="1" class="header" id="palantirHeader">
+<a href="../default.asp"><img src="assets/daf4e66b7eba191ca9c5d9b9c526ed7f.png" width="156" height="170" id="mainLogo" /></a>
+<a href="../default.asp"><img src="assets/2eaa6e2465ffc694f82045f01d4c2b21.png" width="306" height="60" alt="The Encyclopedia of Arda - an interactive guide to the world of J.R.R. Tolkien" id="logotype" /></a>
+<div class="mainmenuBar">
+<div class="mainmenu">
+<a href="../index_alpha.html" id="menuItemAlpha" onmouseover="activateMenu(this)" onmouseout="hideMenu(this)">ALPHABETICAL</a>
+<a href="../index_race.html" id="menuItemRaces" onmouseover="activateMenu(this)" onmouseout="hideMenu(this)">RACES</a>
+<a href="../index_plac.html" id="menuItemPlaces" onmouseover="activateMenu(this)" onmouseout="hideMenu(this)">PLACES</a>
+<a href="../index_misc.html" id="menuItemMiscellaneous" onmouseover="activateMenu(this)" onmouseout="hideMenu(this)">MISCELLANEOUS</a>
+<a href="../index_articles.html" id="menuItemArticles" onmouseover="activateMenu(this)" onmouseout="hideMenu(this)">REFERENCE</a>
+<a href="../index_tools.html" id="menuItemTools" onmouseover="activateMenu(this)" onmouseout="hideMenu(this)">INTERACTIVE</a>
+<a href="#" id="menuItemShare" onmouseover="activateMenu(this)" onmouseout="hideMenu(this)"><img src="assets/63111e6dcd2e7297f722b1746d9995eb.gif" width="13" height="10" /> SHARE</a>
+
+<div id="searchBox">
+<form action="../search.asp" method="GET">
+<table>
+<tr>
+<td><input type="text" class="textbox" maxlength="255" name="search" /></td>
+<td><button type="submit" class="searchButton" title="Search the Encyclopedia of Arda"></button></td>
+</tr>
+</table>
+</form>
+</div>
+</div>
+
+<div class="dropdownMenu alphaMenu" id="dropdownMenuAlpha" onmouseover="activateMenu(this)" onmouseout="hideMenu(this)" onclick="hideMenu(this,true)">
+<table class="alphaTable">
+<tr>
+<td><a href="../alphaa.html">A</a></td>
+<td><a href="../alphab.html">B</a></td>
+<td><a href="../alphac.html">C</a></td>
+<td><a href="../alphad.html">D</a></td>
+<td><a href="../alphae.html">E</a></td>
+<td><a href="../alphaf.html">F</a></td>
+<td><a href="../alphag.html">G</a></td>
+<td><a href="../alphah.html">H</a></td>
+<td><a href="../alphai.html">I</a></td>
+<td><a href="../alphaj.html">J</a></td>
+<td><a href="../alphak.html">K</a></td>
+<td><a href="../alphal.html">L</a></td>
+<td><a href="../alpham.html">M</a></td>
+</tr>
+<tr>
+<td><a href="../alphan.html">N</a></td>
+<td><a href="../alphao.html">O</a></td>
+<td><a href="../alphap.html">P</a></td>
+<td><a href="../alphaq.html">Q</a></td>
+<td><a href="../alphar.html">R</a></td>
+<td><a href="../alphas.html">S</a></td>
+<td><a href="../alphat.html">T</a></td>
+<td><a href="../alphau.html">U</a></td>
+<td><a href="../alphav.html">V</a></td>
+<td><a href="../alphaw.html">W</a></td>
+<td><a style="color:#a07070">X</a></td>
+<td><a href="../alphay.html">Y</a></td>
+<td><a href="../alphaz.html">Z</a></td>
+<td colspan="4"></td>
+</tr>
+</table>
+</div>
+
+<div class="dropdownMenu" id="dropdownMenuRaces" onmouseover="activateMenu(this)" onmouseout="hideMenu(this)" onclick="hideMenu(this,true)">
+<ul>
+<li><a href="../raceainu.html">Ainur</a></li>
+<li><a href="../racedrag.html">Dragons</a></li>
+<li><a href="../racedwar.html">Dwarves</a></li>
+<li><a href="../raceelve.html">Elves</a></li>
+<li><a href="../raceents.html">Ents</a></li>
+<li><a href="../racehobb.html">Hobbits</a></li>
+<li><a href="../racemen.html">Men</a></li>
+<li><a href="../raceorcs.html">Orcs</a></li>
+</ul>
+<hr />
+<ul>
+<li><a href="../raceothe.html">Other races</a></li>
+</ul>
+</div>
+
+<div class="dropdownMenu" id="dropdownMenuPlaces" onmouseover="activateMenu(this)" onmouseout="hideMenu(this)" onclick="hideMenu(this,true)">
+<ul>
+<li><a href="../placciti.html">Cities and buildings</a></li>
+<li><a href="../placfiel.html">Fields, plains and deserts</a></li>
+<li><a href="../placfore.html">Forests</a></li>
+<li><a href="../plachill.html">Hills and mountains</a></li>
+<li><a href="../placisla.html">Islands and promontories</a></li>
+<li><a href="../placland.html">Lands, realms and regions</a></li>
+<li><a href="../placrive.html">Rivers and lakes</a></li>
+<li><a href="../placseas.html">Seas and oceans</a></li>
+</ul>
+<hr />
+<ul>
+<li><a href="../placothe.html">Other places</a></li>
+</ul>
+</div>
+
+<div class="dropdownMenu" id="dropdownMenuMiscellaneous" onmouseover="activateMenu(this)" onmouseout="hideMenu(this)" onclick="hideMenu(this,true)">
+<ul>
+<li><a href="../maps.html">Maps and illustrations</a></li>
+</ul>
+<hr />
+<ul>
+<li><a href="../miscanim.html">Animals and plants</a></li>
+<li><a href="../misceven.html">Events</a></li>
+<li><a href="../miscitem.html">Items</a></li>
+<li><a href="../misclang.html">Languages and writing</a></li>
+<li><a href="../miscsong.html">Songs, lays and tales</a></li>
+<li><a href="../misctime.html">Time and calendars</a></li>
+</ul>
+<hr />
+<ul>
+<li><a href="../miscothe.html">More topics</a></li>
+</ul>
+</div>
+
+<div class="dropdownMenu" id="dropdownMenuArticles" onmouseover="activateMenu(this)" onmouseout="hideMenu(this)" onclick="hideMenu(this,true)">
+<ul>
+<li><a href="../about.html">User guide</a></li>
+<li><a href="../latest.asp">Latest entries</a></li>
+<li><a href="../faq/intro.html">FAQ and e-mail</a></li>
+<li><a href="../books.html">Disclaimer and bibliography</a></li>
+<li><a href="../awards.html">Awards</a></li>
+</ul>
+<hr />
+<ul>
+<li><a href="../words.html">Old and rare words</a></li>
+<li><a href="../lexicon.html">Lexicon of names</a></li>
+<li><a href="../excyclopedia.html">Excyclopedia of Arda</a></li>
+<li><a href="../movie.html">Movie-goer's Guides:</a></li>
+<ul>
+<li><i><a href="../movie.html">&#149; The Fellowship of the Ring</a></i></li>
+<li><i><a href="../twotowers.html">&#149; The Two Towers</a></i></li>
+<li><i><a href="../returnoftheking.html">&#149; The Return of the King</a></i></li>
+</ul>
+<li><a href="../the-hobbit-an-unexpected-journey.html"><i>The Hobbit</i> Viewer's Companions:</a></li>
+<ul>
+<li><i><a href="../the-hobbit-an-unexpected-journey.html">&#149; An Unexpected Journey</a></i></li>
+<li><i><a href="../the-hobbit-the-desolation-of-smaug.html">&#149; The Desolation of Smaug</a></i></li>
+<li><i><a href="../the-hobbit-the-battle-of-the-five-armies.html">&#149; The Battle of the Five Armies</a></i></li>
+</ul>
+</ul>
+</ul>
+<hr />
+<ul>
+<li><a href="../links.asp">Tolkien links</a></li>
+<li><a href="../booknews1.html">Book news</a></li>
+</ul>
+</div>
+
+<div class="dropdownMenu" id="dropdownMenuTools" onmouseover="activateMenu(this)" onmouseout="hideMenu(this)" onclick="hideMenu(this,true)">
+<ul>
+<li><a href="../chronicle.html">The Chronicle of Arda</a></li>
+<li><a href="../dates.html">Interactive calendar</a></li>
+<li><a href="../random.asp">Random entry</a></li>
+</ul>
+<hr />
+<ul>
+<li><a href="http://itunes.apple.com/gb/app/encarda/id416105384?mt=8" target="_blank">iPhone edition</a></li>
+<li><a href="http://itunes.apple.com/gb/app/encarda-hd/id420396627?mt=8" target="_blank">iPad edition</a></li>
+</ul>
+</div>
+
+<div class="dropdownMenu" id="dropdownMenuShare" onmouseover="activateMenu(this)" onmouseout="hideMenu(this)" onclick="hideMenu(this,true)">
+<ul>
+<li><a href="" onclick="makeShareLink('http://del.icio.us/post','url=','title='); return false;" title="Share this page on Delicious">
+<span class="iconWrapper"><img src="assets/b8071628d436ef16e2d1aad14779459c.gif" width="14" height="14" class="iconImage" /></span>
+<span  class="iconLabel">Delicious</span></a></li>
+<li><a href="" onclick="makeShareLink('http://digg.com/submit','url=','title='); return false;" title="Share this page on Digg">
+<span class="iconWrapper"><img src="assets/9f961f9000c1215b53068b9d892cd157.gif" width="16" height="14" class="iconImage" /></span>
+<span  class="iconLabel">Digg</span></a></li>
+<li><a href="" onclick="makeShareLink('http://www.facebook.com/sharer.php','u=',''); return false;" title="Share this page on Facebook">
+<span class="iconWrapper"><img src="assets/3e13f15f7db30468a1247673ac9e53fe.gif" width="14" height="14" class="iconImage" /></span>
+<span  class="iconLabel">Facebook</span></a></li>
+<li><a href="" onclick="makeShareLink('http://reddit.com/submit','url=','title='); return false;" title="Share this page on reddit">
+<span class="iconWrapper"><img src="assets/b20773aff2799ed394b2f303066bffe0.gif" width="17" height="14" class="iconImage" /></span>
+<span  class="iconLabel">reddit</span></a></li>
+<li><a href="" onclick="makeShareLink('http://www.stumbleupon.com/submit','url=','title='); return false;" title="Share this page on StumbleUpon">
+<span class="iconWrapper"><img src="assets/6bd344b58bf2aa2ec9435357f05df8a1.gif" width="15" height="14" class="iconImage" /></span>
+<span  class="iconLabel">StumbleUpon</span></a></li>
+<li><a href="" onclick="makeShareLink('http://twitter.com/home','status=add+this:+',''); return false;" title="Share this page on Twitter">
+<span class="iconWrapper"><img src="assets/5a8affcb7f6a27ee42967cfdbc016ee3.gif" width="12" height="14" class="iconImage" /></span>
+<span  class="iconLabel">Twitter</span></a></li>
+</ul>
+</div>
+
+</div>
+<div class="submenuBar">
+<a href="../latest.asp" title="See the latest entries to be added or updated">Latest</a>
+<a href="../chronicle.html" title="Open an interactive timeline to explore the history of Arda">Chronicle</a>
+<a href="../dates.html" title="Open an interactive calendar showing events from Tolkien's histories for any day of the year">Calendar</a>
+<a href="../words.html" title="Open a glossary of old or rare words used in Tolkien's works">Old and rare words</a>
+<a href="../lexicon.html" title="Open a lexicon of elements used in placenames and personal names">Lexicon of names</a>
+<a href="../links.asp" title="Open an index of links to Tolkien-related sites elsewhere on the Web">Links</a>
+<a href="../random.asp" title="Open an encyclopedia entry selected at random">Random</a>
+</div>
+
+</td>
+</tr>
+    
+    <tr>
+
+
+<td class="mainContent" id="mainContentWrapper">
+
+<div class="entryTopSpace">
+</div>
+
+<div class="standardPageContent">
+<div class="timelineWrapperMobile" id="timelineWrapperMobile"></div>
+<table>
+<tr>
+<td class="factboxColumn">
+<div class="factboxWrapper">
+<div class="factboxLabel">Dates</div>
+<div class="factboxContent">Born in <a href="../v/valinor.html">Valinor</a> during the <a href="../y/yearsofthetrees.html">Years of the Trees</a>; returned to <a href="../m/middleearth.html">Middle-earth</a> with the <a href="../n/noldor.html">Noldor</a> <a href="../chronicle.html?startyear=1&startage=1">I 1</a>; departed over the sea <a href="../dates.html?dn=263">29 September</a> <a href="../chronicle.html?startyear=3021&startage=3">III 3021</a></div>
+<div class="factboxLabel">Race</div>
+<div class="factboxContent"><a href="../e/elves.html">Elves</a></div>
+<div class="factboxLabel">Division</div>
+<div class="factboxContent"><a href="../n/noldor.html">Noldor</a></div>
+<div class="factboxLabel">Pronunciation</div>
+<div class="factboxContent">gala'driel</div>
+<div class="factboxLabel">Meaning</div>
+<div class="factboxContent">'Maiden crowned by a radiant garland' (referring to her hair)</div>
+<div class="factboxLabel">Other names</div>
+<div class="factboxContent"><a href="../a/alatariel.html">Alat&#225;riel</a>, <a href="../a/altariel.html">Alt&#225;riel</a>, <a href="../a/artanis.html">Artanis</a>, <a href="../g/galadhriel.html">Galadhriel</a>, <a href="../n/nerwen.html">Nerwen</a></div>
+<div class="factboxLabel">Titles</div>
+<div class="factboxContent"><a href="../l/ladyoftheelves.html">Lady of the Elves</a>, <a href="../l/ladyofthegaladhrim.html">Lady of the Galadhrim</a>, <a href="../l/ladyofthegoldenwood.html">Lady of the Golden Wood</a>, <a href="../l/ladyoflorien.html">Lady of L&#243;rien</a>, <a href=:../l/ladyofthenoldor.html">Lady of the Noldor</a>, <a href="../l/ladyofthewood.html">Lady of the Wood</a>, Mistress of Magic, <a href="../s/sorceressofthegoldenwood.html">Sorceress of the Golden Wood</a>, <a href="../w/whitelady.html">White Lady</a></div>
+<hr />
+</div>
+
+<div class="entrySummary">
+<p style="margin:0px;font-size:11px"><em>Indexes:</em></p>
+<ul style="margin-top:0px">
+<li><a href="../alphag.html">Alphabetical: G</a></li>
+<li><a href="../raceelve.html">Elves</a></li>
+</ul>
+
+<p style=margin:0px;font-size:11px><em>About this entry:</em></p>
+<ul style="margin-top:0px">
+<li>Updated 15 June 2008</li>
+<li>This entry is complete</li>
+</ul>
+</div>
+</td>
+
+<td class="entryColumn">
+
+<div class="entryCaption">
+<h1>Galadriel</h1>
+<h2><a href="../l/ladyoflorien.html">Lady of L&#243;rien</a></h2>
+</div>
+
+<div class="timelineWrapper" id="timelineWrapper"><div class="timeline"><div class="timelineGraphic"></div><div class="timelineBars"><div class="timelineBar timelineBarCapinlight" style="width:1.4450867052023%"><img src="assets/4fa7de04a2a2e2abe70a0847bdd15221.png" /></div><div class="timelineBar timelineBarLight" style="width:8.0924855491329%"><img src="assets/4fa7de04a2a2e2abe70a0847bdd15221.png" /></div><div class="timelineBar timelineBarLight" style="width:6.6473988439306%"><img src="assets/4fa7de04a2a2e2abe70a0847bdd15221.png" /></div><div class="timelineBar timelineBarLight" style="width:39.595375722543%"><img src="assets/4fa7de04a2a2e2abe70a0847bdd15221.png" /></div><div class="timelineBar timelineBarLight" style="width:34.682080924855%"><img src="assets/4fa7de04a2a2e2abe70a0847bdd15221.png" /></div><div class="timelineBar timelineBarDark" style="width:8.0924855491329%"><img src="assets/4fa7de04a2a2e2abe70a0847bdd15221.png" /></div><div class="timelineBar timelineBarCapout" style="width:1.4450867052023%"><img src="assets/4fa7de04a2a2e2abe70a0847bdd15221.png" /></div></div><div class="timelineLabels"><span class="timelineLabelSpace timelineLabelSpaceLeadIn" style="width:9.5375722543353%"><span class="timelineLabelStandard"><a href="../y/yearsofthetrees.html">Years of the Trees</a></span><span class="timelineLabelCompressed"></span></span><span class="timelineLabelSpace" style="width:6.6473988439306%"><span class="timelineLabelStandard"><a href="../f/firstage.html">First Age</a></span><span class="timelineLabelCompressed"><a href="../f/firstage.html">I</a></span></span><span class="timelineLabelSpace" style="width:39.595375722543%"><span class="timelineLabelStandard"><a href="../s/secondage.html">Second Age</a></span><span class="timelineLabelCompressed"><a href="../s/secondage.html">II</a></span></span><span class="timelineLabelSpace" style="width:34.682080924855%"><span class="timelineLabelStandard"><a href="../t/thirdage.html">Third Age</a></span><span class="timelineLabelCompressed"><a href="../t/thirdage.html">III</a></span></span><span class="timelineLabelSpace" style="width:8.0924855491329%"><span class="timelineLabelStandard"><a href="../f/fourthage.html">Fourth Age</a></span><span class="timelineLabelCompressed"><a href="../f/fourthage.html">IV</a></span></span></div></div></div>
+<div class="bodyColumn">
+
+<div class="quoteWrapper">
+<div class="quoteSpace">
+<div class="quote">&quot;Hard as di'monds, soft as moonlight. Warm as sunlight, cold as frost in the stars. Proud and far-off as a snow-mountain, and as merry as any lass I ever saw with daisies in her hair in springtime.&quot;</div>
+<div class="attribution">From <a href="../s/samwisegamgee.html">Sam Gamgee's</a> description of Galadriel<br><i>The Two Towers</i> IV 5,<br><i>The Window on the West</i></div>
+</div>
+</div>
+
+<div class="genealogyWrapper" id="genealogySpace">
+<div class="genealogy" align="center" id="genealogyTree">
+<table border="0" cellspacing="0" cellpadding="0"><tr><td></td><td valign="bottom" align="right"><table cellpadding="2"><tr><td><font face="arial,helvetica" size="1" style="font-size:8pt"><a href="../f/finarfin.html">Finarfin</a><br></font></td></tr></table></td><td valign="bottom"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="10"></td><td width="1"><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="1" height="10"></td><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="10"></td></tr><tr><td><img src="assets/43866dcfe4b6cf07cf1e72a6bc295b9e.gif" width="100%" height="5"></td><td width="1"><img src="assets/43866dcfe4b6cf07cf1e72a6bc295b9e.gif" width="1" height="5"></td><td><img src="assets/43866dcfe4b6cf07cf1e72a6bc295b9e.gif" width="100%" height="5"></td></tr><tr><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="10"></td><td width="1"><img src="assets/375ce8b37b3dddbc2fb4688543e1bdd8.gif" width="1" height="10"></td><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="10"></td></tr></table></td><td valign="bottom" align="left"><table cellpadding="2"><tr><td><font face="arial,helvetica" size="1" style="font-size:8pt"><a href="../e/earwen.html">E&#228;rwen</a><br></font></td></tr></table></td><td colspan="4"></td></tr><tr><td valign="bottom"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="10"></td><td width="1"><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="1" height="10"></td><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="10"></td></tr><tr><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="1"></td><td width="1"><img src="assets/375ce8b37b3dddbc2fb4688543e1bdd8.gif" width="1" height="1"></td><td><img src="assets/375ce8b37b3dddbc2fb4688543e1bdd8.gif" width="100%" height="1"></td></tr><tr><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="10"></td><td width="1"><img src="assets/375ce8b37b3dddbc2fb4688543e1bdd8.gif" width="1" height="10"></td><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="10"></td></tr></table></td><td valign="bottom"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="10"></td><td width="1"><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="1" height="10"></td><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="10"></td></tr><tr><td><img src="assets/375ce8b37b3dddbc2fb4688543e1bdd8.gif" width="100%" height="1"></td><td width="1"><img src="assets/375ce8b37b3dddbc2fb4688543e1bdd8.gif" width="1" height="1"></td><td><img src="assets/375ce8b37b3dddbc2fb4688543e1bdd8.gif" width="100%" height="1"></td></tr><tr><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="10"></td><td width="1"><img src="assets/375ce8b37b3dddbc2fb4688543e1bdd8.gif" width="1" height="10"></td><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="10"></td></tr></table></td><td valign="bottom"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="10"></td><td width="1"><img src="assets/375ce8b37b3dddbc2fb4688543e1bdd8.gif" width="1" height="10"></td><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="10"></td></tr><tr><td><img src="assets/375ce8b37b3dddbc2fb4688543e1bdd8.gif" width="100%" height="1"></td><td width="1"><img src="assets/375ce8b37b3dddbc2fb4688543e1bdd8.gif" width="1" height="1"></td><td><img src="assets/375ce8b37b3dddbc2fb4688543e1bdd8.gif" width="100%" height="1"></td></tr><tr><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="10"></td><td width="1"><img src="assets/375ce8b37b3dddbc2fb4688543e1bdd8.gif" width="1" height="10"></td><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="10"></td></tr></table></td><td valign="bottom"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="10"></td><td width="1"><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="1" height="10"></td><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="10"></td></tr><tr><td><img src="assets/375ce8b37b3dddbc2fb4688543e1bdd8.gif" width="100%" height="1"></td><td width="1"><img src="assets/375ce8b37b3dddbc2fb4688543e1bdd8.gif" width="1" height="1"></td><td><img src="assets/375ce8b37b3dddbc2fb4688543e1bdd8.gif" width="100%" height="1"></td></tr><tr><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="10"></td><td width="1"><img src="assets/375ce8b37b3dddbc2fb4688543e1bdd8.gif" width="1" height="10"></td><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="10"></td></tr></table></td><td valign="bottom"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="10"></td><td width="1"><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="1" height="10"></td><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="10"></td></tr><tr><td><img src="assets/375ce8b37b3dddbc2fb4688543e1bdd8.gif" width="100%" height="1"></td><td width="1"><img src="assets/375ce8b37b3dddbc2fb4688543e1bdd8.gif" width="1" height="1"></td><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="1"></td></tr><tr><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="10"></td><td width="1"><img src="assets/375ce8b37b3dddbc2fb4688543e1bdd8.gif" width="1" height="10"></td><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="10"></td></tr></table></td><td colspan="3"></td></tr><tr><td valign="bottom" align="center"><table cellpadding="2"><tr><td><font face="arial,helvetica" size="1" style="font-size:8pt"><a href="../f/finrod.html">Finrod</a><br></font></td></tr></table></td><td valign="bottom" align="center"><table cellpadding="2"><tr><td><font face="arial,helvetica" size="1" style="font-size:8pt"><a href="../o/orodreth.html">Orodreth</a><br></font></td></tr></table></td><td valign="bottom" align="center"><table cellpadding="2"><tr><td><font face="arial,helvetica" size="1" style="font-size:8pt"><a href="../a/angrod.html">Angrod</a><br></font></td></tr></table></td><td valign="bottom" align="center"><table cellpadding="2"><tr><td><font face="arial,helvetica" size="1" style="font-size:8pt"><a href="../a/aegnor.html">Aegnor</a><br></font></td></tr></table></td><td valign="bottom" align="center"><table cellpadding="2"><tr><td><font face="arial,helvetica" size="1" style="font-size:8pt"><b>Galadriel</b><br></font></td></tr></table></td><td valign="bottom"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="10"></td><td width="1"><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="1" height="10"></td><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="10"></td></tr><tr><td><img src="assets/43866dcfe4b6cf07cf1e72a6bc295b9e.gif" width="100%" height="5"></td><td width="1"><img src="assets/43866dcfe4b6cf07cf1e72a6bc295b9e.gif" width="1" height="5"></td><td><img src="assets/43866dcfe4b6cf07cf1e72a6bc295b9e.gif" width="100%" height="5"></td></tr><tr><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="10"></td><td width="1"><img src="assets/375ce8b37b3dddbc2fb4688543e1bdd8.gif" width="1" height="10"></td><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="10"></td></tr></table></td><td valign="bottom" align="left"><table cellpadding="2"><tr><td><font face="arial,helvetica" size="1" style="font-size:8pt"><a href="../c/celeborn.html">Celeborn</a><br></font></td></tr></table></td><td></td></tr><tr><td colspan="5"></td><td valign="bottom"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="10"></td><td width="1"><img src="assets/375ce8b37b3dddbc2fb4688543e1bdd8.gif" width="1" height="10"></td><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="10"></td></tr><tr><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="1"></td><td width="1"><img src="assets/375ce8b37b3dddbc2fb4688543e1bdd8.gif" width="1" height="1"></td><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="1"></td></tr><tr><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="10"></td><td width="1"><img src="assets/375ce8b37b3dddbc2fb4688543e1bdd8.gif" width="1" height="10"></td><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="10"></td></tr></table></td><td colspan="2"></td></tr><tr><td colspan="5"></td><td valign="bottom" align="right"><table cellpadding="2"><tr><td><font face="arial,helvetica" size="1" style="font-size:8pt"><a href="../c/celebrian.html">Celebr&#237;an</a><br></font></td></tr></table></td><td valign="bottom"><table width="100%" cellspacing="0" cellpadding="0" border="0"><tr><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="10"></td><td width="1"><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="1" height="10"></td><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="10"></td></tr><tr><td><img src="assets/43866dcfe4b6cf07cf1e72a6bc295b9e.gif" width="100%" height="5"></td><td width="1"><img src="assets/43866dcfe4b6cf07cf1e72a6bc295b9e.gif" width="1" height="5"></td><td><img src="assets/43866dcfe4b6cf07cf1e72a6bc295b9e.gif" width="100%" height="5"></td></tr><tr><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="10"></td><td width="1"><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="1" height="10"></td><td><img src="assets/d1f6028b5b29c6502aea6a8fb0381827.gif" width="100%" height="10"></td></tr></table></td><td valign="bottom" align="left"><table cellpadding="2"><tr><td><font face="arial,helvetica" size="1" style="font-size:8pt"><a href="../e/elrond.html">Elrond</a><br></font></td></tr></table></td><td></td></tr></table>
+
+
+</div>
+</div>
+<div id="genealogyCaptionHolder"></div>
+
+<div class="omitApp"><div class="titleListBlock">
+<div class="titleIndex"><p>Rulers of <a href="../l/lorien.html">L&#243;rien</a></p><select onchange="titleSelect(this)"><option value="../a/amdir.html">Amd&#237;r</option><option value="../m/malgalad.html">(Malgalad)</option><option value="../a/amroth.html">Amroth</option><option value="" selected>Galadriel</option><option value="../c/celeborn.html">Celeborn</option></select></div></div>
+</div>
+<p>One of the greatest of all the <a href="../e/eldar.html">Eldar</a>, described as second only in power to <a href="../f/feanor.html">F&#235;anor</a> himself, and said to surpass even <a href="../f/feanor.html">F&#235;anor</a> in wisdom.  Not only among the mightiest of the <a href="../n/noldor.html">Noldor</a>, she was also radiantly beautiful, and her voice was deep and clear in tone.  Galadriel was also the tallest of all <a href="../e/elves.html">Elven</a>-women, with a height in modern terms approaching 6' 4" (or about 1.9 m).  Most famous of all her attributes, though, was her shimmering golden hair, shot through with strands of silver, from which she took her name.</p>
+
+<h1>Early Life in the West</h1>
+
+<p>Galadriel was the youngest of the five children of <a href="../f/finarfin.html">Finarfin</a> and <a href="../e/earwen.html">E&#228;rwen</a>, and so was born into the noblest house of the <a href="../n/noldor.html">Noldor</a> in <a href="../a/aman.html">Aman</a> during the blissful <a href="../y/yearsofthetrees.html">Years of the Trees</a>.  At her birth, her father <a href="../f/finarfin.html">Finarfin</a> gave her the name <i><a href="../a/artanis.html">Artanis</a></i>, 'noble woman'.</p>
+
+<p>As Galadriel grew, she began to compete with others of the <a href="../e/eldar.html">Eldar</a> in feats of both mind and strength.  Because of her stature and her strength of will, her mother <a href="../e/earwen.html">E&#228;rwen</a> gave her another name, <i><a href="../n/nerwen.html">Nerwen</a></i>, meaning 'man-maiden'.  Ultimately, though, she was not known by either of the names given by her parents.  Instead, from her shimmering golden-silver hair, she acquired the name <i><a href="../a/alatariel.html">Alat&#225;riel</a></i>, meaning 'crowned with a radiant garland', which would one day be translated into 'Galadriel'.  According to some, this name came about especially from her habit of tying her hair into a garland around her head during competitions with others.</p>
+
+<p>A saying grew up among the <a href="../e/eldar.html">Eldar</a> that the gold and silver of Galadriel's hair had trapped the gold and silver light of the <a href="../t/twotrees.html">Two Trees</a>, and according to legend this was how <a href="../f/feanor.html">F&#235;anor</a> first conceived the idea of somehow capturing that light himself.  If this is true, then Galadriel's radiant garland was the ultimate inspiration for the making of the <a href="../s/silmarils.html">Silmarils</a>.  <a href="../f/feanor.html">F&#235;anor</a>, it is said, begged Galadriel for a tress of her hair, but she refused him<sup>1</sup>, and so enmity began to grow between the two greatest of all the <a href="../e/eldar.html">Eldar</a>.</p>
+
+<p>When <a href="../m/melkor.html">Melkor</a> descended on <a href="../v/valinor.html">Valinor</a> and destroyed the <a href="../t/twotrees.html">Two Trees</a>, <a href="../f/feanor.html">F&#235;anor</a> rebelled against the <a href="../v/valar.html">Valar</a> and led a great part of the <a href="../n/noldor.html">Noldor</a> out of <a href="../a/aman.html">Aman</a> and back to <a href="../m/middleearth.html">Middle-earth</a>.  Galadriel's actions and intentions at this time are a little unclear.  Though she was an enemy of <a href="../f/feanor.html">F&#235;anor</a>, it seems that she was nonetheless persuaded to travel to <a href="../m/middleearth.html">Middle-earth</a> with the others of her kin.  Ultimately, her father <a href="../f/finarfin.html">Finarfin</a> abandoned that march, but Galadriel and her brothers continued into the far North, where they crossed the <a href="../h/helcaraxe.html">Helcarax&#235;</a> and came to the cold northern shores of the <a href="../h/hitherlands.html">Hither Lands</a>.</p>
+
+<h1>Galadriel in <a href="../b/beleriand.html">Beleriand</a></h1>
+
+<p>Galadriel's mother <a href="../e/earwen.html">E&#228;rwen</a> was the niece of <a href="../k/kingofdoriath.html">King</a> <a href="../t/thingol.html">Thingol</a> of <a href="../d/doriath.html">Doriath</a>, and so Galadriel soon travelled to her kinsman's halls of <a href="../m/menegroth.html">Menegroth</a>.  It was there, according to most versions of her story, that she first encountered another relation of the <a href="../k/kingofdoriath.html">King</a>: his grand-nephew <a href="../c/celeborn.html">Celeborn</a>, who would become her spouse and companion through many long years in <a href="../m/middleearth.html">Middle-earth</a>.</p>
+
+<p>Though she went originally to <a href="../d/doriath.html">Doriath</a> as a guest, Galadriel seems to have settled there throughout much of the <a href="../f/firstage.html">First Age</a>.  It was presumably there that her name was turned from the <a href="../q/quenya.html">Quenya</a> <i><a href="../a/alatariel.html">Alat&#225;riel</a></i> to the more familiar <a href="../s/sindarin.html">Sindarin</a> form <i>Galadriel</i>, and it was there, too, that she learned the making of <i><a href="../l/lembas.html">lembas</a></i> from <a href="../m/melian.html">Melian</a> the <a href="../q/queenofdoriath.html">Queen</a>.  At times she would leave <a href="../t/thingol.html">Thingol's</a> halls to visit her brother <a href="../f/finrod.html">Finrod</a> in his own realm at <a href="../n/nargothrond.html">Nargothrond</a>.</p>
+
+<p>Galadriel played little direct part in the great <a href="../w/warsofbeleriand.html">wars</a> of the <a href="../f/firstage.html">First Age</a>.  She judged that the defeat of <a href="../m/morgoth.html">Morgoth</a> was beyond the power of the <a href="../e/eldar.html">Eldar</a>, and with <a href="../c/celeborn.html">Celeborn</a> she travelled across the <a href="../b/bluemountains.html">Blue Mountains</a>, seeking to build up resistance against the <a href="../d/darklord.html">Dark Lord</a> among the peoples beyond <a href="../b/beleriand.html">Beleriand</a>.</p>
+
+<p>Though Galadriel was proved right that the <a href="../e/eldar.html">Eldar</a> could not defeat <a href="../m/morgoth.html">Morgoth</a> unaided, she failed to foresee the coming of the <a href="../v/valar.html">Valar</a>, and <a href="../m/morgoth.html">Morgoth's</a> ultimate defeat in the <a href="../w/warofwrath.html">War of Wrath</a>.  At this time, Galadriel was offered a pardon by the envoys of the <a href="../v/valar.html">Valar</a>, with permission to return into the <a href="../w/west.html">West</a>.  Filled with fierce pride, she refused, and thus exiled herself in <a href="../m/middleearth.html">Middle-earth</a> - forever, as it seemed at the time.<sup>2</sup></p>
+
+<h1><a href="../s/secondage.html">The Second Age</a></h1>
+
+<p>In the years following the <a href="../w/warofwrath.html">War of Wrath</a>, Galadriel remained in <a href="../l/lindon.html">Lindon</a> with <a href="../c/celeborn.html">Celeborn</a> and other survivors of the destruction of <a href="../b/beleriand.html">Beleriand</a>.  As the centuries drew on, the power of <a href="../s/sauron.html">Sauron</a> began to re-emerge in <a href="../m/middleearth.html">Middle-earth</a>, and at one point <a href="../c/celeborn.html">Celeborn</a> crossed <a href="../e/eriador.html">Eriador</a> to help the <a href="../s/silvanelves.html">Silvan Elves</a> of a distant forest land to create defences against the looming threat.  Though Galadriel appears not to have accompanied him on that journey, the land he visited would become vitally important to her story: it was the land later known as <a href="../l/lorien.html">L&#243;rien</a>.</p>
+
+<p>In the <a href="../chronicle.html?startyear=701&startage=2&endyear=800&endage=2">eighth century</a> of the <a href="../s/secondage.html">Second Age</a>, <a href="../a/aldarion.html">Aldarion</a> of <a href="../n/numenor.html">N&#250;menor</a> landed in <a href="../l/lindon.html">Lindon</a> and became an ally of <a href="../h/highkingofthenoldor.html">King</a> <a href="../g/gilgalad.html">Gil-galad</a>.  <a href="../a/aldarion.html">Aldarion</a> gave <a href="../g/gilgalad.html">Gil-galad</a> a gift: seeds of the <i><a href="../m/malinorni.html">malinorn&#235;</a></i> tree from the <a href="../u/undyinglands.html">Undying Lands</a>.  Those trees would not grow in <a href="../l/lindon.html">Lindon</a>, but <a href="../g/gilgalad.html">Gil-galad</a> gave some of the seeds to Galadriel.</p>
+
+<p>At about this time the new land of <a href="../e/eregion.html">Eregion</a> was being settled far to the south of <a href="../l/lindon.html">Lindon</a>, and Galadriel travelled there.  <a href="../e/eregion.html">Eregion's</a> ruler <a href="../c/celebrimbor.html">Celebrimbor</a> was a grandson of <a href="../f/feanor.html">F&#235;anor</a>, and hence Galadriel's distant cousin, and the two became close in friendship.  Galadriel was present in <a href="../e/eregion.html">Eregion</a> during the time of the making of the <a href="../r/ringsofpower.html">Rings of Power</a>, and it was probably at this time that she received the green stone known as the <a href="../e/elessar.html">Elessar</a>.</p>
+
+<p>When the <a href="../r/ringsofpower.html">Rings of Power</a> were revealed as a plot by <a href="../s/sauron.html">Sauron</a>, it was Galadriel who counselled <a href="../c/celebrimbor.html">Celebrimbor</a> that the <a href="../t/threerings.html">Three Rings</a> were now in danger, and proposed sending them far from <a href="../e/eregion.html">Eregion</a>.  He agreed, and two were sent north into <a href="../g/gilgalad.html">Gil-galad's</a> keeping.  The third, <a href="../n/nenya.html">Nenya</a> the <a href="../w/whitering.html">White Ring</a>, he gave directly to Galadriel.  She took it through the <a href="../d/dwarfcities.html">Dwarf-city</a> of <a href="../k/khazaddum.html">Khazad-d&#251;m</a> to safety beyond the <a href="../m/mistymountains.html">Misty Mountains</a> in a land then known as <i><a href="../l/lorinand.html">L&#243;rinand</a></i>.</p>
+
+<p><a href="../l/lorinand.html">L&#243;rinand</a> was the land that Galadriel and <a href="../c/celeborn.html">Celeborn</a> would one day rule as <a href="../l/lorien.html">L&#243;rien</a>, but they did not settle there yet.  Over the next centuries, they travelled together throughout <a href="../m/middleearth.html">Middle-earth</a>.  At one time Galadriel seems to have passed through <a href="../g/gondor.html">Gondor</a>, and also explored as far north as the realm of the <a href="../w/woodelves.html">Wood-elves</a>, before settling for a time in <a href="../r/rivendell.html">Rivendell</a>.</p>
+
+<h1>The Rule of <a href="../l/lorien.html">L&#243;rien</a></h1>
+
+<p>It seems that Galadriel remained at <a href="../r/rivendell.html">Rivendell</a> at least into the first <a href="../chronicle.html?startyear=1&startage=3&endyear=200&endage=3">few centuries</a> of the <a href="../t/thirdage.html">Third Age</a>.  It was in the <a href="../chronicle.html?startyear=101&startage=3&endyear=200&endage=3">second century</a> of that <a href="../t/thirdage.html">Age</a> - the year <a href="../chronicle.html?startyear=109&startage=3">III 109</a> to be precise - that her daughter <a href="../c/celebrian.html">Celebr&#237;an</a> wed <a href="../e/elrond.html">Elrond</a> the master of that <a href="../h/houseofelrond.html">House</a>.  After that point, we hear nothing definitive of Galadriel or <a href="../c/celeborn.html">Celeborn</a> for nearly two thousand years.</p>
+
+<p>In the year <a href="../chronicle.html?startyear=1980&startage=3">III 1980</a>, the <a href="../d/dwarvesofkhazaddum.html">Dwarves of Khazad-d&#251;m</a> unleashed a horror upon themselves, and over the next year they fled from their ancient halls.  The woods of <a href="../l/lorinand.html">L&#243;rinand</a> lay to the immediate east of <a href="../k/khazaddum.html">Khazad-d&#251;m</a>, and many of its people also fled from the monster known as <a href="../d/durinsbane.html">Durin's Bane</a>, including <a href="../a/amroth.html">Amroth</a> the <a href="../l/lordoflorien.html">lord</a> of that land.  <a href="../l/lorinand.html">L&#243;rinand</a> was well placed to challenge <a href="../d/dolguldur.html">Dol Guldur</a> across the <a href="../a/anduin.html">Anduin</a>, and seeing that its <a href="../s/silvanelves.html">Silvan</a> inhabitants had been left without a leader, Galadriel and <a href="../c/celeborn.html">Celeborn</a> travelled there to take up <a href="../a/amroth.html">Amroth's</a> rule.  Galadriel changed the name of the land from the original <a href="../l/lorinand.html">L&#243;rinand</a> to <i><a href="../l/lorien.html">L&#243;rien</a></i>, in part in memory of the garden of <a href="../l/lorienvalinor.html">L&#243;rien</a> she had seen in <a href="../v/valinor.html">Valinor</a> in her youth, and in part because of the golden <i><a href="../m/mallorns.html">mallorn</a></i> trees she brought with her to grow in the woods there.</p>
+
+<p>In <a href="../a/amroth.html">Amroth's</a> time, the people of <a href="../l/lorien.html">L&#243;rien</a> had taken to building <i><a href="../t/telain.html">telain</a></i>, wooden platforms among the tree-tops.  Galadriel and <a href="../c/celeborn.html">Celeborn</a> ruled their kingdom from a city of these <a href="../t/telain.html">telain</a>, <a href="../c/carasgaladhon.html">Caras Galadhon</a> in the easterly part of <a href="../l/lorien.html">L&#243;rien</a> known as the <a href="../n/naith.html">Naith</a>.  As the centuries passed, Galadriel's association with the <a href="../s/silvanelves.html">Silvan Elves</a> of <a href="../l/lorien.html">L&#243;rien</a> grew, to the extent that she was sometimes even known as <i><a href="../g/galadhriel.html">Galadhriel</a></i>, reflecting <i><a href="../g/galadhrim.html">Galadhrim</a></i>, the <a href="../e/elvish.html">Elvish</a> name for her people.</p>
+
+<p>Bearing <a href="../n/nenya.html">Nenya</a>, the <a href="../r/ringofadamant.html">Ring of Adamant</a>, Galadriel placed <a href="../l/lorien.html">L&#243;rien</a> under her power, to the extent that time flowed more slowly there than in the lands outside.  To the <a href="../m/men.html">Men</a> who lived in the lands about, the '<a href="../s/sorceressofthegoldenwood.html">Sorceress of the Golden Wood</a>' became a figure of awe and fear.  Nonetheless, Galadriel did what she could to aid the people of <a href="../m/middleearth.html">Middle-earth</a>.  She was among those who founded the <a href="../w/whitecouncil.html">White Council</a>, and she gave magical help to <a href="../e/eorl.html">Eorl</a> as he rode past her land to <a href="../g/gondor.html">Gondor's</a> aid in <a href="../chronicle.html?startyear=2510&startage=3">III 2510</a>.</p>
+
+<h1>Conflict With <a href="../s/sauron.html">Sauron</a></h1>
+
+<p>Even before the <a href="../n/necromancer.html">Necromancer</a> was recognised as <a href="../s/sauron.html">Sauron</a> returned, Galadriel had allied herself with those who opposed him.  In <a href="../chronicle.html?startyear=2463&startage=3">III 2463</a>, she was instrumental in the formation of the <a href="../w/whitecouncil.html">White Council</a>, a circle of <a href="../e/elves.html">Elves</a> and <a href="../w/wizards.html">Wizards</a> that met in opposition to the darkness of <a href="../d/dolguldur.html">Dol Guldur</a>.  The <a href="../w/whitecouncil.html">Council's</a> strength was undermined by <a href="../s/saruman.html">Saruman's</a> secret rebellion, but in <a href="../chronicle.html?startyear=2941&startage=3">III 2941</a> they succeeded in ousting <a href="../s/sauron.html">Sauron</a> from <a href="../d/dolguldur.html">Dol Guldur</a> and freeing <a href="../m/mirkwood.html">Mirkwood</a> from his influence for a time.</p>
+
+<p>The expulsion of <a href="../s/sauron.html">Sauron</a> proved a shallow victory.  He had foreseen the <a href="../w/whitecouncil.html">White Council's</a> attack, and his response was already prepared.  When he abandoned <a href="../d/dolguldur.html">Dol Guldur</a>, he travelled back into his old land of <a href="../m/mordor.html">Mordor</a>, which the <a href="../n/nazgul.html">Nazg&#251;l</a> had made ready for him, and continued arming himself for the great <a href="../w/warofthering.html">War</a> to come.</p>
+
+<h1>Galadriel in the <a href="../w/warofthering.html">War of the Ring</a></h1>
+
+<p>In that <a href="../w/warofthering.html">War</a> itself, Galadriel played little direct part at first, though her counsel was sought by <a href="../e/elladan.html">Elladan</a> and <a href="../e/elrohir.html">Elrohir</a> before the <a href="../c/councilofelrond.html">Council of Elrond</a>.  She was drawn into events some months later, when the <a href="../c/companyofthering.html">Company of the Ring</a> emerged from <a href="../m/moria.html">Moria</a> and escaped into her land of <a href="../l/lorien.html">L&#243;rien</a>.  The <a href="../f/fellowshipofthering.html">Fellowship</a> remained in <a href="../c/carasgaladhon.html">Caras Galadhon</a> for some weeks, and during that time Galadriel used the power of her <a href="../m/mirrorofgaladriel.html">Mirror</a> to show <a href="../f/frodobaggins.html">Frodo</a> and <a href="../s/samwisegamgee.html">Sam</a> a glimpse into the future.  At that time, recognising Galadriel as one of the <a href="../k/keepersofthethreerings.html">Keepers of the Three Rings</a>, <a href="../f/frodobaggins.html">Frodo</a> innocently offered her the <a href="../o/onering.html">One Ring</a>.  For a moment Galadriel was nearly overcome by temptation, and her final resistance of the lure of the <a href="../r/ring.html">Ring</a> would prove more critical than even she imagined at the time.</p>
+
+<p>Probably Galadriel's most crucial contribution to the <a href="../w/warofthering.html">War</a> came as the <a href="../f/fellowshipofthering.html">Fellowship</a> departed from her land.  She gave each of the companions a gift, and several of these would later prove vitally important.  Her gift to <a href="../f/frodobaggins.html">Frodo</a> was the <a href="../s/starglass.html">Star-glass</a>, a crystal <a href="../p/phialofgaladriel.html">Phial</a> that contained the captured light of the <a href="../s/starofearendil.html">Star of E&#228;rendil</a>.  Without that <a href="../p/phialofgaladriel.html">Phial</a>, <a href="../f/frodobaggins.html">Frodo</a> and <a href="../s/samwisegamgee.html">Sam</a> would have been lost in <a href="../s/shelobslair.html">Shelob's Lair</a>, and the <a href="../q/questofmountdoom.html">Quest of Mount Doom</a> would have been a failure.  It seems that Galadriel foresaw these events and planned for them, presumably through her <a href="../m/mirrorofgaladriel.html">Mirror</a>.</p>
+
+<p>After the departure of the <a href="../f/fellowshipofthering.html">Fellowship</a>, Galadriel began to work to aid the success of the <a href="../q/questofmountdoom.html">Quest</a>.  Though she had been told of <a href="../g/gandalf.html">Gandalf's</a> fall in <a href="../m/moria.html">Moria</a>, she nonetheless called on <a href="../g/gwaihir.html">Gwaihir the Windlord</a> to seek him out<sup>3</sup>.  Thus <a href="../g/gandalf.html">Gandalf</a>, returned from death, was rescued from the peak of <a href="../c/celebdil.html">Celebdil</a>.  He was carried back to <a href="../l/lorien.html">L&#243;rien</a>, where Galadriel brought him back to health.  When he set out once again, she sent messages with him, including a reminder to <a href="../a/aragorn.html">Aragorn</a> of the prophecies about the <a href="../p/pathsofthedead.html">Paths of the Dead</a>.  Meanwhile, she sent a further message to <a href="../r/rivendell.html">Rivendell</a>, summoning <a href="../a/aragorn.html">Aragorn's</a> fellow <a href="../r/rangers.html">Rangers</a> to his aid, and so it was through Galadriel that the <a href="../g/greycompany.html">Grey Company</a> rejoined their <a href="../c/chieftainofthedunedain.html">Chieftain</a>.  She may also have used her powers to aid the <a href="../r/ringbearer.html">Ring-bearer</a> directly: trapped in <a href="../s/shelobslair.html">Shelob's Lair</a>, <a href="../s/samwisegamgee.html">Sam Gamgee</a> received a sudden bright vision of Galadriel, reminding him of her <a href="../p/phialofgaladriel.html">Phial</a> and so saving his life.</p>
+
+<p>Galadriel's realm of <a href="../l/lorien.html">L&#243;rien</a> found itself more directly involved in the <a href="../w/warofthering.html">War</a> on <a href="../dates.html?dn=62">11 March</a> <a href="../chronicle.html?startyear=3019&startage=3">III 3019</a>, twenty-four days after the departure of the <a href="../f/fellowshipofthering.html">Fellowship</a>.  Long beforehand, <a href="../s/sauron.html">Sauron</a> had sent his forces to re-occupy <a href="../d/dolguldur.html">Dol Guldur</a>, and now those forces made an attack across the <a href="../g/greatriver.html">Great River</a> on <a href="../l/lorien.html">L&#243;rien</a> itself.  The power of Galadriel was too great to overcome, and the <a href="../g/galadhrim.html">Galadhrim</a> repulsed that first attack, as well as two others on <a href="../dates.html?dn=66">15</a> and <a href="../dates.html?dn=73">22 March</a>, though the woods of <a href="../l/lorien.html">L&#243;rien</a> were badly damaged.  After <a href="../s/sauron.html">Sauron's</a> final defeat a few days later, Galadriel crossed the <a href="../g/greatriver.html">River</a> herself with <a href="../c/celeborn.html">Celeborn</a> and many of her people, and broke down the walls of <a href="../d/dolguldur.html">Dol Guldur</a>.</p>
+
+<p>After the <a href="../w/warofthering.html">War of the Ring</a>, Galadriel travelled south to <a href="../m/minastirith.html">Minas Tirith</a> with <a href="../c/celeborn.html">Celeborn</a>, where she was a guest at the wedding of <a href="../a/aragorn.html">Aragorn</a> and her granddaughter <a href="../a/arwen.html">Arwen</a>.  She returned to <a href="../l/lorien.html">L&#243;rien</a> for a short time, but her actions during the <a href="../w/warofthering.html">War</a>, and particularly her rejection of the <a href="../r/ring.html">Ring</a>, led to a lifting of her exile from the <a href="../w/west.html">West</a>.  In <a href="../chronicle.html?startyear=3021&startage=3">III 3021</a>, she travelled north and west to the <a href="../g/greyhavens.html">Grey Havens</a>.  There, she took <a href="../w/whiteship.html">ship</a> across the <a href="../g/greatsea.html">Great Sea</a> with the other <a href="../k/keepersofthethreerings.html">Keepers of the Three Rings</a>, at last returning to the land of her birth in the <a href="../u/uttermostwest.html">Uttermost West</a>.</p>
+<br clear="all" />
+
+
+
+
+
+<div class=essayWrapper>
+<h1>Theme and Variations</h1>
+
+<p>Where <i>The Hobbit</i> and <i>The Lord of the Rings</i> make mention of matters in the early history of <a href="../a/arda.html">Arda</a>, they're usually referring to events that were already part of the <i><a href="../s/silmarillion.html">Silmarillion</a></i> cycle, and so already documented and understood by their author.  For instance, when it's revealed that <a href="../g/glamdring.html">Glamdring</a> belonged to the <a href="../k/kingofgondolin.html">King of Gondolin</a>, or <a href="../a/aragorn.html">Aragorn</a> tells the story of <a href="../b/beren.html">Beren</a> and <a href="../l/luthien.html">L&#250;thien</a>, these are references to stories and poems that really did already exist.</p>
+
+<p>Galadriel, though, doesn't belong to this pattern.  The story of <i>The Lord of the Rings</i> establishes that she's a <a href="../h/highelves.html">High Elf</a> of some importance, and so <i>should</i> appear somewhere in the stories of the <a href="../f/firstage.html">First Age</a>, but in fact her character only emerged during the writing of <i>The Lord of the Rings</i>, and no mention of her existed in the earlier traditions.</p>
+
+<p>Tolkien looked at various different ways to adapt Galadriel into the <i><a href="../s/silmarillion.html">Silmarillion</a></i> stories, and the account given in this entry blends the most common themes to produce a narrative that matches all the published material.  It's important to bear in mind, though, that Tolkien never truly finalised Galadriel's role in the earlier history of <a href="../m/middleearth.html">Middle-earth</a>, or the story of her relationship to <a href="../c/celeborn.html">Celeborn</a>.  He attempted a number of experimental variations on the theme of her life, and the following is a selection of these variations, to give a flavour of some of alternative lives Galadriel might have lived in a parallel literary universe.</p>
+
+<ul>
+<li><a href="../c/celeborn.html">Celeborn</a> was not a <a href="../s/sindar.html">Sinda</a> of <a href="../d/doriath.html">Doriath</a>, but a <a href="../s/silvanelves.html">Silvan Elf</a> who was <a href="../l/lordoflorien.html">Lord of L&#243;rien</a> in his own right, so that Galadriel didn't meet him until she travelled there.
+
+<li><a href="../c/celeborn.html">Celeborn</a> was not a <a href="../s/sindar.html">Sinda</a> of <a href="../d/doriath.html">Doriath</a>, but one of the <a href="../t/teleri.html">Teleri</a>, and Galadriel met him in <a href="../a/aman.html">Aman</a> rather than <a href="../m/middleearth.html">Middle-earth</a>.  The two crossed the <a href="../g/greatsea.html">Great Sea</a> together independently of <a href="../f/feanor.html">F&#235;anor's</a> journey into <a href="../m/middleearth.html">Middle-earth</a>, but were trapped there when <a href="../f/feanor.html">F&#235;anor</a> brought about the <a href="../e/exileofthenoldor.html">Exile of the Noldor</a>.
+
+<li><a href="../a/amroth.html">Amroth</a> was not merely the former <a href="../k/kingoflorien.html">King of L&#243;rien</a>, but actually the son of Galadriel and <a href="../c/celeborn.html">Celeborn</a>.  His parents took over the rule of their son's kingdom after he was lost.
+
+<li>Galadriel didn't merely travel to <a href="../e/eregion.html">Eregion</a>, but actually founded that land, and ruled it herself for many years.  According to this version, <a href="../c/celebrimbor.html">Celebrimbor</a> consorted with <a href="../a/annatar.html">Annatar</a> in secret, and made the <a href="../r/ringsofpower.html">Rings of Power</a> without Galadriel's knowledge or permission.
+
+</ul>
+
+<p>It can't be said for certain that Tolkien intended to reject all of these options.  In fact, had he survived to complete the <i><a href="../s/silmarillion.html">Silmarillion</a></i> himself, some of these elements may plausibly have found their way into Galadriel's 'true' history.</p>
+</div>
+
+
+<div class="notesWrapper">
+<h2>Notes</h2>
+<table class=notesTable>
+<tr>
+<td class=notesNumber><p>1</p></td>
+<td class=notesContent><p>The status of this story of <a href="../f/feanor.html">F&#235;anor's</a> refusal by Galadriel is uncertain, but the very fact that it was even conceivable shows what an extraordinary honour she did <a href="../g/gimli.html">Gimli</a> when she granted him three of her hairs in <a href="../l/lorien.html">L&#243;rien</a>.</p>
+</td>
+</tr>
+<tr>
+<td class=notesNumber><p>2</p></td>
+<td class=notesContent><p>Exactly what happened at the end of the <a href="../f/firstage.html">First Age</a> is open to some debate.  While some sources suggest that Galadriel was granted a pardon which she refused, others indicate that she had no choice in the matter, and was simply exiled to <a href="../m/middleearth.html">Middle-earth</a>.  Whatever the conditions of her ban, there is no doubt that she considered herself permanently exiled at the time of the <a href="../w/warofthering.html">War of the Ring</a>.</p></td>
+</tr>
+<tr>
+<td class=notesNumber><p>3</p></td>
+<td class=notesContent><p>We know for sure that Galadriel sent out <a href="../g/gwaihir.html">Gwaihir</a> explicitly to look for <a href="../g/gandalf.html">Gandalf</a>, but that fact raises a few curious points.  For example, given that <a href="../g/gandalf.html">Gandalf</a> was lost far underground, why would Galadriel imagine that an <a href="../e/eagles.html">Eagle</a> could hope to find him?  Further, it seems odd that she failed to mention her aims to the <a href="../f/fellowshipofthering.html">Fellowship</a>, and that she waited until after they had left her land - a period of a full month - before taking any action.</p>
+
+<p>Perhaps the most plausible explanation is that Galadriel herself didn't imagine that <a href="../g/gandalf.html">Gandalf</a> had survived until after he returned to life, which was just two days before the <a href="../f/fellowshipofthering.html">Fellowship</a> set out.  If she only discovered this later (most likely through her <a href="../m/mirrorofgaladriel.html">Mirror</a>) that would explain matters to some extent.</p>
+</td>
+</tr>
+</table>
+</div>
+
+<div class="notesWrapper">
+<h2>See also...</h2>
+<p><a href="../a/aegnor.html">Aegnor</a>, <a href="../a/alatariel.html">Alat&#225;riel</a>, <a href="../a/altariel.html">Alt&#225;riel</a>, <a href="../a/amroth.html">Amroth</a>, <a href="../a/angrod.html">Angrod</a>, <a href="../a/annatar.html">Annatar</a>, <a href="../a/artanis.html">Artanis</a>, <a href="../b/balrogs.html">Balrogs</a>, <a href="../c/carasgaladhon.html">Caras Galadhon</a>, <a href="../c/celeborn.html">Celeborn</a>, <a href="../c/cityofthetrees.html">City of the Trees</a>, <a href="../d/dreamflower.html">Dreamflower</a>, <a href="../e/earendil.html">E&#228;rendil</a>, <a href="../e/earwen.html">E&#228;rwen</a>, <a href="../e/eldarofthewest.html">Eldar of the West</a>, <span id="seeMore"><a href="" onclick="return showFullList();">[See the full list...]</a></span><span id="seeAll" style="display:none"><a href="../e/elessar.html">Elessar</a>, <a href="../e/elessar2.html">Elessar</a>, <a href="../e/elessar1.html">Elessar of E&#228;rendil</a>, <a href="../e/elffriend.html">Elf-friend</a>, <a href="../e/elfstone.html">Elfstone</a>, <a href="../e/elladan.html">Elladan</a>, <a href="../e/elmo.html">Elmo</a>, <a href="../e/elrohir.html">Elrohir</a>, <a href="../e/elvencloaks.html">Elven-cloaks</a>, <a href="../e/elvenrings.html">Elven-rings</a>, <a href="../e/elvesoferegion.html">Elves of Eregion</a>, <a href="../e/elvesoflorien.html">Elves of L&#243;rien</a>, <a href="../e/elvesoflorinand.html">Elves of L&#243;rinand</a>, <a href="../e/epesse.html">Epess&#235;</a>, <a href="../e/eveningstar.html">Evening Star</a>, <a href="../e/evereve.html">Ever-eve</a>, <a href="../e/evereven.html">Evereven</a>, <a href="../e/exileofthenoldor.html">Exile of the Noldor</a>, <a href="../e/exiles.html">Exiles</a>, <a href="../f/finarfin.html">Finarfin</a>, <a href="../f/finrod.html">Finrod Felagund</a>, <a href="../g/galadhon.html">Galadhon</a>, <a href="../g/galadhriel.html">Galadhriel</a>, <a href="../g/galadhrim.html">Galadhrim</a>, <a href="../g/gamgee.html">Gamgee Family</a>, <a href="../g/goldentreeshire.html">Golden Tree</a>, <a href="../g/guardianofthethirdring.html">Guardian of the Third Ring</a>, <a href="../h/hiddenland.html">Hidden Land</a>, <a href="../h/houseoffinarfin.html">House of Finarfin</a>, <a href="../i/ilmarin.html">Ilmarin</a>, <a href="../k/keepersofthethreerings.html">Keepers of the Three Rings</a>, <a href="../k/kingoflorien.html">King of L&#243;rien</a>, <a href="../k/kingofthesilvanelves.html">King of the Silvan Elves</a>, <a href="../l/ladyoflorien.html">Lady of L&#243;rien</a>, <a href="../l/ladyoftheelves.html">Lady of the Elves</a>, <a href="../l/ladyofthegaladhrim.html">Lady of the Galadhrim</a>, <a href="../l/ladyofthegoldenwood.html">Lady of the Golden Wood</a>, <a href="../l/ladyofthenoldor.html">Lady of the Noldor</a>, <a href="../l/ladyofthewood.html">Lady of the Wood</a>, <a href="../l/landofthevalleyofsinginggold.html">Land of the Valley of Singing Gold</a>, <a href="../l/lastridingofthekeepers.html">Last Riding of the Keepers</a>, <a href="../l/laurelindorenan.html">Laurelind&#243;renan</a>, <a href="../l/lembas.html">Lembas</a>, <a href="../l/lindorinand.html">Lind&#243;rinand</a>, <a href="../l/lockbearer.html">Lock-bearer</a>, <a href="../l/lordandlady.html">Lord and Lady</a>, <a href="../l/lordoferegion.html">Lord of Eregion</a>, <a href="../l/lordoflorien.html">Lord of L&#243;rien</a>, <a href="../l/lordoflothlorien.html">Lord of Lothl&#243;rien</a>, <a href="../l/lordofthegaladhrim.html">Lord of the Galadhrim</a>, <a href="../l/lorien.html">L&#243;rien</a>, <a href="../l/lorienoftheblossom.html">L&#243;rien of the Blossom</a>, <a href="../m/malinorni.html">Malinorni</a>, <a href="../m/mirrorofgaladriel.html">Mirror of Galadriel</a>, <a href="../m/mounteverwhite.html">Mount Everwhite</a>, <a href="../n/narya.html">Narya</a>, <a href="../n/nenya.html">Nenya</a>, <a href="../n/nerwen.html">Nerwen</a>, <a href="../n/noldoroferegion.html">Noldor of Eregion</a>, <a href="../n/northernfences.html">Northern Fences</a>, <a href="../o/olorin.html">Ol&#243;rin</a>, <a href="../o/orcsofdolguldur.html">Orcs of Dol Guldur</a>, <a href="../p/partytree.html">Party Tree</a>, <a href="../p/phialofgaladriel.html">Phial of Galadriel</a>, <a href="../r/rideofeorl.html">Ride of Eorl</a>, <a href="../r/ringofadamant.html">Ring of Adamant</a>, <a href="../r/ringofsapphire.html">Ring of Sapphire</a>, <a href="../r/ringofwater.html">Ring of Water</a>, <a href="../s/shirereckoning.html">Shire-reckoning</a>, <a href="../s/silvanelves.html">Silvan Elves</a>, <a href="../s/sonsofelrond.html">Sons of Elrond</a>, <a href="../s/sorceressofthegoldenwood.html">Sorceress of the Golden Wood</a>, <a href="../s/starofearendil.html">Star of E&#228;rendil</a>, <a href="../s/starglass.html">Star-glass</a>, <a href="../t/teleporno.html">Teleporno</a>, <a href="../s/seen.html">The Seen</a>, <a href="../t/trees.html">The Trees</a>, <a href="../w/wise.html">The Wise</a>, <a href="../t/threekeepers.html">Three Keepers</a>, <a href="../t/threerings.html">Three Rings</a>, <a href="../t/towergate.html">Tower-gate</a>, <a href="../t/turuphanto.html">Turuphanto</a>, <a href="../v/valinorean.html">Valinorean</a>, <a href="../v/valleyofgold.html">Valley of Gold</a>, <a href="../v/vilya.html">Vilya</a>, <a href="../w/whitecouncil.html">White Council</a>, <a href="../w/whitelady.html">White Lady</a>, <a href="../w/whitering.html">White Ring</a>, <a href="../w/whiteship.html">White Ship</a>, <a href="../y/youngerdays.html">Younger Days</a></span></p>
+</div>
+
+<div class="entrySummaryMobile">
+<p style="margin:0px;font-size:11px"><em>Indexes:</em></p>
+<ul style="margin-top:0px">
+<li><a href="../alphag.html">Alphabetical: G</a></li>
+<li><a href="../raceelve.html">Elves</a></li>
+</ul>
+
+<p style=margin:0px;font-size:11px><em>About this entry:</em></p>
+<ul style="margin-top:0px">
+<li>Updated 15 June 2008</li>
+<li>This entry is complete</li>
+</ul>
+</div>
+<div class="baseContent">
+<p>For acknowledgements and references, see the <a href="../books.html">Disclaimer &amp; Bibliography</a> page.</p>
+<p>Original content &#169; copyright Mark Fisher 1997-2000, 2008.  All rights reserved.  For conditions of reuse, see the <a href="../faq/use.html">Site FAQ</a>.</p>
+<div class="externalLines">
+<h5>Website services kindly sponsored by <a target="_blank" href="https://www.mydiscprofile.com">myDISCprofile</a>, the free online personality test.</h5><h6>Take the FREE <a target="_blank" href="https://www.mydiscprofile.com/">myDISCprofile personality test</a> to discover your core personality and your ideal job.</h6></div>
+</div>
+
+</td>
+</tr>
+</table>
+
+</div>
+
+</td>
+
+
+    </tr>
+</table>
+
+        </td>
+        <td class="margin"></td>
+    </tr>
+</table>
+
+<div class="mobileContent">
+<script type="text/javascript">
+window.addEventListener('load',translateContent,false);
+function translateByClass(className,targetId) {
+    var source = document.getElementsByClassName(className);
+    if (source.length > 0) {
+        source = source[0];
+        var target = document.getElementById(targetId);
+        target.innerHTML = source.innerHTML;
+    }
+}
+function translateContent() {
+    translateByClass('timelineWrapper','timelineWrapperMobile');
+    translateByClass('entryCaption','meaHeader');
+    translateByClass('standardPageContent','meaWrapper');
+    var wrapper = document.getElementById('meaWrapper');
+    var content = wrapper.innerHTML;
+    content = content.replace('id="seeAll"','id="seeAllMobile"');
+    content = content.replace('id="seeMore"','id="seeMoreMobile"');
+    content = content.replace('showFullList()','showFullList(true)');
+    content = content.replace('"genealogySpace"','"genealogySpaceMobile"');
+    content = content.replace('"genealogyTree"','"genealogyTreeMobile"');
+    content = content.replace('"mapSpace"','"mapSpaceMobile"');
+    content = content.replace('"mapWrapper"','"mapWrapperMobile"');
+    content = content.replace('"mapSpace"','"mapSpaceMobile"');
+    content = content.replace('"mapWrapper"','"mapWrapperMobile"');
+    content = content.replace('"genealogyCaptionHolder"','"genealogyCaptionMobile"');
+    
+    var i,treeFind,treeReplace;
+    var treeElements = new Array('black','dots1','dots2','married','white');
+    for (i = 0; i < treeElements.length; i++) {
+        treeFind = '_images/'+treeElements[i]+'.gif';
+        treeReplace = '_images/inverted/'+treeElements[i]+'.gif';
+        while (content.indexOf(treeFind) != -1) content = content.replace(treeFind,treeReplace);
+    }
+    wrapper.innerHTML = content;
+    
+    var genealogySpace = document.getElementById('genealogySpaceMobile');
+    if ((typeof genealogySpace != 'undefined') && (genealogySpace != null)) {
+        var genealogyTree = document.getElementById('genealogyTreeMobile');
+        genealogyTree = genealogyTree.getElementsByTagName('table')[0];
+        genealogySpace.scrollLeft = (genealogyTree.clientWidth - genealogySpace.clientWidth)/2;
+        var genealogyCaption = genealogySpace.getElementsByClassName('captionWrapper');
+        if (genealogyCaption.length > 0) {
+            genealogyCaption = genealogyCaption[0];
+            console.log(genealogyCaption);
+            var externalCaption = document.getElementById('genealogyCaptionMobile');
+            externalCaption.innerHTML = genealogyCaption.innerHTML;
+        }
+    }
+    
+    var mapSpace = document.getElementById('mapSpaceMobile');
+    if ((typeof mapSpace != 'undefined') && (mapSpace != null)) {
+        var mapImage = document.getElementById('mapWrapperMobile');
+        mapImage = mapImage.getElementsByTagName('img')[0];
+        mapSpace.scrollLeft = (mapImage.width - mapSpace.clientWidth)/2;
+        mapSpace.scrollTop = (mapImage.height - mapSpace.clientHeight)/2;
+    }
+
+}
+function menuHandler() {
+    this.stateOpen = false;
+    this.toggleMenu = function() {
+        var menu = document.getElementById('meaMenu');
+        var arrow = document.getElementById('headerArrow');
+        if (this.stateOpen) {
+            menu.style.height = '0';
+            arrow.src = 'assets/1f59b4afc02d2053ee73adbe96ee8f06.png';
+            this.stateOpen = false;
+        } else {
+            menu.style.height = '34px';
+            arrow.src = '../_mobile/_images/up-arrow.png';
+            this.stateOpen = true;
+        }
+    }
+}
+var meaMenu = new menuHandler;
+</script>
+<div class="mobileHeader">
+<img src="assets/fdf3c2be893eb1e000d910522bf373cc.png" width="66" height="72" alt="The Encyclopedia of Arda logo" id="headerLogo" onclick="location.href='default.php'" />
+<div class="headerSection upperSection"><img src="assets/b0f13832f4ee8a0cb004c709363c3e63.png" width="310" height="18" alt="The Encyclopedia of Arda" onclick="location.href='default.php'" /></div>
+<div class="headerSection lowerSection"><img src="assets/f4edf9a1d4bd16b9b8dded6dd9242815.png" width="288" height="7" alt="The Encyclopedia of Arda" onclick="location.href='default.php'" /></div>
+<img src="assets/1f59b4afc02d2053ee73adbe96ee8f06.png" width="11" height="9" alt="Menu" title="Menu" id="headerArrow" onclick="meaMenu.toggleMenu()" />
+<div id="meaMenu">
+<a href="../default.php"><img src="assets/536a032462a2a58fb0fa5100c02b705c.png" width="20" height="20" title="Homepage" alt="Homepage" /></a>
+<a href="../search.php"><img src="assets/a4db1eb46ecc9fe07119f319e880152f.png" width="20" height="20" title="Search" alt="Search" /></a>
+<a href="../latest.php"><img src="assets/530f8912af06c6211c4d3dd578545291.png" width="20" height="20" title="Latest Entries and Updates" alt="Latest Entries and Updates" /></a>
+<a href="../random.php"><img src="assets/062e8feba853b30af6f18c5ea4b1bb89.png" width="20" height="20" title="Random Entry" alt="Random Entry" /></a>
+</div>
+</div>
+<div class="h" id="meaHeader"></div>
+<div class="meaTranslateWrapper" id="meaWrapper"></div></div>
+
+
+<div style="position:fixed;top:0;left:0;width:100%;height:45px;z-index:2147483647;background-color:rgba(253,147,38,0.90) !important;color:black !important;text-align:right !important;font:normal 12px/45px Arial, sans-serif !important;border-radius:0 !important;margin:0 !important;max-width:100% !important;background-repeat: no-repeat !important;background-position: 15px center !important;
+background-image: url(data:image/png;base64,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);
+"><span style="padding-right:15px;">You are viewing a snapshot of <a style='font-weight:bold !important; color:white !important' href='http://www.glyphweb.com/arda/g/galadriel.html'>http://www.glyphweb.com/arda/g/galadriel.html</a> created on 2020/08/10</span></div></body>
+    
+</html>

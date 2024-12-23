@@ -1,0 +1,861 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"/><meta http-equiv="x-ua-compatible" content="ie=edge"/><meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no"/><link rel="preload" href="/component---src-layouts-index-js-235d22c6787e4e3cfece.js" as="script"/><link rel="preload" href="/component---src-pages-index-js-e6436edcc8ce3afe5e02.js" as="script"/><link rel="preload" href="/path---index-91dbcb76e5bd75776f63.js" as="script"/><link rel="preload" href="/app-d23fcaf40f3e2d072e24.js" as="script"/><link rel="preload" href="/commons-38ac0be8c16d3a2ea3ca.js" as="script"/><style type="text/css" id="server-side-jss">.c027 {
+  top: 28px;
+  width: 32px;
+  right: 16px;
+  border: none;
+  cursor: pointer;
+  height: 24px;
+  outline: none;
+  padding: 0;
+  z-index: 102;
+  position: fixed;
+  appearance: none;
+  background: none;
+  transition: all 250ms;
+}
+@media (min-width: 1025px) {
+  .c027 {
+    display: none;
+  }
+}
+.c028 {
+  width: 32px;
+  height: 4px;
+  display: block;
+  position: absolute;
+  transition: all 250ms;
+  border-radius: 2px;
+  background-color: #a18f64;
+  transform-origin: 100% 50%;
+}
+.c028:first-child {
+  top: 0;
+}
+.c028:nth-child(2) {
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.c028:last-child {
+  bottom: 0;
+}
+.c029 .c028:first-child {
+  top: -1px;
+  transform: rotate(-45deg);
+}
+.c029 .c028:nth-child(2) {
+  width: 0;
+}
+.c029 .c028:last-child {
+  bottom: -1px;
+  transform: rotate(45deg);
+}
+.c0216 {
+  position: relative;
+}
+.c0217 {
+  color: #fafafa;
+  display: block;
+  padding: 0 16px;
+  position: relative;
+  font-size: 11px;
+  transition: color 250ms;
+  line-height: 80px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.c0217:after {
+  top: 36px;
+  width: 0;
+  right: 16px;
+  height: 0;
+  content: "";
+  display: block;
+  position: absolute;
+  transition: all 250ms;
+  border-width: 4px;
+  border-style: solid;
+  border-color: #ffffff transparent transparent;
+}
+@media (min-width: 1025px) {
+  .c0217 {
+    padding: 0;
+    line-height: 24px;
+    padding-right: 13px;
+  }
+  .c0217:after {
+    top: 10px;
+    right: 0;
+  }
+}
+.c0218 {
+  color: #a18f64;
+}
+.c0218:after {
+  border-color: #a18f64 transparent transparent;
+}
+.c0219 {
+  color: #a18f64;
+}
+.c0219:after {
+  top: 31px;
+  transform: scaleY(-1);
+  border-color: #a18f64 transparent transparent;
+}
+@media (min-width: 1025px) {
+  .c0219:after {
+    top: 5px;
+    border-color: #a18f64 transparent transparent;
+  }
+}
+.c0220 {
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  list-style: none;
+  max-height: 0;
+  transition: max-height 250ms;
+  margin-left: 16px;
+}
+@media (min-width: 1025px) {
+  .c0220 {
+    top: calc(100% + 1px);
+    margin: 0 -33px 0 -20px;
+    padding: 0 33px 0 20px;
+    position: absolute;
+    background-color: rgba(0,0,0,0.5);
+  }
+}
+.c0221 {
+  max-height: 320px;
+}
+@media (min-width: 1025px) {
+  .c0221 {
+    max-height: 200px;
+  }
+}
+.c0222 {
+  border-top: 1px solid #ffffff;
+}
+@media (min-width: 1025px) {
+  .c0222 {
+    border-top: 0;
+  }
+  .c0222:first-child {
+    padding-top: 8px;
+  }
+}
+.c0223 {
+  color: #fafafa;
+  display: block;
+  padding: 0 16px;
+  font-size: 11px;
+  line-height: 80px;
+  white-space: nowrap;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+@media (min-width: 1025px) {
+  .c0223 {
+    padding: 0;
+    transition: color 250ms;
+    line-height: 38px;
+  }
+  .c0223:hover {
+    color: #a18f64;
+  }
+}
+.c0224 {
+  color: #a18f64;
+}
+.c0210 {
+  top: 0;
+  left: 101%;
+  width: 100%;
+  bottom: 0;
+  padding: 96px 16px 0 16px;
+  z-index: 101;
+  position: fixed;
+  transition: left 250ms;
+  overflow-y: scroll;
+  font-weight: bold;
+  font-family: Lato, sans-serif;
+  letter-spacing: 1.57px;
+  background-color: #000000;
+}
+@media (min-width: 1025px) {
+  .c0210 {
+    top: 20px;
+    left: auto;
+    width: auto;
+    right: 40px;
+    bottom: auto;
+    padding: 0;
+    position: fixed;
+    transition: none;
+    overflow-y: visible;
+    border-bottom: 1px solid #a18f64;
+    background-color: transparent;
+  }
+}
+.c0211 {
+  left: 0;
+}
+.c0212 {
+  margin: 0;
+  display: flex;
+  padding: 0;
+  list-style: none;
+  flex-direction: column;
+}
+@media (min-width: 1025px) {
+  .c0212 {
+    flex-direction: row;
+  }
+}
+.c0213 {
+  flex: 1 1 auto;
+  position: relative;
+  border-top: 1px solid #ffffff;
+}
+@media (min-width: 1025px) {
+  .c0213 {
+    margin: 0 20px;
+    border-top: none;
+  }
+  .c0213:first-child {
+    margin-left: 0;
+  }
+  .c0213:last-child {
+    margin-right: 0;
+  }
+}
+.c0214 {
+  color: #fafafa;
+  display: block;
+  padding: 0 16px;
+  font-size: 11px;
+  line-height: 80px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+@media (min-width: 1025px) {
+  .c0214 {
+    padding: 0;
+    transition: color 250ms;
+    line-height: 24px;
+  }
+  .c0214:hover {
+    color: #a18f64;
+  }
+}
+.c0215 {
+  color: #a18f64;
+}
+.c024 {
+  top: 0;
+  width: 100%;
+  height: 80px;
+  z-index: 100;
+  position: fixed;
+  background: linear-gradient(to bottom, #000000 0%, rgba(0,0,0,0) 100%);
+}
+@media (min-width: 1025px) {
+  .c024 {
+    height: 70px;
+  }
+}
+.c025 {
+  top: 16px;
+  left: 16px;
+  width: 97px;
+  height: 48px;
+  display: block;
+  z-index: 103;
+  position: fixed;
+}
+@media (min-width: 1025px) {
+  .c025 {
+    top: 12px;
+    left: 40px;
+    width: 93px;
+    height: 46px;
+  }
+}
+.c026 {
+  fill: #ffffff;
+  width: 100%;
+  height: 100%;
+  transition: fill 250ms;
+}
+@media (min-width: 1025px) {
+  .c026:hover {
+    fill: #a18f64;
+  }
+}
+.c0261 {
+  clear: both;
+  padding-bottom: 20px;
+}
+.c0261:last-child {
+  padding-bottom: 0;
+}
+@media (min-width: 1025px) {
+  .c0261 {
+    flex-grow: 0;
+    flex-basis: 33%;
+    margin-left: 16px;
+    flex-shrink: 1;
+    margin-right: 16px;
+    padding-right: 8.33%;
+    padding-bottom: 0;
+  }
+}
+.c0262 {
+  color: #a18f64;
+  margin: 0;
+  font-size: 11px;
+  font-family: Lato, sans-serif;
+  font-weight: bold;
+  line-height: 24px;
+  border-bottom: 1px solid #a18f64;
+  letter-spacing: 1.57px;
+  text-transform: uppercase;
+}
+.c0263 {
+  margin: 16px 0 0;
+  padding: 0;
+  list-style: none;
+}
+.c0264 {
+  float: left;
+  min-width: 50%;
+}
+.c0265 {
+  float: left;
+  min-width: 100%;
+}
+.c0266 {
+  color: #ffffff;
+  font-size: 11px;
+  transition: color 250ms;
+  font-family: Roboto, sans-serif;
+  font-weight: bold;
+  line-height: 38px;
+  white-space: nowrap;
+  letter-spacing: 1.57px;
+  text-transform: uppercase;
+  text-decoration: none;
+}
+.c0266:hover {
+  color: #a18f64;
+}
+.c0267 {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+.c0268 {
+  width: 20px;
+  margin: 0;
+  height: 20px;
+  display: inline-block;
+  padding: 0;
+  margin-left: 32px;
+}
+.c0268:first-child {
+  margin-left: 0;
+}
+.c0269 {
+  width: 20px;
+  height: 20px;
+  display: block;
+}
+.c0270 {
+  fill: #ffffff;
+  width: 100%;
+  height: 100%;
+  transition: fill 250ms;
+}
+@media (min-width: 1025px) {
+  .c0270:hover {
+    fill: #a18f64;
+  }
+}
+.c0253 {
+  z-index: 99;
+  position: relative;
+  background-color: #212121;
+}
+.c0254 {
+  padding: 32px 16px;
+  position: relative;
+}
+@media (min-width: 1025px) {
+  .c0254 {
+    width: 100%;
+    padding: 32px 20px;
+  }
+}
+@media (min-width: 1320px) {
+  .c0254 {
+    width: auto;
+    margin: 0 auto;
+    padding: 32px 0;
+    max-width: 1280px;
+  }
+}
+@media (min-width: 1025px) {
+  .c0255 {
+    display: flex;
+    margin-left: -16px;
+    margin-right: -16px;
+    flex-direction: row;
+  }
+}
+.c0256 {
+  margin-top: 68px;
+}
+@media (min-width: 1025px) {
+  .c0256 {
+    left: calc(((100% - 96px) * (2 / 3)) + 80px);
+    bottom: 32px;
+    position: absolute;
+    margin-top: 0;
+  }
+}
+.c0257 {
+  color: #ffffff;
+  padding: 14px 16px;
+  font-size: 8px;
+  text-align: center;
+  font-family: Roboto Mono, sans-serif;
+  font-weight: 300;
+  line-height: 16px;
+  letter-spacing: 0.88px;
+  background-color: #000000;
+}
+@media (min-width: 1025px) {
+  .c0257 {
+    padding: 0;
+    line-height: 40px;
+  }
+}
+@media (min-width: 1025px) {
+  .c0258 {
+    margin: 0 auto;
+    max-width: 1280px;
+  }
+}
+@media (min-width: 1025px) {
+  .c0259 {
+    display: none;
+  }
+}
+.c0260 {
+  color: #a18f64;
+}
+.c0271 {
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  z-index: 1;
+  position: fixed;
+}
+.c0272 {
+  top: 50%;
+  left: 50%;
+  opacity: 0;
+  position: absolute;
+  transform: translate(-50%, -50%);
+  transition: opacity 1000ms;
+}
+.c0273 {
+  opacity: 1;
+}
+* {
+  box-sizing: border-box;
+}
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  background-size: cover;
+  background-color: #212121;
+  background-image: url(assets/f842fa6145339454b0352f1d3e56bba9.jpg);
+  background-repeat: no-repeat;
+  background-position: 50% 50%;
+  background-attachment: fixed;
+}
+body {
+  padding-top: 80px;
+}
+@media (min-width: 1025px) {
+  body {
+    padding-top: 70px;
+  }
+}
+.c021 {
+  opacity: 1;
+  transition: opacity 250ms;
+}
+.c022 {
+  opacity: 0;
+}
+.c023 {
+  z-index: 2;
+  position: relative;
+}
+.c0233 {
+  padding: 16px 20px 40px 20px;
+}
+@media (min-width: 1025px) {
+  .c0233 {
+    padding: 60px 20px 60px 20px;
+  }
+  .c0233 + .c0233:last-child {
+    padding-bottom: 120px;
+  }
+}
+@media (min-width: 1320px) {
+  .c0233 {
+    padding: 60px 0 60px 0;
+  }
+  .c0233+ .c0233:last-child {
+    padding-bottom: 120px;
+  }
+}
+.c0234 {
+  position: relative;
+}
+@media (min-width: 1025px) {
+  .c0234 {
+    height: 100vh;
+    padding: 0;
+  }
+}
+.c0235 {
+  height: calc(100vh - 80px);
+  padding: 0;
+}
+@media (min-width: 1320px) {
+  .c0236 {
+    width: 1280px;
+    margin: 0 auto;
+  }
+}
+@media (min-width: 1025px) {
+  .c0237 {
+    top: calc(50% - 70px);
+    width: 100%;
+    padding: 0 20px;
+    position: absolute;
+    transform: translateY(-50%);
+  }
+}
+@media (min-width: 1320px) {
+  .c0237 {
+    left: 50%;
+    width: 1280px;
+    padding: 0;
+    transform: translate(-50%, -50%);
+  }
+}
+.c0238 {
+  bottom: 40px;
+  padding: 0 20px;
+  position: absolute;
+}
+@media (min-width: 1025px) {
+  .c0238 {
+    bottom: auto;
+  }
+}
+.c0242 {
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  font-family: Lato, sans-serif;
+  font-weight: bold;
+  line-height: 19px;
+  margin-bottom: 20px;
+  letter-spacing: 1.57px;
+  text-transform: uppercase;
+}
+.c0242:after {
+  width: 140px;
+  height: 1px;
+  content: "";
+  display: inline-block;
+  margin-left: 10px;
+  vertical-align: middle;
+  background-color: #a18f64;
+}
+.c0243 {
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
+  font-size: 18px;
+  font-family: Roboto, sans-serif;
+  font-weight: 300;
+  line-height: 30px;
+  letter-spacing: 1px;
+}
+.c0243 > p {
+  margin: 0;
+}
+.c0240 {
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
+  font-size: 60px;
+  font-family: Roboto, sans-serif;
+  font-weight: 300;
+  line-height: 60px;
+  margin-bottom: 10px;
+  text-transform: uppercase;
+}
+@media (min-width: 768px) {
+  .c0240 {
+    font-size: 90px;
+    line-height: 80px;
+  }
+}
+@media (min-width: 1025px) {
+  .c0240 {
+    top: -15px;
+    left: -10px;
+    position: relative;
+    font-size: 100px;
+    line-height: 95px;
+  }
+}
+@media (min-width: 1025px) {
+  .c0241 {
+    font-size: 140px;
+    line-height: 130px;
+  }
+}
+.c026 {
+  width: 100%;
+  display: block;
+  padding: 30px;
+  position: relative;
+  max-width: 100%;
+  border-top: 4px solid #a18f64;
+  text-align: center;
+  padding-bottom: 110px;
+  text-decoration: none;
+  background-color: rgba(255,255,255,0.05);
+}
+@media (min-width: 768px) {
+  .c026 {
+    flex: 0 1 calc((100% - 32px) / 2);
+    margin: 8px;
+  }
+}
+@media (min-width: 1025px) {
+  .c026 {
+    flex: 0 1 calc((100% - 48px) / 3);
+  }
+}
+.c027 {
+  height: 100%;
+  max-width: 100%;
+  max-height: 40px;
+}
+.c028 {
+  color: rgba(244,244,244,0.2);
+  height: 1px;
+  margin: 30px 0;
+  border: none;
+  background-color: rgba(244,244,244,0.2);
+}
+.c029 {
+  color: #ffffff;
+  margin: 0;
+  font-size: 14px;
+  text-align: left;
+  font-family: Roboto, sans-serif;
+  font-weight: 300;
+  line-height: 28px;
+  letter-spacing: 1px;
+}
+.c029 > p {
+  margin: 0;
+}
+.c0210 {
+  left: 30px;
+  right: 30px;
+  color: #ffffff;
+  width: auto;
+  height: 50px;
+  bottom: 30px;
+  position: absolute;
+  font-size: 14px;
+  text-align: center;
+  line-height: 48px;
+  font-weight: bold;
+  font-family: Lato, sans-serif;
+  text-transform: uppercase;
+  letter-spacing: 1.57px;
+  text-decoration: none;
+}
+.c0210:before {
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  content: "";
+  z-index: -2;
+  position: absolute;
+  border-width: 1px;
+  border-style: solid;
+  border-color: #a18f64;
+  background-color: #a18f64;
+}
+@media (min-width: 1025px) {
+  .c0210 {
+    width: auto;
+    transform-origin: 0% 0%;
+  }
+  .c0210:after {
+    top: 0;
+    right: 0;
+    width: 0;
+    bottom: 0;
+    content: "";
+    z-index: -1;
+    position: absolute;
+    transition: width 250ms ease-in-out;
+    background-color: #877148;
+  }
+  .c0210:hover:after {
+    left: 0;
+    right: auto;
+    width: 100%;
+  }
+}
+.c023 {
+  position: relative;
+  margin-top: 30px;
+}
+@media (min-width: 1025px) {
+  .c023 {
+    margin-top: 50px;
+  }
+}
+.c024 {
+  margin: -8px;
+  display: flex;
+  flex-wrap: wrap;
+}
+.c025 {
+  margin: 8px;
+  padding-right: 100px;
+}
+@media (min-width: 768px) {
+  .c025 {
+    flex: 0 1 calc((100% - 32px) / 2);
+  }
+}
+@media (min-width: 1025px) {
+  .c025 {
+    flex: 0 1 calc((100% - 48px) / 3);
+  }
+}
+.c0213 {
+  width: 100%;
+  padding: 30px;
+  display: block;
+  position: relative;
+  border-top: 4px solid #a18f64;
+  padding-bottom: 67px;
+  text-decoration: none;
+  background-color: rgba(255,255,255,0.05);
+}
+.c0214 {
+  color: #ffffff;
+  margin: 0;
+  padding: 0;
+  font-size: 18px;
+  font-family: Roboto, sans-serif;
+  font-weight: 300;
+  line-height: 27px;
+  letter-spacing: 1px;
+}
+.c0215 {
+  left: 30px;
+  color: #a18f64;
+  bottom: 30px;
+  position: absolute;
+  font-size: 14px;
+  font-family: Lato, sans-serif;
+  font-weight: bold;
+  line-height: 17px;
+  letter-spacing: normal;
+}
+.c0211 {
+  margin: -8px 0;
+  display: flex;
+  padding: 0;
+  list-style: none;
+  flex-direction: column;
+}
+@media (min-width: 768px) {
+  .c0211 {
+    margin: -8px;
+    flex-wrap: wrap;
+    flex-direction: row;
+  }
+}
+.c0212 {
+  margin: 8px 0;
+  display: flex;
+}
+@media (min-width: 768px) {
+  .c0212 {
+    margin: 8px;
+    flex-grow: 0;
+    flex-basis: calc((100% - 32px) / 2);
+    flex-shrink: 1;
+  }
+}
+@media (min-width: 1025px) {
+  .c0212 {
+    flex-basis: calc((100% - 48px) / 3);
+    min-height: 132px;
+  }
+}
+.c021 {
+  width: 100%;
+}
+@media (min-width: 1025px) {
+  .c021 {
+    display: flex;
+    justify-content: space-between;
+  }
+}
+@media (min-width: 1025px) {
+  .c022 {
+    flex: 0 1 calc((100% - 32px) / 2);
+  }
+}</style><title data-react-helmet="true">Nexstar Digital</title><meta data-react-helmet="true" name="viewport" content="width=device-width, initial-scale=1, user-scalable=no"/><meta data-react-helmet="true" name="description" content="National scale with a local approach, Nexstar Digital businesses provide digital media solutions to local and national brands, advertisers, and publishers."/><meta data-react-helmet="true" name="keywords" content=""/><meta data-react-helmet="true" property="og:type" content="website"/><meta data-react-helmet="true" property="og:title" content="Nexstar Digital"/><meta data-react-helmet="true" property="og:description" content="National scale with a local approach, Nexstar Digital businesses provide digital media solutions to local and national brands, advertisers, and publishers."/><meta data-react-helmet="true" property="og:image" content="/nexstar-fb.png"/><link rel="manifest" href="/favicons/manifest.json"/><link rel="apple-touch-icon" sizes="57x57" href="/favicons/apple-touch-icon-57x57.png"/><link rel="apple-touch-icon" sizes="60x60" href="/favicons/apple-touch-icon-60x60.png"/><link rel="apple-touch-icon" sizes="72x72" href="/favicons/apple-touch-icon-72x72.png"/><link rel="apple-touch-icon" sizes="76x76" href="/favicons/apple-touch-icon-76x76.png"/><link rel="apple-touch-icon" sizes="114x114" href="/favicons/apple-touch-icon-114x114.png"/><link rel="apple-touch-icon" sizes="120x120" href="/favicons/apple-touch-icon-120x120.png"/><link rel="apple-touch-icon" sizes="144x144" href="/favicons/apple-touch-icon-144x144.png"/><link rel="apple-touch-icon" sizes="152x152" href="/favicons/apple-touch-icon-152x152.png"/><link rel="apple-touch-icon" sizes="180x180" href="/favicons/apple-touch-icon-180x180.png"/><link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 1)" href="/favicons/apple-touch-startup-image-320x460.png"/><link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 480px) and (-webkit-device-pixel-ratio: 2)" href="/favicons/apple-touch-startup-image-640x920.png"/><link rel="apple-touch-startup-image" media="(device-width: 320px) and (device-height: 568px) and (-webkit-device-pixel-ratio: 2)" href="/favicons/apple-touch-startup-image-640x1096.png"/><link rel="apple-touch-startup-image" media="(device-width: 375px) and (device-height: 667px) and (-webkit-device-pixel-ratio: 2)" href="/favicons/apple-touch-startup-image-750x1294.png"/><link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 736px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 3)" href="/favicons/apple-touch-startup-image-1182x2208.png"/><link rel="apple-touch-startup-image" media="(device-width: 414px) and (device-height: 736px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 3)" href="/favicons/apple-touch-startup-image-1242x2148.png"/><link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 1)" href="/favicons/apple-touch-startup-image-748x1024.png"/><link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 1)" href="/favicons/apple-touch-startup-image-768x1004.png"/><link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: landscape) and (-webkit-device-pixel-ratio: 2)" href="/favicons/apple-touch-startup-image-1496x2048.png"/><link rel="apple-touch-startup-image" media="(device-width: 768px) and (device-height: 1024px) and (orientation: portrait) and (-webkit-device-pixel-ratio: 2)" href="/favicons/apple-touch-startup-image-1536x2008.png"/><link rel="icon" type="image/png" sizes="32x32" href="/favicons/favicon-32x32.png"/><link rel="icon" type="image/png" sizes="16x16" href="/favicons/favicon-16x16.png"/><link rel="shortcut icon" href="/favicons/favicon.ico"/><link rel="icon" type="image/png" sizes="228x228" href="/favicons/coast-228x228.png"/><meta name="msapplication-TileImage" content="/favicons/mstile-144x144.png"/><meta name="msapplication-config" content="/favicons/browserconfig.xml"/><link rel="yandex-tableau-widget" href="/favicons/yandex-browser-manifest.json"/><link href="https://fonts.googleapis.com/css?family=Lato:300,700|Roboto:300,700|Roboto+Mono:300" rel="stylesheet"/><script>
+  
+  
+  if(true) {
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+    (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+    m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  }
+  if (typeof ga === "function") {
+    ga('create', 'UA-126374762-1', 'auto', {});
+      
+      }
+      </script><style id="gatsby-inlined-css">._buttonBack_113ph_1,._buttonFirst_y31jn_1,._buttonLast_x8dvv_1,._buttonNext_p1bs6_1,._dot_27k82_1{cursor:pointer}._image_u458c_1{display:block;width:100%;height:100%}._container_1xog2_1{position:relative;overflow:hidden;height:100%;width:100%}._overlay_1xog2_8{position:absolute;top:0;left:0;bottom:0;right:0;opacity:0;cursor:-webkit-zoom-in;cursor:zoom-in;transition:opacity .3s,-webkit-transform .3s;transition:opacity .3s,transform .3s;transition:opacity .3s,transform .3s,-webkit-transform .3s}._hover_1xog2_19,._loading_1xog2_27,._zoom_1xog2_23{opacity:1}._imageLoadingSpinnerContainer_1xog2_31{position:absolute;top:0;right:0;bottom:0;left:0;background-color:#f7f2e8}._slideInner_fhwgk_1{position:absolute;top:0;left:0;width:100%;height:100%}._slideHorizontal_fhwgk_1{float:left}._slide_fhwgk_1{position:relative;display:block;box-sizing:border-box;height:0;margin:0;list-style-type:none}._slide_fhwgk_1:focus{outline:none!important}._focusRing_fhwgk_26{position:absolute;top:5px;right:5px;bottom:5px;left:5px;pointer-events:none;outline-width:5px;outline-style:solid;outline-color:Highlight}@media (-webkit-min-device-pixel-ratio:0){._focusRing_fhwgk_26{outline-style:auto;outline-color:-webkit-focus-ring-color}}._horizontalSlider_1rjy8_1{position:relative;overflow:hidden}._horizontalSliderTray_1rjy8_1{overflow:hidden;width:100%}._verticalSlider_1rjy8_11{position:relative;overflow:hidden}._verticalSliderTray_1rjy8_1{overflow:hidden}._verticalTray_1rjy8_20{float:left}._verticalSlideTrayWrap_1rjy8_24{overflow:hidden}._sliderTray_1rjy8_28{display:block;list-style:none;padding:0;margin:0}._sliderAnimation_1rjy8_35{transition:-webkit-transform .5s;transition:transform .5s;transition:transform .5s,-webkit-transform .5s;transition-timing-function:cubic-bezier(.645,.045,.355,1);will-change:transform}._masterSpinnerContainer_1rjy8_41{position:absolute;top:0;right:0;bottom:0;left:0;background-color:#f7f2e8}._spinner_1dguc_1{position:absolute;top:calc(50% - 15px);left:calc(50% - 15px);width:30px;height:30px;-webkit-animation-name:a;animation-name:a;-webkit-animation-duration:1s;animation-duration:1s;-webkit-animation-timing-function:linear;animation-timing-function:linear;-webkit-animation-iteration-count:infinite;animation-iteration-count:infinite;border-width:4px;border-style:solid;border-top-color:#000;border-right-color:#a9a9a9;border-bottom-color:#a9a9a9;border-left-color:#a9a9a9;border-radius:30px}@-webkit-keyframes a{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}@keyframes a{0%{-webkit-transform:rotate(0deg);transform:rotate(0deg)}to{-webkit-transform:rotate(1turn);transform:rotate(1turn)}}</style></head><body><div id="___gatsby"><div class="c021 c022" data-reactroot="" data-reactid="1" data-react-checksum="1633400155"><!-- react-empty: 2 --><header class="c024" data-reactid="3"><a class="c025" href="/" data-reactid="4"><svg class="c026" data-reactid="5"><use xlink:href="#nexstar" data-reactid="6"></use></svg></a><button class="c027" data-reactid="7"><span class="c028" data-reactid="8"></span><span class="c028" data-reactid="9"></span><span class="c028" data-reactid="10"></span></button><nav class="c0210" data-reactid="11"><ul class="c0212" data-reactid="12"><li class="c0213" data-reactid="13"><a class="c0214 c0215" aria-current="page" href="/" data-reactid="14">Home</a></li><li class="c0213" data-reactid="15"><div class="c0216" data-reactid="16"><span class="c0217" data-reactid="17">Groups</span><ul class="c0220" data-reactid="18"><li class="c0222" data-reactid="19"><a class="c0223" href="/hyfn" data-reactid="20"> HYFN</a></li><li class="c0222" data-reactid="21"><a class="c0223" href="/local-agency-services" data-reactid="22">Agency Services</a></li><li class="c0222" data-reactid="23"><a class="c0223" href="/publisher-solutions-group" data-reactid="24">Publisher Solutions Group</a></li><li class="c0222" data-reactid="25"><a class="c0223" href="/platform-group" data-reactid="26">Platform Group</a></li><li class="c0222" data-reactid="27"><a class="c0223" href="/data-solutions-group" data-reactid="28">Data Solutions Group</a></li></ul></div></li><li class="c0213" data-reactid="29"><a class="c0214" href="/leadership" data-reactid="30">Leadership</a></li><li class="c0213" data-reactid="31"><a class="c0214" href="/about" data-reactid="32">About</a></li><li class="c0213" data-reactid="33"><a class="c0214" href="/press" data-reactid="34">Press</a></li><li class="c0213" data-reactid="35"><a class="c0214" href="/contact" data-reactid="36">Contact</a></li></ul></nav></header><main class="c023" data-reactid="37"><div data-reactid="38"><section class="c0233 c0234 c0235" style="height:0px;" data-reactid="39"><div class="c0236 c0237 c0238" data-reactid="40"><div class="c021" data-reactid="41"><div class="c022" data-reactid="42"><div class="c0239" data-reactid="43"><h3 class="c0242" data-reactid="44">Welcome To</h3><h1 class="c0240 c0241" data-reactid="45"><!-- react-text: 46 -->Nexstar<!-- /react-text --><br data-reactid="47"/><!-- react-text: 48 -->Digital<!-- /react-text --></h1><div class="c0243" data-reactid="49">National scale with a local approach, Nexstar Digital businesses provide digital media solutions to local and national brands, advertisers, and publishers.</div></div></div></div></div></section><section class="c0233" data-reactid="50"><div class="c0236" data-reactid="51"><div class="c023 c024" data-reactid="52"><div class="c025" data-reactid="53"><h3 class="c0242" data-reactid="54">Our Companies</h3><div class="c0243" data-reactid="55">Nexstar's digital media products and services focus on providing innovative solutions to audiences, clients and businesses looking to gain an edge in the shifting digital landscape.</div></div><a class="c026" href="/hyfn" data-reactid="56"><img src="assets/1a1d1f8e0a5a71586382e4b481f207f3.png" alt=" HYFN" class="c027" data-reactid="57"/><hr class="c028" data-reactid="58"/><div class="c029" data-reactid="59"><p>HYFN helps national brands create meaningful customer journeys via content, social amplification and creative technology.</p></div><div class="c0210" data-reactid="60">Learn More</div></a><a class="c026" href="/local-agency-services" data-reactid="61"><img src="assets/aa5e104b8534ffd2117abfcfb1eaaedb.png" alt="Agency Services" class="c027" data-reactid="62"/><hr class="c028" data-reactid="63"/><div class="c029" data-reactid="64"><p>Nexstar Digital's Agency Services connects local brands to the right audiences.</p></div><div class="c0210" data-reactid="65">Learn More</div></a><a class="c026" href="/publisher-solutions-group" data-reactid="66"><img src="assets/6abd12f7aceeeeab31efbfa49d52367b.png" alt="Publisher Solutions Group" class="c027" data-reactid="67"/><hr class="c028" data-reactid="68"/><div class="c029" data-reactid="69"><p>Publisher Solutions Group helps news organizations and content creators rapidly publish and grow their audiences.</p></div><div class="c0210" data-reactid="70">Learn More</div></a><a class="c026" href="/platform-group" data-reactid="71"><img src="assets/0436344ddaa64c9db3ee09cc5018de84.png" alt="Platform Group" class="c027" data-reactid="72"/><hr class="c028" data-reactid="73"/><div class="c029" data-reactid="74"><p>Nexstar Digital's Platform Group enables digital video sellers and buyers to build and power their entire video advertising businesses and customize solutions to efficiently scale across mobile, desktop, and connected TV.</p></div><div class="c0210" data-reactid="75">Learn More</div></a><a class="c026" href="/data-solutions-group" data-reactid="76"><img src="assets/55d8dddb13943619cee1349245335f00.png" alt="Data Solutions Group" class="c027" data-reactid="77"/><hr class="c028" data-reactid="78"/><div class="c029" data-reactid="79"><p>Data Solutions Group provides innovative, data-enabled products designed to help partners reach the right audiences and increase their market share.</p></div><div class="c0210" data-reactid="80">Learn More</div></a></div></div></section><section class="c0233" data-reactid="81"><div class="c0236" data-reactid="82"><div class="c0239" data-reactid="83"><h3 class="c0242" data-reactid="84">Recent News</h3></div><ul class="c0211" data-reactid="85"><li class="c0212" data-reactid="86"><a href="https://medium.com/@hyfn/be-smart-the-added-value-of-third-party-audiences-230fb32faee8" class="c0213" target="_blank" data-reactid="87"><h3 class="c0214" data-reactid="88">What advantage can third-party audiences provide for you and your business? That’s a good question—read on to find out.</h3><span class="c0215" data-reactid="89">Read More</span></a></li><li class="c0212" data-reactid="90"><a href="https://www.businesswire.com/news/home/20180508005690/en/LKQD-Technologies-Named-SIIA-Business-Technology-CODiE" class="c0213" target="_blank" data-reactid="91"><h3 class="c0214" data-reactid="92">We&#x27;re honored to announce the Platforms Group has been selected as a finalist for Best Campaign Management Platform in the 2018 @SIIA CODiE awards.</h3><span class="c0215" data-reactid="93">Read More</span></a></li><li class="c0212" data-reactid="94"><a href="https://www.nexstar.tv/nexstar_agrees_to_acquire_tribune/" class="c0213" target="_blank" data-reactid="95"><h3 class="c0214" data-reactid="96">Nexstar Media Group Enters into Definitive Agreement to Acquire Tribune Media Company for $6.4 Billion in Accretive Transaction Creating the Nation’s Largest Local Television Broadcaster and Local Media Company</h3><span class="c0215" data-reactid="97">Read More</span></a></li><li class="c0212" data-reactid="98"><a href="http://solutions.hyfn.com/national-to-local" class="c0213" target="_blank" data-reactid="99"><h3 class="c0214" data-reactid="100">Local advertising just got a whole lot easier (and more effective)! Check out our newest ads tool that helps franchisers streamline the process of social advertising and drive measurable results. </h3><span class="c0215" data-reactid="101">Read More</span></a></li><li class="c0212" data-reactid="102"><a href="https://blog.hyfn.com/its-a-wonderful-report" class="c0213" target="_blank" data-reactid="103"><h3 class="c0214" data-reactid="104">Learn how HYFN leverages insights to make data more valuable.</h3><span class="c0215" data-reactid="105">Read More</span></a></li><li class="c0212" data-reactid="106"><a href="https://www.businesswire.com/news/home/20180821005218/en/New-Inventory-Forecasting-Advancements-LKQD-Technologies-Publishers" class="c0213" target="_blank" data-reactid="107"><h3 class="c0214" data-reactid="108">NXD Platforms Group releases improved live inventory forecasting for publishers to help them rise to the forefront in digital video advertising.</h3><span class="c0215" data-reactid="109">Read More</span></a></li><li class="c0212" data-reactid="110"><a href="http://www.globenewswire.com/news-release/2019/06/06/1865491/0/en/Nexstar-Digital-Introduces-TViQ-Audience-Solution.html" class="c0213" target="_blank" data-reactid="111"><h3 class="c0214" data-reactid="112">Nexstar Digital Introduces TViQ Audience Solution, Giving Advertisers the Power to Leverage Station Data to Reach Digital Audiences At Scale</h3><span class="c0215" data-reactid="113">Read More</span></a></li></ul></div></section></div></main><footer class="c0253" data-reactid="114"><div class="c0254" data-reactid="115"><div class="c0255" data-reactid="116"><div class="c0261" data-reactid="117"><h3 class="c0262" data-reactid="118">Groups</h3><ul class="c0263" data-reactid="119"><li class="c0265" data-reactid="120"><a class="c0266" href="/hyfn" data-reactid="121"> HYFN</a></li><li class="c0265" data-reactid="122"><a class="c0266" href="/local-agency-services" data-reactid="123">Agency Services</a></li><li class="c0265" data-reactid="124"><a class="c0266" href="/publisher-solutions-group" data-reactid="125">Publisher Solutions Group</a></li><li class="c0265" data-reactid="126"><a class="c0266" href="/platform-group" data-reactid="127">Platform Group</a></li><li class="c0265" data-reactid="128"><a class="c0266" href="/data-solutions-group" data-reactid="129">Data Solutions Group</a></li></ul></div><div class="c0261" data-reactid="130"><h3 class="c0262" data-reactid="131">Nexstar Digital</h3><ul class="c0263" data-reactid="132"><li class="c0264" data-reactid="133"><a class="c0266" href="/leadership" data-reactid="134">Leadership</a></li><li class="c0264" data-reactid="135"><a class="c0266" href="/about" data-reactid="136">About</a></li><li class="c0264" data-reactid="137"><a class="c0266" href="/press" data-reactid="138">Press</a></li><li class="c0264" data-reactid="139"><a class="c0266" href="/contact" data-reactid="140">Contact</a></li><li class="c0264" data-reactid="141"><a class="c0266" href="/privacy" data-reactid="142">Privacy</a></li><li class="c0264" data-reactid="143"><a class="c0266" href="/terms" data-reactid="144">Terms</a></li><li class="c0264" data-reactid="145"><a class="c0266" href="http://ad.lkqd.net/optout/optout.html" target="_blank" data-reactid="146">Opt Out</a></li></ul></div><div class="c0261" data-reactid="147"><h3 class="c0262" data-reactid="148">Nexstar Media Group</h3><ul class="c0263" data-reactid="149"><li class="c0264" data-reactid="150"><a class="c0266" href="https://www.nexstar.tv" target="_blank" data-reactid="151">Nexstar.tv</a></li><li class="c0264" data-reactid="152"><a class="c0266" href="https://digitalcareers-nexstar.icims.com" target="_blank" data-reactid="153">Careers</a></li></ul></div></div><div class="c0256" data-reactid="154"><ul class="c0267" data-reactid="155"><li class="c0268" data-reactid="156"><a class="c0269" href="https://www.facebook.com/nexstardigital/" target="_blank" data-reactid="157"><svg class="c0270" data-reactid="158"><use xlink:href="#icon-facebook" data-reactid="159"></use></svg></a></li><li class="c0268" data-reactid="160"><a class="c0269" href="https://twitter.com/NexstarDigital" target="_blank" data-reactid="161"><svg class="c0270" data-reactid="162"><use xlink:href="#icon-twitter" data-reactid="163"></use></svg></a></li><li class="c0268" data-reactid="164"><a class="c0269" href="https://www.linkedin.com/company/nexstardigital/" target="_blank" data-reactid="165"><svg class="c0270" data-reactid="166"><use xlink:href="#icon-linkedin" data-reactid="167"></use></svg></a></li></ul></div></div><div class="c0257" data-reactid="168"><div class="c0258" data-reactid="169"><!-- react-text: 170 -->Copyright © 1998-2019, Nexstar Digital LLC,<!-- /react-text --><!-- react-text: 171 --> <!-- /react-text --><br class="c0259" data-reactid="172"/><!-- react-text: 173 -->All rights reserved.<!-- /react-text --></div></div></footer><div class="c0271" data-reactid="174"><img src="assets/1042eeb83ef864f7d167691354adb062.jpg" class="c0272 c0273" data-reactid="175"/><video class="c0272" autoplay="" muted="" loop="" data-reactid="176"><source src="//videos.ctfassets.net/545wl8z11i7x/4TBG9fOgxOqQscYCmAE8ea/9b9d3e46276f75f8b391a72117220b13/_NXD_World_Master.mp4.mp4" type="video/mp4" data-reactid="177"/><source src="//videos.ctfassets.net/545wl8z11i7x/5BpabMjUY0C0AE4c6uSOQG/670a956b1f0678c81ec1851bbc76141e/_NXD_World_Master.oggtheora.ogv" type="video/ogg" data-reactid="178"/><source type="video/webm" data-reactid="179"/></video></div></div></div><script id="webpack-manifest">/*<![CDATA[*/window.webpackManifest={"231608221292675":"app-d23fcaf40f3e2d072e24.js","212406790991065":"component---src-templates-brand-js-397b11e9f957c880e8cf.js","162898551421021":"component---src-pages-404-js-8e417a058c83b331340f.js","263791100135453":"component---src-pages-about-js-d05d6f770fe198623c68.js","70144966829960":"component---src-pages-contact-js-3a19f2d33dda9621e7ae.js","35783957827783":"component---src-pages-index-js-e6436edcc8ce3afe5e02.js","131475455264167":"component---src-pages-leadership-js-fba316fca2b69a6663eb.js","218538773642512":"component---src-pages-page-2-js-075954cd9c4544c7dcd8.js","170264817138936":"component---src-pages-press-js-34c57d676a30ad64e788.js","915738553496":"component---src-pages-privacy-js-113758c5209319f8b129.js","267695594480457":"component---src-pages-terms-js-cf0d5b7b7d1a99b4ba4e.js","60335399758886":"path----11a821952a4db87dd7a8.js","93918690467557":"path---hyfn-a06028ce0339ec77f4b9.js","239564025365162":"path---data-solutions-group-3a262ca836f1b58cdc15.js","257140017479080":"path---local-agency-services-606cf33d41601061e605.js","182821230055048":"path---publisher-solutions-group-7003a482c77485fb108f.js","250561663778722":"path---platform-group-c8c48a856290c352ec14.js","254022195166212":"path---404-a0e39f21c11f6a62c5ab.js","273950069227526":"path---about-a0e39f21c11f6a62c5ab.js","184662623972074":"path---contact-767b296830f272b6fee8.js","142629428675168":"path---index-91dbcb76e5bd75776f63.js","246551746996929":"path---leadership-3095bae6f953b3c761fa.js","135728916539164":"path---page-2-a0e39f21c11f6a62c5ab.js","256360735588706":"path---press-235cefae050f21b226c7.js","166922164162147":"path---privacy-a0e39f21c11f6a62c5ab.js","89335538696419":"path---terms-a0e39f21c11f6a62c5ab.js","178698757827068":"path---404-html-a0e39f21c11f6a62c5ab.js","114276838955818":"component---src-layouts-index-js-235d22c6787e4e3cfece.js"}/*]]>*/</script><script>/*<![CDATA[*/["/commons-38ac0be8c16d3a2ea3ca.js","/app-d23fcaf40f3e2d072e24.js","/path---index-91dbcb76e5bd75776f63.js","/component---src-pages-index-js-e6436edcc8ce3afe5e02.js","/component---src-layouts-index-js-235d22c6787e4e3cfece.js"].forEach(function(s){document.write('<script src="'+s+'" defer></'+'script>')})/*]]>*/</script>
+<div style="position:fixed;top:0;left:0;width:100%;height:45px;z-index:2147483647;background-color:rgba(253,147,38,0.90) !important;color:black !important;text-align:right !important;font:normal 12px/45px Arial, sans-serif !important;border-radius:0 !important;margin:0 !important;max-width:100% !important;background-repeat: no-repeat !important;background-position: 15px center !important;
+background-image: url(data:image/png;base64,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);
+"><span style="padding-right:15px;">You are viewing a snapshot of <a style='font-weight:bold !important; color:white !important' href='http://federatedmedia.net/'>http://federatedmedia.net/</a> created on 2020/08/12</span></div></body></html>

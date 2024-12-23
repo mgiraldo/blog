@@ -1,0 +1,368 @@
+<HTML>
+
+<head>
+
+<title>Folklore.org: The End Of An Era</TITLE>
+<link rel="stylesheet" type="text/css" href="assets/03112dea3fef4779e41369e85f3484de.css">
+<link rel="alternate" type="application/rss+xml" title="RSS" href="http://www.folklore.org/folklore.xml">
+<link rel="shortcut icon" href="images/macfavicon.ico?v=1" />
+
+<script type="text/javascript">
+<!--
+var pageHandler = null;
+var fProjectName = "Macintosh";
+var fStoryName = "The_End_Of_An_Era.txt";
+var fStoryIndex = "";
+
+//-->
+</script>
+
+<script type="text/javascript" src="assets/47e52ee029ab2f41a614f5c40bd746ca.js"></script>
+<script type="text/javascript">
+<!--
+
+function initJs() {
+  var options = {};
+  pageHandler = new folklore.Story();
+}
+
+//-->
+</script>
+</head>
+
+<body text="#000000" onload="initJs()" onunload="pageHandler.unload()">
+<div class="redraw-placeholder"/>
+<div class="logo-bar">
+  <a href="index.py"><IMG src="assets/86fb6246d9bd1dabc0040a14a7f1b714.gif" width="429" height="62" alt="folklore.org" border="0"></a>
+</div>
+
+<div class="about-bar">
+  <div class="m1">
+  <a href="/" class="header-link">Home</a>&nbsp;|&nbsp;<a href="html/about.html" class="header-link">About Folklore</a>
+  </div>
+</div><table><tr><td valign="top"></td><td valign="top"><div class="story-view-header-bar">
+
+<table width="100%"><tr>
+<td align=left width="32"><a href="ProjectView.py?project=Macintosh&sortOrder=Sort+by+Date">
+  <img src="assets/904559b8305fb925f349c690c6829254.gif" height=32 border=0></a>
+</td>
+<td>
+  <a href="ProjectView.py?project=Macintosh&sortOrder=Sort+by+Date">
+  <font size=3>The Original Macintosh:</a>&nbsp;&nbsp;</font>
+</td>
+<td align=right>
+ 
+  <a href="StoryView.py?project=Macintosh&story=Font_Manager.txt&sortOrder=Sort+by+Date">
+    <img src="assets/3e3b9856595479ab34c224ce26f0ef7c.gif" border=0"></a>
+ 
+
+  <span class="story-view-header-bar-count">&nbsp;109 of 126&nbsp;</span>
+  
+ 
+  <a href="StoryView.py?project=Macintosh&story=MacBasic.txt&sortOrder=Sort+by+Date">
+    <img src="assets/8ba32584cd5998ad2fffc22e6d65ba87.gif" border=0">
+  </a>
+ 
+</td>
+</tr></table>
+
+</div><div class="story-view-header">
+  <div class="story-view-title">The End Of An Era
+  
+  </div>
+
+  <table>
+    <tr>
+      <td align="right"><span class="story-view-label">Author:</span></td>
+      <td align="left"><span class="story-view-value">Andy Hertzfeld</span></td>
+    </tr>
+
+    <tr>
+      <td align="right"><span class="story-view-label">Date:</span></td>
+      <td align="left"><span class="story-view-value">May 1985</span></td>
+    </tr>
+
+    
+
+        
+      <tr>
+        <td align="right"><span class="story-view-label">Characters:</span></td>
+        <td align="left"><span class="story-view-value">Bob Belleville, Joanna Hoffman, John Warnock, Mike Scott, Bud Tribble, Steve Jobs, John Sculley, Steve Capps, Bill Atkinson, Burrell Smith, Mike Murray, Jean-Louis Gassee, Andy Hertzfeld</span></td>
+      </tr>
+   
+
+        
+      <tr>
+        <td align="right"><span class="story-view-label">Topics:</span></td>
+        <td align="left"><span class="story-view-value">Management, Personality, Personality Clashes, Quitting</span></td>
+      </tr>
+    
+
+    <tr>
+      <td align="right"><span class="story-view-label">Summary:</span></td>
+      <td align="left"><span class="story-view-value">The Mac division undergoes an inconceivable reorganization</span></td>
+    </tr>
+  </table>
+</div><div class="story-view-body">
+  
+  <div class="story-main-image-with-caption">
+    <table>
+    <tr><td>
+      
+      <img class="story-main-image" src="assets/dbabfcedbb0761d4e3d08d436a041d75.jpg"/>
+      
+    </td></tr>
+    <tr><td>
+      <span class="story-main-caption">Steve Jobs and John Sculley<br>in November 1984</span>
+    </td></tr>
+    </table>
+  </div>
+  
+  <div class="story-main-content">
+    <p class="story-firstp">The original Macintosh enjoyed robust sales following its spectacular launch in January 1984 <span class="story-link">(see <a href="StoryView.py?project=Macintosh&story=The_Times_They_Are_A-Changin.txt"><span class="story-link-label">The Times They Are A-Changin'</span></a>)</span>.  Steve Jobs defined success as selling 50,000 units in the first 100 days, which was a high hurdle for a brand new computer with only a handful of applications available.   In fact, Apple was able to sell more than 72,000 Macintoshes by end of April, and continued to ramp up to sell over 60,000 units in June 1984 alone.</p><br/>
+<br/>
+I travelled to the 1984 National Computer Conference show in June 1984 with the Mac team, sharing a hotel room with Burrell Smith, even though I was on leave of absence <span class="story-link">(see <a href="StoryView.py?project=Macintosh&story=Leave_Of_Absence.txt"><span class="story-link-label">Leave Of Absence</span></a>)</span>.  Apple had assembled over a dozen small software developers who had written cool applications for the Macintosh, to display them at the trade show.  Steve Jobs was ebullient, and thought that the sprouting applications and blossoming sales meant that we had turned the corner. When I ran into him on the floor of the show, he put his arm around my shoulder and exclaimed, "Look at all these applications! We did it! The Macintosh has made it!"<br/>
+<br/>
+High sales spurred even rosier predictions for the upcoming holiday season.  But as summer turned into fall, Macintosh sales began to decline.   For a couple of months, the University Consortium <span class="story-link">(see <a href="StoryView.py?project=Macintosh&story=Whats_A_Megaflop?.txt"><span class="story-link-label">What's A Megaflop?</span></a>)</span> kept volumes high by selling tens of thousands of low cost Macs to college students, but by Thanksgiving 1984, sales had slowed significantly.  The marketing team forecast selling over 75,000 Macs per month for the important holiday season, but actually they didn't even break 20,000 units per month.  In December 1984, the Apple II still accounted for about 70% of Apple's revenues.<br/>
+<br/>
+As the new year dawned, Steve Jobs seemed oblivious to the slowing sales, and continued to behave as if the Macintosh was a booming, unqualified success.  His lieutenants in the Macintosh division, which had swelled to more than 700 employees, had to deal with a growing reality gap, reconciling the ever-changing audacious plans for world domination emanating from their leader with the persistent bad news from the sales channel.<br/>
+<br/>
+Meanwhile, the Macintosh engineering team had not been very productive.  The Mac was crying out for an internal hard drive, and some kind of high bandwidth port to attach it to, but there weren't any significant upgrades on the horizon, even though the basic hardware hadn't changed (except for additional RAM) for a year.  In the fall of 1984, Steve Jobs tried to rally the remains of the original Mac team around the "Turbo Mac" project, featuring a new digital board with custom chips and fast I/O for an internal hard drive to be designed by Burrell Smith.  But Burrell felt that engineering manager Bob Belleville was flinging lots of gratuitous obstacles in his path, and it eventually became so frustrating that he quit the company in February 1985 <span class="story-link">(see <a href="StoryView.py?project=Macintosh&story=Are_You_Gonna_Do_It.txt"><span class="story-link-label">Are You Gonna Do It?</span></a>)</span>.<br/>
+<br/>
+The only upcoming new product was the LaserWriter printer, based on Canon's 300 dots/inch laser printing engine, with a digital board designed by Burrell Smith and software written by Adobe, a new company founded by Xerox alumni John Warnock and Chuck Geschke.  Like the Macintosh itself, Adobe's Postscript software at the heart of the LaserWriter was years ahead of its time, and was capable of producing exquisitely beautiful pages.  Unfortunately, the LaserWriter had one major flaw:  its retail price was over $7,000, almost triple the cost of a Macintosh.<br/>
+<br/>
+Joanna Hoffman, the Mac team's original marketing person, transfered from international marketing back to the main product marketing group in early 1985, to help deal with the growing crisis.  At the first sales meeting that she attended, she was surprised to see that the sales forecasts for the upcoming quarter were unchanged from six months ago, when things were still looking good, and were almost four times what they were currently selling.  Everybody was informally assuming more realistic numbers, but no one had the heart to cut the official forecast, because they were afraid to tell Steve about it.  Joanna immediately slashed the forecasts, to the relief of the sales and manufacturing team.<br/>
+<br/>
+The weak sales were beginning to put pressure on the relationship between Steve Jobs and John Sculley for the very first time.  They had gotten along fine when everything was going well, but hitherto they never had to deal with much adversity.  Unfortunately, in early 1985 the personal computer market was descending into one of its periodic downturns, and even Apple II sales were starting to falter.   Steve did not take criticism very well, and sometimes reacted to suggestions for improving Macintosh sales as if they were personal attacks. Their relationship began to sour as John put pressure on Steve to address the Macintosh's problems.<br/>
+<br/>
+Steve Jobs had never suffered fools gladly, and as the pressure mounted, he became even more difficult to work with.  Employees from every part of the company began to approach John with complaints about Steve's behavior, including some of Steve's direct reports in the Macintosh Division.  John felt especially strongly about building more compatibility bridges with the IBM PC, an approach which Steve disdained.  John began to view Steve as an impediment toward fixing Apple's problems, and the board of directors were urging him to do something about it.<br/>
+<br/>
+Steve had often professed that he preferred working with small teams on new products, and that he didn't really want to run a large organization with hundreds of employees.  Apple's board felt that he should hand the reins of the Macintosh division over to a professional management team, and return to his core strength as a new product visionary.  <br/>
+<br/>
+Steve had recently met an interesting character named Steve Kitchen, who was introduced to him by Steve Capps.  Steve Kitchen was a fast talking, enthusiastic entrepreneur who had developed a couple of successful Atari video games.  He claimed to have recently invented a revolutionary flat screen display technology that could facilitate portable computers.  Steve Jobs was intrigued by the prospect of developing a lightweight portable computer, years ahead of its time, and he considered having Apple buy the technology and start a research organization called "Apple Labs" to develop it.  But he seemed ambivalent, sometimes enthusiastic about starting Apple Labs, but other times he seemed determined to prove that he could manage the large division.<br/>
+<br/>
+The conflict came to a head at the April 10th board meeting.  The board thought they could convince Steve to transition back to a product visionary role, but instead he went on the attack and lobbied for Sculley's removal.  After long wrenching discussions with both of them, and extending the meeting to the following day, the board decided in favor of John, instructing him to reorganize the Macintosh division, stripping Steve of all authority.  Steve would remain the chairman of Apple, but for the time being, no operating role was defined for him.<br/>
+<br/>
+John didn't want to implement the reorganization immediately, because he still thought that he could reconcile with Steve, and get him to buy into the changes, achieving a smooth transition with his blessing.  But after a brief period of depressed cooperation, Steve started attacking John again, behind the scenes in a variety of ways.  I won't go into the details here, but eventually John had to remove Steve from his management role in the Macintosh division involuntarily.  Apple announced Steve's removal, along with the first quarterly loss in their history as well as significant layoffs, on Friday, May 31, 1985, Fridays being the traditional time for companies to announce bad news.  It was surely one of the lowest points of Apple history.<br/>
+<br/>
+I was shocked when I heard the news that morning from a friend at Apple, and immediately drove down to Cupertino to see what was going on, and commiserate with my friends.  I was aware of the problem with Macintosh sales, but it was still inconceivable to me that the board could oust Steve Jobs, who was clearly the heart and soul of the company, difficult as he may sometimes be. It was almost impossible to imagine the Macintosh team without him at the helm.  I thought that perhaps I wasn't hearing the whole story, and that something would emerge to help it make more sense.<br/>
+<br/>
+I arrived at the Apple campus soon after Sculley's communication meeting finished, where he explained the nature of the reorganization and the accompanying layoffs.  The way that people were milling around listlessly reminded me of Black Wednesday four years earlier <span class="story-link">(see <a href="StoryView.py?project=Macintosh&story=Black_Wednesday.txt"><span class="story-link-label">Black Wednesday</span></a>)</span>, when Mike Scott unexpectedly purged the Apple II group.  A few folks from the Apple II division who resented Steve's superior attitude seemed elated, and a few others saw the shake-up as an opportunity for personal advancement, but most of Apple's employees were sombre and depressed, feeling sad and uncertain about the future.<br/>
+<br/>
+Lots of people had varying stories about what had actually happened.  I thought that maybe it meant that Steve had decided to pursue AppleLabs, and that maybe I could come back to Apple to work on a small team again.  I was anxious to talk to Steve himself, and find out his take on it, and I wasn't the only one.  Bill Atkinson, Bud Tribble, Steve Capps and myself arranged to visit Steve at his house in Woodside for dinner on Sunday evening, two days after the reorganization was announced.<br/>
+<br/>
+I had never been to Steve's house in Woodside before.  It was a 14-bedroom, 17,250 square foot Spanish colonial style mansion built in 1926 that Steve had purchased around a year ago, in 1984.  We knocked on the door and waited a few minutes before Steve appeared and led us inside.  The massive house was almost completely unfurnished, and our footsteps echoed eerily as he led us to a large room near the kitchen, with a long table, one of the few rooms that had any furniture.<br/>
+<br/>
+We stood around the kitchen chatting, as Steve prepared some food.  His girlfriend Tina was there, who I had met a few times before; I was impressed by her mix of kindness and intelligence.  Bill started chatting with Tina as I finally got a chance to ask Steve about the reorganization.<br/>
+<br/>
+"So what really happened at Apple?", I asked him, even though I was scared to bring it up so directly.  "Is it really as bad as it looks?"<br/>
+<br/>
+"No, it's worse", Steve replied with a pained expression.  "It's much worse than you can imagine."<br/>
+<br/>
+Steve was adamant about blaming John Sculley for everything that had happened.  He felt that John had betrayed him and he had little faith that Sculley or anyone else could manage Apple without him.  He said that his role as chairman was completely ceremonial, and it left him with no actual responsibilities.  In fact, Apple had already moved his office from Bandley 3 to Bandley 6, a small building across the street that was almost empty.  The new office was so remote from day to day operations that it later was nicknamed "Siberia".<br/>
+<br/>
+We had a pleasant dinner, huddled around one end of the long table, mainly reminiscing about the good old days developing the Mac but occasionally engaging in grim speculation about Apple's future.  Steve had arranged for some gourmet vegetarian food to be delivered, and we drank some excellent wine.  Dessert consisted of handfuls of locally grown Olson's cherries, grabbed from a large wooden crate that Steve kept in the kitchen.<br/>
+<br/>
+After dinner, we retired to another room that had an expensive stereo system and an elaborate model of the mostly underground house that Steve planned to build to replace the one we were standing in.  I had brought along a copy of Bob Dylan's new album with me, "Empire Burlesque", which was just released earlier that week, because I knew that Steve, like myself, was a big Bob Dylan fan, although Steve thought that Dylan hadn't done anything worthwhile since "Blood on the Tracks" a decade ago.  I placed the album on a hi-tech turntable that seemed to be mounted on aluminum cones and played the last song, "Dark Eyes", which was slow and mournful, with a sad, fragile melody and lyrics that seemed relevant to the situation at Apple.  But Steve didn't like the song, and wasn't interested in hearing the rest of the album, reiterating his negative opinion of recent Dylan.<br/>
+<br/>
+Later, when it was time to leave, we lingered outside under the beautiful summer night sky.  We were all pretty emotional by then, especially Steve.  I tried to convince him that the change wasn't necessarily so bad, and that I would be excited about returning to Apple to work with him on a small team again. But Steve was inconsolable, and more depressed than I had ever seen him before.  As we left, I thought that it was lucky that he had Tina there to keep him company in the cavernous mansion.<br/>
+<br/>
+It took a while for me to understand the consequences of the reorganization.  The best news for me was that my nemesis Bob Belleville had resigned from Apple, because he had sided with Steve during the recent infighting and burned too many bridges to continue.  Most of the rest of Steve's staff stayed on to work for Jean-Louis Gassee, who replaced Steve in the reorganized division, although Mike Murray resigned soon thereafter.  Steve Jobs spent most of the summer traveling, trying to figure out what to do next.   He was still the chairman of Apple Computer, but he was so at odds with the rest of its leadership that it was hard to see how he could remain there much longer.
+  </div>
+</div><div class="story-view-footer-bar">
+<br/>
+<table width="100%"><tr>
+<td align=left>
+  
+     <a href="StoryView.py?project=Macintosh&story=Font_Manager.txt&sortOrder=Sort+by+Date">
+      <table><tr>
+        <td><img src="assets/3e3b9856595479ab34c224ce26f0ef7c.gif" class="story-footer-arrow" /></td>
+        <td><div class="story-view-footer-title-container"><span class="story-view-footer-title">Font Manager Redux</span></div></td>
+      </tr></table>
+    </a>
+  
+</td>
+
+<td align=center class="story-view-footer-backlink">
+  <a href="ProjectView.py?project=Macintosh&sortOrder=Sort+by+Date">Back to The Original Macintosh</a>
+</td>
+
+<td align=right>
+  
+    <a href="StoryView.py?project=Macintosh&story=MacBasic.txt&sortOrder=Sort+by+Date">
+      <table><tr>
+        <td><div class="story-view-footer-title-container"><span class="story-view-footer-title">MacBasic</span></div></td>
+        <td><img src="assets/8ba32584cd5998ad2fffc22e6d65ba87.gif" class="story-footer-arrow" /></td>
+      </tr></table>
+    </a>
+  
+    
+</td>
+
+</tr></table>
+<br/>
+</div></td><td valign="top"><div class="attribute-box">
+  <div class="attribute-box-title">Login</div>
+  <div class="attribute-box-contents">
+    <form action="login" method="POST">
+      
+      <font size=-1>Account Name:</font><br>
+      <input type="TEXT" name="username" size="16" value=""  style="margin-bottom: 4px"><br>
+      <font size=-1>Password:</font><br>
+      <input type="hidden" name="projectname" value="Macintosh">
+      
+        <input type="hidden" name="filename" value="The_End_Of_An_Era.txt">
+      
+      <input type="password" name="password" size="16"><br/>
+      <input type="submit" name="login" value="Log in" style="margin-top: 8px">
+    </form>
+    
+    <center>
+      <a href="html/createAccount.html"><font size=-1>Create new account</font></a>
+   </center>
+  </div>
+</div><div class="attribute-box">
+  <div class="attribute-box-title">Rating</div>
+  <div class="attribute-box-contents">
+
+    <span class="story-rating-value">Overall Rating:&nbsp;4.73</span>
+    <br/>
+    <img src="assets/d62fbf5c0ef31c62298274636ca6574e.gif" border=0 />
+    <b>(best)</b>
+    <div class="story-rating-login-message" style= "display: inline"><a href="html/createAccount.html">Login</a> to add your own ratings</div>
+    <div class style="display: none">
+      <form id="rating-form" method=POST action="updaterating">
+        <input type=hidden name="project" value="Macintosh">
+        <input type=hidden name="story" value="The_End_Of_An_Era.txt">
+        <input type=hidden name="userId" value="None">
+
+        <br><font size=-1>Your rating:</font<<br>
+        <div onchange="pageHandler.updateRating(event)">
+        <table border=0 cellpadding=0 cellspacing=0><tr>
+          <td width="24"><input type=radio name="value" value="1" ><br><font size=-3>&nbsp;&nbsp;1</font></td>
+          <td width="24"><input type=radio name="value" value="2" ><br><font size=-3>&nbsp;&nbsp;2</font></td>
+          <td width="24"><input type=radio name="value" value="3" ><br><font size=-3>&nbsp;&nbsp;3</font></td>
+          <td width="24"><input type=radio name="value" value="4" ><br><font size=-3>&nbsp;&nbsp;4</font></td>
+          <td width="24"><input type=radio name="value" value="5" ><br><font size=-3>&nbsp;&nbsp;5</font></td>
+        </tr></table>
+        </div>
+      </form>
+    </div>
+  </div>
+</div></td></tr></table><div class="comments-section"><a name="comments">
+<div class="story-comments-header">
+  
+    <img class="story-comments-arrow" src="assets/ed8f68d9f84633ed117bdd5f58a0d9cb.gif"/><span class="story-comments-count">7 Comments</span>
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <button class="story-comments-show-button">Show Comments</button>
+    
+      <button class="story-comments-add-button">Add New Comment</button>
+    
+  
+</div>
+</a><div class="story-comments-container" style="display:none"><div class="story-comment story-comment-even" commentindex="0">
+  <div class="story-comment-metadata">from Lieven Dekeyser on May 06, 2004 10:33:23
+  
+  </div>
+  <div class="story-comment-body">I allways wondered what happened back then..
+any inside-info on how NeXT got started?
+</div>
+  
+</div><div class="story-comment story-comment-odd" commentindex="0">
+  <div class="story-comment-metadata">from Scott Knaster on May 06, 2004 16:57:39
+  
+  </div>
+  <div class="story-comment-body">On that layoff day in 1985, reporters were swarming Bandley Drive looking for laid off people. They found Burt Sloane, a smart and sardonic guy, who had been cut. They asked him if he felt bad about being laid off. He responded that "It doesn't really matter, when you consider that the sun is going nova in a few billion years anyway."
+</div>
+  
+</div><div class="story-comment story-comment-even" commentindex="0">
+  <div class="story-comment-metadata">from David Casseres on May 10, 2004 04:35:48
+  
+  </div>
+  <div class="story-comment-body">Wow! I remember Burt Sloane hearing the news that Bob Belleville was gone.  He leaped in the air and clicked his heels together.  Not long after, he was gone too.
+
+Andy, that's a great piece of writing about a strange, amazing time.  I have one or two memories to add.
+
+The LaserWriter was an astonishing piece of technology.  I was in the PrintShop -- that is, the printing software group -- and I remember we hired in Bayles Holt, a brilliant engineer who had been at Xerox's labs in Rochester, New York, when they developed laser printing.  I can't quite remember whether this was before or after the PrintShop moved from the Lisa group to the Mac group.
+
+When the LaserWriter was announced as a $7000 product, I remember being appalled.  How could a printer be worth $7000?  It seemed insane, especially when you could print really nice business documents with the dot-matrix printers we were selling for a couple of hundred bucks.
+
+But that's why Steve was Steve and I wasn't.  $7000 was not too much, when the printer could be shared among multiple users in an office.  People bought a lot of those first-model LaserWriters and their successors.  There was a whole marketing push called "Macintosh Office," and most of us never grasped what it was about -- it was actually about only one thing, sharing a LaserWriter among numerous users.
+
+This all laid the groundwork for the explosion of desktop publishing one or two years later when John Scull (not Sculley!) came along.  It was the founding of Apple's presence in the graphics publishing world, which Apple pretty much invented and still dominates.
+
+</div>
+  
+</div><div class="story-comment story-comment-odd" commentindex="0">
+  <div class="story-comment-metadata">from mdelvecchio on May 10, 2005 23:35:15
+  
+  </div>
+  <div class="story-comment-body">i am reminded of steve's earlier, heavy-handed remark to andy: "You are not as important as you think you are." 
+
+guess that can apply to anyone.
+</div>
+  
+</div><div class="story-comment story-comment-even" commentindex="0">
+  <div class="story-comment-metadata">from John Ziel on December 10, 2005 07:56:01
+  
+  </div>
+  <div class="story-comment-body">It might be interesting to add some field sales perspective to the whole story.  After all, we were the folks who took the Apple II into the schools nationwide, without which the company might not have been able to garner funds which enabled it to proceed with ensuing product development.  And, we were the ones who were tasked with roll-out and generating enthusiasm with dealers and end-users alike about the Mac when it came time to do so.  Trust me, Cupertino marketeers and advertising didn't do it all!  Even the University Consortium, desktop publishing, and even great GUI systems, etc., had to be sold locally to target customers in those days.  But it seems as though the field sales, training, and software engineering efforts may have been largely invisible to, or ignored by, some of you wonderful guys who provided us with the tools to successfully help grow the company.  
+</div>
+  
+</div><div class="story-comment story-comment-odd" commentindex="0">
+  <div class="story-comment-metadata">from David Ramsay on May 13, 2006 23:14:05
+  
+  </div>
+  <div class="story-comment-body">I was an oiutsider in Cupertino in May/June of 85.  I was working with Bill Jehan and Jack Madeski for 6 weeks showing the development of the new PCB design system that our company was in the process of producing.
+
+Strange but it was only after returning to the UK that I heard what happened to SJ.
+</div>
+  
+</div><div class="story-comment story-comment-even" commentindex="0">
+  <div class="story-comment-metadata">from yuhong on October 20, 2008 00:48:51
+  
+  </div>
+  <div class="story-comment-body">What if John Sculley was fired instead of Steve Jobs? I wonder how this issue would have been solved if Steve have to solve it, instead of Sculley.
+</div>
+  
+</div><div class="story-comment-add" style="display:none">
+<form method=post action="AddComment">
+<input type=hidden name="project" value="Macintosh">
+<input type=hidden name="story" value="The_End_Of_An_Era.txt">
+
+<table width="100%" bgcolor="#bbbbdd">
+
+
+  <tr><td align=right width="20%"><b>User Name:</b></td><td align=left><input type=text name="account" value="" size=24></td></tr>
+  <tr><td align=right width="20%"><b>Password:</b></td><td align=left><input type=password name="password" value="" size=24></td></tr>
+
+
+<tr><td align=right width="20%"><b>Your Comment:</b></td>
+    <td align=left><textarea wrap="virtual" name="body" rows="10" cols="60"></textarea></td>
+</tr>
+<tr><td align=right width="20%">&nbsp;</td><td align=left>
+  <input type=submit name="addcommentvalue" value="Add Comment" onclick="pageHandler.refreshComments()">
+  <input type=submit name="cancelcomment" value="Cancel Comment" 
+    onclick="document.getElementsByClassName('story-comment-add')[0].style.display = 'None'"
+    ></td>
+</tr>
+</table>
+
+</form>
+</div></div></div><br/>
+<center>
+<div class="story-footer">
+<table><tr>
+<td>
+<a href="http://creativecommons.org/licenses/by-nc/1.0/"><img alt="Creative Commons License" border="0" src="assets/dbab02efeb772063af985346ece260e4.gif"/></a></td>
+<td>The text of this story is licensed under a
+<a href="http://creativecommons.org/licenses/by-nc/1.0/">Creative Commons License</a>.</td>
+</tr></table>
+</div>
+</center></div>
+
+
+<div style="position:fixed;top:0;left:0;width:100%;height:45px;z-index:2147483647;background-color:rgba(253,147,38,0.90) !important;color:black !important;text-align:right !important;font:normal 12px/45px Arial, sans-serif !important;border-radius:0 !important;margin:0 !important;max-width:100% !important;background-repeat: no-repeat !important;background-position: 15px center !important;
+background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHwAAAAYCAYAAAA4e5nyAAAKQWlDQ1BJQ0MgUHJvZmlsZQAASA2dlndUU9kWh8+9N73QEiIgJfQaegkg0jtIFQRRiUmAUAKGhCZ2RAVGFBEpVmRUwAFHhyJjRRQLg4Ji1wnyEFDGwVFEReXdjGsJ7601896a/cdZ39nnt9fZZ+9917oAUPyCBMJ0WAGANKFYFO7rwVwSE8vE9wIYEAEOWAHA4WZmBEf4RALU/L09mZmoSMaz9u4ugGS72yy/UCZz1v9/kSI3QyQGAApF1TY8fiYX5QKUU7PFGTL/BMr0lSkyhjEyFqEJoqwi48SvbPan5iu7yZiXJuShGlnOGbw0noy7UN6aJeGjjAShXJgl4GejfAdlvVRJmgDl9yjT0/icTAAwFJlfzOcmoWyJMkUUGe6J8gIACJTEObxyDov5OWieAHimZ+SKBIlJYqYR15hp5ejIZvrxs1P5YjErlMNN4Yh4TM/0tAyOMBeAr2+WRQElWW2ZaJHtrRzt7VnW5mj5v9nfHn5T/T3IevtV8Sbsz55BjJ5Z32zsrC+9FgD2JFqbHbO+lVUAtG0GQOXhrE/vIADyBQC03pzzHoZsXpLE4gwnC4vs7GxzAZ9rLivoN/ufgm/Kv4Y595nL7vtWO6YXP4EjSRUzZUXlpqemS0TMzAwOl89k/fcQ/+PAOWnNycMsnJ/AF/GF6FVR6JQJhIlou4U8gViQLmQKhH/V4X8YNicHGX6daxRodV8AfYU5ULhJB8hvPQBDIwMkbj96An3rWxAxCsi+vGitka9zjzJ6/uf6Hwtcim7hTEEiU+b2DI9kciWiLBmj34RswQISkAd0oAo0gS4wAixgDRyAM3AD3iAAhIBIEAOWAy5IAmlABLJBPtgACkEx2AF2g2pwANSBetAEToI2cAZcBFfADXALDIBHQAqGwUswAd6BaQiC8BAVokGqkBakD5lC1hAbWgh5Q0FQOBQDxUOJkBCSQPnQJqgYKoOqoUNQPfQjdBq6CF2D+qAH0CA0Bv0BfYQRmALTYQ3YALaA2bA7HAhHwsvgRHgVnAcXwNvhSrgWPg63whfhG/AALIVfwpMIQMgIA9FGWAgb8URCkFgkAREha5EipAKpRZqQDqQbuY1IkXHkAwaHoWGYGBbGGeOHWYzhYlZh1mJKMNWYY5hWTBfmNmYQM4H5gqVi1bGmWCesP3YJNhGbjS3EVmCPYFuwl7ED2GHsOxwOx8AZ4hxwfrgYXDJuNa4Etw/XjLuA68MN4SbxeLwq3hTvgg/Bc/BifCG+Cn8cfx7fjx/GvyeQCVoEa4IPIZYgJGwkVBAaCOcI/YQRwjRRgahPdCKGEHnEXGIpsY7YQbxJHCZOkxRJhiQXUiQpmbSBVElqIl0mPSa9IZPJOmRHchhZQF5PriSfIF8lD5I/UJQoJhRPShxFQtlOOUq5QHlAeUOlUg2obtRYqpi6nVpPvUR9Sn0vR5Mzl/OX48mtk6uRa5Xrl3slT5TXl3eXXy6fJ18hf0r+pvy4AlHBQMFTgaOwVqFG4bTCPYVJRZqilWKIYppiiWKD4jXFUSW8koGStxJPqUDpsNIlpSEaQtOledK4tE20Otpl2jAdRzek+9OT6cX0H+i99AllJWVb5SjlHOUa5bPKUgbCMGD4M1IZpYyTjLuMj/M05rnP48/bNq9pXv+8KZX5Km4qfJUilWaVAZWPqkxVb9UU1Z2qbapP1DBqJmphatlq+9Uuq43Pp893ns+dXzT/5PyH6rC6iXq4+mr1w+o96pMamhq+GhkaVRqXNMY1GZpumsma5ZrnNMe0aFoLtQRa5VrntV4wlZnuzFRmJbOLOaGtru2nLdE+pN2rPa1jqLNYZ6NOs84TXZIuWzdBt1y3U3dCT0svWC9fr1HvoT5Rn62fpL9Hv1t/ysDQINpgi0GbwaihiqG/YZ5ho+FjI6qRq9Eqo1qjO8Y4Y7ZxivE+41smsImdSZJJjclNU9jU3lRgus+0zwxr5mgmNKs1u8eisNxZWaxG1qA5wzzIfKN5m/krCz2LWIudFt0WXyztLFMt6ywfWSlZBVhttOqw+sPaxJprXWN9x4Zq42Ozzqbd5rWtqS3fdr/tfTuaXbDdFrtOu8/2DvYi+yb7MQc9h3iHvQ732HR2KLuEfdUR6+jhuM7xjOMHJ3snsdNJp9+dWc4pzg3OowsMF/AX1C0YctFx4bgccpEuZC6MX3hwodRV25XjWuv6zE3Xjed2xG3E3dg92f24+ysPSw+RR4vHlKeT5xrPC16Il69XkVevt5L3Yu9q76c+Oj6JPo0+E752vqt9L/hh/QL9dvrd89fw5/rX+08EOASsCegKpARGBFYHPgsyCRIFdQTDwQHBu4IfL9JfJFzUFgJC/EN2hTwJNQxdFfpzGC4sNKwm7Hm4VXh+eHcELWJFREPEu0iPyNLIR4uNFksWd0bJR8VF1UdNRXtFl0VLl1gsWbPkRoxajCCmPRYfGxV7JHZyqffS3UuH4+ziCuPuLjNclrPs2nK15anLz66QX8FZcSoeGx8d3xD/iRPCqeVMrvRfuXflBNeTu4f7kufGK+eN8V34ZfyRBJeEsoTRRJfEXYljSa5JFUnjAk9BteB1sl/ygeSplJCUoykzqdGpzWmEtPi000IlYYqwK10zPSe9L8M0ozBDuspp1e5VE6JA0ZFMKHNZZruYjv5M9UiMJJslg1kLs2qy3mdHZZ/KUcwR5vTkmuRuyx3J88n7fjVmNXd1Z752/ob8wTXuaw6thdauXNu5Tnddwbrh9b7rj20gbUjZ8MtGy41lG99uit7UUaBRsL5gaLPv5sZCuUJR4b0tzlsObMVsFWzt3WazrWrblyJe0fViy+KK4k8l3JLr31l9V/ndzPaE7b2l9qX7d+B2CHfc3em681iZYlle2dCu4F2t5czyovK3u1fsvlZhW3FgD2mPZI+0MqiyvUqvakfVp+qk6oEaj5rmvep7t+2d2sfb17/fbX/TAY0DxQc+HhQcvH/I91BrrUFtxWHc4azDz+ui6rq/Z39ff0TtSPGRz0eFR6XHwo911TvU1zeoN5Q2wo2SxrHjccdv/eD1Q3sTq+lQM6O5+AQ4ITnx4sf4H++eDDzZeYp9qukn/Z/2ttBailqh1tzWibakNml7THvf6YDTnR3OHS0/m/989Iz2mZqzymdLz5HOFZybOZ93fvJCxoXxi4kXhzpXdD66tOTSna6wrt7LgZevXvG5cqnbvfv8VZerZ645XTt9nX297Yb9jdYeu56WX+x+aem172296XCz/ZbjrY6+BX3n+l37L972un3ljv+dGwOLBvruLr57/17cPel93v3RB6kPXj/Mejj9aP1j7OOiJwpPKp6qP6391fjXZqm99Oyg12DPs4hnj4a4Qy//lfmvT8MFz6nPK0a0RupHrUfPjPmM3Xqx9MXwy4yX0+OFvyn+tveV0auffnf7vWdiycTwa9HrmT9K3qi+OfrW9m3nZOjk03dp76anit6rvj/2gf2h+2P0x5Hp7E/4T5WfjT93fAn88ngmbWbm3/eE8/syOll+AAAACXBIWXMAAC4jAAAuIwF4pT92AAACL2lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS40LjAiPgogICA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPgogICAgICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIgogICAgICAgICAgICB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iCiAgICAgICAgICAgIHhtbG5zOnRpZmY9Imh0dHA6Ly9ucy5hZG9iZS5jb20vdGlmZi8xLjAvIj4KICAgICAgICAgPHhtcDpDcmVhdG9yVG9vbD5BZG9iZSBJbWFnZVJlYWR5PC94bXA6Q3JlYXRvclRvb2w+CiAgICAgICAgIDx0aWZmOllSZXNvbHV0aW9uPjMwMDwvdGlmZjpZUmVzb2x1dGlvbj4KICAgICAgICAgPHRpZmY6T3JpZW50YXRpb24+MTwvdGlmZjpPcmllbnRhdGlvbj4KICAgICAgICAgPHRpZmY6WFJlc29sdXRpb24+MzAwPC90aWZmOlhSZXNvbHV0aW9uPgogICAgICA8L3JkZjpEZXNjcmlwdGlvbj4KICAgPC9yZGY6UkRGPgo8L3g6eG1wbWV0YT4KsBaN+QAADtFJREFUaAWdmQew3UUVh18qoSX0BAMISaQ6FOldpY1SRBSGamQYBDMKSFPRkSYzDNIE1KEJgqAIBpAiohJw6BB6kwChQ6ihJJCX5vedu+dm3333vjw8M+fu7jm/U/bs/vdf7oCurq4B8HxYWnfQoEET5s+fv/mAAQNWYfwpPIXxtfPmzfs1/XlwELh96OyLbj2wK9K+TjsZ2YVz5879ewPVNZC2aVNkC2sin8GDB28+Z86cxwF/DNc5Lsw+Y44D+CH81me0z1ijsfsEfq+NfWKGoxsJzxs6dOgwarAY/UHUYUZ3d/cL9GfAUubUGC34TT8jsR+JzVxaZa2E6/mDZ8+e/T6Klytl2q84ZMiQzyGPMfE/wdc0xu9W2J45DBw48GQWcX4nRv8wxsvDQ8Dc3AlX5BdVgdpNoFL36DaxxHsSX7sU7eAeqL4HgcX+BPiY/8N+kDbEvoRNt0MH+4gBZp8y349pZ5d+1tCxdXATSBa8lcIPcc4qtrNo57Xh7qKfWBykr8z1vKKfU9q5tJ/CU6jBEVXQgVmcs9gVTQW76WnGzwEcBm8GL8l4fYwn0Z8Nrw9LXr33we4mr4iNYekggg3iSj+Qfuy6kC78xwnMoQBbkcPa9MfDN8J5AtFdKAWWfDfCxxdA/wqeA/cnDws5F14V/i72d9FK2vYi9MOJ0wXvymn0BoChXGmDkK/Aibgd8mOo2Yb0N0RnrdrmAH4k/CS43bFfqmBpmuScvMLzim09NZdF/yr1/grtovgYhq+V6O9CDm6m3dDtyHhOF8X9KoLcldPp74Uid1DXsGHDVkN2V4UJLBN5CsduhiaB2Q3+oMLuXpSxsZrAzp3csb8vPjxSXTQpdI1ux99cmAHk5wkxnxw3Lej+5JAXwEnaUpszOtgOUU6Mw8HNpJtxC7zZrKkfcCcUSWsOMQZzLfy3plXfnTpW1kt7L7xexBy2MIfmXBj8VUHhnSsLFz0TXBb9OxXO3ey9SxJn4Ay+R4X7twDIJOtEQ9jyk5tseey7KdLxtG/A5xVc5tJi1mOYm8JNmhvv4n7aZ/wlif0y9takzr8OlAt+NJiPUOSxbY7mYLso7KY4DYxXZvqv6xBzQn8DfJ14aBE469napo8AFpy3nxvhu4vQ3PQr60t9HPl0R+ggr4C7uOxvUg8r99jwKNToXY6GK2iDOH4upOMx7pEvzmPQY2cgPiaif4i+tB48ClZXT5RhLzKuBfoOzRCOpBNLnEMZLwGbS+uEEfWgiMEEN0I6n5xPoN0bNoeF2Wf8/bEbReyTsFkXXhqOudG2kkVV5/wlW9lY3bDzuZ5mGdhblFTPQVtJP3lMp492bWLCiJ/aXryU8c0hZMznahVc5RsY3Kc76cX4bfzUjsOIBXgm9TiYWvo6TdImCo4+sS6Uk5X6WnB1PhtIE+BIkJgX0x9E0fZTAcWiNLptfzP+Zmjf5b56Iu0c7McXdCd77XIuh9G/mdieLMtxS1i92Ibv0s9Gf+3kqe8ih/ccUGzvs1I7vLLMLRcxwP380bbeSGkWvsjhbQVs4qUFvVO0nRYmExxecDadkkrs4gXrInofljrZqIvJUpRt2CxjWKAzFUIvwV4hRziA9JcxQtDyExuViXlqPV50l+PTTSR1srcO3u83BLsm7CuoRZrOibUJrdQurnPqVOzAM6eoK3PylUpqVwexXuWSuXTidjmkTTtd5rCcIOY1TccPOoC+DK8Du9M9qk1gaBkL3pl+EP3/lq72TljWRludbwW7o16mkaV2E21oyi/4I+EneRq9F1HcJ4l1BrwmhduiwGJz9DBsDJycp5F26+BnkmIW7Dc0q3DMf80x1M4+CsNVfTh2U7kiwhbsE8SOudBvl78ya2CdJGNbN9vwiT9Pp/d5L36CVqpPz4akYZP+3ZRi2nFi0i5bc8gNY1zn6DhkzGsP+rOY18Pe0A+A88nbq2I03IPYnT6NJuYxlDGZHqAyANd8CMTupCLOZNqZmKw0qsQ4uDFsLLh95M/DVxZ5J1+5kOvoB2xemdrfA99S7BNXhrFg9oeDmU3OeZp4/z0DnpJA2py3C6r+OGzyBKtgjS66b8E+pR9blK25Ry5gboXvAOPD3/LwUoV9fvBWICuPB0HapKgdtrfD96Swpd0QnTmc2pQj+I/CwtO5ms6gvxe8H3xNkaf+G03DxsPQ+uC3xeEP4McTS9+NEU+JtFmoyrTZjSKA/wW2s5Dm7UCbLKxPw+54CyDlJmmMGr/hB9x4eAYinx+CGMcHEgYrFVFtn/EngPOEsthBjPeEveIstpR2mdeP0VvM79N64Yynfwh8Av3b1FnLhmnYttYhF/xqsbAfXj6BPy48o4xtjfPT4is3Ti74begeQedJMxJelbhbwadrB7sZMne67G4MJhdlLmyvFswPA82RCfZ6+H04v+408eBeApdFar2iiotomgXAz9vwBUVpQdXlxOLqx++RRZ/yMowmZPi4ENyjRZGT9OvgB8hPLvJYMPrN+OieAnNZ0ecRPRaZi7Z9kWfcXPAj1cN+v/gI9lVQ9itX1uMB+t8u9jbNmPRzwW8g/nPE2Q7sNwvvTpvs9409wa+hAyh95IJfh954bph3S5vxLwSfeWc9uhYHdD+coLr1s97dJLODkWwZK6sxPfokPxXoGPFQXwuei7Sz/sB+MSwWTKgM41i/xaI0Bb0xUQQwD+PrkoLTf8Y4B/mbLfaRmw9rxqfN20CzQMjfxufPil1ulFzwuMLRjYbdJJ4qPst4So2iVptjnx+RzkEm5WLZzwW/BdzNCvpBtX0u+D/Mk3hn07oWvytzWaXyt2AdAEwqQMGvMMFjMd4J3hqDtSoj/1xxF8UCg3sGPh4+BKy3gWmpo30NO+89UnNnNYbN35zwP8HfX6T1hBTlgrnzvdryISoXRUzaLAHG4+9ghZALEzH4U2It7eF8eNM+fV/KHLwFSfqSs5gezTepgLJoueDewz9F7iJ3JDBfh42deWXuOX8X/IbiwNtg5tbattYxc5yU+ePnL/DLVTLmusAO5f5wLuDjKJv3sMooCgrOxAJL+2f0WeiE+uDjbgsMi3N6UeQEE2ebxRtb8H7wfwV+E/YLW7Lj18tYv3n1pn3TF7t6Y/ReqRuUQInJwvjwdmvRxaLRXxKZR/BBRZ65RsscTqGYrxedjXPOBf8Jdh8xzocp46mXjamPuD2AuwCOd3JkkpjID7l1nRjSBXUpwz6bnJcPbfcWpPOxTh7lUs4zBibk35ySBT+IR/jp9J3AbNhjVqf2x8Lbwr5uvQhuvF3YHenrkMl/yGvQnvh5iv5oMDvSau/DkBMUn+TYJ90DbfHpA4mymISyQtro+wNekbak3Rs+Gs7PlT7MaUPouRuBmclr3bOMpYynXtx58B/hleFXYOPvTzMP2z85hsQ1ibzuxedxCNIm8i4AscZImxyrTnlsHHz8AV8HuxnJz38e63mmvXa1f8f9IWN50khuQJ8ZrmGzXsGr2O30XXTXkEouOIZvD0HvHWaxvXdvDTauXIqUV66LXVOMwZ1fsG+iXKEA6gnmpAaD88Hv/NpJH/3F9Ev8wwomd28UFd3l6CymZIyMk7GHgvkIzEmB4If+FGQXlXH4Kf20WQn9PHjXChM4bI/VH/KsQ8Yr0GiifvTGgfWWtFNR6iPzvgHddUWe+DLss4kcsf0XfEdBRk0YXw3PQJanT2D9Wa4AXZx2lJPwHTHp1dLxyq4pxuzmj4tQ27SvcTEpEvLJcymurtOK0sJlIVpbE58JXwnngufJYesp4RWezwLGyCvcK0h/3egvhifQdxNvT38cC3euYyjxdf9V/L4Ce7pI9XzEW8Mopso2FHhiLa+OeJ2+uH2WhW4NY90zr5gDNT1AEDX21iuFfiATmdoYd40rrQZ18NgxHM+rFb1XxaqlX+N0GMHw+SX1tB67ed8KnXIojzBf8+6An4ct2izYxWvH3ciNfS5FG0sBt2CoTxdSGoF8DO09Mer9E/E54n6LalmO1k3I71D4GY7YfI3LvLRu+sbvI7Cfa6Ua49h5y1K22Te33AzeiuYS6wmVUF0Px3UtHfeHMp71ytPOxbf/KTn7zcRXOhe/IWdwMRxHNe14FEn1RCz0ExVuGqBlClDnTiwKD2aXCndpwdSTyf7qBbd7weTClWGvJidnLr4zX1UQcZyyAbbUH0/jaxd5xqkdhQzcdfjwKPdv2EMKoF38kIE5Buw74HLx4kGsyN2kIyofYpq5Kie3Hc0N/C8rXKj8QeeRfkvRWU991Ky/Xn6R5Xyux/5BxlLGjtyRnwu7uVYOLTs9nmwVwv6z9CMUw0PZMF4HeXw1KpjcHF5JYwsuGvS+fvjhITAuQtHXxY+dSJxTwVnETDDb2mVrP20PwdYrLQvtJvDz71vIMlY7f1GE3BzgvY2lDwvaSuGr4L2KxhVAbDJiHoWPD1uNythNsR76fJ65psJlbrkofji5vtL3txv5YXsV/EAxSt/N+ZDni+hzQ8QO9B06F9LW16C7AD5E2+O9m7GvNon9kP5E2D/YfZdOue1FJYFcAIeZxCJiKeSZBRMTL/2+mrT3fVv7UxLMeBJ870L8WYwoCHN7GvxlC8FnvBHGgw8u+HgQwoevZcqtiReFfCdyT8P3YHXWMu00T5/2c8G9wj0BHoUfoX8/fB/9yfDD8EPwC8z3LI2g9NG0V99Qxfxy0bOuaxT/P4/F4P58KwJ3+ubFaEnalbkHrEibC3afr1nc8y7A+TbIPw+709eCN4HHwEk38dCwLwOPEoPbStkfjW/fo85G9kFoFmDKsG2jHyc7ixx8kOqG4yENf8vB1zJ+Fn3GaefE+VjcaeDvZE4v9YHPvGeB/QSbKeCfK3if3I0zDPa0sbi2vj4+RR4+JR/PM8NR9B9CLrZdXuZinLexexF+jf4bMv1XC79E+wZ+HoEno6tJe+M+hs5a1DEyL78WajdKQwFBHO+bkuSlKD0C3J3T4dvh7yUmW2T7wX4DfovWyc+EH2A8ITG0uRMr0YJ4RdiMX4MW0q/9al/7qHWd3NT4ut8ffPrvj136czN0wneSp21r24qvx3W/tsuLtut/szhyWqonQDsAAAAASUVORK5CYII=);
+"><span style="padding-right:15px;">You are viewing a snapshot of <a style='font-weight:bold !important; color:white !important' href='http://www.folklore.org/StoryView.py?project=Macintosh&amp;story=The_End_Of_An_Era.txt'>http://www.folklore.org/StoryView.py?project=Macintosh&amp;story=The_End_Of_An_Era.txt</a> created on 2020/08/10</span></div></body>
+</html>

@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Sistema complejo - Wikipedia, la enciclopedia libre</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgRequestId":"e411b1e2-7bbf-492a-b6b6-1d6793fc224f","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Sistema_complejo","wgTitle":"Sistema complejo","wgCurRevisionId":128213990,"wgRevisionId":128213990,"wgArticleId":84262,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia:Wikificar","Wikipedia:Wikificar (aún sin clasificar)","Wikipedia:Artículos con identificadores GND","Teoría de sistemas","Teoría del caos","Sistemas"],"wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":"Sistema_complejo",
+"wgRelevantArticleId":84262,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"español","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q854457"};RLSTATE={"ext.gadget.imagenesinfobox":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready",
+"mediawiki.toc.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.gadget.a-commons-directo","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"es"});
+});});</script>
+<link rel="stylesheet" href="assets/d53c1e7de9bd9d7e4ba75fc73d94397d.css"/>
+<script async="" src="assets/8532ade5263291bbec023cbcc32e64ff.php"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="assets/b32d9096171b2f3d89b1a76b674653c9.css"/>
+<link rel="stylesheet" href="assets/2ce3a17a5093d86b73f93e840af34bca.css"/>
+<noscript><link rel="stylesheet" href="assets/40ab090647b856ed61869d60e9952ec2.css"/></noscript>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.3"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" type="application/x-wiki" title="Editar" href="/w/index.php?title=Sistema_complejo&amp;action=edit"/>
+<link rel="edit" title="Editar" href="/w/index.php?title=Sistema_complejo&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (es)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//es.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Canal Atom de Wikipedia" href="/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom"/>
+<link rel="canonical" href="https://es.wikipedia.org/wiki/Sistema_complejo"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Sistema_complejo rootpage-Sistema_complejo skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="es">Sistema complejo</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">De Wikipedia, la enciclopedia libre</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Ir a la navegación</a>
+		<a class="mw-jump-link" href="#searchInput">Ir a la búsqueda</a>
+		<div id="mw-content-text" lang="es" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table style="" class="noprint plainlinks ambox ambox-style">
+<tbody><tr>
+<td class="ambox-image" width="40">
+<img alt="" src="assets/365dce782ee355de805f9fb06b168ef3.png" decoding="async" width="44" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Spanish_Language_Wiki.svg/66px-Spanish_Language_Wiki.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Spanish_Language_Wiki.svg/88px-Spanish_Language_Wiki.svg.png 2x" data-file-width="220" data-file-height="200" /></td>
+<td class="ambox-text"><div class="ambox-text-div"><strong>Este artículo o sección  necesita ser <a href="/wiki/Ayuda:Wikificar" title="Ayuda:Wikificar">wikificado</a>, por favor, <a class="external text" href="https://es.wikipedia.org/w/index.php?title=Sistema_complejo&amp;action=edit">edítalo</a> para que cumpla con las <a href="/wiki/Wikipedia:Manual_de_estilo" title="Wikipedia:Manual de estilo">convenciones de estilo</a>.</strong></div><div class="hide-when-compact"><small><div>Este aviso fue puesto el 5 de agosto de 2019.</div></small></div></td>
+</tr>
+</tbody></table>
+<p>Un <b>sistema complejo</b> está compuesto por varias partes <i>interconectadas</i> o <i>entrelazadas</i> cuyos vínculos crean información adicional no visible ante el observador como resultado de las interacciones entre elementos.
+</p><p>En contraposición, un <a href="/wiki/Sistema" title="Sistema">sistema</a> «complicado» también está formado por varias partes pero las relaciones entre estas no añaden información adicional. Nos basta con saber cómo funciona cada una de ellas para entender el sistema. En un <b>sistema complejo</b>, en cambio, existen variables ocultas cuyo desconocimiento nos impide analizar el sistema con precisión. Así pues, un sistema complejo, posee más información que la que da cada parte independiente. Para describir un sistema complejo hace falta no solo conocer el funcionamiento de las partes sino conocer el funcionamiento del sistema completo una vez relacionadas sus partes entre sí.
+</p><p>En los últimos años ha surgido, en prácticamente todos los campos del ámbito científico, una importante transformación conceptual y metodológica relacionada estrechamente al estudio de los llamados fenómenos no-lineales, cuyo análisis se engloba, parcialmente, dentro de los llamados sistemas complejos. Como parte de esta nueva visión, se ha puesto en evidencia que diversas propiedades espacio-temporales de los sistemas complejos surgen espontáneamente a partir de interacciones de los elementos constituyentes, en escalas de tiempo y longitud considerablemente mayores que las escalas donde ocurren dichas interacciones.<sup id="cite_ref-1" class="reference separada"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>&#8203;
+</p><p>Estudios recientes se han enfocado en el tratamiento de modelos no lineales para comprender ecuaciones elípticas completamente no lineales, conteniendo términos de orden cero que las hacen impropias. Concretamente analizan aspectos relacionados con la existencia y la unicidad o, al contrario, infinidad de soluciones positivas.<sup id="cite_ref-2" class="reference separada"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>&#8203;
+</p><p>En la teoría electromagnética se analizan las ecuaciones de Maxwell para campos electromagnéticos cuasiestacionarios, el modelo puede ser analizado como una ecuación parabólica no lineal en una zona acotada del dominio correspondiente, y la ecuación de Laplace en la región exterior no acotada; ambas ecuaciones están acopladas mediante condiciones de propagación sobre la interfase de interés.<sup id="cite_ref-3" class="reference separada"><a href="#cite_note-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>&#8203;
+</p><p>Una situación en la que aparece una ecuación completamente no lineal es en el juego Tug-of-War (tira y afloja). Juego de suma cero para dos jugadores, es decir, hay dos rivales y las ganancias totales de cada uno de ellos suponen las pérdidas de su oponente. Por tanto, uno de ellos, por ejemplo, el jugador I, jugará tratando de obtener el máximo beneficio mientras que el jugador II intentará minimizar el beneficio del jugador I (o, dado que el juego es de suma cero, maximizar el suyo propio). Este tipo de juegos de tira y afloja aleatorios han sido estudiados en conexión con algunos problemas de EDP (Ecuaciones en Derivadas Parciales). Pueden encontrarse otros juegos en relación con el estudio de ecuaciones degeneradas. La conexión del juego con infinito Laplaciano es mediante el Principio de Programación Dinámica del juego.<sup id="cite_ref-4" class="reference separada"><a href="#cite_note-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>&#8203;
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="es" dir="ltr"><h2 id="mw-toc-heading">Índice</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Propiedades_de_Sistemas_Complejos"><span class="tocnumber">1</span> <span class="toctext">Propiedades de Sistemas Complejos</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Ejemplos"><span class="tocnumber">2</span> <span class="toctext">Ejemplos</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Véase_también"><span class="tocnumber">3</span> <span class="toctext">Véase también</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Referencias"><span class="tocnumber">4</span> <span class="toctext">Referencias</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Enlaces_externos"><span class="tocnumber">5</span> <span class="toctext">Enlaces externos</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Libros"><span class="tocnumber">5.1</span> <span class="toctext">Libros</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Revistas"><span class="tocnumber">5.2</span> <span class="toctext">Revistas</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Software"><span class="tocnumber">5.3</span> <span class="toctext">Software</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Organizaciones"><span class="tocnumber">5.4</span> <span class="toctext">Organizaciones</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Personalidades"><span class="tocnumber">5.5</span> <span class="toctext">Personalidades</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Propiedades_de_Sistemas_Complejos">Propiedades de Sistemas Complejos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sistema_complejo&amp;action=edit&amp;section=1" title="Editar sección: Propiedades de Sistemas Complejos">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Aunque no hay consenso cómo definir sistemas complejos,<sup id="cite_ref-5" class="reference separada"><a href="#cite_note-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>&#8203; todos ellos comparten varias propiedades claramente identificables. Estas características desafían los supuestos básicos de las teorías tradicionales (tales como agentes independientes (i.i.d.), o patrones fijos de crecimiento, etc.). Entre ellas se destaca que los sistemas complejos consisten en entes:<sup id="cite_ref-CCSSCS_6-0" class="reference separada"><a href="#cite_note-CCSSCS-6"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>&#8203;
+</p>
+<ul><li>Conectados<sup id="cite_ref-7" class="reference separada"><a href="#cite_note-7"><span class="corchete-llamada">[</span>7<span class="corchete-llamada">]</span></a></sup>&#8203;<sup id="cite_ref-8" class="reference separada"><a href="#cite_note-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>&#8203;</li>
+<li>Interdependientes<sup id="cite_ref-9" class="reference separada"><a href="#cite_note-9"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup>&#8203;</li>
+<li>Diversos<sup id="cite_ref-10" class="reference separada"><a href="#cite_note-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>&#8203;</li>
+<li>Adaptativos<sup id="cite_ref-11" class="reference separada"><a href="#cite_note-11"><span class="corchete-llamada">[</span>11<span class="corchete-llamada">]</span></a></sup>&#8203;</li>
+<li>Dependientes del camino<sup id="cite_ref-12" class="reference separada"><a href="#cite_note-12"><span class="corchete-llamada">[</span>12<span class="corchete-llamada">]</span></a></sup>&#8203;</li>
+<li>Emergentes (no-linealidad multi-nivel)<sup id="cite_ref-13" class="reference separada"><a href="#cite_note-13"><span class="corchete-llamada">[</span>13<span class="corchete-llamada">]</span></a></sup>&#8203;<sup id="cite_ref-14" class="reference separada"><a href="#cite_note-14"><span class="corchete-llamada">[</span>14<span class="corchete-llamada">]</span></a></sup>&#8203;</li></ul>
+<h2><span class="mw-headline" id="Ejemplos">Ejemplos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sistema_complejo&amp;action=edit&amp;section=2" title="Editar sección: Ejemplos">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Un ejemplo típico de sistema complejo es la <a href="/wiki/Tierra" title="Tierra">Tierra</a>. La Tierra está formada por varios sistemas que la describen:
+</p>
+<ul><li><a href="/wiki/Campo_gravitatorio" title="Campo gravitatorio">Campo gravitatorio</a>.</li>
+<li><a href="/wiki/Campo_magn%C3%A9tico" title="Campo magnético">Campo magnético</a>.</li>
+<li><a href="/wiki/Flujo_cal%C3%B3rico" class="mw-redirect" title="Flujo calórico">Flujo térmico.</a></li>
+<li><a href="/wiki/Ondas_el%C3%A1sticas" class="mw-redirect" title="Ondas elásticas">Ondas elásticas</a>.</li>
+<li><a href="/wiki/Geodin%C3%A1mica" title="Geodinámica">Geodinámica</a>.</li>
+<li><a href="/wiki/Ser_humano" class="mw-redirect" title="Ser humano">Humanidad</a>.</li></ul>
+<p>Cada uno de estos sistemas está bien estudiado, pero desconocemos la forma en que interactúan y hacen evolucionar el sistema «Tierra». Hay, pues, mucha más información oculta en esas interrelaciones de sistemas.
+</p><p>Otros sistemas complejos típicos son:
+</p>
+<ul><li>El <a href="/wiki/Tiempo_atmosf%C3%A9rico" title="Tiempo atmosférico">tiempo atmosférico</a></li>
+<li>La <a href="/wiki/Geodin%C3%A1mica" title="Geodinámica">geodinámica</a>: <a href="/wiki/Terremotos" class="mw-redirect" title="Terremotos">terremotos</a> y <a href="/wiki/Volc%C3%A1n" title="Volcán">volcanes</a></li>
+<li>Los <a href="/wiki/Ecosistema" title="Ecosistema">ecosistemas</a></li>
+<li>Los <a href="/wiki/Ser_vivo" title="Ser vivo">seres vivos</a></li>
+<li>La <a href="/wiki/Conciencia" title="Conciencia">conciencia</a></li>
+<li>Las <a href="/wiki/Sociedad" title="Sociedad">sociedades</a></li>
+<li>Las <a href="/wiki/Ciudad" title="Ciudad">ciudades</a></li></ul>
+<h2><span id="V.C3.A9ase_tambi.C3.A9n"></span><span class="mw-headline" id="Véase_también">Véase también</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sistema_complejo&amp;action=edit&amp;section=3" title="Editar sección: Véase también">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Din%C3%A1mica_de_sistemas" title="Dinámica de sistemas">Dinámica de sistemas</a></li>
+<li><a href="/wiki/Pensamiento_sist%C3%A9mico" title="Pensamiento sistémico">Pensamiento sistémico</a></li>
+<li><a href="/wiki/Azar" title="Azar">Azar</a></li>
+<li><a href="/w/index.php?title=Complejidad_biol%C3%B3gica&amp;action=edit&amp;redlink=1" class="new" title="Complejidad biológica (aún no redactado)">Complejidad biológica</a></li>
+<li><a href="/wiki/Efecto_mariposa" title="Efecto mariposa">Efecto mariposa</a></li>
+<li><a href="/wiki/Fractal" title="Fractal">Fractal</a></li>
+<li><a href="/wiki/Inteligencia_artificial" title="Inteligencia artificial">Inteligencia artificial</a></li>
+<li><a href="/wiki/Problema_del_viajante" title="Problema del viajante">Problema del viajante</a></li>
+<li><a href="/wiki/Anexo:Clases_de_complejidad" title="Anexo:Clases de complejidad">Anexo:Clases de complejidad</a></li>
+<li><a href="/wiki/Sistemas_din%C3%A1micos" class="mw-redirect" title="Sistemas dinámicos">Sistemas dinámicos</a></li>
+<li><a href="/wiki/Teor%C3%ADa_del_caos" title="Teoría del caos">Teoría del caos</a></li>
+<li><a href="/wiki/Teor%C3%ADa_de_sistemas" title="Teoría de sistemas">Teoría de sistemas</a></li>
+<li><a href="/wiki/Teor%C3%ADa_de_la_Informaci%C3%B3n_Integrada" class="mw-redirect" title="Teoría de la Información Integrada">Teoría de la Información Integrada</a></li>
+<li><a href="/wiki/Cibern%C3%A9tica" title="Cibernética">Cibernética</a></li></ul>
+<h2><span class="mw-headline" id="Referencias">Referencias</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sistema_complejo&amp;action=edit&amp;section=4" title="Editar sección: Referencias">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="listaref" style="list-style-type: decimal;"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span class="citation web"><a rel="nofollow" class="external text" href="http://scifunam.fisica.unam.mx/mir/transf.PDF">«Los sistemas complejos como instrumentos de conocimiento y transformación del mundo»</a><span class="reference-accessdate">. Consultado el 1 de marzo de 2016</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ASistema+complejo&amp;rft.btitle=Los+sistemas+complejos+como+instrumentos+de+conocimiento+y+transformaci%C3%B3n+del+mundo&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Fscifunam.fisica.unam.mx%2Fmir%2Ftransf.PDF&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span id="CITAREFKatzourakis2010" class="citation publicación">Katzourakis, Nicholas (2010). «The subelliptic ∞ -laplace system on ´ carnot-carath eodory spaces». <i>arXiv:1303.0240v2  [math.AP]  11 Apr 2013, 1-16</i>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ASistema+complejo&amp;rft.atitle=The+subelliptic+%E2%88%9E+-laplace+system+on+%C2%B4+carnot-carath+eodory+spaces&amp;rft.au=Katzourakis%2C+Nicholas&amp;rft.aufirst=Nicholas&amp;rft.aulast=Katzourakis&amp;rft.date=2010&amp;rft.genre=article&amp;rft.jtitle=arXiv%3A1303.0240v2++%5Bmath.AP%5D++11+Apr+2013%2C+1-16&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text"><span id="CITAREFPortilheiro2013" class="citation publicación">Portilheiro, Manuel (2013). «Degenerate homogeneous parabolic equations associated with the infinity-Laplacian». <i>Calculus of Variations and Partial Differential Equations, Vol. 46, Issue 3-4, 705-724</i>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ASistema+complejo&amp;rft.atitle=Degenerate+homogeneous+parabolic+equations+associated+with+the+infinity-Laplacian&amp;rft.au=Portilheiro%2C+Manuel&amp;rft.aufirst=Manuel&amp;rft.aulast=Portilheiro&amp;rft.date=2013&amp;rft.genre=article&amp;rft.jtitle=Calculus+of+Variations+and+Partial+Differential+Equations%2C+Vol.+46%2C+Issue+3-4%2C+705-724&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><a href="#cite_ref-4">↑</a></span> <span class="reference-text"><span id="CITAREFArmstrong2012" class="citation publicación">Armstrong, Scott N (2012). «A FINITE DIFFERENCE APPROACH TO THE INFINITY LAPLACE EQUATION AND TUG-OF-WAR GAMES». <i>TRANSACTIONS OF THE AMERICAN MATHEMATICAL SOCIETY Volume 364, Number 2, February 2012, Pages 595–636 S 0002-9947(2011)05289-X Article electronically published on September 14, 2011</i>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3ASistema+complejo&amp;rft.atitle=A+FINITE+DIFFERENCE+APPROACH+TO+THE+INFINITY+LAPLACE+EQUATION+AND+TUG-OF-WAR+GAMES&amp;rft.au=Armstrong%2C+Scott+N&amp;rft.aufirst=Scott+N&amp;rft.aulast=Armstrong&amp;rft.date=2012&amp;rft.genre=article&amp;rft.jtitle=TRANSACTIONS+OF+THE+AMERICAN+MATHEMATICAL+SOCIETY+Volume+364%2C+Number+2%2C+February+2012%2C+Pages+595%E2%80%93636+S+0002-9947%282011%2905289-X+Article+electronically+published+on+September+14%2C+2011&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><a href="#cite_ref-5">↑</a></span> <span class="reference-text">Seth Lloyd. Measures of complexity: a nonexhaustive list. IEEE Control Systems. Aug;21(4):7–8</span>
+</li>
+<li id="cite_note-CCSSCS-6"><span class="mw-cite-backlink"><a href="#cite_ref-CCSSCS_6-0">↑</a></span> <span class="reference-text">CEPAL Charlas Sobre Sistemas Complejos Sociales (CCSSCS): serie de 9 videos en línea sobre la ciencia de los sistemas complejos sociales; <a rel="nofollow" class="external free" href="http://www.martinhilbert.net/CCSSCS.html">http://www.martinhilbert.net/CCSSCS.html</a></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><a href="#cite_ref-7">↑</a></span> <span class="reference-text">2nda CEPAL Charla Sobre Sistemas Complejos Sociales (CCSSCS): <a rel="nofollow" class="external free" href="https://www.youtube.com/watch?v=oy8YxTshZhI&amp;list=UUQbp2yA-gyew7E_tzgOI36A">http://www.youtube.com/watch?v=oy8YxTshZhI&amp;list=UUQbp2yA-gyew7E_tzgOI36A</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><a href="#cite_ref-8">↑</a></span> <span class="reference-text">7tima CEPAL Charla Sobre Sistemas Complejos Sociales (CCSSCS): <a rel="nofollow" class="external free" href="https://www.youtube.com/watch?v=1abtP36Wx24&amp;list=UUQbp2yA-gyew7E_tzgOI36A">http://www.youtube.com/watch?v=1abtP36Wx24&amp;list=UUQbp2yA-gyew7E_tzgOI36A</a></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><a href="#cite_ref-9">↑</a></span> <span class="reference-text">1era CEPAL Charla Sobre Sistemas Complejos Sociales (CCSSCS): <a rel="nofollow" class="external free" href="https://www.youtube.com/watch?v=c6_K_t0LLww&amp;list=UUQbp2yA-gyew7E_tzgOI36A">http://www.youtube.com/watch?v=c6_K_t0LLww&amp;list=UUQbp2yA-gyew7E_tzgOI36A</a></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><a href="#cite_ref-10">↑</a></span> <span class="reference-text">6.ª CEPAL Charla Sobre Sistemas Complejos Sociales (CCSSCS): <a rel="nofollow" class="external free" href="https://www.youtube.com/watch?v=e3gmGUqr4Jc&amp;list=UUQbp2yA-gyew7E_tzgOI36A">http://www.youtube.com/watch?v=e3gmGUqr4Jc&amp;list=UUQbp2yA-gyew7E_tzgOI36A</a></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><a href="#cite_ref-11">↑</a></span> <span class="reference-text">5.ª CEPAL Charla Sobre Sistemas Complejos Sociales (CCSSCS): <a rel="nofollow" class="external free" href="https://www.youtube.com/watch?v=djeLwMTE1xc&amp;list=UUQbp2yA-gyew7E_tzgOI36A">https://www.youtube.com/watch?v=djeLwMTE1xc&amp;list=UUQbp2yA-gyew7E_tzgOI36A</a></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><a href="#cite_ref-12">↑</a></span> <span class="reference-text">4.ª CEPAL Charla Sobre Sistemas Complejos Sociales (CCSSCS): <a rel="nofollow" class="external free" href="https://www.youtube.com/watch?v=xtjtN6m2OOo&amp;list=UUQbp2yA-gyew7E_tzgOI36A">https://www.youtube.com/watch?v=xtjtN6m2OOo&amp;list=UUQbp2yA-gyew7E_tzgOI36A</a></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><a href="#cite_ref-13">↑</a></span> <span class="reference-text">3era CEPAL Charla Sobre Sistemas Complejos Sociales (CCSSCS): <a rel="nofollow" class="external free" href="https://www.youtube.com/watch?v=qHT4LUSOy1A&amp;list=UUQbp2yA-gyew7E_tzgOI36A">http://www.youtube.com/watch?v=qHT4LUSOy1A&amp;list=UUQbp2yA-gyew7E_tzgOI36A</a></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><a href="#cite_ref-14">↑</a></span> <span class="reference-text">8tava CEPAL Charla Sobre Sistemas Complejos Sociales (CCSSCS): <a rel="nofollow" class="external free" href="https://www.youtube.com/watch?v=u47PgqfEOPY&amp;list=UUQbp2yA-gyew7E_tzgOI36A">http://www.youtube.com/watch?v=u47PgqfEOPY&amp;list=UUQbp2yA-gyew7E_tzgOI36A</a></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="Enlaces_externos">Enlaces externos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sistema_complejo&amp;action=edit&amp;section=5" title="Editar sección: Enlaces externos">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Libros">Libros</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sistema_complejo&amp;action=edit&amp;section=6" title="Editar sección: Libros">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a rel="nofollow" class="external text" href="http://www.dinamica-de-sistemas.com/">Teoría y ejercicios prácticos de Dinámica de Sistemas</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.dinamica-de-sistemas.com/libros/sysware.htm">Complejidad y Caos</a></li></ul>
+<h3><span class="mw-headline" id="Revistas">Revistas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sistema_complejo&amp;action=edit&amp;section=7" title="Editar sección: Revistas">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a rel="nofollow" class="external text" href="http://dinamica-de-sistemas.com/revista/bads.htm">Boletín de Dinámica de Sistemas</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20170702213525/http://dinamicasistemas.utalca.cl/Revista/RDS_home.htm">Revista de Dinámica de Sistemas</a></li></ul>
+<h3><span class="mw-headline" id="Software">Software</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sistema_complejo&amp;action=edit&amp;section=8" title="Editar sección: Software">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a rel="nofollow" class="external text" href="http://atc-innova.com/">Vensim </a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20160304001318/http://www.iseesystems.com/">Stella and iThink</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.powersim.com/">Powersim</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.consideo.com/">Consideo</a></li></ul>
+<h3><span class="mw-headline" id="Organizaciones">Organizaciones</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sistema_complejo&amp;action=edit&amp;section=9" title="Editar sección: Organizaciones">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a rel="nofollow" class="external text" href="http://socialcomplexity.gmu.edu/">Center for Social Complexity - George Mason University</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.systemdynamics.org">System Dynamics Society</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20050830010728/http://web.mit.edu/sdg/www/">MIT System Dynamics Group</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20100226185030/http://www.necsi.org/guide/index.html">New England Complex Systems Institute</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.thesystemsthinker.com/">The Systems Thinker</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20081231012200/http://www.ifi.uib.no/sd/">University of Bergen System Dynamics Group</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.santafe.edu/">Santa Fe Institute</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120204195514/http://www.mpipks-dresden.mpg.de/index_en.html">Max Planck Institute for the Physics of Complex Systems</a></li></ul>
+<h3><span class="mw-headline" id="Personalidades">Personalidades</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sistema_complejo&amp;action=edit&amp;section=10" title="Editar sección: Personalidades">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Edgar_Morin" title="Edgar Morin">Edgar Morin</a></li>
+<li><a rel="nofollow" class="external text" href="http://rcfilms.dotster.com/HAVING%20TO%20BE.pdf">HAVING TO BE</a> – artículo de <a href="/wiki/Ricardo_Costa_(cineasta)" title="Ricardo Costa (cineasta)">Ricardo Costa</a> sobre la preservación de la <a href="/wiki/Tierra" title="Tierra">Tierra</a> destacando las ideas de Edgar Morin</li></ul>
+<style data-mw-deduplicate="TemplateStyles:r118746331">.mw-parser-output .mw-authority-control{margin-top:1.5em}.mw-parser-output .mw-authority-control .navbox hr:last-child{display:none}.mw-parser-output .mw-authority-control .navbox+.mw-mf-linked-projects{display:none}.mw-parser-output .mw-authority-control .mw-mf-linked-projects{display:flex;padding:0.5em;border:1px solid #c8ccd1;background-color:#eaecf0;color:#222222}.mw-parser-output .mw-authority-control .mw-mf-linked-projects ul li{margin-bottom:0}</style><div class="mw-authority-control"><div role="navigation" class="navbox" aria-label="Navbox" style="width: inherit;padding:3px"><table class="hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width: 12%; text-align:center;"><a href="/wiki/Ayuda:Control_de_autoridades" title="Ayuda:Control de autoridades">Control de autoridades</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b>Proyectos Wikimedia</b></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata"><img alt="Wd" src="assets/f9e6aa5e6e7d6ac5167869e4200847e5.png" decoding="async" width="20" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/30px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a> Datos:</span> <span class="uid"><a href="https://www.wikidata.org/wiki/Q854457" class="extiw" title="wikidata:Q854457">Q854457</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikimedia_Commons" title="Commonscat"><img alt="Commonscat" src="assets/ebdf4240f222adc950bdd62bb3c27207.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Multimedia:</span> <span class="uid"><span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Category:Complex_systems">Complex systems</a></span></span></li></ul>
+<hr />
+<ul><li><b>Identificadores</b></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Authority_File" class="mw-redirect" title="Integrated Authority File">GND</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4114261-5">4114261-5</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Diet_Library" class="mw-redirect" title="National Diet Library">NDL</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00972819">00972819</a></span></li></ul>
+</div></td></tr></tbody></table></div><div class="mw-mf-linked-projects hlist">
+<ul><li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata"><img alt="Wd" src="assets/f9e6aa5e6e7d6ac5167869e4200847e5.png" decoding="async" width="20" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/30px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a> Datos:</span> <span class="uid"><a href="https://www.wikidata.org/wiki/Q854457" class="extiw" title="wikidata:Q854457">Q854457</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikimedia_Commons" title="Commonscat"><img alt="Commonscat" src="assets/ebdf4240f222adc950bdd62bb3c27207.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Multimedia:</span> <span class="uid"><span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Category:Complex_systems">Complex systems</a></span></span></li></ul>
+</div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1329
+Cached time: 20200811205554
+Cache expiry: 86400
+Dynamic content: true
+Complications: []
+CPU time usage: 0.216 seconds
+Real time usage: 0.272 seconds
+Preprocessor visited node count: 1920/1000000
+Post‐expand include size: 14308/2097152 bytes
+Template argument size: 1653/2097152 bytes
+Highest expansion depth: 23/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 11558/5000000 bytes
+Lua time usage: 0.085/10.000 seconds
+Lua memory usage: 2.73 MB/50 MB
+Number of Wikibase entities loaded: 4/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  237.090      1 -total
+ 35.48%   84.109      1 Plantilla:Wikificar
+ 33.53%   79.499      1 Plantilla:Control_de_autoridades
+ 32.78%   77.709      1 Plantilla:Aviso
+ 28.97%   68.681      2 Plantilla:Problemas_artículo/validar
+ 20.63%   48.908      1 Plantilla:Listaref
+ 20.61%   48.867     12 Plantilla:Str_mid
+ 19.75%   46.827     24 Plantilla:Trim
+ 11.67%   27.667      1 Plantilla:Cita_web
+  3.58%    8.495      3 Plantilla:Cita_publicación
+-->
+
+<!-- Saved in parser cache with key eswiki:pcache:idhash:84262-0!canonical and timestamp 20200811205554 and revision id 128213990
+ -->
+</div><noscript><img src="assets/b24c79a0cf288ab55ac19582a30c6fca" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Obtenido de «<a dir="ltr" href="https://es.wikipedia.org/w/index.php?title=Sistema_complejo&amp;oldid=128213990">https://es.wikipedia.org/w/index.php?title=Sistema_complejo&amp;oldid=128213990</a>»</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Especial:Categor%C3%ADas" title="Especial:Categorías">Categorías</a>: <ul><li><a href="/wiki/Categor%C3%ADa:Teor%C3%ADa_de_sistemas" title="Categoría:Teoría de sistemas">Teoría de sistemas</a></li><li><a href="/wiki/Categor%C3%ADa:Teor%C3%ADa_del_caos" title="Categoría:Teoría del caos">Teoría del caos</a></li><li><a href="/wiki/Categor%C3%ADa:Sistemas" title="Categoría:Sistemas">Sistemas</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Categorías ocultas: <ul><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Wikificar" title="Categoría:Wikipedia:Wikificar">Wikipedia:Wikificar</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Wikificar_(a%C3%BAn_sin_clasificar)" title="Categoría:Wikipedia:Wikificar (aún sin clasificar)">Wikipedia:Wikificar (aún sin clasificar)</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_identificadores_GND" title="Categoría:Wikipedia:Artículos con identificadores GND">Wikipedia:Artículos con identificadores GND</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Menú de navegación</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Herramientas personales</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">No has accedido</li><li id="pt-anontalk"><a href="/wiki/Especial:MiDiscusi%C3%B3n" title="Discusión sobre ediciones hechas desde esta dirección IP [n]" accesskey="n">Discusión</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:MisContribuciones" title="Una lista de modificaciones hechas desde esta dirección IP [y]" accesskey="y">Contribuciones</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Sistema+complejo" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio">Crear una cuenta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Sistema+complejo" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o">Acceder</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Espacios de nombres</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Sistema_complejo" title="Ver la página de contenido [c]" accesskey="c">Artículo</a></li><li id="ca-talk"><a href="/wiki/Discusi%C3%B3n:Sistema_complejo" rel="discussion" title="Discusión acerca de la página [t]" accesskey="t">Discusión</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variantes</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Vistas</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Sistema_complejo">Leer</a></li><li id="ca-edit"><a href="/w/index.php?title=Sistema_complejo&amp;action=edit" title="Editar esta página [e]" accesskey="e">Editar</a></li><li id="ca-history"><a href="/w/index.php?title=Sistema_complejo&amp;action=history" title="Versiones anteriores de esta página [h]" accesskey="h">Ver historial</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Más</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Buscar</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Buscar en Wikipedia" title="Buscar en este wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Especial:Buscar">
+			<input type="submit" name="fulltext" value="Buscar" title="Busca páginas con este texto." id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Ir" title="Ir a la página con este nombre exacto si existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visitar la página principal" class="mw-wiki-logo" href="/wiki/Wikipedia:Portada"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navegación</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Wikipedia:Portada" title="Visitar la página principal [z]" accesskey="z">Portada</a></li><li id="n-portal"><a href="/wiki/Portal:Comunidad" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información">Portal de la comunidad</a></li><li id="n-currentevents"><a href="/wiki/Portal:Actualidad" title="Encuentra información de contexto sobre acontecimientos actuales">Actualidad</a></li><li id="n-recentchanges"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en el wiki [r]" accesskey="r">Cambios recientes</a></li><li id="n-newpages"><a href="/wiki/Especial:P%C3%A1ginasNuevas">Páginas nuevas</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x">Página aleatoria</a></li><li id="n-help"><a href="/wiki/Ayuda:Contenidos" title="El lugar para aprender">Ayuda</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wikipedia.org&amp;uselang=es" title="Apóyanos">Donaciones</a></li><li id="n-bug_in_article"><a href="/wiki/Wikipedia:Informes_de_error">Notificar un error</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Herramientas</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Especial:LoQueEnlazaAqu%C3%AD/Sistema_complejo" title="Lista de todas las páginas del wiki que enlazan aquí [j]" accesskey="j">Lo que enlaza aquí</a></li><li id="t-recentchangeslinked"><a href="/wiki/Especial:CambiosEnEnlazadas/Sistema_complejo" rel="nofollow" title="Cambios recientes en las páginas que enlazan con esta [k]" accesskey="k">Cambios en enlazadas</a></li><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es" title="Subir archivos [u]" accesskey="u">Subir archivo</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q">Páginas especiales</a></li><li id="t-permalink"><a href="/w/index.php?title=Sistema_complejo&amp;oldid=128213990" title="Enlace permanente a esta versión de la página">Enlace permanente</a></li><li id="t-info"><a href="/w/index.php?title=Sistema_complejo&amp;action=info" title="Más información sobre esta página">Información de la página</a></li><li id="t-cite"><a href="/w/index.php?title=Especial:Citar&amp;page=Sistema_complejo&amp;id=128213990&amp;wpFormIdentifier=titleform" title="Información sobre cómo citar esta página">Citar esta página</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q854457" title="Enlace al elemento conectado del repositorio de datos [g]" accesskey="g">Elemento de Wikidata</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label">
+		<span>Imprimir/exportar</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book"><a href="/w/index.php?title=Especial:Libro&amp;bookcmd=book_creator&amp;referer=Sistema+complejo">Crear un libro</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Especial:ElectronPdf&amp;page=Sistema+complejo&amp;action=show-download-screen">Descargar como PDF</a></li><li id="t-print"><a href="/w/index.php?title=Sistema_complejo&amp;printable=yes" title="Versión imprimible de esta página [p]" accesskey="p">Versión para imprimir</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label">
+		<span>En otros proyectos</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Complex_systems" hreflang="en">Wikimedia Commons</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label">
+		<span>En otros idiomas</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D9%86%D8%B8%D8%A7%D9%85_%D9%85%D8%B9%D9%82%D8%AF" title="نظام معقد (árabe)" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BC%D0%BF%D0%BB%D0%B5%D0%BA%D1%81%D0%BD%D0%B8_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B8" title="Комплексни системи (búlgaro)" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Sistema_complex" title="Sistema complex (catalán)" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D8%B3%DB%8C%D8%B3%D8%AA%D9%85%DB%8C_%D8%A6%D8%A7%DA%B5%DB%86%D8%B2" title="سیستمی ئاڵۆز (kurdo sorani)" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Komplexn%C3%AD_syst%C3%A9m" title="Komplexní systém (checo)" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Komplexes_System" title="Komplexes System (alemán)" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Complex_system" title="Complex system (inglés)" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Komplekss%C3%BCsteem" title="Komplekssüsteem (estonio)" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B3%D8%A7%D9%85%D8%A7%D9%86%D9%87_%D9%BE%DB%8C%DA%86%DB%8C%D8%AF%D9%87" title="سامانه پیچیده (persa)" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Mutkikas_j%C3%A4rjestelm%C3%A4" title="Mutkikas järjestelmä (finés)" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Syst%C3%A8me_complexe" title="Système complexe (francés)" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Sistema_complexo" title="Sistema complexo (gallego)" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%9E%D7%A2%D7%A8%D7%9B%D7%AA_%D7%9E%D7%95%D7%A8%D7%9B%D7%91%D7%AA" title="מערכת מורכבת (hebreo)" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%9C%E0%A4%9F%E0%A4%BF%E0%A4%B2_%E0%A4%A4%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0" title="जटिल तंत्र (hindi)" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Sistema_complesso" title="Sistema complesso (italiano)" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E8%A4%87%E9%9B%91%E7%B3%BB" title="複雑系 (japonés)" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%9A%D2%AF%D1%80%D0%B4%D0%B5%D0%BB%D1%96_%D0%B6%D2%AF%D0%B9%D0%B5" title="Күрделі жүйе (kazajo)" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EB%B3%B5%EC%9E%A1%EA%B3%84" title="복잡계 (coreano)" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Kompleksa_sist%C4%93ma" title="Kompleksa sistēma (letón)" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Complex_systeem" title="Complex systeem (neerlandés)" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/System_z%C5%82o%C5%BCony" title="System złożony (polaco)" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Sistemas_complexos" title="Sistemas complexos (portugués)" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BB%D0%BE%D0%B6%D0%BD%D0%B0%D1%8F_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0" title="Сложная система (ruso)" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Complex_system" title="Complex system (Simple English)" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Karma%C5%9F%C4%B1k_Sistem" title="Karmaşık Sistem (turco)" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A1%D0%BA%D0%BB%D0%B0%D0%B4%D0%BD%D0%B0_%D1%81%D0%B8%D1%81%D1%82%D0%B5%D0%BC%D0%B0" title="Складна система (ucraniano)" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/H%E1%BB%87_th%E1%BB%91ng_ph%E1%BB%A9c_t%E1%BA%A1p" title="Hệ thống phức tạp (vietnamita)" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%A4%8D%E6%9D%82%E7%B3%BB%E7%BB%9F" title="复杂系统 (chino)" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E8%A4%87%E9%9B%9C%E7%B3%BB%E7%B5%B1" title="複雜系統 (Cantonese)" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q854457#sitelinks-wikipedia" title="Editar enlaces interlingüísticos" class="wbc-editpage">Editar enlaces</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> Esta página se editó por última vez el 3 ago 2020 a las 08:20.</li>
+		<li id="footer-info-copyright">El texto está disponible bajo la <a rel="license" href="//es.wikipedia.org/wiki/Wikipedia:Texto_de_la_Licencia_Creative_Commons_Atribuci%C3%B3n-CompartirIgual_3.0_Unported">Licencia Creative Commons Atribución Compartir Igual 3.0</a><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+pueden aplicarse cláusulas adicionales. Al usar este sitio, usted acepta nuestros <a href="//wikimediafoundation.org/wiki/Terms_of_Use">términos de uso</a> y nuestra <a href="//wikimediafoundation.org/wiki/Privacy_policy">política de privacidad</a>. <br/>Wikipedia&reg; es una marca registrada de la <a href="//www.wikimediafoundation.org/">Fundación Wikimedia, Inc.</a>, una organización sin ánimo de lucro.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/es" class="extiw" title="m:Privacy policy/es">Política de privacidad</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikipedia:Acerca_de" title="Wikipedia:Acerca de">Acerca de Wikipedia</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:Limitaci%C3%B3n_general_de_responsabilidad" title="Wikipedia:Limitación general de responsabilidad">Limitación de responsabilidad</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Desarrolladores</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/es.wikipedia.org">Estadísticas</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement/es">Declaración de cookies</a></li>
+		<li id="footer-places-mobileview"><a href="//es.m.wikipedia.org/w/index.php?title=Sistema_complejo&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="assets/cf11dc7c1780c07eace98f814b311864.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="assets/aefa4f28c6b5afa5121caeb7816f48a3.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.216","walltime":"0.272","ppvisitednodes":{"value":1920,"limit":1000000},"postexpandincludesize":{"value":14308,"limit":2097152},"templateargumentsize":{"value":1653,"limit":2097152},"expansiondepth":{"value":23,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":11558,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00%  237.090      1 -total"," 35.48%   84.109      1 Plantilla:Wikificar"," 33.53%   79.499      1 Plantilla:Control_de_autoridades"," 32.78%   77.709      1 Plantilla:Aviso"," 28.97%   68.681      2 Plantilla:Problemas_artículo/validar"," 20.63%   48.908      1 Plantilla:Listaref"," 20.61%   48.867     12 Plantilla:Str_mid"," 19.75%   46.827     24 Plantilla:Trim"," 11.67%   27.667      1 Plantilla:Cita_web","  3.58%    8.495      3 Plantilla:Cita_publicación"]},"scribunto":{"limitreport-timeusage":{"value":"0.085","limit":"10.000"},"limitreport-memusage":{"value":2858423,"limit":52428800}},"cachereport":{"origin":"mw1329","timestamp":"20200811205554","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Sistema complejo","url":"https:\/\/es.wikipedia.org\/wiki\/Sistema_complejo","sameAs":"http:\/\/www.wikidata.org\/entity\/Q854457","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q854457","author":{"@type":"Organization","name":"Colaboradores de los proyectos Wikimedia"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-11-17T03:01:47Z","dateModified":"2020-08-03T08:20:44Z"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":423,"wgHostname":"mw1329"});});</script>
+
+<div style="position:fixed;top:0;left:0;width:100%;height:45px;z-index:2147483647;background-color:rgba(253,147,38,0.90) !important;color:black !important;text-align:right !important;font:normal 12px/45px Arial, sans-serif !important;border-radius:0 !important;margin:0 !important;max-width:100% !important;background-repeat: no-repeat !important;background-position: 15px center !important;
+background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHwAAAAYCAYAAAA4e5nyAAAKQWlDQ1BJQ0MgUHJvZmlsZQAASA2dlndUU9kWh8+9N73QEiIgJfQaegkg0jtIFQRRiUmAUAKGhCZ2RAVGFBEpVmRUwAFHhyJjRRQLg4Ji1wnyEFDGwVFEReXdjGsJ7601896a/cdZ39nnt9fZZ+9917oAUPyCBMJ0WAGANKFYFO7rwVwSE8vE9wIYEAEOWAHA4WZmBEf4RALU/L09mZmoSMaz9u4ugGS72yy/UCZz1v9/kSI3QyQGAApF1TY8fiYX5QKUU7PFGTL/BMr0lSkyhjEyFqEJoqwi48SvbPan5iu7yZiXJuShGlnOGbw0noy7UN6aJeGjjAShXJgl4GejfAdlvVRJmgDl9yjT0/icTAAwFJlfzOcmoWyJMkUUGe6J8gIACJTEObxyDov5OWieAHimZ+SKBIlJYqYR15hp5ejIZvrxs1P5YjErlMNN4Yh4TM/0tAyOMBeAr2+WRQElWW2ZaJHtrRzt7VnW5mj5v9nfHn5T/T3IevtV8Sbsz55BjJ5Z32zsrC+9FgD2JFqbHbO+lVUAtG0GQOXhrE/vIADyBQC03pzzHoZsXpLE4gwnC4vs7GxzAZ9rLivoN/ufgm/Kv4Y595nL7vtWO6YXP4EjSRUzZUXlpqemS0TMzAwOl89k/fcQ/+PAOWnNycMsnJ/AF/GF6FVR6JQJhIlou4U8gViQLmQKhH/V4X8YNicHGX6daxRodV8AfYU5ULhJB8hvPQBDIwMkbj96An3rWxAxCsi+vGitka9zjzJ6/uf6Hwtcim7hTEEiU+b2DI9kciWiLBmj34RswQISkAd0oAo0gS4wAixgDRyAM3AD3iAAhIBIEAOWAy5IAmlABLJBPtgACkEx2AF2g2pwANSBetAEToI2cAZcBFfADXALDIBHQAqGwUswAd6BaQiC8BAVokGqkBakD5lC1hAbWgh5Q0FQOBQDxUOJkBCSQPnQJqgYKoOqoUNQPfQjdBq6CF2D+qAH0CA0Bv0BfYQRmALTYQ3YALaA2bA7HAhHwsvgRHgVnAcXwNvhSrgWPg63whfhG/AALIVfwpMIQMgIA9FGWAgb8URCkFgkAREha5EipAKpRZqQDqQbuY1IkXHkAwaHoWGYGBbGGeOHWYzhYlZh1mJKMNWYY5hWTBfmNmYQM4H5gqVi1bGmWCesP3YJNhGbjS3EVmCPYFuwl7ED2GHsOxwOx8AZ4hxwfrgYXDJuNa4Etw/XjLuA68MN4SbxeLwq3hTvgg/Bc/BifCG+Cn8cfx7fjx/GvyeQCVoEa4IPIZYgJGwkVBAaCOcI/YQRwjRRgahPdCKGEHnEXGIpsY7YQbxJHCZOkxRJhiQXUiQpmbSBVElqIl0mPSa9IZPJOmRHchhZQF5PriSfIF8lD5I/UJQoJhRPShxFQtlOOUq5QHlAeUOlUg2obtRYqpi6nVpPvUR9Sn0vR5Mzl/OX48mtk6uRa5Xrl3slT5TXl3eXXy6fJ18hf0r+pvy4AlHBQMFTgaOwVqFG4bTCPYVJRZqilWKIYppiiWKD4jXFUSW8koGStxJPqUDpsNIlpSEaQtOledK4tE20Otpl2jAdRzek+9OT6cX0H+i99AllJWVb5SjlHOUa5bPKUgbCMGD4M1IZpYyTjLuMj/M05rnP48/bNq9pXv+8KZX5Km4qfJUilWaVAZWPqkxVb9UU1Z2qbapP1DBqJmphatlq+9Uuq43Pp893ns+dXzT/5PyH6rC6iXq4+mr1w+o96pMamhq+GhkaVRqXNMY1GZpumsma5ZrnNMe0aFoLtQRa5VrntV4wlZnuzFRmJbOLOaGtru2nLdE+pN2rPa1jqLNYZ6NOs84TXZIuWzdBt1y3U3dCT0svWC9fr1HvoT5Rn62fpL9Hv1t/ysDQINpgi0GbwaihiqG/YZ5ho+FjI6qRq9Eqo1qjO8Y4Y7ZxivE+41smsImdSZJJjclNU9jU3lRgus+0zwxr5mgmNKs1u8eisNxZWaxG1qA5wzzIfKN5m/krCz2LWIudFt0WXyztLFMt6ywfWSlZBVhttOqw+sPaxJprXWN9x4Zq42Ozzqbd5rWtqS3fdr/tfTuaXbDdFrtOu8/2DvYi+yb7MQc9h3iHvQ732HR2KLuEfdUR6+jhuM7xjOMHJ3snsdNJp9+dWc4pzg3OowsMF/AX1C0YctFx4bgccpEuZC6MX3hwodRV25XjWuv6zE3Xjed2xG3E3dg92f24+ysPSw+RR4vHlKeT5xrPC16Il69XkVevt5L3Yu9q76c+Oj6JPo0+E752vqt9L/hh/QL9dvrd89fw5/rX+08EOASsCegKpARGBFYHPgsyCRIFdQTDwQHBu4IfL9JfJFzUFgJC/EN2hTwJNQxdFfpzGC4sNKwm7Hm4VXh+eHcELWJFREPEu0iPyNLIR4uNFksWd0bJR8VF1UdNRXtFl0VLl1gsWbPkRoxajCCmPRYfGxV7JHZyqffS3UuH4+ziCuPuLjNclrPs2nK15anLz66QX8FZcSoeGx8d3xD/iRPCqeVMrvRfuXflBNeTu4f7kufGK+eN8V34ZfyRBJeEsoTRRJfEXYljSa5JFUnjAk9BteB1sl/ygeSplJCUoykzqdGpzWmEtPi000IlYYqwK10zPSe9L8M0ozBDuspp1e5VE6JA0ZFMKHNZZruYjv5M9UiMJJslg1kLs2qy3mdHZZ/KUcwR5vTkmuRuyx3J88n7fjVmNXd1Z752/ob8wTXuaw6thdauXNu5Tnddwbrh9b7rj20gbUjZ8MtGy41lG99uit7UUaBRsL5gaLPv5sZCuUJR4b0tzlsObMVsFWzt3WazrWrblyJe0fViy+KK4k8l3JLr31l9V/ndzPaE7b2l9qX7d+B2CHfc3em681iZYlle2dCu4F2t5czyovK3u1fsvlZhW3FgD2mPZI+0MqiyvUqvakfVp+qk6oEaj5rmvep7t+2d2sfb17/fbX/TAY0DxQc+HhQcvH/I91BrrUFtxWHc4azDz+ui6rq/Z39ff0TtSPGRz0eFR6XHwo911TvU1zeoN5Q2wo2SxrHjccdv/eD1Q3sTq+lQM6O5+AQ4ITnx4sf4H++eDDzZeYp9qukn/Z/2ttBailqh1tzWibakNml7THvf6YDTnR3OHS0/m/989Iz2mZqzymdLz5HOFZybOZ93fvJCxoXxi4kXhzpXdD66tOTSna6wrt7LgZevXvG5cqnbvfv8VZerZ645XTt9nX297Yb9jdYeu56WX+x+aem172296XCz/ZbjrY6+BX3n+l37L972un3ljv+dGwOLBvruLr57/17cPel93v3RB6kPXj/Mejj9aP1j7OOiJwpPKp6qP6391fjXZqm99Oyg12DPs4hnj4a4Qy//lfmvT8MFz6nPK0a0RupHrUfPjPmM3Xqx9MXwy4yX0+OFvyn+tveV0auffnf7vWdiycTwa9HrmT9K3qi+OfrW9m3nZOjk03dp76anit6rvj/2gf2h+2P0x5Hp7E/4T5WfjT93fAn88ngmbWbm3/eE8/syOll+AAAACXBIWXMAAC4jAAAuIwF4pT92AAACL2lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS40LjAiPgogICA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPgogICAgICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIgogICAgICAgICAgICB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iCiAgICAgICAgICAgIHhtbG5zOnRpZmY9Imh0dHA6Ly9ucy5hZG9iZS5jb20vdGlmZi8xLjAvIj4KICAgICAgICAgPHhtcDpDcmVhdG9yVG9vbD5BZG9iZSBJbWFnZVJlYWR5PC94bXA6Q3JlYXRvclRvb2w+CiAgICAgICAgIDx0aWZmOllSZXNvbHV0aW9uPjMwMDwvdGlmZjpZUmVzb2x1dGlvbj4KICAgICAgICAgPHRpZmY6T3JpZW50YXRpb24+MTwvdGlmZjpPcmllbnRhdGlvbj4KICAgICAgICAgPHRpZmY6WFJlc29sdXRpb24+MzAwPC90aWZmOlhSZXNvbHV0aW9uPgogICAgICA8L3JkZjpEZXNjcmlwdGlvbj4KICAgPC9yZGY6UkRGPgo8L3g6eG1wbWV0YT4KsBaN+QAADtFJREFUaAWdmQew3UUVh18qoSX0BAMISaQ6FOldpY1SRBSGamQYBDMKSFPRkSYzDNIE1KEJgqAIBpAiohJw6BB6kwChQ6ihJJCX5vedu+dm3333vjw8M+fu7jm/U/bs/vdf7oCurq4B8HxYWnfQoEET5s+fv/mAAQNWYfwpPIXxtfPmzfs1/XlwELh96OyLbj2wK9K+TjsZ2YVz5879ewPVNZC2aVNkC2sin8GDB28+Z86cxwF/DNc5Lsw+Y44D+CH81me0z1ijsfsEfq+NfWKGoxsJzxs6dOgwarAY/UHUYUZ3d/cL9GfAUubUGC34TT8jsR+JzVxaZa2E6/mDZ8+e/T6Klytl2q84ZMiQzyGPMfE/wdc0xu9W2J45DBw48GQWcX4nRv8wxsvDQ8Dc3AlX5BdVgdpNoFL36DaxxHsSX7sU7eAeqL4HgcX+BPiY/8N+kDbEvoRNt0MH+4gBZp8y349pZ5d+1tCxdXATSBa8lcIPcc4qtrNo57Xh7qKfWBykr8z1vKKfU9q5tJ/CU6jBEVXQgVmcs9gVTQW76WnGzwEcBm8GL8l4fYwn0Z8Nrw9LXr33we4mr4iNYekggg3iSj+Qfuy6kC78xwnMoQBbkcPa9MfDN8J5AtFdKAWWfDfCxxdA/wqeA/cnDws5F14V/i72d9FK2vYi9MOJ0wXvymn0BoChXGmDkK/Aibgd8mOo2Yb0N0RnrdrmAH4k/CS43bFfqmBpmuScvMLzim09NZdF/yr1/grtovgYhq+V6O9CDm6m3dDtyHhOF8X9KoLcldPp74Uid1DXsGHDVkN2V4UJLBN5CsduhiaB2Q3+oMLuXpSxsZrAzp3csb8vPjxSXTQpdI1ux99cmAHk5wkxnxw3Lej+5JAXwEnaUpszOtgOUU6Mw8HNpJtxC7zZrKkfcCcUSWsOMQZzLfy3plXfnTpW1kt7L7xexBy2MIfmXBj8VUHhnSsLFz0TXBb9OxXO3ey9SxJn4Ay+R4X7twDIJOtEQ9jyk5tseey7KdLxtG/A5xVc5tJi1mOYm8JNmhvv4n7aZ/wlif0y9takzr8OlAt+NJiPUOSxbY7mYLso7KY4DYxXZvqv6xBzQn8DfJ14aBE469napo8AFpy3nxvhu4vQ3PQr60t9HPl0R+ggr4C7uOxvUg8r99jwKNToXY6GK2iDOH4upOMx7pEvzmPQY2cgPiaif4i+tB48ClZXT5RhLzKuBfoOzRCOpBNLnEMZLwGbS+uEEfWgiMEEN0I6n5xPoN0bNoeF2Wf8/bEbReyTsFkXXhqOudG2kkVV5/wlW9lY3bDzuZ5mGdhblFTPQVtJP3lMp492bWLCiJ/aXryU8c0hZMznahVc5RsY3Kc76cX4bfzUjsOIBXgm9TiYWvo6TdImCo4+sS6Uk5X6WnB1PhtIE+BIkJgX0x9E0fZTAcWiNLptfzP+Zmjf5b56Iu0c7McXdCd77XIuh9G/mdieLMtxS1i92Ibv0s9Gf+3kqe8ih/ccUGzvs1I7vLLMLRcxwP380bbeSGkWvsjhbQVs4qUFvVO0nRYmExxecDadkkrs4gXrInofljrZqIvJUpRt2CxjWKAzFUIvwV4hRziA9JcxQtDyExuViXlqPV50l+PTTSR1srcO3u83BLsm7CuoRZrOibUJrdQurnPqVOzAM6eoK3PylUpqVwexXuWSuXTidjmkTTtd5rCcIOY1TccPOoC+DK8Du9M9qk1gaBkL3pl+EP3/lq72TljWRludbwW7o16mkaV2E21oyi/4I+EneRq9F1HcJ4l1BrwmhduiwGJz9DBsDJycp5F26+BnkmIW7Dc0q3DMf80x1M4+CsNVfTh2U7kiwhbsE8SOudBvl78ya2CdJGNbN9vwiT9Pp/d5L36CVqpPz4akYZP+3ZRi2nFi0i5bc8gNY1zn6DhkzGsP+rOY18Pe0A+A88nbq2I03IPYnT6NJuYxlDGZHqAyANd8CMTupCLOZNqZmKw0qsQ4uDFsLLh95M/DVxZ5J1+5kOvoB2xemdrfA99S7BNXhrFg9oeDmU3OeZp4/z0DnpJA2py3C6r+OGzyBKtgjS66b8E+pR9blK25Ry5gboXvAOPD3/LwUoV9fvBWICuPB0HapKgdtrfD96Swpd0QnTmc2pQj+I/CwtO5ms6gvxe8H3xNkaf+G03DxsPQ+uC3xeEP4McTS9+NEU+JtFmoyrTZjSKA/wW2s5Dm7UCbLKxPw+54CyDlJmmMGr/hB9x4eAYinx+CGMcHEgYrFVFtn/EngPOEsthBjPeEveIstpR2mdeP0VvM79N64Yynfwh8Av3b1FnLhmnYttYhF/xqsbAfXj6BPy48o4xtjfPT4is3Ti74begeQedJMxJelbhbwadrB7sZMne67G4MJhdlLmyvFswPA82RCfZ6+H04v+408eBeApdFar2iiotomgXAz9vwBUVpQdXlxOLqx++RRZ/yMowmZPi4ENyjRZGT9OvgB8hPLvJYMPrN+OieAnNZ0ecRPRaZi7Z9kWfcXPAj1cN+v/gI9lVQ9itX1uMB+t8u9jbNmPRzwW8g/nPE2Q7sNwvvTpvs9409wa+hAyh95IJfh954bph3S5vxLwSfeWc9uhYHdD+coLr1s97dJLODkWwZK6sxPfokPxXoGPFQXwuei7Sz/sB+MSwWTKgM41i/xaI0Bb0xUQQwD+PrkoLTf8Y4B/mbLfaRmw9rxqfN20CzQMjfxufPil1ulFzwuMLRjYbdJJ4qPst4So2iVptjnx+RzkEm5WLZzwW/BdzNCvpBtX0u+D/Mk3hn07oWvytzWaXyt2AdAEwqQMGvMMFjMd4J3hqDtSoj/1xxF8UCg3sGPh4+BKy3gWmpo30NO+89UnNnNYbN35zwP8HfX6T1hBTlgrnzvdryISoXRUzaLAHG4+9ghZALEzH4U2It7eF8eNM+fV/KHLwFSfqSs5gezTepgLJoueDewz9F7iJ3JDBfh42deWXuOX8X/IbiwNtg5tbattYxc5yU+ePnL/DLVTLmusAO5f5wLuDjKJv3sMooCgrOxAJL+2f0WeiE+uDjbgsMi3N6UeQEE2ebxRtb8H7wfwV+E/YLW7Lj18tYv3n1pn3TF7t6Y/ReqRuUQInJwvjwdmvRxaLRXxKZR/BBRZ65RsscTqGYrxedjXPOBf8Jdh8xzocp46mXjamPuD2AuwCOd3JkkpjID7l1nRjSBXUpwz6bnJcPbfcWpPOxTh7lUs4zBibk35ySBT+IR/jp9J3AbNhjVqf2x8Lbwr5uvQhuvF3YHenrkMl/yGvQnvh5iv5oMDvSau/DkBMUn+TYJ90DbfHpA4mymISyQtro+wNekbak3Rs+Gs7PlT7MaUPouRuBmclr3bOMpYynXtx58B/hleFXYOPvTzMP2z85hsQ1ibzuxedxCNIm8i4AscZImxyrTnlsHHz8AV8HuxnJz38e63mmvXa1f8f9IWN50khuQJ8ZrmGzXsGr2O30XXTXkEouOIZvD0HvHWaxvXdvDTauXIqUV66LXVOMwZ1fsG+iXKEA6gnmpAaD88Hv/NpJH/3F9Ev8wwomd28UFd3l6CymZIyMk7GHgvkIzEmB4If+FGQXlXH4Kf20WQn9PHjXChM4bI/VH/KsQ8Yr0GiifvTGgfWWtFNR6iPzvgHddUWe+DLss4kcsf0XfEdBRk0YXw3PQJanT2D9Wa4AXZx2lJPwHTHp1dLxyq4pxuzmj4tQ27SvcTEpEvLJcymurtOK0sJlIVpbE58JXwnngufJYesp4RWezwLGyCvcK0h/3egvhifQdxNvT38cC3euYyjxdf9V/L4Ce7pI9XzEW8Mopso2FHhiLa+OeJ2+uH2WhW4NY90zr5gDNT1AEDX21iuFfiATmdoYd40rrQZ18NgxHM+rFb1XxaqlX+N0GMHw+SX1tB67ed8KnXIojzBf8+6An4ct2izYxWvH3ciNfS5FG0sBt2CoTxdSGoF8DO09Mer9E/E54n6LalmO1k3I71D4GY7YfI3LvLRu+sbvI7Cfa6Ua49h5y1K22Te33AzeiuYS6wmVUF0Px3UtHfeHMp71ytPOxbf/KTn7zcRXOhe/IWdwMRxHNe14FEn1RCz0ExVuGqBlClDnTiwKD2aXCndpwdSTyf7qBbd7weTClWGvJidnLr4zX1UQcZyyAbbUH0/jaxd5xqkdhQzcdfjwKPdv2EMKoF38kIE5Buw74HLx4kGsyN2kIyofYpq5Kie3Hc0N/C8rXKj8QeeRfkvRWU991Ky/Xn6R5Xyux/5BxlLGjtyRnwu7uVYOLTs9nmwVwv6z9CMUw0PZMF4HeXw1KpjcHF5JYwsuGvS+fvjhITAuQtHXxY+dSJxTwVnETDDb2mVrP20PwdYrLQvtJvDz71vIMlY7f1GE3BzgvY2lDwvaSuGr4L2KxhVAbDJiHoWPD1uNythNsR76fJ65psJlbrkofji5vtL3txv5YXsV/EAxSt/N+ZDni+hzQ8QO9B06F9LW16C7AD5E2+O9m7GvNon9kP5E2D/YfZdOue1FJYFcAIeZxCJiKeSZBRMTL/2+mrT3fVv7UxLMeBJ870L8WYwoCHN7GvxlC8FnvBHGgw8u+HgQwoevZcqtiReFfCdyT8P3YHXWMu00T5/2c8G9wj0BHoUfoX8/fB/9yfDD8EPwC8z3LI2g9NG0V99Qxfxy0bOuaxT/P4/F4P58KwJ3+ubFaEnalbkHrEibC3afr1nc8y7A+TbIPw+709eCN4HHwEk38dCwLwOPEoPbStkfjW/fo85G9kFoFmDKsG2jHyc7ixx8kOqG4yENf8vB1zJ+Fn3GaefE+VjcaeDvZE4v9YHPvGeB/QSbKeCfK3if3I0zDPa0sbi2vj4+RR4+JR/PM8NR9B9CLrZdXuZinLexexF+jf4bMv1XC79E+wZ+HoEno6tJe+M+hs5a1DEyL78WajdKQwFBHO+bkuSlKD0C3J3T4dvh7yUmW2T7wX4DfovWyc+EH2A8ITG0uRMr0YJ4RdiMX4MW0q/9al/7qHWd3NT4ut8ffPrvj136czN0wneSp21r24qvx3W/tsuLtut/szhyWqonQDsAAAAASUVORK5CYII=);
+"><span style="padding-right:15px;">You are viewing a snapshot of <a style='font-weight:bold !important; color:white !important' href='http://es.wikipedia.org/wiki/Sistema_complejo'>http://es.wikipedia.org/wiki/Sistema_complejo</a> created on 2020/08/12</span></div></body></html>

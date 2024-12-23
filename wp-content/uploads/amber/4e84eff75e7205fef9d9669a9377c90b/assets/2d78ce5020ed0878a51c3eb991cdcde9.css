@@ -1,0 +1,246 @@
+body{
+	font-family:Verdana, Arial, Helvetica, sans-serif;
+	font-size:0.70em;
+	color:#333;
+	line-height:1.3em;
+	margin-top: 10px;
+	background-image:url(/web/20071015070753im_/http://www.amfphp.org/images/back.jpg);
+	background-repeat: no-repeat;
+	background-repeat: repeat-x;
+}
+#main {
+	margin: 0 auto;
+	padding: 0;
+	width: 652px;
+}
+#header{
+	width:100%;
+	height:63px;
+	background-image:url(/web/20071015070753im_/http://www.amfphp.org/images/head.gif);
+}
+#top{
+	padding:5px;
+	width:98%;
+	text-align:right;
+	
+}
+#content{
+	background-image:url(/web/20071015070753im_/http://www.amfphp.org/images/backMain.gif);
+	padding-top:15px !important;
+	padding-top:5px;
+	min-height:450px;
+	clear:both
+}
+#news{
+	float:left;
+	width:150px;
+	margin:5px;
+	padding-left:5px;
+	min-height:450px;
+}
+#info{
+	margin-left:175px;
+	width:470px !important;
+	width:460px;
+	min-height:450px;
+	padding:20px 0px;
+}
+#info p, pre{
+	text-align:justify;
+	padding:10px;
+	padding-top:0px;
+}
+#footer{
+	background-image:url(/web/20071015070753im_/http://www.amfphp.org/images/backFoot.gif);
+	background-repeat: no-repeat;
+	height:16px;
+	width:100%;
+	margin-top:-20px;
+	text-align:center;
+}
+#conditions{
+	width:100%;
+	text-align:center;
+	background-color:#FFFFFF;
+
+}
+#menu {
+  background-image:url(/web/20071015070753im_/http://www.amfphp.org/images/backMenu.gif);
+  border-top:1px solid #E72B14;
+  border-bottom:1px solid #d2d2d2;
+  float:left;
+  width:648px;
+  line-height:normal;
+  margin-left:2px !important;
+  margin-left:1px;
+  height:25px;
+}
+#innermenu
+{
+	margin:auto;
+}
+#menu ul {
+  margin:0;
+  padding:0;
+  padding-top: 5px;
+  list-style:none;
+  height:20px;
+  white-space: nowrap;
+ }
+#menu li {
+  height:20px;
+  float:left;
+  margin:0;
+  padding:0 0 0 12px;
+}
+
+#menu a {
+  font-family:Georgia, "Times New Roman", Times, serif;
+  font-size:11px;
+  font-weight:bold;
+  /*color:#8B8B8B;	*/
+  color:#414A56;
+  float:left;
+  display:block;
+  text-decoration:none;
+}
+#menu a:hover {
+  float:left;
+  display:block;
+  color:#333333;	
+}
+#box {
+	text-decoration:none;
+	margin-left:5px;
+	text-align:center;
+}
+#box img{
+	border:0;
+}
+a {
+  color:#8B8B8B;	
+}
+a:hover {
+  color:#333333;	
+}
+/*Clases*/
+.date{
+	/*color:#CC3300;*/
+	color:#919DAC;
+	font-weight:bold;	
+}
+h3{
+	margin-left:5px;
+	font-family:Georgia, "Times New Roman", Times, serif;
+	/*color:#868779;*/
+	color:#919DAC;
+	width:450px;
+	height:25px;
+	display:block;
+	background-image:url(/web/20071015070753im_/http://www.amfphp.org/images/backTitles.gif);
+	background-repeat:no-repeat;
+	font-size:14px;
+}
+h4
+{
+	margin-left:10px;
+	font-size:1.2em;
+}
+h3 span{
+	margin-left:15px;
+}
+.code {
+	font-size:11px;
+}
+
+/* syntax highlighting code */
+.code .br0	{ color: #66cc66; }
+.code .co1	{ color: #808080; font-style: italic; }
+.code .co2	{ color: #808080; font-style: italic; }
+.code .coMULTI	{ color: #808080; font-style: italic; }
+.code .es0	{ color: #000099; font-weight: bold; }
+.code .kw1	{ color: #b1b100; }
+.code .kw2	{ color: #000000; font-weight: bold; }
+.code .kw3	{ color: #000066; }
+.code .kw4	{ color: #993333; }
+.code .kw5	{ color: #0000ff; }
+.code .me0	{ color: #006600; }
+.code .nu0	{ color: #cc66cc; }
+.code .re0	{ color: #0000ff; }
+.code .re1	{ color: #0000ff; }
+.code .re2	{ color: #0000ff; }
+.code .re4	{ color: #009999; }
+.code .sc0	{ color: #00bbdd; }
+.code .sc1	{ color: #ddbb00; }
+.code .sc2	{ color: #009900; }
+.code .st0	{ color: #ff0000; }
+
+.centered
+{
+	text-align: center !important;
+}
+#info ul
+{
+	margin-left:20px;
+	padding-left:10px;
+}
+
+#info li
+{
+	margin-bottom:5px;
+	margin-left:10px;
+}
+
+#news ul
+{
+	margin-left:0px;
+	padding-left:15px;
+}
+
+#news li
+{
+	margin-left:0px;
+}
+h2
+{
+  font-family:Georgia, "Times New Roman", Times, serif;
+  font-size:11px;
+  font-weight:bold;
+}
+
+
+/* code blocks by code tag */
+.code {
+  font-size: 110%;
+  padding: 1em;
+  margin:1em;
+  border: 1px solid #9cbccb;
+  color: Black;
+  overflow: auto;
+  height:100%;
+}
+
+table
+{
+	border:1px solid #9cbccb;
+	margin:0px 10px 0 10px;
+}
+
+td
+{
+	border:1px solid #eeeeee;
+	font-size:1em;
+}
+
+th{
+	background-color:#bbccff;
+}
+
+/*
+     FILE ARCHIVED ON 07:07:53 Oct 15, 2007 AND RETRIEVED FROM THE
+     INTERNET ARCHIVE ON 15:00:08 May 03, 2017.
+     JAVASCRIPT APPENDED BY WAYBACK MACHINE, COPYRIGHT INTERNET ARCHIVE.
+
+     ALL OTHER CONTENT MAY ALSO BE PROTECTED BY COPYRIGHT (17 U.S.C.
+     SECTION 108(a)(3)).
+*/

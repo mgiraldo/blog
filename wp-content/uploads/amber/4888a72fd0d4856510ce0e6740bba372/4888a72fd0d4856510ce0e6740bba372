@@ -1,0 +1,319 @@
+<html>
+<head>
+<title>Internet Pioneers</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+<META NAME="DISTRIBUTION" CONTENT="global"> 
+<META NAME="RATING" CONTENT="general"> 
+<META NAME="revisit-after" CONTENT="15 days"> 
+<META NAME="ROBOTS" CONTENT="ALL"> 
+<META NAME="description" 
+    CONTENT="Ten individuals who made significant contributions to the development of the Internet and world wide web.">
+<META NAME="keywords" 
+    CONTENT="Internet history, world wide web history, development, Vannevar Bush, J.C.R. Licklider, Paul Baran, Vint Cerf, Vinton, Tim Berners-Lee, Larry Roberts, Bob Metcalfe, Douglas Engelbart, Marc Andreesen, Ted Nelson, Memex, Internet pioneers, technology, Hypertext, Arpanet, ARPA, BBN, Mosaic">
+<script language="JavaScript">
+<!--
+function MM_swapImgRestore() { //v2.0
+  if (document.MM_swapImgData != null)
+    for (var i=0; i<(document.MM_swapImgData.length-1); i+=2)
+      document.MM_swapImgData[i].src = document.MM_swapImgData[i+1];
+}
+
+function MM_preloadImages() { //v2.0
+  if (document.images) {
+    var imgFiles = MM_preloadImages.arguments;
+    if (document.preloadArray==null) document.preloadArray = new Array();
+    var i = document.preloadArray.length;
+    with (document) for (var j=0; j<imgFiles.length; j++) if (imgFiles[j].charAt(0)!="#"){
+      preloadArray[i] = new Image;
+      preloadArray[i++].src = imgFiles[j];
+  } }
+}
+
+function MM_swapImage() { //v2.0
+  var i,j=0,objStr,obj,swapArray=new Array,oldArray=document.MM_swapImgData;
+  for (i=0; i < (MM_swapImage.arguments.length-2); i+=3) {
+    objStr = MM_swapImage.arguments[(navigator.appName == 'Netscape')?i:i+1];
+    if ((objStr.indexOf('document.layers[')==0 && document.layers==null) ||
+        (objStr.indexOf('document.all[')   ==0 && document.all   ==null))
+      objStr = 'document'+objStr.substring(objStr.lastIndexOf('.'),objStr.length);
+    obj = eval(objStr);
+    if (obj != null) {
+      swapArray[j++] = obj;
+      swapArray[j++] = (oldArray==null || oldArray[j-1]!=obj)?obj.src:oldArray[j];
+      obj.src = MM_swapImage.arguments[i+2];
+  } }
+  document.MM_swapImgData = swapArray; //used for restore
+}
+//-->
+</script>
+</head>
+
+<body bgcolor="#eeeeee" text="#000000" link="#0000CC" vlink="#0000CC" onLoad="MM_preloadImages('images/home2.gif','#955306231080');MM_preloadImages('images/bush2.gif','#955306251450');MM_preloadImages('images/licklider2.gif','#955306291110');MM_preloadImages('images/roberts2.gif','#955306314890');MM_preloadImages('images/baran2.gif','#955306414470');MM_preloadImages('images/metcalfe2.gif','#955306440780');MM_preloadImages('images/engelbart2.gif','#955306507900');MM_preloadImages('images/cerf2.gif','#955306532070');MM_preloadImages('images/nelson2.gif','#955306581610');MM_preloadImages('images/lee2.gif','#955306597870');MM_preloadImages('images/andreesen2.gif','#955306614680');MM_preloadImages('images/epilogue2.gif','#955306663340');MM_preloadImages('images/references2.gif','#955306679760');MM_preloadImages('images/pc2.gif','#955589164990');MM_preloadImages('images/books2.gif','#993096047780')" LEFTMARGIN="0" TOPMARGIN="0" MARGINHEIGHT="0" MARGINWIDTH="0">
+<div valign="top" align="left">
+  <table  width="96%" border="0" cellspacing="0" cellpadding="0" height="2257" align="left" valign="top">
+    <tr> 
+      <td width="21%" background="images/back.gif" height="2367"> 
+        <div align="left"> 
+          <table valign="top" width="100%" border="0" cellspacing="0" cellpadding="0">
+            <tr valign="top" align="left"> 
+              <td> <a href="index.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.Image1','document.Image1','images/home2.gif','#955306231080')"><img name="Image1" border="0" src="assets/62534a3f1016a5120ea64f232dfe59eb.gif" width="162" height="23"></a></td>
+            </tr>
+            <tr valign="top" align="left"> 
+              <td> <a href="bush.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.Image2','document.Image2','images/bush2.gif','#955306251450')"><img name="Image2" border="0" src="assets/22c4f09d76fc30fdb1c61e4c4891d9d7.gif" width="162" height="23"></a></td>
+            </tr>
+            <tr valign="top" align="left"> 
+              <td> <a href="licklider.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.Image3','document.Image3','images/licklider2.gif','#955306291110')"><img name="Image3" border="0" src="assets/96d46173d5ddf03d31d82a20918322ec.gif" width="162" height="23"></a></td>
+            </tr>
+            <tr valign="top" align="left"> 
+              <td> <a href="roberts.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.Image4','document.Image4','images/roberts2.gif','#955306314890')"><img name="Image4" border="0" src="assets/71eb29ee1b417da87422516adb0eb147.gif" width="162" height="23"></a></td>
+            </tr>
+            <tr valign="top" align="left"> 
+              <td> <a href="baran.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.Image5','document.Image5','images/baran2.gif','#955306414470')"><img name="Image5" border="0" src="assets/fa4a458c27da7b5e6027a6a590a763e7.gif" width="162" height="23"></a></td>
+            </tr>
+            <tr valign="top" align="left"> 
+              <td> <a href="metcalfe.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.Image6','document.Image6','images/metcalfe2.gif','#955306440780')"><img name="Image6" border="0" src="assets/d99817f89765cc314bb36f8740456cc8.gif" width="162" height="23"></a></td>
+            </tr>
+            <tr valign="top" align="left"> 
+              <td> <a href="engelbart.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.Image7','document.Image7','images/engelbart2.gif','#955306507900')"><img name="Image7" border="0" src="assets/cff66ac2377e6edc03aa5519495d28e6.gif" width="162" height="23"></a></td>
+            </tr>
+            <tr valign="top" align="left"> 
+              <td> <a href="cerf.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.Image8','document.Image8','images/cerf2.gif','#955306532070')"><img name="Image8" border="0" src="assets/599ff94550b9642aa1e691e0f625edb2.gif" width="162" height="23"></a></td>
+            </tr>
+            <tr valign="top" align="left"> 
+              <td> <a href="nelson.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.Image9','document.Image9','images/nelson2.gif','#955306581610')"><img name="Image9" border="0" src="assets/f2acf04b40ea7a6d7d6ecd6aaa7041ad.gif" width="162" height="23"></a></td>
+            </tr>
+            <tr valign="top" align="left"> 
+              <td> <a href="lee.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.Image10','document.Image10','images/lee2.gif','#955306597870')"><img name="Image10" border="0" src="assets/1efef14616036cf553331214e6d27f5f.gif" width="162" height="23"></a></td>
+            </tr>
+            <tr valign="top" align="left"> 
+              <td height="22"> <a href="andreesen.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.Image11','document.Image11','images/andreesen2.gif','#955306614680')"><img name="Image11" border="0" src="assets/605e26644b662a85a695872fe5fe9238.gif" width="162" height="23"></a></td>
+            </tr>
+            <tr valign="top" align="left"> 
+              <td> <a href="epilogue.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.Image12','document.Image12','images/epilogue2.gif','#955306663340')"><img name="Image12" border="0" src="assets/9046d9173142dd19cae64f8fc3d03dca.gif" width="162" height="23"></a></td>
+            </tr>
+            <tr valign="top" align="left"> 
+              <td height="26"> <a href="references.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.Image13','document.Image13','images/references2.gif','#955306679760')"><img name="Image13" border="0" src="assets/72c4df66fbcceb3cde8a50ab09b0ac04.gif" width="162" height="23"><br>
+                <br>
+                </a><a href="reading.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.Image27','document.Image27','images/books2.gif','#993096047780')"><img name="Image27" border="0" src="assets/c92457ccd29fe72cc9e6d85b29c562b5.gif" width="162" height="23"></a><a href="references.html" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.Image13','document.Image13','images/references2.gif','#955306679760')"> 
+                </a></td>
+            </tr>
+          </table>
+          <table width="75%" border="0" cellspacing="0" cellpadding="0">
+            <tr>
+              <td height="1919"> 
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                <p>&nbsp;</p>
+                </td>
+            </tr>
+          </table>
+        </div>
+      </td>
+      <td width="78%" height="2367" valign="top" align="center"> 
+        <p><br>
+          <b><font face="Verdana, Arial, Helvetica, sans-serif" size="+7" color="#0000CC">I<a name="top"></a>nternet 
+          Pioneers</font></b></p>
+        <blockquote>
+          <p align="left"><font face="Georgia, Times New Roman, Times, serif">This 
+            web site profiles ten individuals whose work has contributed significantly 
+            to the development of the Internet. It is my master's project.</font></p>
+          <p align="left"><font face="Georgia, Times New Roman, Times, serif">This 
+            site </font><font face="Georgia, Times New Roman, Times, serif"> is 
+            not intended to be an exhaustive history, nor is it suggested that 
+            these ten "pioneers" are the only individuals who have made meaningful 
+            contributions. </font></p>
+          <p align="left"><font face="Georgia, Times New Roman, Times, serif"><b>Beginnings 
+            </b></font></p>
+          <p align="left"><font face="Georgia, Times New Roman, Times, serif">During 
+            World War II, a man named <a href="bush.html">Vannevar Bush <img src="assets/49bcdb5b4f4336ed842fc8e907b9977a.gif" width="70" height="100" border="0" align="left" alt="Vannevar Bush"></a>facilitated 
+            a relationship between the federal government, the American scientific 
+            community, and business. After the war, he helped institutionalize 
+            that relationship. As a result, organizations like the National Science 
+            Foundation and Advanced Research Projects Agency (ARPA), were created. 
+            It was at ARPA that the Internet first began. Bush also wrote a paper 
+            entitled, <a href="http://www.csi.uottawa.ca/%7Edduchier/misc/vbush/awmt.html" target="_blank">"As 
+            We May Think,</a>" in 1945. In this paper he described a theoretical 
+            storage and retrieval device, called a "memex," which would use a 
+            system remarkably similar to what we now call hypertext. </font></p>
+          <p align="left"><font face="Georgia, Times New Roman, Times, serif"><b>ARPANET 
+            </b></font></p>
+          <p align="left"><font face="Georgia, Times New Roman, Times, serif">The 
+            Advanced Research Projects Agency was created by President Dwight 
+            Eisenhower after the Soviets launched the Sputnik satellite in October, 
+            1957. The Soviet launch caused a crisis in American confidence. ARPA 
+            was formed to ensure that America would not again be caught off guard 
+            on the technological frontier. In 1962, <a href="licklider.html">J.C.R. 
+            Licklid<img src="assets/ba3c61a683c04fe86cccbd385471549e.jpg" width="71" height="100" align="left" border="0" alt="J.C.R. Licklider">er</a> 
+            went to work for ARPA. Licklider, a psychologist and computer scientist, 
+            believed that computers could be used to augment human thinking and 
+            suggested that a computer network be established to allow ARPA research 
+            contractors to communicate information with each other efficiently. 
+            Licklider did not actually build his proposed network, but his idea 
+            lived on when he left ARPA in 1964. </font></p>
+          <p align="left"><font face="Georgia, Times New Roman, Times, serif">Bob 
+            Taylor, who was the director of ARPA's Information Processing Techniques 
+            Office (IPTO) from 1966-1969, wanted to find an effici<a href="roberts.html"><img src="assets/88562f4c1c38d6ec40a7472103aad900.jpg" width="64" height="83" align="right" border="0" alt="Larry Roberts"></a>ent 
+            way to allow various IPTO contractors to share computing resources. 
+            He picked up on Licklider's old idea of a network and hired <a href="roberts.html">Larry 
+            Roberts</a> to head the project. Roberts would be the main architect 
+            of a new computer network that would be known as the ARPANET. Thus 
+            the beginnings of the Internet were underway. </font></p>
+          <p align="left">&nbsp;</p>
+          <p align="left"><font face="Georgia, Times New Roman, Times, serif">The 
+            architecture of the ARPANET relied heavil<a href="baran.html"><img src="assets/9b63c1901230c528556918969605e7bb.jpg" width="70" height="84" align="left" border="0"></a>y 
+            on the ideas of <a href="baran.html">Paul Baran</a> who co-invented 
+            a new system known as packet-switching.( A British computer scientist, 
+            Donald Davies, independently came up with his own theories of packet-switching). 
+            Baran also suggested that the network be designed as a distributed 
+            network. This design, which included a high level of redundancy, would 
+            make the network more robust in the case of a nuclear attack. This 
+            is probably where the myth that the Internet was created as a communications 
+            network for the event of a nuclear war comes from. As a distributed 
+            network the ARPANET definitely was robust, and possibly could have 
+            withstood a nuclear attack, but the chief goal of its creators was 
+            to facilitate normal communications between researchers. </font></p>
+          <p align="left"><font face="Georgia, Times New Roman, Times, serif">The 
+            ARPANET connected large mainframe computers together via smaller gateway 
+            computers, or routers, known as Interface Message Processors (IMPs). 
+            On September 1, 1969, the first IMP arrived at UCLA. A month later 
+            the second one was installed at Stanford. The UC Santa Barbara and 
+            then the University of Utah. </font></p>
+          <p align="left"><font face="Georgia, Times New Roman, Times, serif"><b>A 
+            True Internet</b> </font></p>
+          <p align="left"><font face="Georgia, Times New Roman, Times, serif">The 
+            ARPANET continued to grow. Networking technology continued to <a href="metcalfe.html"><img src="assets/fc85bad0ca07c2822295afd874dcf948.jpg" width="80" height="91" align="left" border="0" alt="Bob Metcalfe"></a>develop 
+            as people like <a href="metcalfe.html">Bob Metcalfe</a>, who invented 
+            Ethernet, and <a href="engelbart.html">Douglas Engelbart</a>, inventor 
+            of the mouse among o<a href="engelbart.html"><img src="assets/1e1f153c894be921235e11b94e4d43f6.jpg" width="66" height="100" align="right" border="0" alt="Douglas Engelbart"></a>ther 
+            things, pushed the technology's envelope. Other computer networks, 
+            like Hawaii's ALOHANET and the satellite linked network SATNET, began 
+            to spring up. Soon the were many </font> <font face="Georgia, Times New Roman, Times, serif">different 
+            computer networks all over the world, but th<a href="cerf.html"><img src="assets/da8c355c09c51db7723fc9ae7900528e.jpg" width="67" height="101" align="left" border="0" alt="Vint Cerf"></a>ey 
+            could not communicate with one another because they used different 
+            protocols, or standards for transmitting data. Then in 1974, <a href="cerf.html">Vint 
+            Cerf</a> (known to some as the "father of the Internet"), along with 
+            Bob Kahn, wrote a new protocol, TCP (Transmission Control Protocol, 
+            that would become the accepted standard. The implementation of TCP 
+            allowed the various networks to connect into a true "internet." </font></p>
+          <p align="left"><font face="Georgia, Times New Roman, Times, serif">The 
+            Internet became widely popular in the computer and scientific research 
+            communities. By the 1980's most universities and research-oriented 
+            institutions had computers that were connected to the Internet. </font></p>
+          <p align="left"><font face="Georgia, Times New Roman, Times, serif"><b>The 
+            World Wide Web</b> </font></p>
+          <p align="left"><font face="Georgia, Times New Roman, Times, serif"><a href="nelson.html"><img src="assets/061f064d46c644bd10ac422c093bed80.gif" width="70" height="62" align="left" border="0"></a>In 
+            the 1970's, <a href="nelson.html">Ted Nelson</a> coined the term "hypertext," 
+            to describe a<a href="lee.html"><img src="assets/a7b342038bf7a4a232fcb5efafd3bb0e.jpg" width="67" height="96" align="right" border="0" alt="Tim Berners-Lee"></a> 
+            system for nonlinear linking of documents directly inspired by the 
+            works of Vannevar Bush. Using hypertext, <a href="lee.html">Tim Berners-Lee</a> 
+            created a new way of interacting with the Internet in 1990-the World 
+            Wide Web. His system made it much easier to share and find data on 
+            the Internet. The World Wide Web was further augm<a href="andreesen.html"><img src="assets/ac68de6acc6484c1035a147cfae2eecc.gif" width="70" height="80" align="left" border="0"></a>ented 
+            by others who created new software and technologies to make it more 
+            functional. For instance, <a href="andreesen.html">Marc Andreesen</a> 
+            created a new browser called Mosaic and then led the team that created 
+            Netscape navigator. </font></p>
+          <p align="left"><font face="Georgia, Times New Roman, Times, serif">The 
+            World Wide Web led to widespread popularity for the Internet. Today 
+            the web continues to grow and change in sometimes unpredictable ways. 
+            </font></p>
+          <p align="left">&nbsp;</p>
+          <p align="center"><font face="Georgia, Times New Roman, Times, serif" color="#FF3333" size="5">*</font><font face="Georgia, Times New Roman, Times, serif" color="#FF3333" size="4">New 
+            list of <a href="reading.html">suggested books</a> for further reading.<font size="5">*</font></font></p>
+          <p align="left">&nbsp;</p>
+          <p align="left"><a href="#top" onMouseOut="MM_swapImgRestore()" onMouseOver="MM_swapImage('document.Image18','document.Image18','images/pc2.gif','#955589164990')"><img name="Image18" border="0" src="assets/4d2533f5edf80c06da5d2bd6ae7b7e94.gif" width="77" height="77" align="right"></a></p>
+          <p align="left">&nbsp;</p>
+          <p align="left">&nbsp;</p>
+          <p align="left"><a href="mailto:s&#99;&#111;&#116;t&#64;&#98;&#109;&#100;&#49;&#46;co&#109;">Comments</a> 
+            <font face="Times New Roman, Times, serif">|</font> <a href="author.html">About 
+            the Author</a> <font face="Times New Roman, Times, serif">|</font> 
+            <a href="thanks.html">Acknowledgements</a> <font face="Times New Roman, Times, serif">|</font> 
+            <a href="credits.html">Photo Credits</a></p>
+          <p align="left">&nbsp;</p>
+          <p align="left">&nbsp;</p>
+          <p align="center"><!--NOEDIT--> </p>
+          <!--/NOEDIT--></blockquote>
+        <!--WEBBOT bot="HTMLMarkup" startspan ALT="Site Meter" --> 
+        <script type="text/javascript" language="JavaScript">var site="s16pioneers"</script>
+        <script type="text/javascript" language="JavaScript1.2" src="http://s16.sitemeter.com/js/counter.js?site=s16pioneers">
+</script>
+        <noscript> <a href="http://s16.sitemeter.com/stats.asp?site=s16pioneers" target="_top"> 
+        <img src="http://s16.sitemeter.com/meter.asp?site=s16pioneers" alt="Site Meter" border="0" width="32" height="32"/></a> 
+        </noscript> <!-- Copyright (c)2002 Site Meter --> <!--WEBBOT bot="HTMLMarkup" Endspan --> 
+      </td>
+
+    </tr>
+
+  </table>
+</div>
+
+
+
+
+<div style="position:fixed;top:0;left:0;width:100%;height:45px;z-index:2147483647;background-color:rgba(253,147,38,0.90) !important;color:black !important;text-align:right !important;font:normal 12px/45px Arial, sans-serif !important;border-radius:0 !important;margin:0 !important;max-width:100% !important;background-repeat: no-repeat !important;background-position: 15px center !important;
+background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHwAAAAYCAYAAAA4e5nyAAAKQWlDQ1BJQ0MgUHJvZmlsZQAASA2dlndUU9kWh8+9N73QEiIgJfQaegkg0jtIFQRRiUmAUAKGhCZ2RAVGFBEpVmRUwAFHhyJjRRQLg4Ji1wnyEFDGwVFEReXdjGsJ7601896a/cdZ39nnt9fZZ+9917oAUPyCBMJ0WAGANKFYFO7rwVwSE8vE9wIYEAEOWAHA4WZmBEf4RALU/L09mZmoSMaz9u4ugGS72yy/UCZz1v9/kSI3QyQGAApF1TY8fiYX5QKUU7PFGTL/BMr0lSkyhjEyFqEJoqwi48SvbPan5iu7yZiXJuShGlnOGbw0noy7UN6aJeGjjAShXJgl4GejfAdlvVRJmgDl9yjT0/icTAAwFJlfzOcmoWyJMkUUGe6J8gIACJTEObxyDov5OWieAHimZ+SKBIlJYqYR15hp5ejIZvrxs1P5YjErlMNN4Yh4TM/0tAyOMBeAr2+WRQElWW2ZaJHtrRzt7VnW5mj5v9nfHn5T/T3IevtV8Sbsz55BjJ5Z32zsrC+9FgD2JFqbHbO+lVUAtG0GQOXhrE/vIADyBQC03pzzHoZsXpLE4gwnC4vs7GxzAZ9rLivoN/ufgm/Kv4Y595nL7vtWO6YXP4EjSRUzZUXlpqemS0TMzAwOl89k/fcQ/+PAOWnNycMsnJ/AF/GF6FVR6JQJhIlou4U8gViQLmQKhH/V4X8YNicHGX6daxRodV8AfYU5ULhJB8hvPQBDIwMkbj96An3rWxAxCsi+vGitka9zjzJ6/uf6Hwtcim7hTEEiU+b2DI9kciWiLBmj34RswQISkAd0oAo0gS4wAixgDRyAM3AD3iAAhIBIEAOWAy5IAmlABLJBPtgACkEx2AF2g2pwANSBetAEToI2cAZcBFfADXALDIBHQAqGwUswAd6BaQiC8BAVokGqkBakD5lC1hAbWgh5Q0FQOBQDxUOJkBCSQPnQJqgYKoOqoUNQPfQjdBq6CF2D+qAH0CA0Bv0BfYQRmALTYQ3YALaA2bA7HAhHwsvgRHgVnAcXwNvhSrgWPg63whfhG/AALIVfwpMIQMgIA9FGWAgb8URCkFgkAREha5EipAKpRZqQDqQbuY1IkXHkAwaHoWGYGBbGGeOHWYzhYlZh1mJKMNWYY5hWTBfmNmYQM4H5gqVi1bGmWCesP3YJNhGbjS3EVmCPYFuwl7ED2GHsOxwOx8AZ4hxwfrgYXDJuNa4Etw/XjLuA68MN4SbxeLwq3hTvgg/Bc/BifCG+Cn8cfx7fjx/GvyeQCVoEa4IPIZYgJGwkVBAaCOcI/YQRwjRRgahPdCKGEHnEXGIpsY7YQbxJHCZOkxRJhiQXUiQpmbSBVElqIl0mPSa9IZPJOmRHchhZQF5PriSfIF8lD5I/UJQoJhRPShxFQtlOOUq5QHlAeUOlUg2obtRYqpi6nVpPvUR9Sn0vR5Mzl/OX48mtk6uRa5Xrl3slT5TXl3eXXy6fJ18hf0r+pvy4AlHBQMFTgaOwVqFG4bTCPYVJRZqilWKIYppiiWKD4jXFUSW8koGStxJPqUDpsNIlpSEaQtOledK4tE20Otpl2jAdRzek+9OT6cX0H+i99AllJWVb5SjlHOUa5bPKUgbCMGD4M1IZpYyTjLuMj/M05rnP48/bNq9pXv+8KZX5Km4qfJUilWaVAZWPqkxVb9UU1Z2qbapP1DBqJmphatlq+9Uuq43Pp893ns+dXzT/5PyH6rC6iXq4+mr1w+o96pMamhq+GhkaVRqXNMY1GZpumsma5ZrnNMe0aFoLtQRa5VrntV4wlZnuzFRmJbOLOaGtru2nLdE+pN2rPa1jqLNYZ6NOs84TXZIuWzdBt1y3U3dCT0svWC9fr1HvoT5Rn62fpL9Hv1t/ysDQINpgi0GbwaihiqG/YZ5ho+FjI6qRq9Eqo1qjO8Y4Y7ZxivE+41smsImdSZJJjclNU9jU3lRgus+0zwxr5mgmNKs1u8eisNxZWaxG1qA5wzzIfKN5m/krCz2LWIudFt0WXyztLFMt6ywfWSlZBVhttOqw+sPaxJprXWN9x4Zq42Ozzqbd5rWtqS3fdr/tfTuaXbDdFrtOu8/2DvYi+yb7MQc9h3iHvQ732HR2KLuEfdUR6+jhuM7xjOMHJ3snsdNJp9+dWc4pzg3OowsMF/AX1C0YctFx4bgccpEuZC6MX3hwodRV25XjWuv6zE3Xjed2xG3E3dg92f24+ysPSw+RR4vHlKeT5xrPC16Il69XkVevt5L3Yu9q76c+Oj6JPo0+E752vqt9L/hh/QL9dvrd89fw5/rX+08EOASsCegKpARGBFYHPgsyCRIFdQTDwQHBu4IfL9JfJFzUFgJC/EN2hTwJNQxdFfpzGC4sNKwm7Hm4VXh+eHcELWJFREPEu0iPyNLIR4uNFksWd0bJR8VF1UdNRXtFl0VLl1gsWbPkRoxajCCmPRYfGxV7JHZyqffS3UuH4+ziCuPuLjNclrPs2nK15anLz66QX8FZcSoeGx8d3xD/iRPCqeVMrvRfuXflBNeTu4f7kufGK+eN8V34ZfyRBJeEsoTRRJfEXYljSa5JFUnjAk9BteB1sl/ygeSplJCUoykzqdGpzWmEtPi000IlYYqwK10zPSe9L8M0ozBDuspp1e5VE6JA0ZFMKHNZZruYjv5M9UiMJJslg1kLs2qy3mdHZZ/KUcwR5vTkmuRuyx3J88n7fjVmNXd1Z752/ob8wTXuaw6thdauXNu5Tnddwbrh9b7rj20gbUjZ8MtGy41lG99uit7UUaBRsL5gaLPv5sZCuUJR4b0tzlsObMVsFWzt3WazrWrblyJe0fViy+KK4k8l3JLr31l9V/ndzPaE7b2l9qX7d+B2CHfc3em681iZYlle2dCu4F2t5czyovK3u1fsvlZhW3FgD2mPZI+0MqiyvUqvakfVp+qk6oEaj5rmvep7t+2d2sfb17/fbX/TAY0DxQc+HhQcvH/I91BrrUFtxWHc4azDz+ui6rq/Z39ff0TtSPGRz0eFR6XHwo911TvU1zeoN5Q2wo2SxrHjccdv/eD1Q3sTq+lQM6O5+AQ4ITnx4sf4H++eDDzZeYp9qukn/Z/2ttBailqh1tzWibakNml7THvf6YDTnR3OHS0/m/989Iz2mZqzymdLz5HOFZybOZ93fvJCxoXxi4kXhzpXdD66tOTSna6wrt7LgZevXvG5cqnbvfv8VZerZ645XTt9nX297Yb9jdYeu56WX+x+aem172296XCz/ZbjrY6+BX3n+l37L972un3ljv+dGwOLBvruLr57/17cPel93v3RB6kPXj/Mejj9aP1j7OOiJwpPKp6qP6391fjXZqm99Oyg12DPs4hnj4a4Qy//lfmvT8MFz6nPK0a0RupHrUfPjPmM3Xqx9MXwy4yX0+OFvyn+tveV0auffnf7vWdiycTwa9HrmT9K3qi+OfrW9m3nZOjk03dp76anit6rvj/2gf2h+2P0x5Hp7E/4T5WfjT93fAn88ngmbWbm3/eE8/syOll+AAAACXBIWXMAAC4jAAAuIwF4pT92AAACL2lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS40LjAiPgogICA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPgogICAgICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIgogICAgICAgICAgICB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iCiAgICAgICAgICAgIHhtbG5zOnRpZmY9Imh0dHA6Ly9ucy5hZG9iZS5jb20vdGlmZi8xLjAvIj4KICAgICAgICAgPHhtcDpDcmVhdG9yVG9vbD5BZG9iZSBJbWFnZVJlYWR5PC94bXA6Q3JlYXRvclRvb2w+CiAgICAgICAgIDx0aWZmOllSZXNvbHV0aW9uPjMwMDwvdGlmZjpZUmVzb2x1dGlvbj4KICAgICAgICAgPHRpZmY6T3JpZW50YXRpb24+MTwvdGlmZjpPcmllbnRhdGlvbj4KICAgICAgICAgPHRpZmY6WFJlc29sdXRpb24+MzAwPC90aWZmOlhSZXNvbHV0aW9uPgogICAgICA8L3JkZjpEZXNjcmlwdGlvbj4KICAgPC9yZGY6UkRGPgo8L3g6eG1wbWV0YT4KsBaN+QAADtFJREFUaAWdmQew3UUVh18qoSX0BAMISaQ6FOldpY1SRBSGamQYBDMKSFPRkSYzDNIE1KEJgqAIBpAiohJw6BB6kwChQ6ihJJCX5vedu+dm3333vjw8M+fu7jm/U/bs/vdf7oCurq4B8HxYWnfQoEET5s+fv/mAAQNWYfwpPIXxtfPmzfs1/XlwELh96OyLbj2wK9K+TjsZ2YVz5879ewPVNZC2aVNkC2sin8GDB28+Z86cxwF/DNc5Lsw+Y44D+CH81me0z1ijsfsEfq+NfWKGoxsJzxs6dOgwarAY/UHUYUZ3d/cL9GfAUubUGC34TT8jsR+JzVxaZa2E6/mDZ8+e/T6Klytl2q84ZMiQzyGPMfE/wdc0xu9W2J45DBw48GQWcX4nRv8wxsvDQ8Dc3AlX5BdVgdpNoFL36DaxxHsSX7sU7eAeqL4HgcX+BPiY/8N+kDbEvoRNt0MH+4gBZp8y349pZ5d+1tCxdXATSBa8lcIPcc4qtrNo57Xh7qKfWBykr8z1vKKfU9q5tJ/CU6jBEVXQgVmcs9gVTQW76WnGzwEcBm8GL8l4fYwn0Z8Nrw9LXr33we4mr4iNYekggg3iSj+Qfuy6kC78xwnMoQBbkcPa9MfDN8J5AtFdKAWWfDfCxxdA/wqeA/cnDws5F14V/i72d9FK2vYi9MOJ0wXvymn0BoChXGmDkK/Aibgd8mOo2Yb0N0RnrdrmAH4k/CS43bFfqmBpmuScvMLzim09NZdF/yr1/grtovgYhq+V6O9CDm6m3dDtyHhOF8X9KoLcldPp74Uid1DXsGHDVkN2V4UJLBN5CsduhiaB2Q3+oMLuXpSxsZrAzp3csb8vPjxSXTQpdI1ux99cmAHk5wkxnxw3Lej+5JAXwEnaUpszOtgOUU6Mw8HNpJtxC7zZrKkfcCcUSWsOMQZzLfy3plXfnTpW1kt7L7xexBy2MIfmXBj8VUHhnSsLFz0TXBb9OxXO3ey9SxJn4Ay+R4X7twDIJOtEQ9jyk5tseey7KdLxtG/A5xVc5tJi1mOYm8JNmhvv4n7aZ/wlif0y9takzr8OlAt+NJiPUOSxbY7mYLso7KY4DYxXZvqv6xBzQn8DfJ14aBE469napo8AFpy3nxvhu4vQ3PQr60t9HPl0R+ggr4C7uOxvUg8r99jwKNToXY6GK2iDOH4upOMx7pEvzmPQY2cgPiaif4i+tB48ClZXT5RhLzKuBfoOzRCOpBNLnEMZLwGbS+uEEfWgiMEEN0I6n5xPoN0bNoeF2Wf8/bEbReyTsFkXXhqOudG2kkVV5/wlW9lY3bDzuZ5mGdhblFTPQVtJP3lMp492bWLCiJ/aXryU8c0hZMznahVc5RsY3Kc76cX4bfzUjsOIBXgm9TiYWvo6TdImCo4+sS6Uk5X6WnB1PhtIE+BIkJgX0x9E0fZTAcWiNLptfzP+Zmjf5b56Iu0c7McXdCd77XIuh9G/mdieLMtxS1i92Ibv0s9Gf+3kqe8ih/ccUGzvs1I7vLLMLRcxwP380bbeSGkWvsjhbQVs4qUFvVO0nRYmExxecDadkkrs4gXrInofljrZqIvJUpRt2CxjWKAzFUIvwV4hRziA9JcxQtDyExuViXlqPV50l+PTTSR1srcO3u83BLsm7CuoRZrOibUJrdQurnPqVOzAM6eoK3PylUpqVwexXuWSuXTidjmkTTtd5rCcIOY1TccPOoC+DK8Du9M9qk1gaBkL3pl+EP3/lq72TljWRludbwW7o16mkaV2E21oyi/4I+EneRq9F1HcJ4l1BrwmhduiwGJz9DBsDJycp5F26+BnkmIW7Dc0q3DMf80x1M4+CsNVfTh2U7kiwhbsE8SOudBvl78ya2CdJGNbN9vwiT9Pp/d5L36CVqpPz4akYZP+3ZRi2nFi0i5bc8gNY1zn6DhkzGsP+rOY18Pe0A+A88nbq2I03IPYnT6NJuYxlDGZHqAyANd8CMTupCLOZNqZmKw0qsQ4uDFsLLh95M/DVxZ5J1+5kOvoB2xemdrfA99S7BNXhrFg9oeDmU3OeZp4/z0DnpJA2py3C6r+OGzyBKtgjS66b8E+pR9blK25Ry5gboXvAOPD3/LwUoV9fvBWICuPB0HapKgdtrfD96Swpd0QnTmc2pQj+I/CwtO5ms6gvxe8H3xNkaf+G03DxsPQ+uC3xeEP4McTS9+NEU+JtFmoyrTZjSKA/wW2s5Dm7UCbLKxPw+54CyDlJmmMGr/hB9x4eAYinx+CGMcHEgYrFVFtn/EngPOEsthBjPeEveIstpR2mdeP0VvM79N64Yynfwh8Av3b1FnLhmnYttYhF/xqsbAfXj6BPy48o4xtjfPT4is3Ti74begeQedJMxJelbhbwadrB7sZMne67G4MJhdlLmyvFswPA82RCfZ6+H04v+408eBeApdFar2iiotomgXAz9vwBUVpQdXlxOLqx++RRZ/yMowmZPi4ENyjRZGT9OvgB8hPLvJYMPrN+OieAnNZ0ecRPRaZi7Z9kWfcXPAj1cN+v/gI9lVQ9itX1uMB+t8u9jbNmPRzwW8g/nPE2Q7sNwvvTpvs9409wa+hAyh95IJfh954bph3S5vxLwSfeWc9uhYHdD+coLr1s97dJLODkWwZK6sxPfokPxXoGPFQXwuei7Sz/sB+MSwWTKgM41i/xaI0Bb0xUQQwD+PrkoLTf8Y4B/mbLfaRmw9rxqfN20CzQMjfxufPil1ulFzwuMLRjYbdJJ4qPst4So2iVptjnx+RzkEm5WLZzwW/BdzNCvpBtX0u+D/Mk3hn07oWvytzWaXyt2AdAEwqQMGvMMFjMd4J3hqDtSoj/1xxF8UCg3sGPh4+BKy3gWmpo30NO+89UnNnNYbN35zwP8HfX6T1hBTlgrnzvdryISoXRUzaLAHG4+9ghZALEzH4U2It7eF8eNM+fV/KHLwFSfqSs5gezTepgLJoueDewz9F7iJ3JDBfh42deWXuOX8X/IbiwNtg5tbattYxc5yU+ePnL/DLVTLmusAO5f5wLuDjKJv3sMooCgrOxAJL+2f0WeiE+uDjbgsMi3N6UeQEE2ebxRtb8H7wfwV+E/YLW7Lj18tYv3n1pn3TF7t6Y/ReqRuUQInJwvjwdmvRxaLRXxKZR/BBRZ65RsscTqGYrxedjXPOBf8Jdh8xzocp46mXjamPuD2AuwCOd3JkkpjID7l1nRjSBXUpwz6bnJcPbfcWpPOxTh7lUs4zBibk35ySBT+IR/jp9J3AbNhjVqf2x8Lbwr5uvQhuvF3YHenrkMl/yGvQnvh5iv5oMDvSau/DkBMUn+TYJ90DbfHpA4mymISyQtro+wNekbak3Rs+Gs7PlT7MaUPouRuBmclr3bOMpYynXtx58B/hleFXYOPvTzMP2z85hsQ1ibzuxedxCNIm8i4AscZImxyrTnlsHHz8AV8HuxnJz38e63mmvXa1f8f9IWN50khuQJ8ZrmGzXsGr2O30XXTXkEouOIZvD0HvHWaxvXdvDTauXIqUV66LXVOMwZ1fsG+iXKEA6gnmpAaD88Hv/NpJH/3F9Ev8wwomd28UFd3l6CymZIyMk7GHgvkIzEmB4If+FGQXlXH4Kf20WQn9PHjXChM4bI/VH/KsQ8Yr0GiifvTGgfWWtFNR6iPzvgHddUWe+DLss4kcsf0XfEdBRk0YXw3PQJanT2D9Wa4AXZx2lJPwHTHp1dLxyq4pxuzmj4tQ27SvcTEpEvLJcymurtOK0sJlIVpbE58JXwnngufJYesp4RWezwLGyCvcK0h/3egvhifQdxNvT38cC3euYyjxdf9V/L4Ce7pI9XzEW8Mopso2FHhiLa+OeJ2+uH2WhW4NY90zr5gDNT1AEDX21iuFfiATmdoYd40rrQZ18NgxHM+rFb1XxaqlX+N0GMHw+SX1tB67ed8KnXIojzBf8+6An4ct2izYxWvH3ciNfS5FG0sBt2CoTxdSGoF8DO09Mer9E/E54n6LalmO1k3I71D4GY7YfI3LvLRu+sbvI7Cfa6Ua49h5y1K22Te33AzeiuYS6wmVUF0Px3UtHfeHMp71ytPOxbf/KTn7zcRXOhe/IWdwMRxHNe14FEn1RCz0ExVuGqBlClDnTiwKD2aXCndpwdSTyf7qBbd7weTClWGvJidnLr4zX1UQcZyyAbbUH0/jaxd5xqkdhQzcdfjwKPdv2EMKoF38kIE5Buw74HLx4kGsyN2kIyofYpq5Kie3Hc0N/C8rXKj8QeeRfkvRWU991Ky/Xn6R5Xyux/5BxlLGjtyRnwu7uVYOLTs9nmwVwv6z9CMUw0PZMF4HeXw1KpjcHF5JYwsuGvS+fvjhITAuQtHXxY+dSJxTwVnETDDb2mVrP20PwdYrLQvtJvDz71vIMlY7f1GE3BzgvY2lDwvaSuGr4L2KxhVAbDJiHoWPD1uNythNsR76fJ65psJlbrkofji5vtL3txv5YXsV/EAxSt/N+ZDni+hzQ8QO9B06F9LW16C7AD5E2+O9m7GvNon9kP5E2D/YfZdOue1FJYFcAIeZxCJiKeSZBRMTL/2+mrT3fVv7UxLMeBJ870L8WYwoCHN7GvxlC8FnvBHGgw8u+HgQwoevZcqtiReFfCdyT8P3YHXWMu00T5/2c8G9wj0BHoUfoX8/fB/9yfDD8EPwC8z3LI2g9NG0V99Qxfxy0bOuaxT/P4/F4P58KwJ3+ubFaEnalbkHrEibC3afr1nc8y7A+TbIPw+709eCN4HHwEk38dCwLwOPEoPbStkfjW/fo85G9kFoFmDKsG2jHyc7ixx8kOqG4yENf8vB1zJ+Fn3GaefE+VjcaeDvZE4v9YHPvGeB/QSbKeCfK3if3I0zDPa0sbi2vj4+RR4+JR/PM8NR9B9CLrZdXuZinLexexF+jf4bMv1XC79E+wZ+HoEno6tJe+M+hs5a1DEyL78WajdKQwFBHO+bkuSlKD0C3J3T4dvh7yUmW2T7wX4DfovWyc+EH2A8ITG0uRMr0YJ4RdiMX4MW0q/9al/7qHWd3NT4ut8ffPrvj136czN0wneSp21r24qvx3W/tsuLtut/szhyWqonQDsAAAAASUVORK5CYII=);
+"><span style="padding-right:15px;">You are viewing a snapshot of <a style='font-weight:bold !important; color:white !important' href='http://www.ibiblio.org/pioneers/index.html'>http://www.ibiblio.org/pioneers/index.html</a> created on 2020/08/11</span></div></body>
+</html>

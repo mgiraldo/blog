@@ -1,0 +1,728 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head>
+  <title>Typies</title>
+
+  <script type="text/javascript">(function() { (function(){function b(g){this.t={};this.tick=function(h,m,f){var n=void 0!=f?f:(new Date).getTime();this.t[h]=[n,m];if(void 0==f)try{window.console.timeStamp("CSI/"+h)}catch(q){}};this.tick("start",null,g)}var a;if(window.performance)var e=(a=window.performance.timing)&&a.responseStart;var p=0<e?new b(e):new b;window.jstiming={Timer:b,load:p};if(a){var c=a.navigationStart;0<c&&e>=c&&(window.jstiming.srt=e-c)}if(a){var d=window.jstiming.load;0<c&&e>=c&&(d.tick("_wtsrt",void 0,c),d.tick("wtsrt_","_wtsrt",
+e),d.tick("tbsd_","wtsrt_"))}try{a=null,window.chrome&&window.chrome.csi&&(a=Math.floor(window.chrome.csi().pageT),d&&0<c&&(d.tick("_tbnd",void 0,window.chrome.csi().startE),d.tick("tbnd_","_tbnd",c))),null==a&&window.gtbExternal&&(a=window.gtbExternal.pageT()),null==a&&window.external&&(a=window.external.pageT,d&&0<c&&(d.tick("_tbnd",void 0,window.external.startE),d.tick("tbnd_","_tbnd",c))),a&&(window.jstiming.pt=a)}catch(g){}})();window.tickAboveFold=function(b){var a=0;if(b.offsetParent){do a+=b.offsetTop;while(b=b.offsetParent)}b=a;750>=b&&window.jstiming.load.tick("aft")};var k=!1;function l(){k||(k=!0,window.jstiming.load.tick("firstScrollTime"))}window.addEventListener?window.addEventListener("scroll",l,!1):window.attachEvent("onscroll",l);
+ })();</script><script type="text/javascript">function a(){var b=window.location.href,c=b.split("?");switch(c.length){case 1:return b+"?m=1";case 2:return 0<=c[1].search("(^|&)m=")?null:b+"&m=1";default:return null}}var d=navigator.userAgent;if(-1!=d.indexOf("Mobile")&&-1!=d.indexOf("WebKit")&&-1==d.indexOf("iPad")||-1!=d.indexOf("Opera Mini")||-1!=d.indexOf("IEMobile")){var e=a();e&&window.location.replace(e)};
+</script><meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="generator" content="Blogger" />
+<link rel="icon" type="image/vnd.microsoft.icon" href="https://www.blogger.com/favicon.ico"/>
+<link rel="alternate" type="application/atom+xml" title="Typies - Atom" href="http://typies.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="Typies - RSS" href="http://typies.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="Typies - Atom" href="https://www.blogger.com/feeds/36158191/posts/default" />
+<link rel="stylesheet" type="text/css" href="assets/7ed12fce2a58171726bdc9a80b2494e5.css"/>
+<link rel="stylesheet" type="text/css" href="assets/b78a9409a6ac50b1e2c0716a2de46730.css"/>
+
+
+  <style type="text/css">
+#b-navbar { height:0px; visibility:hidden; display:none }
+
+/*
+*/
+
+
+body {
+  background:#fff;
+  margin:0;
+  padding:40px 20px;
+  font:x-small Georgia,Serif;
+  text-align:center;
+  color:#333;
+  font-size/* */:/**/small;
+  font-size: /**/small;
+  }
+a:link {
+  color:#58a;
+  text-decoration:none;
+  }
+a:visited {
+  color:#969;
+  text-decoration:none;
+  }
+a:hover {
+  color:#c60;
+  text-decoration:underline;
+  }
+a img {
+  border-width:0;
+  }
+
+
+/* Header
+----------------------------------------------- */
+#blog-title {
+width:660px;
+height:150px;
+margin:auto;
+  padding-bottom:20px;
+   }
+ 
+
+/* Content
+----------------------------------------------- */
+@media all {
+  #content {
+    width:660px;
+    margin:0 auto;
+    padding:0;
+    text-align:left;
+    }
+  #main {
+    width:410px;
+    float:left;
+    }
+  #sidebar {
+    width:220px;
+    float:right;
+    }
+  }
+@media handheld {
+  #content {
+    width:90%;
+    }
+  #main {
+    width:100%;
+    float:none;
+    }
+  #sidebar {
+    width:100%;
+    float:none;
+    }
+  }
+
+/* Headings
+----------------------------------------------- */
+h2 {
+  margin:1.5em 0 .75em;
+  font:78%/1.4em "Trebuchet MS",Trebuchet,Arial,Verdana,Sans-serif;
+  text-transform:uppercase;
+  letter-spacing:.2em;
+  color:#999;
+  }
+
+
+/* Posts
+----------------------------------------------- */
+@media all {
+  .date-header {
+    margin:1.5em 0 .5em;
+    }
+  .post {
+    margin:.5em 0 1.5em;
+    border-bottom:1px dotted #ccc;
+    padding-bottom:1.5em;
+    }
+  }
+@media handheld {
+  .date-header {
+    padding:0 1.5em 0 1.5em;
+    }
+  .post {
+    padding:0 1.5em 0 1.5em;
+    }
+  }
+.post-title {
+  margin:.25em 0 0;
+  padding:0 0 4px;
+  font-size:140%;
+  font-weight:normal;
+  line-height:1.4em;
+  color:#c60;
+  }
+.post-title a, .post-title a:visited, .post-title strong {
+  display:block;
+  text-decoration:none;
+  color:#c60;
+  font-weight:normal;
+  }
+.post-title strong, .post-title a:hover {
+  color:#333;
+  }
+.post div {
+  margin:0 0 .75em;
+  line-height:1.6em;
+  }
+p.post-footer {
+  margin:-.25em 0 0;
+  color:#ccc;
+  }
+.post-footer em, .comment-link {
+  font:78%/1.4em "Trebuchet MS",Trebuchet,Arial,Verdana,Sans-serif;
+  text-transform:uppercase;
+  letter-spacing:.1em;
+  }
+.post-footer em {
+  font-style:normal;
+  color:#999;
+  margin-right:.6em;
+  }
+.comment-link {
+  margin-left:.6em;
+  }
+.post img {
+  padding:4px;
+  border:1px solid #ddd;
+  }
+.post blockquote {
+  margin:1em 20px;
+  }
+.post blockquote p {
+  margin:.75em 0;
+  }
+
+
+/* Comments
+----------------------------------------------- */
+#comments h4 {
+  margin:1em 0;
+  font:bold 78%/1.6em "Trebuchet MS",Trebuchet,Arial,Verdana,Sans-serif;
+  text-transform:uppercase;
+  letter-spacing:.2em;
+  color:#999;
+  }
+#comments h4 strong {
+  font-size:130%;
+  }
+#comments-block {
+  margin:1em 0 1.5em;
+  line-height:1.6em;
+  }
+#comments-block dt {
+  margin:.5em 0;
+  }
+#comments-block dd {
+  margin:.25em 0 0;
+  }
+#comments-block dd.comment-timestamp {
+  margin:-.25em 0 2em;
+  font:78%/1.4em "Trebuchet MS",Trebuchet,Arial,Verdana,Sans-serif;
+  text-transform:uppercase;
+  letter-spacing:.1em;
+  }
+#comments-block dd p {
+  margin:0 0 .75em;
+  }
+.deleted-comment {
+  font-style:italic;
+  color:gray;
+  }
+
+
+/* Sidebar Content
+----------------------------------------------- */
+#sidebar ul {
+  margin:0 0 1.5em;
+  padding:0 0 1.5em;
+  border-bottom:1px dotted #ccc;
+  list-style:none;
+  }
+#sidebar li {
+  margin:0;
+  padding:0 0 .25em 15px;
+  text-indent:-15px;
+  line-height:1.5em;
+  }
+#sidebar p {
+  color:#666;
+  line-height:1.5em;
+  }
+
+
+/* Profile
+----------------------------------------------- */
+#profile-container {
+  margin:0 0 1.5em;
+  border-bottom:1px dotted #ccc;
+  padding-bottom:1.5em;
+  }
+.profile-datablock {
+  margin:.5em 0 .5em;
+  }
+.profile-img {
+  display:inline;
+  }
+.profile-img img {
+  float:left;
+  padding:4px;
+  border:1px solid #ddd;
+
+  margin:0 8px 3px 0;
+  }
+.profile-data {
+  margin:0;
+  font:bold 78%/1.6em "Trebuchet MS",Trebuchet,Arial,Verdana,Sans-serif;
+  text-transform:uppercase;
+  letter-spacing:.1em;
+  }
+.profile-data strong {
+  display:none;
+  }
+.profile-textblock {
+  margin:0 0 .5em;
+  }
+.profile-link {
+  margin:0;
+  font:78%/1.4em "Trebuchet MS",Trebuchet,Arial,Verdana,Sans-serif;
+  text-transform:uppercase;
+  letter-spacing:.1em;
+  }
+
+
+/* Footer
+----------------------------------------------- */
+#footer {
+  width:660px;
+  clear:both;
+  margin:0 auto;
+  }
+#footer hr {
+  display:none;
+  }
+#footer p {
+  margin:0;
+  padding-top:15px;
+  font:78%/1.6em "Trebuchet MS",Trebuchet,Verdana,Sans-serif;
+  text-transform:uppercase;
+  letter-spacing:.1em;
+  }
+  </style>
+
+<!-- --><style type="text/css">@import url(assets/20edf590e95ef978d0639dbf1a4f3597.css);
+div.b-mobile {display:none;}
+</style>
+
+</head>
+
+<body><script type="text/javascript">
+    function setAttributeOnload(object, attribute, val) {
+      if(window.addEventListener) {
+        window.addEventListener('load',
+          function(){ object[attribute] = val; }, false);
+      } else {
+        window.attachEvent('onload', function(){ object[attribute] = val; });
+      }
+    }
+  </script>
+<div id="navbar-iframe-container"></div>
+<script type="text/javascript" src="assets/f01762a233ddeaa5f68236eaf27890ef.js"></script>
+<script type="text/javascript">
+      gapi.load("gapi.iframes:gapi.iframes.style.bubble", function() {
+        if (gapi.iframes && gapi.iframes.getContext) {
+          gapi.iframes.getContext().openChild({
+              url: 'https://www.blogger.com/navbar.g?targetBlogID\x3d36158191\x26blogName\x3dTypies\x26publishMode\x3dPUBLISH_MODE_BLOGSPOT\x26navbarType\x3dBLUE\x26layoutType\x3dCLASSIC\x26searchRoot\x3dhttps://typies.blogspot.com/search\x26blogLocale\x3den_US\x26v\x3d2\x26homepageUrl\x3dhttp://typies.blogspot.com/\x26vt\x3d5885015182089528501',
+              where: document.getElementById("navbar-iframe-container"),
+              id: "navbar-iframe"
+          });
+        }
+      });
+    </script>
+<div id="header">
+
+  <h1 id="blog-title">
+   
+	<a href="http://www.typies.blogspot.com/" title="Ir a la Portada"><img src="assets/7eaecef7eabbab16edb4b63ff45b4ad6.gif"660" height="150" alt="feliz" border="0" /></a>
+ </h1>
+</div>
+
+<!-- Begin #content -->
+<div id="content">
+
+
+<!-- Begin #main -->
+<div id="main"><div id="main2">
+
+
+
+    
+  <h2 class="date-header">Thursday, June 19, 2008</h2>
+  
+
+  
+     
+  <!-- Begin .post -->
+  <div class="post"><a name="8197911840663014726"></a>
+         
+    <h3 class="post-title">
+	 
+	 Comalle
+	 
+    </h3>
+    
+
+	         <div class="post-body">
+	<div>
+      <div style="clear:both;"></div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://4.bp.blogspot.com/_O7N-cZPEwJY/SFl0cxot6sI/AAAAAAAAAU0/z0qSZVb4C-A/s1600-h/8.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="assets/0b5ece518602de81cfc266bd04bedf0a.gif" alt="" id="BLOGGER_PHOTO_ID_5213326081367337666" border="0" /></a>Comalle is an organic roman typeface that recovers some elements proper of handwritten letter forms, even though its strokes do not necessarily refer to a literal calligraphic structure.<br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://4.bp.blogspot.com/_O7N-cZPEwJY/SFlzIrNKVgI/AAAAAAAAAT8/CQosNpZ-DqI/s1600-h/1.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="assets/7c5ca0901eb3d99b58f476655ffde0e7.gif" alt="" id="BLOGGER_PHOTO_ID_5213324636532135426" border="0" /></a>In order to produce a powerful impact on the page, Comalle has thicker strokes than its counter forms. This makes the black of the letter to fill the page thus causing a faster visual impact than other typefaces of similar black and white balance.<br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://4.bp.blogspot.com/_O7N-cZPEwJY/SFlzI8h1MTI/AAAAAAAAAUE/QXXx4wPT_OI/s1600-h/2.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="assets/3b076676843bd4a47aaa633439d9873d.gif" alt="" id="BLOGGER_PHOTO_ID_5213324641182232882" border="0" /></a>One of the most important challenges in the design of Comalle was precisely the balance of black and white areas in the typeface. Interestingly, that precision work would not produce the blacks, but the whites of the letter forms. This is why at first all the efforts were put in the generality rather than the details, but in the end the design of the counter space proved to be by far the major visual feature of the new typeface.<br /><br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://1.bp.blogspot.com/_O7N-cZPEwJY/SFlzJOyNcMI/AAAAAAAAAUM/ItKqm2Bejvo/s1600-h/3.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="assets/ec0b6266bdfbc4b9b4e1898a231e29d8.gif" alt="" id="BLOGGER_PHOTO_ID_5213324646082769090" border="0" /></a>Comalle was conceived at the careful draining and filling of letter forms and thus intends both to charm with its delicate counters and impact the reader with the heavy strokes that conform its unique personality. <p>More information in <a href="http://www.veer.com/products/typedetail.aspx?image=UMT0000327#about">Veer site</a><a href="http://www.veer.com/products/typedetail.aspx?image=UMT0000327#about" title="http://www.veer.com/products/typedetail.aspx?image=UMT0000327#about"></a></p> <p>Here, you can download the<a href="http://www.veer.com/download/pdf/comalle_specimen.pdf"> type specimen</a><a href="http://www.veer.com/download/pdf/comalle_specimen.pdf" title="http://www.veer.com/download/pdf/comalle_specimen.pdf"><br /></a></p> <p>Even more information (in spanish):<br /><a href="http://letritas.blogspot.com/" title="http://letritas.blogspot.com">http://letritas.blogspot.com</a></p><br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://1.bp.blogspot.com/_O7N-cZPEwJY/SFl0bhdPpQI/AAAAAAAAAUc/jlRlYWOd2yY/s1600-h/5.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="assets/5f8172105b432f0a06ea8e4daa39b2f1.gif" alt="" id="BLOGGER_PHOTO_ID_5213326059844379906" border="0" /></a><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://4.bp.blogspot.com/_O7N-cZPEwJY/SFl0cLhIeaI/AAAAAAAAAUk/xGIn12qsYcg/s1600-h/6.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="assets/cc473068ffd7f9b256021e4fb1e6de81.gif" alt="" id="BLOGGER_PHOTO_ID_5213326071134976418" border="0" /></a><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://3.bp.blogspot.com/_O7N-cZPEwJY/SFl0crmZ8SI/AAAAAAAAAUs/VWqzF7qHnw8/s1600-h/7.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="assets/80be788f78013b237feee30b96cf756b.gif" alt="" id="BLOGGER_PHOTO_ID_5213326079747027234" border="0" /></a><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://4.bp.blogspot.com/_O7N-cZPEwJY/SFl03vuOh4I/AAAAAAAAAU8/ub1ZBY6ucr4/s1600-h/portada.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="assets/ec013d800aac361f1f219a78006d5c81.gif" alt="" id="BLOGGER_PHOTO_ID_5213326544710043522" border="0" /></a><div style="clear:both; padding-bottom:0.25em"></div>
+    </div>
+    </div>
+    
+    <p class="post-footer">
+      <em>posted by Unknown at <a href="http://typies.blogspot.com/2008/06/comalle.html" title="permanent link">4:14 PM</a></em>
+      
+
+         <a class="comment-link" href="https://www.blogger.com/comment.g?blogID=36158191&amp;postID=8197911840663014726"location.href=https://www.blogger.com/comment.g?blogID=36158191&postID=8197911840663014726;>406 comments</a>
+
+      
+  <span class="item-control blog-admin pid-1970779903"><a style="border:none;" href="https://www.blogger.com/post-edit.g?blogID=36158191&postID=8197911840663014726&from=pencil" title="Edit Post"><img class="icon-action" alt="" src="assets/5fcf17bb6c5fcfdf72cbb7d9fa2d4751.gif" height="18" width="18"></a></span>
+    </p>
+  
+  </div>
+  <!-- End .post -->
+  
+  
+  
+  <!-- Begin #comments -->
+ 
+
+  <!-- End #comments -->
+
+
+
+    
+  <h2 class="date-header">Tuesday, October 23, 2007</h2>
+  
+
+  
+     
+  <!-- Begin .post -->
+  <div class="post"><a name="6008168616667671829"></a>
+         
+    <h3 class="post-title">
+	 
+	 The content of form
+	 
+    </h3>
+    
+
+	         <div class="post-body">
+	<div>
+      <div style="clear:both;"></div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://4.bp.blogspot.com/_O7N-cZPEwJY/RnD5jLpVy8I/AAAAAAAAADs/ShEsGwXtCIs/s1600-h/portada.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="assets/ad37f764505356ce2115fdc15d0c2178.gif" alt="" id="BLOGGER_PHOTO_ID_5075831162863471554" border="0" /></a><img src="file:///C:/DOCUME%7E1/JUANPA%7E1/CONFIG%7E1/Temp/moz-screenshot.jpg" alt="" /><img src="file:///C:/DOCUME%7E1/JUANPA%7E1/CONFIG%7E1/Temp/moz-screenshot-1.jpg" alt="" />I’ve been thinking lately about the complexity inherent to the process of abstraction, this in order to simplify the conceptualisation stage (of design). Interestingly, I’ve spent most of my time to study the basic shapes, this in order to focus on those meaningful details which give meaning to those qualities we live our daily lives with and —somehow— help define ourselves too.<br /><br /><br /><span style="font-weight: bold;">Personality</span><br />I started to design a little bit better (I think) the day I understood the basic principles of shape, and began to separate information from informer, attempting to give a separate and tangible value to that which doesn’t have a true one.<br />t is hard to understand, but I’ll try to explain myself with an easy example. Imagine your hands holding a ball. Close your eyes and feel it. Be able to feel its great peculiarity and then throw it away.<br />Take a pencil and draw the shape you were able feel. Very good, now, if that shape would have a sound, what would it be like?<br />Great! What we just did was taking a very simple visual shape, to two entirely different dimensions.<br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://2.bp.blogspot.com/_O7N-cZPEwJY/RnD5crpVy6I/AAAAAAAAADc/CCBx0Ev5UPI/s1600-h/1.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="assets/36ceff6b9ab4707e1dd35a946e93259d.gif" alt="" id="BLOGGER_PHOTO_ID_5075831051194321826" border="0" /></a>It’s a mere circle that took tactile and auditive shape. Now, you can give that circle velocity, temperature, hardness, harshness, size, etc. You can feel its taste or even imagine how it smells like.<br /><br />Then, understanding that the visual shape depends on factors that acquire agreggate values as we give them to it, is something very complicated. Thus, giving the circle one more feature, is a very complex process of abstraction.<br /><br /><span style="font-weight: bold;">One step further</span><br />When we were little children, the teacher told us the “a” sound matched the “a” shape. And that the “a” shape wasn’t related at all to the “a” sound. Just unlike we were used to, when we would see the shape of a horse and matched it to the real horse.<br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://4.bp.blogspot.com/_O7N-cZPEwJY/RnD5aLpVy5I/AAAAAAAAADU/xPxtZ-uYfwU/s1600-h/2.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="assets/4e339ad30111d2cc6541e2b375d6cb99.gif" alt="" id="BLOGGER_PHOTO_ID_5075831008244648850" border="0" /></a>The complex shape we’re dealing with is just a small part trying to depict, in a neutral way, the concept we have of a horse. This small part will work if (and only if) it goes along the rest of the letters in a given sequence.<br /><br /><span style="font-weight: bold;">The designer and the evolution of writing</span><br />Going back to our last topic and facing the high complexity levels inherent to the written speech, we’ll be able to understand that we, as designers, frequently feel forced to re-invent writing over and over, to give it new values beyond what is visible. We’ll give it —for the time being— the name of abstract expression.<br />This kind of expression is everything but new and responds to a creative way of matching tangible concepts to abstract ideas. A couple of years ago, a Chilean pianist named Valentín Trujillo, used to work with a graphic artist whose name is Iván Arenas (also known as proffessor Rossa). When the proffessor was drawing he asked his friend (the pianist) to play a song about “cockroaches playing the ball”, in order to give ambience to what he was drawing. Unexpectedly, the pianist surprised us all with a melody that exactly matched the proffessor’s request. Weird? I don’t know, may be. I just came to my mind not long ago when I was asked to design a fat, fluffy and sensual typeface.<a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://1.bp.blogspot.com/_O7N-cZPEwJY/RnD5XbpVy4I/AAAAAAAAADM/BbCbdK-maPM/s1600-h/3.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="assets/e4bdf7972655bb2a02c23af57a5855e9.gif" alt="" id="BLOGGER_PHOTO_ID_5075830961000008578" border="0" /></a>How could I explain my client, a designer too, that an “a” has a very well defined shape and that any modification made to it will affect directly its legibility? It sure may be fat, but sensual?<br /><br />Then the client-designer not only told me that I had the ability to give letterforms an added value, bot also that <span style="font-weight: bold;">I knew</span> how to do it. In other words, he meant that I could do with the shape what Valentín did with the piano. As soon as I got home I sat down, took paper and pencil and smiled surprised. Happy. Then I knew that typeface designers have to make their own palette of tricks on the run, and I felt kind of obliged to share a couple of secrets more about the shape, something <a href="http://letritas.blogspot.com/2007/05/el-secreto-del-tipgrafo.html">I did in a former article</a>.<br /><br /><br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://3.bp.blogspot.com/_O7N-cZPEwJY/RnD5f7pVy7I/AAAAAAAAADk/GvJofNan1kI/s1600-h/sensual.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="assets/fbb62b649ffb733fd39bc02afe4209aa.gif" alt="" id="BLOGGER_PHOTO_ID_5075831107028896690" border="0" /></a><span style="font-weight: bold;">Sensuality</span><br />At first, I attempted to look thoroughly for what defines the sensuality of a shape. However, it turned out much easier for me to understand those shapes that were NOT sensous in order to build the concept starting from that point.<br />Straight, hard, dry and broken lines mean to me something that is inert and dead, almost funerary. Therefore, all things opposite to square, would be sensous. The curve, the counter-curve, the course of sinous forms could all then be considered sensual. Interestingly, if a final definition of the sensual shape was determined, it wouldn’t be completely curve, but it would possess any element that would contradict it, instead. But not completely. Indeed, a curved tip could produce a break necessary so that not everything would be so “round”.<br /><br /><br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://1.bp.blogspot.com/_O7N-cZPEwJY/RnD5TbpVy3I/AAAAAAAAADE/WQP85HaxxTQ/s1600-h/4.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="assets/fe32412cb63f032b02f777fbdefbf8de.gif" alt="" id="BLOGGER_PHOTO_ID_5075830892280531826" border="0" /></a><span style="font-weight: bold;">Aggressiveness</span><br />A concept such as aggressiveness is not as complex as the former and could be understood as the “killing attempt to sensuality”. Tips and sharp and broken straight lines can be easily recongnized as very violent visual shapes. On the other hand, it is commonly assumed that curves can very hardly be considered as aggressive.<br /><br /><br /><br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://1.bp.blogspot.com/_O7N-cZPEwJY/RnD5QbpVy2I/AAAAAAAAAC8/UdhsXb0vHA4/s1600-h/5.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="assets/5dd79aee4f29d50c32a1f8c3980bc536.gif" alt="" id="BLOGGER_PHOTO_ID_5075830840740924258" border="0" /></a><span style="font-weight: bold;">Velocity</span><br /><br />This is another not-so-complex concept since the repetition of slanted shapes can easily give us the sensation of speed. The more slanted the form, the stronger the sensation. Should the slant of the outlines be proggressive, we could have acceleration, besides speed in our shape.<br /><br /><br /><br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://4.bp.blogspot.com/_O7N-cZPEwJY/RnD5NLpVy1I/AAAAAAAAAC0/JVJ4_8JUUFg/s1600-h/6.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="assets/023634730334e67a53396e074faa79b7.gif" alt="" id="BLOGGER_PHOTO_ID_5075830784906349394" border="0" /></a><span style="font-weight: bold;">Credibility</span><br />One of the concepts that directly influence on the credibility of shape is stability. It’s all about assuming that an equilateral triangle can be more believable than an obtuse one, that a circle can evoke more reliability than an ellipse, that an orthogonal line can be more rational than a slanted one, etc.<br />Thus we can understand that orthogonal shapes derivative from geometric regular or stable figures can produce more reliability and credibility.<br /><br /><br /><br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://2.bp.blogspot.com/_O7N-cZPEwJY/RnD5JrpVy0I/AAAAAAAAACs/AXm2_Vnwn78/s1600-h/7.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="assets/4b8e0890222bb79d365b51f3a6c25ea5.gif" alt="" id="BLOGGER_PHOTO_ID_5075830724776807234" border="0" /></a><span style="font-weight: bold;">Elegance</span><br />Slim, thin and fine shapes are generally linked to elegance, as thick and broad or strangely curved ones are considered common and mundane. Irregularly contoured shapes are considered dirty.<br /><br /><br /><br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://4.bp.blogspot.com/_O7N-cZPEwJY/RnD5GLpVyzI/AAAAAAAAACk/BiYqscejUQc/s1600-h/8.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="assets/81ed87beaf05b690ada479f227989fd5.gif" alt="" id="BLOGGER_PHOTO_ID_5075830664647265074" border="0" /></a><span style="font-weight: bold;">Disrespectfulness</span><br />This concept’s all about mixing languages in a random way or creating several simultaneous systems of formal correspondence, wich do not respond to a logic system.<br /><br /><br /><br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://1.bp.blogspot.com/_O7N-cZPEwJY/RnD5CbpVyyI/AAAAAAAAACc/4l2oaaKiJ0E/s1600-h/9.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="assets/58916a91cb9335dbdb98df0689b521d4.gif" alt="" id="BLOGGER_PHOTO_ID_5075830600222755618" border="0" /></a><span style="font-weight: bold;">The anarchist</span><br />Or the murder of shape, in this particular case. It’s about combining shapes derivative from a regular, altered, violated or contradicted geometry with shapes that don’t match the same language. Also superposing aggressive on elegant shapes in a heretic way, or creating hybrids uncapable to achieve a logic integration of opposite concepts.<br /><br /><br /><br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://1.bp.blogspot.com/_O7N-cZPEwJY/RnD49bpVyxI/AAAAAAAAACU/uLhifepK2Oc/s1600-h/10.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer;" src="assets/dbd37b3dc2a3af312ac2265166bb1c5a.gif" alt="" id="BLOGGER_PHOTO_ID_5075830514323409682" border="0" /></a><span style="font-weight: bold;">Tackiness</span><br />Elegance have such very well defined limits that when you exaggerate or ignore them in a cartoonish way, your shape starts to turn tacky and mannered.<br /><br /><br />It could be rather complicated to keep on trying to match untangible qualities to visual shapes. Perhaps we could review examples until the last page of the dictionary. Besides, many shapes could depict much more than a single concept. For instance, widths, proportions, colors, techniques, materials, etc, perform an important role at creating either certain ambiences or visual systems as in the case of alphabets, dingbats pictographic systems, etc.<br /><br /><br /><span style="font-size:85%;">Special thanks by the translation of this article to <a href="http://www.myfonts.com/foundry/cepuertas">Cesar Puertas</a>, the new member of typies.</span><div style="clear:both; padding-bottom:0.25em"></div>
+    </div>
+    </div>
+    
+    <p class="post-footer">
+      <em>posted by Unknown at <a href="http://typies.blogspot.com/2007/10/content-of-form.html" title="permanent link">7:52 PM</a></em>
+      
+
+         <a class="comment-link" href="https://www.blogger.com/comment.g?blogID=36158191&amp;postID=6008168616667671829"location.href=https://www.blogger.com/comment.g?blogID=36158191&postID=6008168616667671829;>389 comments</a>
+
+      
+  <span class="item-control blog-admin pid-1970779903"><a style="border:none;" href="https://www.blogger.com/post-edit.g?blogID=36158191&postID=6008168616667671829&from=pencil" title="Edit Post"><img class="icon-action" alt="" src="assets/5fcf17bb6c5fcfdf72cbb7d9fa2d4751.gif" height="18" width="18"></a></span>
+    </p>
+  
+  </div>
+  <!-- End .post -->
+  
+  
+  
+  <!-- Begin #comments -->
+ 
+
+  <!-- End #comments -->
+
+
+
+    
+  <h2 class="date-header">Thursday, January 25, 2007</h2>
+  
+
+  
+     
+  <!-- Begin .post -->
+  <div class="post"><a name="116978800047102594"></a>
+         
+    <h3 class="post-title">
+	 
+	 Signs and Pictograms
+	 
+    </h3>
+    
+
+	         <div class="post-body">
+	<div>
+      <div style="clear:both;"></div><span style="font-size:100%;"><a style="font-family: georgia;" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="assets/6ba505837f1f73f3a5aaa04e5c31d743.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 363px;" src="assets/6ba505837f1f73f3a5aaa04e5c31d743.gif" alt="" border="0" /></a></span><br /><span style="font-family:georgia;"></span><div  style="font-family:georgia;"><span style="font-size:100%;">Lately, many people have asked me about icons and pictograms. Then I realized how difficult it is for my students to be maintain consistency between the drawing and the concept behind it.<br />Usually, a pictogram works in 2 big areas: what <span style="font-weight: bold; font-style: italic;">it means</span> and how we <span style="font-style: italic; font-weight: bold;">represent it</span>. Those areas must always be in complete harmony, because any imbalance could alter the interpretation of the reader. Summing up, a bad sketching icon could ruin a good abstraction of a concept; and a bad abstraction will never transmit any concept at all, if we were to make a bad drawing. For the time being, we will talk just about the representation, the strength of typies…<br /><br /><br /><br /><br /></span></div><span style="font-size:100%;"><a style="font-family: georgia;" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="assets/94c376da9844364dd8a71aa4455c1c9c.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 290px;" src="assets/94c376da9844364dd8a71aa4455c1c9c.gif" alt="" border="0" /></a></span><span style="font-size:100%;">A universal mistake among the graphic designers is to think that there is only one way to design icons: the ‘ballheads’ that Otl Aicher proposed a long time ago…<br />‘Do it yourself’… take those designs, do small modifications of them and… wow!!! You have a new pictograms system!!!.... Noooooo!!!!! But… Is there any way to design ‘really new’ icons? Let’s talk about design: If we think of a concept for an icons system, we must be able to identify 3 dimensions: <span style="font-style: italic;">style, simplicity and technique.</span></span><div  style="font-family:georgia;"><span style="font-size:100%;">Let’s assume that we already created the abstraction of our concept and now we must think about ways of representing it (from now on, our concept will always be ‘woman’).<br /><br /><br /><br /><br /><br /></span></div><span style="font-size:100%;"><br /><br /><a style="font-family: georgia;" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="assets/544e057cf6c66b92ff86205cea5b1e90.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 337px;" src="assets/544e057cf6c66b92ff86205cea5b1e90.gif" alt="" border="0" /></a><a style="font-family: georgia;" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="assets/978cd84b64aff61fe0cad6e640e53a79.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 337px;" src="assets/978cd84b64aff61fe0cad6e640e53a79.gif" alt="" border="0" /></a></span><span style="font-weight: bold;font-family:georgia;" >1. The Style<br /></span><span style="font-family:georgia;">The style of the sign will show us how to solve it. We could design geometric and stiff icons, or maybe very complex pictograms. But at the moment of choosing the graphic style of our icon, it’s important to care about the system that we are going to use to print, cut or visualize this pictogram.<br />In the example, we could see two different solutions for the same abstraction (a frontal view of a woman with a skirt). The first solution is based on a grid, maybe pixels, that could suggest something related to technology. In the second one, the image of this woman is a more stylized silhouette. It captures coquetry. Here as well, the same silhouette is represented in two different ways.</span><div  style="font-family:georgia;"><span style="font-size:100%;"><br /><br /><br /><br /><br /><br /><br /><br /></span></div><span style="font-size:100%;"><a style="font-family: georgia;" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="assets/f15fcf1786f274cc2bb74a8f09511a9a.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 410px;" src="assets/f15fcf1786f274cc2bb74a8f09511a9a.gif" alt="" border="0" /></a></span>2. Simplicity<br />At which level of simplicity could we communicate a concept? There are 8 different icons for the same concept in the example (woman):<br />-In the first one- maximum simplicity. Just 3 rectangles and 1 circle.<br />-In the second icon, the thickness variation and the curved shoulders make the process of recognizing the concept easier.<br />-Third icon: in this pictogram we add a new element: the diagonal.<br />-Fourth: we tried to draw a more geometric shape and make it more real.<br />-In the fifth example, we left out the arms and we modified the position axis of the woman. A simple action gives us more information: she is a woman, she’s got a skirt (and not ‘any’ skirt’) and she’s also got personality.<br />-In the sixth one, we moved away from geometry and we gave physical characteristics to the pictogram. Now, our woman has waist thickness legs, more real.<br />-Seventh pictogram: look at our woman, now we can talk about her build, attitude, physical curves and also about what kind of dress she is wearing…<br />-Finally, the eighth one is almost a reality representation.<br /><div  style="font-family:georgia;"><span style="font-size:100%;"><br /><br /><br /><br /><br /><br /><br /><br /><br /></span></div><span style="font-size:100%;"><a style="font-family: georgia;" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="assets/dfb8a5c47b057f01466d541ed9029be1.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 410px;" src="assets/dfb8a5c47b057f01466d541ed9029be1.jpg" alt="" border="0" /></a></span><span style="font-weight: bold;font-family:georgia;" ><span style="font-style: italic;">3. Technique<br /></span></span><span style="font-family:georgia;">This is a very decisive factor at the moment of choosing a style. It’s not the same thing to design something that is going to be printed, and to design something for the web, cell phones, displays. There are a lot of systems… maybe we are going to paint or carve it… and we must take this point into account at the moment of making design decisions.<br />The technique can determine how many colors we can use, the thickness of the sketch or its simplicity. <span style="font-style: italic;">(Click over the images to see them in real size).</span></span><span style="font-size:100%;"><a style="font-family: georgia; font-style: italic;" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="assets/de1f8c084adfbe95ddf7dc288a24d713.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 145px;" src="assets/de1f8c084adfbe95ddf7dc288a24d713.gif" alt="" border="0" /></a><br /><br /><br /><br /><br /><br /></span><div style="clear:both; padding-bottom:0.25em"></div>
+    </div>
+    </div>
+    
+    <p class="post-footer">
+      <em>posted by Juan Pablo De Gregorio at <a href="http://typies.blogspot.com/2007/01/signs-and-pictograms.html" title="permanent link">8:58 PM</a></em>
+      
+
+         <a class="comment-link" href="https://www.blogger.com/comment.g?blogID=36158191&amp;postID=116978800047102594"location.href=https://www.blogger.com/comment.g?blogID=36158191&postID=116978800047102594;>379 comments</a>
+
+      
+  <span class="item-control blog-admin pid-1288071822"><a style="border:none;" href="https://www.blogger.com/post-edit.g?blogID=36158191&postID=116978800047102594&from=pencil" title="Edit Post"><img class="icon-action" alt="" src="assets/5fcf17bb6c5fcfdf72cbb7d9fa2d4751.gif" height="18" width="18"></a></span>
+    </p>
+  
+  </div>
+  <!-- End .post -->
+  
+  
+  
+  <!-- Begin #comments -->
+ 
+
+  <!-- End #comments -->
+
+
+
+    
+  <h2 class="date-header">Wednesday, December 06, 2006</h2>
+  
+
+  
+     
+  <!-- Begin .post -->
+  <div class="post"><a name="116547269136170063"></a>
+         
+    <h3 class="post-title">
+	 
+	 Romeral, a display typeface
+	 
+    </h3>
+    
+
+	         <div class="post-body">
+	<div>
+      <div style="clear:both;"></div><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="assets/8f52fc3ef528a55a9c805eeb77c47030.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px;" src="assets/8f52fc3ef528a55a9c805eeb77c47030.jpg" alt="" border="0" /></a>I’ve designed <span style="font-style: italic; font-weight: bold;">Romeral</span>, a display typeface, in the beginning of 2004 in order to accompany<a href="http://letritas.blogspot.com/2006/05/chcara-una-tipografa-econmica.html"> my text typefaces</a>.<br />Romeral is designed to produce a noticeable visual impact that invites the audience to the reading due to its sizable thickness.<br />Interestingly enough, the basic idea was to find a way to fill the color titles zone in order to create a comfortable atmosphere for the reading experience.<br />Nowadays, the complex typography of the typefaces makes it very hard for the designer to work with it comfortably. Romeral’s straight geometric form allows an amateur designer to modify its points without much difficulty The idea is to be able to easily design a personalized layout of the text.<br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="assets/b8c46d5b2e814adc4f69609a29bc5904.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px;" src="assets/b8c46d5b2e814adc4f69609a29bc5904.gif" alt="" border="0" /></a>The complementary "Inline" variation allows for alternative uses of the typeface. For example, it can be used as a base typeface.<br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://844198292897682319-a-1802744773732722657-s-sites.googlegroups.com/site/jpdegregorio/Home/romeral.zip?attachauth=ANoY7cqR96W9Gb2f7utpfY8UKUCrnTrAmUDBNGTlKvsdDjmNYcwNfW10uZmbAgy5OhS7btBS-59SUHQlBxza4X8zRsKL1zLdyKpL49A6PIIGSBAVGrZCmQ6A0BAKEAr4nJiQJM3HxmYeSISS5W1ZZT7Qj0pTTqnFMAxWUf-Tq9ONpy48luWASj2tbGjldJC-MfdH_C8b0OX2gSMawf1Z0YQ6cxDiauWzRw%3D%3D&amp;attredirects=0&amp;d=1"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 200px; height: 53px;" src="assets/57751bc3f869fa5ab83008f40f31b90c.gif" alt="" id="BLOGGER_PHOTO_ID_5358393070177811890" border="0" /></a><br />I thank you in advance for your attention and support of the  blog.<div style="clear:both; padding-bottom:0.25em"></div>
+    </div>
+    </div>
+    
+    <p class="post-footer">
+      <em>posted by Juan Pablo De Gregorio at <a href="http://typies.blogspot.com/2006/12/romeral-display-typeface.html" title="permanent link">10:19 PM</a></em>
+      
+
+         <a class="comment-link" href="https://www.blogger.com/comment.g?blogID=36158191&amp;postID=116547269136170063"location.href=https://www.blogger.com/comment.g?blogID=36158191&postID=116547269136170063;>2842 comments</a>
+
+      
+  <span class="item-control blog-admin pid-1288071822"><a style="border:none;" href="https://www.blogger.com/post-edit.g?blogID=36158191&postID=116547269136170063&from=pencil" title="Edit Post"><img class="icon-action" alt="" src="assets/5fcf17bb6c5fcfdf72cbb7d9fa2d4751.gif" height="18" width="18"></a></span>
+    </p>
+  
+  </div>
+  <!-- End .post -->
+  
+  
+  
+  <!-- Begin #comments -->
+ 
+
+  <!-- End #comments -->
+
+
+
+    
+  <h2 class="date-header">Thursday, November 30, 2006</h2>
+  
+
+  
+     
+  <!-- Begin .post -->
+  <div class="post"><a name="116496095995249995"></a>
+         
+    <h3 class="post-title">
+	 
+	 15 tips to choose a good text type
+	 
+    </h3>
+    
+
+	         <div class="post-body">
+	<div>
+      <div style="clear:both;"></div><span style="font-size:100%;"><a style="font-family: georgia;" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="assets/c4a6e1d6c3ab96f17eb77d8673b65475.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px;" src="assets/c4a6e1d6c3ab96f17eb77d8673b65475.gif" alt="" border="0" /> </a></span><font><font>Many people have asked me which text type is best for a magazine, a newspaper, a poster, a newsletter, a publication, etc. In general, I tell them which to use, but I know that this is not the best answer, because they won't learn to do this by themselves.<br />Today, I want to take time to analyze how to choose correct text typography design in different cases. It is very important to understand that these tips are not final word, but they can be good help at the moment of choosing a text type. In any case, it depends on what do you want to convey with this type, because many times legibility is as important as the character of the type. Try to be very careful and take in account the following points:<br /><br /><br /><br /><br /><span style="font-size:100%;"><a style="font-family: georgia;" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="assets/2e2419b854051b49be3aa998e253af15.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px;" src="assets/2e2419b854051b49be3aa998e253af15.gif" alt="" border="0" /></a></span><font><font><span style="font-weight: bold; font-style: italic;">1. The Letterform<br /></span><font>The ‘ductus’ represents the framework of a type. It is very important. For legible text we need typographies with a simple ductus without complex details. Those details distract from the reading process and we need the reader to pay attention to the content and not the text.<br /><br /><br /><br /><br /><span style="font-size:100%;"><a style="font-family: georgia;" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="assets/0df35fa607c0ea26cb3052707e8d9987.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px;" src="assets/0df35fa607c0ea26cb3052707e8d9987.gif" alt="" border="0" /></a></span><span style="font-style: italic; font-weight: bold;"><font>2. The Weight<br /></span></span><font><font><font>When we discuss the ‘weight’ of a type, we refer to a consistent relationship between the characters themselves, and the light of the page that flows around them. If you use a light version of a type for a lot of text, reading of this text will probably become tiring and nobody will want to read it.<font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><br /><br /><br /><br /><span style="font-size:100%;"><a style="font-family: georgia;" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="assets/a4474a784fef8cf9e060a57f81ac326a.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px;" src="assets/a4474a784fef8cf9e060a57f81ac326a.gif" alt="" border="0" /></a></span><font><font><span style="font-weight: bold; font-style: italic;">3. The Contrast<br /></span><font>The contrast refers to the thickness difference between vertical and horizontal strokes. The difference between the thicker and the thinner part of the character. Bodoni and Didot are very contrasted type designs. Try to read the photocopy of a photocopy of a photocopy of text layed out in Bodoni. You will probably see only vertical strokes. Good type design should be able to resist a lot of copies. It must be strong, solid, but not coarse.<font><font><br /><br /><br /><br /><br /><span style="font-size:100%;"><a style="font-family: georgia;" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="assets/0c9bfd67f8c1e6f21dfb138387cd5d3e.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px;" src="assets/0c9bfd67f8c1e6f21dfb138387cd5d3e.gif" alt="" border="0" /></a></span><font><font><span style="font-weight: bold; font-style: italic;">4. The axis</span><br />In my view, the axis of a type design could affect reading. Vertical strokes prevail in a text type and if the axis is diagonal, the eye will have trouble following that line of text.  If the type uses more than one axis, a line of text will appear as if dancing which makes is harder to read.  If we use an orthogonal axis, the characters can't dance.<br /><br /><br /><br /><br /></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><h3  style="font-family:georgia;"><span style="font-size:100%;"><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="assets/6fa50f5427696a3f82196d295b219ceb.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px;" src="assets/6fa50f5427696a3f82196d295b219ceb.gif" alt="" border="0" /></a></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></h3><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font>5. x height</span><br />The area between baseline and x height contains most of the readable information (75% of the lower case letters). It is a very important area at the moment of reading text. Long ascenders and descenders require a small x hight. If we compare two types of designs, one with long ascenders and the other with short ascenders, we can see that the x height of the second one will be larger, so it will obviously be more legible.  Look up for the difference between Times New Roman and Mrs. Eaves.<br /><br /><br /><br /></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><h3  style="font-family:georgia;"><span style="font-size:85%;"><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://static.flickr.com/49/134612195_279361ac95_o.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px;" src="http://static.flickr.com/49/134612195_279361ac95_o.gif" alt="" border="0" /></a></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></h3><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font>6. Capital letters height</span><br />Older typefaces designs consider the same height for the ascenders and the capital letters. In any cases capitals are bigger… But the appearance of a word in upper case between lower caps is usually ugly. When I write the word ‘Garamond’ I feel the ‘G’ as a dinosaur and the ‘a’ as its prey…<br /><br /><br /></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><h3  style="font-family:georgia;"><span style="font-size:85%;"><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://static.flickr.com/46/134612588_6e191bcf33_o.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px;" src="http://static.flickr.com/46/134612588_6e191bcf33_o.gif" alt="" border="0" /></a></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></h3><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><span style="font-style: italic; font-weight: bold;">7. Endings and details</span><br />When we use a font in a big size (for example in a poster), we enlarge everything. All the small details of the type design become evident, as well as the mistakes. A lot of typographies are badly drawn. As designers, we should not accept this.<br /><br /><br /><br /></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><h3  style="font-family:georgia;"><span style="font-size:85%;"><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://static.flickr.com/53/134612589_06b78c2206_o.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px;" src="http://static.flickr.com/53/134612589_06b78c2206_o.gif" alt="" border="0" /></a></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></h3><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font> <font><font><span style="font-style: italic; font-weight: bold;">8. Text and texture</span><font><font><br />A block of text looks like a texture from a distance. This texture must be uniform, without thicker characters or spots that could attract the attention.<br /><br /><br /><br /></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><h3  style="font-family:georgia;"><span style="font-size:85%;"><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://static.flickr.com/53/134612590_e70d78b05d_o.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px;" src="http://static.flickr.com/53/134612590_e70d78b05d_o.gif" alt="" border="0" /></a></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></h3><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font>9. Degree of the Counter Opening</span><br />In many type designs, the counters are too closed. It could cause legibility problems, because somebody could read 'o' instead of an 'c'. So, if the internal counter is too opened (as in Frutiger), it will start to mingle with the external counter, generating a lot of white (and it looks ugly).<br /><br /><br /><br /><br /></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><h3  style="font-family:georgia;"><span style="font-size:85%;"><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://static.flickr.com/51/134612591_d9ce82b310_o.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px;" src="http://static.flickr.com/51/134612591_d9ce82b310_o.gif" alt="" border="0" /></a></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></h3><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><span style="font-style: italic; font-weight: bold;">10. The Fish Effect<br /></span><font>This effect becomes evident when the internal counter is bigger than the space between characters. It looks very strange where round and straight characters join.<br /><br /><br /><br /></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><h3  style="font-family:georgia;"><span style="font-size:85%;"><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://static.flickr.com/47/134612592_bf257e03f0_o.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px;" src="http://static.flickr.com/47/134612592_bf257e03f0_o.gif" alt="" border="0" /></a></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></h3><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><span style="font-weight: bold; font-style: italic;">11. External counter</span><br />There are small details that make a text type design more legible. A carefully designed external counter leads to better text understanding. Think about the connection between the vertical stroke of the ‘n’ and its curve, or the difference between ‘rn’ and ‘m’.<br /><br /><br /><br /></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><h3  style="font-family:georgia;"><span style="font-size:85%;"><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://static.flickr.com/45/134612593_8e96030dc6_o.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px;" src="http://static.flickr.com/45/134612593_8e96030dc6_o.gif" alt="" border="0" /></a></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></h3><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><font><span style="font-weight: bold; font-style: italic;">12. Internal counter</span><br />A small eye in an ‘a’ or an ‘e’ character will probably disappear, especially in small type sizes. These are the most used characters in most of the languages, that is why this becomes a very big problem.<br /><br /><br /><br /><br /><span style="font-size:100%;"><a style="font-family: georgia;" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://static.flickr.com/45/134612869_a3017db8e1_o.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px;" src="http://static.flickr.com/45/134612869_a3017db8e1_o.gif" alt="" border="0" /></a></span><font><font><span style="font-weight: bold; font-style: italic;">13. Is the set complete?</span><br />How many times do we note that the font we are using lacks a character? It always happens when our design is almost finished. Terrible! We must change the type and check out the complete text again. Many type designers don't design some characters such as ñ, written accents, tildes, points, commas or numbers… It is better to check the font out before using it.<br /><br /><br /><br /><br /><span style="font-size:100%;"><a style="font-family: georgia;" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://static.flickr.com/46/134612870_6f683d6d81_o.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px;" src="http://static.flickr.com/46/134612870_6f683d6d81_o.gif" alt="" border="0" /></a></span><font><font><span style="font-weight: bold; font-style: italic;">14. The family</span><br />It is important to verify that the type family is plentiful, with variations in weight, black, whites and italics… Check out that the italic is as legible as the regular version. Sometimes they have a lot of rococo details.<br /><br /><br /><br /><font><font><font><font><br /><span style="font-size:100%;"><a style="font-family: georgia;" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://static.flickr.com/55/134612871_dd482da6a2_o.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 400px;" src="http://static.flickr.com/55/134612871_dd482da6a2_o.gif" alt="" border="0" /></a></span><font><font><span style="font-weight: bold; font-style: italic;">15. Letter spacing</span><br />There are fonts with bad or non-existent letter spacing and obviously, they don't work well. A good designer will try to correct the letter spacing that he (she) considers bad, but it is too much work when all the spacing looks bad… There are software packages that can help, but it is not the same as good typographer work. Try to use fonts with correct letter spacing and metrics…<br /><br /><br /><br /><br /><br /><br /><br /><br /></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><div style="clear:both; padding-bottom:0.25em"></div>
+    </div>
+    </div>
+    
+    <p class="post-footer">
+      <em>posted by Juan Pablo De Gregorio at <a href="http://typies.blogspot.com/2006/11/15-tips-to-choose-good-text-type.html" title="permanent link">11:59 PM</a></em>
+      
+
+         <a class="comment-link" href="https://www.blogger.com/comment.g?blogID=36158191&amp;postID=116496095995249995"location.href=https://www.blogger.com/comment.g?blogID=36158191&postID=116496095995249995;>685 comments</a>
+
+      
+  <span class="item-control blog-admin pid-1288071822"><a style="border:none;" href="https://www.blogger.com/post-edit.g?blogID=36158191&postID=116496095995249995&from=pencil" title="Edit Post"><img class="icon-action" alt="" src="assets/5fcf17bb6c5fcfdf72cbb7d9fa2d4751.gif" height="18" width="18"></a></span>
+    </p>
+  
+  </div>
+  <!-- End .post -->
+  
+  
+  
+  <!-- Begin #comments -->
+ 
+
+  <!-- End #comments -->
+
+
+
+    
+  <h2 class="date-header">Thursday, November 02, 2006</h2>
+  
+
+  
+     
+  <!-- Begin .post -->
+  <div class="post"><a name="116247357383573943"></a>
+         
+    <h3 class="post-title">
+	 
+	 Vector drawing mistakes
+	 
+    </h3>
+    
+
+	         <div class="post-body">
+	<div>
+      <div style="clear:both;"></div><a style="font-family: georgia;" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://static.flickr.com/71/203663458_c9561f90c7_o.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 410px;" src="http://static.flickr.com/71/203663458_c9561f90c7_o.gif" alt="" border="0" /></a><br /><span style="font-family:georgia;">Some time ago, I wrote an article about vector drawing. A basic explanation, but very helpful.</span><br /><span style="font-family:georgia;">A few hours ago I was looking through some files on my computer and I found a lot of archives that I compiled during my student days in order to help my friends with their vector drawing works.</span><br /><span style="font-family:georgia;">Vector drawing is a  kind of art… In order to understand vectors, I can propose the following analogy, “Paths are like ropes- we must tug on them, if we want them to take shape. Curiously, most of the vector drawing mistakes stem from the ignorance of this concept. Some people use the point handles like the steering wheel of their cars: it doesn’t matter how the car turns around, the aim is to simply turn the car.</span><br /><span style="font-family:georgia;">Thus, it is very common to find the following vector drawing mistakes </span><span style="font-style: italic;font-family:georgia;" >(you can click on the images to see them in real size).</span><br /><br /><br /><br /><br /><br /><a style="font-family: georgia;" onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://static.flickr.com/71/203663459_6af5d3f9f1_o.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 410px;" src="http://static.flickr.com/71/203663459_6af5d3f9f1_o.gif" alt="" border="0" /></a><span style="font-weight: bold;font-family:georgia;" >1. Extra points<br /></span><span style="font-family:georgia;">Few will notice the changes when  we place extra points in a straight path segment (in a line). The new line may be a little mucky :it is not perfect, and we know that.<br />It is more complicated if we place an extra point in a curved path:<br />we will probably notice a little bump in the place of the curve where the point is. This is one of the most common vector drawing mistakes: we forget to take the extra points off from the curved paths. Often,  these points  are waste of a ‘remove overlap’ action. In any case, the result is the same: we get bad resolution.<br /><br /><br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://static.flickr.com/59/203663460_cfa756fd7a_o.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 410px;" src="http://static.flickr.com/59/203663460_cfa756fd7a_o.gif" alt="" border="0" /></a><span style="font-weight: bold;">2. Misplaced point<br /></span><font>If you are making a path and using your handles in 90º or 180º (orthogonal), make sure where you place the points. A misplaced point generally makes dirty curves.<br /><br /><br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://static.flickr.com/58/203663462_c3e9e6014e_o.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 410px;" src="http://static.flickr.com/58/203663462_c3e9e6014e_o.gif" alt="" border="0" /></a><span style="font-weight: bold;">3. Imbalanced point<br /></span><font>Maybe the most frequent mistake… if your points are perfectly placed in the extremes of the curves and the handles are in orthogonal position, then why do you still see a dirty curve??? This occurs because of an imbalanced point: In a curve, the points on the right side must be like a mirror of the points on the left side… You must place them at the extremes of the curve, but THOSE EXTREMES must be in the right place of the path.<br /><br /><br /><br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://static.flickr.com/61/203663464_6f6048c53d_o.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 410px;" src="http://static.flickr.com/61/203663464_6f6048c53d_o.gif" alt="" border="0" /></a><br /><span style="font-weight: bold;">4. Wrong point selection<br /></span><font>Corner point, connector point, curve point… we already talked about them in the last post (‘Vector drawing’). It’s very important to choose the correct kind of point when you are drawing a path… Bad selection point=bad resolution.<br /><br /><br /><br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://static.flickr.com/72/203663465_ece4fe90d1_o.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 410px;" src="http://static.flickr.com/72/203663465_ece4fe90d1_o.gif" alt="" border="0" /></a><span style="font-weight: bold;">5. Imbalanced handles<br /></span><font>Handles must be in orthogonal position, but you must be careful about how long those handles are… If the line is a rope, the point is the tightrope walker and the handles are the stick. An imbalanced stick could make you fall down!<br /><br /><br /><br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://static.flickr.com/62/203663808_fe783097dc_o.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 410px;" src="http://static.flickr.com/62/203663808_fe783097dc_o.gif" alt="" border="0" /></a><br /><span style="font-weight: bold;">6. The handles are not in orthogonal position<br /></span><font>Try to use the handles orthogonally, you will note that it will be easier to draw your paths and those paths will become perfect (or “better”).<br /><br /><br /><br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://static.flickr.com/72/203663809_2a2f8c9295_o.gif"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 410px;" src="http://static.flickr.com/72/203663809_2a2f8c9295_o.gif" alt="" border="0" /></a><span style="font-weight: bold;">7. Extra handles<br /></span><font>If you have a terminal curve point, take the handles off. They are not necessary and you will note that the curve looks cleaner.<br /><br /><span style="font-weight: bold;">8. (Bonus track) Working with arcs<br /></span><font>If you are not sure about the correct position of the handles, use the arc tool of your vector drawing program, this tool make perfect curves and it is very helpful.<br /><br /><br /><a onblur="try {parent.deselectBloggerImageGracefully();} catch(e) {}" href="http://static.flickr.com/71/203663811_14ccfaceba_b.jpg"><img style="margin: 0px auto 10px; display: block; text-align: center; cursor: pointer; width: 410px;" src="http://static.flickr.com/71/203663811_14ccfaceba_b.jpg" alt="" border="0" /></a></span></span></span></span></span></span></span></span><font><font><font><font><font><font><font><br /><br /><br /></span></span></span></span></span></span></span><div style="text-align: center;"><span style="font-style: italic;font-size:85%;" ><span style="font-family:georgia;"><span style="color: rgb(153, 153, 153);"><font><font><font><font><font><font><font>Special thanks to our friend Konstantin Shishkin, for all of his help</span></span></span></span></span></span></span></span><font><font><font><font><font><font><font><br /><br /><br /><br /><br /><br /></span></span></span></span></span></span></span></span></span></div><span style="font-family:georgia;"><font><font><font><font><font><font><font><font><font><font><font><font><font><font><br /><br /></span></span></span></span></span></span></span></span></span></span></span></span></span></span></span><div style="clear:both; padding-bottom:0.25em"></div>
+    </div>
+    </div>
+    
+    <p class="post-footer">
+      <em>posted by Juan Pablo De Gregorio at <a href="http://typies.blogspot.com/2006/11/vector-drawing-mistakes.html" title="permanent link">5:11 AM</a></em>
+      
+
+         <a class="comment-link" href="https://www.blogger.com/comment.g?blogID=36158191&amp;postID=116247357383573943"location.href=https://www.blogger.com/comment.g?blogID=36158191&postID=116247357383573943;>763 comments</a>
+
+      
+  <span class="item-control blog-admin pid-1288071822"><a style="border:none;" href="https://www.blogger.com/post-edit.g?blogID=36158191&postID=116247357383573943&from=pencil" title="Edit Post"><img class="icon-action" alt="" src="assets/5fcf17bb6c5fcfdf72cbb7d9fa2d4751.gif" height="18" width="18"></a></span>
+    </p>
+  
+  </div>
+  <!-- End .post -->
+  
+  
+  
+  <!-- Begin #comments -->
+ 
+
+  <!-- End #comments -->
+
+
+</div></div>
+<!-- End #main -->
+
+
+
+
+
+
+
+<!-- Begin #sidebar -->
+<div id="sidebar"><div id="sidebar2">
+  
+  
+  <!-- Begin #profile-container -->
+
+   <div id='profile-container'>
+<h2 class='sidebar-title'>Contributors</h2>
+<ul class='profile-datablock'>
+<li class='profile-link'><a rel='author' href='https://www.blogger.com/profile/15031875415582303528'>Unknown</a></li>
+<li class='profile-link'><a rel='author' href='https://www.blogger.com/profile/01710226935433005065'>francisca reyes</a></li>
+</ul>
+</div>
+
+   
+  <!-- End #profile -->
+    
+        
+  <h2 class="sidebar-title">Links</h2>
+    <ul>
+    	<li><a href="http://garabatitos.blogspot.com">GARABATITOS</a></li>
+    	<li><a href="http://letritas.blogspot.com">LETRITAS</a></li>
+  </ul>
+  
+
+  
+  <h2 class="sidebar-title">Previous Posts</h2>
+    <ul id="recently">
+    
+        <li><a href="http://typies.blogspot.com/2008/06/comalle.html">Comalle</a></li>
+     
+        <li><a href="http://typies.blogspot.com/2007/10/content-of-form.html">The content of form</a></li>
+     
+        <li><a href="http://typies.blogspot.com/2007/01/signs-and-pictograms.html">Signs and Pictograms</a></li>
+     
+        <li><a href="http://typies.blogspot.com/2006/12/romeral-display-typeface.html">Romeral, a display typeface</a></li>
+     
+        <li><a href="http://typies.blogspot.com/2006/11/15-tips-to-choose-good-text-type.html">15 tips to choose a good text type</a></li>
+     
+        <li><a href="http://typies.blogspot.com/2006/11/vector-drawing-mistakes.html">Vector drawing mistakes</a></li>
+     
+        <li><a href="http://typies.blogspot.com/2006/10/vector-drawing.html">Vector drawing</a></li>
+     
+        <li><a href="http://typies.blogspot.com/2006/10/welcome.html">Welcome</a></li>
+     
+  </ul>
+    <MainOrArchivePage>
+
+  <h2 class="sidebar-title">Archives</h2>
+    <ul class="archive-list">
+   	  
+    	<li><a href="http://typies.blogspot.com/2006/10/">October 2006</a></li>
+	  
+    	<li><a href="http://typies.blogspot.com/2006/11/">November 2006</a></li>
+	  
+    	<li><a href="http://typies.blogspot.com/2006/12/">December 2006</a></li>
+	  
+    	<li><a href="http://typies.blogspot.com/2007/01/">January 2007</a></li>
+	  
+    	<li><a href="http://typies.blogspot.com/2007/10/">October 2007</a></li>
+	  
+    	<li><a href="http://typies.blogspot.com/2008/06/">June 2008</a></li>
+	  
+
+  </ul>
+
+
+  <h2 class="sidebar-title">Help Typies</h2>
+
+       <form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="hidden" name="hosted_button_id" value="7169626">
+<input type="image" src="https://www.paypal.com/en_US/i/btn/btn_donateCC_LG.gif" border="0" name="submit" alt="PayPal - The safer, easier way to pay online!">
+<img alt="" border="0" src="https://www.paypal.com/es_XC/i/scr/pixel.gif" width="1" height="1">
+</form>
+
+
+
+
+
+  
+  <!--
+  <p>This is a paragraph of text that could go in the sidebar.</p>
+  -->
+  
+
+
+<!-- código añadido por ecoestadistica.com -->
+<a href="http://www.ecoestadistica.com" target="_blank" id="770395542"><img src="http://www.ecoestadistica.com/images/eco.gif" alt="ecoestadistica.com" border="0"></a>
+<script type="text/javascript" language="JavaScript">
+document.write('<script language="Javascript" src="http://www.ecoestadistica.com/Control.php?rp_id=770395542&rp_hrf='+document.getElementById(770395542).href+'&rp_loc='+escape(document.location)+'&rp_ref='+escape(document.referrer)+'&rp_scr='+screen.width+'x'+screen.height+'"><\/script>');
+</script>
+<!-- fin del código añadido por ecoestadistica.com -->
+
+
+
+</div></div>
+<!-- End #sidebar -->
+
+
+</div>
+<!-- End #content -->
+
+
+
+<!-- Begin #footer -->
+<div id="footer"><hr />
+  <p><!--This is an optional footer. If you want text here, place it inside these tags, and remove this comment. -->&nbsp;</p>
+
+</div>
+<!-- End #footer -->
+
+
+
+<div style="position:fixed;top:0;left:0;width:100%;height:45px;z-index:2147483647;background-color:rgba(253,147,38,0.90) !important;color:black !important;text-align:right !important;font:normal 12px/45px Arial, sans-serif !important;border-radius:0 !important;margin:0 !important;max-width:100% !important;background-repeat: no-repeat !important;background-position: 15px center !important;
+background-image: url(data:image/png;base64,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);
+"><span style="padding-right:15px;">You are viewing a snapshot of <a style='font-weight:bold !important; color:white !important' href='http://typies.blogspot.com/'>http://typies.blogspot.com/</a> created on 2020/08/12</span></div></body>
+</html>

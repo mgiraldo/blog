@@ -1,0 +1,16 @@
+
+.topheader {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; font-weight: bold; color: #000000; line-height: 12px; text-decoration: none}
+.updateheader {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #FF6633; line-height: 12px; text-decoration: none}
+.updatebody {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; line-height: 12px; color: #FF6633; text-decoration: none}
+.links { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; line-height: 12px; color: #FF6633 }
+.bodytext {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; line-height: 14px; color: #CC6633; text-decoration: none; list-style-type: square}
+.bodytext_bold { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; line-height: 14px; color: #CC6633 ; font-weight: bold; text-decoration: none}
+.bodytext_head { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 11px; line-height: 13px; color: #CC6633; font-weight: bold }
+.bodytext_smallhead { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; line-height: 12px; color: #7B7B39; font-weight: bold }
+.callout {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; line-height: 14px; font-weight: normal; color: #CC6633; font-style: normal}
+.credit {  font-family: Arial, Helvetica, sans-serif; font-size: 9px; line-height: 10px; font-variant: normal; color: #666600}
+.email_list {  font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; line-height: 12px; color: #CC6633}
+
+A:HOVER{color: #006699}
+.updatebody_visit { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 10px; line-height: 12px; color: #7B7B39; text-decoration: none }
+.updateheader_visit { font-family: Verdana, Arial, Helvetica, sans-serif; font-size: 12px; font-weight: bold; color: #7B7B39; line-height: 12px; text-decoration: none }

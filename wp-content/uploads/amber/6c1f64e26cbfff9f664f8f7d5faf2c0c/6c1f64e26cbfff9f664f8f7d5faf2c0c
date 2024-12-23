@@ -1,0 +1,728 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dct="http://purl.org/dc/terms/" xmlns:frbr="http://purl.org/vocab/frbr/core#" xml:lang="en">
+<head about="http://creativecommons.org/licenses/by-sa/3.0/">
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8" />
+<title>Creative Commons &mdash; Attribution-ShareAlike 3.0 Unported
+  &mdash; CC BY-SA 3.0 </title>
+<meta http-equiv="content-type" content="text/html;charset=utf-8" />
+<link id="bootstrap-min-css" crossorigin="anonymous" media="all" rel="stylesheet" type="text/css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" href="assets/4dffc66a3a1ddd124892dac7b7385e96.css" />
+<link id="cc-google-fonts-css" media="all" rel="stylesheet" type="text/css" href="assets/2282d63abda2347f304df5139310f0be.css" />
+<link id="cc-fontello-css" media="all" rel="stylesheet" type="text/css" href="assets/57a365573a35f9cf730fb4e9f13a02f4.css" />
+<link id="twentysixteen-jetpack-css" media="all" rel="stylesheet" type="text/css" href="assets/1a39368894ea5d68c40d28d618db3221.css" />
+<link id="parent-style-css" media="all" rel="stylesheet" type="text/css" href="assets/2c232a77c733d3ef8d5255545ec855e9.css" />
+<link id="cc-style-css" media="all" rel="stylesheet" type="text/css" href="assets/4e9ba239af97f4d0cbd9e0b0bf2a02bf.css" />
+<link id="deed-css" media="screen" rel="stylesheet" type="text/css" href="assets/ec04a7093152a2f71c21f7887018c487.css" />
+<link id="deed-print-css" media="print" rel="stylesheet" type="text/css" href="assets/13ad74492232a3eb93b93b6dc2547e9c.css" />
+<link id="jurisdictions-css" media="screen" rel="stylesheet" type="text/css" href="/includes/jurisdictions.css" />
+<link rel="alternate" type="application/rdf+xml" href="rdf" />
+<script type="text/javascript">
+function setCookie(name, value, expires, path, domain, secure) {
+    document.cookie= name + "=" + escape(value) +
+        ((expires) ? "; expires=" + expires.toGMTString() : "") +
+        ((path) ? "; path=" + path : "") +
+        ((domain) ? "; domain=" + domain : "") +
+        ((secure) ? "; secure" : "");
+}
+var expiry = new Date();
+expiry.setTime(expiry.getTime()+(5*365*24*60*60*1000));
+setCookie('lang','%s', expiry, '/');
+</script>
+<script src="assets/e50f548efc03bb1dfafc51a40694d20d.js"></script>
+<script src="assets/48b45b2c1e4ef013a2c4e0b90f0b5195.js" integrity="sha384-nvAa0+6Qg9clwYCGGPpDQLVpLNn0fRaROjHqs13t4Ggj3Ez50XnGQqc/r8MhnRDZ" crossorigin="anonymous"></script>
+<script src="assets/53aeb92821b2a80117d4bdc07d18ec4b.js" integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa" crossorigin="anonymous"></script>
+
+<script src="assets/7b5c203c15ec0bb85a97ed959a0c0dba.js"></script>
+
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-5F5HKGX');</script>
+
+</head>
+<body typeof="cc:License" about="http://creativecommons.org/licenses/by/4.0/" class="license ltr">
+
+
+<div id="page" class="site">
+<div class="site-inner">
+<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+<div class="site-header-wrapper">
+<header id="masthead" class="site-header sticky-nav-main" role="banner">
+<div class="site-header-main">
+<div class="site-branding">
+<a class="cc-site-logo-link" href="https://creativecommons.org/" rel="home">
+<img class="cc-site-logo" width="303" height="72" src="assets/8eb422212bb035515788bb56f4fdb929.svg">
+</a>
+</div>
+<button id="menu-toggle" class="menu-toggle"><i class="cc-icon-menu"></i> <span>Menu</span></button>
+<div id="site-header-menu" class="site-header-menu">
+<nav id="mobile-navigation" class="mobile-navigation" role="navigation" aria-label="Mobile Menu">
+<div class="menu-mobile-menu-container"><ul id="menu-mobile-menu" class="mobile-menu">
+<li id="menu-item-48798" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48798"><a href="https://creativecommons.org/share-your-work/">Share your work</a></li>
+<li id="menu-item-48799" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48799"><a href="https://creativecommons.org/use-remix/">Use &#038; remix</a></li>
+<li id="menu-item-48800" class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-7466 menu-item-48800"><a href="https://creativecommons.org/about/">What We do</a></li>
+<li id="menu-item-48801" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48801"><a href="https://creativecommons.org/blog/">Blog</a></li>
+<li id="menu-item-48802" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48802"><a href="https://network.creativecommons.org/?ref=global-affiliate-network">Global Network</a></li>
+<li id="menu-item-48803" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48803"><a href="https://creativecommons.org/use-remix/search-the-commons/">Search the Commons</a></li>
+</ul></div>
+</nav>
+<nav id="site-navigation" class="main-navigation" role="navigation" aria-label="Primary Menu">
+<div class="menu-primary-menu-container"><ul id="menu-primary-menu" class="primary-menu">
+<li id="menu-item-48791" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48791"><a href="https://creativecommons.org/share-your-work/">Share your work</a></li>
+<li id="menu-item-48792" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48792"><a href="https://creativecommons.org/use-remix/">Use &#038; remix</a></li>
+<li id="menu-item-48570" class="menu-item menu-item-type-post_type menu-item-object-page page_item page-item-7466 menu-item-48570"><a href="https://creativecommons.org/about/">What We do</a></li>
+<li id="menu-item-48793" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48793"><a href="https://creativecommons.org/blog/">Blog</a></li>
+</ul></div>
+</nav>
+<nav id="secondary-navigation" class="secondary-navigation" role="navigation" aria-label="Secondary Menu">
+<div class="menu-secondary-menu-container"><ul id="menu-secondary-menu" class="secondary-menu">
+<li id="menu-item-55890" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-55890"><a href="https://search.creativecommons.org/">Search for CC images</a></li>
+<li id="menu-item-48804" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48804"><a href="https://network.creativecommons.org/?ref=global-affiliate-network">Global Network</a></li>
+<li id="menu-item-56460" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-56460"><a href="https://us.e-activist.com/page/6747/subscribe/1?ea.tracking.id=mailing-list-page">Newsletters</a></li>
+<li id="menu-item-52800" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-52800"><a href="https://store.creativecommons.org/">Store</a></li>
+<li id="menu-item-48806" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48806"><a href="https://creativecommons.org/about/contact/">Contact</a></li>
+</ul></div>
+</nav>
+<nav id="social-navigation" class="social-navigation" role="navigation" aria-label="Social Links Menu">
+<div class="menu-social-links-container"><ul id="menu-social-links" class="social-links-menu">
+<li id="menu-item-48807" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48807"><a href="https://www.facebook.com/creativecommons"><span class="screen-reader-text">Facebook</span></a></li>
+<li id="menu-item-48808" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48808"><a href="https://twitter.com/creativecommons"><span class="screen-reader-text">Twitter</span></a></li>
+<li id="menu-item-48809" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-48809"><a href="mailto:info@creativecommons.org"><span class="screen-reader-text">Mail</span></a></li>
+</ul></div>
+</nav>
+</div>
+</div>
+</header>
+</div>
+<div id="content" class="site-content">
+<aside id="header-below" class="widget-area">
+<section id="text-15" class="widget-1 widget-first widget-last widget-odd widget widget_text">
+<div class="textwidget">
+<div id="donation-bar-wrapper" class="donation-bar-wrapper">
+<div id="donation-bar-inner" class="donation-bar-inner">
+<p class="donate-text">Help us build a vibrant, collaborative global commons
+</p>
+<div class="donate-action"><a href="https://creativecommons.org/donate?c_src=website&c_src2=Deed-Top" class="button donate arrow">Donate<span class="hide-on-mobile"> Now</span></a></div>
+</div>
+</div>
+</div>
+</section>
+</aside>
+<div id="language-selector-block" class="container">
+<div class="language-selector-inner">
+<span dir="ltr" style="text-align: left">
+This page is available in the following languages:
+</span>
+<img class="language-icon" src="assets/614b20a8f71f3edf98c4bfe4d670435b.png" alt="Languages" />
+<select>
+<option value="id">
+Bahasa Indonesia
+</option>
+<option value="ms">
+Bahasa Malaysia
+</option>
+<option value="es_ES">
+Castellano (España)
+</option>
+<option value="ca">
+Català
+</option>
+<option value="da">
+Dansk
+</option>
+<option value="de">
+Deutsch
+</option>
+<option value="en" selected="selected">
+English
+</option>
+<option value="es">
+Español
+</option>
+<option value="eo">
+Esperanto
+</option>
+<option value="eu">
+Euskara
+</option>
+<option value="fr">
+français
+</option>
+<option value="gl">
+Galego
+</option>
+<option value="hr">
+hrvatski
+</option>
+<option value="it">
+Italiano
+</option>
+<option value="lv">
+ Latviski
+</option>
+<option value="lt">
+Lietuvių
+</option>
+<option value="hu">
+Magyar
+</option>
+<option value="nl">
+Nederlands
+</option>
+<option value="no">
+norsk
+</option>
+<option value="pl">
+polski
+</option>
+<option value="pt">
+Português
+</option>
+<option value="pt_BR">
+Português (BR)
+</option>
+<option value="ro">
+română
+</option>
+<option value="sl">
+Slovenščina
+</option>
+<option value="sr_LATN">
+srpski (latinica)
+</option>
+<option value="fi">
+suomeksi
+</option>
+<option value="sv">
+svenska
+</option>
+<option value="tr">
+Türkçe
+</option>
+<option value="is">
+Íslenska
+</option>
+<option value="cs">
+čeština
+</option>
+<option value="el">
+Ελληνικά
+</option>
+<option value="be">
+Беларуская
+</option>
+<option value="ru">
+русский
+</option>
+<option value="uk">
+українська
+</option>
+<option value="ar">
+العربية
+</option>
+<option value="fa">
+پارسی
+</option>
+<option value="bn">
+বাংলা
+</option>
+<option value="zh">
+中文
+</option>
+<option value="ja">
+日本語
+</option>
+<option value="zh_TW">
+華語 (台灣)
+</option>
+<option value="ko">
+한국어
+</option>
+</select>
+</div>
+</div>
+<div id="primary" class="content-area">
+<main id="main" class="site-main container" role="main">
+<div id="deed" class="row" dir="ltr" style="text-align: left">
+<div id="deed-head" class="row">
+<div class="print-only icon cc-logo-print">
+<img alt="cc logo" src="assets/1b9574771321146de1f84851cc5cde5d.jpg">
+</div>
+<div id="cc-link">
+<a rel="dc:creator dct:creator" href="/">
+<span property="dc:title dct:title">Creative Commons</span>
+</a>
+</div>
+<h1><span>Creative Commons License Deed</span></h1>
+<div id="deed-license">
+<h2>
+<span class="cc-license-icons">
+<span id="cc-logo" class="icon"><img alt="cc logo" src="assets/9dfeb70c4f3ff4a2f1122d91c842421f.png"></span>
+<span id="cc-attribution" class="icon"><img src="assets/dc4024d53d943b1e7ea8b919f70cad1d.png"></span>
+<span id="cc-icon-sa" class="icon"><img src="assets/90634726677b2a820c0fd82d5165b244.png"></span>
+</span>
+<span class="cc-license-title" property="dc:title dct:title">Attribution-ShareAlike 3.0 Unported</span>
+<span class="cc-license-identifier" property="dc:identifier dct:identifier">
+(CC BY-SA 3.0)
+</span>
+</h2>
+</div>
+</div>
+<div id="deed-main" dir="ltr" style="text-align: left" class="row">
+<div id="legalcode-block">
+<div id="deed-disclaimer">
+<span class="summary">
+This is a human-readable summary of (and not a substitute for) the <a href="legalcode" class="fulltext">license</a>.
+</span>
+<span class="disclaimer">
+<a href="#" id="disclaimer_popup" class="helpLink">Disclaimer</a>.
+</span>
+</div>
+ </div>
+<div id="deed-main-content" class="row ">
+<div id="deed-rights" dir="ltr" style="text-align: left" class="row">
+<div class="col-sm-offset-2 col-sm-8">
+<h3 style="text-align: center" resource="http://creativecommons.org/ns#Reproduction" rel="cc:permits">You are free to:</h3>
+<ul class="license-properties">
+<li class="license share" rel="cc:permits" resource="http://creativecommons.org/ns#Distribution">
+<strong>Share</strong> &mdash; copy and redistribute the material in any medium or format
+</li>
+<li class="license remix" rel="cc:permits" resource="http://creativecommons.org/ns#DerivativeWorks">
+<strong>Adapt</strong> &mdash; remix, transform, and build upon the material
+</li>
+<li class="license commercial">
+for any purpose, even commercially.
+</li>
+<li id="more-container" class="license-hidden">
+<span id="devnations-container" />
+</li>
+</ul>
+</div>
+<div id="libre" class="col-sm-2">
+<a href="https://freedomdefined.org/" class="screen-only">
+<img src="assets/54309227889baef88551f88b65900ce4.jpg" style="border: 0" alt="This license is acceptable for Free Cultural Works." />
+</a>
+<a href="https://freedomdefined.org/" class="print-only">
+<img src="assets/c52439eaed6999fe3d2b2b1442c511f1.png" style="border: 0" alt="" />
+</a>
+</div>
+</div>
+<div class="row">
+<ul id="license-freedoms-no-icons" style="text-align: center" class="col-sm-offset-2 col-sm-8">
+<li class="license">The licensor cannot revoke these freedoms as long as you follow the license terms.</li>
+</ul>
+</div>
+<div class="row"><div class="col-md-offset-1 col-md-10"><hr /></div></div>
+<div id="deed-conditions" class="row">
+<h3 style="text-align: center">Under the following terms:</h3>
+<ul dir="ltr" style="text-align: left" class="license-properties col-md-offset-2 col-md-8">
+<li class="license by">
+<p>
+<strong>Attribution</strong> &mdash; <span rel="cc:requires" resource="http://creativecommons.org/ns#Attribution">You must give <a href="#" id="appropriate_credit_popup" class="helpLink">appropriate credit</a></span>, provide a link to the license, and <span rel="cc:requires" resource="http://creativecommons.org/ns#Notice"><a href="#" id="indicate_changes_popup" class="helpLink">indicate if changes were made</a></span>. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
+<span id="by-more-container"></span>
+</p>
+<p id="work-attribution-container" style="display:none;">
+<strong>
+Attribute this work:
+</strong>
+<br />
+<input id="work-attribution" value="" type="text" readonly="readonly" onclick="this.select()" onfocus="document.getElementById('work-attribution').select();" />
+<input id="license-code" type="hidden" value="CC BY-SA 3.0" />
+<input id="license-url" type="hidden" value="http://creativecommons.org/licenses/by-sa/3.0/" />
+<a href="" id="attribution_help" class="helpLink">
+<img src="assets/f7dbf26ff75571ac8703e7ff6bed1834.png" alt="Information" />
+</a>
+</p>
+</li>
+<li class="license sa" rel="cc:requires" resource="http://creativecommons.org/ns#ShareAlike">
+<p>
+<strong>ShareAlike</strong> &mdash; If you remix, transform, or build upon the material, you must distribute your contributions under the <a href="#" id="same_license_popup" class="helpLink">same license</a> as the original.
+<span id="sa-more-container"></span>
+</p>
+</li>
+</ul>
+</div>
+<div class="row">
+<ul id="deed-conditions-no-icons" class="col-md-offset-2 col-md-8">
+<li class="license">
+<strong>No additional restrictions</strong> &mdash; You may not apply legal terms or <a href="#" id="technological_measures_popup" class="helpLink">technological measures</a> that legally restrict others from doing anything the license permits.
+</li>
+</ul>
+</div>
+<div class="row"><div class="col-md-offset-1 col-md-10"><hr /></div></div>
+<div id="deed-understanding" class="row">
+<h3 style="text-align: center">
+Notices:
+</h3>
+<ul class="understanding license-properties col-md-offset-2 col-md-8">
+<li class="license">
+You do not have to comply with the license for elements of the material in the public domain or where your use is permitted by an applicable <a href="#" id="exception_or_limitation_popup" class="helpLink">exception or limitation</a>.
+</li>
+<li class="license">
+No warranties are given. The license may not give you all of the permissions necessary for your intended use. For example, other rights such as <a href="#" id="publicity_privacy_or_moral_rights_popup" class="helpLink">publicity, privacy, or moral rights</a> may limit how you use the material.
+</li>
+</ul>
+</div>
+<span id="referrer-metadata-container" />
+</div>
+</div>
+<div class="row" id="footer">
+<p class="learn-more-cc">
+<a href="https://wiki.creativecommons.org/FAQ">Learn more</a> about CC licensing, or <a id="get_this" href="/choose/results-one?license_code=by-sa&amp;amp;jurisdiction=&amp;amp;version=3.0&amp;amp;lang=en">use the license</a> for your own material.
+</p>
+<noscript>
+                  <div id="deed-donate-footer">
+                    <div class="footer-trigger">
+                      <img src="assets/8d7dc8fe54ad5763c65c590f11192b82.png" class="footer-logo" alt="" width="133" height="117" />
+                      <div class="footer-trigger-content">
+                        <p>This content is freely available under simple legal terms because of Creative
+                          Commons, a non-profit that survives on donations. If you love this content, and love that it's
+                          free for everyone, please consider a donation to support our work.</p>
+                        <a href="https://creativecommons.org/donate?ea.tracking.id=license-footer"><button>Make a
+                            Donation</button></a>
+                      </div>
+                    </div>
+                  </div>
+                </noscript>
+<div id="languages">
+<span dir="ltr" style="text-align: left">
+This page is available in the following languages:
+</span>
+<br />
+<a title="Bahasa Indonesia" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.id" hreflang="id" xml:lang="id">Bahasa Indonesia</a>
+<a title="Bahasa Malaysia" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.ms" hreflang="ms" xml:lang="ms">Bahasa Malaysia</a>
+<a title="Castellano (España)" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.es_ES" hreflang="es_ES" xml:lang="es_ES">Castellano (España)</a>
+<a title="Català" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.ca" hreflang="ca" xml:lang="ca">Català</a>
+<a title="Dansk" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.da" hreflang="da" xml:lang="da">Dansk</a>
+<a title="Deutsch" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.de" hreflang="de" xml:lang="de">Deutsch</a>
+<a title="English" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.en" hreflang="en" xml:lang="en">English</a>
+<a title="Español" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.es" hreflang="es" xml:lang="es">Español</a>
+<a title="Esperanto" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.eo" hreflang="eo" xml:lang="eo">Esperanto</a>
+<a title="Euskara" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.eu" hreflang="eu" xml:lang="eu">Euskara</a>
+<a title="français" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.fr" hreflang="fr" xml:lang="fr">français</a>
+<a title="Galego" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.gl" hreflang="gl" xml:lang="gl">Galego</a>
+<a title="hrvatski" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.hr" hreflang="hr" xml:lang="hr">hrvatski</a>
+<a title="Italiano" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.it" hreflang="it" xml:lang="it">Italiano</a>
+<a title="Latviski" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.lv" hreflang="lv" xml:lang="lv">Latviski</a>
+<a title="Lietuvių" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.lt" hreflang="lt" xml:lang="lt">Lietuvių</a>
+<a title="Magyar" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.hu" hreflang="hu" xml:lang="hu">Magyar</a>
+<a title="Nederlands" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.nl" hreflang="nl" xml:lang="nl">Nederlands</a>
+<a title="norsk" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.no" hreflang="no" xml:lang="no">norsk</a>
+<a title="polski" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.pl" hreflang="pl" xml:lang="pl">polski</a>
+<a title="Português" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.pt" hreflang="pt" xml:lang="pt">Português</a>
+<a title="Português (BR)" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.pt_BR" hreflang="pt_BR" xml:lang="pt_BR">Português (BR)</a>
+<a title="română" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.ro" hreflang="ro" xml:lang="ro">română</a>
+<a title="Slovenščina" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.sl" hreflang="sl" xml:lang="sl">Slovenščina</a>
+<a title="srpski (latinica)" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.sr_LATN" hreflang="sr_LATN" xml:lang="sr_LATN">srpski (latinica)</a>
+<a title="suomeksi" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.fi" hreflang="fi" xml:lang="fi">suomeksi</a>
+<a title="svenska" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.sv" hreflang="sv" xml:lang="sv">svenska</a>
+<a title="Türkçe" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.tr" hreflang="tr" xml:lang="tr">Türkçe</a>
+<a title="Íslenska" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.is" hreflang="is" xml:lang="is">Íslenska</a>
+<a title="čeština" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.cs" hreflang="cs" xml:lang="cs">čeština</a>
+<a title="Ελληνικά" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.el" hreflang="el" xml:lang="el">Ελληνικά</a>
+<a title="Беларуская" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.be" hreflang="be" xml:lang="be">Беларуская</a>
+<a title="русский" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.ru" hreflang="ru" xml:lang="ru">русский</a>
+<a title="українська" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.uk" hreflang="uk" xml:lang="uk">українська</a>
+<a title="العربية" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.ar" hreflang="ar" xml:lang="ar">العربية</a>
+<a title="پارسی" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.fa" hreflang="fa" xml:lang="fa">پارسی</a>
+<a title="বাংলা" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.bn" hreflang="bn" xml:lang="bn">বাংলা</a>
+<a title="中文" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.zh" hreflang="zh" xml:lang="zh">中文</a>
+<a title="日本語" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.ja" hreflang="ja" xml:lang="ja">日本語</a>
+<a title="華語 (台灣)" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.zh_TW" hreflang="zh_TW" xml:lang="zh_TW">華語 (台灣)</a>
+<a title="한국어" rel="alternate nofollow frbr:translation" rev="frbr:translationOf" href="./deed.ko" hreflang="ko" xml:lang="ko">한국어</a>
+</div>
+</div>
+<div id="deed-donate-slide" style="display: none;">
+<div class="slide-trigger">
+<div class="slide-close"></div>
+<img src="assets/97ac2289ba53864c66c7543fe34c5405.png" class="slide-logo" alt="" width="100" height="88" />
+<p class="desktop-only">This content is freely available under simple legal terms because of Creative
+Commons, a non-profit that survives on donations. If you love this content, and love that it's free for everyone,
+please consider a donation to support our work.</p>
+<p class="mobile-only">When you share, everyone wins.</p>
+<div class="donate-box">
+<div class="widget-inner">
+<div class="gform_wrapper" id="gform_wrapper_10">
+<form method="get" id="gform_10" action="https://creativecommons.org/donate" class="deed-donate-form">
+<div id="field_10_1" class="gfield field_sublabel_below field_description_below">
+<label class="gfield_label">Contribute today to Creative Commons</label>
+<div class="ginput_container ginput_container_radio">
+<ul class="gfield_radio" id="input_10_1">
+<li class="gchoice_10_1_0">
+<input name="amount" type="radio" value="5" id="choice_10_1_0" tabindex="1">
+ <label for="choice_10_1_0" id="label_10_1_0">$5</label>
+</li>
+<li class="gchoice_10_1_1">
+<input name="amount" type="radio" value="15" checked="checked" id="choice_10_1_1" tabindex="2">
+<label for="choice_10_1_1" id="label_10_1_1">$15</label>
+</li>
+<li class="gchoice_10_1_2">
+<input name="amount" type="radio" value="25" id="choice_10_1_2" tabindex="3">
+<label for="choice_10_1_2" id="label_10_1_2">$25</label>
+</li>
+<li class="gchoice_10_1_3">
+<input name="amount" type="radio" value="50" id="choice_10_1_3" tabindex="4">
+<label for="choice_10_1_3" id="label_10_1_3">$50</label>
+</li>
+<li class="gchoice_10_1_4">
+<input name="amount" type="radio" value="gf_other_choice" id="choice_10_1_4" tabindex="5" onfocus="$(this).next('input').focus();">
+<input name="amount-other" type="text" id="input_10_1_other" tabindex="5" style="max-width: 80%" placeholder="Amount" aria-label="Amount">
+</li>
+</ul>
+<input type="hidden" name="c_src" value="website">
+<input type="hidden" name="c_src2" value="deed-overlay">
+<input type="submit" id="gform_submit_button_10" class="gform_button button" value="Donate Now" tabindex="6">
+</div>
+</div>
+</form>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</main>
+</div>
+</div>
+<div class="site-footer-wrapper">
+<footer id="colophon" class="site-footer sticky-nav-main" role="contentinfo">
+<div class="cc-footer">
+<div class="column cc-footer-main">
+<div class="cc-footer-logo">
+<a href="https://creativecommons.org/" class="custom-logo-link" rel="home" itemprop="url"><img width="980" height="240" src="assets/c22bbddc9da8e4ea01a5d02a0bea8711.png" class="custom-logo" alt="cc.logo.white" itemprop="logo" srcset="assets/c22bbddc9da8e4ea01a5d02a0bea8711.png 980w, https://creativecommons.org/wp-content/uploads/2016/06/cc.logo_.white_-300x73.png 300w, https://creativecommons.org/wp-content/uploads/2016/06/cc.logo_.white_-768x188.png 768w, https://creativecommons.org/wp-content/uploads/2016/06/cc.logo_.white_-140x34.png 140w, https://creativecommons.org/wp-content/uploads/2016/06/cc.logo_.white_-50x12.png 50w, https://creativecommons.org/wp-content/uploads/2016/06/cc.logo_.white_-270x66.png 270w, https://creativecommons.org/wp-content/uploads/2016/06/cc.logo_.white_-245x60.png 245w" sizes="(max-width: 709px) 85vw, (max-width: 909px) 67vw, (max-width: 1362px) 62vw, 840px" /></a>
+</div>
+<div class="cc-footer-links">
+<div class="menu-footer-links-container">
+<ul id="menu-footer-links" class="menu">
+<li id="menu-item-48794" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48794"><a href="https://creativecommons.org/about/contact/">Contact</a></li>
+<li id="menu-item-48795" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48795"><a href="https://creativecommons.org/privacy/">Privacy</a></li>
+<li id="menu-item-48796" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48796"><a href="https://creativecommons.org/policies/">Policies</a></li>
+<li id="menu-item-48797" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-48797"><a href="https://creativecommons.org/terms/">Terms</a></li>
+</ul>
+</div>
+</div>
+</div>
+<div class="column cc-footer-contact">
+<h6><a href="https://creativecommons.org/about/contact">We'd love to hear from you!</a></h6>
+<address>
+Creative Commons<br />
+PO Box 1866, Mountain View, CA 94042
+</address>
+<ul>
+<li><a href="mailto:info@creativecommons.org" class="mail">info@creativecommons.org</a></li>
+<li><a href="https://creativecommons.org/faq">Frequently Asked Questions</a></li>
+</ul>
+</div>
+<div class="column cc-footer-license">
+<div class="license-icons">
+<a rel="license" href="https://creativecommons.org/licenses/by/4.0/" title="Creative Commons Attribution 4.0 International license">
+<i class="cc-icon-cc"></i>
+<i class="cc-icon-cc-by"></i>
+</a>
+</div>
+<aside>
+<div xmlns:cc="https://creativecommons.org/ns#" about="https://creativecommons.org">
+<p>Except where otherwise <a class="subfoot" href="https://creativecommons.org/policies#license">noted</a>, content on this site is licensed under a <a class="subfoot" href="https://creativecommons.org/licenses/by/4.0/" rel="license">Creative Commons Attribution 4.0 International license</a>. <a class="subfoot" href="https://creativecommons.org/website-icons" target="blank">Icons</a> by The Noun Project.</p>
+</div>
+</aside>
+</div>
+</div>
+</footer>
+</div>
+</div>
+</div>
+<div id="help-panels" style="display: none">
+<div id="help_disclaimer_popup" class="help_panel">
+<div class="hd">Disclaimer</div>
+<div class="bd">
+<p>This deed highlights only some of the key features and terms of the actual license. It is not a
+license and has no legal value. You should carefully review all of the terms and conditions of the actual
+license before using the licensed material.</p>
+<p>Creative Commons is not a law firm and does not provide legal services. Distributing, displaying,
+or linking to this deed or the license that it summarizes does not create a lawyer-client or any other
+relationship.</p>
+</div>
+</div>
+<div id="help_attribution_help" class="help_panel">
+<div class="hd">
+What does "Attribute this work" mean?
+</div>
+<div class="bd">
+<p>The page you came from contained embedded licensing metadata, including how the creator wishes to be attributed for re-use. You can use the HTML here to cite the work. Doing so will also include metadata on your page so that others can find the original work as well.</p>
+</div>
+</div>
+<div id="help_mediation_and_arbitration_popup" class="help_panel">
+<div class="bd">
+<p>The applicable mediation rules will be designated in the copyright notice published with the work, or if none then in the request for mediation. Unless otherwise designated in a copyright notice attached to the work, the UNCITRAL Arbitration Rules apply to any arbitration.</p>
+<p><a href="https://wiki.creativecommons.org/Intergovernmental_Organizations#What_should_I_know_before_I_use_a_work_licensed_under_the_IGO_3.0_ported_licenses.3F">More info</a>.</p>
+</div>
+</div>
+<div id="help_appropriate_credit_popup" class="help_panel">
+<div class="bd">
+<p>If supplied, you must provide the name of the creator and attribution parties, a copyright notice, a license notice, a disclaimer notice, and a link to the material. CC licenses prior to Version 4.0 also require you to provide the title of the material if supplied, and may have other slight differences.</p>
+<p><a href="https://wiki.creativecommons.org/License_Versions#Detailed_attribution_comparison_chart">More info</a>.</p>
+</div>
+</div>
+<div id="help_indicate_changes_popup" class="help_panel">
+<div class="bd">
+<p>In 4.0, you must indicate if you modified the material and retain an indication of previous modifications. In 3.0 and earlier license versions, the indication of changes is only required if you create a derivative.</p>
+<p><a href="https://wiki.creativecommons.org/Best_practices_for_attribution#This_is_a_good_attribution_for_material_you_modified_slightly">Marking guide</a>.</p>
+<p><a href="https://wiki.creativecommons.org/License_Versions#Modifications_and_adaptations_must_be_marked_as_such ">More info</a>.</p>
+</div>
+</div>
+<div id="help_same_license_popup" class="help_panel">
+<div class="bd">
+<p>You may also use a license listed as compatible at <a href="https://creativecommons.org/compatiblelicenses">https://creativecommons.org/compatiblelicenses</a></p>
+<p><a href="https://wiki.creativecommons.org/FAQ#If_I_derive_or_adapt_material_offered_under_a_Creative_Commons_license.2C_which_CC_license.28s.29_can_I_use.3F">More info</a>.</p>
+</div>
+</div>
+<div id="help_commercial_purposes_popup" class="help_panel">
+<div class="bd">
+<p>A commercial use is one primarily intended for commercial advantage or monetary compensation.</p>
+<p><a href="https://creativecommons.org/faq/#does-my-use-violate-the-noncommercial-clause-of-the-licenses">More info</a>.</p>
+</div>
+</div>
+<div id="help_some_kinds_of_mods_popup" class="help_panel">
+<div class="bd">
+<p>Merely changing the format never creates a derivative.</p>
+<p><a href="https://wiki.creativecommons.org/Frequently_Asked_Questions#When_is_my_use_considered_an_adaptation.3F">More info</a>.</p>
+</div>
+</div>
+<div id="help_technological_measures_popup" class="help_panel">
+<div class="bd">
+<p>The license prohibits application of effective technological measures, defined with reference to Article 11 of the WIPO Copyright Treaty.</p>
+<p><a href="https://wiki.creativecommons.org/License_Versions#Application_of_effective_technological_measures_by_users_of_CC-licensed_works_prohibited">More info</a>.</p>
+</div>
+</div>
+<div id="help_exception_or_limitation_popup" class="help_panel">
+<div class="bd">
+<p>The rights of users under exceptions and limitations, such as fair use and fair dealing, are not affected by the CC licenses.</p>
+<p><a href="https://wiki.creativecommons.org/Frequently_Asked_Questions#Do_Creative_Commons_licenses_affect_exceptions_and_limitations_to_copyright.2C_such_as_fair_dealing_and_fair_use.3F">More info</a>.</p>
+</div>
+</div>
+<div id="help_publicity_privacy_or_moral_rights_popup" class="help_panel">
+<div class="bd">
+<p>You may need to get additional permissions before using the material as you intend.</p>
+<p><a href="https://wiki.creativecommons.org/Considerations_for_licensors_and_licensees">More info</a>.</p>
+</div>
+</div>
+</div>
+<script type='text/javascript' src='assets/f8c5edd311423198abda7fa634c95c83.js'></script>
+<script type='text/javascript' src='assets/abb987741c1bc682204887174bd3b3c7.js'></script>
+<script type='text/javascript' src='assets/d4f2ff235a44453af311419e02c6ab54.js'></script>
+<script type='text/javascript' src='assets/fe5196f49583542dd105b7c6d50b2f63.js'></script>
+<script type='text/javascript' src='assets/42f4d16b5872effcbcd31bc089cf1e6a.js'></script>
+<script type='text/javascript' src='assets/07479c7aca7ecd74c4e0a193042a7af2.js'></script>
+<script type='text/javascript' src='assets/89adcef61bb1da187d1d401473909279.js'></script>
+<script type='text/javascript'>
+    /* <![CDATA[ */
+    var screenReaderText = { "expand": "expand child menu", "collapse": "collapse child menu" };
+  /* ]]> */
+  </script>
+<script type='text/javascript' src='assets/31aac763f3dcc043dd100076d98e9211.js'></script>
+<script type="text/javascript">
+    //<![CDATA[
+    var donateForms = $('.deed-donate-form');
+
+    $(donateForms).each(function () {
+      var otherFields = $('input[value="gf_other_choice"]');
+
+      $(this).on('submit', function () {
+        $(otherFields).each(function () {
+          var parent = $(this).closest('li');
+          var radioField = $(this);
+          var txtField = $(parent).children('input[type="text"]');
+          var txtValue = txtField.val();
+
+          if (txtValue || radioField.is(':checked')) {
+            radioField.val(txtValue);
+          }
+        });
+      });
+    });
+    //]]>
+  </script>
+<script type="text/javascript">
+    //<![CDATA[
+    $(document).ready(function () {
+      $('#deed-donate-slide').addClass('slider');
+      $('#deed-donate-slide').show();
+      // Set banner to reveal after X seconds
+      setTimeout(function () {
+        $('#deed-donate-slide').addClass('reveal');
+      }, 5000);
+      $(window).scroll(function () {
+        if ($(window).scrollTop() <= 160) {
+          $('#deed-donate-slide').finish();
+          //$('#deed-donate-slide').removeClass('reveal');
+        } else {
+          $('#deed-donate-slide').addClass('reveal');
+        }
+      });
+
+      $('.slide-close').click(function (event) {
+        $('#deed-donate-slide').remove();
+      });
+
+      /* Close slider on pressing ESC */
+      $(document).keyup(function (e) {
+        if (e.keyCode === 27) {
+          $('#deed-donate-slide').remove();
+        }
+      });
+
+      $(".slide-trigger p, .slide-trigger button").click(function () {
+        window.location.href = "https://creativecommons.org/donate?c_src=website&c_src2=Deed-Overlay";
+
+      });
+    });
+    //]]>
+  </script>
+<script type="text/javascript">
+    //<![CDATA[
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-2010376-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+    //]]>
+  </script>
+<script type="text/javascript">
+    //<![CDATA[
+    $(document).ready(function () {
+      $('#deed .helpLink').each(function (index, helpLinkElem) {
+        var helpId = $(helpLinkElem).attr('id');
+        var popupId = helpId ? 'help_' + helpId : undefined;
+        $(this).attr('tabindex', 0);
+        if (popupId) {
+          var popupElem = $('#' + popupId);
+          var popupTitleHtml = $('.hd', popupElem).html();
+          var popupBodyHtml = $('.bd', popupElem).html();
+          $(helpLinkElem).popover({
+            placement: 'auto top',
+            viewport: '#deed',
+            trigger: 'focus',
+            title: popupTitleHtml ? popupTitleHtml : undefined,
+            content: popupBodyHtml ? popupBodyHtml : undefined,
+            html: true
+          });
+        }
+      });
+
+      $('.helpLink').on('click', function (e) {
+        e.preventDefault();
+      });
+    });
+    //]]>
+  </script>
+<script type="text/javascript" src="assets/0335fe47f2d84e8dbaa1b726e6201296.js"></script>
+
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-5F5HKGX" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+
+
+<div style="position:fixed;top:0;left:0;width:100%;height:45px;z-index:2147483647;background-color:rgba(253,147,38,0.90) !important;color:black !important;text-align:right !important;font:normal 12px/45px Arial, sans-serif !important;border-radius:0 !important;margin:0 !important;max-width:100% !important;background-repeat: no-repeat !important;background-position: 15px center !important;
+background-image: url(data:image/png;base64,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);
+"><span style="padding-right:15px;">You are viewing a snapshot of <a style='font-weight:bold !important; color:white !important' href='http://creativecommons.org/licenses/by-sa/3.0'>http://creativecommons.org/licenses/by-sa/3.0</a> created on 2022/10/04</span></div></body>
+</html>

@@ -1,0 +1,207 @@
+﻿/*
+	Modified darwin.css
+	Modified by Charmaine, 11 Dec 2012
+
+	This css file builds on the previous darwin.css and changes/adds the following features:
+	1) fixed-position side illustrations
+	2) fixed-position header
+	3) modified footer which will resize correctly and be visible with the above changes;
+	4) Added changes to ensure sub-menu in frame view is shown
+	5) Added changes to ensure div content-internal is positioned after the header
+
+*/
+html, body {font-family: Verdana, sans-serif; color: #000000; background-color: white; margin: 0px; padding: 0px; height: 100%;}
+
+html.content-page, html.content-page body { background-color: #ffffcc; background-repeat: repeat-y; padding-left: 5%; padding-right: 5%}
+
+img {border: 0px;}
+img.png {behavior: url(../assets/b6b4bceda4005c252a4885f82189b01e.htc);}
+
+.floatleft {float: left;}
+.floatright {float: right;}
+
+.align-right {text-align: right;}
+.align-left {text-align: left;}
+
+a:link {color: #24742A; text-decoration: none;}
+a:visited {color: #24742A;}
+a:hover {color: #657f08; text-decoration: none; border-bottom: 1px #333 solid; opacity: 0.6;}
+
+#container {text-align: center; min-height: 100%; height: 100%; min-width: 730px; width: 100%; top: 0px;}
+
+#background {z-index: 0; width: 100%; background-color: white; position: absolute; top: 0; left: 0; min-height: 100%; *height: 100%; height: auto !important!; min-width: 730px;}
+
+#main {
+	z-index: 4; 
+	margin: 0 auto; 
+	padding: 0px;
+	text-align: center; 
+	min-height: 790px; 
+	height: auto !important; 
+	height: 790px; 
+	margin-top: 120px; 
+	margin-right: 150px;
+	margin-left: 150px; 
+}
+
+/* (1) Changed side illustrations: position from absolute to fixed */
+#side-L {width: 150px; position: fixed; top: 0; left: 0; min-height: 100%; height: 100%; background:url("../assets/6032538aedad3744cf35dbc5c375213a.gif") repeat-y #d6ceba;}
+#side-R {width: 150px; position: fixed; top: 0; right: 0; min-height: 100%; height: 100%; background:url("../assets/7ca614b8d4de0640fc0ba6b5f7c6a2e3.gif") repeat-y #d6ceba;}
+
+#illus-L {z-index: 2; width:200px; position: fixed; top: 120px; }
+#illus-R {z-index: 2; width:200px; position: fixed; right: 0px; top: 120px; }
+/* End (1) */
+
+/* (2) Changed positioning of menu at top to fixed */
+.menurow {width: 100%; height: 115px; background-color: white; z-index:3; position: fixed; }
+.menurow .menu {background-color: white; z-index: 4; position: fixed; width: 730px; padding-top: 10px; left: 50%; margin-left: -365px; /*set to a negative number 1/2 of your width*/
+}
+/* End (2)*/
+
+/* (4) Changes to ensure centerzero is shown */
+.centerzero {
+	position: relative;
+	top: 115px;
+}
+/* End (4) */
+
+
+:first-child+html #main {z-index: 4; margin: 0 auto; padding: 0; padding-top: 30px; text-align: center; min-height: 750px; height: auto !important; height: 750px;}
+
+
+.menurow_frameset {width: 100%; height: 115px;}
+.menurow_frameset .menu {z-index: 4; position: relative; width: 730px; padding-top: 10px; margin: 0px auto;}
+
+#menu_search {height: 20px; font-size: 12px; width: 550px; text-align: right; margin-top: 12px;}
+
+.menu_search_bg {width: 225px; height: 30px; padding-top: 6px; background: url(../assets/4da1fdfc8505cf5cd94aeea90b0feaf9.gif) no-repeat; font-size: 11px; font-family: Verdana, serif; color: white; text-align: right; padding-right: 10px;}
+.menu_search_bg input {margin-right: 5px;}
+html>body .menu_search_bg input {margin-right: 5px; margin-top: 1px;}
+
+.menu_search_input {font-family: Verdana; font-size: 12px; color: grey; width: 90px;}
+.menu_search_btn {font-size: 12px; font-family: Verdana, serif; color: white;}
+
+.menu_search_bg a:link {color: white;}
+.menu_search_bg a:visited {color: white;}
+.menu_search_bg a:hover {color: #fff1b5;}
+
+.content {z-index: 1; width: 70%; min-width: 300px; margin: 0px auto; position: relative; margin-top: -16px; padding: 0px 20px 100px 20px; text-align: left;}
+:first-child+html .content {z-index: 1; width: 90%; min-width: 300px; margin: 0px auto; position: relative; top: -30px; padding: 0px 20px 100px 20px; text-align: left;}
+
+.content_internal {width: 70%; min-width: 300px; margin: 0px auto; position: relative; margin-top: 100px; padding: 0px 20px 140px 20px; text-align: left;}
+:first-child+html .content_internal {z-index: 1; width: 90%; min-width: 300px; margin: 0px auto; position: relative; top: -30px; padding: 0px 20px 140px 20px; text-align: left;}
+
+/* (5) */
+#origin, #descent, #researches {padding-top: 115px;} /*header is 115px high */
+/* End (5) */
+
+/* (1a) Need to change positioning of randomImg to fit with current side-illustration changes*/
+#randomImg {z-index: 1; text-align: center; clear: both; position: fixed; right: 10px; top: 485px;}
+#staticImg {z-index: 1; text-align: center; clear: both; position: fixed; right: 10px; top: 485px;}
+/* End (1a)*/
+
+.footer, .push {position: absolute; min-width: 730px; width: 100%; height: 70px; bottom: 0; left: 0; text-align: left; background-color: white; padding: 5px 0;}
+
+.footer #copyright {padding-top: 10px; width: 450px; float: left; padding-left: 10px; font-size: 12px; line-height: 16px;}
+.footer #footer-R {text-align: right; width: 500px; float: right; padding-right: 10px;}
+
+
+#footerrow {
+	position: absolute;
+	min-width: 730px;
+	width: 695px;
+	height: 130px;
+	bottom: -409px;
+	left: 232px;
+	text-align: left;
+	background-color: white;
+	padding: 5px 0;
+}
+#footerrow #logos {height: 90px; float: left; margin-left: 20px;}
+#footerrow #logos #NUS {width: 148px; height: 90px; float: left; margin-right: 30px;}
+#footerrow #logos #sponsoredby {width: 120px; height: 55px; float: left; padding-top: 35px; font-weight: bold; font-size: 12px;}
+#footerrow #logos #ahrc {width: 126px; height: 34px; float: left; padding-top: 30px;}
+#footerrow #logos #caret {width: 75px; height: 23px; float: left; padding-top: 40px; padding-left: 10px;}
+#footerrow #statistics {float: right; margin-right: 20px; margin-top: 25px;}
+#footerrow #copyright {clear: both; width: 960px; margin-left: 20px; font-size: 14px; height: 30px; padding-top: 10px;}
+
+/* (3) Changed footer to allow it to flow correctly with current positioning of side illustrations */
+#footerrow_internal {
+	position: absolute;
+	width: 100%;
+	min-width: 300px;
+	bottom: -11px;
+	left: 1px;
+	text-align: center;
+	padding: 10px 0;
+}
+#footerrow_internal #statistics_internal {height: 40px; float: left; margin-left: 20px;}
+#footerrow_internal #returntohomepage {height: 30px; width: 100%; clear: both; text-align: center; }
+#footerrow_internal #copyright {padding-right: 30px; margin: 0 170px; font-size: 14px; }
+/* End (3) */
+
+#sponsors {height: 30px; padding-bottom:5px;}
+#sponsors span {position: absolute; margin-top: 5px; margin-left: -90px;}
+#sponsors img {padding-left: 15px;}
+
+.footer_full, .push_full {position: absolute; min-width: 730px; width: 100%; height: 70px; bottom: 0; left: 0; text-align: left; background-color: red; padding: 5px 0;}
+.footer_full .counter_content {margin-left: 20px; background: blue; padding-top: 0px; width: 500px;}
+.footer_full .homepage_content {margin-left: 20px; background: green; padding-top: 0px; width: 500px;}
+.footer_full .copyright_content {margin-left: 20px; background: yellow; padding-top: 0px; width: 900px;}
+
+
+
+/* Media queries for better layout on small devices */
+
+/* only screen and (max-device-width : 2000px) and (-webkit-min-device-pixel-ratio: 1.5),
+only screen and (max-device-width : 2000px) and (min-device-pixel-ratio: 1.5), */
+
+@media
+only screen and (max-width: 1000px) {
+    #side-L {display: none;}
+    #illus-L {display: none;}
+    #side-R {display: none;}
+    #illus-R {display: none;}
+    #staticImg {display: none;}
+    #randomImg {display: none;}
+    #footerrow_internal {display: none;}
+    #footerrow {display: none;}
+    .footer {display: none;}
+    #main {
+        margin-left: 5px;
+        margin-right: 5px;
+    }
+    .content {
+        width: 100%;
+    }
+    .content_internal {
+        width: 100%;
+    }
+}
+/*note - Anything over 1000 wide to render fully - desktop, landscape or large tablets */
+
+
+
+td {}
+th {}
+
+h1 {font-size: 150%; color: #174a1b; font-weight: bold; text-decoration: none; line-height: normal; margin-bottom: 1px;}
+h2 {font-size: 130%; font-weight: bold; color: #174a1b;}
+h3 {font-size: 126%; font-weight: normal;}
+h5 {font-size: 140%; font-weight: bold;}
+
+.style1 {}
+.style2 {font-size: 81%;}
+.style3 {}
+.style4 {font-weight: bold; font-size: 90%; color: #174a1b;}
+
+.style5 {}
+.ednote {font-size: 81%; color: #990000;}
+
+p {margin-top: 0px;}
+form {margin: 0px; padding: 0px;}
+
+.doubleunderline {border-bottom: 3px double;}
+
+.footer_spacer {width: 1px; height: 10px; display: block;}
+

@@ -1,0 +1,793 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-loose.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en-GB" lang="en-GB">
+
+
+<head>
+<title>The Encyclopedia of Arda</title>
+<link rel="stylesheet" href="assets/a064d6f5250d45d66b6d524721d3e905.css" />
+<!--[if IE]>
+<link rel="stylesheet" href="encarda-2012-ie.css" />
+<![endif]-->
+<link rel="stylesheet" href="assets/6e1d28fbbbb08cc0776fe89a462d097e.css" />
+<link rel="stylesheet" href="assets/578f0f3677ba13404d075d804f467ab5.css" />
+<link rel="shortcut icon" href="icon_palantir.ico" />
+<link rel="canonical" href="http://www.glyphweb.com/arda/default.php" />
+<script type="text/javascript" src="assets/c58f995d6fceb73277e6d0e223f3b500.js" /></script>
+<script type="text/javascript" src="assets/74e2318e39dd728c576496d9022242c8.js" /></script>
+<script type="text/javascript">
+var root = '';
+</script>
+<script type="text/javascript" src="assets/acc4aaeb0414efc355fe62a0f28da1d5.js" /></script>
+
+<meta name="description" content="An interactive encyclopedia of the world of J.R.R. Tolkien with thousands of entries, and interactive features including a chronicle, calendar and lexicon of Elvish names." />
+<meta name="keywords" content="j.r.r. tolkien,encyclopedia,arda,middle-earth,maps,timeline,chronicle,calendar,search,lexicon,dictionary,links" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta http-equiv="X-UA-Compatible" content="IE=9" />
+<!--<meta http-equiv="X-UA-Compatible" content="IE=EmulateIE9" />-->
+<script type="text/javascript">
+url = 'http://www.glyphweb.com/arda/default.asp';
+homeUrl = 'http://www.glyphweb.com/arda/default.php';
+url = escape(url);
+title = document.title;
+function makeShareLink(target,urlParam,titleParam){
+  target = target + '?' + urlParam + url;
+  if (titleParam != '') {
+    target = target + '&' + titleParam + title;
+  }
+  location.href = target;
+}
+</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-40719156-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
+
+<body onload="initHomepageImage('');if (themeName) { initTheme(); }">
+
+<table class="structure" id="themePageStructure">
+
+    <col width="50%" />
+    <col width="1000px" />
+    <col width="50%" />
+
+    <tr>
+        <td class="margin"></td>
+        <td class="content" id="themePageTop">
+            
+<table class="homepageStructure" cellspacing="0" cellpadding="0" border="0" id="themeBaseStructure">
+    
+<col width="250px" />
+<col width="500px" />
+<col width="250px" />
+    
+<tr>
+<td colspan="3" class="header" id="palantirHeader">
+<a href="default.asp"><img src="assets/daf4e66b7eba191ca9c5d9b9c526ed7f.png" width="156" height="170" id="mainLogo" /></a>
+<a href="default.asp"><img src="assets/2eaa6e2465ffc694f82045f01d4c2b21.png" width="306" height="60" alt="The Encyclopedia of Arda - an interactive guide to the world of J.R.R. Tolkien" id="logotype" /></a>
+<div class="mainmenuBar">
+<div class="mainmenu">
+<a href="index_alpha.html" id="menuItemAlpha" onmouseover="activateMenu(this)" onmouseout="hideMenu(this)">ALPHABETICAL</a>
+<a href="index_race.html" id="menuItemRaces" onmouseover="activateMenu(this)" onmouseout="hideMenu(this)">RACES</a>
+<a href="index_plac.html" id="menuItemPlaces" onmouseover="activateMenu(this)" onmouseout="hideMenu(this)">PLACES</a>
+<a href="index_misc.html" id="menuItemMiscellaneous" onmouseover="activateMenu(this)" onmouseout="hideMenu(this)">MISCELLANEOUS</a>
+<a href="index_articles.html" id="menuItemArticles" onmouseover="activateMenu(this)" onmouseout="hideMenu(this)">REFERENCE</a>
+<a href="index_tools.html" id="menuItemTools" onmouseover="activateMenu(this)" onmouseout="hideMenu(this)">INTERACTIVE</a>
+<a href="#" id="menuItemShare" onmouseover="activateMenu(this)" onmouseout="hideMenu(this)"><img src="assets/63111e6dcd2e7297f722b1746d9995eb.gif" width="13" height="10" /> SHARE</a>
+
+<div id="searchBox">
+<form action="search.asp" method="GET">
+<table>
+<tr>
+<td><input type="text" class="textbox" maxlength="255" name="search" /></td>
+<td><button type="submit" class="searchButton" title="Search the Encyclopedia of Arda"></button></td>
+</tr>
+</table>
+</form>
+</div>
+</div>
+
+<div class="dropdownMenu alphaMenu" id="dropdownMenuAlpha" onmouseover="activateMenu(this)" onmouseout="hideMenu(this)" onclick="hideMenu(this,true)">
+<table class="alphaTable">
+<tr>
+<td><a href="alphaa.html">A</a></td>
+<td><a href="alphab.html">B</a></td>
+<td><a href="alphac.html">C</a></td>
+<td><a href="alphad.html">D</a></td>
+<td><a href="alphae.html">E</a></td>
+<td><a href="alphaf.html">F</a></td>
+<td><a href="alphag.html">G</a></td>
+<td><a href="alphah.html">H</a></td>
+<td><a href="alphai.html">I</a></td>
+<td><a href="alphaj.html">J</a></td>
+<td><a href="alphak.html">K</a></td>
+<td><a href="alphal.html">L</a></td>
+<td><a href="alpham.html">M</a></td>
+</tr>
+<tr>
+<td><a href="alphan.html">N</a></td>
+<td><a href="alphao.html">O</a></td>
+<td><a href="alphap.html">P</a></td>
+<td><a href="alphaq.html">Q</a></td>
+<td><a href="alphar.html">R</a></td>
+<td><a href="alphas.html">S</a></td>
+<td><a href="alphat.html">T</a></td>
+<td><a href="alphau.html">U</a></td>
+<td><a href="alphav.html">V</a></td>
+<td><a href="alphaw.html">W</a></td>
+<td><a style="color:#a07070">X</a></td>
+<td><a href="alphay.html">Y</a></td>
+<td><a href="alphaz.html">Z</a></td>
+<td colspan="4"></td>
+</tr>
+</table>
+</div>
+
+<div class="dropdownMenu" id="dropdownMenuRaces" onmouseover="activateMenu(this)" onmouseout="hideMenu(this)" onclick="hideMenu(this,true)">
+<ul>
+<li><a href="raceainu.html">Ainur</a></li>
+<li><a href="racedrag.html">Dragons</a></li>
+<li><a href="racedwar.html">Dwarves</a></li>
+<li><a href="raceelve.html">Elves</a></li>
+<li><a href="raceents.html">Ents</a></li>
+<li><a href="racehobb.html">Hobbits</a></li>
+<li><a href="racemen.html">Men</a></li>
+<li><a href="raceorcs.html">Orcs</a></li>
+</ul>
+<hr />
+<ul>
+<li><a href="raceothe.html">Other races</a></li>
+</ul>
+</div>
+
+<div class="dropdownMenu" id="dropdownMenuPlaces" onmouseover="activateMenu(this)" onmouseout="hideMenu(this)" onclick="hideMenu(this,true)">
+<ul>
+<li><a href="placciti.html">Cities and buildings</a></li>
+<li><a href="placfiel.html">Fields, plains and deserts</a></li>
+<li><a href="placfore.html">Forests</a></li>
+<li><a href="plachill.html">Hills and mountains</a></li>
+<li><a href="placisla.html">Islands and promontories</a></li>
+<li><a href="placland.html">Lands, realms and regions</a></li>
+<li><a href="placrive.html">Rivers and lakes</a></li>
+<li><a href="placseas.html">Seas and oceans</a></li>
+</ul>
+<hr />
+<ul>
+<li><a href="placothe.html">Other places</a></li>
+</ul>
+</div>
+
+<div class="dropdownMenu" id="dropdownMenuMiscellaneous" onmouseover="activateMenu(this)" onmouseout="hideMenu(this)" onclick="hideMenu(this,true)">
+<ul>
+<li><a href="maps.html">Maps and illustrations</a></li>
+</ul>
+<hr />
+<ul>
+<li><a href="miscanim.html">Animals and plants</a></li>
+<li><a href="misceven.html">Events</a></li>
+<li><a href="miscitem.html">Items</a></li>
+<li><a href="misclang.html">Languages and writing</a></li>
+<li><a href="miscsong.html">Songs, lays and tales</a></li>
+<li><a href="misctime.html">Time and calendars</a></li>
+</ul>
+<hr />
+<ul>
+<li><a href="miscothe.html">More topics</a></li>
+</ul>
+</div>
+
+<div class="dropdownMenu" id="dropdownMenuArticles" onmouseover="activateMenu(this)" onmouseout="hideMenu(this)" onclick="hideMenu(this,true)">
+<ul>
+<li><a href="about.html">User guide</a></li>
+<li><a href="latest.asp">Latest entries</a></li>
+<li><a href="faq/intro.html">FAQ and e-mail</a></li>
+<li><a href="books.html">Disclaimer and bibliography</a></li>
+<li><a href="awards.html">Awards</a></li>
+</ul>
+<hr />
+<ul>
+<li><a href="words.html">Old and rare words</a></li>
+<li><a href="lexicon.html">Lexicon of names</a></li>
+<li><a href="excyclopedia.html">Excyclopedia of Arda</a></li>
+<li><a href="movie.html">Movie-goer's Guides:</a></li>
+<ul>
+<li><i><a href="movie.html">&#149; The Fellowship of the Ring</a></i></li>
+<li><i><a href="twotowers.html">&#149; The Two Towers</a></i></li>
+<li><i><a href="returnoftheking.html">&#149; The Return of the King</a></i></li>
+</ul>
+<li><a href="the-hobbit-an-unexpected-journey.html"><i>The Hobbit</i> Viewer's Companions:</a></li>
+<ul>
+<li><i><a href="the-hobbit-an-unexpected-journey.html">&#149; An Unexpected Journey</a></i></li>
+<li><i><a href="the-hobbit-the-desolation-of-smaug.html">&#149; The Desolation of Smaug</a></i></li>
+<li><i><a href="the-hobbit-the-battle-of-the-five-armies.html">&#149; The Battle of the Five Armies</a></i></li>
+</ul>
+</ul>
+</ul>
+<hr />
+<ul>
+<li><a href="links.asp">Tolkien links</a></li>
+<li><a href="booknews1.html">Book news</a></li>
+</ul>
+</div>
+
+<div class="dropdownMenu" id="dropdownMenuTools" onmouseover="activateMenu(this)" onmouseout="hideMenu(this)" onclick="hideMenu(this,true)">
+<ul>
+<li><a href="chronicle.html">The Chronicle of Arda</a></li>
+<li><a href="dates.html">Interactive calendar</a></li>
+<li><a href="random.asp">Random entry</a></li>
+</ul>
+<hr />
+<ul>
+<li><a href="http://itunes.apple.com/gb/app/encarda/id416105384?mt=8" target="_blank">iPhone edition</a></li>
+<li><a href="http://itunes.apple.com/gb/app/encarda-hd/id420396627?mt=8" target="_blank">iPad edition</a></li>
+</ul>
+</div>
+
+<div class="dropdownMenu" id="dropdownMenuShare" onmouseover="activateMenu(this)" onmouseout="hideMenu(this)" onclick="hideMenu(this,true)">
+<ul>
+<li><a href="" onclick="makeShareLink('http://del.icio.us/post','url=','title='); return false;" title="Share this page on Delicious">
+<span class="iconWrapper"><img src="assets/b8071628d436ef16e2d1aad14779459c.gif" width="14" height="14" class="iconImage" /></span>
+<span  class="iconLabel">Delicious</span></a></li>
+<li><a href="" onclick="makeShareLink('http://digg.com/submit','url=','title='); return false;" title="Share this page on Digg">
+<span class="iconWrapper"><img src="assets/9f961f9000c1215b53068b9d892cd157.gif" width="16" height="14" class="iconImage" /></span>
+<span  class="iconLabel">Digg</span></a></li>
+<li><a href="" onclick="makeShareLink('http://www.facebook.com/sharer.php','u=',''); return false;" title="Share this page on Facebook">
+<span class="iconWrapper"><img src="assets/3e13f15f7db30468a1247673ac9e53fe.gif" width="14" height="14" class="iconImage" /></span>
+<span  class="iconLabel">Facebook</span></a></li>
+<li><a href="" onclick="makeShareLink('http://reddit.com/submit','url=','title='); return false;" title="Share this page on reddit">
+<span class="iconWrapper"><img src="assets/b20773aff2799ed394b2f303066bffe0.gif" width="17" height="14" class="iconImage" /></span>
+<span  class="iconLabel">reddit</span></a></li>
+<li><a href="" onclick="makeShareLink('http://www.stumbleupon.com/submit','url=','title='); return false;" title="Share this page on StumbleUpon">
+<span class="iconWrapper"><img src="assets/6bd344b58bf2aa2ec9435357f05df8a1.gif" width="15" height="14" class="iconImage" /></span>
+<span  class="iconLabel">StumbleUpon</span></a></li>
+<li><a href="" onclick="makeShareLink('http://twitter.com/home','status=add+this:+',''); return false;" title="Share this page on Twitter">
+<span class="iconWrapper"><img src="assets/5a8affcb7f6a27ee42967cfdbc016ee3.gif" width="12" height="14" class="iconImage" /></span>
+<span  class="iconLabel">Twitter</span></a></li>
+</ul>
+</div>
+
+</div>
+<div class="submenuBar">
+<a href="latest.asp" title="See the latest entries to be added or updated">Latest</a>
+<a href="chronicle.html" title="Open an interactive timeline to explore the history of Arda">Chronicle</a>
+<a href="dates.html" title="Open an interactive calendar showing events from Tolkien's histories for any day of the year">Calendar</a>
+<a href="words.html" title="Open a glossary of old or rare words used in Tolkien's works">Old and rare words</a>
+<a href="lexicon.html" title="Open a lexicon of elements used in placenames and personal names">Lexicon of names</a>
+<a href="links.asp" title="Open an index of links to Tolkien-related sites elsewhere on the Web">Links</a>
+<a href="random.asp" title="Open an encyclopedia entry selected at random">Random</a>
+</div>
+
+</td>
+</tr>
+    
+    <tr>
+
+<td class="rootSidebar">
+
+<h2>
+<a href="" onclick="sidebarToggleMenu('Services'); return false;">Contents</a>
+<button type="button" class="rootSidebarButton" id="sidebarButtonServices" onclick="sidebarToggleMenu('Services')"><img src="assets/2a092cec1644081a7a5c7f31f78fed8d.png" width="7" height="6"></button>
+</h2>
+<div class="rootSidebarSection" id="sidebarMenuServices">
+<ul>
+<li><a href="default.asp">Front page</a></li>
+<li><a href="about.html">User guide</a></li>
+<li><a href="faq/intro.html">FAQ and e-mail</a></li>
+<li><a href="books.html">Disclaimer and bibliography</a></li>
+<li><a href="awards.html">Awards</a></li>
+</ul>
+<hr />
+<ul>
+<li><a href="latest.asp">Latest entries</a></li>
+<li><a href="random.asp">Random entry</a></li>
+<li><a href="maps.html">Maps and illustrations</a></li>
+</ul>
+</div>
+
+<h2>
+<a href="" onclick="sidebarToggleMenu('Alpha'); return false;">Alphabetical index</a>
+<button type="button" class="rootSidebarButton" id="sidebarButtonAlpha" onclick="sidebarToggleMenu('Alpha')"><img src="assets/5a55c2fa24712c8164651f11e7cc7b23.png" width="7" height="6"></button>
+</h2>
+<div class="rootSidebarSection" id="sidebarMenuAlpha" style="display:none">
+<table class="alphaTable">
+<tr>
+<td><a href="alphaa.html">A</a></td>
+<td><a href="alphab.html">B</a></td>
+<td><a href="alphac.html">C</a></td>
+<td><a href="alphad.html">D</a></td>
+<td><a href="alphae.html">E</a></td>
+<td><a href="alphaf.html">F</a></td>
+<td><a href="alphag.html">G</a></td>
+<td><a href="alphah.html">H</a></td>
+<td><a href="alphai.html">I</a></td>
+<td><a href="alphaj.html">J</a></td>
+<td><a href="alphak.html">K</a></td>
+<td><a href="alphal.html">L</a></td>
+<td><a href="alpham.html">M</a></td>
+</tr>
+<tr>
+<td><a href="alphan.html">N</a></td>
+<td><a href="alphao.html">O</a></td>
+<td><a href="alphap.html">P</a></td>
+<td><a href="alphaq.html">Q</a></td>
+<td><a href="alphar.html">R</a></td>
+<td><a href="alphas.html">S</a></td>
+<td><a href="alphat.html">T</a></td>
+<td><a href="alphau.html">U</a></td>
+<td><a href="alphav.html">V</a></td>
+<td><a href="alphaw.html">W</a></td>
+<td><a style="color:#a07070">X</a></td>
+<td><a href="alphay.html">Y</a></td>
+<td><a href="alphaz.html">Z</a></td>
+<td colspan="4"></td>
+</tr>
+</table>
+</div>
+
+<h2>
+<a href="" onclick="sidebarToggleMenu('Topics'); return false;">Browse topics</a>
+<button type="button" class="rootSidebarButton" id="sidebarButtonTopics" onclick="sidebarToggleMenu('Topics')"><img src="assets/5a55c2fa24712c8164651f11e7cc7b23.png" width="7" height="6"></button>
+</h2>
+<div class="rootSidebarSection" id="sidebarMenuTopics" style="display:none">
+<h3>Races</h3>
+<ul class="bulleted">
+<li><a href="raceainu.html">Ainur</a></li>
+<li><a href="racedrag.html">Dragons</a></li>
+<li><a href="racedwar.html">Dwarves</a></li>
+<li><a href="raceelve.html">Elves</a></li>
+<li><a href="raceents.html">Ents</a></li>
+<li><a href="racehobb.html">Hobbits</a></li>
+<li><a href="racemen.html">Men</a></li>
+<li><a href="raceorcs.html">Orcs</a></li>
+<li><a href="raceothe.html">Other races</a></li>
+</ul>
+<h3>Places</h3>
+<ul class="bulleted">
+<li><a href="placciti.html">Cities and buildings</a></li>
+<li><a href="placfiel.html">Fields, plains and deserts</a></li>
+<li><a href="placfore.html">Forests</a></li>
+<li><a href="plachill.html">Hills and mountains</a></li>
+<li><a href="placisla.html">Islands and promontories</a></li>
+<li><a href="placland.html">Lands, realms and regions</a></li>
+<li><a href="placrive.html">Rivers and lakes</a></li>
+<li><a href="placseas.html">Seas and oceans</a></li>
+<li><a href="placothe.html">Other places</a></li>
+</ul>
+<h3>Miscellaneous</h3>
+<ul class="bulleted">
+<li><a href="miscanim.html">Animals and plants</a></li>
+<li><a href="misceven.html">Events</a></li>
+<li><a href="miscitem.html">Items</a></li>
+<li><a href="misclang.html">Languages and writing</a></li>
+<li><a href="miscsong.html">Songs, lays and tales</a></li>
+<li><a href="misctime.html">Time and calendars</a></li>
+<li><a href="miscothe.html">More topics</a></li>
+</ul>
+</div>
+
+<h2>
+<a href="" onclick="sidebarToggleMenu('Reference'); return false;">Reference</a>
+<button type="button" class="rootSidebarButton" id="sidebarButtonReference" onclick="sidebarToggleMenu('Reference')"><img src="assets/5a55c2fa24712c8164651f11e7cc7b23.png" width="7" height="6"></button>
+</h2>
+<div class="rootSidebarSection" id="sidebarMenuReference" style="display:none">
+<ul>
+<li><a href="chronicle.html">Chronicle of Arda</a></li>
+<li><a href="dates.html">Interactive calendar</a></li>
+<li><a href="words.html">Old and rare words</a></li>
+<li><a href="lexicon.html">Lexicon of names</a></li>
+<li><a href="excyclopedia.html">Excyclopedia of Arda</a></li>
+</ul>
+<hr />
+<h3>Movie-goer's Guides</h3>
+<ul class="bulleted">
+<li><a href="movie.html"><i>The Fellowship of the Ring</i></a></li>
+<li><a href="twotowers.html"><i>The Two Towers</i></a></li>
+<li><a href="returnoftheking.html"><i>The Return of the King</i></a></li>
+</ul>
+<h3><i>The Hobbit</i> Viewers' Companions</h3>
+<ul class="bulleted">
+<li><a href="the-hobbit-an-unexpected-journey.html"><i>An Unexpected Journey</i></a></li>
+<li><a href="the-hobbit-the-desolation-of-smaug.html"><i>The Desolation of Smaug</i></a></li>
+<li><a href="the-hobbit-the-battle-of-the-five-armies.html"><i>The Battle of the Five Armies</i></a></li>
+</ul>
+<hr />
+<ul>
+<li><a href="links.asp">Tolkien links</a></li>
+</ul>
+</div>
+
+<h2>
+<a href="" onclick="sidebarToggleMenu('Editions'); return false;">Other editions</a>
+<button type="button" class="rootSidebarButton" id="sidebarButtonEditions" onclick="sidebarToggleMenu('Editions')"><img src="assets/2a092cec1644081a7a5c7f31f78fed8d.png" width="7" height="6"></button>
+</h2>
+<div class="rootSidebarSection" id="sidebarMenuEditions">
+<ul>
+<li><a href="http://itunes.apple.com/gb/app/encarda/id416105384?mt=8" target="_blank">iPhone edition</a></li>
+<li><a href="http://itunes.apple.com/gb/app/encarda-hd/id420396627?mt=8" target="_blank">iPad edition</a></li>
+</ul>
+</div>
+
+<h2>
+<a href="" onclick="sidebarToggleMenu('News'); return false;">Tolkien news and resources</a>
+<button type="button" class="rootSidebarButton" id="sidebarButtonNews" onclick="sidebarToggleMenu('News')"><img src="assets/5a55c2fa24712c8164651f11e7cc7b23.png" width="7" height="6"></button>
+</h2>
+<div class="rootSidebarSection" id="sidebarMenuNews" style="display:none">
+<h3>HarperCollins</h3>
+<ul class="bulleted">
+<li><a href="hcnews3.html">HarperCollins news</a></li>
+<li><a href="http://www.tolkien.co.uk/" target="_blank">tolkien.co.uk</a></li>
+</ul>
+<h3>Book news</h3>
+<ul class="bulleted">
+<li><a href="https://thelureofthering.com/" target="_blank"><i>The Lure of the Ring</i></a></li>
+<li><a href="booknews1.html"><i>The Ring of Words</i></a></li>
+</ul>
+<!--
+<h3>Mythgard Institute</h3>
+<ul class="bulleted">
+<li><a href="http://www.mythgard.org/exclusives/riddles-in-the-dark/" target="_blank">Riddles in the Dark</a></li>
+<li><a href="http://www.mythgard.org/academy/courses-summer-2012/" target="_blank">Online Tolkien course</a></li>
+</ul>
+-->
+</div>
+
+<h2>
+<a href="" onclick="sidebarToggleMenu('Partners'); return false;">Sponsors and associates</a>
+<button type="button" class="rootSidebarButton" id="sidebarButtonPartners" onclick="sidebarToggleMenu('Partners')"><img src="assets/5a55c2fa24712c8164651f11e7cc7b23.png" width="7" height="6"></button>
+</h2>
+<div class="rootSidebarSection" id="sidebarMenuPartners" style="display:none">
+<h3>Site sponsors</h3>
+<ul class="bulleted">
+<li><a href="https://www.axiomsoftware.com/" target="_blank">Axiom Software Ltd</a></li>
+<li><a href="https://www.discusonline.com/" target="_blank">Discus Online</a></li>
+<li><a href="https://www.mydiscprofile.com/" target="_blank">myDISCprofile</a></li>
+<li><a href="https://www.discuspersonal.com/" target="_blank">Discus Personal</a></li>
+<li><a href="http://www.virtix.co.uk/" target="_blank">Virtix Ltd</a></li>
+</ul>
+<h3>Associated sites</h3>
+<ul class="bulleted">
+<li><a href="http://www.glyphweb.com/esky/" target="_blank">The Electronic Sky</a></li>
+</ul>
+</div>
+
+</td>
+
+<td class="mainContent" id="mainContentWrapper">
+
+<img id="homepageImage" width="500" height="140" />
+    
+<div class="mainContentText">
+
+<h1>Welcome to <i>The Encyclopedia of Arda</i></h1>
+
+<p><i>The Encyclopedia of Arda</i> is a personal project - a tribute to and a celebration of the works of 
+J.R.R. Tolkien. The site is evolving into an illustrated hypertext encyclopedia of Tolkien's realms 
+and peoples. It already contains about four thousand entries, and we're constantly adding new entries and expanding existing ones.</p>	
+
+<h2>Inside the encyclopedia</h2>
+
+<p>The Encyclopedia of Arda contains thousands of articles covering topics from J.R.R. Tolkien's world, some brief, some lengthy and some containing detailed essays and discussions.</p>
+<p>You'll also find a selection of interactive tools, including a chronicle to help you explore Tolkien's fictional history, and calendar to translate dates and events, a lexicon of names, a glossary of old and rare words, and much more.</p>
+
+<h2>Context and approach</h2>
+
+<p>The content of the Encyclopedia is written in the same context as Tolkien himself used; he presented himself
+simply as a translator, rather than originator of the tales.  Hence, we try to describe his world
+from a 'historical' rather than a literary perspective, though sometimes it's useful to explore ideas in their wider context.  
+Where relevant, therefore, you'll also find a few references to Tolkien's life or opinions, or to real historical or 
+mythological parallels to events in his universe.</p>
+
+
+<h2>About the name <i>Arda</i></h2>
+
+<p><i><a href="a/arda.html">Arda</a></i> was the name given by the <a href="e/elves.html">Elves</a> to their World and 
+all it contained, and so 'Encyclopedia of Arda' seemed a peculiarly apt title for this project.</p>
+
+<h2>Special thanks</h2>
+
+<p>Thanks to all those who've e-mailed us over the years with their suggestions, corrections, ideas and just general support.</p>
+
+<p>But the real Special Thanks, though, belong to the memory of J.R.R. Tolkien for his extraordinary and unparalleled creation.</p>	
+
+<div class="baseContent">
+<p>For acknowledgements and references, see the <a href="books.html">Disclaimer &amp; Bibliography</a> page.</p>
+<p>Original content &#169; copyright Mark Fisher 1997-2020.  All rights reserved.  For conditions of reuse, see the <a href="faq/use.html">Site FAQ</a>.</p>
+<div class="externalLines">
+<h5>Website services kindly sponsored by <a target="_blank" href="https://www.discusonline.com/">Discus</a> from <a target="_blank" href="https://www.axiomsoftware.com/">Axiom Software Ltd</a>.</h5><h6><a target="_blank" href="https://www.discusonline.com/">Discus</a> is a powerful, flexible <a target="_blank" href="https://www.discusonline.com/disc/what-is-disc.php">DISC profile</a> solution - find out much more in our <a target="_blank" href="https://www.discusonline.com/features/free-guide-to-disc-personality-test.php">free guide</a>.</h6></div>
+</div>
+
+</div>
+
+</td>
+
+
+<td class="insertsColumn">
+
+<h2>Latest entries and updates</h2>
+<div class="insertsContent">
+<ul>
+<li><strong><a href="r/realmsinexile.html">Realms in Exile</a></strong><br />The lands founded by <a href="e/elendil.html">Elendil</a> and his sons</li>
+<li><strong><a href="d/dreadhelm.html">Dread Helm</a></strong><br />The meaning of <a href="t/turin.html">T&#250;rin's</a> alias <i><a href="g/gorthol.html">Gorthol</a></i></li>
+<li><strong><a href="v/valleyofthewraiths.html">Valley of the Wraiths</a></strong><br />The <a href="m/morgulvale.html">vale</a> behind <a href="m/minasmorgul.html">Minas Morgul</a></li>
+<li><strong><a href="t/tarlangsneck.html">Tarlang&#146;s Neck</a></strong><br />The pass into eastern <a href="l/lamedon.html">Lamedon</a></li>
+<li><strong><a href="c/ciril.html">River Ciril</a></strong><br />A minor river of western <a href="l/lamedon.html">Lamedon</a></li>
+</ul>
+<p><a href="latest.asp">See more...</a></p>
+</div>
+
+
+</div>
+
+
+<style type="text/css">
+
+h2.feature {
+    margin-bottom:0;
+}
+.featureContent {
+    margin:0px 15px;
+}
+.featureContent h3 {
+    margin-bottom:5px;
+    font-weight:normal;
+    font-size:18px;
+    border:none;
+    padding-top:0;
+}
+.featureContent h4 {
+    color:#c00000;
+    border-bottom:1px solid #DEBE6B;
+    padding-bottom:10px;
+}
+
+.featureContent p {
+    line-height:140%;
+    margin-right:15px;
+}
+.featureImageHolder {
+    width:100%;
+    margin-top:0;
+    padding-top:0;
+    height:200px;
+    display:none;    background-size:cover;
+    background-position:center center;
+}
+.featureLink {
+    border-top:1px solid #DEBE6B;
+    padding-top:10px;
+}
+</style>
+
+<h2 class="feature">Featured Entry</h2>
+<a href="b/battleoffivearmies.html"><div class="featureImageHolder"></div></a>
+<div class="featureContent" id="featureContent">
+<a href="b/battleoffivearmies.html"><h3>Battle of Five Armies</h3></a>
+<h4>The great battle before the gates of <a href="e/erebor.html">Erebor</a></h4>
+<p>Since the ending of the <a href="w/warofthedwarvesandorcs.html">War of the Dwarves and Orcs</a>, and the <a href="d/dwarves.html">Dwarves'</a> ultimate victory at the <a href="b/battleofnanduhirion.html">Battle of Nanduhirion</a>, the <a href="o/orcs.html">Orcs</a> had nursed a hatred of that race.  In the year <a href="chronicle.html?startyear=2941&startage=3">III 2941</a>, the year of <a href="b/bilbobaggins.html">Bilbo Baggin's</a> journey to the <a href="l/lonelymountain.html">Lonely Mountain</a>, those events lay more than one hundred and forty years in the past.  Travelling through the <a href="m/mistymountains.html">Misty Mountains</a>, <a href="b/bilbobaggins.html">Bilbo</a>, <a href="t/thorin.html">Thorin</a> and their companions were captured by a colony of the <a href="o/orcs.html">Orcs</a> that infested those regions.  With <a href="g/gandalf.html">Gandalf's</a> help they escaped, but not before killing several of their captors, including their leader the <a href="g/greatgoblin.html">Great Goblin</a>.</p><p>The loss of the <a href="g/greatgoblin.html">Great Goblin</a> at the hands of a band of <a href="d/dwarves.html">Dwarves</a> inflamed the bitter memories of the <a href="o/orcs.html">Orcs'</a> <a href="w/warofthedwarvesandorcs.html">War</a> with the <a href="d/dwarves.html">Dwarves</a>.  Under the command of <a href="b/bolg.html">Bolg</a>, whose own father <a href="a/azog.html">Azog</a> had been killed at <a href="b/battleofnanduhirion.html">Nanduhirion</a>, all the armies of the <a href="o/orcs.html">Orcs</a> of the <a href="m/mistymountains.html">Misty Mountains</a>, and their allies the <a href="w/wolves.html">wolves</a> and <a href="b/bats.html">bats</a>, began to gather and plan their revenge.</p><p class="featureLink"><a href="b/battleoffivearmies.html">Read the full entry...</a></p>  
+</div>
+
+</div>
+</div>
+
+</td>
+
+    </tr>
+</table>
+
+        </td>
+        <td class="margin"></td>
+    </tr>
+</table>
+
+<div class="mobileContent">
+<script type="text/javascript">
+window.addEventListener('load',translateContent,false);
+var currentMeaTab = 'Alpha';
+function translateContent() {
+    var feature = document.getElementById('featureContent');
+    var alphaBase = document.getElementById('featureMobile');
+    var content = feature.innerHTML;
+    alphaBase.innerHTML = content;
+}
+function selectMeaTab(tab) {
+    document.getElementById('meaTab'+currentMeaTab).className = '';
+    document.getElementById('meaIndex'+currentMeaTab).style.display = 'none';
+    currentMeaTab = tab;
+    document.getElementById('meaTab'+currentMeaTab).className = 'selectedTab';
+    document.getElementById('meaIndex'+currentMeaTab).style.display = 'block';
+}
+</script>
+
+<div class="meaWrapper">
+
+<div class="meaGraphics">
+<div class="meaGraphicsPortrait">
+<div id="nhLogo"><img src="assets/9e44fbf1f68e2c56c28e79cd154ecb69.png" width="83" height="91" /></div>
+<div id="nhCaption"><img src="assets/8bc07d9ebcfb6860397cd1496c9e6b8d.png" width="352" height="49" alt="The Encyclopedia of Arda" /></div>
+</div>
+<div class="meaGraphicsLandscape">
+<div id="largeLogo"><img src="assets/bff11eb0ca85d7ecebb32fe99973abe8.png" width="199" height="255" /></div>
+<div id="homepageCaption"><img src="assets/95969d5409cb67f82b18fb302c0cd9c3.png" width="186" height="176" alt="The Encyclopedia of Arda" /></div>
+</div>
+</div>
+
+<div class="meaContent">
+
+<div class="meaGraphic" id="meaGraphic">
+</div>
+
+<form name="meaSearchForm" action="search.asp" method="get">
+<div class="meaSearch">
+<div id="meaSearchInput"><input class="textbox" type="text" name="search" maxlength="255" autocapitalize="none" /></div>
+<div id="meaSearchButton"><button>Search</button></div>
+</div>
+</form>
+
+<div class="meaTabs">
+<button id="meaTabAlpha" class="selectedTab" onclick="selectMeaTab('Alpha')">A-Z</button>
+<button id="meaTabTopics" onclick="selectMeaTab('Topics')">Topics</button>
+<button id="meaTabGuides" onclick="selectMeaTab('Guides')">Guides</button>
+<button id="meaTabReference" onclick="selectMeaTab('Reference')">Reference</button>
+</div>
+
+<div class="meaScroller">
+<div class="meaIndex" id="meaIndexAlpha">
+
+<div id="meaAlphaWrapper">
+<div class="meaAlphaItem"><button onclick="location.href='alphaa.html'">A</button></div>
+<div class="meaAlphaItem"><button onclick="location.href='alphab.html'">B</button></div>
+<div class="meaAlphaItem"><button onclick="location.href='alphac.html'">C</button></div>
+<div class="meaAlphaItem"><button onclick="location.href='alphad.html'">D</button></div>
+<div class="meaAlphaItem"><button onclick="location.href='alphae.html'">E</button></div>
+<div class="meaAlphaItem"><button onclick="location.href='alphaf.html'">F</button></div>
+<div class="meaAlphaItem"><button onclick="location.href='alphag.html'">G</button></div>
+<div class="meaAlphaItem"><button onclick="location.href='alphah.html'">H</button></div>
+<div class="meaAlphaItem"><button onclick="location.href='alphai.html'">I</button></div>
+<div class="meaAlphaItem"><button onclick="location.href='alphaj.html'">J</button></div>
+<div class="meaAlphaItem"><button onclick="location.href='alphak.html'">K</button></div>
+<div class="meaAlphaItem"><button onclick="location.href='alphal.html'">L</button></div>
+<div class="meaAlphaItem"><button onclick="location.href='alpham.html'">M</button></div>
+<div class="meaAlphaItem"><button onclick="location.href='alphan.html'">N</button></div>
+<div class="meaAlphaItem"><button onclick="location.href='alphao.html'">O</button></div>
+<div class="meaAlphaItem"><button onclick="location.href='alphap.html'">P</button></div>
+<div class="meaAlphaItem"><button onclick="location.href='alphaq.html'">Q</button></div>
+<div class="meaAlphaItem"><button onclick="location.href='alphar.html'">R</button></div>
+<div class="meaAlphaItem"><button onclick="location.href='alphas.html'">S</button></div>
+<div class="meaAlphaItem"><button onclick="location.href='alphat.html'">T</button></div>
+<div class="meaAlphaItem"><button onclick="location.href='alphau.html'">U</button></div>
+<div class="meaAlphaItem"><button onclick="location.href='alphav.html'">V</button></div>
+<div class="meaAlphaItem"><button onclick="location.href='alphaw.html'">W</button></div>
+<div class="meaAlphaItem meaDisabled"><button onclick="alert('There are no entries for \`X\`')">X</button></div>
+<div class="meaAlphaItem"><button onclick="location.href='alphay.html'">Y</button></div>
+<div class="meaAlphaItem"><button onclick="location.href='alphaz.html'">Z</button></div>
+<div class="meaAlphaItem"></div>
+<div class="meaAlphaItem"><button onclick="location.href='random.asp'"><img src="assets/6ecfc508de964fd2b2b979b932db6195.png" width="20" height="22" title="Random entry" alt="Random entry" /></button></div>
+
+<div class="meaIOS" onclick="location.href='encarda-app.php'">
+<h2>Download the iOS App</h2>
+<p>The Encyclopedia of Arda app is available for iPhone and iPad</p>
+<img src="assets/46d7df78821a4316ffa4a93289f8c3b3.png" width="206" height="169" />
+</div>
+
+<div class="meaAdditional">
+
+<a href="https://www.mydiscprofile.com/" target="_blank">
+<div class="mdpSpace">
+<img id="mdpCaption" src="assets/108129dee7618e7dbc54e0fce6dc5571.png" width="546" height="86" alt="myDISCprofile - take your free test" />
+</div>
+</a>
+
+<h5>Featured Article:</h5>
+<div id="featureMobile"></div>
+</div>
+
+</div>
+
+</div>
+<div class="meaIndex" id="meaIndexTopics">
+
+<div class="meaIndexList">
+<ul>
+
+<li><a href="index_race.html">Races</a></li>
+<ul>
+<li><a href="raceainu.html">Ainur</a></li>
+<li><a href="racedrag.html">Dragons</a></li>
+<li><a href="racedwar.html">Dwarves</a></li>
+<li><a href="raceelve.html">Elves</a></li>
+<li><a href="raceents.html">Ents</a></li>
+<li><a href="racehobb.html">Hobbits</a></li>
+<li><a href="racemen.html">Men</a></li>
+<li><a href="raceorcs.html">Orcs</a></li>
+<li><a href="raceothe.html">Others</a></li>
+</ul>
+
+<li><a href="index_plac.html">Places</a></li>
+<ul>
+<li><a href="placciti.html">Cities &amp; Buildings</a></li>
+<li><a href="placfiel.html">Fields, Plains &amp; Deserts</a></li>
+<li><a href="placfore.html">Forests</a></li>
+<li><a href="plachill.html">Hills &amp; Mountains</a></li>
+<li><a href="placisla.html">Islands & Promontories</a></li>
+<li><a href="placland.html">Lands, Realms &amp; Regions</a></li>
+<li><a href="placrive.html">Rivers &amp; Lakes</a></li>
+<li><a href="placseas.html">Seas &amp; Oceans</a></li>
+<li><a href="placothe.html">Others</a></li>
+</ul>
+
+<li><a href="index_misc.html">Miscellaneous</a></li>
+<ul>
+<li><a href="miscanim.html">Animals &amp; Plants</a></li>
+<li><a href="misceven.html">Events</a></li>
+<li><a href="miscitem.html">Items</a></li>
+<li><a href="misclang.html">Languages</a></li>
+<li><a href="miscsong.html">Songs, Lays &amp; Tales</a></li>
+<li><a href="misctime.html">Time &amp; Calendars</a></li>
+<li><a href="miscothe.html">Others</a></li>
+</ul>
+
+</ul>
+</div>
+</div>
+
+<div class="meaIndex" id="meaIndexGuides">
+<div class="meaIndexList">
+<ul>
+
+<li><a href="about.html">About the <i>Encyclopedia of Arda</i></a></li>
+<li><a href="faq/intro.html">FAQ &amp; E-mail</a></li>
+<li><i>The Lord of the Rings</i> Movie Guides</li>
+<ul>
+<li><a href="movie.html"><i>The Fellowship of the Ring</i></a></li>
+<li><a href="twotowers.html"><i>The Two Towers</i></a></li>
+<li><a href="returnoftheking.html"><i>The Return of the King</i></a></li>
+</ul>
+<li><i>The Hobbit</i> Movie Guides</li>
+<ul>
+<li><a href="the-hobbit-an-unexpected-journey.html"><i>An Unexpected Journey</i></a></li>
+<li><a href="the-hobbit-the-desolation-of-smaug.html"><i>The Desolation of Smaug</i></a></li>
+<li><a href="the-hobbit-the-battle-of-the-five-armies.html"><i>The Battle of the Five Armies</i></a></li>
+</ul>
+</ul>
+</div>
+</div>
+
+<div class="meaIndex" id="meaIndexReference">
+<div class="meaIndexList">
+<ul>
+<li><a href="chronicle.html">Chronicle of Arda</a></li>
+<li><a href="dates.html">Interactive Calendar</a></li>
+<li><a href="latest.asp">Latest Entries</a></li>
+<li><a href="maps.html">Maps &amp; Illustrations</a></li>
+<li><a href="words.html">Old &amp; Rare Words</a></li>
+<li><a href="lexicon.html">Lexicon of Names</a></li>
+<li><a href="excyclopedia.html">Excyclopedia of Arda</a></li>
+<li><a href="links.asp">Tolkien Links</a></li>
+</ul>
+</div>
+</div>
+
+</div>
+
+</div>
+
+</div>
+</div>
+
+
+<div style="position:fixed;top:0;left:0;width:100%;height:45px;z-index:2147483647;background-color:rgba(253,147,38,0.90) !important;color:black !important;text-align:right !important;font:normal 12px/45px Arial, sans-serif !important;border-radius:0 !important;margin:0 !important;max-width:100% !important;background-repeat: no-repeat !important;background-position: 15px center !important;
+background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHwAAAAYCAYAAAA4e5nyAAAKQWlDQ1BJQ0MgUHJvZmlsZQAASA2dlndUU9kWh8+9N73QEiIgJfQaegkg0jtIFQRRiUmAUAKGhCZ2RAVGFBEpVmRUwAFHhyJjRRQLg4Ji1wnyEFDGwVFEReXdjGsJ7601896a/cdZ39nnt9fZZ+9917oAUPyCBMJ0WAGANKFYFO7rwVwSE8vE9wIYEAEOWAHA4WZmBEf4RALU/L09mZmoSMaz9u4ugGS72yy/UCZz1v9/kSI3QyQGAApF1TY8fiYX5QKUU7PFGTL/BMr0lSkyhjEyFqEJoqwi48SvbPan5iu7yZiXJuShGlnOGbw0noy7UN6aJeGjjAShXJgl4GejfAdlvVRJmgDl9yjT0/icTAAwFJlfzOcmoWyJMkUUGe6J8gIACJTEObxyDov5OWieAHimZ+SKBIlJYqYR15hp5ejIZvrxs1P5YjErlMNN4Yh4TM/0tAyOMBeAr2+WRQElWW2ZaJHtrRzt7VnW5mj5v9nfHn5T/T3IevtV8Sbsz55BjJ5Z32zsrC+9FgD2JFqbHbO+lVUAtG0GQOXhrE/vIADyBQC03pzzHoZsXpLE4gwnC4vs7GxzAZ9rLivoN/ufgm/Kv4Y595nL7vtWO6YXP4EjSRUzZUXlpqemS0TMzAwOl89k/fcQ/+PAOWnNycMsnJ/AF/GF6FVR6JQJhIlou4U8gViQLmQKhH/V4X8YNicHGX6daxRodV8AfYU5ULhJB8hvPQBDIwMkbj96An3rWxAxCsi+vGitka9zjzJ6/uf6Hwtcim7hTEEiU+b2DI9kciWiLBmj34RswQISkAd0oAo0gS4wAixgDRyAM3AD3iAAhIBIEAOWAy5IAmlABLJBPtgACkEx2AF2g2pwANSBetAEToI2cAZcBFfADXALDIBHQAqGwUswAd6BaQiC8BAVokGqkBakD5lC1hAbWgh5Q0FQOBQDxUOJkBCSQPnQJqgYKoOqoUNQPfQjdBq6CF2D+qAH0CA0Bv0BfYQRmALTYQ3YALaA2bA7HAhHwsvgRHgVnAcXwNvhSrgWPg63whfhG/AALIVfwpMIQMgIA9FGWAgb8URCkFgkAREha5EipAKpRZqQDqQbuY1IkXHkAwaHoWGYGBbGGeOHWYzhYlZh1mJKMNWYY5hWTBfmNmYQM4H5gqVi1bGmWCesP3YJNhGbjS3EVmCPYFuwl7ED2GHsOxwOx8AZ4hxwfrgYXDJuNa4Etw/XjLuA68MN4SbxeLwq3hTvgg/Bc/BifCG+Cn8cfx7fjx/GvyeQCVoEa4IPIZYgJGwkVBAaCOcI/YQRwjRRgahPdCKGEHnEXGIpsY7YQbxJHCZOkxRJhiQXUiQpmbSBVElqIl0mPSa9IZPJOmRHchhZQF5PriSfIF8lD5I/UJQoJhRPShxFQtlOOUq5QHlAeUOlUg2obtRYqpi6nVpPvUR9Sn0vR5Mzl/OX48mtk6uRa5Xrl3slT5TXl3eXXy6fJ18hf0r+pvy4AlHBQMFTgaOwVqFG4bTCPYVJRZqilWKIYppiiWKD4jXFUSW8koGStxJPqUDpsNIlpSEaQtOledK4tE20Otpl2jAdRzek+9OT6cX0H+i99AllJWVb5SjlHOUa5bPKUgbCMGD4M1IZpYyTjLuMj/M05rnP48/bNq9pXv+8KZX5Km4qfJUilWaVAZWPqkxVb9UU1Z2qbapP1DBqJmphatlq+9Uuq43Pp893ns+dXzT/5PyH6rC6iXq4+mr1w+o96pMamhq+GhkaVRqXNMY1GZpumsma5ZrnNMe0aFoLtQRa5VrntV4wlZnuzFRmJbOLOaGtru2nLdE+pN2rPa1jqLNYZ6NOs84TXZIuWzdBt1y3U3dCT0svWC9fr1HvoT5Rn62fpL9Hv1t/ysDQINpgi0GbwaihiqG/YZ5ho+FjI6qRq9Eqo1qjO8Y4Y7ZxivE+41smsImdSZJJjclNU9jU3lRgus+0zwxr5mgmNKs1u8eisNxZWaxG1qA5wzzIfKN5m/krCz2LWIudFt0WXyztLFMt6ywfWSlZBVhttOqw+sPaxJprXWN9x4Zq42Ozzqbd5rWtqS3fdr/tfTuaXbDdFrtOu8/2DvYi+yb7MQc9h3iHvQ732HR2KLuEfdUR6+jhuM7xjOMHJ3snsdNJp9+dWc4pzg3OowsMF/AX1C0YctFx4bgccpEuZC6MX3hwodRV25XjWuv6zE3Xjed2xG3E3dg92f24+ysPSw+RR4vHlKeT5xrPC16Il69XkVevt5L3Yu9q76c+Oj6JPo0+E752vqt9L/hh/QL9dvrd89fw5/rX+08EOASsCegKpARGBFYHPgsyCRIFdQTDwQHBu4IfL9JfJFzUFgJC/EN2hTwJNQxdFfpzGC4sNKwm7Hm4VXh+eHcELWJFREPEu0iPyNLIR4uNFksWd0bJR8VF1UdNRXtFl0VLl1gsWbPkRoxajCCmPRYfGxV7JHZyqffS3UuH4+ziCuPuLjNclrPs2nK15anLz66QX8FZcSoeGx8d3xD/iRPCqeVMrvRfuXflBNeTu4f7kufGK+eN8V34ZfyRBJeEsoTRRJfEXYljSa5JFUnjAk9BteB1sl/ygeSplJCUoykzqdGpzWmEtPi000IlYYqwK10zPSe9L8M0ozBDuspp1e5VE6JA0ZFMKHNZZruYjv5M9UiMJJslg1kLs2qy3mdHZZ/KUcwR5vTkmuRuyx3J88n7fjVmNXd1Z752/ob8wTXuaw6thdauXNu5Tnddwbrh9b7rj20gbUjZ8MtGy41lG99uit7UUaBRsL5gaLPv5sZCuUJR4b0tzlsObMVsFWzt3WazrWrblyJe0fViy+KK4k8l3JLr31l9V/ndzPaE7b2l9qX7d+B2CHfc3em681iZYlle2dCu4F2t5czyovK3u1fsvlZhW3FgD2mPZI+0MqiyvUqvakfVp+qk6oEaj5rmvep7t+2d2sfb17/fbX/TAY0DxQc+HhQcvH/I91BrrUFtxWHc4azDz+ui6rq/Z39ff0TtSPGRz0eFR6XHwo911TvU1zeoN5Q2wo2SxrHjccdv/eD1Q3sTq+lQM6O5+AQ4ITnx4sf4H++eDDzZeYp9qukn/Z/2ttBailqh1tzWibakNml7THvf6YDTnR3OHS0/m/989Iz2mZqzymdLz5HOFZybOZ93fvJCxoXxi4kXhzpXdD66tOTSna6wrt7LgZevXvG5cqnbvfv8VZerZ645XTt9nX297Yb9jdYeu56WX+x+aem172296XCz/ZbjrY6+BX3n+l37L972un3ljv+dGwOLBvruLr57/17cPel93v3RB6kPXj/Mejj9aP1j7OOiJwpPKp6qP6391fjXZqm99Oyg12DPs4hnj4a4Qy//lfmvT8MFz6nPK0a0RupHrUfPjPmM3Xqx9MXwy4yX0+OFvyn+tveV0auffnf7vWdiycTwa9HrmT9K3qi+OfrW9m3nZOjk03dp76anit6rvj/2gf2h+2P0x5Hp7E/4T5WfjT93fAn88ngmbWbm3/eE8/syOll+AAAACXBIWXMAAC4jAAAuIwF4pT92AAACL2lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS40LjAiPgogICA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPgogICAgICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIgogICAgICAgICAgICB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iCiAgICAgICAgICAgIHhtbG5zOnRpZmY9Imh0dHA6Ly9ucy5hZG9iZS5jb20vdGlmZi8xLjAvIj4KICAgICAgICAgPHhtcDpDcmVhdG9yVG9vbD5BZG9iZSBJbWFnZVJlYWR5PC94bXA6Q3JlYXRvclRvb2w+CiAgICAgICAgIDx0aWZmOllSZXNvbHV0aW9uPjMwMDwvdGlmZjpZUmVzb2x1dGlvbj4KICAgICAgICAgPHRpZmY6T3JpZW50YXRpb24+MTwvdGlmZjpPcmllbnRhdGlvbj4KICAgICAgICAgPHRpZmY6WFJlc29sdXRpb24+MzAwPC90aWZmOlhSZXNvbHV0aW9uPgogICAgICA8L3JkZjpEZXNjcmlwdGlvbj4KICAgPC9yZGY6UkRGPgo8L3g6eG1wbWV0YT4KsBaN+QAADtFJREFUaAWdmQew3UUVh18qoSX0BAMISaQ6FOldpY1SRBSGamQYBDMKSFPRkSYzDNIE1KEJgqAIBpAiohJw6BB6kwChQ6ihJJCX5vedu+dm3333vjw8M+fu7jm/U/bs/vdf7oCurq4B8HxYWnfQoEET5s+fv/mAAQNWYfwpPIXxtfPmzfs1/XlwELh96OyLbj2wK9K+TjsZ2YVz5879ewPVNZC2aVNkC2sin8GDB28+Z86cxwF/DNc5Lsw+Y44D+CH81me0z1ijsfsEfq+NfWKGoxsJzxs6dOgwarAY/UHUYUZ3d/cL9GfAUubUGC34TT8jsR+JzVxaZa2E6/mDZ8+e/T6Klytl2q84ZMiQzyGPMfE/wdc0xu9W2J45DBw48GQWcX4nRv8wxsvDQ8Dc3AlX5BdVgdpNoFL36DaxxHsSX7sU7eAeqL4HgcX+BPiY/8N+kDbEvoRNt0MH+4gBZp8y349pZ5d+1tCxdXATSBa8lcIPcc4qtrNo57Xh7qKfWBykr8z1vKKfU9q5tJ/CU6jBEVXQgVmcs9gVTQW76WnGzwEcBm8GL8l4fYwn0Z8Nrw9LXr33we4mr4iNYekggg3iSj+Qfuy6kC78xwnMoQBbkcPa9MfDN8J5AtFdKAWWfDfCxxdA/wqeA/cnDws5F14V/i72d9FK2vYi9MOJ0wXvymn0BoChXGmDkK/Aibgd8mOo2Yb0N0RnrdrmAH4k/CS43bFfqmBpmuScvMLzim09NZdF/yr1/grtovgYhq+V6O9CDm6m3dDtyHhOF8X9KoLcldPp74Uid1DXsGHDVkN2V4UJLBN5CsduhiaB2Q3+oMLuXpSxsZrAzp3csb8vPjxSXTQpdI1ux99cmAHk5wkxnxw3Lej+5JAXwEnaUpszOtgOUU6Mw8HNpJtxC7zZrKkfcCcUSWsOMQZzLfy3plXfnTpW1kt7L7xexBy2MIfmXBj8VUHhnSsLFz0TXBb9OxXO3ey9SxJn4Ay+R4X7twDIJOtEQ9jyk5tseey7KdLxtG/A5xVc5tJi1mOYm8JNmhvv4n7aZ/wlif0y9takzr8OlAt+NJiPUOSxbY7mYLso7KY4DYxXZvqv6xBzQn8DfJ14aBE469napo8AFpy3nxvhu4vQ3PQr60t9HPl0R+ggr4C7uOxvUg8r99jwKNToXY6GK2iDOH4upOMx7pEvzmPQY2cgPiaif4i+tB48ClZXT5RhLzKuBfoOzRCOpBNLnEMZLwGbS+uEEfWgiMEEN0I6n5xPoN0bNoeF2Wf8/bEbReyTsFkXXhqOudG2kkVV5/wlW9lY3bDzuZ5mGdhblFTPQVtJP3lMp492bWLCiJ/aXryU8c0hZMznahVc5RsY3Kc76cX4bfzUjsOIBXgm9TiYWvo6TdImCo4+sS6Uk5X6WnB1PhtIE+BIkJgX0x9E0fZTAcWiNLptfzP+Zmjf5b56Iu0c7McXdCd77XIuh9G/mdieLMtxS1i92Ibv0s9Gf+3kqe8ih/ccUGzvs1I7vLLMLRcxwP380bbeSGkWvsjhbQVs4qUFvVO0nRYmExxecDadkkrs4gXrInofljrZqIvJUpRt2CxjWKAzFUIvwV4hRziA9JcxQtDyExuViXlqPV50l+PTTSR1srcO3u83BLsm7CuoRZrOibUJrdQurnPqVOzAM6eoK3PylUpqVwexXuWSuXTidjmkTTtd5rCcIOY1TccPOoC+DK8Du9M9qk1gaBkL3pl+EP3/lq72TljWRludbwW7o16mkaV2E21oyi/4I+EneRq9F1HcJ4l1BrwmhduiwGJz9DBsDJycp5F26+BnkmIW7Dc0q3DMf80x1M4+CsNVfTh2U7kiwhbsE8SOudBvl78ya2CdJGNbN9vwiT9Pp/d5L36CVqpPz4akYZP+3ZRi2nFi0i5bc8gNY1zn6DhkzGsP+rOY18Pe0A+A88nbq2I03IPYnT6NJuYxlDGZHqAyANd8CMTupCLOZNqZmKw0qsQ4uDFsLLh95M/DVxZ5J1+5kOvoB2xemdrfA99S7BNXhrFg9oeDmU3OeZp4/z0DnpJA2py3C6r+OGzyBKtgjS66b8E+pR9blK25Ry5gboXvAOPD3/LwUoV9fvBWICuPB0HapKgdtrfD96Swpd0QnTmc2pQj+I/CwtO5ms6gvxe8H3xNkaf+G03DxsPQ+uC3xeEP4McTS9+NEU+JtFmoyrTZjSKA/wW2s5Dm7UCbLKxPw+54CyDlJmmMGr/hB9x4eAYinx+CGMcHEgYrFVFtn/EngPOEsthBjPeEveIstpR2mdeP0VvM79N64Yynfwh8Av3b1FnLhmnYttYhF/xqsbAfXj6BPy48o4xtjfPT4is3Ti74begeQedJMxJelbhbwadrB7sZMne67G4MJhdlLmyvFswPA82RCfZ6+H04v+408eBeApdFar2iiotomgXAz9vwBUVpQdXlxOLqx++RRZ/yMowmZPi4ENyjRZGT9OvgB8hPLvJYMPrN+OieAnNZ0ecRPRaZi7Z9kWfcXPAj1cN+v/gI9lVQ9itX1uMB+t8u9jbNmPRzwW8g/nPE2Q7sNwvvTpvs9409wa+hAyh95IJfh954bph3S5vxLwSfeWc9uhYHdD+coLr1s97dJLODkWwZK6sxPfokPxXoGPFQXwuei7Sz/sB+MSwWTKgM41i/xaI0Bb0xUQQwD+PrkoLTf8Y4B/mbLfaRmw9rxqfN20CzQMjfxufPil1ulFzwuMLRjYbdJJ4qPst4So2iVptjnx+RzkEm5WLZzwW/BdzNCvpBtX0u+D/Mk3hn07oWvytzWaXyt2AdAEwqQMGvMMFjMd4J3hqDtSoj/1xxF8UCg3sGPh4+BKy3gWmpo30NO+89UnNnNYbN35zwP8HfX6T1hBTlgrnzvdryISoXRUzaLAHG4+9ghZALEzH4U2It7eF8eNM+fV/KHLwFSfqSs5gezTepgLJoueDewz9F7iJ3JDBfh42deWXuOX8X/IbiwNtg5tbattYxc5yU+ePnL/DLVTLmusAO5f5wLuDjKJv3sMooCgrOxAJL+2f0WeiE+uDjbgsMi3N6UeQEE2ebxRtb8H7wfwV+E/YLW7Lj18tYv3n1pn3TF7t6Y/ReqRuUQInJwvjwdmvRxaLRXxKZR/BBRZ65RsscTqGYrxedjXPOBf8Jdh8xzocp46mXjamPuD2AuwCOd3JkkpjID7l1nRjSBXUpwz6bnJcPbfcWpPOxTh7lUs4zBibk35ySBT+IR/jp9J3AbNhjVqf2x8Lbwr5uvQhuvF3YHenrkMl/yGvQnvh5iv5oMDvSau/DkBMUn+TYJ90DbfHpA4mymISyQtro+wNekbak3Rs+Gs7PlT7MaUPouRuBmclr3bOMpYynXtx58B/hleFXYOPvTzMP2z85hsQ1ibzuxedxCNIm8i4AscZImxyrTnlsHHz8AV8HuxnJz38e63mmvXa1f8f9IWN50khuQJ8ZrmGzXsGr2O30XXTXkEouOIZvD0HvHWaxvXdvDTauXIqUV66LXVOMwZ1fsG+iXKEA6gnmpAaD88Hv/NpJH/3F9Ev8wwomd28UFd3l6CymZIyMk7GHgvkIzEmB4If+FGQXlXH4Kf20WQn9PHjXChM4bI/VH/KsQ8Yr0GiifvTGgfWWtFNR6iPzvgHddUWe+DLss4kcsf0XfEdBRk0YXw3PQJanT2D9Wa4AXZx2lJPwHTHp1dLxyq4pxuzmj4tQ27SvcTEpEvLJcymurtOK0sJlIVpbE58JXwnngufJYesp4RWezwLGyCvcK0h/3egvhifQdxNvT38cC3euYyjxdf9V/L4Ce7pI9XzEW8Mopso2FHhiLa+OeJ2+uH2WhW4NY90zr5gDNT1AEDX21iuFfiATmdoYd40rrQZ18NgxHM+rFb1XxaqlX+N0GMHw+SX1tB67ed8KnXIojzBf8+6An4ct2izYxWvH3ciNfS5FG0sBt2CoTxdSGoF8DO09Mer9E/E54n6LalmO1k3I71D4GY7YfI3LvLRu+sbvI7Cfa6Ua49h5y1K22Te33AzeiuYS6wmVUF0Px3UtHfeHMp71ytPOxbf/KTn7zcRXOhe/IWdwMRxHNe14FEn1RCz0ExVuGqBlClDnTiwKD2aXCndpwdSTyf7qBbd7weTClWGvJidnLr4zX1UQcZyyAbbUH0/jaxd5xqkdhQzcdfjwKPdv2EMKoF38kIE5Buw74HLx4kGsyN2kIyofYpq5Kie3Hc0N/C8rXKj8QeeRfkvRWU991Ky/Xn6R5Xyux/5BxlLGjtyRnwu7uVYOLTs9nmwVwv6z9CMUw0PZMF4HeXw1KpjcHF5JYwsuGvS+fvjhITAuQtHXxY+dSJxTwVnETDDb2mVrP20PwdYrLQvtJvDz71vIMlY7f1GE3BzgvY2lDwvaSuGr4L2KxhVAbDJiHoWPD1uNythNsR76fJ65psJlbrkofji5vtL3txv5YXsV/EAxSt/N+ZDni+hzQ8QO9B06F9LW16C7AD5E2+O9m7GvNon9kP5E2D/YfZdOue1FJYFcAIeZxCJiKeSZBRMTL/2+mrT3fVv7UxLMeBJ870L8WYwoCHN7GvxlC8FnvBHGgw8u+HgQwoevZcqtiReFfCdyT8P3YHXWMu00T5/2c8G9wj0BHoUfoX8/fB/9yfDD8EPwC8z3LI2g9NG0V99Qxfxy0bOuaxT/P4/F4P58KwJ3+ubFaEnalbkHrEibC3afr1nc8y7A+TbIPw+709eCN4HHwEk38dCwLwOPEoPbStkfjW/fo85G9kFoFmDKsG2jHyc7ixx8kOqG4yENf8vB1zJ+Fn3GaefE+VjcaeDvZE4v9YHPvGeB/QSbKeCfK3if3I0zDPa0sbi2vj4+RR4+JR/PM8NR9B9CLrZdXuZinLexexF+jf4bMv1XC79E+wZ+HoEno6tJe+M+hs5a1DEyL78WajdKQwFBHO+bkuSlKD0C3J3T4dvh7yUmW2T7wX4DfovWyc+EH2A8ITG0uRMr0YJ4RdiMX4MW0q/9al/7qHWd3NT4ut8ffPrvj136czN0wneSp21r24qvx3W/tsuLtut/szhyWqonQDsAAAAASUVORK5CYII=);
+"><span style="padding-right:15px;">You are viewing a snapshot of <a style='font-weight:bold !important; color:white !important' href='http://www.glyphweb.com/arda/default.asp'>http://www.glyphweb.com/arda/default.asp</a> created on 2020/08/10</span></div></body>
+    
+</html>

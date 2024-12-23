@@ -1,0 +1,623 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html>
+
+<head>
+
+	<!-- Pinterest wants this code here-->
+    <meta name="p:domain_verify" content="c072986cc891b44f341215f2d06d9835"/>
+    
+	<!-- THIS WAS ALL FROM THE CARGO STUFF -->
+    
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta name="verify-v1" content="STDtWvgGjOy77mPN8tNAAfDaBqDkqWU7AHfu7opE3NQ=" />
+	<meta name="description" content="Haakon Faste" />
+	<meta name="keywords" content="art, design, technology, research" />
+	<meta name="cargo_title" content="Haakon Faste" />
+	<meta name="ROBOTS" content="INDEX,FOLLOW">
+	
+	
+    
+	<link rel="shortcut icon" href="http://www.haakonfaste.com/favicon.ico">
+	<title>Haakon Faste</title>
+	<link href="css/smartgrid_stylesheet.css" id="user_stylesheet" rel="stylesheet" type="text/css" />
+	
+	<script type='text/javascript' src='assets/9c40557e448c6daf5c31d8a3d8c44e4e.23'></script>
+	<script type='text/javascript' src='assets/5da1ba36eb436e7714e2f9e49f69a80f.23'></script>
+	<!--<script type='text/javascript' src='/_js/cargo.tools.package.js?12.07.23'></script>-->
+
+	<script type="text/javascript" src="/designs/spacecollective/voyager1/template.js?12.07.23" charset="utf-8"></script>	<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+	<link href="_css/globalstyle.css?12.07.23" rel="stylesheet" type="text/css" charset="utf-8" />
+	<link href="/rss/" rel="alternate" type="application/rss+xml" title="Cargo feed" />
+	
+    
+    <!-- INITIALIZE JQUERY 
+    
+    <script type="text/javascript" src="/_js/jquery.js"></script>
+	-->
+	
+	<!-- FADE IN CODE -->
+	
+	<script type="text/javascript">
+		function ShowBox($url)
+		{
+			//$url = "subhtml_golive/2000wings1.html";
+			
+			$(document).ready(function(){
+				$("#lightbox").load($url);
+			});
+			
+			$("#lightbox").fadeIn( 500 );
+			$("#blackbox").fadeIn( 500 );
+			$('body').css('overflow', 'hidden');
+			$(window).resize();
+		}
+		
+		function HideBox()
+		{
+			$("#lightbox").fadeOut( 500 );
+			$("#blackbox").fadeOut( 500 );
+			$('body').css('overflow', 'auto');
+		}
+		$(window).resize(function() {
+			$('#lightbox').height($(window).height() * .75);
+		});
+    </script>
+
+
+
+    
+</head>
+
+<body onload="if (ie||ns6||ns4) {regenerate2();updatecontent()}">
+    <customhtml>
+        <script type="text/javascript">
+    
+            var _gaq = _gaq || [];
+            _gaq.push(['_setAccount', 'UA-29699781-1']);
+            _gaq.push(['_trackPageview']);
+    
+            (function() {
+                var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+                ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+                var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+            })();
+        </script>
+    </customhtml>
+
+	
+
+
+	<script language="javascript" src="/designs/spacecollective/voyager1/DD_roundies_0.0.2a-min.js"></script>
+    <script type="text/javascript" src="/_js/jquery.scrollTo.js" charset="utf-8"></script>
+    <img src="_gfx/loadingAnim.gif" id="nav_loadspin">
+
+
+	<!-- TOP NAVIGATION -->
+
+    <div id="items_container">
+        <div class="top_title_box">
+            <div class="top_title_crop">
+                <div class="link_link" id="menu_0"><a href="http://www.haakonfaste.com/index.php" target=""  name="haakonfaste" id="m0">Haakon Faste</a></div>
+           		<div class="page_link" id="menu_1"><a href="/about" name="haakonfaste" id="m1">About</a> | <a href="/papers" name="haakonfaste" id="m2">Publications</a> | <a href="/contact" name="haakonfaste" id="m3">Contact</a></div>
+                
+                <!--<div class="i_design" id="menu_2"><p>I design 
+                    <div id="text1">interactive experiences</div>
+					<div id="text2">technology systems</div>
+					<div id="text3">immersive environments</div>
+					<div id="text4">beautiful pixels</div>
+					<div id="text5">creative organizations</div>
+					<div id="text6">research that matters</div>
+
+					<script type="text/javascript">
+                        function fade_idesign() {
+                            $('.text1').fadeIn().delay(5000).fadeOut();
+                            $('.text2').delay(5000).fadeIn().delay(5000).fadeOut();
+                            $('.text3').delay(10000).fadeIn().delay(5000).fadeOut(fade);
+                        }
+                        fade_idesign();
+                    </script>
+                </p></div>
+                -->
+                
+            </div>    
+            <div class="clear"></div>
+        </div>
+    </div>    
+   
+    
+    <div id="tickertape">
+        <!--<div id="subtickertape" class="subtickertapefont">Initializing...</div>-->
+    </div>
+    
+    <script language="JavaScript1.2">
+    
+    /***********************************************
+    * Fading Ticker Tape Script- © Dynamic Drive (www.dynamicdrive.com)
+    * This notice must stay intact for use
+    * Visit http://www.dynamicdrive.com/ for full source code
+    ***********************************************/
+    
+    //default speed is 4.5 seconds, Change that as desired
+    var speed=4500
+    
+    var news=new Array()
+    news[0]="interactive experiences"
+    news[1]="technology systems"
+    news[2]="immersive environments"
+	news[3]="beautiful pixels"
+	news[4]="design-driven cultures"
+	news[5]="research that matters"
+    //expand or shorten this list of messages as desired
+    
+    var fadescheme=0 //set 0 to fade bgcolor from (white to black), 1 for (black to white)
+    var hex=(fadescheme==0)? 255 : 0
+    var startcolor=(fadescheme==0)? "rgb(255,255,255)" : "rgb(0,0,0)"
+    var endcolor=(fadescheme==0)? "rgb(0,0,0)" : "rgb(255,255,255)"
+    var frame=20;
+    
+    var ie=document.all
+    var ns6=document.getElementById
+    var ns4=document.layers
+    
+    i=0
+    tickerobject=ie? subtickertape: ns6? document.getElementById("subtickertape") : document.tickertape.document
+    
+    function regenerate(){
+    window.location.reload()
+    }
+    function regenerate2(){
+    if (document.layers)
+    setTimeout("window.onresize=regenerate",450)
+    }
+    
+    function bgcolorfade() {	         	
+    // 20 frames fading process
+    if(frame>0) {	
+    hex=(fadescheme==0)? hex-12 : hex+12 // increase or decrease color value depd on fadescheme
+    tickerobject.style.backgroundColor="rgb("+hex+","+hex+","+hex+")"; // Set color value.
+    frame--;
+    setTimeout("bgcolorfade()",20);	
+    }
+    else{
+    tickerobject.style.backgroundColor=endcolor;
+    frame=20;
+    hex=(fadescheme==0)? 255 : 0
+    }   
+    }
+    
+    function updatecontent(){
+    if (ie||ns6)
+    bgcolorfade()
+    if (ns4){
+    tickerobject.subtickertape.document.write('<span class="subtickertapefont">'+news[i]+'</span>')
+    tickerobject.subtickertape.document.close()
+    }
+    else 
+    tickerobject.innerHTML=news[i]
+    
+    if (i<news.length-1)
+    i++
+    else
+    i=0
+    setTimeout("updatecontent()",speed)
+    }
+    
+    </script>
+        
+
+	<!-- LIGHTBOX CONTENT -->
+    
+    <div id="lightbox" class="lightbox_content"></div>
+    <div id="blackbox" class="lightbox_overlay" onclick="HideBox();"></div>
+    
+        
+	<!-- NOT REALLY SURE WHAT THIS IS 
+        
+    <iframe style="display:none;" src="http://cargocollective.com/toolset?d=www.haakonfaste.com" id="toolsetframe"></iframe>
+    
+    <div id="toolset" class="toolset" style="display:none;">
+        <div id="toolset_follow"><a href="http://www.haakonfaste.com/following"></a></div>
+    </div>
+	-->
+
+	<!-- THIS LOOPS THROUGH AND CREATES ALL THE PORTFOLIO CONTENT -->
+
+    <div id="items_container">
+        <div id="items" class="bodycopy">
+            <!--<div class="pagecontainer" id="item_2784054" name="2784054" page="0" spot="0"></div>-->
+            <div id="page_1">
+                            
+                <div class="project_feed_thumb" id="value_driven_design" name="value_driven_design" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_value_driven_design" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=value_driven_design');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_value_driven_design" name=""><img border=0 height=220 SRC ="images/links/value_driven_square2.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Value Driven Design</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=design">design</a>, <a href="http://www.haakonfaste.com/index.php?filter=research">research</a>, <a href="http://www.haakonfaste.com/index.php?filter=video">video</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="audi_beyond_mobility" name="audi_beyond_mobility" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_audi_beyond_mobility" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=audi_beyond_mobility');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_audi_beyond_mobility" name=""><img border=0 height=220 SRC ="images/links/audi_air_square2.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">CCA / Audi: Beyond Mobility</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=design">design</a>, <a href="http://www.haakonfaste.com/index.php?filter=branding">branding</a>, <a href="http://www.haakonfaste.com/index.php?filter=research">research</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="cmu_talk" name="cmu_talk" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_cmu_talk" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=cmu_talk');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_cmu_talk" name=""><img border=0 height=220 SRC ="images/links/cats_are_curious3.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Design Research in HCI</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=design">design</a>, <a href="http://www.haakonfaste.com/index.php?filter=research">research</a>, <a href="http://www.haakonfaste.com/index.php?filter=video">video</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="robowall" name="robowall" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_robowall" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=robowall');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_robowall" name=""><img border=0 height=220 SRC ="images/links/robowall_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">RoboWall</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=design">design</a>, <a href="http://www.haakonfaste.com/index.php?filter=video">video</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="spontaneous_design_studio" name="spontaneous_design_studio" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_spontaneous_design_studio" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=spontaneous_design_studio');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_spontaneous_design_studio" name=""><img border=0 height=220 SRC ="images/links/spontaneous_square2.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Spontaneous Design Studio</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=design">design</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="cheatstorming" name="cheatstorming" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_cheatstorming" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=cheatstorming');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_cheatstorming" name=""><img border=0 height=220 SRC ="images/links/cheatstorm2_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Cheatstorming!</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=design">design</a>, <a href="http://www.haakonfaste.com/index.php?filter=research">research</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="design-driven_narrative" name="design-driven_narrative" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_design-driven_narrative" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=design-driven_narrative');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_design-driven_narrative" name=""><img border=0 height=220 SRC ="images/links/design-driven_narrative_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Design-Driven Narrative</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=design">design</a>, <a href="http://www.haakonfaste.com/index.php?filter=research">research</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="design_education" name="design_education" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_design_education" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=design_education');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_design_education" name=""><img border=0 height=220 SRC ="images/links/HLW2_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">How Learning Works: Design Education</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=design">design</a>, <a href="http://www.haakonfaste.com/index.php?filter=research">research</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="posthuman_factors" name="posthuman_factors" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_posthuman_factors" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=posthuman_factors');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_posthuman_factors" name=""><img border=0 height=220 SRC ="images/links/posthuman_factors_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Posthuman Factors</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=art">art</a>, <a href="http://www.haakonfaste.com/index.php?filter=research">research</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="foundation" name="foundation" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_foundation" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=foundation');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_foundation" name=""><img border=0 height=220 SRC ="images/links/fastefoundation_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Faste Foundation for Design Creativity</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=design">design</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="biohappy" name="biohappy" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_biohappy" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=biohappy');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_biohappy" name=""><img border=0 height=220 SRC ="images/links/biohappy_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Biohappy Concept</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=design">design</a>, <a href="http://www.haakonfaste.com/index.php?filter=branding">branding</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="ambithink" name="ambithink" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_ambithink" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=ambithink');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_ambithink" name=""><img border=0 height=220 SRC ="images/links/ambithink_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Ambithink</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=design">design</a>, <a href="http://www.haakonfaste.com/index.php?filter=research">research</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="ultimate_aesthetic_experience" name="ultimate_aesthetic_experience" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_ultimate_aesthetic_experience" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=ultimate_aesthetic_experience');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_ultimate_aesthetic_experience" name=""><img border=0 height=220 SRC ="images/links/ultimate_aesthetic_experience_square2.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">The Ultimate Aesthetic Experience</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=art">art</a>, <a href="http://www.haakonfaste.com/index.php?filter=design">design</a>, <a href="http://www.haakonfaste.com/index.php?filter=performance">performance</a>, <a href="http://www.haakonfaste.com/index.php?filter=research">research</a>, <a href="http://www.haakonfaste.com/index.php?filter=video">video</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="hiding" name="hiding" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_hiding" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=hiding');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_hiding" name=""><img border=0 height=220 SRC ="images/links/hiding_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Hiding</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=art">art</a>, <a href="http://www.haakonfaste.com/index.php?filter=performance">performance</a>, <a href="http://www.haakonfaste.com/index.php?filter=video">video</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="music_for_robots" name="music_for_robots" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_music_for_robots" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=music_for_robots');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_music_for_robots" name=""><img border=0 height=220 SRC ="images/links/music_for_robots_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Music For Robots</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=art">art</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="percro" name="percro" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_percro" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=percro');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_percro" name=""><img border=0 height=220 SRC ="images/links/exos_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Perceptual Robotics Research</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=design">design</a>, <a href="http://www.haakonfaste.com/index.php?filter=research">research</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="passages" name="passages" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_passages" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=passages');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_passages" name=""><img border=0 height=220 SRC ="images/links/passages_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Passages</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=art">art</a>, <a href="http://www.haakonfaste.com/index.php?filter=design">design</a>, <a href="http://www.haakonfaste.com/index.php?filter=performance">performance</a>, <a href="http://www.haakonfaste.com/index.php?filter=research">research</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="conte_max" name="conte_max" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_conte_max" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=conte_max');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_conte_max" name=""><img border=0 height=220 SRC ="images/links/conte_max_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Conte Max Firenze</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=branding">branding</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="ip_telephone" name="ip_telephone" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_ip_telephone" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=ip_telephone');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_ip_telephone" name=""><img border=0 height=220 SRC ="images/links/ip_telephone_square3.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">IP Telephone</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=design">design</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="virtual_interface" name="virtual_interface" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_virtual_interface" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=virtual_interface');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_virtual_interface" name=""><img border=0 height=220 SRC ="images/links/virtual_interface_square3.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Virtual Interface Concepts</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=design">design</a>, <a href="http://www.haakonfaste.com/index.php?filter=illustration">illustration</a>, <a href="http://www.haakonfaste.com/index.php?filter=research">research</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="theory" name="theory" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_theory" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=theory');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_theory" name=""><img border=0 height=220 SRC ="images/links/theory7_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Theory</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=art">art</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="bank_of_america" name="bank_of_america" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_bank_of_america" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=bank_of_america');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_bank_of_america" name=""><img border=0 height=220 SRC ="images/links/b_of_a_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Bank of America: The Way We Pay</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=design">design</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="livemail" name="livemail" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_livemail" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=livemail');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_livemail" name=""><img border=0 height=220 SRC ="images/links/livemail_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Microsoft Livemail Version 12</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=design">design</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="toyota" name="toyota" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_toyota" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=toyota');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_toyota" name=""><img border=0 height=220 SRC ="images/links/toyota_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Toyota FT-SX Concept</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=design">design</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="oliso" name="oliso" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_oliso" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=oliso');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_oliso" name=""><img border=0 height=220 SRC ="images/links/iron_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Oliso Touch &amp; Glide Iron</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=design">design</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="duncan" name="duncan" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_duncan" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=duncan');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_duncan" name=""><img border=0 height=220 SRC ="images/links/duncan_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Duncan CoolTouch Kiln</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=design">design</a>, <a href="http://www.haakonfaste.com/index.php?filter=research">research</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="leone" name="leone" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_leone" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=leone');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_leone" name=""><img border=0 height=220 SRC ="images/links/leone1_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Untitled (Leone)</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=art">art</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="athens" name="athens" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_athens" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=athens');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_athens" name=""><img border=0 height=220 SRC ="images/links/athens3_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Vault of Light</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=art">art</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="masks" name="masks" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_masks" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=masks');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_masks" name=""><img border=0 height=220 SRC ="images/links/masks5_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Antithesis</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=art">art</a>, <a href="http://www.haakonfaste.com/index.php?filter=performance">performance</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="tuscan" name="tuscan" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_tuscan" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=tuscan');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_tuscan" name=""><img border=0 height=220 SRC ="images/links/tuscan_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Untitled (Tuscan Series)</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=art">art</a>, <a href="http://www.haakonfaste.com/index.php?filter=painting">painting</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="studio" name="studio" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_studio" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=studio');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_studio" name=""><img border=0 height=220 SRC ="images/links/garden_studio_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Florence Studio</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=art">art</a>, <a href="http://www.haakonfaste.com/index.php?filter=design">design</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="giornuovo" name="giornuovo" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_giornuovo" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=giornuovo');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_giornuovo" name=""><img border=0 height=220 SRC ="images/links/giornuovo_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Giornuovo: The Newspaper in the Egg</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=branding">branding</a>, <a href="http://www.haakonfaste.com/index.php?filter=illustration">illustration</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="universe" name="universe" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_universe" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=universe');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_universe" name=""><img border=0 height=220 SRC ="images/links/universeA_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Theoretical Model of the Universe</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=art">art</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="gate" name="gate" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_gate" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=gate');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_gate" name=""><img border=0 height=220 SRC ="images/links/gate2_square1.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Via Bolognese Gate</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=art">art</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="landscape_with_wings" name="landscape_with_wings" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_landscape_with_wings" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=landscape_with_wings');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_landscape_with_wings" name=""><img border=0 height=220 SRC ="images/links/pratolino_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Landscape with Wings</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=art">art</a>, <a href="http://www.haakonfaste.com/index.php?filter=video">video</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="galapagos" name="galapagos" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_galapagos" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=galapagos');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_galapagos" name=""><img border=0 height=220 SRC ="images/links/galapagos_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Wings for Prometheus</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=art">art</a>, <a href="http://www.haakonfaste.com/index.php?filter=design">design</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="simulation" name="simulation" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_simulation" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=simulation');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_simulation" name=""><img border=0 height=220 SRC ="images/links/littlebird3_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Simulation</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=art">art</a>, <a href="http://www.haakonfaste.com/index.php?filter=video">video</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="whitney" name="whitney" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_whitney" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=whitney');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_whitney" name=""><img border=0 height=220 SRC ="images/links/bitstreams_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Bitstreams Website</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=art">art</a>, <a href="http://www.haakonfaste.com/index.php?filter=design">design</a>, <a href="http://www.haakonfaste.com/index.php?filter=branding">branding</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="nettmedia" name="nettmedia" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_nettmedia" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=nettmedia');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_nettmedia" name=""><img border=0 height=220 SRC ="images/links/nettmedia_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Nettmedia Website</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=design">design</a>, <a href="http://www.haakonfaste.com/index.php?filter=branding">branding</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="yankees" name="yankees" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_yankees" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=yankees');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_yankees" name=""><img border=0 height=220 SRC ="images/links/yankees_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Yankees Xtreme 3D Stadium Interface</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=design">design</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="grey" name="grey" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_grey" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=grey');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_grey" name=""><img border=0 height=220 SRC ="images/links/roomview_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Solo Exhibition: Grey Series</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=art">art</a>, <a href="http://www.haakonfaste.com/index.php?filter=painting">painting</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="eye" name="eye" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_eye" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=eye');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_eye" name=""><img border=0 height=220 SRC ="images/links/digital_eye_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Synthetic Reflection</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=art">art</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="wings" name="wings" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_wings" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=wings');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_wings" name=""><img border=0 height=220 SRC ="images/links/wings1_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Untitled (Wings)</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=art">art</a>, <a href="http://www.haakonfaste.com/index.php?filter=design">design</a>, <a href="http://www.haakonfaste.com/index.php?filter=video">video</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="spring" name="spring" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_spring" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=spring');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_spring" name=""><img border=0 height=220 SRC ="images/links/whitevt_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Untitled (White)</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=art">art</a>, <a href="http://www.haakonfaste.com/index.php?filter=painting">painting</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="bowienet" name="bowienet" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_bowienet" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=bowienet');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_bowienet" name=""><img border=0 height=220 SRC ="images/links/bowienet_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">DavidBowie.com</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=design">design</a>, <a href="http://www.haakonfaste.com/index.php?filter=branding">branding</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="transparent_palette" name="transparent_palette" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_transparent_palette" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=transparent_palette');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_transparent_palette" name=""><img border=0 height=220 SRC ="images/links/transparent_palette_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Transparent Virtual Reality Palette</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=design">design</a>, <a href="http://www.haakonfaste.com/index.php?filter=research">research</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="infusion" name="infusion" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_infusion" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=infusion');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_infusion" name=""><img border=0 height=220 SRC ="images/links/infusion_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Infusion</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=art">art</a>, <a href="http://www.haakonfaste.com/index.php?filter=performance">performance</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="dimensional_paintings" name="dimensional_paintings" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_dimensional_paintings" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=dimensional_paintings');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_dimensional_paintings" name=""><img border=0 height=220 SRC ="images/links/oberlinshow_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Solo Exhibition: Dimensional Paintings</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=art">art</a>, <a href="http://www.haakonfaste.com/index.php?filter=painting">painting</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="infinite" name="infinite" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_infinite" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=infinite');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_infinite" name=""><img border=0 height=220 SRC ="images/links/finite_wall_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Infinite Installation</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=art">art</a>, <a href="http://www.haakonfaste.com/index.php?filter=painting">painting</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="active_palette" name="active_palette" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_active_palette" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=active_palette');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_active_palette" name=""><img border=0 height=220 SRC ="images/links/active_palette_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Boom Chameleon</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=design">design</a>, <a href="http://www.haakonfaste.com/index.php?filter=research">research</a>, <a href="http://www.haakonfaste.com/index.php?filter=video">video</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="stratified_grid" name="stratified_grid" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_stratified_grid" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=stratified_grid');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_stratified_grid" name=""><img border=0 height=220 SRC ="images/links/panel1_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Stratified Grid</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=art">art</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="mudd" name="mudd" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_mudd" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=mudd');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_mudd" name=""><img border=0 height=220 SRC ="images/links/mudd_square2.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Code</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=art">art</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="print_collateral" name="print_collateral" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_print_collateral" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=print_collateral');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_print_collateral" name=""><img border=0 height=220 SRC ="images/links/print_collateral_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Print Collateral</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=design">design</a>, <a href="http://www.haakonfaste.com/index.php?filter=branding">branding</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="pointcast" name="pointcast" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_pointcast" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=pointcast');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_pointcast" name=""><img border=0 height=220 SRC ="images/links/pointcast_square1.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Pointcast Identity</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=design">design</a>, <a href="http://www.haakonfaste.com/index.php?filter=branding">branding</a>&nbsp;</span></div></div></div><div class="project_feed_thumb" id="officer_turkey" name="officer_turkey" page="1" spot="-1" onmouseover="$(this).addClass('hover');" onmouseout="$(this).removeClass('hover');"><div id="pr_contain_item_officer_turkey" class="pr_wrapper">
+						
+						<a href="javascript:void(0)" onclick="ShowBox('project.php?id=officer_turkey');" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="" rel="history" name="haakonfaste" onfocus="this.blur()"><div class="loader_holder " id="load_"><img src="_gfx/loadingAnim.gif"></div><div class="cardimgcrop " id="card_thumb_officer_turkey" name=""><img border=0 height=220 SRC ="images/links/officer_turkey_square.jpg"></div>
+                            <div class="thumb_title ">
+                                <span class="text">Officer Turkey</span>&nbsp;
+                            </div><div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/index.php?filter=branding">branding</a>, <a href="http://www.haakonfaste.com/index.php?filter=illustration">illustration</a>&nbsp;</span></div></div></div>                
+                
+                <!--
+                
+                <div class="project_feed_thumb" id="item_2876328" name="2876328" page="1" spot="-1" onmouseover="$(this).addClass('hover');"  onmouseout="$(this).removeClass('hover');">
+                    <div id="pr_contain_item_2876328" class="pr_wrapper"><a href="/FOObar-I" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="p2876328" rel="history" name="haakonfaste" onfocus="this.blur()">
+                        <div class="loader_holder " id="load_2876328"><img src="_gfx/loadingAnim.gif"></div>
+                        
+                        <div class="cardimgcrop " id="card_thumb_12345" name=""><a href="http://www.fastefoundation.org" target="newWin"><img border="0" height="220" SRC ="images/links/fastefoundation_square.jpg"></a></div>
+                        <!--<div class="cardimgcrop " id="cardthumb_2876328" name=""><img src="http://payload28.cargocollective.com/1/6/201259/2876328/prt_1335681277.jpg" border="0" rel="testprt_1335681277.jpg"></div>-->
+                        
+                        <!--
+                        <div class="thumb_title ">
+                            <span class="text">The Rolf A. Faste Foundation for Design Creativity</span>&nbsp;
+                        </div>
+                        <div class="excerpt">Xxxx</div></a>
+                        <div class="thumb_tag ">
+                            <span class="text"><a href="http://www.haakonfaste.com/filter/art">art</a>, <a href="http://www.haakonfaste.com/filter/design">design</a>&nbsp;</span>
+                        </div>
+                    </div>
+                </div>
+                
+                
+                <div class="project_feed_thumb" id="item_2876687" name="2876687" page="1" spot="-1" onmouseover="$(this).addClass('hover');"  onmouseout="$(this).removeClass('hover');">
+                    <div id="pr_contain_item_2876687" class="pr_wrapper"><a href="/T-III" onmouseover="this.className='hover';" onmouseout="this.className='nohover';"  class="nohover" id="p2876687" rel="history" name="haakonfaste" onfocus="this.blur()">
+                        <div class="loader_holder " id="load_2876687"><img src="_gfx/loadingAnim.gif"></div>
+                        <div class="cardimgcrop " id="cardthumb_2876687" name=""><img src="http://payload28.cargocollective.com/1/6/201259/2876687/prt_1330627151.jpg" border="0" rel="testprt_1330627151.jpg"></div>
+                        <div class="thumb_title "><span class="text">T III</span>&nbsp;</div>
+                        <div class="excerpt">
+                            T III
+                            Inception door
+                            Framed slides of Pantone swatches, laminated glass, wood frame | H 210cm, W 84cm
+                        </div></a>
+                        <div class="thumb_tag "><span class="text"><a href="http://www.haakonfaste.com/filter/design">design</a>&nbsp;</span></div>
+                    </div>
+                </div>
+                -->
+    
+            </div>
+        </div>
+    </div>
+
+
+	<!-- FOOTER; NOT SURE ABOUT THIS CRAP EITHER -->
+    
+    <div id="foot_container">
+        <input type="hidden" id="current_open" value="none">
+        <input type="hidden" id="prev_open" value="none">
+        <input type="hidden" id="prev_type" value="project_link">
+        <input type="hidden" id="this_spot" value="-1">
+        <input type="hidden" id="is_domain" value="www.haakonfaste.com">
+        <input type="hidden" id="url" value="haakonfaste">
+        <input type="hidden" id="current_page" value="1">
+        <input type="hidden" id="total_pages" value="1">
+        <input type="hidden" id="limit" value="60">
+        <input type="hidden" id="viewtype" value="list">
+        <input type="hidden" id="previewtemplate" value="false">
+        <input type="hidden" id="template" value="spacecollective">
+        <input type="hidden" id="design" value="voyager1">
+        <input type="hidden" id="templatepath" value="designs/spacecollective">
+        <input type="hidden" id="designpath" value="designs/spacecollective/voyager1">
+        <input type="hidden" id="sticky_page" value="top">
+        <input type="hidden" id="o_thumb_nav" value="no">
+        <input type="hidden" id="is_solo" value="false">
+        <input type="hidden" id="is_direct" value="false">
+        
+        <fullscreen_option data="fill"></fullscreen_option>
+        
+        <script type="text/html"id="fullscreen_src">
+        
+            <div class="freshbox_navigation">
+                <div class="freshbox_navigation_group"><a href="#"id="fullscreen_prev"class="freshbox_nav_button"><svg viewBox="0 0 30 30"height="100%"width="100%"version="1.1"><g transform="translate(11, 11)"><path class="nav_svg"d="M 0 4 L 8 8 L 8 8 L 8 0"/></g></svg></a><a href="#"id="fullscreen_close"class="freshbox_nav_button"><svg viewBox="0 0 30 30"height="100%"width="100%"version="1.1"><g class="nav_svg"transform="translate(10, 10)"><rect x="1"width="1"height="1"/><rect x="1"y="1"width="1"height="1"/><rect x="2"y="1"width="1"height="1"/><rect x="1"y="2"width="1"height="1"/><rect x="2"y="2"width="1"height="1"/><rect x="3"y="2"width="1"height="1"/><rect x="4"y="3"width="1"height="1"/><rect x="3"y="4"width="1"height="1"/><rect x="4"y="4"width="1"height="1"/><rect x="5"y="3"width="1"height="1"/><rect x="6"y="2"width="1"height="1"/><rect x="7"y="1"width="1"height="1"/><rect x="8"width="1"height="1"/><rect x="9"y="1"width="1"height="1"/><rect x="8"y="1"width="1"height="1"/><rect x="7"y="2"width="1"height="1"/><rect x="8"y="2"width="1"height="1"/><rect x="7"y="3"width="1"height="1"/><rect x="6"y="3"width="1"height="1"/><rect x="5"y="4"width="1"height="1"/><rect x="6"y="4"width="1"height="1"/><rect x="5"y="5"width="1"height="1"/><rect x="6"y="5"width="1"height="1"/><rect x="7"y="6"width="1"height="1"/><rect x="8"y="7"width="1"height="1"/><rect x="9"y="8"width="1"height="1"/><rect x="8"y="9"width="1"height="1"/><rect x="7"y="8"width="1"height="1"/><rect x="7"y="7"width="1"height="1"/><rect x="6"y="7"width="1"height="1"/><rect x="6"y="6"width="1"height="1"/><rect x="5"y="6"width="1"height="1"/><rect x="4"y="6"width="1"height="1"/><rect x="3"y="7"width="1"height="1"/><rect x="3"y="6"width="1"height="1"/><rect x="2"y="6"width="1"height="1"/><rect x="2"y="7"width="1"height="1"/><rect x="1"y="7"width="1"height="1"/><rect y="8"width="1"height="1"/><rect x="1"y="8"width="1"height="1"/><rect x="3"y="5"width="1"height="1"/><rect x="2"y="8"width="1"height="1"/><rect x="1"y="9"width="1"height="1"/><rect x="8"y="8"width="1"height="1"/><rect x="4"y="5"width="1"height="1"/><rect x="2"y="3"width="1"height="1"/><rect x="3"y="3"width="1"height="1"/><rect y="1"width="1"height="1"/></g></svg></a><a href="#"id="fullscreen_next"class="freshbox_nav_button"><svg viewBox="0 0 30 30"height="100%"width="100%"version="1.1"><g transform="translate(20, 11) scale(-1, 1)"><path class="nav_svg"d="M 0 4 L 8 8 L 8 8 L 8 0"/></g></svg></a></div>
+            </div>
+            
+            <div id="fullscreen_imgs"></div>
+        </script>
+        
+        <!--HAAKON killed this:  
+        
+        <script language="javascript">
+            var pid_list = new Array("2900381","2784054","2876328","2876687","2879684","2874085","2876846","2879479","2879384","2879674","2877158","2868014","2873488","2875604","2874583","2877389","2875578","2879658","2932468","2874788","2875428","2873322","2784053","2873801","2866049","2873728","2873486","2873286","2866036",""); 		
+            var pr_list = new Array("2876328","2876687","2879684","2874085","2876846","2879479","2879384","2879674","2877158","2868014","2873488","2875604","2874583","2877389","2875578","2879658","2932468","2874788","2875428","2873322","2784053","2873801","2866049","2873728","2873486","2873286","2866036"); 		
+            var prt_list = new Array("jolie I ","T III","jolie II","Game Of Fool","BETON EISACK","Blasbichlers Twentyone","Muslhaufen Haus","DOWN is TOWN","T IV","M","But It Did Happen II","Haus 07","Sushi Run","ILLUMINATI","T I","Haus 11","DIY convertible","Alphaville","Raumstempeln","Where Is The Ocean","Channel 08","Telecalculator","But It Did Happen I","Medium Matters","Superstereo","Trace","On-Off Set"); 
+        </script>-->
+        
+        <div class="bottompad">&nbsp;</div>
+    </div>
+    
+    
+    <input type="hidden" id="moduleholder_c" value="none">
+    <input type="hidden" id="moduleholder_o" value="none">
+    <input type="hidden" id="modulenumber" value="none">
+    <input type="hidden" id="page_sticky" value="1">
+    
+    <script language="javascript">DD_roundies.addRule(".project_feed_thumb", 5, true);</script>
+    
+    <input type="hidden" id="startpage" value="none"/>
+    
+    <div class="bottompad"></div>	
+    
+    <script type="text/javascript">		
+        var _gaq = _gaq || [];
+        _gaq.push(['b._setAccount', 'UA-1837333-7']);
+    
+        _gaq.push(['b._trackPageview','/www.haakonfaste.com']);		   
+        (function() {
+             var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+             ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+             var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+        })();
+            
+    </script>
+
+<div style="position:fixed;top:0;left:0;width:100%;height:45px;z-index:2147483647;background-color:rgba(253,147,38,0.90) !important;color:black !important;text-align:right !important;font:normal 12px/45px Arial, sans-serif !important;border-radius:0 !important;margin:0 !important;max-width:100% !important;background-repeat: no-repeat !important;background-position: 15px center !important;
+background-image: url(data:image/png;base64,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);
+"><span style="padding-right:15px;">You are viewing a snapshot of <a style='font-weight:bold !important; color:white !important' href='http://www.haakonfaste.com/'>http://www.haakonfaste.com/</a> created on 2017/01/24</span></div></body>
+</html>

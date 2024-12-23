@@ -1,0 +1,475 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Proyección cartográfica - Wikipedia, la enciclopedia libre</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgRequestId":"7bf7b13f-ddaa-4b9d-8001-33c42fa2f873","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Proyección_cartográfica","wgTitle":"Proyección cartográfica","wgCurRevisionId":140337989,"wgRevisionId":140337989,"wgArticleId":2238,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia:Artículos que necesitan referencias adicionales","Wikipedia:Referenciar (aún sin clasificar)","Wikipedia:Artículos con identificadores Microsoft Academic","Proyecciones cartográficas"],"wgPageContentLanguage":"es","wgPageContentModel":"wikitext",
+"wgRelevantPageName":"Proyección_cartográfica","wgRelevantArticleId":2238,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":true},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":9000,"wgNoticeProject":"wikipedia","wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgULSCurrentAutonym":"español","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage","wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q186386","wgGENewcomerTasksGuidanceEnabled":true,"wgGEAskQuestionEnabled":false,"wgGELinkRecommendationsFrontendEnabled":true};RLSTATE={"ext.gadget.imagenesinfobox":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles"
+:"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.gadget.a-commons-directo","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.gadget.switcher","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});});});</script>
+<link rel="stylesheet" href="assets/9fe46eca540b4984898430fb4794473f.css"/>
+<script async="" src="assets/8532ade5263291bbec023cbcc32e64ff.php"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="assets/b32d9096171b2f3d89b1a76b674653c9.css"/>
+<link rel="stylesheet" href="assets/2ce3a17a5093d86b73f93e840af34bca.css"/>
+<noscript><link rel="stylesheet" href="assets/40ab090647b856ed61869d60e9952ec2.css"/></noscript>
+<meta name="generator" content="MediaWiki 1.38.0-wmf.12"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:title" content="Proyección cartográfica - Wikipedia, la enciclopedia libre"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//es.m.wikipedia.org/wiki/Proyecci%C3%B3n_cartogr%C3%A1fica"/>
+<link rel="alternate" type="application/x-wiki" title="Editar" href="/w/index.php?title=Proyecci%C3%B3n_cartogr%C3%A1fica&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (es)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//es.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://es.wikipedia.org/wiki/Proyecci%C3%B3n_cartogr%C3%A1fica"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Proyección_cartográfica rootpage-Proyección_cartográfica skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" >Proyección cartográfica</h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">De Wikipedia, la enciclopedia libre</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Ir a la navegación</a>
+		<a class="mw-jump-link" href="#searchInput">Ir a la búsqueda</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="es" dir="ltr"><div class="mw-parser-output"><table style="" class="noprint plainlinks ambox ambox-content">
+<tbody><tr>
+<td class="ambox-image" width="40">
+<img alt="Commons-emblem-question book orange.svg" src="assets/b359808d767f3fcf7cc76d9c2e5aeb5d.png" decoding="async" width="45" height="45" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Commons-emblem-question_book_orange.svg/68px-Commons-emblem-question_book_orange.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Commons-emblem-question_book_orange.svg/90px-Commons-emblem-question_book_orange.svg.png 2x" data-file-width="48" data-file-height="48" /></td>
+<td class="ambox-text"><div class="ambox-text-div"><strong>Este artículo o sección tiene <a href="/wiki/Wikipedia:VER" class="mw-redirect" title="Wikipedia:VER">referencias</a>, pero necesita más para complementar su <a href="/wiki/Wikipedia:FF" class="mw-redirect" title="Wikipedia:FF">verificabilidad</a>.</strong></div><div class="hide-when-compact"><small><div>Este aviso fue puesto el 5 de septiembre de 2016.</div></small></div></td>
+</tr>
+</tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:145px;"><a href="/wiki/Archivo:Netzentwuerfe.png" class="image"><img alt="" src="assets/7125d73aba4f076935804782c280b709.png" decoding="async" width="143" height="388" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Netzentwuerfe.png/215px-Netzentwuerfe.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Netzentwuerfe.png/286px-Netzentwuerfe.png 2x" data-file-width="797" data-file-height="2161" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:Netzentwuerfe.png" class="internal" title="Aumentar"></a></div>Diversas proyecciones</div></div></div>
+<p>La <b>proyección cartográfica</b> o <b>proyección geográfica</b> es un sistema de representación gráfica que establece una relación ordenada entre los puntos de la superficie curva de la <a href="/wiki/Tierra" title="Tierra">Tierra</a> y los de una superficie plana (<a href="/wiki/Mapa" title="Mapa">mapa</a>). Estos puntos se localizan auxiliándose en una red de <a href="/wiki/Meridiano" title="Meridiano">meridianos</a> y <a href="/wiki/Paralelo" title="Paralelo">paralelos</a>, en forma de malla. La única forma de evitar las distorsiones de esta proyección sería usando un mapa <a href="/wiki/Geodesia" title="Geodesia">geodésico</a>, aunque la distorsión es minimizada representada en un mapa esférico.
+</p><p>En un sistema de coordenadas proyectadas, los puntos se identifican por las <a href="/wiki/Coordenadas_cartesianas" title="Coordenadas cartesianas">coordenadas cartesianas</a> (<i>x</i> e <i>y</i>) en una malla cuyo origen depende de los casos. Este tipo de coordenadas se obtienen matemáticamente a partir de las <a href="/wiki/Coordenadas_geogr%C3%A1ficas" title="Coordenadas geográficas">coordenadas geográficas</a> (longitud y latitud), que no son proyectadas.<sup id="cite_ref-1" class="reference separada"><a href="#cite_note-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>&#8203;
+</p><p>Las representaciones planas de la esfera terrestre se llaman mapas, y los encargados de elaborarlos o especialistas en <a href="/wiki/Cartograf%C3%ADa" title="Cartografía">cartografía</a> se denominan <a href="/wiki/Cartograf%C3%ADa" title="Cartografía">cartógrafos</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="es" dir="ltr"><h2 id="mw-toc-heading">Índice</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Propiedades_de_las_proyecciones_cartográficas"><span class="tocnumber">1</span> <span class="toctext">Propiedades de las proyecciones cartográficas</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Tipos_de_proyecciones_cartográficas"><span class="tocnumber">2</span> <span class="toctext">Tipos de proyecciones cartográficas</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Proyección_cilíndrica"><span class="tocnumber">2.1</span> <span class="toctext">Proyección cilíndrica</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Proyección_cónica"><span class="tocnumber">2.2</span> <span class="toctext">Proyección cónica</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Proyección_acimutal"><span class="tocnumber">2.3</span> <span class="toctext">Proyección acimutal</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Proyecciones_modificadas"><span class="tocnumber">2.4</span> <span class="toctext">Proyecciones modificadas</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Proyecciones_convencionales"><span class="tocnumber">3</span> <span class="toctext">Proyecciones convencionales</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Véase_también"><span class="tocnumber">4</span> <span class="toctext">Véase también</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Referencias"><span class="tocnumber">5</span> <span class="toctext">Referencias</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Enlaces_externos"><span class="tocnumber">6</span> <span class="toctext">Enlaces externos</span></a></li>
+</ul>
+</div>
+
+<h2><span id="Propiedades_de_las_proyecciones_cartogr.C3.A1ficas"></span><span class="mw-headline" id="Propiedades_de_las_proyecciones_cartográficas">Propiedades de las proyecciones cartográficas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Proyecci%C3%B3n_cartogr%C3%A1fica&amp;action=edit&amp;section=1" title="Editar sección: Propiedades de las proyecciones cartográficas">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Se suelen establecer clasificaciones en función de su principal propiedad; el tipo de superficie sobre la que se realiza la proyección: cenital (un plano), cilíndrica (un cilindro) o cónica (un cono); así como la disposición relativa entre la superficie terrestre y la superficie de proyección (plano, cilindro o cono) pudiendo ser tangente, secante u oblicua. Según la propiedad que posea una proyección puede distinguirse entre: 
+</p>
+<ul><li>proyecciones equidistantes, si conserva las distancias.</li>
+<li>proyecciones equivalentes, si conserva las áreas de las superficies.</li>
+<li>proyecciones conformes, si conservan las formas (o, lo que es lo mismo, los ángulos).</li></ul>
+<p>No es posible tener todas las propiedades anteriores a la vez, por lo que es necesario optar por soluciones de compromiso que dependerán de la utilidad a la que sea destinado el mapa.<sup id="cite_ref-2" class="reference separada"><a href="#cite_note-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>&#8203;
+</p>
+<h2><span id="Tipos_de_proyecciones_cartogr.C3.A1ficas"></span><span class="mw-headline" id="Tipos_de_proyecciones_cartográficas">Tipos de proyecciones cartográficas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Proyecci%C3%B3n_cartogr%C3%A1fica&amp;action=edit&amp;section=2" title="Editar sección: Tipos de proyecciones cartográficas">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Dependiendo de cuál sea el punto que se considere como centro del mapa, se distingue entre proyecciones polares, cuyo centro es uno de los polos; ecuatoriales, cuyo centro es la intersección entre la <a href="/wiki/Ecuador_terrestre" title="Ecuador terrestre">línea del Ecuador</a> y un meridiano; y oblicuas o inclinadas, cuyo centro es cualquier otro punto. 
+</p><p>Se distinguen tres tipos de proyecciones básicas: cilíndricas, cónicas y acimutales.
+</p>
+<h3><span id="Proyecci.C3.B3n_cil.C3.ADndrica"></span><span class="mw-headline" id="Proyección_cilíndrica">Proyección cilíndrica</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Proyecci%C3%B3n_cartogr%C3%A1fica&amp;action=edit&amp;section=3" title="Editar sección: Proyección cilíndrica">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/Archivo:Projection_cylindrique.jpg" class="image"><img alt="" src="assets/be1bd7bb08f36089b0e35ea381ba0f12.jpg" decoding="async" width="220" height="237" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/5/52/Projection_cylindrique.jpg 1.5x" data-file-width="325" data-file-height="350" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:Projection_cylindrique.jpg" class="internal" title="Aumentar"></a></div>Esquema de una proyección cilíndrica.</div></div></div>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Proyecci%C3%B3n_cil%C3%ADndrica" title="Proyección cilíndrica"> Proyección cilíndrica</a></i></div>
+<p>La <a href="/wiki/Proyecci%C3%B3n_de_Mercator" title="Proyección de Mercator">proyección de Mercator</a>, que revolucionó la <a href="/wiki/Cartograf%C3%ADa" title="Cartografía">cartografía</a>, es cilíndrica y conforme. En ella se proyecta el globo terrestre sobre una superficie <a href="/wiki/Cilindro" title="Cilindro">cilíndrica</a>. Es una de las más utilizadas, aunque por lo general en forma modificada, debido a las grandes distorsiones que ofrece en las zonas de <a href="/wiki/Latitud" title="Latitud">latitud</a> elevada, lo que impide apreciar a las regiones polares en su verdadera proporción. Es utilizada en la creación de algunos <a href="/wiki/Mapamundi" title="Mapamundi">mapamundis</a>. Para corregir las deformaciones en latitudes altas se usan proyecciones pseudocilíndricas, como la de Van der Grinten, que es policónica, con paralelos y meridianos circulares. Es esencialmente útil para ver la superficie de la Tierra completa.
+</p>
+<ul><li><a href="/wiki/Proyecci%C3%B3n_de_Mercator" title="Proyección de Mercator">Proyección de Mercator</a></li>
+<li><a href="/wiki/Proyecci%C3%B3n_de_Peters" title="Proyección de Peters">Proyección de Peters</a></li>
+<li><a href="/wiki/Proyecci%C3%B3n_de_Robinson" title="Proyección de Robinson">Proyección de Robinson</a></li></ul>
+<h3><span id="Proyecci.C3.B3n_c.C3.B3nica"></span><span class="mw-headline" id="Proyección_cónica">Proyección cónica</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Proyecci%C3%B3n_cartogr%C3%A1fica&amp;action=edit&amp;section=4" title="Editar sección: Proyección cónica">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/Archivo:Projection_conique.jpg" class="image"><img alt="" src="assets/ab724edaab8c3eb437f0cd073eda5e8f.jpg" decoding="async" width="220" height="227" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/8/85/Projection_conique.jpg 1.5x" data-file-width="325" data-file-height="336" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:Projection_conique.jpg" class="internal" title="Aumentar"></a></div>Esquema de una proyección cónica.</div></div></div>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Proyecci%C3%B3n_c%C3%B3nica_cartogr%C3%A1fica" title="Proyección cónica cartográfica"> Proyección cónica cartográfica</a></i></div>
+<p>La proyección cónica se obtiene proyectando los elementos de la superficie esférica terrestre sobre una superficie <a href="/wiki/Cono_(geometr%C3%ADa)" title="Cono (geometría)">cónica</a> tangente, situando el <a href="/wiki/V%C3%A9rtice_(geometr%C3%ADa)" title="Vértice (geometría)">vértice</a> en el eje que une los dos polos. Aunque las formas presentadas son de los polos, los cartógrafos utilizan este tipo de proyección para ver los países y continentes.
+Hay diversos tipos de proyecciones cónicas:
+</p>
+<ul><li><a href="/wiki/Proyecci%C3%B3n_c%C3%B3nica_simple" title="Proyección cónica simple">Proyección cónica simple</a></li>
+<li><a href="/wiki/Proyecci%C3%B3n_conforme_de_Lambert" title="Proyección conforme de Lambert">Proyección conforme de Lambert</a></li>
+<li><a href="/wiki/Proyecci%C3%B3n_c%C3%B3nica_m%C3%BAltiple" title="Proyección cónica múltiple">Proyección cónica múltiple</a></li></ul>
+<h3><span id="Proyecci.C3.B3n_acimutal"></span><span class="mw-headline" id="Proyección_acimutal">Proyección acimutal</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Proyecci%C3%B3n_cartogr%C3%A1fica&amp;action=edit&amp;section=5" title="Editar sección: Proyección acimutal">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Proyecci%C3%B3n_acimutal" title="Proyección acimutal"> Proyección acimutal</a></i></div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/Archivo:Projection_azimutale_gnomonique.jpg" class="image"><img alt="" src="assets/d55e1dd313b8af31c4fae5c8a201163a.jpg" decoding="async" width="220" height="142" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Projection_azimutale_gnomonique.jpg/330px-Projection_azimutale_gnomonique.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/5/5d/Projection_azimutale_gnomonique.jpg 2x" data-file-width="360" data-file-height="232" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:Projection_azimutale_gnomonique.jpg" class="internal" title="Aumentar"></a></div>Esquema de una proyección acimutal gnomónica.</div></div></div>
+<p>En este caso se proyecta una porción de la Tierra sobre un plano tangente al globo en un punto seleccionado, obteniéndose una imagen similar a la visión de la Tierra desde un punto interior o exterior. Si la proyección es del primer tipo se llama <a href="/wiki/Proyecci%C3%B3n_gnom%C3%B3nica" title="Proyección gnomónica">proyección gnomónica</a>; si es del segundo, <a href="/wiki/Proyecci%C3%B3n_ortogr%C3%A1fica" title="Proyección ortográfica">ortográfica</a>. Estas proyecciones ofrecen una mayor distorsión cuanto mayor sea la distancia al punto tangencial de la <a href="/wiki/Esfera" title="Esfera">esfera</a> y el <a href="/wiki/Plano_(geometr%C3%ADa)" title="Plano (geometría)">plano</a>. Este tipo de proyección se relaciona principalmente con los polos y hemisferios.
+Tipos de proyecciones:
+</p>
+<ul><li><a href="/wiki/Proyecci%C3%B3n_ortogr%C3%A1fica" title="Proyección ortográfica">Proyección ortográfica</a></li>
+<li><a href="/wiki/Proyecci%C3%B3n_estereogr%C3%A1fica" title="Proyección estereográfica">Proyección estereográfica</a></li>
+<li><a href="/wiki/Proyecci%C3%B3n_gnom%C3%B3nica" title="Proyección gnomónica">Proyección gnomónica</a></li>
+<li><a href="/wiki/Proyecci%C3%B3n_acimutal_de_Lambert" title="Proyección acimutal de Lambert">Proyección acimutal de Lambert</a></li></ul>
+<h3><span class="mw-headline" id="Proyecciones_modificadas">Proyecciones modificadas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Proyecci%C3%B3n_cartogr%C3%A1fica&amp;action=edit&amp;section=6" title="Editar sección: Proyecciones modificadas">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Proyecciones_modificadas" title="Proyecciones modificadas"> Proyecciones modificadas</a></i></div>
+<p>En la actualidad la mayoría de los mapas se hacen con base en proyecciones modificadas o combinación de las anteriores, a veces, con varios puntos focales, a fin de corregir en lo posible las distorsiones en ciertas áreas seleccionadas, aun cuando se produzcan otras nuevas en lugares a los que se concede importancia secundaria, como son por lo general las grandes extensiones de mar. Entre las más usuales figuran la <a href="/w/index.php?title=Proyecci%C3%B3n_polic%C3%B3nica&amp;action=edit&amp;redlink=1" class="new" title="Proyección policónica (aún no redactado)">proyección policónica</a> de <a href="/wiki/Johann_Heinrich_Lambert" title="Johann Heinrich Lambert">Lambert</a> utilizada para fines educativos, y los <a href="/wiki/Mapamundi" title="Mapamundi">mapamundis</a> elaborados según las proyecciones <a href="/wiki/Proyecci%C3%B3n_de_Winkel-Tripel" title="Proyección de Winkel-Tripel">Winkel-Tripel</a> (adoptada por la <a href="/wiki/National_Geographic_Society" title="National Geographic Society">National Geographic Society</a><sup id="cite_ref-3" class="reference separada"><a href="#cite_note-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>&#8203;) y <a href="/wiki/Proyecci%C3%B3n_de_Mollweide" title="Proyección de Mollweide">Mollweide</a>, que tienen forma de <a href="/wiki/Elipse" title="Elipse">elipse</a> y menores distorsiones.
+</p>
+<h2><span class="mw-headline" id="Proyecciones_convencionales">Proyecciones convencionales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Proyecci%C3%B3n_cartogr%C3%A1fica&amp;action=edit&amp;section=7" title="Editar sección: Proyecciones convencionales">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Las proyecciones convencionales generalmente fueron creadas para representar el mundo entero (mapamundi) y dan la idea de mantener las propiedades métricas, buscando un balance entre distorsiones, o simplemente hacer que el mapamundi "se vea bien". La mayor parte de este tipo de proyecciones distorsiona las formas en las regiones polares más que en el ecuador:
+</p>
+<ul><li><a href="/wiki/Proyecci%C3%B3n_de_Aitoff" title="Proyección de Aitoff">Proyección de Aitoff</a></li>
+<li><a href="/w/index.php?title=Proyecci%C3%B3n_de_Bernard_J.S._Cahill&amp;action=edit&amp;redlink=1" class="new" title="Proyección de Bernard J.S. Cahill (aún no redactado)">Proyección de Bernard J.S. Cahill</a></li>
+<li><a href="/wiki/Mapa_Dymaxion" title="Mapa Dymaxion">Proyección de Dymaxion</a></li>
+<li><a href="/wiki/Proyecci%C3%B3n_de_Goode" title="Proyección de Goode">Proyección de Goode</a></li>
+<li><a href="/w/index.php?title=Proyecci%C3%B3n_de_Kavrayskiy_VII&amp;action=edit&amp;redlink=1" class="new" title="Proyección de Kavrayskiy VII (aún no redactado)">Proyección de Kavrayskiy VII</a></li>
+<li><a href="/w/index.php?title=Proyecci%C3%B3n_cil%C3%ADndrica_de_Miller&amp;action=edit&amp;redlink=1" class="new" title="Proyección cilíndrica de Miller (aún no redactado)">Proyección cilíndrica de Miller</a></li>
+<li><a href="/wiki/Proyecci%C3%B3n_de_Robinson" title="Proyección de Robinson">Proyección de Robinson</a></li>
+<li><a href="/wiki/Proyecci%C3%B3n_de_Van_der_Grinten" title="Proyección de Van der Grinten">Proyección de Van der Grinten</a></li>
+<li><a href="/w/index.php?title=Proyecci%C3%B3n_de_Wagner_VI&amp;action=edit&amp;redlink=1" class="new" title="Proyección de Wagner VI (aún no redactado)">Proyección de Wagner VI</a></li>
+<li><a href="/w/index.php?title=Proyecci%C3%B3n_de_Waterman&amp;action=edit&amp;redlink=1" class="new" title="Proyección de Waterman (aún no redactado)">Proyección de Waterman</a></li>
+<li><a href="/wiki/Proyecci%C3%B3n_de_Winkel-Tripel" title="Proyección de Winkel-Tripel">Proyección de Winkel-Tripel</a></li></ul>
+<div class="center"><div class="thumb tnone"><div class="thumbinner" style="width:502px;"><a href="/wiki/Archivo:Robinson_projection_SW.jpg" class="image"><img alt="" src="assets/fa37a0e02af17bce7c15144ef847cdc4.jpg" decoding="async" width="500" height="255" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/96/Robinson_projection_SW.jpg/750px-Robinson_projection_SW.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/96/Robinson_projection_SW.jpg/1000px-Robinson_projection_SW.jpg 2x" data-file-width="2058" data-file-height="1050" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:Robinson_projection_SW.jpg" class="internal" title="Aumentar"></a></div>La <a href="/wiki/Proyecci%C3%B3n_de_Robinson" title="Proyección de Robinson">proyección de Robinson</a> fue adoptada por la <a href="/wiki/National_Geographic_(revista)" title="National Geographic (revista)">revista <i>National Geographic</i></a> en 1988 pero abandonada alrededor de 1997 a cambio de la <a href="/wiki/Proyecci%C3%B3n_de_Winkel-Tripel" title="Proyección de Winkel-Tripel">proyección de Winkel-Tripel</a>.</div></div></div></div>
+<h2><span id="V.C3.A9ase_tambi.C3.A9n"></span><span class="mw-headline" id="Véase_también">Véase también</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Proyecci%C3%B3n_cartogr%C3%A1fica&amp;action=edit&amp;section=8" title="Editar sección: Véase también">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Anexo:Proyecciones_cartogr%C3%A1ficas" class="mw-redirect" title="Anexo:Proyecciones cartográficas">Anexo:Proyecciones cartográficas</a></li>
+<li><a href="/wiki/Cartograf%C3%ADa" title="Cartografía">Cartografía</a></li>
+<li><a href="/wiki/Historia_de_la_cartograf%C3%ADa" title="Historia de la cartografía">Historia de la cartografía</a></li>
+<li><a href="/wiki/Mapa" title="Mapa">Mapa</a></li>
+<li><a href="/wiki/Proyecci%C3%B3n_gr%C3%A1fica" title="Proyección gráfica">Proyección gráfica</a></li>
+<li><a href="/wiki/Proyecci%C3%B3n_sinusoidal" title="Proyección sinusoidal">Proyección sinusoidal</a></li></ul>
+<table style="border: 1px solid #ccc; background-color: #F9F9F9; margin-left: 1em; margin-right: 0em; margin: auto;width: 360px; padding: 2px;">
+
+<tbody><tr style="background-color:white;"><td style="border: 1px solid #dedede;padding: 5px; width:248px;">
+<style data-mw-deduplicate="TemplateStyles:r128061833">.mw-parser-output table.clade{border-spacing:0;margin:0;font-size:100%;line-height:100%;border-collapse:separate;width:auto}.mw-parser-output table.clade table.clade{width:100%}.mw-parser-output table.clade td.clade-label{width:0.7em;padding:0 0.15em;vertical-align:bottom;text-align:center;border-left:1px solid;border-bottom:1px solid;white-space:nowrap}.mw-parser-output table.clade td.clade-fixed-width{overflow:hidden;text-overflow:ellipsis}.mw-parser-output table.clade td.clade-fixed-width:hover{overflow:visible}.mw-parser-output table.clade td.clade-label.first{border-left:none;border-right:none}.mw-parser-output table.clade td.clade-label.reverse{border-left:none;border-right:1px solid}.mw-parser-output table.clade td.clade-slabel{padding:0 0.15em;vertical-align:top;text-align:center;border-left:1px solid;white-space:nowrap}.mw-parser-output table.clade td.clade-slabel:hover{overflow:visible}.mw-parser-output table.clade td.clade-slabel.last{border-left:none;border-right:none}.mw-parser-output table.clade td.clade-slabel.reverse{border-left:none;border-right:1px solid}.mw-parser-output table.clade td.clade-bar{vertical-align:middle;text-align:left;padding:0 0.5em;position:relative}.mw-parser-output table.clade td.clade-bar.reverse{text-align:right;position:relative}.mw-parser-output table.clade td.clade-leaf{border:0;padding:0;text-align:left}.mw-parser-output table.clade td.clade-leafR{border:0;padding:0;text-align:right}.mw-parser-output table.clade td.clade-leaf.reverse{text-align:right}.mw-parser-output table.clade:hover span.linkA{background-color:yellow}.mw-parser-output table.clade:hover span.linkB{background-color:green}</style>
+<table class="clade">
+
+
+<tbody><tr>
+<td class="clade-label first"><a href="/wiki/Proyecci%C3%B3n_gr%C3%A1fica" title="Proyección gráfica">Proyección&#160;gráfica</a>
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r128061833"/>
+<table class="clade">
+
+
+<tbody><tr>
+<td class="clade-label"><a href="/wiki/Proyecci%C3%B3n_paralela" title="Proyección paralela">Proyección&#160;paralela</a>
+</td>
+<td rowspan="2" class="clade-leaf">
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r128061833"/>
+<table class="clade">
+
+
+<tbody><tr>
+<td class="clade-label first">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Proyecci%C3%B3n_ortogonal" title="Proyección ortogonal">Proyección ortogonal</a>
+</p>
+</td></tr>
+<tr>
+<td class="clade-slabel">&#8239;
+</td></tr>
+<tr>
+<td class="clade-label">&#8239;
+</td>
+<td rowspan="2" class="clade-leaf">
+<p><a href="/wiki/Proyecci%C3%B3n_oblicua" title="Proyección oblicua">Proyección oblicua</a>
+</p>
+</td></tr>
+<tr>
+<td class="clade-slabel last">&#8239;
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td class="clade-slabel last">&#8239;
+</td></tr></tbody></table>
+</td></tr>
+<tr>
+<td class="clade-slabel last">&#8239;
+</td></tr></tbody></table></td></tr>
+</tbody></table>
+<h2><span class="mw-headline" id="Referencias">Referencias</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Proyecci%C3%B3n_cartogr%C3%A1fica&amp;action=edit&amp;section=9" title="Editar sección: Referencias">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="listaref" style="list-style-type: decimal;"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><a href="#cite_ref-1">↑</a></span> <span class="reference-text"><span id="CITAREFMiraglia2010" class="citation libro">Miraglia, Marina y otros (2010). <a rel="nofollow" class="external text" href="https://ens9004-mza.infd.edu.ar/sitio/upload/01-_MIRAGLIA_Y_OTROS_-.PDF">«1»</a>. <i>Manual de Cartografía, Teleobservación y Sistemas de Información Geográfica</i>. Los polvorines, Buenos Aires, Argentina: Universidad Nacional de General Sarmiento. p.&#160;32. <small><a href="/wiki/ISBN" title="ISBN">ISBN</a>&#160;<a href="/wiki/Especial:FuentesDeLibros/978-987-630-090-2" title="Especial:FuentesDeLibros/978-987-630-090-2">978-987-630-090-2</a></small><span class="reference-accessdate">. Consultado el 22 de abril de 2020</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AProyecci%C3%B3n+cartogr%C3%A1fica&amp;rft.atitle=Manual+de+Cartograf%C3%ADa%2C%0ATeleobservaci%C3%B3n+y%0ASistemas+de+Informaci%C3%B3n+Geogr%C3%A1fica&amp;rft.au=Miraglia%2C+Marina+y+otros&amp;rft.aufirst=Marina+y+otros&amp;rft.aulast=Miraglia&amp;rft.btitle=1&amp;rft.date=2010&amp;rft.genre=bookitem&amp;rft.isbn=978-987-630-090-2&amp;rft.pages=32&amp;rft.place=Los+polvorines%2C+Buenos+Aires%2C+Argentina&amp;rft.pub=Universidad+Nacional+de+General+Sarmiento&amp;rft_id=https%3A%2F%2Fens9004-mza.infd.edu.ar%2Fsitio%2Fupload%2F01-_MIRAGLIA_Y_OTROS_-.PDF&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><a href="#cite_ref-2">↑</a></span> <span class="reference-text"><span id="CITAREFMiraglia2010" class="citation libro">Miraglia, Marina (2010). <a rel="nofollow" class="external text" href="https://ens9004-mza.infd.edu.ar/sitio/upload/01-_MIRAGLIA_Y_OTROS_-.PDF">«1»</a>. <i>Manual de Cartografía, Teleobservación y Sistemas de Información Geográfica</i>. Los Polvorines, Buenos Aires, Argentina: Universidad Nacional de General Sarmiento. p.&#160;32. <small><a href="/wiki/ISBN" title="ISBN">ISBN</a>&#160;<a href="/wiki/Especial:FuentesDeLibros/978-987-630-090-2" title="Especial:FuentesDeLibros/978-987-630-090-2">978-987-630-090-2</a></small><span class="reference-accessdate">. Consultado el 22 de abril de 2020</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AProyecci%C3%B3n+cartogr%C3%A1fica&amp;rft.atitle=Manual+de+Cartograf%C3%ADa%2C%0ATeleobservaci%C3%B3n+y%0ASistemas+de+Informaci%C3%B3n+Geogr%C3%A1fica&amp;rft.au=Miraglia%2C+Marina&amp;rft.aufirst=Marina&amp;rft.aulast=Miraglia&amp;rft.btitle=1&amp;rft.date=2010&amp;rft.genre=bookitem&amp;rft.isbn=978-987-630-090-2&amp;rft.pages=32&amp;rft.place=Los+Polvorines%2C+Buenos+Aires%2C+Argentina&amp;rft.pub=Universidad+Nacional+de+General+Sarmiento&amp;rft_id=https%3A%2F%2Fens9004-mza.infd.edu.ar%2Fsitio%2Fupload%2F01-_MIRAGLIA_Y_OTROS_-.PDF&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><a href="#cite_ref-3">↑</a></span> <span class="reference-text">Kessler, Fritz C. (en inglés). <a rel="nofollow" class="external text" href="https://archive.is/20120628205856/findarticles.com/p/articles/mi_hb3006/is_2_27/ai_n28780837/">«A Visual Basic Algorithm for the Winkel Tripel Projection.»</a> CBS Resource Library. Consultado el 16 de octubre de 2017.</span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="Enlaces_externos">Enlaces externos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Proyecci%C3%B3n_cartogr%C3%A1fica&amp;action=edit&amp;section=10" title="Editar sección: Enlaces externos">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><img alt="" src="assets/ebdf4240f222adc950bdd62bb3c27207.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="/wiki/Wikimedia_Commons" title="Wikimedia Commons">Wikimedia Commons</a> alberga una categoría multimedia sobre <b><a href="https://commons.wikimedia.org/wiki/Category:Map_projections" class="extiw" title="commons:Category:Map projections">Proyecciones cartográficas</a></b>.</li>
+<li><a rel="nofollow" class="external text" href="http://www.jasondavies.com/maps/transition/">Muestra de proyecciones en transición y movimiento.</a></li>
+<li><a rel="nofollow" class="external text" href="https://archive.is/20120630001417/http://www.btinternet.com/~se16/js/mapproj.htm">Muestra de diferentes proyecciones cartográficas.</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.explainxkcd.com/wiki/images/9/9c/map_projections.png">Algunos ejemplos de proyecciones cartográficas</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.mapthematics.com/ProjectionsList.php?Projection=19#Mercator">Descripción de varias proyecciones cartográficas</a> (Enlaces a cada proyección en la parte izquierda de la página - en inglés)</li></ul>
+<style data-mw-deduplicate="TemplateStyles:r118746331">.mw-parser-output .mw-authority-control{margin-top:1.5em}.mw-parser-output .mw-authority-control .navbox hr:last-child{display:none}.mw-parser-output .mw-authority-control .navbox+.mw-mf-linked-projects{display:none}.mw-parser-output .mw-authority-control .mw-mf-linked-projects{display:flex;padding:0.5em;border:1px solid #c8ccd1;background-color:#eaecf0;color:#222222}.mw-parser-output .mw-authority-control .mw-mf-linked-projects ul li{margin-bottom:0}</style><div class="mw-authority-control"><div role="navigation" class="navbox" aria-label="Navbox" style="width: inherit;padding:3px"><table class="hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width: 12%; text-align:center;"><a href="/wiki/Control_de_autoridades" title="Control de autoridades">Control de autoridades</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b>Proyectos Wikimedia</b></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata"><img alt="Wd" src="assets/f9e6aa5e6e7d6ac5167869e4200847e5.png" decoding="async" width="20" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/30px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a> Datos:</span> <span class="uid"><a href="https://www.wikidata.org/wiki/Q186386" class="extiw" title="wikidata:Q186386">Q186386</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikimedia_Commons" title="Commonscat"><img alt="Commonscat" src="assets/ebdf4240f222adc950bdd62bb3c27207.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Multimedia:</span> <span class="uid"><span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Category:Map_projections">Map projections</a></span></span></li></ul>
+<hr />
+<ul><li><b>Identificadores</b></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Archives_and_Records_Administration" class="mw-redirect" title="National Archives and Records Administration">NARA</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="https://catalog.archives.gov/id/10640363">10640363</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Microsoft_Academic" title="Microsoft Academic">Microsoft Academic</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="https://academic.microsoft.com/v2/detail/176250725">176250725</a></span></li></ul>
+</div></td></tr></tbody></table></div><div class="mw-mf-linked-projects hlist">
+<ul><li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata"><img alt="Wd" src="assets/f9e6aa5e6e7d6ac5167869e4200847e5.png" decoding="async" width="20" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/30px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a> Datos:</span> <span class="uid"><a href="https://www.wikidata.org/wiki/Q186386" class="extiw" title="wikidata:Q186386">Q186386</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikimedia_Commons" title="Commonscat"><img alt="Commonscat" src="assets/ebdf4240f222adc950bdd62bb3c27207.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Multimedia:</span> <span class="uid"><span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Category:Map_projections">Map projections</a></span></span></li></ul>
+</div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1341
+Cached time: 20211214151246
+Cache expiry: 86400
+Reduced expiry: true
+Complications: []
+CPU time usage: 0.338 seconds
+Real time usage: 0.418 seconds
+Preprocessor visited node count: 2170/1000000
+Post‐expand include size: 21014/2097152 bytes
+Template argument size: 4468/2097152 bytes
+Highest expansion depth: 23/40
+Expensive parser function count: 3/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 10065/5000000 bytes
+Lua time usage: 0.151/10.000 seconds
+Lua memory usage: 3153561/52428800 bytes
+Number of Wikibase entities loaded: 4/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  346.894      1 -total
+ 33.78%  117.179      3 Plantilla:Clado
+ 30.21%  104.785      1 Plantilla:Control_de_autoridades
+ 22.87%   79.347      1 Plantilla:Referencias_adicionales
+ 16.98%   58.898      1 Plantilla:Proyección_gráfica
+ 16.62%   57.671      1 Plantilla:Aviso
+ 15.46%   53.632      1 Plantilla:Cuadro_imagen
+ 14.90%   51.691      1 Plantilla:Listaref
+ 14.48%   50.224      2 Plantilla:Problemas_artículo/validar
+ 11.68%   40.506      2 Plantilla:Cita_libro
+-->
+
+<!-- Saved in parser cache with key eswiki:pcache:idhash:2238-0!canonical and timestamp 20211214151245 and revision id 140337989. Serialized with JSON.
+ -->
+</div><noscript><img src="assets/b24c79a0cf288ab55ac19582a30c6fca" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Obtenido de «<a dir="ltr" href="https://es.wikipedia.org/w/index.php?title=Proyección_cartográfica&amp;oldid=140337989">https://es.wikipedia.org/w/index.php?title=Proyección_cartográfica&amp;oldid=140337989</a>»</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Especial:Categor%C3%ADas" title="Especial:Categorías">Categoría</a>: <ul><li><a href="/wiki/Categor%C3%ADa:Proyecciones_cartogr%C3%A1ficas" title="Categoría:Proyecciones cartográficas">Proyecciones cartográficas</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Categorías ocultas: <ul><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_que_necesitan_referencias_adicionales" title="Categoría:Wikipedia:Artículos que necesitan referencias adicionales">Wikipedia:Artículos que necesitan referencias adicionales</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Referenciar_(a%C3%BAn_sin_clasificar)" title="Categoría:Wikipedia:Referenciar (aún sin clasificar)">Wikipedia:Referenciar (aún sin clasificar)</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_identificadores_Microsoft_Academic" title="Categoría:Wikipedia:Artículos con identificadores Microsoft Academic">Wikipedia:Artículos con identificadores Microsoft Academic</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Menú de navegación</h2>
+	<div id="mw-head">
+		<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label" aria-label="" class="vector-menu-heading">
+		<span class="vector-menu-heading-label">Herramientas personales</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span>No has accedido</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Especial:MiDiscusi%C3%B3n" title="Discusión sobre ediciones hechas desde esta dirección IP [n]" accesskey="n"><span>Discusión</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Especial:MisContribuciones" title="Una lista de modificaciones hechas desde esta dirección IP [y]" accesskey="y"><span>Contribuciones</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Proyecci%C3%B3n+cartogr%C3%A1fica" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio"><span>Crear una cuenta</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Proyecci%C3%B3n+cartogr%C3%A1fica" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o"><span>Acceder</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label" aria-label="" class="vector-menu-heading">
+		<span class="vector-menu-heading-label">Espacios de nombres</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/Proyecci%C3%B3n_cartogr%C3%A1fica" title="Ver la página de contenido [c]" accesskey="c"><span>Artículo</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/Discusi%C3%B3n:Proyecci%C3%B3n_cartogr%C3%A1fica" rel="discussion" title="Discusión acerca de la página [t]" accesskey="t"><span>Discusión</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" aria-label="Cambiar variante de idioma" class="vector-menu-heading">
+		<span class="vector-menu-heading-label">Variantes</span>
+			<span class="vector-menu-checkbox-expanded">expandido</span>
+			<span class="vector-menu-checkbox-collapsed">contraído</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label" aria-label="" class="vector-menu-heading">
+		<span class="vector-menu-heading-label">Vistas</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/Proyecci%C3%B3n_cartogr%C3%A1fica"><span>Leer</span></a></li><li id="ca-edit" class="mw-list-item"><a href="/w/index.php?title=Proyecci%C3%B3n_cartogr%C3%A1fica&amp;action=edit" title="Editar esta página [e]" accesskey="e"><span>Editar</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=Proyecci%C3%B3n_cartogr%C3%A1fica&amp;action=history" title="Versiones anteriores de esta página [h]" accesskey="h"><span>Ver historial</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="Más opciones"
+	 >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" aria-label="" class="vector-menu-heading">
+		<span class="vector-menu-heading-label">Más</span>
+			<span class="vector-menu-checkbox-expanded">expandido</span>
+			<span class="vector-menu-checkbox-collapsed">contraído</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search" class=" vector-search-box">
+	<div>
+			<h3 >
+				<label for="searchInput">Buscar</label>
+			</h3>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Buscar en Wikipedia" aria-label="Buscar en Wikipedia" autocapitalize="sentences" title="Buscar en este wiki [f]" accesskey="f" id="searchInput"
+				/>
+				<input type="hidden" name="title" value="Especial:Buscar"/>
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Busca páginas con este texto." value="Buscar" />
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Ir a la página con este nombre exacto si existe" value="Ir" />
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Wikipedia:Portada"
+			title="Visitar la página principal"></a>
+	</div>
+	<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label" aria-label="" class="vector-menu-heading">
+		<span class="vector-menu-heading-label">Navegación</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Wikipedia:Portada" title="Visitar la página principal [z]" accesskey="z"><span>Portada</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Portal:Comunidad" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información"><span>Portal de la comunidad</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Actualidad" title="Encuentra información de contexto sobre acontecimientos actuales"><span>Actualidad</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en la wiki [r]" accesskey="r"><span>Cambios recientes</span></a></li><li id="n-newpages" class="mw-list-item"><a href="/wiki/Especial:P%C3%A1ginasNuevas"><span>Páginas nuevas</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x"><span>Página aleatoria</span></a></li><li id="n-help" class="mw-list-item"><a href="/wiki/Ayuda:Contenidos" title="El lugar para aprender"><span>Ayuda</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wikipedia.org&amp;uselang=es" title="Apóyanos"><span>Donaciones</span></a></li><li id="n-bug_in_article" class="mw-list-item"><a href="/wiki/Wikipedia:Informes_de_error"><span>Notificar un error</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label" aria-label="" class="vector-menu-heading">
+		<span class="vector-menu-heading-label">Herramientas</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Especial:LoQueEnlazaAqu%C3%AD/Proyecci%C3%B3n_cartogr%C3%A1fica" title="Lista de todas las páginas de la wiki que enlazan aquí [j]" accesskey="j"><span>Lo que enlaza aquí</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Especial:CambiosEnEnlazadas/Proyecci%C3%B3n_cartogr%C3%A1fica" rel="nofollow" title="Cambios recientes en las páginas que enlazan con esta [k]" accesskey="k"><span>Cambios en enlazadas</span></a></li><li id="t-upload" class="mw-list-item"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es" title="Subir archivos [u]" accesskey="u"><span>Subir archivo</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q"><span>Páginas especiales</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Proyecci%C3%B3n_cartogr%C3%A1fica&amp;oldid=140337989" title="Enlace permanente a esta versión de la página"><span>Enlace permanente</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Proyecci%C3%B3n_cartogr%C3%A1fica&amp;action=info" title="Más información sobre esta página"><span>Información de la página</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Especial:Citar&amp;page=Proyecci%C3%B3n_cartogr%C3%A1fica&amp;id=140337989&amp;wpFormIdentifier=titleform" title="Información sobre cómo citar esta página"><span>Citar esta página</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q186386" title="Enlace al elemento conectado del repositorio de datos [g]" accesskey="g"><span>Elemento de Wikidata</span></a></li></ul>
+		
+	</div>
+</nav>
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label" aria-label="" class="vector-menu-heading">
+		<span class="vector-menu-heading-label">Imprimir/exportar</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book" class="mw-list-item"><a href="/w/index.php?title=Especial:Libro&amp;bookcmd=book_creator&amp;referer=Proyecci%C3%B3n+cartogr%C3%A1fica"><span>Crear un libro</span></a></li><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Especial:DownloadAsPdf&amp;page=Proyecci%C3%B3n_cartogr%C3%A1fica&amp;action=show-download-screen"><span>Descargar como PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Proyecci%C3%B3n_cartogr%C3%A1fica&amp;printable=yes" title="Versión imprimible de esta página [p]" accesskey="p"><span>Versión para imprimir</span></a></li></ul>
+		
+	</div>
+</nav>
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label" aria-label="" class="vector-menu-heading">
+		<span class="vector-menu-heading-label">En otros proyectos</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Map_projections" hreflang="en"><span>Wikimedia Commons</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label" aria-label="" class="vector-menu-heading">
+		<span class="vector-menu-heading-label">En otros idiomas</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar mw-list-item"><a href="https://ar.wikipedia.org/wiki/%D8%A5%D8%B3%D9%82%D8%A7%D8%B7_%D8%A7%D9%84%D8%AE%D8%B1%D8%A7%D8%A6%D8%B7" title="إسقاط الخرائط (árabe)" lang="ar" hreflang="ar" class="interlanguage-link-target"><span>العربية</span></a></li><li class="interlanguage-link interwiki-ast mw-list-item"><a href="https://ast.wikipedia.org/wiki/Proyeici%C3%B3n_cartogr%C3%A1fica" title="Proyeición cartográfica (asturiano)" lang="ast" hreflang="ast" class="interlanguage-link-target"><span>Asturianu</span></a></li><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Kartoqrafik_proyeksiyalar" title="Kartoqrafik proyeksiyalar (azerbaiyano)" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-be mw-list-item"><a href="https://be.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D1%82%D0%B0%D0%B3%D1%80%D0%B0%D1%84%D1%96%D1%87%D0%BD%D0%B0%D1%8F_%D0%BF%D1%80%D0%B0%D0%B5%D0%BA%D1%86%D1%8B%D1%8F" title="Картаграфічная праекцыя (bielorruso)" lang="be" hreflang="be" class="interlanguage-link-target"><span>Беларуская</span></a></li><li class="interlanguage-link interwiki-bg mw-list-item"><a href="https://bg.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D1%81%D0%BA%D0%B0_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%86%D0%B8%D1%8F" title="Картографска проекция (búlgaro)" lang="bg" hreflang="bg" class="interlanguage-link-target"><span>Български</span></a></li><li class="interlanguage-link interwiki-bh mw-list-item"><a href="https://bh.wikipedia.org/wiki/%E0%A4%A8%E0%A4%95%E0%A5%8D%E0%A4%B6%E0%A4%BE_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A5%8B%E0%A4%9C%E0%A5%87%E0%A4%95%E0%A5%8D%E0%A4%B6%E0%A4%A8" title="नक्शा प्रोजेक्शन (Bhojpuri)" lang="bh" hreflang="bh" class="interlanguage-link-target"><span>भोजपुरी</span></a></li><li class="interlanguage-link interwiki-bn mw-list-item"><a href="https://bn.wikipedia.org/wiki/%E0%A6%AE%E0%A6%BE%E0%A6%A8%E0%A6%9A%E0%A6%BF%E0%A6%A4%E0%A7%8D%E0%A6%B0_%E0%A6%85%E0%A6%AD%E0%A6%BF%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%AA" title="মানচিত্র অভিক্ষেপ (bengalí)" lang="bn" hreflang="bn" class="interlanguage-link-target"><span>বাংলা</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Projecci%C3%B3_cartogr%C3%A0fica" title="Projecció cartogràfica (catalán)" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-cs mw-list-item"><a href="https://cs.wikipedia.org/wiki/Mapov%C3%A9_zobrazen%C3%AD" title="Mapové zobrazení (checo)" lang="cs" hreflang="cs" class="interlanguage-link-target"><span>Čeština</span></a></li><li class="interlanguage-link interwiki-da mw-list-item"><a href="https://da.wikipedia.org/wiki/Kortprojektion" title="Kortprojektion (danés)" lang="da" hreflang="da" class="interlanguage-link-target"><span>Dansk</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Kartennetzentwurf" title="Kartennetzentwurf (alemán)" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-el mw-list-item"><a href="https://el.wikipedia.org/wiki/%CE%A7%CE%B1%CF%81%CF%84%CE%BF%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CE%AE_%CF%80%CF%81%CE%BF%CE%B2%CE%BF%CE%BB%CE%AE" title="Χαρτογραφική προβολή (griego)" lang="el" hreflang="el" class="interlanguage-link-target"><span>Ελληνικά</span></a></li><li class="interlanguage-link interwiki-en mw-list-item"><a href="https://en.wikipedia.org/wiki/Map_projection" title="Map projection (inglés)" lang="en" hreflang="en" class="interlanguage-link-target"><span>English</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Kaardiprojektsioon" title="Kaardiprojektsioon (estonio)" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-eu mw-list-item"><a href="https://eu.wikipedia.org/wiki/Proiekzio_kartografiko" title="Proiekzio kartografiko (euskera)" lang="eu" hreflang="eu" class="interlanguage-link-target"><span>Euskara</span></a></li><li class="interlanguage-link interwiki-fa mw-list-item"><a href="https://fa.wikipedia.org/wiki/%D8%B3%DB%8C%D8%B3%D8%AA%D9%85_%D8%AA%D8%B5%D9%88%DB%8C%D8%B1_%D9%86%D9%82%D8%B4%D9%87" title="سیستم تصویر نقشه (persa)" lang="fa" hreflang="fa" class="interlanguage-link-target"><span>فارسی</span></a></li><li class="interlanguage-link interwiki-fi mw-list-item"><a href="https://fi.wikipedia.org/wiki/Karttaprojektio" title="Karttaprojektio (finés)" lang="fi" hreflang="fi" class="interlanguage-link-target"><span>Suomi</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Projection_cartographique" title="Projection cartographique (francés)" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ga mw-list-item"><a href="https://ga.wikipedia.org/wiki/Teilgean_l%C3%A9arsc%C3%A1ile" title="Teilgean léarscáile (irlandés)" lang="ga" hreflang="ga" class="interlanguage-link-target"><span>Gaeilge</span></a></li><li class="interlanguage-link interwiki-gl mw-list-item"><a href="https://gl.wikipedia.org/wiki/Proxecci%C3%B3n_cartogr%C3%A1fica" title="Proxección cartográfica (gallego)" lang="gl" hreflang="gl" class="interlanguage-link-target"><span>Galego</span></a></li><li class="interlanguage-link interwiki-he mw-list-item"><a href="https://he.wikipedia.org/wiki/%D7%94%D7%99%D7%98%D7%9C_(%D7%99%D7%99%D7%A6%D7%95%D7%92_%D7%92%D7%A8%D7%A4%D7%99)" title="היטל (ייצוג גרפי) (hebreo)" lang="he" hreflang="he" class="interlanguage-link-target"><span>עברית</span></a></li><li class="interlanguage-link interwiki-hi mw-list-item"><a href="https://hi.wikipedia.org/wiki/%E0%A4%AE%E0%A4%BE%E0%A4%A8%E0%A4%9A%E0%A4%BF%E0%A4%A4%E0%A5%8D%E0%A4%B0_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%AA" title="मानचित्र प्रक्षेप (hindi)" lang="hi" hreflang="hi" class="interlanguage-link-target"><span>हिन्दी</span></a></li><li class="interlanguage-link interwiki-hr mw-list-item"><a href="https://hr.wikipedia.org/wiki/Kartografska_projekcija" title="Kartografska projekcija (croata)" lang="hr" hreflang="hr" class="interlanguage-link-target"><span>Hrvatski</span></a></li><li class="interlanguage-link interwiki-ht mw-list-item"><a href="https://ht.wikipedia.org/wiki/Pwojeksyon_konik" title="Pwojeksyon konik (criollo haitiano)" lang="ht" hreflang="ht" class="interlanguage-link-target"><span>Kreyòl ayisyen</span></a></li><li class="interlanguage-link interwiki-hu mw-list-item"><a href="https://hu.wikipedia.org/wiki/Vet%C3%BClettan" title="Vetülettan (húngaro)" lang="hu" hreflang="hu" class="interlanguage-link-target"><span>Magyar</span></a></li><li class="interlanguage-link interwiki-is mw-list-item"><a href="https://is.wikipedia.org/wiki/Kortav%C3%B6rpun" title="Kortavörpun (islandés)" lang="is" hreflang="is" class="interlanguage-link-target"><span>Íslenska</span></a></li><li class="interlanguage-link interwiki-it mw-list-item"><a href="https://it.wikipedia.org/wiki/Proiezione_cartografica" title="Proiezione cartografica (italiano)" lang="it" hreflang="it" class="interlanguage-link-target"><span>Italiano</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E6%8A%95%E5%BD%B1%E6%B3%95_(%E5%9C%B0%E5%9B%B3)" title="投影法 (地図) (japonés)" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-kk mw-list-item"><a href="https://kk.wikipedia.org/wiki/%D0%A6%D0%B8%D0%BB%D0%B8%D0%BD%D0%B4%D1%80%D0%BB%D1%96%D0%BA_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%86%D0%B8%D1%8F" title="Цилиндрлік проекция (kazajo)" lang="kk" hreflang="kk" class="interlanguage-link-target"><span>Қазақша</span></a></li><li class="interlanguage-link interwiki-ko mw-list-item"><a href="https://ko.wikipedia.org/wiki/%EC%A7%80%EB%8F%84_%ED%88%AC%EC%98%81%EB%B2%95" title="지도 투영법 (coreano)" lang="ko" hreflang="ko" class="interlanguage-link-target"><span>한국어</span></a></li><li class="interlanguage-link interwiki-lb mw-list-item"><a href="https://lb.wikipedia.org/wiki/Projektiounsmodell" title="Projektiounsmodell (luxemburgués)" lang="lb" hreflang="lb" class="interlanguage-link-target"><span>Lëtzebuergesch</span></a></li><li class="interlanguage-link interwiki-lt mw-list-item"><a href="https://lt.wikipedia.org/wiki/Kartografin%C4%97_projekcija" title="Kartografinė projekcija (lituano)" lang="lt" hreflang="lt" class="interlanguage-link-target"><span>Lietuvių</span></a></li><li class="interlanguage-link interwiki-mk mw-list-item"><a href="https://mk.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D1%81%D0%BA%D0%B0_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%86%D0%B8%D1%98%D0%B0" title="Картографска проекција (macedonio)" lang="mk" hreflang="mk" class="interlanguage-link-target"><span>Македонски</span></a></li><li class="interlanguage-link interwiki-ms mw-list-item"><a href="https://ms.wikipedia.org/wiki/Unjuran_peta" title="Unjuran peta (malayo)" lang="ms" hreflang="ms" class="interlanguage-link-target"><span>Bahasa Melayu</span></a></li><li class="interlanguage-link interwiki-nl mw-list-item"><a href="https://nl.wikipedia.org/wiki/Kaartprojectie" title="Kaartprojectie (neerlandés)" lang="nl" hreflang="nl" class="interlanguage-link-target"><span>Nederlands</span></a></li><li class="interlanguage-link interwiki-no mw-list-item"><a href="https://no.wikipedia.org/wiki/Kartprojeksjon" title="Kartprojeksjon (noruego bokmal)" lang="nb" hreflang="nb" class="interlanguage-link-target"><span>Norsk bokmål</span></a></li><li class="interlanguage-link interwiki-pl mw-list-item"><a href="https://pl.wikipedia.org/wiki/Odwzorowanie_kartograficzne" title="Odwzorowanie kartograficzne (polaco)" lang="pl" hreflang="pl" class="interlanguage-link-target"><span>Polski</span></a></li><li class="interlanguage-link interwiki-pt mw-list-item"><a href="https://pt.wikipedia.org/wiki/Proje%C3%A7%C3%A3o_cartogr%C3%A1fica" title="Projeção cartográfica (portugués)" lang="pt" hreflang="pt" class="interlanguage-link-target"><span>Português</span></a></li><li class="interlanguage-link interwiki-ro mw-list-item"><a href="https://ro.wikipedia.org/wiki/Proiec%C8%9Bie_cartografic%C4%83" title="Proiecție cartografică (rumano)" lang="ro" hreflang="ro" class="interlanguage-link-target"><span>Română</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BF%D1%80%D0%BE%D0%B5%D0%BA%D1%86%D0%B8%D1%8F" title="Картографическая проекция (ruso)" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-simple mw-list-item"><a href="https://simple.wikipedia.org/wiki/Map_projection" title="Map projection (Simple English)" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target"><span>Simple English</span></a></li><li class="interlanguage-link interwiki-sl mw-list-item"><a href="https://sl.wikipedia.org/wiki/Kartografska_projekcija" title="Kartografska projekcija (esloveno)" lang="sl" hreflang="sl" class="interlanguage-link-target"><span>Slovenščina</span></a></li><li class="interlanguage-link interwiki-sr mw-list-item"><a href="https://sr.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D1%81%D0%BA%D0%B0_%D0%BF%D1%80%D0%BE%D1%98%D0%B5%D0%BA%D1%86%D0%B8%D1%98%D0%B0" title="Картографска пројекција (serbio)" lang="sr" hreflang="sr" class="interlanguage-link-target"><span>Српски / srpski</span></a></li><li class="interlanguage-link interwiki-sv mw-list-item"><a href="https://sv.wikipedia.org/wiki/Kartprojektion" title="Kartprojektion (sueco)" lang="sv" hreflang="sv" class="interlanguage-link-target"><span>Svenska</span></a></li><li class="interlanguage-link interwiki-th mw-list-item"><a href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%AA%E0%B9%89%E0%B8%99%E0%B9%82%E0%B8%84%E0%B8%A3%E0%B8%87%E0%B9%81%E0%B8%9C%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88" title="เส้นโครงแผนที่ (tailandés)" lang="th" hreflang="th" class="interlanguage-link-target"><span>ไทย</span></a></li><li class="interlanguage-link interwiki-tr mw-list-item"><a href="https://tr.wikipedia.org/wiki/Harita_projeksiyonu" title="Harita projeksiyonu (turco)" lang="tr" hreflang="tr" class="interlanguage-link-target"><span>Türkçe</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%9A%D0%B0%D1%80%D1%82%D0%BE%D0%B3%D1%80%D0%B0%D1%84%D1%96%D1%87%D0%BD%D0%B0_%D0%BF%D1%80%D0%BE%D1%94%D0%BA%D1%86%D1%96%D1%8F" title="Картографічна проєкція (ucraniano)" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-uz mw-list-item"><a href="https://uz.wikipedia.org/wiki/Xaritagrafik_proyeksiyalar" title="Xaritagrafik proyeksiyalar (uzbeko)" lang="uz" hreflang="uz" class="interlanguage-link-target"><span>Oʻzbekcha/ўзбекча</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E5%9C%B0%E5%9B%BE%E6%8A%95%E5%BD%B1" title="地图投影 (chino)" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li><li class="interlanguage-link interwiki-zh-yue mw-list-item"><a href="https://zh-yue.wikipedia.org/wiki/%E5%9C%B0%E5%9C%96%E6%8A%95%E5%BD%B1" title="地圖投影 (Cantonese)" lang="yue" hreflang="yue" class="interlanguage-link-target"><span>粵語</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q186386#sitelinks-wikipedia" title="Editar enlaces interlingüísticos" class="wbc-editpage">Editar enlaces</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> Esta página se editó por última vez el 14 dic 2021 a las 04:11.</li>
+	<li id="footer-info-copyright">El texto está disponible bajo la <a rel="license" href="//es.wikipedia.org/wiki/Wikipedia:Texto_de_la_Licencia_Creative_Commons_Atribuci%C3%B3n-CompartirIgual_3.0_Unported">Licencia Creative Commons Atribución Compartir Igual 3.0</a><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+pueden aplicarse cláusulas adicionales. Al usar este sitio, usted acepta nuestros <a href="//wikimediafoundation.org/wiki/Terms_of_Use">términos de uso</a> y nuestra <a href="//wikimediafoundation.org/wiki/Privacy_policy">política de privacidad</a>. <br/>Wikipedia&reg; es una marca registrada de la <a href="//www.wikimediafoundation.org/">Fundación Wikimedia, Inc.</a>, una organización sin ánimo de lucro.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/es" class="extiw" title="m:Privacy policy/es">Política de privacidad</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:Acerca_de" title="Wikipedia:Acerca de">Acerca de Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:Limitaci%C3%B3n_general_de_responsabilidad" title="Wikipedia:Limitación general de responsabilidad">Limitación de responsabilidad</a></li>
+	<li id="footer-places-mobileview"><a href="//es.m.wikipedia.org/w/index.php?title=Proyecci%C3%B3n_cartogr%C3%A1fica&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Desarrolladores</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/es.wikipedia.org">Estadísticas</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement/es">Declaración de cookies</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="assets/cf11dc7c1780c07eace98f814b311864.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="assets/aefa4f28c6b5afa5121caeb7816f48a3.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.338","walltime":"0.418","ppvisitednodes":{"value":2170,"limit":1000000},"postexpandincludesize":{"value":21014,"limit":2097152},"templateargumentsize":{"value":4468,"limit":2097152},"expansiondepth":{"value":23,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":10065,"limit":5000000},"entityaccesscount":{"value":4,"limit":400},"timingprofile":["100.00%  346.894      1 -total"," 33.78%  117.179      3 Plantilla:Clado"," 30.21%  104.785      1 Plantilla:Control_de_autoridades"," 22.87%   79.347      1 Plantilla:Referencias_adicionales"," 16.98%   58.898      1 Plantilla:Proyección_gráfica"," 16.62%   57.671      1 Plantilla:Aviso"," 15.46%   53.632      1 Plantilla:Cuadro_imagen"," 14.90%   51.691      1 Plantilla:Listaref"," 14.48%   50.224      2 Plantilla:Problemas_artículo/validar"," 11.68%   40.506      2 Plantilla:Cita_libro"]},"scribunto":{"limitreport-timeusage":{"value":"0.151","limit":"10.000"},"limitreport-memusage":{"value":3153561,"limit":52428800}},"cachereport":{"origin":"mw1341","timestamp":"20211214151246","ttl":86400,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Proyecci\u00f3n cartogr\u00e1fica","url":"https:\/\/es.wikipedia.org\/wiki\/Proyecci%C3%B3n_cartogr%C3%A1fica","sameAs":"http:\/\/www.wikidata.org\/entity\/Q186386","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q186386","author":{"@type":"Organization","name":"Colaboradores de los proyectos Wikimedia"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-02-05T17:57:56Z","dateModified":"2021-12-14T04:11:10Z","headline":"sistema de representaci\u00f3n gr\u00e1fico"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":148,"wgHostname":"mw1429"});});</script>
+
+<div style="position:fixed;top:0;left:0;width:100%;height:45px;z-index:2147483647;background-color:rgba(253,147,38,0.90) !important;color:black !important;text-align:right !important;font:normal 12px/45px Arial, sans-serif !important;border-radius:0 !important;margin:0 !important;max-width:100% !important;background-repeat: no-repeat !important;background-position: 15px center !important;
+background-image: url(data:image/png;base64,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);
+"><span style="padding-right:15px;">You are viewing a snapshot of <a style='font-weight:bold !important; color:white !important' href='https://es.wikipedia.org/wiki/Proyecci%C3%B3n_cartogr%C3%A1fica'>https://es.wikipedia.org/wiki/Proyecci%C3%B3n_cartogr%C3%A1fica</a> created on 2021/12/14</span></div></body>
+</html>

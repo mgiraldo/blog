@@ -1,0 +1,623 @@
+<!DOCTYPE html>
+<!--[if IEMobile 7]><html class="ie iem7" lang="en" dir="ltr"><![endif]-->
+<!--[if lte IE 6]><html class="ie lt-ie9 lt-ie8 lt-ie7" lang="en" dir="ltr"><![endif]-->
+<!--[if (IE 7)&(!IEMobile)]><html class="ie lt-ie9 lt-ie8" lang="en" dir="ltr"><![endif]-->
+<!--[if IE 8]><html class="ie lt-ie9" lang="en" dir="ltr"><![endif]-->
+<!--[if (gte IE 9)|(gt IEMobile 7)]><html class="ie" lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><![endif]-->
+<!--[if !IE]><!--><html lang="en" dir="ltr" prefix="og: http://ogp.me/ns# article: http://ogp.me/ns/article# book: http://ogp.me/ns/book# profile: http://ogp.me/ns/profile# video: http://ogp.me/ns/video# product: http://ogp.me/ns/product# content: http://purl.org/rss/1.0/modules/content/ dc: http://purl.org/dc/terms/ foaf: http://xmlns.com/foaf/0.1/ rdfs: http://www.w3.org/2000/01/rdf-schema# sioc: http://rdfs.org/sioc/ns# sioct: http://rdfs.org/sioc/types# skos: http://www.w3.org/2004/02/skos/core# xsd: http://www.w3.org/2001/XMLSchema#"><!--<![endif]-->
+<head>
+<title>Global Game Jam | 29 - 31 January 2021</title>
+<meta charset="utf-8" />
+<link rel="apple-touch-icon-precomposed" href="https://globalgamejam.org/sites/all/themes/globalgamejam_theme/images/apple-touch-icon-precomposed-72x72.png" sizes="72x72" />
+<link rel="apple-touch-icon-precomposed" href="https://globalgamejam.org/sites/all/themes/globalgamejam_theme/images/apple-touch-icon-precomposed-144x144.png" sizes="144x144" />
+<link rel="apple-touch-icon-precomposed" href="https://globalgamejam.org/sites/all/themes/globalgamejam_theme/images/apple-touch-icon-precomposed-114x114.png" sizes="114x114" />
+<meta http-equiv="cleartype" content="on" />
+<meta name="MobileOptimized" content="width" />
+<meta name="HandheldFriendly" content="true" />
+<link rel="profile" href="https://www.w3.org/1999/xhtml/vocab" />
+<link rel="shortcut icon" href="https://globalgamejam.org/sites/all/themes/globalgamejam_theme/favicon.ico" type="image/vnd.microsoft.icon" />
+<link rel="apple-touch-icon-precomposed" href="https://globalgamejam.org/sites/all/themes/globalgamejam_theme/images/apple-touch-icon-precomposed.png" />
+<meta name="viewport" content="width=device-width" />
+<meta name="generator" content="Drupal 7 (https://www.drupal.org)" />
+<link rel="canonical" href="https://globalgamejam.org/" />
+<link rel="shortlink" href="https://globalgamejam.org/" />
+<meta property="og:site_name" content="Global Game Jam" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content="https://globalgamejam.org/" />
+<meta property="og:title" content="Global Game Jam" />
+<meta property="og:description" content="29 - 31 January 2021" />
+<link type="text/css" rel="stylesheet" href="assets/6dae317c4d6c3e8fa1f9ae7cfc854bb9.css" media="all" />
+<link type="text/css" rel="stylesheet" href="assets/99104169a6faa1c1771f3d0e7301b975.css" media="all" />
+<link type="text/css" rel="stylesheet" href="assets/70a1df674e319486564298e6ba160596.css" media="all" />
+<script src="assets/48bf0531750243a00d4dc24bf7d76004.js"></script>
+<script src="assets/1f8e35890527d684588bf74397a9461e.js"></script>
+<!--[if (gte IE 6)&(lte IE 8)]>
+<script src="https://globalgamejam.org/sites/default/files/js/js_qJueJG8hZy0VfgYPqI1LAQ2uHxNH60-XqMneVE3ZF60.js"></script>
+<![endif]-->
+<script>document.createElement( "picture" );</script>
+<script src="assets/bb70302ea372504f287ad5a1bbeaad95.js"></script>
+<script>window.CKEDITOR_BASEPATH = '/sites/all/libraries/ckeditor/'</script>
+<script src="assets/6a15cfdaa19cd8a05712176b0b7f49a2.js"></script>
+<script>(function(i,s,o,g,r,a,m){i["GoogleAnalyticsObject"]=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,"script","https://www.google-analytics.com/analytics.js","ga");ga("create", "UA-7277080-1", {"cookieDomain":"auto"});ga("send", "pageview");</script>
+<script src="assets/be3e983e550441c4d34ecdc916ac50db.js"></script>
+<script src="assets/0cc4619002e44828d9578d2131be075c.js"></script>
+<script src="assets/fd453a490f6ef63fe22c181683bfa49b.js"></script>
+<script>jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","custom_search":{"form_target":"_self","solr":0},"better_exposed_filters":{"views":{"sponsors":{"displays":{"major_block":{"filters":[]},"additional_block":{"filters":[]}}},"news_stories":{"displays":{"block":{"filters":[]},"block_1":{"filters":[]},"block_2":{"filters":[]}}},"featured_content":{"displays":{"first_block":{"filters":[]}}},"jam_sites":{"displays":{"new_block":{"filters":[]}}}}},"fitvids":{"custom_domains":[],"selectors":["body:not(.page-admin, .page-node-add)"],"simplifymarkup":1},"googleanalytics":{"trackOutbound":1,"trackMailto":1,"trackDownload":1,"trackDownloadExtensions":"7z|aac|arc|arj|asf|asx|avi|bin|csv|doc(x|m)?|dot(x|m)?|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt(x|m)?|pot(x|m)?|pps(x|m)?|ppam|sld(x|m)?|thmx|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls(x|m|b)?|xlt(x|m)|xlam|xml|z|zip","trackDomainMode":1},"urlIsAjaxTrusted":{"\/":true,"\/home?destination=node\/7":true},"omega":{"mediaQueries":{"mobile":"all","narrow":"all and (min-width: 740px)","normal":"all and (min-width: 980px)","wide":"all and (min-width: 1220px)"}}});</script>
+</head>
+<body class="html front not-logged-in no-sidebars page-node page-node- page-node-7 node-type-page">
+<a href="#main-content" class="element-invisible element-focusable">Skip to main content</a>
+<div class="l-page">
+<header class="l-header" role="banner">
+<div class="l-header--inner">
+<div class="logo"></div>
+<div class="l-region l-region--header">
+<div id="block-delta-blocks-site-name" class="block block--delta-blocks block--delta-blocks-site-name">
+<div class="block__content">
+<h2 class="site-name"><a href="/" title="Return to the Global Game Jam home page"><span>Global Game Jam</span></a></h2> </div>
+</div>
+<div id="block-delta-blocks-site-slogan" class="block block--delta-blocks block--delta-blocks-site-slogan">
+<div class="block__content">
+<h6 class="site-slogan">29 - 31 January 2021</h6> </div>
+</div>
+</div>
+<div class="l-region l-region--navigation">
+<div id="block-search-form" role="search" class="block block--search block--search-form">
+<div class="block__content">
+<form class="search-form search-block-form" role="search" action="/" method="post" id="search-block-form" accept-charset="UTF-8"><div><div class="container-inline">
+<h2 class="element-invisible">Search form</h2>
+<div class="form-item form-type-textfield form-item-search-block-form">
+<input title="Enter the terms you wish to search for." placeholder="Search" class="custom-search-box form-text" type="text" id="edit-search-block-form--2" name="search_block_form" value="" size="15" maxlength="128" />
+</div>
+<div class="form-actions form-wrapper" id="edit-actions"><input type="submit" id="edit-submit" name="op" value="Search" class="form-submit" /></div><input type="hidden" name="form_build_id" value="form-myy-aNA5q9PXmht3sVhmJoyZya9TdmFgDjqvog7M5TY" />
+<input type="hidden" name="form_id" value="search_block_form" />
+<input type="hidden" name="custom_search_paths" value="sitesearch/[key]" />
+</div>
+</div></form> </div>
+</div>
+<nav id="block-system-main-menu" role="navigation" class="block block--system block--menu block--system-main-menu">
+<ul class="menu"><li class="first leaf"><a href="/about">About</a></li>
+<li class="leaf"><a href="/faq">FAQ</a></li>
+<li class="leaf"><a href="/2020/games" title="">Games</a></li>
+<li class="leaf"><a href="/2020/jam-sites" title="">Locations</a></li>
+<li class="leaf"><a href="https://globalgamejam.org/status" title="map showing all the GGJ locations in the world">Map</a></li>
+<li class="leaf"><a href="/news" title="">News</a></li>
+<li class="last leaf"><a href="/sponsors">Sponsors</a></li>
+</ul></nav>
+</div>
+</div>
+<div class="l-user-links">
+<div class="l-user-links--inner">
+<div class="l-region l-region--user-links">
+<div id="block-user-login" role="form" class="block block--user block--user-login">
+<h2 class="block__title">Log in</h2>
+<div class="block__content">
+<div class="column drupal-login">
+<form class="user-login-form" action="/home?destination=node/7" method="post" id="user-login-form" accept-charset="UTF-8"><div><div class="form-item form-type-textfield form-item-name">
+<input placeholder="Username or e-mail" type="text" id="edit-name" name="name" value="" size="15" maxlength="60" class="form-text required" />
+</div>
+<div class="form-item form-type-password form-item-pass">
+<input placeholder="Password" type="password" id="edit-pass" name="pass" size="15" maxlength="128" class="form-text required" />
+</div>
+<input type="hidden" name="form_build_id" value="form-RPtV7XVTpW-9hmIpI982ynRR2RWCDZIBnTHKN0jnFPg" />
+<input type="hidden" name="form_id" value="user_login_block" />
+<div class="form-actions form-wrapper" id="edit-actions--2"><input type="submit" id="edit-submit--2" name="op" value="Log in" class="form-submit" /></div></div></form> </div>
+<div class="column fb-login">
+</div>
+<div class="login-footer">
+<div class="column">
+</div>
+<div class="column sign-up">
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</header>
+<div class="l-intro">
+<div class="l-region l-region--intro">
+<div id="block-views-sponsors-major-block" class="block block--views block--views-sponsors-major-block">
+<div class="block__content">
+<div class="view view-sponsors view-id-sponsors view-display-id-major_block view-dom-id-05c4a972fc927de18036ef88cf1139cc">
+<div class="view-content">
+<div class="item-list"><ul> <li class="views-row views-row-1 views-row-odd views-row-first">
+<div class="views-field views-field-field-sponsor-logo"> <div class="field-content"><a href="https://www.paypal.com/fundraiser/charity/1310209" target="_blank"><picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__wide/sponsors/2020/04/pngitem_440035.png?itok=bSsFN8zS&amp;timestamp=1586862066 1x" media="(min-width: 1220px)" />
+<source srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__normal/sponsors/2020/04/pngitem_440035.png?itok=XzB7kp8p&amp;timestamp=1586862066 1x" media="(min-width: 980px)" />
+<source srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__narrow/sponsors/2020/04/pngitem_440035.png?itok=FqoLo41P&amp;timestamp=1586862066 1x" media="(min-width: 740px)" />
+<source srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__narrow/sponsors/2020/04/pngitem_440035.png?itok=FqoLo41P&amp;timestamp=1586862066 1x" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  src="https://ggj.s3.amazonaws.com/styles/sponsor_logo__normal/sponsors/2020/04/pngitem_440035.png?itok=XzB7kp8p&amp;timestamp=1586862066" alt="" title="" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__normal/sponsors/2020/04/pngitem_440035.png?itok=XzB7kp8p&amp;timestamp=1586862066 128w" alt="" title="" />
+<!-- <![endif]-->
+</picture></a></div> </div></li>
+<li class="views-row views-row-2 views-row-even views-row-last">
+<div class="views-field views-field-field-sponsor-logo"> <div class="field-content"><a href="https://developer.microsoft.com/en-us/games" target="_blank"><picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__wide/sponsors/2019/11/screen_shot_2019-11-26_at_16.56.36.png?itok=0CAUP0WT&amp;timestamp=1574787428 1x" media="(min-width: 1220px)" />
+<source srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__normal/sponsors/2019/11/screen_shot_2019-11-26_at_16.56.36.png?itok=aW7UhILV&amp;timestamp=1574787428 1x" media="(min-width: 980px)" />
+<source srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__narrow/sponsors/2019/11/screen_shot_2019-11-26_at_16.56.36.png?itok=sZ0QodEX&amp;timestamp=1574787428 1x" media="(min-width: 740px)" />
+<source srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__narrow/sponsors/2019/11/screen_shot_2019-11-26_at_16.56.36.png?itok=sZ0QodEX&amp;timestamp=1574787428 1x" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  src="https://ggj.s3.amazonaws.com/styles/sponsor_logo__normal/sponsors/2019/11/screen_shot_2019-11-26_at_16.56.36.png?itok=aW7UhILV&amp;timestamp=1574787428" alt="" title="" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__normal/sponsors/2019/11/screen_shot_2019-11-26_at_16.56.36.png?itok=aW7UhILV&amp;timestamp=1574787428 128w" alt="" title="" />
+<!-- <![endif]-->
+</picture></a></div> </div></li>
+</ul></div> </div>
+</div> </div>
+</div>
+<div id="block-views-sponsors-additional-block" class="block block--views block--views-sponsors-additional-block">
+<div class="block__content">
+<div class="view view-sponsors view-id-sponsors view-display-id-additional_block view-dom-id-43d2b34acf0ba0bae44da7a4a5bfda5b">
+<div class="view-content">
+<div class="item-list"><ul> <li class="views-row views-row-1 views-row-odd views-row-first">
+<div class="views-field views-field-field-sponsor-logo"> <div class="field-content"><a href="https://unrealengine.com" target="_blank"><picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__wide/public/unreal_logo_blacklg.png?itok=yss7AfVh&amp;timestamp=1512581227 1x" media="(min-width: 1220px)" />
+<source srcset="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__normal/public/unreal_logo_blacklg.png?itok=l-3PNkmK&amp;timestamp=1512581227 1x" media="(min-width: 980px)" />
+<source srcset="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__narrow/public/unreal_logo_blacklg.png?itok=5ZkLwx3R&amp;timestamp=1512581227 1x" media="(min-width: 740px)" />
+<source srcset="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__narrow/public/unreal_logo_blacklg.png?itok=5ZkLwx3R&amp;timestamp=1512581227 1x" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  src="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__normal/public/unreal_logo_blacklg.png?itok=l-3PNkmK&amp;timestamp=1512581227" alt="" title="" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img srcset="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__normal/public/unreal_logo_blacklg.png?itok=l-3PNkmK&amp;timestamp=1512581227 128w" alt="" title="" />
+<!-- <![endif]-->
+</picture></a></div> </div></li>
+<li class="views-row views-row-2 views-row-even">
+<div class="views-field views-field-field-sponsor-logo"> <div class="field-content"><a href="https://on.fb.me/1Qc602e" target="_blank"><picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__wide/public/facebook_logo_square.png?itok=MT_xSfkX&amp;timestamp=1447635092 1x" media="(min-width: 1220px)" />
+<source srcset="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__normal/public/facebook_logo_square.png?itok=hss1PWg3&amp;timestamp=1447635092 1x" media="(min-width: 980px)" />
+<source srcset="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__narrow/public/facebook_logo_square.png?itok=JuICV1I2&amp;timestamp=1447635092 1x" media="(min-width: 740px)" />
+<source srcset="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__narrow/public/facebook_logo_square.png?itok=JuICV1I2&amp;timestamp=1447635092 1x" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  src="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__normal/public/facebook_logo_square.png?itok=hss1PWg3&amp;timestamp=1447635092" alt="Facebook Logo" title="" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img srcset="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__normal/public/facebook_logo_square.png?itok=hss1PWg3&amp;timestamp=1447635092 128w" alt="Facebook Logo" title="" />
+<!-- <![endif]-->
+</picture></a></div> </div></li>
+<li class="views-row views-row-3 views-row-odd">
+<div class="views-field views-field-field-sponsor-logo"> <div class="field-content"><a href="https://www.buildbox.com/" target="_blank"><picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__wide/sponsors/2020/01/bb-logo-cropped.png?itok=Z7HPitaw&amp;timestamp=1577998206 1x" media="(min-width: 1220px)" />
+<source srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__normal/sponsors/2020/01/bb-logo-cropped.png?itok=5_fHrSxp&amp;timestamp=1577998206 1x" media="(min-width: 980px)" />
+<source srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__narrow/sponsors/2020/01/bb-logo-cropped.png?itok=Haw33Kly&amp;timestamp=1577998206 1x" media="(min-width: 740px)" />
+<source srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__narrow/sponsors/2020/01/bb-logo-cropped.png?itok=Haw33Kly&amp;timestamp=1577998206 1x" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  src="https://ggj.s3.amazonaws.com/styles/sponsor_logo__normal/sponsors/2020/01/bb-logo-cropped.png?itok=5_fHrSxp&amp;timestamp=1577998206" alt="" title="" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__normal/sponsors/2020/01/bb-logo-cropped.png?itok=5_fHrSxp&amp;timestamp=1577998206 128w" alt="" title="" />
+<!-- <![endif]-->
+</picture></a></div> </div></li>
+<li class="views-row views-row-4 views-row-even">
+<div class="views-field views-field-field-sponsor-logo"> <div class="field-content"><a href="https://www.sie.com/" target="_blank"><picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__wide/sponsors/2020/01/sie_corporate_logo_fullcolor_standard_84527.png?itok=HrPuxdZQ&amp;timestamp=1579007052 1x" media="(min-width: 1220px)" />
+<source srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__normal/sponsors/2020/01/sie_corporate_logo_fullcolor_standard_84527.png?itok=ozJ0RHT2&amp;timestamp=1579007052 1x" media="(min-width: 980px)" />
+<source srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__narrow/sponsors/2020/01/sie_corporate_logo_fullcolor_standard_84527.png?itok=9GJC-9Wu&amp;timestamp=1579007052 1x" media="(min-width: 740px)" />
+<source srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__narrow/sponsors/2020/01/sie_corporate_logo_fullcolor_standard_84527.png?itok=9GJC-9Wu&amp;timestamp=1579007052 1x" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  src="https://ggj.s3.amazonaws.com/styles/sponsor_logo__normal/sponsors/2020/01/sie_corporate_logo_fullcolor_standard_84527.png?itok=ozJ0RHT2&amp;timestamp=1579007052" alt="" title="" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__normal/sponsors/2020/01/sie_corporate_logo_fullcolor_standard_84527.png?itok=ozJ0RHT2&amp;timestamp=1579007052 128w" alt="" title="" />
+<!-- <![endif]-->
+</picture></a></div> </div></li>
+<li class="views-row views-row-5 views-row-odd">
+<div class="views-field views-field-field-sponsor-logo"> <div class="field-content"><a href="https://www.sidefx.com/" target="_blank"><picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__wide/public/houdini_black_color_0.png?itok=m5GeS_ET&amp;timestamp=1509574582 1x" media="(min-width: 1220px)" />
+<source srcset="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__normal/public/houdini_black_color_0.png?itok=GlIQd1q0&amp;timestamp=1509574582 1x" media="(min-width: 980px)" />
+<source srcset="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__narrow/public/houdini_black_color_0.png?itok=afr9-jUG&amp;timestamp=1509574582 1x" media="(min-width: 740px)" />
+<source srcset="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__narrow/public/houdini_black_color_0.png?itok=afr9-jUG&amp;timestamp=1509574582 1x" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  src="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__normal/public/houdini_black_color_0.png?itok=GlIQd1q0&amp;timestamp=1509574582" alt="" title="" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img srcset="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__normal/public/houdini_black_color_0.png?itok=GlIQd1q0&amp;timestamp=1509574582 128w" alt="" title="" />
+<!-- <![endif]-->
+</picture></a></div> </div></li>
+<li class="views-row views-row-6 views-row-even">
+<div class="views-field views-field-field-sponsor-logo"> <div class="field-content"><a href="https://poki.com/" rel="nofollow" target="_blank"><picture title="Poki">
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__wide/sponsors/2019/12/screen_shot_2019-12-23_at_10.16.32.png?itok=qXxG6jUW&amp;timestamp=1577096242 1x" media="(min-width: 1220px)" />
+<source srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__normal/sponsors/2019/12/screen_shot_2019-12-23_at_10.16.32.png?itok=PGRu8y_Z&amp;timestamp=1577096242 1x" media="(min-width: 980px)" />
+<source srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__narrow/sponsors/2019/12/screen_shot_2019-12-23_at_10.16.32.png?itok=l7EVPY2g&amp;timestamp=1577096242 1x" media="(min-width: 740px)" />
+<source srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__narrow/sponsors/2019/12/screen_shot_2019-12-23_at_10.16.32.png?itok=l7EVPY2g&amp;timestamp=1577096242 1x" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  src="https://ggj.s3.amazonaws.com/styles/sponsor_logo__normal/sponsors/2019/12/screen_shot_2019-12-23_at_10.16.32.png?itok=PGRu8y_Z&amp;timestamp=1577096242" alt="Poki" title="Poki" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__normal/sponsors/2019/12/screen_shot_2019-12-23_at_10.16.32.png?itok=PGRu8y_Z&amp;timestamp=1577096242 128w" alt="Poki" title="Poki" />
+<!-- <![endif]-->
+</picture></a></div> </div></li>
+<li class="views-row views-row-7 views-row-odd">
+<div class="views-field views-field-field-sponsor-logo"> <div class="field-content"><a href="https://www.ddmagency.com/" target="_blank"><picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__wide/sponsors/2020/01/digital_dev_logo_2017_logomark_2.png?itok=iW6gD28a&amp;timestamp=1577875085 1x" media="(min-width: 1220px)" />
+<source srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__normal/sponsors/2020/01/digital_dev_logo_2017_logomark_2.png?itok=DzVVmKAG&amp;timestamp=1577875085 1x" media="(min-width: 980px)" />
+<source srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__narrow/sponsors/2020/01/digital_dev_logo_2017_logomark_2.png?itok=jOIFAV6C&amp;timestamp=1577875085 1x" media="(min-width: 740px)" />
+<source srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__narrow/sponsors/2020/01/digital_dev_logo_2017_logomark_2.png?itok=jOIFAV6C&amp;timestamp=1577875085 1x" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  src="https://ggj.s3.amazonaws.com/styles/sponsor_logo__normal/sponsors/2020/01/digital_dev_logo_2017_logomark_2.png?itok=DzVVmKAG&amp;timestamp=1577875085" alt="" title="" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__normal/sponsors/2020/01/digital_dev_logo_2017_logomark_2.png?itok=DzVVmKAG&amp;timestamp=1577875085 128w" alt="" title="" />
+<!-- <![endif]-->
+</picture></a></div> </div></li>
+<li class="views-row views-row-8 views-row-even">
+<div class="views-field views-field-field-sponsor-logo"> <div class="field-content"><a href="http://www.wbgamesny.com" target="_blank"><picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__wide/public/wbgny-logo-black.png?itok=eeoh8yp9&amp;timestamp=1513353315 1x" media="(min-width: 1220px)" />
+<source srcset="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__normal/public/wbgny-logo-black.png?itok=yZMcjsPU&amp;timestamp=1513353315 1x" media="(min-width: 980px)" />
+<source srcset="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__narrow/public/wbgny-logo-black.png?itok=hvlsWFaY&amp;timestamp=1513353315 1x" media="(min-width: 740px)" />
+<source srcset="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__narrow/public/wbgny-logo-black.png?itok=hvlsWFaY&amp;timestamp=1513353315 1x" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  src="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__normal/public/wbgny-logo-black.png?itok=yZMcjsPU&amp;timestamp=1513353315" alt="WB Games New York" title="" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img srcset="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__normal/public/wbgny-logo-black.png?itok=yZMcjsPU&amp;timestamp=1513353315 128w" alt="WB Games New York" title="" />
+<!-- <![endif]-->
+</picture></a></div> </div></li>
+<li class="views-row views-row-9 views-row-odd">
+<div class="views-field views-field-field-sponsor-logo"> <div class="field-content"><a href="http://overclockedlegal.com" target="_blank"><picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__wide/public/gray_blue_logo_3-18-16.jpg?itok=VlhAHst7&amp;timestamp=1542745796 1x" media="(min-width: 1220px)" />
+<source srcset="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__normal/public/gray_blue_logo_3-18-16.jpg?itok=9bFXOeGB&amp;timestamp=1542745796 1x" media="(min-width: 980px)" />
+<source srcset="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__narrow/public/gray_blue_logo_3-18-16.jpg?itok=ifS_JtKM&amp;timestamp=1542745796 1x" media="(min-width: 740px)" />
+<source srcset="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__narrow/public/gray_blue_logo_3-18-16.jpg?itok=ifS_JtKM&amp;timestamp=1542745796 1x" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  src="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__normal/public/gray_blue_logo_3-18-16.jpg?itok=9bFXOeGB&amp;timestamp=1542745796" alt="" title="" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img srcset="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__normal/public/gray_blue_logo_3-18-16.jpg?itok=9bFXOeGB&amp;timestamp=1542745796 128w" alt="" title="" />
+<!-- <![endif]-->
+</picture></a></div> </div></li>
+<li class="views-row views-row-10 views-row-even">
+<div class="views-field views-field-field-sponsor-logo"> <div class="field-content"><a href="https://www.airconsole.com/" target="_blank"><picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__wide/public/ggj-ac_1.png?itok=UNlewqMG&amp;timestamp=1548182996 1x" media="(min-width: 1220px)" />
+<source srcset="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__normal/public/ggj-ac_1.png?itok=a-RWSeJr&amp;timestamp=1548182996 1x" media="(min-width: 980px)" />
+<source srcset="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__narrow/public/ggj-ac_1.png?itok=JUXPdqw5&amp;timestamp=1548182996 1x" media="(min-width: 740px)" />
+<source srcset="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__narrow/public/ggj-ac_1.png?itok=JUXPdqw5&amp;timestamp=1548182996 1x" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  src="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__normal/public/ggj-ac_1.png?itok=a-RWSeJr&amp;timestamp=1548182996" alt="" title="" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img srcset="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__normal/public/ggj-ac_1.png?itok=a-RWSeJr&amp;timestamp=1548182996 128w" alt="" title="" />
+<!-- <![endif]-->
+</picture></a></div> </div></li>
+<li class="views-row views-row-11 views-row-odd">
+<div class="views-field views-field-field-sponsor-logo"> <div class="field-content"><a href="https://www.valvesoftware.com/en/" target="_blank"><picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__wide/sponsors/2020/01/valve-logo-nor.png?itok=ix4j0lFn&amp;timestamp=1579472466 1x" media="(min-width: 1220px)" />
+<source srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__normal/sponsors/2020/01/valve-logo-nor.png?itok=Hl6SUE0P&amp;timestamp=1579472466 1x" media="(min-width: 980px)" />
+<source srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__narrow/sponsors/2020/01/valve-logo-nor.png?itok=0HTYsqzz&amp;timestamp=1579472466 1x" media="(min-width: 740px)" />
+<source srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__narrow/sponsors/2020/01/valve-logo-nor.png?itok=0HTYsqzz&amp;timestamp=1579472466 1x" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  src="https://ggj.s3.amazonaws.com/styles/sponsor_logo__normal/sponsors/2020/01/valve-logo-nor.png?itok=Hl6SUE0P&amp;timestamp=1579472466" alt="" title="" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__normal/sponsors/2020/01/valve-logo-nor.png?itok=Hl6SUE0P&amp;timestamp=1579472466 128w" alt="" title="" />
+<!-- <![endif]-->
+</picture></a></div> </div></li>
+<li class="views-row views-row-12 views-row-even">
+<div class="views-field views-field-field-sponsor-logo"> <div class="field-content"><a href="https://planofattack.biz" target="_blank"><picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__wide/public/seo-logo.png?itok=oMqz28lM&amp;timestamp=1547497436 1x" media="(min-width: 1220px)" />
+<source srcset="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__normal/public/seo-logo.png?itok=N1BOBJvN&amp;timestamp=1547497436 1x" media="(min-width: 980px)" />
+<source srcset="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__narrow/public/seo-logo.png?itok=JGUryVdk&amp;timestamp=1547497436 1x" media="(min-width: 740px)" />
+<source srcset="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__narrow/public/seo-logo.png?itok=JGUryVdk&amp;timestamp=1547497436 1x" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  src="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__normal/public/seo-logo.png?itok=N1BOBJvN&amp;timestamp=1547497436" alt="" title="" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img srcset="https://globalgamejam.org/sites/default/files/styles/sponsor_logo__normal/public/seo-logo.png?itok=N1BOBJvN&amp;timestamp=1547497436 128w" alt="" title="" />
+<!-- <![endif]-->
+</picture></a></div> </div></li>
+<li class="views-row views-row-13 views-row-odd">
+<div class="views-field views-field-field-sponsor-logo"> <div class="field-content"><a href="http://tripletopping.com/" target="_blank"><picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__wide/sponsors/2019/11/unnamed.png?itok=UiODWwfQ&amp;timestamp=1573733733 1x" media="(min-width: 1220px)" />
+<source srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__normal/sponsors/2019/11/unnamed.png?itok=nDr_MrjR&amp;timestamp=1573733733 1x" media="(min-width: 980px)" />
+<source srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__narrow/sponsors/2019/11/unnamed.png?itok=YexWfl8k&amp;timestamp=1573733733 1x" media="(min-width: 740px)" />
+<source srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__narrow/sponsors/2019/11/unnamed.png?itok=YexWfl8k&amp;timestamp=1573733733 1x" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  src="https://ggj.s3.amazonaws.com/styles/sponsor_logo__normal/sponsors/2019/11/unnamed.png?itok=nDr_MrjR&amp;timestamp=1573733733" alt="" title="" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__normal/sponsors/2019/11/unnamed.png?itok=nDr_MrjR&amp;timestamp=1573733733 128w" alt="" title="" />
+<!-- <![endif]-->
+</picture></a></div> </div></li>
+<li class="views-row views-row-14 views-row-even views-row-last">
+<div class="views-field views-field-field-sponsor-logo"> <div class="field-content"><a href="http://www.prosearium.net" target="_blank"><picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__wide/sponsors/2020/01/proseariumlogopink.png?itok=UtAU26aN&amp;timestamp=1577973451 1x" media="(min-width: 1220px)" />
+<source srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__normal/sponsors/2020/01/proseariumlogopink.png?itok=3aMWdxpk&amp;timestamp=1577973451 1x" media="(min-width: 980px)" />
+<source srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__narrow/sponsors/2020/01/proseariumlogopink.png?itok=9gwiCWj0&amp;timestamp=1577973451 1x" media="(min-width: 740px)" />
+<source srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__narrow/sponsors/2020/01/proseariumlogopink.png?itok=9gwiCWj0&amp;timestamp=1577973451 1x" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  src="https://ggj.s3.amazonaws.com/styles/sponsor_logo__normal/sponsors/2020/01/proseariumlogopink.png?itok=3aMWdxpk&amp;timestamp=1577973451" alt="" title="" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img srcset="https://ggj.s3.amazonaws.com/styles/sponsor_logo__normal/sponsors/2020/01/proseariumlogopink.png?itok=3aMWdxpk&amp;timestamp=1577973451 128w" alt="" title="" />
+<!-- <![endif]-->
+</picture></a></div> </div></li>
+</ul></div> </div>
+</div> </div>
+</div>
+</div>
+</div>
+<a id="main-content"></a>
+<div class="l-main">
+<div class="l-content" role="main">
+<h1>Home</h1>
+<div class="l-content--inner">
+<div id="block-views-news-stories-block" class="block block--views block--views-news-stories-block">
+<div class="block__content">
+<div class="view view-news-stories view-id-news_stories view-display-id-block view-dom-id-51c5cb5b5329449fba361197672eb001">
+<div class="view-content">
+<div class="item-list"><ul> <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-news-story-image-video"> <div class="field-content"><div id="file-1383421" class="file file-image file-image-jpeg" class="file file-image file-image-jpeg">
+<h2 class="element-invisible"><a href="/file/keynoteimagejpg">keynote_image.jpg</a></h2>
+<div class="content">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="https://globalgamejam.org/sites/default/files/styles/feature_image__wide/public/field_news_story_image_video/2020/07/keynote_image.jpg?itok=PpdaUF-L&amp;timestamp=1595868083 1x" media="(min-width: 1220px)" />
+<source srcset="https://globalgamejam.org/sites/default/files/styles/feature_image__normal/public/field_news_story_image_video/2020/07/keynote_image.jpg?itok=T1X9xoA9&amp;timestamp=1595868083 1x" media="(min-width: 980px)" />
+<source srcset="https://globalgamejam.org/sites/default/files/styles/feature_image__narrow/public/field_news_story_image_video/2020/07/keynote_image.jpg?itok=xK5kdufa&amp;timestamp=1595868083 1x" media="(min-width: 740px)" />
+<source srcset="https://globalgamejam.org/sites/default/files/styles/media_responsive_widest/public/field_news_story_image_video/2020/07/keynote_image.jpg?itok=Au4EKfyw&amp;timestamp=1595868083 1x" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  src="https://globalgamejam.org/sites/default/files/styles/feature_image__normal/public/field_news_story_image_video/2020/07/keynote_image.jpg?itok=T1X9xoA9&amp;timestamp=1595868083" alt="" title="" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img srcset="https://globalgamejam.org/sites/default/files/styles/feature_image__normal/public/field_news_story_image_video/2020/07/keynote_image.jpg?itok=T1X9xoA9&amp;timestamp=1595868083 282w" alt="" title="" />
+<!-- <![endif]-->
+</picture> </div>
+</div>
+</div> </div>
+<div class="views-field views-field-title"> <h2 class="field-content"><a href="/news/updated-ggj-policy-speaker-selection">Updated GGJ Policy on Speaker Selection</a></h2> </div>
+<div class="views-field views-field-created"> <span class="field-content">27 July 2020</span> </div>
+<div class="views-field views-field-field-news-story-body"> <div class="field-content"><p>The Global Game Jam is dedicated to being a welcoming place for all jammers. We do our best to vet all keynote speakers to ensure they espouse our values, but unfortunately sometimes new information comes to light after the fact which demonstrates that our choice was not a good one. For this, we take accountability and apologise.</p></div> </div>
+<div class="views-field views-field-path"> <span class="field-content"><a href="https://globalgamejam.org/news/updated-ggj-policy-speaker-selection">more</a></span> </div></li>
+</ul></div> </div>
+</div> </div>
+</div>
+<div id="block-views-news-stories-block-1" class="block block--views block--views-news-stories-block-1">
+<div class="block__content">
+<div class="view view-news-stories view-id-news_stories view-display-id-block_1 view-dom-id-2eef50ac2568bbc7488ee4e6c5367d7a">
+<div class="view-content">
+<div class="item-list"><ul> <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-news-story-image-video"> <div class="field-content"><div id="file-1368810" class="file file-image file-image-jpeg" class="file file-image file-image-jpeg">
+<h2 class="element-invisible"><a href="/file/amaimagejpg">ama_image.jpg</a></h2>
+<div class="content">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="https://globalgamejam.org/sites/default/files/styles/feature_image__wide/public/field_news_story_image_video/2020/07/ama_image.jpg?itok=m9WM_QA4&amp;timestamp=1593709904 1x" media="(min-width: 1220px)" />
+<source srcset="https://globalgamejam.org/sites/default/files/styles/feature_image__normal/public/field_news_story_image_video/2020/07/ama_image.jpg?itok=32mb3d-s&amp;timestamp=1593709904 1x" media="(min-width: 980px)" />
+<source srcset="https://globalgamejam.org/sites/default/files/styles/feature_image__narrow/public/field_news_story_image_video/2020/07/ama_image.jpg?itok=kxN9lX6I&amp;timestamp=1593709904 1x" media="(min-width: 740px)" />
+<source srcset="https://globalgamejam.org/sites/default/files/styles/media_responsive_widest/public/field_news_story_image_video/2020/07/ama_image.jpg?itok=ISASSaZN&amp;timestamp=1593709904 1x" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  src="https://globalgamejam.org/sites/default/files/styles/feature_image__normal/public/field_news_story_image_video/2020/07/ama_image.jpg?itok=32mb3d-s&amp;timestamp=1593709904" alt="" title="" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img srcset="https://globalgamejam.org/sites/default/files/styles/feature_image__normal/public/field_news_story_image_video/2020/07/ama_image.jpg?itok=32mb3d-s&amp;timestamp=1593709904 282w" alt="" title="" />
+<!-- <![endif]-->
+</picture> </div>
+</div>
+</div> </div>
+<div class="views-field views-field-title"> <h2 class="field-content"><a href="/news/join-ggj-ask-me-anything-session-5-july">View the GGJ &quot;Ask Me Anything&quot; Session from 5 July</a></h2> </div>
+<div class="views-field views-field-created"> <span class="field-content">2 July 2020</span> </div>
+<div class="views-field views-field-field-news-story-body"> <div class="field-content"><p><strong>You’re invited to an AMA!</strong></p>
+<p>Live on Zoom on Sunday, 5 July, the Global Game Jam board hosted an Ask Me (or rather Us) Anything live on Zoom at 12:00 (noon) Los Angeles / 20:00 London / 5:00 Tokyo. We picked times which were late for Europe and early for Asia/Pacific, but we are happy to have feedback on this moving forward as this will be the first of many such AMAs, aiming to conduct them quarterly.</p></div> </div>
+<div class="views-field views-field-path"> <span class="field-content"><a href="https://globalgamejam.org/news/join-ggj-ask-me-anything-session-5-july">more</a></span> </div></li>
+</ul></div> </div>
+</div> </div>
+</div>
+<div id="block-views-news-stories-block-2" class="block block--views block--views-news-stories-block-2">
+<div class="block__content">
+<div class="view view-news-stories view-id-news_stories view-display-id-block_2 view-dom-id-826d0ee58d8111f515b7f2664fefdfde">
+<div class="view-content">
+<div class="item-list"><ul> <li class="views-row views-row-1 views-row-odd views-row-first views-row-last">
+<div class="views-field views-field-field-news-story-image-video"> <div class="field-content"><div id="file-1368399" class="file file-image file-image-jpeg" class="file file-image file-image-jpeg">
+<h2 class="element-invisible"><a href="/file/ggjblmjpg">ggj_blm.jpg</a></h2>
+<div class="content">
+<picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="https://globalgamejam.org/sites/default/files/styles/feature_image__wide/public/field_news_story_image_video/2020/06/ggj_blm.jpg?itok=e8LRiFRO&amp;timestamp=1593208506 1x" media="(min-width: 1220px)" />
+<source srcset="https://globalgamejam.org/sites/default/files/styles/feature_image__normal/public/field_news_story_image_video/2020/06/ggj_blm.jpg?itok=c7X0szRd&amp;timestamp=1593208506 1x" media="(min-width: 980px)" />
+<source srcset="https://globalgamejam.org/sites/default/files/styles/feature_image__narrow/public/field_news_story_image_video/2020/06/ggj_blm.jpg?itok=13KBy1iv&amp;timestamp=1593208506 1x" media="(min-width: 740px)" />
+<source srcset="https://globalgamejam.org/sites/default/files/styles/media_responsive_widest/public/field_news_story_image_video/2020/06/ggj_blm.jpg?itok=XEfgYHju&amp;timestamp=1593208506 1x" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  src="https://globalgamejam.org/sites/default/files/styles/feature_image__normal/public/field_news_story_image_video/2020/06/ggj_blm.jpg?itok=c7X0szRd&amp;timestamp=1593208506" alt="" title="" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img srcset="https://globalgamejam.org/sites/default/files/styles/feature_image__normal/public/field_news_story_image_video/2020/06/ggj_blm.jpg?itok=c7X0szRd&amp;timestamp=1593208506 282w" alt="" title="" />
+<!-- <![endif]-->
+</picture> </div>
+</div>
+</div> </div>
+<div class="views-field views-field-title"> <h2 class="field-content"><a href="/news/blacklivesmatter">#BlackLivesMatter</a></h2> </div>
+<div class="views-field views-field-created"> <span class="field-content">26 June 2020</span> </div>
+<div class="views-field views-field-field-news-story-body"> <div class="field-content"><h4>Black Lives Matter.</h4>
+<p>This is a statement which should be self-evident to everyone everywhere, including the Global Game Jam. Equality and a commitment to diversity are at the core of the Global Game Jam, although we, as an org, haven’t made an official statement saying as much until now.</p></div> </div>
+<div class="views-field views-field-path"> <span class="field-content"><a href="https://globalgamejam.org/news/blacklivesmatter">more</a></span> </div></li>
+</ul></div> </div>
+</div> </div>
+</div>
+<div id="block-views-featured-content-first-block" class="block block--views block--views-featured-content-first-block">
+<div class="block__content">
+<div class="view view-featured-content view-id-featured_content view-display-id-first_block view-dom-id-8bca52a6abd0a9b47a0f987e247a348e">
+<div class="view-content">
+<div class="item-list"><ul> <li class="views-row views-row-1 views-row-odd views-row-first views-row-last contextual-links-region">
+<div class="views-field views-field-field-featured-content-image"> <div class="field-content"><a href="https://globalgamejam.org/jammer-resources"><picture>
+<!--[if IE 9]><video style="display: none;"><![endif]-->
+<source srcset="https://globalgamejam.org/sites/default/files/styles/feature_image__wide/public/field_featured_content_image/logo-300-transparent_0.png?itok=D8Py72Vc&amp;timestamp=1544121794 1x" media="(min-width: 1220px)" />
+<source srcset="https://globalgamejam.org/sites/default/files/styles/feature_image__normal/public/field_featured_content_image/logo-300-transparent_0.png?itok=uddPwKJ1&amp;timestamp=1544121794 1x" media="(min-width: 980px)" />
+<source srcset="https://globalgamejam.org/sites/default/files/styles/feature_image__narrow/public/field_featured_content_image/logo-300-transparent_0.png?itok=2dmB1_CS&amp;timestamp=1544121794 1x" media="(min-width: 740px)" />
+<source srcset="https://globalgamejam.org/sites/default/files/styles/media_responsive_widest/public/field_featured_content_image/logo-300-transparent_0.png?itok=ga6Ygu9J&amp;timestamp=1544121794 1x" media="(min-width: 0)" />
+<!--[if IE 9]></video><![endif]-->
+<!--[if lt IE 9]>
+<img  src="https://globalgamejam.org/sites/default/files/styles/feature_image__normal/public/field_featured_content_image/logo-300-transparent_0.png?itok=uddPwKJ1&amp;timestamp=1544121794" alt="" title="" />
+<![endif]-->
+<!--[if !lt IE 9]><!-->
+<img srcset="https://globalgamejam.org/sites/default/files/styles/feature_image__normal/public/field_featured_content_image/logo-300-transparent_0.png?itok=uddPwKJ1&amp;timestamp=1544121794 282w" alt="" title="" />
+<!-- <![endif]-->
+</picture></a></div> </div>
+<div class="views-field views-field-title"> <h2 class="field-content"><a href="https://globalgamejam.org/jammer-resources">GGJ Info</a></h2> </div>
+<div class="views-field views-field-field-featured-content-body"> <div class="field-content"><p><span style="line-height: 1.23529em;">Quick links and information regarding Global Game Jam® :</span></p>
+<ul><li><strong>Dates:</strong> 29 - 31 January 2021</li>
+<li><strong>2020 Jam Sites:</strong> <a href="https://globalgamejam.org/2020/jam-sites">List of Global Game Jam Locations</a></li>
+<li><strong>General Contact:</strong> <a href="/cdn-cgi/l/email-protection#7b131e170b3b1c1714191a171c1a161e111a165514091c"><span class="__cf_email__" data-cfemail="046c6168744463686b666568636569616e65692a6b7663">[email&#160;protected]</span></a></li>
+<li><strong>Behind the Scenes: </strong>- <a href="https://globalgamejam.org/news">News</a> - <a href="https://globalgamejam.org/about">About</a> - <a href="https://globalgamejam.org/faq">Frequently Asked Questions</a></li>
+<li><strong>Official hashtag:</strong> <strong>#GGJ20 #GGJ21</strong></li>
+<li><strong>Social Media Channels:</strong> <a href="https://twitter.com/globalgamejam">@GlobalGameJam</a> [Twitter] - <a href="https://www.facebook.com/GlobalGameJam">Global Game Jam</a> [Facebook Page]</li>
+<li><strong>Discord: <a href="https://discord.gg/Trvt8yU">Official GGJ Discord</a></strong></li>
+<li><strong>Twitch live stream: <a href="https://www.twitch.tv/globalgamejam">https://www.twitch.tv/globalgamejam</a></strong></li>
+<li><strong>2020 Diversifiers: <a href="https://globalgamejam.org/2020/diversifiers">Diversifiers</a></strong></li>
+<li><strong>2020 Theme: Repair</strong></li>
+<li><strong>Latest newsletter: <a href="https://us3.campaign-archive.com/?u=454b4bd952bbac0ecc548c7d1&amp;id=c032b0ab5d">May Newsletter</a></strong></li>
+<li><strong>Media Resources:</strong> <a href="https://globalgamejam.org/presskit">Press Kit</a> &amp; <a href="https://globalgamejam.org/media">Logo/Graphic Downloads</a></li>
+<li><strong>Sponsors:</strong> <a href="http://www.globalgamejam.org/sponsors">globalgamejam.org/sponsors</a></li>
+<li><strong>2020 Credits: <a href="https://globalgamejam.org/credits/2020/">GGJ 2020 Credits</a></strong></li>
+</ul></div> </div>
+<span class="views-field views-field-contextual-links"> <span class="field-content"></span> </span></li>
+</ul></div> </div>
+</div> </div>
+</div>
+<div id="block-views-jam-sites-new-block" class="block block--views block--views-jam-sites-new-block">
+<h2 class="block__title">New Locations</h2>
+<div class="block__content">
+<div class="view view-jam-sites view-id-jam_sites view-display-id-new_block view-dom-id-2a6bf5236d869d21fa85526f37ecf309">
+<div class="view-content">
+<div class="item-list"><ul> <li class="views-row views-row-1 views-row-odd views-row-first">
+<div class="views-field views-field-title"> <span class="field-content"><a href="/2020/jam-sites/varna">Innovator Varna GameJam</a></span> </div>
+<div class="views-field views-field-field-site-address"> <span class="field-content city">varna </span> </div>
+<div class="views-field views-field-field-site-address-1"> <span class="field-content state-province"> </span> </div>
+<div class="views-field views-field-field-site-address-2"> <span class="field-content country">Bulgaria</span> </div>
+<div class="views-field views-field-name"> <span class="views-label views-label-name">Organizer: </span> <span class="field-content"><a href="/users/bobchev" title="View user profile." class="username">Bobchev</a></span> </div></li>
+<li class="views-row views-row-2 views-row-even">
+<div class="views-field views-field-title"> <span class="field-content"><a href="/2020/jam-sites/niflheim-global-game-jam-2020">Niflheim Global Game Jam 2020</a></span> </div>
+<div class="views-field views-field-field-site-address"> <span class="field-content city">Porsgrunn </span> </div>
+<div class="views-field views-field-field-site-address-1"> <span class="field-content state-province"> </span> </div>
+<div class="views-field views-field-field-site-address-2"> <span class="field-content country">Norway</span> </div>
+<div class="views-field views-field-name"> <span class="views-label views-label-name">Organizer: </span> <span class="field-content"><a href="/users/pixeleif" title="View user profile." class="username">pixeleif</a></span> </div></li>
+<li class="views-row views-row-3 views-row-odd">
+<div class="views-field views-field-title"> <span class="field-content"><a href="/2020/jam-sites/sweaty-chair-studio">Sweaty Chair Studio</a></span> </div>
+<div class="views-field views-field-field-site-address"> <span class="field-content city">Werrington </span> </div>
+<div class="views-field views-field-field-site-address-1">  <span class="field-content state-province">NSW </span> </div>
+<div class="views-field views-field-field-site-address-2"> <span class="field-content country">Australia</span> </div>
+<div class="views-field views-field-name"> <span class="views-label views-label-name">Organizer: </span> <span class="field-content"><a href="/users/richard-fu" title="View user profile." class="username">Richard Fu</a></span> </div></li>
+<li class="views-row views-row-4 views-row-even">
+<div class="views-field views-field-title"> <span class="field-content"><a href="/2020/jam-sites/billings-mt-ggj-2020">Billings MT GGJ 2020</a></span> </div>
+<div class="views-field views-field-field-site-address"> <span class="field-content city">910 Grand Ave Billings </span> </div>
+<div class="views-field views-field-field-site-address-1"> <span class="field-content state-province">MT </span> </div>
+<div class="views-field views-field-field-site-address-2"> <span class="field-content country">United States</span> </div>
+<div class="views-field views-field-name"> <span class="views-label views-label-name">Organizer: </span> <span class="field-content"><a href="/users/bunzaga" title="View user profile." class="username">BUnzaga</a></span> </div></li>
+<li class="views-row views-row-5 views-row-odd">
+<div class="views-field views-field-title"> <span class="field-content"><a href="/2020/jam-sites/gracom-bel%C3%A9m">Gracom | Belém</a></span> </div>
+<div class="views-field views-field-field-site-address"> <span class="field-content city">Belém </span> </div>
+<div class="views-field views-field-field-site-address-1"> <span class="field-content state-province">PA </span> </div>
+<div class="views-field views-field-field-site-address-2"> <span class="field-content country">Brazil</span> </div>
+<div class="views-field views-field-name"> <span class="views-label views-label-name">Organizer: </span> <span class="field-content"><a href="/users/alec-san" title="View user profile." class="username">Alec-san</a></span> </div></li>
+<li class="views-row views-row-6 views-row-even views-row-last">
+<div class="views-field views-field-title"> <span class="field-content"><a href="/2020/jam-sites/insolit-studios">Insolit studios</a></span> </div>
+<div class="views-field views-field-field-site-address"> <span class="field-content city">Durango durango </span> </div>
+<div class="views-field views-field-field-site-address-1"> <span class="field-content state-province">DUG </span> </div>
+<div class="views-field views-field-field-site-address-2"> <span class="field-content country">Mexico</span> </div>
+<div class="views-field views-field-name"> <span class="views-label views-label-name">Organizer: </span> <span class="field-content"><a href="/users/insolit-studios" title="View user profile." class="username">insolit studios</a></span> </div></li>
+</ul></div> </div>
+<div class="more-link">
+<a href="/jam-sites">
+See all locations </a>
+</div>
+</div> </div>
+</div>
+<div id="block-boxes-twitter" class="block block--boxes block-boxes-simple block--boxes-twitter">
+<div class="block__content">
+<div id='boxes-box-twitter' class='boxes-box'><div class="boxes-box-content"><a class="twitter-timeline" data-height="725" data-link-color="#38e3f6" href="https://twitter.com/globalgamejam?ref_src=twsrc%5Etfw">Tweets by globalgamejam</a> <script data-cfasync="false" src="assets/141ffc9af165963c5e7981f51953181d.js"></script><script async src="assets/e977ef4213d778fa58919251dec3b331.js" charset="utf-8"></script>
+
+<link href="assets/ba4366c460894794240b4636b5bee763.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:14px Helvetica,Arial,sans-serif;  width:350px;}
+	/* Add your own MailChimp form style overrides in your site stylesheet or in this style block.
+	   We recommend moving this block and the preceding CSS link to the HEAD of your HTML file. */
+</style>
+<div id="mc_embed_signup">
+<form action="//globalgamejam.us3.list-manage.com/subscribe/post?u=454b4bd952bbac0ecc548c7d1&amp;id=550f13ad7e" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<div id="mc_embed_signup_scroll">
+<h2>Subscribe to GGJ Newsletter</h2>
+<input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" placeholder="email address" required>
+
+<div style="position: absolute; left: -5000px;"><input type="text" name="b_454b4bd952bbac0ecc548c7d1_550f13ad7e" tabindex="-1" value=""></div>
+<div><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+</div>
+</form>
+</div>
+
+</div></div> </div>
+</div>
+</div>
+</div>
+</div>
+<footer class="l-footer" role="contentinfo">
+<div class="l-region l-region--footer">
+<div id="block-boxes-footer-links" class="block block--boxes block-boxes-simple block--boxes-footer-links">
+<div class="block__content">
+<div id='boxes-box-footer_links' class='boxes-box'><div class="boxes-box-content"><ul><li><a href="/help">Contact</a></li>
+<li><a href="/presskit">Press</a></li>
+<li><a href="/research">Research</a></li>
+<li><a href="/legal">Legal</a></li>
+<li><a href="/sponsors">Sponsors</a></li>
+<li><a href="/donate">Donate</a></li>
+<li><a class="twitter social-media" href="https://twitter.com/globalgamejam"><span class="icon">Twitter</span></a></li>
+<li><a class="facebook social-media" href="https://facebook.com/GlobalGameJam"><span class="icon">Facebook</span></a></li>
+<li><a class="pinterest social-media" href="https://pinterest.com/globalgamejam/"><span class="icon">Pinterest</span></a></li>
+<li><a class="tumblr social-media" href="http://jamtales.tumblr.com"><span class="icon">Tumblr</span></a></li>
+<li><a class="vimeo social-media" href="https://vimeo.com/globalgamejam"><span class="icon">Vimeo</span></a></li>
+<li><a class="youtube social-media" href="https://www.youtube.com/user/GlobalGameJam"><span class="icon">YouTube</span></a></li>
+</ul></div></div> </div>
+</div>
+<div id="block-boxes-attribution" class="block block--boxes block-boxes-simple block--boxes-attribution">
+<div class="block__content">
+<div id='boxes-box-attribution' class='boxes-box'><div class="boxes-box-content"><ul><li class="copyright"><span>® </span>2020 <span>Global Game Jam</span><span>, Inc. </span></li>
+<li class="copyright">San Luis Obispo, California, USA</li>
+</ul></div></div> </div>
+</div>
+</div>
+</footer>
+</div>
+<script src="assets/beb6a38a7a990572ac65790600ec5e86.js"></script>
+
+<div style="position:fixed;top:0;left:0;width:100%;height:45px;z-index:2147483647;background-color:rgba(253,147,38,0.90) !important;color:black !important;text-align:right !important;font:normal 12px/45px Arial, sans-serif !important;border-radius:0 !important;margin:0 !important;max-width:100% !important;background-repeat: no-repeat !important;background-position: 15px center !important;
+background-image: url(data:image/png;base64,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);
+"><span style="padding-right:15px;">You are viewing a snapshot of <a style='font-weight:bold !important; color:white !important' href='http://www.globalgamejam.org/'>http://www.globalgamejam.org/</a> created on 2020/08/10</span></div></body>
+</html>

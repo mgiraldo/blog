@@ -1,0 +1,512 @@
+<!DOCTYPE html>
+<!--[if IE 7]>
+<html class="ie ie7" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if IE 8]>
+<html class="ie ie8" lang="en-US" prefix="og: http://ogp.me/ns#">
+<![endif]-->
+<!--[if !(IE 7) & !(IE 8)]><!-->
+<html lang="en-US" prefix="og: http://ogp.me/ns#">
+<!--<![endif]-->
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<title>Yazı Fabrikası İşleri - Güncel Blog</title>
+	<link rel="profile" href="http://gmpg.org/xfn/11">
+	<link rel="pingback" href="http://www.factoryfilms.net/xmlrpc.php">
+	<!--[if lt IE 9]>
+	<script src="http://www.factoryfilms.net/wp-content/themes/twentythirteen/js/html5.js"></script>
+	<![endif]-->
+	
+<!-- This site is optimized with the Yoast SEO plugin v3.9 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="description" content="İçerik fabrikası gibi güncel yazılar girdiğim kişisel blog sitem. - İlk Senin Haberin Olsun!-"/>
+<meta name="robots" content="noodp"/>
+<link rel="canonical" href="http://www.factoryfilms.net/" />
+<meta property="og:locale" content="en_US" />
+<meta property="og:type" content="website" />
+<meta property="og:title" content="Yazı Fabrikası İşleri - Güncel Blog" />
+<meta property="og:description" content="İçerik fabrikası gibi güncel yazılar girdiğim kişisel blog sitem. - İlk Senin Haberin Olsun!-" />
+<meta property="og:url" content="http://www.factoryfilms.net/" />
+<meta property="og:site_name" content="Yazı Fabrikası İşleri - Güncel Blog" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:description" content="İçerik fabrikası gibi güncel yazılar girdiğim kişisel blog sitem. - İlk Senin Haberin Olsun!-" />
+<meta name="twitter:title" content="Yazı Fabrikası İşleri - Güncel Blog" />
+<script type='application/ld+json'>{"@context":"http:\/\/schema.org","@type":"WebSite","@id":"#website","url":"http:\/\/www.factoryfilms.net\/","name":"Yaz\u0131 Fabrikas\u0131 \u0130\u015fleri - G\u00fcncel Blog","potentialAction":{"@type":"SearchAction","target":"http:\/\/www.factoryfilms.net\/?s={search_term_string}","query-input":"required name=search_term_string"}}</script>
+<!-- / Yoast SEO plugin. -->
+
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Yazı Fabrikası İşleri - Güncel Blog &raquo; Feed" href="http://www.factoryfilms.net/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Yazı Fabrikası İşleri - Güncel Blog &raquo; Comments Feed" href="http://www.factoryfilms.net/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.factoryfilms.net\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.4.2"}};
+			/*! This file is auto-generated */
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='assets/7778985d7b4a41d4c7bc3b0552eac6a1.css' type='text/css' media='all' />
+<link rel='stylesheet' id='twentythirteen-fonts-css'  href='https://fonts.googleapis.com/css?family=Source+Sans+Pro%3A300%2C400%2C700%2C300italic%2C400italic%2C700italic%7CBitter%3A400%2C700&#038;subset=latin%2Clatin-ext' type='text/css' media='all' />
+<link rel='stylesheet' id='genericons-css'  href='assets/9a7a745c41ec0495dff46b3fc9ad271b.css' type='text/css' media='all' />
+<link rel='stylesheet' id='twentythirteen-style-css'  href='assets/1a6dd3859e9a317961f99ba966f738a1.css' type='text/css' media='all' />
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='twentythirteen-ie-css'  href='http://www.factoryfilms.net/wp-content/themes/twentythirteen/css/ie.css?ver=2013-07-18' type='text/css' media='all' />
+<![endif]-->
+<script type='text/javascript' src='assets/3271ddddc08cf097ec2db9339fad62dd'></script>
+<script type='text/javascript' src='assets/c4485a81dcd3ff255ccc330901c42bb6.1'></script>
+<link rel='https://api.w.org/' href='http://www.factoryfilms.net/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.factoryfilms.net/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.factoryfilms.net/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.4.2" />
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>	<style type="text/css" id="twentythirteen-header-css">
+			.site-header {
+			background: url(assets/31d86c8bab9c85029a324fee710e5e97.png) no-repeat scroll top;
+			background-size: 1600px auto;
+		}
+		@media (max-width: 767px) {
+			.site-header {
+				background-size: 768px auto;
+			}
+		}
+		@media (max-width: 359px) {
+			.site-header {
+				background-size: 360px auto;
+			}
+		}
+		</style>
+	</head>
+
+<body class="home blog single-author">
+	<div id="page" class="hfeed site">
+		<header id="masthead" class="site-header" role="banner">
+			<a class="home-link" href="http://www.factoryfilms.net/" title="Yazı Fabrikası İşleri &#8211; Güncel Blog" rel="home">
+				<h1 class="site-title">Yazı Fabrikası İşleri &#8211; Güncel Blog</h1>
+				<h2 class="site-description">İçerik fabrikası gibi güncel yazılar girdiğim kişisel blog sitem. &#8211; İlk Senin Haberin Olsun!-</h2>
+			</a>
+
+			<div id="navbar" class="navbar">
+				<nav id="site-navigation" class="navigation main-navigation" role="navigation">
+					<button class="menu-toggle">Menu</button>
+					<a class="screen-reader-text skip-link" href="#content" title="Skip to content">Skip to content</a>
+					<div id="primary-menu" class="nav-menu"></div>
+					<form role="search" method="get" class="search-form" action="http://www.factoryfilms.net/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>				</nav><!-- #site-navigation -->
+			</div><!-- #navbar -->
+		</header><!-- #masthead -->
+
+		<div id="main" class="site-main">
+
+	<div id="primary" class="content-area">
+		<div id="content" class="site-content" role="main">
+		
+										
+<article id="post-83" class="post-83 post type-post status-publish format-standard hentry category-uncategorized">
+	<header class="entry-header">
+		
+				<h1 class="entry-title">
+			<a href="http://www.factoryfilms.net/kopek-bakiminda-dikkat-edilecekler/" rel="bookmark">Köpek Bakımında Dikkat Edilecekler</a>
+		</h1>
+		
+		<div class="entry-meta">
+			<span class="date"><a href="http://www.factoryfilms.net/kopek-bakiminda-dikkat-edilecekler/" title="Permalink to Köpek Bakımında Dikkat Edilecekler" rel="bookmark"><time class="entry-date" datetime="2018-09-18T19:59:32+00:00">September 18, 2018</time></a></span><span class="categories-links"><a href="http://www.factoryfilms.net/category/uncategorized/" rel="category tag">Uncategorized</a></span><span class="author vcard"><a class="url fn n" href="http://www.factoryfilms.net/author/admin/" title="View all posts by admin" rel="author">admin</a></span>					</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<p>Köpek bakımı<span style="font-weight: 400;"> her zaman belli bir düzen üzerinden ilerlemeli. Çünkü köpeklerin düzenli gezdirilmesi, doktor kontrolleri, mamaları, tuvalet düzeni ve daha birçok detayı önemlidir. Bu detayların üzerine düşüldüğü zaman onlara çok daha sağlıklı bir hayat kazandırma durumu da artış göstermiş olur. Hal böyle olunca da Köpek bakımında dikkat edilecekler konusunda önceliğimiz onların maması seçimidir. </span>Köpek maması<span style="font-weight: 400;"> bilindiği üzere cinse ve yaşa göre değişkenlik gösterecek bir yapıya sahiptir. Bu mamanın seçiminde de sizle veteriner hekimin tavsiyesine de uymalısınız. Piyasada pek çok farklı mama elbette var. Ancak her zaman onların hem damak zevklerine hem de sağlıklarına hitap edecek bir mama tüketmelerini sağlamalısınız. </span></p>
+<p><span style="font-weight: 400;"><a href="http://www.uzmantv.com/konu/kopek-bakimi-ile-ilgili-her-sey" target="_blank" rel="noopener"><strong>Köpek bakımında</strong></a> dikkat edilecek bir diğer unsur ise köpek kulübeleri. Bahçede köpek bakımında her zaman kulübenin detayı ve ebatları önemlidir. Bir </span>köpek kulübesi <span style="font-weight: 400;">yaz ve kış mevsimine odaklı bir şekilde ilerlemektedir. Ki genel yapısı göz önüne alındığında köpek kulübelerinin kışa dayanıklı olması gerek. Ahşap kulübelerin içerisine su sızıntısı olmamalı kesinlikle. Bunun aksine her zaman sıcak ve bakımlı bir köpek kulübesi onların daha da güzel bir mekana kavuşmasını sağlar. Bilindiği üzere köpekler için yaşam alanları çok önemlidir. Bu alanı benimsedikleri an zaten ömürleri boyunca sorunsuz bir şekilde hayatlarını sürdürme olanağı yakalamış olurlar. </span></p>
+<p><span style="font-weight: 400;">Tüm bunların yanı sıra </span>köpek tasmaları<span style="font-weight: 400;"> da bir köpek bakımında dikkat edilecek unsurlar arasında yer almak zorunda. Hem boyun hem de belden bağlamalı tasmalar var. Boyun tasmaları küçük ebatlı köpekler için uygun olabilir. Onların boyunlarını sıkmayacak şekilde tasarlanan pek çok önemli tasma modeli bulunmaktadır. Bu modeller kapsamında bakıldığında da zaten eğer ki köpeğiniz geniş hacimli bir yapıya sahip ise belden bağlamalı tasamalar denenmelidir.</span></p>
+<p style="text-align: center;"><iframe src="https://www.youtube.com/embed/W9d1ek8RHwA" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p><span style="font-weight: 400;"> Bel tasmaları onların hareket alanını kısıtlamamakla birlikte, daha rahat hareket etmelerini sağlar. Bu konuda da kontrolü tamamen sizin elinizin altında olmasını da desteklemiş olur. Bu gibi etkilerin tamamını göz önüne alarak ilerlediğiniz zaman zaten köpeklerin bakımı ve sağlıklarının kontrolü de sorunsuz bir şekilde yönlendirilir. </span></p>
+<p><span style="font-weight: 400;">Son olarak, uzun süredir alışveriş yaptığım ve sizlerinde kolaylıkla en uygun fiyatlarla petshop ürünleri alabileceğiniz petbesinleri.com üzerinden birçok köpek ve kedi ürününe ulaşabileceğinizi de belirtmek isteriz. Bu <a href="http://www.haberekspres.com.tr/gundem/turkiye-nin-en-iyi-petshop-sitelerinden-pet-besinleri-h118436.html" target="_blank" rel="noopener"><strong>petshop sitesi</strong></a> sayesinde köpek bakımlarınızı çok daha detaylı bir noktaya taşıma, aynı şekilde de daha sağlıklı bir bakım onarım alanına odaklanma şansı da yakalamış olursunuz. Her zaman güncel bilgiler, köpek bakımı ve sağlığı hakkında kritik öneriler ve en önemlisi de başarılı kedi köpek bakım tüyolarıyla sizler sağlam bir hayvan sever olabilir, uygun fiyatlandırma politikalarını da denemeye alarak rahatlıkla istediğiniz ürünü kısa süre içerisinde elinizin altına getirebilirsiniz. Bu konuda </span>petbesinleri site yönetimi ile sürekli iletişim halinde olabilecek pek çok fırsat sizleri bekliyor olacaktır.</p>
+<p>Bu siteye <a href="https://www.petbesinleri.com.tr/" target="_blank" rel="noopener"><strong>https://www.petbesinleri.com.tr/</strong></a> adresinden ulaşabilirsiniz.</p>
+	</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+					<div class="comments-link">
+				<a href="http://www.factoryfilms.net/kopek-bakiminda-dikkat-edilecekler/#respond"><span class="leave-reply">Leave a comment</span></a>			</div><!-- .comments-link -->
+		
+			</footer><!-- .entry-meta -->
+</article><!-- #post -->
+							
+<article id="post-52" class="post-52 post type-post status-publish format-standard hentry category-yenilenebilir-enerji tag-gunes-enerjisi-turkiye tag-gunes-panelleri">
+	<header class="entry-header">
+		
+				<h1 class="entry-title">
+			<a href="http://www.factoryfilms.net/turkiyede-gunes-enerjisi-kullanimi-ne-kadardir/" rel="bookmark">Türkiye’de Güneş Enerjisi Kullanımı Ne Kadardır?</a>
+		</h1>
+		
+		<div class="entry-meta">
+			<span class="date"><a href="http://www.factoryfilms.net/turkiyede-gunes-enerjisi-kullanimi-ne-kadardir/" title="Permalink to Türkiye’de Güneş Enerjisi Kullanımı Ne Kadardır?" rel="bookmark"><time class="entry-date" datetime="2017-07-17T20:02:24+00:00">July 17, 2017</time></a></span><span class="categories-links"><a href="http://www.factoryfilms.net/category/yenilenebilir-enerji/" rel="category tag">Yenilenebilir Enerji</a></span><span class="tags-links"><a href="http://www.factoryfilms.net/tag/gunes-enerjisi-turkiye/" rel="tag">güneş enerjisi türkiye</a>, <a href="http://www.factoryfilms.net/tag/gunes-panelleri/" rel="tag">güneş panelleri</a></span><span class="author vcard"><a class="url fn n" href="http://www.factoryfilms.net/author/admin/" title="View all posts by admin" rel="author">admin</a></span>					</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<p align="JUSTIFY">Sonu olmayan ve yenilenebilir enerji kaynakları arasında bulunan güneş enerjisinin ülkemizde kullanımı gün geçtikçe daha yaygın hale gelmektedir. Buna yönelik olarak Türkiye’de çalışmalar yapılmaktadır. Buna göre 2023 yılına gelinmesi ile birlikte ülkemizde enerji üretiminin yaklaşık yüzde otuzluk kısmının güneş enerjisi ile karşılanacağı belirtilmektedir. Ülke içerisinde çok yaygın olarak kullanılamasa da bunun gerçekleşmesi için altyapı çalışmalarına ağırlık verilmektedir.</p>
+<p align="JUSTIFY">Güneş enerjisi yenilenebilir enerji kaynaklarından olduğundan dolayı hem dünya hem de Türkiye bakımından oldukça önemli bir yere sahiptir. Buna yönelik olarak ülkemizde ciddi yatırımlar ve çalışmalar yapılmaktadır. Ülkemiz <a href="http://www.enerjibes.com/yenilenebilir-enerji-kaynaklari-nelerdir/"><strong>yenilenebilir enerji kaynağı</strong></a> bakımından önemli potansiyele sahip olduğundan dolayı bu durumu avantaja çevirmek için yatırımlar sürdürülmektedir.</p>
+<h2 align="JUSTIFY">Ülkemizde Güneş Enerjisinin Durumu</h2>
+<p align="JUSTIFY">Türkiye’de güneş enerjisi potansiyelinin en yüksek olduğu ilk ü bölgeye bakıldığında bunlar içerisinde Güneydoğu Anadolu bölgesi ilk sırada yer alırken Akdeniz ve Doğu Anadolu ikinci üçüncü sıralarda takip etmektedir. Güneş enerjisinden günlük olarak elde edilen enerjiye bakıldığında ise ortalama günde yedi buçuk saat <strong>elektrik enerjisi</strong> üretimi gerçekleşmektedir. Elde edilen bu veriler <a href="https://www.teias.gov.tr/">Türkiye Elektrik İletim Anonim Şirketi </a>tarafından açıklanmaktadır.</p>
+<p align="JUSTIFY">Ülkemizde enerji kaynaklarının payına bakıldığında bunlar içerisinde yenilenebilir enerji kaynaklarının payı yaklaşık yüzde iki buçuk civarındadır. En yüksek payı ise yüzde kırk beşlik pay ile <a href="http://www.targaz.com.tr/dogalgaznedir.html"><strong>doğal gazın</strong></a> aldığı görülmektedir. Hal böyle olunca enerji üretiminde yenilenebilir enerji kaynaklarının payını artırmak için çalışmalar giderek artan biçimde devam etmektedir.</p>
+<p style="text-align: center;" align="JUSTIFY">
+<h2 align="JUSTIFY">Türkiye’de Güneş Enerjisi Nerelerde Kullanılır?</h2>
+<p align="JUSTIFY">Ülkemizde güneş enerjisinin kullanım alanlarına bakıldığında bunlar içerisinde ilk sırada evler yer almaktadır. Ev bütçesine katkıda bulunmak ve çevreyi korumak adına evlerde güneş panelleri kullanımı yaygınlaşmaktadır.</p>
+<p align="JUSTIFY">Kullanım alanları bakımından bakıldığında güneş enerjisi sistemleri aktif ve pasif olmak üzere iki türe ayrılmaktadır. Pasif olan sistem en eski sistem olarak bilinmektedir. Bu sistem genellikle binaların mimarisinde yaygın biçimde kullanılmaktadır.</p>
+<p align="JUSTIFY">Aktif güneş enerjisi sistemlerinde ise daha farklı durum söz konusudur. Bunlar ile birlikte elektrik enerjisi üretimi yapılmaktadır. Genel olarak ülkemizde pasif karakterli güneş enerji sistemleri görülmektedir.</p>
+<h2 align="JUSTIFY">Türkiye’de Güneş Enerjisi Üretimi Ve Kullanımı</h2>
+<p align="JUSTIFY">Ülkemizde güneş enerjisi evlerde elektrik ve sıcak su elde etmek amacı ile kullanılmaktadır. Doğal ve yenilenebilir bir kaynak olduğundan dolayı güneş enerjisi kullanımını yaygınlaştırmak için çalışmalar yapılmaktadır. Türkiye’de bulunan güneş enerjili santral sayısı 2016 yılı sonu itibariyle bin kırk üç olarak açıklanmıştır. Bu santrallerin sayısını artırmaya yönelik çalışmalara yapılarak daha fazla elektrik üretimine ulaşmak temel amaçlar arasında yer almaktadır. Güneş enerjisi sistemleri ile birlikte elde edilen ısı ya direkt olarak kullanılmakta ya da elektrik enerjisi olarak kullanım alanı bulmaktadır.</p>
+<h2 align="JUSTIFY">Ülkemizde Güneş Enerjisi Kullanımı</h2>
+<p align="JUSTIFY">Türkiye içerisinde yer alan güneş enerjisi santralleri ile birlikte yapılan açıklamalara göre ortalama olarak beş yüz atmış sekiz milyon kilovat saat elektrik üretimi gerçekleşmektedir. Ülkenin genel elektrik ihtiyacı ile kıyaslandığında bu miktar yaklaşık yüzde 0,22’lik bir rakama karşılık gelmektedir. Elektrik üretim santrallerinden elde edilen verimin öğle saatlerinde daha da arttığı belirtilmektedir. Bununla birlikte güneş enerjisinden elektrik üretimi ve kullanımı giderek artmaktadır.</p>
+<p align="JUSTIFY">Güneş enerjisiyle ilgili daha fazla bilgi için <a href="http://gunesenerjisipanelleri.net/" target="_blank" rel="noopener"><strong>http://gunesenerjisipanelleri.net/</strong></a> web sayfasını inceleyebilirsiniz.</p>
+	</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+					<div class="comments-link">
+				<a href="http://www.factoryfilms.net/turkiyede-gunes-enerjisi-kullanimi-ne-kadardir/#respond"><span class="leave-reply">Leave a comment</span></a>			</div><!-- .comments-link -->
+		
+			</footer><!-- .entry-meta -->
+</article><!-- #post -->
+							
+<article id="post-41" class="post-41 post type-post status-publish format-standard hentry category-hamilelik-ve-tup-bebek tag-tup-bebek-asamalari tag-tup-bebek-yontemleri">
+	<header class="entry-header">
+		
+				<h1 class="entry-title">
+			<a href="http://www.factoryfilms.net/tup-bebek-tedavisinde-erkek-ve-kadin-kisirligi-yontemleri/" rel="bookmark">Tüp Bebek Tedavisinde Erkek ve Kadın Kısırlığı Yöntemleri</a>
+		</h1>
+		
+		<div class="entry-meta">
+			<span class="date"><a href="http://www.factoryfilms.net/tup-bebek-tedavisinde-erkek-ve-kadin-kisirligi-yontemleri/" title="Permalink to Tüp Bebek Tedavisinde Erkek ve Kadın Kısırlığı Yöntemleri" rel="bookmark"><time class="entry-date" datetime="2017-06-27T17:02:48+00:00">June 27, 2017</time></a></span><span class="categories-links"><a href="http://www.factoryfilms.net/category/hamilelik-ve-tup-bebek/" rel="category tag">Hamilelik ve Tüp Bebek</a></span><span class="tags-links"><a href="http://www.factoryfilms.net/tag/tup-bebek-asamalari/" rel="tag">tüp bebek aşamaları</a>, <a href="http://www.factoryfilms.net/tag/tup-bebek-yontemleri/" rel="tag">tüp bebek yöntemleri</a></span><span class="author vcard"><a class="url fn n" href="http://www.factoryfilms.net/author/admin/" title="View all posts by admin" rel="author">admin</a></span>					</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<p><span style="font-family: 'Times New Roman', serif;"><span style="font-size: medium;"><span lang="tr-TR">Öncelikle kısırlık bir yıl boyunca korunmasız düzenli ilişkiye rağmen </span></span></span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: medium;"><span lang="tr-TR">çocuk sahibi olamamak</span></span></span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: medium;"><span lang="tr-TR"> anlamına gelir. Bu durumlarda çocuk sahibi olamama nedeni kadından kaynaklanıyorsa kadın kısırlığı, erkekten kaynaklanıyorsa erkek kısırlığı diye anılmaktadır. <a href="http://www.milliyet.com.tr/erkeklerde-kisirlik-sebepleri-pembenar-detay-hamilelikhazirligi-2029606/"><strong>Kısırlık sorunu</strong> çiftlerin yaklaşık %15&#8217;inde görülür</a>. Bu durumda sadece erkeğe bağlı faktörler %20, hem erkek hem de kadına bağlı faktörler %30, sadece kadına bağlı faktörler %40 oranındadır. %10 çiftte açıklanamayan kısırlık durumu söz konusudur.</span></span></span></p>
+<h2 lang="tr-TR" align="JUSTIFY"><span style="font-family: 'Times New Roman', serif;"><span style="font-size: large;">Erkek Kısırlığı </span></span></h2>
+<p lang="tr-TR" align="JUSTIFY"><span style="font-family: 'Times New Roman', serif;"><span style="font-size: medium;">Erkekte olabilecek sorunlar büyük olasılıkla fiziki muayene, sperm tahlili, hormon analizi, <a href="https://www.ultrasonklinik.com/ultrasonografi/"><strong>ultrasonografi</strong> </a>gibi yöntemlerle anlaşılmaktadır. </span></span></p>
+<p align="JUSTIFY"><span style="font-family: 'Times New Roman', serif;"><span style="font-size: medium;"><span lang="tr-TR">Erkek Kısırlığının sebepleri ise varikosel ( yumurtalık damarlarında varisleşme), hormonal nedenler, genetik nedenler, geçirilmiş iltihabi hastalıklar nedeniyle sperm kanallarında tıkanıklıklar oluşması, geçirilmiş ameliyatlar, doğuştan gelen sorunlar veya çevresel faktörler olabilir.</span></span></span></p>
+<p lang="tr-TR" align="JUSTIFY"><span style="font-family: 'Times New Roman', serif;"><span style="font-size: medium;">Ayrıca eroin, morfin gibi uyuşturucu madde kullanımı, sporcuların doping olarak aldıkları maddeler çocuk sahibi olmayı zorlaştıracağı gibi engelleyebilir de. Aşırı sıcak ortamlar ve petro-kimya dumanlarına muhatap olanlar da kısır olabilir. </span></span></p>
+<h2><span style="font-size: large;"><span style="font-family: 'Times New Roman', serif;">Erkek Kısırlığında Tedavi</span></span></h2>
+<p align="JUSTIFY"><span style="font-family: 'Times New Roman', serif;"><span style="font-size: medium;"><span lang="tr-TR">Erkekte kısırlık sebebi anlaşılmışsa ona yönelik tedavi uygulanır. Tüp bebek tedavisi en çok ise Kıbrıs, Gürcistan ve Romanya gibi ülkelerde yapılmaktadır. Bu tedaviler yapılmasına rağmen hamilelik sağlamazsa aşılama veya tüp bebek yöntemleri uygulanır. Aşılama yönteminde erkeğin laboratuvar ortamında bulunan spermi kadının rahmine bırakılır. Bu sayede spermin alacağı yol ve geçeceği kanallar kısaldığı için hamilelik şansı daha yüksektir. Bu tedaviden de sonuç alınamazsa </span></span></span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: medium;"><span lang="tr-TR">tüp bebek yöntemi</span></span></span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: medium;"><span lang="tr-TR"> denenir.</span></span></span></p>
+<p style="text-align: center;" align="JUSTIFY"><iframe src="https://www.youtube.com/embed/hBkfX8wZdeo" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<h2 lang="tr-TR" align="JUSTIFY"><span style="font-family: 'Times New Roman', serif;"><span style="font-size: large;">Erkek Kısırlığında Tüp Bebek</span></span></h2>
+<p align="JUSTIFY"><span style="font-family: 'Times New Roman', serif;"><span style="font-size: medium;"><span lang="tr-TR">Erkek kısırlığı dediğimiz, sperm hücresinin yumurtayı dölleyememesi halinde <a href="https://tr.wikipedia.org/wiki/Mikroenjeksiyon" target="_blank" rel="noopener noreferrer"><strong>mikroenjeksiyon</strong></a> (ICSI) yöntemi ile tüp bebek uygulaması yapılmaktadır. Bu yöntem ile erkekte hiç sperm hücresi yoksa bile gebelik sağlanabilir. Spermin kadın yumurtasını erişememesi, yumurta zarını aşamaması, sperm sayısı ve hareketliliğinin az olması, spermlerde şekil bozukluğu olması gibi spermlerden kaynaklı hallerde de bu yöntem sonuç verir. </span></span></span></p>
+<p lang="tr-TR" align="JUSTIFY"><span style="font-family: 'Times New Roman', serif;"><span style="font-size: medium;">Eğer ki kadında problem yoksa adeti ve yumurtalık döngüsü normalse ilaçsız tüp bebek tedavisi denenebilir. </span></span></p>
+<p lang="tr-TR" align="JUSTIFY"><span style="font-family: 'Times New Roman', serif;"><span style="font-size: medium;">Bu yöntemde kadından alınan yumurta ile erkekten alınan sperm laboratuvar ortamında döllenir. Erkeğin en kaliteli spermi seçilerek, yumurtanın içine bırakılarak döllendirme sağlanır. </span></span></p>
+<h2 lang="tr-TR" align="JUSTIFY"><span style="font-family: 'Times New Roman', serif;"><span style="font-size: large;">Kadın Kısırlığı </span></span></h2>
+<p align="JUSTIFY"><span style="font-family: 'Times New Roman', serif;"><span style="font-size: medium;"><span lang="tr-TR">Kadın kısırlığı sebepleri yumurtalamanın olmaması, <a href="http://www.nkfu.com/fallop-tupleri-nedir-nerededir/"><strong>fallop tüplerinin</strong> </a>tıkalı olması, rahimle ilgili ve rahim ağzı ile ilgili sorunlardır. </span></span></span></p>
+<h2 lang="tr-TR" align="JUSTIFY"><span style="font-family: 'Times New Roman', serif;"><span style="font-size: large;">Kadın Kısırlığında Tüp Bebek </span></span></h2>
+<p align="JUSTIFY"><span style="font-family: 'Times New Roman', serif;"><span style="font-size: medium;"><span lang="tr-TR">Klasik tüp bebek yöntemi olan </span></span></span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: medium;"><span lang="tr-TR">IVF yöntemi</span></span></span><span style="font-family: 'Times New Roman', serif;"><span style="font-size: medium;"><span lang="tr-TR"> kadın kısırlığı halinde uygulanmaktadır. Bu yöntemde doğum kontrol hapları aracılığı ile kadında adet düzene sokulur. Adet döneminde yapılacak iğne yardımı ile yumurtalar uyarılar ve yumurtlama sağlanır. Yumurtlama gününde ise kadın uyutularak ameliyat ortamında vajina kanalından girerek yumurtalar toplanır. Elde edilen yumurtalar laboratuvar ortamında çok sayıda spermle buluşturulur ve spermlerden biri yumurtayı kendiliğinden döller. Iste erkek kısırlığı ve kadın kısırlığı halinde uygulanan tüp bebek yönteminde tek fark yumurtayı döllenme şekilleridir.</span></span></span></p>
+<p style="text-align: left;" align="JUSTIFY"><strong>Faydalı Web Sitesi</strong></p>
+<p style="text-align: left;" align="JUSTIFY"><a href="http://cyprustupbebek.com/" target="_blank" rel="noopener noreferrer"><strong>http://cyprustupbebek.com/</strong></a></p>
+	</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+					<div class="comments-link">
+				<a href="http://www.factoryfilms.net/tup-bebek-tedavisinde-erkek-ve-kadin-kisirligi-yontemleri/#respond"><span class="leave-reply">Leave a comment</span></a>			</div><!-- .comments-link -->
+		
+			</footer><!-- .entry-meta -->
+</article><!-- #post -->
+							
+<article id="post-36" class="post-36 post type-post status-publish format-standard hentry category-temizlik-yapmak tag-ofis-temizligi tag-okul-temizligi tag-temizlik-sirketleri">
+	<header class="entry-header">
+		
+				<h1 class="entry-title">
+			<a href="http://www.factoryfilms.net/turkiyede-temizlik-sirketlerinin-kullanim-orani/" rel="bookmark">Türkiye&#8217;de Temizlik Şirketlerinin Kullanım Oranı</a>
+		</h1>
+		
+		<div class="entry-meta">
+			<span class="date"><a href="http://www.factoryfilms.net/turkiyede-temizlik-sirketlerinin-kullanim-orani/" title="Permalink to Türkiye&#8217;de Temizlik Şirketlerinin Kullanım Oranı" rel="bookmark"><time class="entry-date" datetime="2017-06-20T21:55:18+00:00">June 20, 2017</time></a></span><span class="categories-links"><a href="http://www.factoryfilms.net/category/temizlik-yapmak/" rel="category tag">Temizlik Yapmak</a></span><span class="tags-links"><a href="http://www.factoryfilms.net/tag/ofis-temizligi/" rel="tag">ofis temizliği</a>, <a href="http://www.factoryfilms.net/tag/okul-temizligi/" rel="tag">okul temizliği</a>, <a href="http://www.factoryfilms.net/tag/temizlik-sirketleri/" rel="tag">temizlik şirketleri</a></span><span class="author vcard"><a class="url fn n" href="http://www.factoryfilms.net/author/admin/" title="View all posts by admin" rel="author">admin</a></span>					</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<p>Temizlik şirketi genel bir tanımlama yapılacak olursa, belirli bir sayıda personeli olan, teknik açıdan da gereken temizlik ekipmanlarının olduğu, kamuya açık alanda hizmet veren, yasal kurumlardır. <a href="http://www.ktsd.org.tr/">Temizlik firmaları </a>bir yerden başka bir yere hareket etmek için araç kullanır. Hizmetin hızlı ve kolay gerçekleşmesi için bu araca ihtiyaç vardır. Araç olmadığında dağınık şekilde hizmet verilir ve bu durum ciddi bir memnuniyetsizlik yaratacaktır.  Temizlik firmaları büyüklüğü ne olursa olsun sistemli bir şekilde işlemelidir. Zaten sıradan yapılan temizliklerden farkı da bu olacaktır. Yani sistemli ve daha profesyonel bir temizlik söz konusudur.</p>
+<p><strong>Temizlik Şirketleri Ne Zaman Popüler Oldu?</strong></p>
+<p>Bir mekânın başka bir tarafından temizlenmesi hizmeti aslında epey eski bir dönme denk gelir. Örneğin evlere doğrudan temizlik için gidenler, apartman temizliği için düzenli olarak bir yere gidenler, <a href="https://www.evininustasi.com/blog/bahce-temizligi-nasil-yapilir,390">bahçe temizliği v</a>s. gibi durumlar eskiden bu yana vardır.  Bu hizmetler hala devam edebilmektedir. Ancak sektörde var olan bir açık nedeniyle bazı yatırımcı, girişimciler, özellikle büyük ev ve kurumsal olarak hizmet veren işletmelere yönelik temizlik firmaları kurmuşlardır. Aslında var olan bir ihtiyaçtan sonra temizlik şirketleri popülerleşmiştir. Düzenli temizlik ihtiyacı, firmaların kurumsal kimliklerini her zaman koruma çabaları, müşter memnuniyetinin artması, dekorasyona katkı, reklam ve satışın kötü etkilenmemesi gibi gerekçelerle temizlik şirketleri kurulmuştur.</p>
+<p><strong>Her Firma Temizlik Şirketine Başvuru Yapıyor mu?</strong></p>
+<p>Firmaların kendi bünyelerinde temizlik personeli bulunur. Ancak bu daha çok rutin işleyişin devamlılığının sağlanması, acil temizlik önlemlerinin alınması gibi durumlar içindir. Ayrıca belirli aralıklarla kapsamlı temizliğe ihtiyaç duyulduğunda çoğu firma bir temizlik firmasından yardım alır. Özellikle kalabalık işletmeler için bunun daha yoğun şekilde görüldüğü söylenebilir. Birkaç kişilik ofislerde, az sayıda kişinin olduğu yerlerde tek temizlik personeli genelde yeterli olur. Dış cam temizliği vs. durumlarında binanın anlaşmalı olduğu başka bir firma zaten genel temizliği sağlayacaktır. Bunun dışında bazı küçük- orta ölçekli firmalar yakın çevrelerindeki kişilerden yardım isteyerek temizliği giderebilir. Ancak bunda çok büyük ve detaylı temizliklerin olmayacağını belirtmek gerek.</p>
+<p><a href="assets/5c1cc53c86836a71ed6d8afd4aea5167.jpg"><img class="aligncenter size-full wp-image-37" src="assets/5c1cc53c86836a71ed6d8afd4aea5167.jpg" alt="" width="500" height="250" srcset="assets/5c1cc53c86836a71ed6d8afd4aea5167.jpg 500w, http://www.factoryfilms.net/wp-content/uploads/2017/06/temizlik-ürünleri-300x150.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
+<p><strong>Hastanelerde Temizlik Şirketi</strong></p>
+<p>Temizlik firmasına başvuru oranı konusunu doğrudan bazı kurumlara göre değerlendirirsek, hastanelerin bunda en fazla ihtiyaç duyan kurumlardan olduğu söylenebilir. Hastaneler kendi personeli ve ayrıca sık aralıklarla kuruma gelen temizlik firmaları personellerini tercih ederler. Hastalık nedeni <strong>çok sayıda bakteri olduğundan</strong> bunu engellemek için sık aralıklarla detaylı temizlik yapılması ve ayrıştırıcı bir temizlik anlayışının benimsenmesi gerekmektedir.</p>
+<p><strong>Okullarda Temizlik Şirketleri</strong></p>
+<p>En fazla temizlik firması tercih eden kurumlardan bir diğeri okullardır. Okuldaki öğrenciler genel olarak <a href="https://temizlikblogu.com/temizlik-ve-hijyen-nedir/"><strong>hijyenik şartlarda</strong> </a>eğitim görmelidir.  Bahçe, sınıf içi gibi alanlar için sabit okul personeli dışında kapsamlı temizlikte başvurular yapılabilir.</p>
+<p><strong>Ofislerde Temizlik Şirketi Kullanım Oranı</strong></p>
+<p>Ofis için temizlik firması başvuruları genellikle daha uzun aralıklarla gerçekleşir. Yine firmanın büyüklüğü ile de yakından ilgili olmakla beraber orta ölçekli bir ofiste ayda bir kere genel temizlik yapılır.</p>
+<p><strong> İyi Firma Nasıl Seçilir?</strong></p>
+<p>En iyi temizlik firması seçimi için firmanın internet üzerinde adres ve diğer bilgilerine ulaşabilir, hizmet referanslarına bakabilirsiniz.  Ayrıca teknik donanım açısından kapasitesi geniş olan firmaların daha profesyonel olduğu düşünülebilir.</p>
+<p><a href="http://temizliksirketleriankara.net/" target="_blank" rel="noopener noreferrer"><strong></strong></a></p>
+	</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+					<div class="comments-link">
+				<a href="http://www.factoryfilms.net/turkiyede-temizlik-sirketlerinin-kullanim-orani/#respond"><span class="leave-reply">Leave a comment</span></a>			</div><!-- .comments-link -->
+		
+			</footer><!-- .entry-meta -->
+</article><!-- #post -->
+							
+<article id="post-31" class="post-31 post type-post status-publish format-standard hentry category-estetik tag-ameliyat tag-estetik-yaptirmak">
+	<header class="entry-header">
+		
+				<h1 class="entry-title">
+			<a href="http://www.factoryfilms.net/yaptirilan-en-populer-estetik-ameliyatlar/" rel="bookmark">Yaptırılan En Popüler Estetik Ameliyatlar</a>
+		</h1>
+		
+		<div class="entry-meta">
+			<span class="date"><a href="http://www.factoryfilms.net/yaptirilan-en-populer-estetik-ameliyatlar/" title="Permalink to Yaptırılan En Popüler Estetik Ameliyatlar" rel="bookmark"><time class="entry-date" datetime="2017-03-25T13:13:55+00:00">March 25, 2017</time></a></span><span class="categories-links"><a href="http://www.factoryfilms.net/category/estetik/" rel="category tag">Estetik</a></span><span class="tags-links"><a href="http://www.factoryfilms.net/tag/ameliyat/" rel="tag">ameliyat</a>, <a href="http://www.factoryfilms.net/tag/estetik-yaptirmak/" rel="tag">estetik yaptırmak</a></span><span class="author vcard"><a class="url fn n" href="http://www.factoryfilms.net/author/admin/" title="View all posts by admin" rel="author">admin</a></span>					</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<p>Türkiye’de ve İzmir&#8217;de bazı estetik ameliyatların oldukça revaçta olduklarını görebiliriz. Bu estetik ameliyatlar gerek erkek, gerekse kadınların en çok ilgisini çeken şeyler arasında sayılır.</p>
+<p>Estetik ameliyatlar günümüzde basit ve hızlı bir biçimde yapıldığından bunlara talepte artmıştır. Doğuştan gelen kusurlar estetik harici çözülemeyeceği için, kişiler bu estetik türlerine yönelmiş durumdadır. Ülkemizde ise estetik ameliyatını en çok tercih edenler kadınlar olarak bilinir. Erkekler ise bazı estetik türlerine kadınlardan daha çok ilgi göstermektedir. Bunların arasında kulak estetiği gibi estetik türlerini sayabiliriz. Bunun dışında estetik ameliyatın başlama zamanı ise erken yaşlara kadar inmiştir. Özellikle 18-20 yaş arasındaki grubun, estetiğe başvurma oranları eskiye nazaran artmış durumdadır. Bu ameliyat türleri ayrıca ileriki yaşlardaki kadınlar tarafından da oldukça sık başvurulan ameliyat türleridir.</p>
+<p>Özellikle bazı <a href="http://estetiks.net/" target="_blank" rel="noopener"><strong>estetik ameliyatlar</strong></a>ın günümüzde daha çok tercih edildiği bilinir. Bunlar ise şu şekilde sıralanmaktadır.</p>
+<p>&nbsp;</p>
+<p><strong>Meme Estetiği:</strong></p>
+<p>En popüler ikinci estetik türü ise <a href="http://www.hurriyet.com.tr/kelebek/dik-memenin-altin-olcusu-19-21-cm-38770396"><strong>kadın  memesi</strong></a> estetikleri oluyor. Göğüslerin küçültülmesi işlemi ise bu konuda en çok tercih edilen işlemdir. Genellikle göğüslerin toparlanması ve küçültülmesi işlemini kapsayan bu uygulama, daha çok ileriki yaşlarda kadınların tercihi arasında sayılıyor.</p>
+<p><a href="assets/cf5801c68278c03a073bf971e1c7c679.jpg"><img class="aligncenter size-full wp-image-32" src="assets/cf5801c68278c03a073bf971e1c7c679.jpg" alt="meme estetiği amelyiatı" width="550" height="206" srcset="assets/cf5801c68278c03a073bf971e1c7c679.jpg 550w, http://www.factoryfilms.net/wp-content/uploads/2017/03/meme-estetiği-300x112.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><strong>Burun Estetiği:</strong></p>
+<p>Burun estetiği ameliyatları, burnun yapısının güzelleştirmek için yapılan estetik ameliyat türüdür. İstatistiklere göre Türkiye’de en çok yapılan estetik türü, burun estetiğidir. Bu estetik türünü ise öncelikle kadınlar, daha sonrada erkekler tercih ediyor. Burun yapısını küçültmek veya şekillendirmek için yapılan bu estetik türü, 2000’li yılların başından itibaren en çok tercih edilen estetik türüdür. Daha fazla bilgi için aşağıdaki yazıyı okuyabilirsiniz.</p>
+<p><a href="http://www.sondakika35.com/burun-estetigi-hakkinda-bilinmesi-gerekenler/" target="_blank" rel="noopener">http://www.sondakika35.com/burun-estetigi-hakkinda-bilinmesi-gerekenler/</a></p>
+<p><strong>Liposuction:</strong></p>
+<p>Vücudun arzu edilen şekilde toparlanmasını sağlayan bu uygulamalar kadınlar tarafından en çok tercih edilen bir uygulamadır. Fazla kilolarından şikayetçi olan kadınlar, bu tekniği kullanarak iyi sonuçlar alabilirler. Liposuction Türkiye’de en çok tercih edilen 3. estetik ameliyat türü olarak biliniyor.</p>
+<p><strong>Karın Germe Ameliyatı:</strong></p>
+<p>Bu ameliyat türlerinden sonra ise <a href="http://estetiks.net/estetik-ameliyatlar/vucut-estetigi/karin-germe-izmir/">karın germe ameliyatı</a>, en çok tercih edilen türler arasında geliyor. Özellikle kadınların doğum sonrası derdine deva olan bu estetik şekli, son yıllarda daha çok yapılmaya başlanmıştır. Kilo sonrası yağların alınması işlemi bu şekilde yapılırken, kadınlar birkaç beden daha zayıf gözükebiliyorlar. İşte bu tarz ameliyatların basit yapılan bir işlem olması nedeniyle, kadınların son yıllardaki gözdesi oluyor.</p>
+<p><strong>Kulak Estetiği:</strong></p>
+<p>Doğuştan gelen bozuklukların çözülmesi adına kullanılan kulak estetiği, en popüler 5. Ameliyat arasında yer alıyor. Bu estetik ameliyat tarzıyla kepçe kulak ameliyatı gibi sorunlar çözülebiliyor. Ayrıca kulaklardaki orantısızlıklar, büyük kulaklar gibi sorunlarda bu ameliyat türüyle ortadan kalkabiliyor. Bu ameliyat türü ise daha çok erkekler tarafından tercih ediliyor.</p>
+<p><a href="assets/8f458124199dc7568e1e8e8487a903d4.jpg"><img class="aligncenter size-full wp-image-33" src="assets/8f458124199dc7568e1e8e8487a903d4.jpg" alt="kulak estetiği ameliyatı" width="550" height="288" srcset="assets/8f458124199dc7568e1e8e8487a903d4.jpg 550w, http://www.factoryfilms.net/wp-content/uploads/2017/03/kulak-estetiği-300x157.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p><strong>Göz Çevresi Estetiği:</strong></p>
+<p>Popüler olan diğer uygulamalar arasında ise <strong>göz çevresi</strong> estetikleri geliyor. Genel olarak düşük göz kusurları gibi sorunlar, bu ameliyat türüyle çözülebiliyor. Ayrıca göz torbaları ve gevşemiş göz torbaları gibi bölümlerde bu estetik türüyle çözülebiliyor.</p>
+<p><strong>Kalça Şekillendirme Ameliyatı:</strong></p>
+<p>Kalçalar için yapılan estetik türü ise, diğer popüler estetik türü arasında sayılır. Bu ameliyatın amacı ise, kalçalara yeni bir görüntü vererek, şekillendirilmelerini sağlamaktır. Ayrıca kalça kaldırılma işlemi de bu estetik türüyle yapılmaktadır.</p>
+	</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+					<div class="comments-link">
+				<a href="http://www.factoryfilms.net/yaptirilan-en-populer-estetik-ameliyatlar/#respond"><span class="leave-reply">Leave a comment</span></a>			</div><!-- .comments-link -->
+		
+			</footer><!-- .entry-meta -->
+</article><!-- #post -->
+							
+<article id="post-27" class="post-27 post type-post status-publish format-standard hentry category-arama-motoru-optimizasyonu tag-izmir tag-seo-firmasi">
+	<header class="entry-header">
+		
+				<h1 class="entry-title">
+			<a href="http://www.factoryfilms.net/izmirin-en-iyi-seo-firmalari/" rel="bookmark">İzmir’in En İyi 3 SEO Firması Hangisidir?</a>
+		</h1>
+		
+		<div class="entry-meta">
+			<span class="date"><a href="http://www.factoryfilms.net/izmirin-en-iyi-seo-firmalari/" title="Permalink to İzmir’in En İyi 3 SEO Firması Hangisidir?" rel="bookmark"><time class="entry-date" datetime="2017-03-16T08:29:41+00:00">March 16, 2017</time></a></span><span class="categories-links"><a href="http://www.factoryfilms.net/category/arama-motoru-optimizasyonu/" rel="category tag">Arama Motoru Optimizasyonu</a></span><span class="tags-links"><a href="http://www.factoryfilms.net/tag/izmir/" rel="tag">izmir</a>, <a href="http://www.factoryfilms.net/tag/seo-firmasi/" rel="tag">seo firması</a></span><span class="author vcard"><a class="url fn n" href="http://www.factoryfilms.net/author/admin/" title="View all posts by admin" rel="author">admin</a></span>					</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<p>SEO kelimesi Search Engine Optimization kelimesinin kısaltılmış şeklidir. Bu kelime ise arama motorları için uyumlu sitelerin yapılmasını ifade eder.</p>
+<p>Günümüzde arama motorları ilk girilen siteler arasındadır. Bu siteler her yaştan insan grubunun mutlaka bilgi danışmak için girdiği sitelerdendir. Özellikle başta Google, Yandex ve <a href="https://www.bing.com" target="_blank" rel="noopener"><strong>Bing gibi arama motorları</strong></a>na insanlar günlük olarak muhakkak girerler. Durumun böyle oluşu arama motorlarının ne denli büyük bir reklam ve ticaret alanı olduğunu bizlere anlatmaktadır. SEO çalışmaları da bu arama motorlarına yönelik yapılan bir işlem olup, sitelerin daha üst sıralara çıkmasını sağlar.</p>
+<p>Özgün içerik üretiminin yanında içeriklerin SEO uyumlu olup olmadığı da önemli bir konudur. Daha fazla ziyaretçinin çekilmesi için mutlaka buna dikkat edilmelidir. Ancak bu şekilde sitenin internette popüler bir yerde olması sağlanabilir. Bu hizmeti almak sitelerin daha fazla ziyaretçiye ulaşmasını sağlayacaktır. Bu yüzden önemlidir.</p>
+<p>Bu alanda bazı uzman firmalar hizmet verirler. SEO çalışması verilen bu hizmetle firmaların kısa sürelerde arama motorlarının üst sıralarda yer alması sağlanır. İzmir’de bu alanda hizmet veren SEO firmaları bulunmaktadır.</p>
+<p><a href="assets/605813c177220e578d0ffb3c96908f9a.jpg"><img class="aligncenter size-full wp-image-28" src="assets/605813c177220e578d0ffb3c96908f9a.jpg" alt="seo çalışması yapan uzman" width="550" height="471" srcset="assets/605813c177220e578d0ffb3c96908f9a.jpg 550w, http://www.factoryfilms.net/wp-content/uploads/2017/03/seo-300x257.jpg 300w" sizes="(max-width: 550px) 100vw, 550px" /></a></p>
+<p>Bu firmalar çalışmalarıyla takdirleri toplayan ve sektörün en iyisi olarak sayılan firmalardandır. Bunlar ise şu şekilde sıralanır:</p>
+<p><strong>Seoizmir.net</strong></p>
+<p>İyi bir SEO firması arıyorsanız tercihiniz Seo izmir’den yana olmalıdır. Markanın imajını arttırmak, sitenin gücünü katlamak ve daha çok ziyaretçi çekmek için Seoizmir.net çalışmalar yürütür. Satışları arttırmaya ve daha aktif bir website yaratmak için tercihiniz Seoizmir.net’den yana olmalıdır. Ayrıca siteler için her türlü hizmetin alınması bu adresle mümkün olur. İyi bir site oluşturmak ve popüler bir yerde olmak için tercih bu adresi tercih edebilirsiniz. <a href="http://seoizmir.net/" target="_blank" rel="noopener"><strong>Seoizmir.net</strong></a> İzmir SEO ajansına danışmak ve hizmetler hakkında bilgi almak için, site üzerinde bulunan online formu doldurmanız yeterli olacaktır. Öte yandan 0850 303 73 67 numarasından telefon yoluyla da ulaşabilirsiniz.</p>
+<p><strong>Fikir360.com</strong></p>
+<p>İzmir’de SEO hizmeti arayanlar için Fikir360.com önerilen diğer yerler arasındadır. SEO çalışmalarında oldukça tecrübeli olan Fikir360 tüm SEO hizmetleriniz için 7/24 ulaşabileceğiniz bir adres olacaktır. Hizmetleri arasında, SEO hizmeti, internet reklamcılığı, web tasarım, grafik tasarım, E-Ticaret gibi konularda bulunur. Ayrıca pek çok ünlü ve bilinen siteye de bu hizmeti vermiştir. Referansları arasında çok sayıda büyük markayı da görmek mümkün olacaktır. İletişim için Fikir 360 sitesinden veya telefonu olan 0232 440 0 535 numarasını aramanız gerekir.</p>
+<p><strong>Mustafamutlu.name.tr</strong></p>
+<p>Mustafa Mutlu SEO alanında tecrübesi ve bilgisi bulunan bir SEO uzmanıdır. 2010 yılında kendi adını verdiği siteyle SEO hizmeti vermeye başlamıştır. Bu hizmetle web sitelerinin arama motorlarında daha iyi bir halde olmasını sağlar. Mustafamutlu.name.tr sitesinden verilen diğer hizmetler ise şu şekildedir: mobil pazarlama, <a href="http://www.marketingtr.net/tr/blog/detay/Sosyal-Medya-Pazarlama-Yapilacaklar-Listesi/6/78/0">sosyal medya pazarlama</a>,  <a href="https://pazarlamaturkiye.com/pazarlama/pazarlama-nedir/">pazarlama</a> vs. şeklindedir. Bir siteyi alakadar edebilecek her türlü işlemin bu adres üzerinden yapılması mümkündür. Böylelikle bir sitenin internet için daha iyi konumlarda olması sağlanabilir. Sitenizi İzmir’deki en iyi SEO firmaları arasında gösterilen mustafamutlu.name.tr’ye emanet edebilirsiniz. Bunun için site üzerinde bulunan online formu doldurabilir veya 0232 484 44 22 numarasını arayabilirsiniz.</p>
+	</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+					<div class="comments-link">
+				<a href="http://www.factoryfilms.net/izmirin-en-iyi-seo-firmalari/#respond"><span class="leave-reply">Leave a comment</span></a>			</div><!-- .comments-link -->
+		
+			</footer><!-- .entry-meta -->
+</article><!-- #post -->
+							
+<article id="post-24" class="post-24 post type-post status-publish format-standard hentry category-estetik tag-burun-estetigi tag-estetik-doktorlari tag-izmir">
+	<header class="entry-header">
+		
+				<h1 class="entry-title">
+			<a href="http://www.factoryfilms.net/izmirin-en-iyi-5-burun-estetigi-doktoru/" rel="bookmark">İzmir’in En İyi 5 Burun Estetiği Doktoru</a>
+		</h1>
+		
+		<div class="entry-meta">
+			<span class="date"><a href="http://www.factoryfilms.net/izmirin-en-iyi-5-burun-estetigi-doktoru/" title="Permalink to İzmir’in En İyi 5 Burun Estetiği Doktoru" rel="bookmark"><time class="entry-date" datetime="2017-03-11T12:23:49+00:00">March 11, 2017</time></a></span><span class="categories-links"><a href="http://www.factoryfilms.net/category/estetik/" rel="category tag">Estetik</a></span><span class="tags-links"><a href="http://www.factoryfilms.net/tag/burun-estetigi/" rel="tag">burun estetiği</a>, <a href="http://www.factoryfilms.net/tag/estetik-doktorlari/" rel="tag">estetik doktorları</a>, <a href="http://www.factoryfilms.net/tag/izmir/" rel="tag">izmir</a></span><span class="author vcard"><a class="url fn n" href="http://www.factoryfilms.net/author/admin/" title="View all posts by admin" rel="author">admin</a></span>					</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<p>Burun estetiği insanların fiziksel özelliklerinin yeniden şekillendirilmesini sağlayacak olan bir operasyondur. Burun estetiği yöntemiyle burun yapısının estetik bir görünüme getirilmesi hali mümkün olmaktadır. Günümüzde ise hem uzmanların bilgisi, hem de gelişen teknolojiyle beraber burun estetikleri oldukça basit bir şekilde tamamlanmaktadır. Durumun böyle oluşu ise Rinoplasti tekniğine daha fazla insanın başvurmasını sağlayacak şeylerden biri olmuştur. Çünkü burun yapısındaki bozuklukların kalıcı olarak çözülmesi, yalnızca bu yöntemin kullanılmasıyla tamamlanır. Bu yüzden ülkemizde pek çok doktor, bu yöntemi uygulamaktadır. Türkiye’de en çok yapılan estetik türünün ise burun estetiği olduğu bilinen şeyler arasındadır. Gerek ülke genelinde, gerekse illerde bu işi yapan pek çok doktor bulunur. <strong>Burun estetiği fiyatları</strong> da burun estetiği cerrahlarına göre değişmektedir. İzmir’de ise ilin en iyileri olarak bilinen bazı doktorlar bulunmaktadır.</p>
+<h2>Prof. Dr. Ufuk Bilkay:</h2>
+<p>İzmir’de Konak’ta hizmet vermekte olan Prof. Dr. Ufuk Bilkay İzmir’de bulunan en iyi burun estetiği doktorları arasında sayılmaktadır. 1984 yılında <a href="http://egehastane.ege.edu.tr/index.php?option=com_sobi2&amp;sobi2Task=sobi2Details&amp;catid=30&amp;sobi2Id=446&amp;Itemid=216" target="_blank" rel="noopener"><strong>Ege Üniversitesi Tıp Fakültesi</strong></a>ne başlayarak sektöre adımını atmış oldu. Halen İzmir’de bulunan estetik cerrahi merkeziyle hizmetlerine devam etmektedir. Hizmetleri arasında sayılan burun estetiği yöntemiyle İzmir’de en başarılı bulunan doktorların arasında gelmektedir. Kendi muayenehanesinde hastalarını kabul etmekte olan Ufuk Bilkay bu muayenehanede 11:00-19:00 saatleri arasında hizmet vermektedir. Ulaşmak isteyenlerin ise kendi sitesinden randevu alımıyla veya telefon yoluyla randevu almaları gerekmektedir.</p>
+<p><a href="assets/78631df43a13fc59f9f6506c8d320f08.jpg"><img class="aligncenter size-full wp-image-25" src="assets/78631df43a13fc59f9f6506c8d320f08.jpg" alt="estetikli burun yaptırmak" width="500" height="289" srcset="assets/78631df43a13fc59f9f6506c8d320f08.jpg 500w, http://www.factoryfilms.net/wp-content/uploads/2017/03/burun-estetiği-300x173.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
+<h2>Prof. Dr. Eray Copcu:</h2>
+<p>Prof. Dr Eray Copcu 1992 yılında Ege Üniversitesinden mezun olmuştur. 1999 yılına gelindiğinde ise yine izmir’de plastik cerrahi alanında uzmanlık eğitimi almıştır. Ayrıca uzun dönemler boyunca Adnan Menderes Üniversitesinde doçentlik ve profesörlükte yapmıştır. İzmir’de burun estetiği hizmeti veren doktor, il çapında başarılı bulunan doktorlardan biri haline gelmiştir.</p>
+<h2>Op. Dr. Çağhan Baytekin:</h2>
+<p>Op.Dr. Çağhan Baytekin Hacettepe Üniversitesinden mezun olmuştur. Ayrıca İzmir Dokuz Eylül üniversitesinde uzmanlık eğitimini tamamlamıştır. Konak’ta hizmet vermekte olan Çağhan Baytekin, ayrıca burun estetiği ile de başarılı sonuçlar ortaya çıkardığı bilinen bir doktordur. Kendi kliğini bulunan doktor, hastalarını bu şekilde kabul etmektedir. Sektördeki uzun yıllar boyunca olan deneyimi ile tanınan doktor,  clinic baytekin ile hastalarına hizmet vermektedir. Doktorun hizmetleri arasında ise estetik operasyonlara dair tüm operasyonlar bulunmaktadır. Özellikle burun estetiği olmak üzere, yüz estetiği, vücut estetiği, lazer tedavileri, saç sorunları, el ve mikro cerrahi gibi hizmetleri de vermektedir.</p>
+<h2>Doç. Dr. Saime İrkören:</h2>
+<p>Saime İrkören Dokuz Eylül Üniversitesinden mezun olmuştur. Hastalarına kendi muayenehanesi ile hizmet vermektedir. Bayraklı’da bulunan bu muayenehane ile <strong>burun estetiği yöntemi</strong>ni de gerçekleştirir. Yine alanında İzmir’in en popüler ve başarılı doktorları arasında gösterilmektedir. Ayrıca Doç. Dr. Saime İrkören bunun dışında diğer cerrahi işlemleri de muayenehanesinde gerçekleştirmektedir.</p>
+<h2>Op. Dr. Ulvi Güner:</h2>
+<p>Op.Dr. Ulvi Güner 1991 yılında Tıp fakültesinden mezun olmuştur. Ege Üniversitesini bitiren Güner, <a href="https://tr.wikipedia.org/wiki/Plastik,_rekonstrüktif_ve_estetik_cerrahi" target="_blank" rel="noopener"><strong>plastik ve estetik rekonstrüktif cerrahi</strong></a> alanında hizmet vermektedir. Aynı zamanda bu alanda da uzmanlık eğitimini tamamlamış durumdadır. Op. Dr. Ulvi Güner’in günümüzde Alsancak Konak’ta muayenehanesi bulunmaktadır. Bu muayenehanede hastalarını kabul eden cerrah, estetik adına her türlü konuda hastalarına burada yardımcı olur.</p>
+	</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+					<div class="comments-link">
+				<a href="http://www.factoryfilms.net/izmirin-en-iyi-5-burun-estetigi-doktoru/#respond"><span class="leave-reply">Leave a comment</span></a>			</div><!-- .comments-link -->
+		
+			</footer><!-- .entry-meta -->
+</article><!-- #post -->
+							
+<article id="post-20" class="post-20 post type-post status-publish format-standard hentry category-agiz-ve-dis-sagligi tag-dis tag-implant-tedavisi">
+	<header class="entry-header">
+		
+				<h1 class="entry-title">
+			<a href="http://www.factoryfilms.net/eksik-dislerin-yerine-implant-tedavisi/" rel="bookmark">Eksik Dişlerin Yerine İmplant Tedavisi</a>
+		</h1>
+		
+		<div class="entry-meta">
+			<span class="date"><a href="http://www.factoryfilms.net/eksik-dislerin-yerine-implant-tedavisi/" title="Permalink to Eksik Dişlerin Yerine İmplant Tedavisi" rel="bookmark"><time class="entry-date" datetime="2017-03-01T12:58:38+00:00">March 1, 2017</time></a></span><span class="categories-links"><a href="http://www.factoryfilms.net/category/agiz-ve-dis-sagligi/" rel="category tag">Ağız ve Diş Sağlığı</a></span><span class="tags-links"><a href="http://www.factoryfilms.net/tag/dis/" rel="tag">diş</a>, <a href="http://www.factoryfilms.net/tag/implant-tedavisi/" rel="tag">implant tedavisi</a></span><span class="author vcard"><a class="url fn n" href="http://www.factoryfilms.net/author/admin/" title="View all posts by admin" rel="author">admin</a></span>					</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<h2 style="text-align: center;">Diş İmplantı</h2>
+<p>Geçmişte eksik dişlerin yerine köprü yaptırılıyordu. Ancak özellikle 2011 yılının son dönemlerinden itibaren İmplant tedavisinin yaygınlaşmasıyla birlikte diş hekimleri de İmplat Tedavisini tavsiye ettikleri görüldü. Peki ama Diş İmplantı nedir?</p>
+<p>İmplant bir tür yapay diş köküdür. Ağızda eksik olan dişlerin yerine genel olarak titanyum veya titanyum bileşiklerinden elde edilen diş implant genel olarak vücut dokuları ile etkileşime geçmediğinden ve dışarıdan gelecek kuvvet ve baskıya karşı dirençli olduğundan dolayı tercih edilmektedir.</p>
+<p>Diş İmplatı, daha önce çeşitli nedenlerden dolayı kaybedilmiş olan dişlerin oluşturduğu boşluklara yerleştirilmektedir. Ayrıca eğer enfeksiyon riski yoksa yeni çekilen bir diş yuvasına <strong>implant merkezi</strong> olan adreslerde derhal yerleştirilebilir. Diş İmplantının yerleştirilebilmesi için kemiğin uygun bir durumda olması gerekir. Eğer kemik Diş İmplantı takılmasına uygun değilse öncelikle kemik oluşturmaya yönelik işlemler yapılır.</p>
+<p>Diş hekimleri, kemik yapısı uygun olan bireylerin kaybetmiş oldukları dişlerin yerine implant yerleştirilmesinden yanadırlar. Ancak bazı durumlarda iki implant belirli aralıklarla yerleştirilerek köprü protezi yapılabilmektedir. Bu işlem ancak diş hekiminin yapacağı radyografik ve klinik muayenesinden sonra gerçekleştirilebilir.</p>
+<p><a href="assets/6d0b82260be2dd546769470dea1b63f2.jpg"><img class="aligncenter size-full wp-image-21" src="assets/6d0b82260be2dd546769470dea1b63f2.jpg" alt="eksik yerine diş implantı" width="500" height="333" srcset="assets/6d0b82260be2dd546769470dea1b63f2.jpg 500w, http://www.factoryfilms.net/wp-content/uploads/2017/03/implant-diş-300x200.jpg 300w" sizes="(max-width: 500px) 100vw, 500px" /></a></p>
+<p>Eksik olan dişlerin yerine implant uygulanması bazı istisnai durumlar dışında her hastaya uygulanabilen başarılı bir tedavi yöntemidir. İmplant uygulanabilmesi için öncelikle bireyin ‘’Sistemik Sağlık Durumu’’ göz önünde bulundurulur ardından<strong> çene kemiği</strong>nin istenilen kalınlıkta ve yükseklikte olup olmadığı kontrol edildikten sonra Diş İmplantı takılabilir. Bazı kişilerde genetik olarak aşırı derecede ince veya kalın, az veya çok kemik olabilir veya diş etlerinde iltihap, kemik esrimesi gibi rahatsızlıklar olabilir. Bu tarz vakalarda İmplant yerleşimi bekletilebilmekte veya hiç yapılmayabilir. Burada yapılması gereken işlem diş hekiminin muayenesinin ardından kararlaştırılır.</p>
+<p>Diş İmplantı uygulamalarının ne kadar sürdüğü hakkında net bir süre söylemek doğru değildir. Çünkü bu uygulamalar cerrahi işlemlerdirler ve uygulanması düşünülen implant sayısına ve kişinin kemik yapısına göre ek işlemler yapılması durumunda süre uzayabilir. Burada asıl önemli olan işlemin ne kadar süre sürdüğü değil, takılacak olan diş implantının kişiye uzun süre hizmet edebilmesidir.</p>
+<p><a href="https://www.dentram.com/implant-tedavisi/">Diş İmplantları</a> oldukça kaliteli malzemelerden üretilmektedirler. Ancak diş implantlarının kullanım süresi de hastaların diş ve ağız bakımlarına gösterdikleri özenle orantılı olarak değişmektedir. Eğer hasta dişlerini fırçalıyor ve her 6 ayda bir diş hekimine giderek gerekli temizliği yaptırıyorsa uzun yıllar boyunca diş implantını kullanabilir. Bu konuda uzman diş hekimlerinin düşüncesi şu şekilde ‘’Temiz ve steril bir ortamda tecrübeli hekimler tarafından takılmış ve üst yapısı doğru bir şekilde planlanmış olan implant protezinin ömür boyu kullanılmaması için hiçbir engel yoktur’’</p>
+<p>Diş İmplantı yerleştirildikten sonra ilk birkaç gün boyunca sıcak yiyecek ve içecekler tüketilmemelidir. İmplantın yerleştirilmiş olduğu bölge tamamen iyileşene kadar genellikle yumuşak ve besleyici gıdalar tüketmelisiniz. Yara tamamen iyileştikten sonra ise yeme içme konusunda herhangi bir kısıtlama söz konusu değildir.</p>
+<p>Dişlerinde eksik ve boşluk olan herkes Diş İmplantı uygulayabilir. Ancak bunun için kişinin kemik gelişiminin tamamlanmış olması gerekir. Bu gelişimin tamamlanması yaklaşık olarak 18 yaş dönemini ifade ediyor. Bunun dışında diş implantı takılmasında herhangi bir kısıtlama veya yaş sınırı söz konusu değildir.</p>
+<p><strong>Kaynakça</strong></p>
+<p><a href="http://www.merhabahaber.com/dis-implantinin-avantajlari-nelerdir-886619h.htm" target="_blank" rel="noopener">Diş İmplantının Avantajları Nelerdir?</a></p>
+<p>&nbsp;</p>
+<p>&nbsp;</p>
+	</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+					<div class="comments-link">
+				<a href="http://www.factoryfilms.net/eksik-dislerin-yerine-implant-tedavisi/#respond"><span class="leave-reply">Leave a comment</span></a>			</div><!-- .comments-link -->
+		
+			</footer><!-- .entry-meta -->
+</article><!-- #post -->
+							
+<article id="post-16" class="post-16 post type-post status-publish format-standard hentry category-uncategorized">
+	<header class="entry-header">
+		
+				<h1 class="entry-title">
+			<a href="http://www.factoryfilms.net/avukatlarin-meslekteki-riskleri/" rel="bookmark">Avukatların Meslekteki Riskleri</a>
+		</h1>
+		
+		<div class="entry-meta">
+			<span class="date"><a href="http://www.factoryfilms.net/avukatlarin-meslekteki-riskleri/" title="Permalink to Avukatların Meslekteki Riskleri" rel="bookmark"><time class="entry-date" datetime="2016-12-01T19:24:27+00:00">December 1, 2016</time></a></span><span class="categories-links"><a href="http://www.factoryfilms.net/category/uncategorized/" rel="category tag">Uncategorized</a></span><span class="author vcard"><a class="url fn n" href="http://www.factoryfilms.net/author/admin/" title="View all posts by admin" rel="author">admin</a></span>					</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+		<div class="entry-content">
+		<p>Avukatlık, özellikle serbest çalışanlar da ciddi anlamda gelir elde edebilecekleri bir meslektir. Eskiden olduğu gibi, toplum da hala saygın bir meslek olma özelliğini korumakta ve mesleğe olan ilgi de oldukça yüksektir.</p>
+<p>Mesleğini yaparken, avukatların karşılaşabileceği en büyük risk, üzerine aldığı işi yerine getirirken, müvekkilinin veya 3. şahısların zarar görmesine sebebiyet vermesidir. Çünkü vereceği zarar, avukatın tazminat sorumluluğunun almasını gerektirecektir. Bu konuda gerekli tedbirleri almayan bir avukat, senelerce kazanıp biriktirdiklerini kaybetmesinin yanında cezai anlamda da eyleminin sorumluluğunu taşımak zorundadır.</p>
+<p><a href="http://www.hukukmedeniyeti.org/muvekkil/nedir/">Müvekkil </a>işi avukata verdiğinde işin en hızlı şekilde, eksiksiz olarak tamamlanmasını doğal olarak beklemektedir. Fakat işler her zaman planladığı gibi de gitmeyebilmektedir. Özellikle kendini yenilemeyen, mevzuat değişikliklerini takip etmeyen avukatların hata yapmaları daha yüksektir.</p>
+<p style="text-align: center;"><iframe src="https://www.youtube.com/embed/cM5Ax-aQb1U" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>Bazı zamanlar da bir davanın kaybedilmesinde icra takibine bir konu alınacağında, avukatın ihmali nedeni ile müvekkili ciddi zararlara uğrayabilmektedir. Buna benzer durumlar da avukat ve müvekkil ilişkisi bozulur. Müvekkil avukat hakkında gecikmeden karalama kampanyasını da başlatmış olur. Bununla da kalmayarak uğradığı zararı avukattan talep edebilmektedir.</p>
+<p>Avukatların, sorumluluk doğuran meslek hatalarının nedenlerinden biri de hukukun çok geniş bir dal olmasıdır. Bir avukatın tüm hukuk dallarına hakim olmasının mümkün olmaması ve tam anlamıyla vakıf olunmayan bir hukuki ihtilafa taraf olan avukat, aldığı işin altından kalkamaması ve hata yaparak müvekkile hak kaybı yaşatır.</p>
+<p>Bazı durumlar da müvekkili ile ilgili işlemleri yazılı olarak yapmayan, talimatları yazılı olarak almayan bazı avukatlar, daha sonra ki aşamalar da sorun çıktığı vakit müvekkiller ben böyle bir şey demedim diyerek de konunun içerisinden çıkmaya çalışabilir.</p>
+<p>Bir avukatın işine tam anlamıyla konsantre olması kendisinden beklenemez. Tazminat sorumluluğunun önüne geçmenin en etkili yolu, avukatlar için sorumluluk sigortası yapılmasıdır.</p>
+<p>Bir avukatın, meslekte yapacağı hatalardan görebileceği zararları, mesleki sorumluluk sigortasıyla beraber güvence altına alarak bertaraf etmesi, cüzi bir maliyet ile üzerindeki riziko yükünü büyük oranda azaltacak ve her avukatın meslekte yaşaması olası olacağından konsantre olmasının da önüne geçilecektir.</p>
+	</div><!-- .entry-content -->
+	
+	<footer class="entry-meta">
+					<div class="comments-link">
+				<a href="http://www.factoryfilms.net/avukatlarin-meslekteki-riskleri/#respond"><span class="leave-reply">Leave a comment</span></a>			</div><!-- .comments-link -->
+		
+			</footer><!-- .entry-meta -->
+</article><!-- #post -->
+			
+			
+		
+		</div><!-- #content -->
+	</div><!-- #primary -->
+
+
+		</div><!-- #main -->
+		<footer id="colophon" class="site-footer" role="contentinfo">
+				<div id="secondary" class="sidebar-container" role="complementary">
+		<div class="widget-area">
+			<aside id="search-2" class="widget widget_search"><form role="search" method="get" class="search-form" action="http://www.factoryfilms.net/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form></aside>		<aside id="recent-posts-2" class="widget widget_recent_entries">		<h3 class="widget-title">Recent Posts</h3>		<ul>
+											<li>
+					<a href="http://www.factoryfilms.net/kopek-bakiminda-dikkat-edilecekler/">Köpek Bakımında Dikkat Edilecekler</a>
+									</li>
+											<li>
+					<a href="http://www.factoryfilms.net/turkiyede-gunes-enerjisi-kullanimi-ne-kadardir/">Türkiye’de Güneş Enerjisi Kullanımı Ne Kadardır?</a>
+									</li>
+											<li>
+					<a href="http://www.factoryfilms.net/tup-bebek-tedavisinde-erkek-ve-kadin-kisirligi-yontemleri/">Tüp Bebek Tedavisinde Erkek ve Kadın Kısırlığı Yöntemleri</a>
+									</li>
+											<li>
+					<a href="http://www.factoryfilms.net/turkiyede-temizlik-sirketlerinin-kullanim-orani/">Türkiye&#8217;de Temizlik Şirketlerinin Kullanım Oranı</a>
+									</li>
+											<li>
+					<a href="http://www.factoryfilms.net/yaptirilan-en-populer-estetik-ameliyatlar/">Yaptırılan En Popüler Estetik Ameliyatlar</a>
+									</li>
+					</ul>
+		</aside><aside id="recent-comments-2" class="widget widget_recent_comments"><h3 class="widget-title">Recent Comments</h3><ul id="recentcomments"></ul></aside><aside id="archives-2" class="widget widget_archive"><h3 class="widget-title">Archives</h3>		<ul>
+				<li><a href='http://www.factoryfilms.net/2018/09/'>September 2018</a></li>
+	<li><a href='http://www.factoryfilms.net/2017/07/'>July 2017</a></li>
+	<li><a href='http://www.factoryfilms.net/2017/06/'>June 2017</a></li>
+	<li><a href='http://www.factoryfilms.net/2017/03/'>March 2017</a></li>
+	<li><a href='http://www.factoryfilms.net/2016/12/'>December 2016</a></li>
+		</ul>
+			</aside><aside id="categories-2" class="widget widget_categories"><h3 class="widget-title">Categories</h3>		<ul>
+				<li class="cat-item cat-item-2"><a href="http://www.factoryfilms.net/category/agiz-ve-dis-sagligi/">Ağız ve Diş Sağlığı</a>
+</li>
+	<li class="cat-item cat-item-9"><a href="http://www.factoryfilms.net/category/arama-motoru-optimizasyonu/">Arama Motoru Optimizasyonu</a>
+</li>
+	<li class="cat-item cat-item-5"><a href="http://www.factoryfilms.net/category/estetik/">Estetik</a>
+</li>
+	<li class="cat-item cat-item-19"><a href="http://www.factoryfilms.net/category/hamilelik-ve-tup-bebek/">Hamilelik ve Tüp Bebek</a>
+</li>
+	<li class="cat-item cat-item-13"><a href="http://www.factoryfilms.net/category/temizlik-yapmak/">Temizlik Yapmak</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://www.factoryfilms.net/category/uncategorized/">Uncategorized</a>
+</li>
+	<li class="cat-item cat-item-20"><a href="http://www.factoryfilms.net/category/yenilenebilir-enerji/">Yenilenebilir Enerji</a>
+</li>
+		</ul>
+			</aside><aside id="meta-2" class="widget widget_meta"><h3 class="widget-title">Meta</h3>			<ul>
+						<li><a rel="nofollow" href="http://www.factoryfilms.net/wp-login.php">Log in</a></li>
+			<li><a href="http://www.factoryfilms.net/feed/">Entries feed</a></li>
+			<li><a href="http://www.factoryfilms.net/comments/feed/">Comments feed</a></li>
+			<li><a href="https://wordpress.org/">WordPress.org</a></li>			</ul>
+			</aside>		</div><!-- .widget-area -->
+	</div><!-- #secondary -->
+
+			<div class="site-info">
+								<a href="https://wordpress.org/">Proudly powered by WordPress</a>
+			</div><!-- .site-info -->
+		</footer><!-- #colophon -->
+	</div><!-- #page -->
+
+	<script type='text/javascript' src='assets/b835be542397ed6dc6e75feb9cf40994.0'></script>
+<script type='text/javascript' src='assets/b0c85669e36be29ceaf5748be7dfb444.2'></script>
+<script type='text/javascript' src='assets/9567bd989efd4ad71c451a4e2c2aba41.2b'></script>
+<script type='text/javascript' src='assets/612c2b7b578d05d1272b0b2bc17881a8.js'></script>
+<script type='text/javascript' src='assets/200dd5b1f15d6dc1e6d4cfa13536a0a6.2'></script>
+
+<div style="position:fixed;top:0;left:0;width:100%;height:45px;z-index:2147483647;background-color:rgba(253,147,38,0.90) !important;color:black !important;text-align:right !important;font:normal 12px/45px Arial, sans-serif !important;border-radius:0 !important;margin:0 !important;max-width:100% !important;background-repeat: no-repeat !important;background-position: 15px center !important;
+background-image: url(data:image/png;base64,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);
+"><span style="padding-right:15px;">You are viewing a snapshot of <a style='font-weight:bold !important; color:white !important' href='http://www.factoryfilms.net/pop.php?file=FuyijaMiyagi_AnkleInjury.mov'>http://www.factoryfilms.net/pop.php?file=FuyijaMiyagi_AnkleInjury.mov</a> created on 2020/08/11</span></div></body>
+</html>

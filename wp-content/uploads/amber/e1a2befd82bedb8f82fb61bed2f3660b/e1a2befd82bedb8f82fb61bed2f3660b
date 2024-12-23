@@ -1,0 +1,968 @@
+<title>Peter Selinger: Potrace</title>
+
+<body bgcolor=#ffffff>
+
+<img src="assets/450cf0798a3f7b034d8ab0ed8c3e2dfb.png"
+  align=right alt="" width=127 height=138 border=0>
+<a href="https://www.mathstat.dal.ca/~selinger/">
+ <img src="assets/15fdbf6ae8c11d5aa17ebe248bdd6962.gif"
+  align=left alt="[home]" width=45 height=53 border=0>
+</a>
+<br>
+<center>
+<table cellpadding=0 cellspacing=0 border=0><tr><td>
+<center><h1>Potrace</h1></center>
+Transforming bitmaps into vector graphics
+</td></tr></table>
+</center>
+<br clear=left>
+<hr width=100%>
+
+<h3>Contents</h3>
+
+<table border=0><tr><td width=20></td><td>
+
+<ul>
+<li><a href="#description">Description</a>
+<li><a href="#example">Example</a>
+<li><a href="#frequently">Frequently asked questions</a>
+<li><a href="#news">News</a>
+<li><a href="#downloading">Downloading and installing</a>
+<li><a href="#usage">Usage</a>
+<li><a href="#technical">Technical documentation</a>
+<li><a href="#support">Support and reporting bugs</a>
+<li><a href="#dual">Dual licensing program</a>
+<li><a href="#other">Related software and services</a>
+<li><a href="#projects">Projects using Potrace</a>
+<li><a href="#articles">Articles about Potrace</a>
+<li><a href="#ports">Ports to other programming languages</a>
+<li><a href="#version">Version</a>
+<li><a href="#author">Author</a>
+<li><a href="#logo">Logo</a>
+<li><a href="#license">License</a>
+<li><a href="#trademarks">Trademarks</a>
+</ul>
+
+</td></tr></table>
+
+<a name=description><h3>Description</h3></a>
+
+<table border=0><tr><td width=20></td><td>
+
+ <b>Potrace</b>(TM) is a tool for tracing a bitmap, which means,
+ transforming a bitmap into a smooth, scalable image.  The input is a
+ bitmap (PBM, PGM, PPM, or BMP format), and the output is one of
+ several vector file formats. A typical use is to create SVG or PDF
+ files from scanned data, such as company or university logos,
+ handwritten notes, etc.  The resulting image is not "jaggy" like a
+ bitmap, but smooth. It can then be rendered at any resolution.
+
+<p>
+
+ <b>Potrace</b> can currently produce the following output formats:
+ SVG, PDF, EPS, PostScript, DXF, GeoJSON, PGM (for easy antialiasing
+ of pixel-based images), Gimppath, and XFig. Additional backends might
+ be added in the future.
+
+<p>
+
+ <b>Mkbitmap</b> is a program distributed with Potrace which can be
+ used to pre-process the input for better tracing behavior on
+ greyscale and color images. See the <a href="mkbitmap.html">mkbitmap
+ examples page</a>.
+
+</td></tr></table>
+
+<a name=example><h3>Example</h3></a>
+
+<center>
+<table bgcolor=#ffffff border=0>
+<tr>
+<td><a href="samples.html"><img src=assets/f2f39e56f609e63c4a3b8840c33662fe.png border=0></a></td>
+<td><a href="samples.html"><img src=assets/6f6d3686d517ba8364dc61f12da5d246.png border=0></a></td>
+</tr>
+<tr>
+<td><center><i>Original image</i></center></td>
+<td><center><i>Potrace output</i></center></td>
+</tr>
+</table>
+</center>
+
+<table border=0><tr><td width=20></td><td>
+
+<a href="samples.html">More examples...</a>
+
+<p>
+
+<a href="mkbitmap.html">Mkbitmap examples...</a>
+
+</td></tr></table>
+
+<a name=frequently><h3>Frequently asked questions</h3></a>
+
+<table border=0><tr><td width=20></td><td>
+
+Trouble using Potrace? Here are the answers to some <a
+href="faq.html">frequently asked questions</a>.
+
+</td></tr></table>
+
+<a name=news><h3>News</h3></a>
+
+<table border=0><tr><td width=20></td><td>
+
+For changes prior to version 1.14, see the file <a href="NEWS">NEWS</a>.
+For a more detailed list of changes, see the <a href="ChangeLog">ChangeLog</a>.
+
+<p>
+
+<b>September 17, 2019: Release 1.16.</b>
+
+ This release consists of bugfixes and minor portability improvements.
+ A potential arithmetic overflow was fixed. Rotation angles are now
+ normalized to between -180 and 180. We now use binary file I/O on the
+ OS/2 platform. The test suite tolerances were adjusted. The
+ configuration option --enable-local-getopt was renamed as
+ --with-included-getopt. Some build system improvements. Thanks to
+ Henri Salo and Dave Yeo for reporting bugs and suggesting
+ improvements.
+  
+<p>
+  
+<b>August 5, 2017: Release 1.15.</b>
+
+ This release consists of bugfixes and minor portability improvements.
+ Some potential buffer overflows and arithmetic overflows were fixed,
+ including CVE-2017-12067. A bug triggered by very large bitmaps has
+ been fixed. A new configuration option --enable-local-getopt was
+ added. Thanks to Agostino Sarubbo, Daniel Macks, and Michael Voříšek
+ for reporting bugs and suggesting improvements.
+
+<p>
+
+<b>February 19, 2017: Release 1.14.</b> 
+
+ This release consists of bugfixes and minor portability improvements.
+ A number of bugs triggered by malformed BMP files have been fixed,
+ including CVE-2016-8685 and CVE-2016-8686. Error reporting has been
+ improved. The image size is now truncated when the bitmap data ends
+ prematurely. It is now possible to use negative dy in bitmap
+ data. Portability has been improved to encompass C++11. The default
+ compiler is now clang if available. Thanks to Nelson Beebe and Martin
+ Gieseking for reporting portability issues, and to Agostino Sarubbo
+ for reporting bugs.
+ 
+<p>
+
+</td></tr></table>
+
+<a name=downloading><h3>Downloading and installing</h3></a>
+
+<table border=0><tr><td width=20></td><td>
+
+Potrace is built from sources using the standard configure/make
+commands. Please see the file <a href="INSTALL">INSTALL</a> for generic
+installation instructions, and the file <a href="README">README</a> for
+compile time configuration options specific to Potrace. Some
+pre-compiled binary distributions are also available. See the file <a
+href="README">README</a> for instructions on how to install Potrace from
+a binary distribution. Additional instructions for Windows users are
+contained in the file <a href="README-WIN">README-WIN</a>. If you would
+like to ensure the accuracy of the downloaded files, you can
+double-check their <a href="download/SHA1SUMS">SHA1 sums</a>.
+
+<p>
+
+<p>
+
+<table border=1 cellspacing=0 cellpadding=5 bgcolor=#ffffcc>
+<tr>
+<td colspan=2>Source distribution:</td>
+<td><a href="download/1.16/potrace-1.16.tar.gz">potrace-1.16.tar.gz</a></td>
+</tr>
+<tr>
+<td rowspan=17>Precompiled distributions:</td>
+<td>Windows (64 bit)</td>
+<td><a href="download/1.16/potrace-1.16.win64.zip">potrace-1.16.win64.zip</a><br>
+<a href="download/1.16/potrace-1.16.win64.tar.gz">potrace-1.16.win64.tar.gz</a></td>
+</tr>
+<tr>
+<td>Windows (32 bit)</td>
+<td><a href="download/1.16/potrace-1.16.win32.zip">potrace-1.16.win32.zip</a><br>
+<a href="download/1.16/potrace-1.16.win32.tar.gz">potrace-1.16.win32.tar.gz</a></td>
+</tr>
+<tr>
+<td>Mac OS X (64 bit)</td>
+<td><a href="download/1.16/potrace-1.16.mac-x86_64.tar.gz">potrace-1.16.mac-x86_64.tar.gz</a></td>
+</tr>
+<tr>
+<td>Linux (64 bit)</td>
+<td><a href="download/1.16/potrace-1.16.linux-x86_64.tar.gz">potrace-1.16.linux-x86_64.tar.gz</a></td>
+</tr>
+<tr>
+<td>Linux (32 bit)</td>
+<td><a href="download/1.16/potrace-1.16.linux-i386.tar.gz">potrace-1.16.linux-i386.tar.gz</a></td>
+</tr>
+<tr>
+<td>Sun Solaris (Sparc)</td>
+<td><a href="download/1.15/potrace-1.15.solaris-sparc.tar.gz">potrace-1.15.solaris-sparc.tar.gz</a></td>
+</tr>
+<tr>
+<td>Sun Solaris (x86_64)</td>
+<td><a href="download/1.16/potrace-1.16.solaris2.11-x86_64.tar.gz">potrace-1.16.solaris2.11-x86_64.tar.gz</a><sup><font size=-2>(1)</font></sup></td>
+</tr>
+<tr>
+<td>Sun Solaris (i386)</td>
+<td><a href="download/1.16/potrace-1.16.solaris2.11-i386.tar.gz">potrace-1.16.solaris2.11-i386.tar.gz</a><sup><font size=-2>(1)</font></sup></td>
+</tr>
+<tr>
+<td>FreeBSD (x86_64)</td>
+<td><a href="download/1.15/potrace-1.15.freebsd12-x86_64.tar.gz">potrace-1.15.freebsd12-x86_64.tar.gz</a><sup><font size=-2>(2)</font></sup></td>
+</tr>
+<tr>
+<td>NetBSD (x86_64)</td>
+<td><a href="download/1.15/potrace-1.15.netbsd8-x86_64.tar.gz">potrace-1.15.netbsd8-x86_64.tar.gz</a><sup><font size=-2>(2)</font></sup></td>
+</tr>
+<tr>
+<td>OpenBSD (x86_64)</td>
+<td><a href="download/1.16/potrace-1.16.openbsd-x86_64.tar.gz">potrace-1.16.openbsd-x86_64.tar.gz</a></td>
+</tr>
+<tr>
+<td>Minix (i386)</td>
+<td><a href="download/1.16/potrace-1.16.minix-i386.tar.gz">potrace-1.16.minix-i386.tar.gz</a></td>
+</tr>
+<tr>
+<td>Linux (Sparc)</td>
+<td><a href="download/1.15/potrace-1.15.linux-sparc.tar.gz">potrace-1.15.linux-sparc.tar.gz</a><sup><font size=-2>(2)</font></sup></td>
+</tr>
+<tr>
+<td>OS/2</td>
+<td><a href="download/1.16/potrace-1.16.os2.zip">potrace-1.16.os2.zip</a><sup><font size=-2>(3)</font></sup></td>
+</tr>
+<tr>
+<td>Linux (Alpha)</td>
+<td><a href="download/1.11/potrace-1.11.linux-alpha.tar.gz">potrace-1.11.linux-alpha.tar.gz</a><sup><font size=-2>(2)</font></sup></td>
+</tr>
+<tr>
+<td>AIX</td>
+<td><a href="download/1.10/potrace-1.10.aix-rs6000.tar.gz">potrace-1.10.aix-rs6000.tar.gz</a></td>
+</tr>
+<tr>
+<td>AROS (i386)</td>
+<td><a href="download/1.9/potrace-1.9.aros-i386.zip">potrace-1.9.aros-i386.zip</a><br>
+<a href="download/1.9/potrace-1.9.aros-i386.tar.gz">potrace-1.9.aros-i386.tar.gz</a><sup><font size=-2>(4)</font></sup></td>
+</tr>
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td rowspan=4>Packages:</td>
+<td>Solaris Package</td>
+<td><a href="download/1.15/potrace-1.15.pkg.gz">potrace-1.15.pkg.gz</a><sup><font size=-2>(1)</font></sup></td>
+</tr>
+<tr>
+<td>Redhat Source RPM</td>
+<td><a href="download/1.16/potrace-1.16-1.src.rpm">potrace-1.16-1.src.rpm</a></td>
+</tr>
+<tr>
+<td>Redhat Binary RPM (x86_64)</td>
+<td><a href="download/1.16/potrace-1.16-1.x86_64.rpm">potrace-1.16-1.x86_64.rpm</a></td>
+</tr>
+<tr>
+<td>Amiga (OS4)</td>
+<td><a href="download/1.16/potrace.lha">potrace.lha (version 1.16)</a><sup><font size=-2>(6)</font></sup></td>
+</tr>
+<!-- ---------------------------------------------------------------------- -->
+<tr>
+<td rowspan=8>Package Management:</td>
+<td>Debian and Ubuntu</td>
+<td><a href="http://packages.debian.org/potrace">apt install potrace</a><sup><font size=-2>(5)</font></sup></td>
+</tr>
+<tr>
+<td>SuSE</td>
+<td><a href="https://build.opensuse.org/package/show?package=potrace&project=graphics">potrace</a><sup><font size=-2>(7)</font></sup></td>
+</tr>
+<tr>
+<td>Fedora</td>
+<td><a href="https://src.fedoraproject.org/rpms/potrace">dnf install potrace</a><sup><font size=-2>(8)</font></sup></td>
+</tr>
+<tr>
+<td>ArchLinux</td>
+<td><a href="https://www.archlinux.org/packages/3803/">pacman -S potrace</a><sup><font size=-2>(9)</font></sup></td>
+</tr>
+<tr>
+<td>FreeBSD</td>
+<td><a href="https://www.freshports.org/graphics/potrace">pkg_add -r potrace</a><sup><font size=-2>(10)</font></sup></td>
+</tr>
+<tr>
+<td>Fink (Mac OS X)</td>
+<td><a href="http://fink.sourceforge.net/pdb/package.php/potrace">fink
+install potrace</a><sup><font size=-2>(11)</font></sup></td>
+</tr>
+<tr>
+<td>Macports (Mac OS X)</td>
+<td><a href="http://db.macports.org/port/show/1207">port install potrace</a><sup><font size=-2>(12)</font></sup></td>
+</tr>
+<tr>
+<td>NixOS</td>
+<td><a href="https://hydra.nixos.org/job/nixpkgs/trunk/potrace.x86_64-linux/latest">nix-env -i potrace</a><sup><font size=-2>(13)</font></sup></td>
+</tr>
+</table>
+
+(1) Solaris-i386 and x86_64 binaries and packages provided by
+Apostolos Syropoulos &lt;asyropoulos at gmail.com&gt;.<br>
+
+(2) Linux for Alpha and Sparc, FreeBSD, and NetBSD binaries
+provided by Nelson Beebe &lt;beebe@math.utah.edu&gt;.<br>
+
+(3) OS/2 binaries provided by Dave Yeo &lt;dave.r.yeo@gmail.com&gt;.
+See also
+the <a href="http://hobbes.nmsu.edu/h-search.php?key=potrace">Hobbes
+OS/2 Archive</a>.<br>
+
+(4) AROS binaries supplied by Matthias Rustler &lt;mrustler at
+gmx.de&gt;. See the <a href="http://archives.aros-exec.org/index.php?function=browse&cat=graphics/convert">AROS archives</a>
+for sources and updates.<br>
+
+(5) Debian i386 Package maintained by Bartosz Fenski &lt;fenio at
+debian.org&gt;. Debian has centralized package management and
+users should run "sudo apt install potrace" to install.<br>
+
+(6) Amiga Package provided by Guillaume Boesel
+&lt;guillaume at boesel.fr&gt;. See the <a href="http://www.os4depot.net/index.php?function=showfile&file=graphics/convert/potrace.lha">OS4 Depot</a> for updates.<br>
+
+(7) SuSE RPMs provided by Stanislav Brabec &lt;sbrabec at
+suse.cz&gt;. Potrace appears in the official <a
+href="ftp://ftp.suse.com/pub/suse/">SuSE distribution</a>.<br>
+
+(8) Fedora package maintained by Susi Lehtola &lt;potrace-owner@fedoraproject.org&gt;. 
+Potrace is available on all Fedora branches. Fedora has centralized
+package management and users should run "dnf install potrace" as root
+to install.<br>
+
+(9) ArchLinux package maintained by Damir Perisa &lt;damir at
+archlinux.org&gt;. ArchLinux has centralized package management and
+users should run "pacman -S potrace" as root to install.<br>
+
+(10) FreeBSD Packages maintained by Piotr Smyrak &lt;piotr at smyrak.com&gt;.<br>
+
+(11) Fink package maintained by Daniel Macks &lt;dmacks at
+netspace.org&gt;. Fink has centralized package management and users
+should run "fink install potrace" as root to install.<br>
+
+(12) Macports has centralized package management and users should
+run "port install potrace" as root to install.<br>
+
+(13) NixOS has centralized package management and users should
+run "nix-env -i potrace" as root to install.<br>
+
+<p>
+
+<a href="oldreleases.html">Previous releases...</a>
+
+</td></tr></table>
+
+<a name=usage><h3>Usage</h3></a>
+
+<table border=0><tr><td width=20></td><td>
+
+<pre>
+potrace 1.16. Transforms bitmaps into vector graphics.
+
+Usage: potrace [options] [filename...]
+General options:
+ -h, --help                 - print this help message and exit
+ -v, --version              - print version info and exit
+ -l, --license              - print license info and exit
+File selection:
+ <i>filename</i>                   - an input file
+ -o, --output <i>filename</i>      - write all output to this file
+ --                         - end of options; 0 or more input filenames follow
+Backend selection:
+ -b, --backend <i>name</i>         - select backend by name
+ -b svg, -s, --svg          - SVG backend (scalable vector graphics)
+ -b pdf                     - PDF backend (portable document format)
+ -b pdfpage                 - fixed page-size PDF backend
+ -b eps, -e, --eps          - EPS backend (encapsulated PostScript) (default)
+ -b ps, -p, --postscript    - PostScript backend
+ -b pgm, -g, --pgm          - PGM backend (portable greymap)
+ -b dxf                     - DXF backend (drawing interchange format)
+ -b geojson                 - GeoJSON backend
+ -b gimppath                - Gimppath backend (GNU Gimp)
+ -b xfig                    - XFig backend
+Algorithm options:
+ -z, --turnpolicy <i>policy</i>    - how to resolve ambiguities in path decomposition
+ -t, --turdsize <i>n</i>           - suppress speckles of up to this size (default 2)
+ -a, --alphamax <i>n</i>           - corner threshold parameter (default 1)
+ -n, --longcurve            - turn off curve optimization
+ -O, --opttolerance <i>n</i>       - curve optimization tolerance (default 0.2)
+ -u, --unit <i>n</i>               - quantize output to 1/unit pixels (default 10)
+ -d, --debug <i>n</i>              - produce debugging output of type n (n=1,2,3)
+Scaling and placement options:
+ -P, --pagesize <i>format</i>      - page size (default is letter)
+ -W, --width <i>dim</i>            - width of output image
+ -H, --height <i>dim</i>           - height of output image
+ -r, --resolution <i>n</i>[x<i>n</i>]     - resolution (in dpi) (dimension-based backends)
+ -x, --scale <i>n</i>[x<i>n</i>]          - scaling factor (pixel-based backends)
+ -S, --stretch <i>n</i>            - yresolution/xresolution
+ -A, --rotate <i>angle</i>         - rotate counterclockwise by angle
+ -M, --margin <i>dim</i>           - margin
+ -L, --leftmargin <i>dim</i>       - left margin
+ -R, --rightmargin <i>dim</i>      - right margin
+ -T, --topmargin <i>dim</i>        - top margin
+ -B, --bottommargin <i>dim</i>     - bottom margin
+ --tight                    - remove whitespace around the input image
+Color options, supported by some backends:
+ -C, --color #rrggbb        - set foreground color (default black)
+ --fillcolor #rrggbb        - set fill color (default transparent)
+ --opaque                   - make white shapes opaque
+SVG options:
+ --group                    - group related paths together
+ --flat                     - whole image as a single path
+Postscript/EPS/PDF options:
+ -c, --cleartext            - do not compress the output
+ -2, --level2               - use postscript level 2 compression (default)
+ -3, --level3               - use postscript level 3 compression
+ -q, --longcoding           - do not optimize for file size
+PGM options:
+ -G, --gamma <i>n</i>              - gamma value for anti-aliasing (default 2.2)
+Frontend options:
+ -k, --blacklevel <i>n</i>         - black/white cutoff in input file (default 0.5)
+ -i, --invert               - invert bitmap
+Progress bar options:
+ --progress                 - show progress bar
+ --tty <i>mode</i>                 - progress bar rendering: vt100 or dumb
+
+Dimensions can have optional units, e.g. 6.5in, 15cm, 100pt.
+Default is inches (or pixels for pgm, dxf, and gimppath backends).
+Possible input file formats are: pnm (pbm, pgm, ppm), bmp.
+Backends are: svg, pdf, pdfpage, eps, postscript, ps, dxf, geojson, pgm, 
+gimppath, xfig.
+</pre>
+
+<p>
+
+For detailed usage information, see the <a
+href="potrace.1.html">potrace(1)</a> man page.
+
+</td></tr></table>
+
+<a name=technical><h3>Technical documentation</h3></a>
+
+<table border=0><tr><td width=20></td><td>
+
+<ul>
+
+<li>For detailed usage information, see the man pages of <a href="potrace.1.html">potrace(1)</a> and <a href="mkbitmap.1.html">mkbitmap(1)</a>.
+
+<li>A detailed technical description of how the Potrace algorithm
+ works [<a href="potrace.pdf">pdf</a>].
+
+<li>Technical documentation of the Potrace library API (for
+ developers) [<a href="potracelib.pdf">pdf</a>].
+
+</ul>
+
+</td></tr></table>
+
+<a name=support><h3>Support and reporting bugs</h3></a>
+
+<table border=0><tr><td width=20></td><td>
+
+<a href="https://sourceforge.net/projects/potrace/"><img
+ src="assets/677153a4683f2b10b6a611ddfc6af3a8.php"
+ width="150" height="40" border="0" alt="Get Potrace at
+ SourceForge.net. Fast, secure and Free Open Source software
+ downloads" align="right" /></a>
+
+ Potrace has a project page on <a
+ href="https://sourceforge.net/projects/potrace/">SourceForge</a>.  There,
+ you will find facilities for reporting bugs, submitting patches,
+ asking for support, asking for features, or discussing Potrace in
+ general. You are encouraged to use these facilities. You can also
+ send email to the author. Please also check the <a
+ href="faq.html">Frequently Asked Questions</a>.
+
+</td></tr></table>
+
+<a name=dual><h3>Dual licensing program</h3></a>
+
+<table border=0><tr><td width=20></td><td>
+
+<a href="http://www.icosasoft.ca/"><img src="assets/aa3c5daf76a9c91925c177cdf9f9df40.gif"
+ align=right width="70" height="70" border="0" alt="Icosasoft
+ Logo"></a>
+
+ A non-GPL version of Potrace, called Potrace Professional(TM), is 
+ available for integration into proprietary software. Licenses are
+ available from my company, <a
+ href="http://www.icosasoft.ca/"><nobr>Icosasoft Software
+ Inc.</nobr></a> If you wish to purchase a license, or for more
+ information, please write to <a
+ href="mailto:licensing@icosasoft.ca">licensing@icosasoft.ca</a>.
+
+</td></tr></table>
+
+<a name=other><h3>Related software and services</h3></a>
+
+<table border=0><tr><td width=20></td><td>
+
+Commercial software:
+
+<ul>
+
+<!--
+<li><b><a href="https://itunes.apple.com/us/app/printy/id519870646?mt=8">Printy</a></b>
+by Marco Botton. An application for iPhone and iPad that allows you to
+turn your own photos into coloring pages for kids. (July 27, 2012).
+
+<p>
+-->
+
+<li><b><a href="http://image-vectorizer.com/">Image Vectorizer</a></b>,
+by Icosasoft Software Inc. An easy-to-use image vectorizer for Mac OS
+X. (Added January 26, 2014).
+
+<p>
+
+<li><b><a href="https://www.cr8software.net/">Type 3.2 Font Editor</a></b>, 
+by CR8 Software Solutions. A font editor that's easy to use for
+  Windows and Mac. (Added May 11, 2015).
+
+<p>
+
+<li><b><a href="https://www.youtube.com/watch?v=I8fo0mR7Leo">Lazeroy</a></b>,
+by G&#252;nili Yaz&#305;l&#305;m. An application for creating
+ halftoned CMYK images and DXF files from color images. (Added June 3, 2019).
+
+  
+</ul>
+
+Graphical user interfaces:
+
+<ul>
+
+<li><b><a href="thirdparty/Potrace_GUI_0.1.dmg">Potrace
+GUI</a></b>, by Rasmus Andersson. A GUI for Potrace for Mac OS X. The
+source code is <a
+href="thirdparty/potrace_gui_01.src.tar.gz">here</a>. (Added
+Sept 22, 2003).
+
+<p>
+
+<li><b><a href="http://potracegui.sourceforge.net/">potracegui</a></b>,
+by Antonio Fasolato. A GUI for Potrace using KDE. (Added Nov 29, 2003).
+
+<p>
+
+<li><b><a href="http://delineate.sourceforge.net/">delineate</a></b>, by
+Robert McKinnon. A GUI for Potrace and Autotrace using Java. There are
+versions for Mac OS X, GNU/Linux, and Windows. (Added Feb 11, 2003).
+
+<p>
+
+<li><b><a href="thirdparty/Rasterbater_1_0.zip">Rasterbater
+1.0</a></b>, by Kevin Cole. A GUI for Potrace using C#. (Added
+December 20, 2007). <!-- NOTE: it's open source; requested GPL compliance -->
+
+<p>
+
+<li><b><a href="https://www.cr8software.net/tracer.html">CR8tracer</a></b>, by
+Allan Murray. A Windows GUI for Potrace. (Added December 20, 2007).
+
+<p>
+
+<li><b><a href="http://www.hi-ho.ne.jp/sato-akira/dragpotrace/">DragPotrace</a></b>,
+by Akira Sato. A Mac OS X GUI for
+Potrace. (<a href="https://translate.google.ca/translate?hl=en&sl=auto&tl=en&u=http%3A%2F%2Fwww.hi-ho.ne.jp%2Fsato-akira%2Fdragpotrace">English</a>).
+(Added October 14, 2011).
+
+</ul>
+
+Web interfaces:
+
+<ul>
+<li><b><a href="http://www.vectorization.org/">Vectorization.org</a></b>,
+by Tobias Reinhardt. An easy-to-use web interface to Potrace. (Added January
+26, 2014).
+</ul>
+
+Software that uses Potrace:
+
+<ul>
+
+<li><b><a href="http://fontforge.sourceforge.net/">FontForge</a></b>, by
+George Williams. An outline font editor that lets you create and edit
+postscript and truetype fonts, among others. This program can invoke
+Autotrace or Potrace for converting bitmaps to vector fonts. It used
+to be called "PfaEdit". (Added Aug 21, 2003).
+
+<p>
+
+<li><b><a href="http://lilypond.org/mftrace/">mftrace</a></b>,
+by Han-Wen Nienhuys. A small Python program that lets you trace a TeX
+bitmap font into a PFA or PFB font (A PostScript Type1 Scalable Font)
+or TTF (TrueType) font (Added Dec 13, 2003).
+
+<p>
+
+<li><b><a href="http://lilypond.org/">LilyPond</a></b>, by Han-Wen
+Nienhuys and Jan Nieuwenhuizen. An application that let you typeset
+beautiful sheet music. It uses Potrace indirectly via mftrace. (Added
+Apr 22, 2004).
+
+<p>
+
+<li><b><a href="http://www.inf.bme.hu/~pts/textrace/">TeXtrace</a></b>,
+by P&eacute;ter Szab&oacute;. A collection of scripts that convert any
+TeX font into a Type1 .pfb outline font. The newest version (0.50)
+supports Potrace via the --potrace option. (Added Apr 22, 2004).
+
+<p>
+
+<li><b><a href="https://www.inkscape.org/">Inkscape</a></b>, by various
+authors. This is an excellent SVG editor. Potrace has been integrated
+since release 0.40. (Added Sep 16, 2004).
+
+<p>
+
+<li><b><a href="http://dvisvgm.sourceforge.net/">dvisvgm</a></b>, by
+Martin Gieseking. This is a tool for converting DVI files, as
+generated by TeX/LaTeX, to the XML-based Scalable Vector Graphics
+format. (Added Aug 24, 2005).
+
+<p>
+
+<li><b><a href="http://projects.darkcutter.com/pacopo/">pocopo</a></b>,
+by Paul Yoon. An AppleScript for processing color images, using
+Potrace. (Added Oct 28, 2005).
+
+<p>
+
+<li><b><a href="http://www.savefile.com/projects/808773250">BMP 2
+EPS</a></b>, by Maddis. A Potrace front end for BluffTitler
+users. (Added Jun 21, 2009). See also <a href="http://www.teradepot.com/orggjhtu8f1d/BMP_2_EPS.rar.html">here</a>.
+
+<p>
+
+<li><b><a href="http://pcb.geda-project.org/">PCB</a></b>, by Thomas
+Nau, Harry Eaton, and others. An interactive editor for printed
+circuit boards. (Added Jul 1, 2014).
+
+<p>
+
+<li><b><a href="http://www.mouseprints.net/old/dpr/potrace.jsx">JJMack's
+      Potrace Script</a></b>, by John J. McAssey. A Photoshop script
+  for creating custom shapes. (Added Dec 1, 2014).
+
+<p>
+
+<li><b><a href="https://www.thingiverse.com/thing:55821">Stencil-o-Matic</a>
+    and <a href="https://www.thingiverse.com/thing:356988">Stamp-o-Matic</a>,
+    by Benjamin. Make stencils or stamps from pictures of your
+    choice. (Added Mar 28, 2020).
+  
+<!--
+<p>
+
+<li><b><a href="http://www.stencilcreator.org/">Stencilcreator.org</a></b>,
+  by A. Jain, C. Chen, T. Thorm&auml;hlen, D. Metaxas and
+  H.-P. Seidel. A website where you can create a set of stencils from
+  an image. A stencil is a cut-out template that can be used to paint
+  with color onto a surface. (Added Nov 6, 2015).
+-->
+
+</ul>
+
+Software and services that are similar to Potrace:
+
+<ul>
+<li><b><a href="http://autotrace.sourceforge.net/">Autotrace</a></b>, by
+Martin Weber. This program performs a similar task as Potrace. In my
+opinion, the output is not as nice, but it supports a much larger
+number of file formats, and it has been integrated with a larger
+number of other software packages. (Added Nov 29, 2003).
+<li><b><a href="https://vectormagic.com/">Vector Magic</a></b>. A
+commercial tracing tool that is available through a web interface, for
+a fee. Unlike Potrace, Vector Magic works for color images.
+<li><b><a href="https://www.vectorizenow.com/">Vectorize Now</a></b>.
+A commercial vectorizing service where each image is redrawn by
+hand. Black-and-white or color. (Added Oct 31, 2015).
+
+</ul>
+
+Non tracing-based image enhancement software:
+
+<ul>
+<li><b><a
+href="http://cimg.sourceforge.net/greycstoration/demonstration.shtml">GREYCstoration</a></b>,
+by David Tschumperl&eacute;. If the examples on the webpage are
+representative, then this is the most astonishingly good image
+regularization filter that I have ever seen. It is based on a
+non-linear diffusion technique. It can be used for noise and artifact
+removal, resizing, and inpainting (which means filling in missing
+image regions). It works on color photographs and cartoons. 
+(Added Feb 2, 2006). 
+
+</ul>
+
+</td></tr></table>
+
+<a name="projects"><h3>Projects using Potrace</h3></a>
+
+<table border=0><tr><td width=20></td><td>
+
+Here are some projects by people who have used Potrace to do
+interesting things.  I particularly love projects that use Potrace to
+create objects in the physical world, such as C. Scott Ananian's
+article on how to make stained glass windows from color scans, and
+Matt Parsons's project on creating a model airplane from old scanned
+blueprints.
+
+<ul>
+    <li><A HREF="https://cscott.net/Projects/Mallard/">Automatic generation of stained glass from scanned photos</A> by C. Scott Ananian.
+    <li><a href="https://wiki.openstreetmap.org/wiki/User:TomChance/VectorisingStreetView">"Vectorising Street View"</a>, by Tom Chance. This is an article about how to create vectorized map data using Potrace.
+    <li><a href="model-airplane">Matt Parsons's model airplane
+    project</a>. Constructing model airplanes from old scanned
+    schematics.
+    <li><a href="http://www.tobyskinner.co.uk/assisted/fragmented/">Fragmented</a>,
+    an art project by Toby Skinner.
+    <li><a href="https://coronamaison.now.sh/">Coronamaison</a> by
+    Vincent Voyer. An album of images with corresponding coloring
+    pages generated by Potrace.
+    <li><a href="https://4232.cf/status/">4232</a> by Ernesto
+    Bazzano. An animated short film about a metropolis in which poor
+    people are deprived of their consciousness and turned into robots,
+    until one day a robot turns up with its consciousness intact. Uses
+    Potrace and other open source tools.
+</ul>
+
+</td></tr></table>
+
+<a name=articles><h3>Articles about Potrace</h3></a>
+
+<table border=0><tr><td width=20></td><td>
+
+Here are some web articles, listings, blogs, and books that cover
+Potrace and its applications. 
+
+<ul>
+    <li><A
+    HREF="http://exocert.com/Articles/ProbandoPotrace.html">Trying Potrace</a> [<a href="https://translate.google.com/translate?u=http%3A%2F%2Fexocert.com%2FArticles%2FProbandoPotrace.html&langpair=es%7Cen&hl=en&ie=UTF-8&oe=UTF-8&prev=%2Flanguage_tools">English</a>] by Exocert.com. 
+   <li><A HREF="https://blog.willbenton.com/archive/2004/03/31/potrace-rad-image-vectorizer/">Potrace, rad image vectorizer</A> by Will Benton.
+    <li><A HREF="http://www.volalibero.it/da_bitmap_a_vettoriale.html">Converting images from bitmap to vector format</A> [<a href="https://translate.google.com/translate?u=http%3A%2F%2Fwww.volalibero.it%2Fda_bitmap_a_vettoriale.html&langpair=it%7Cen&hl=en&ie=UTF-8&oe=UTF-8&prev=%2Flanguage_tools">English</a>] by Mike Vargas.
+    <li><a href="http://www.geocities.jp/sarusekkei/potrace.html">Compiling bitmaps to SVG and PDR using Potrace</a> by Sarusekkei [<a href="https://translate.google.com/translate?u=http%3A%2F%2Fwww.geocities.jp%2Fsarusekkei%2Fpotrace.html&langpair=ja%7Cen&hl=en&ie=UTF-8&oe=UTF-8&prev=%2Flanguage_tools">English</a>].
+    <li><A HREF="http://wiki.fdiary.net/font/?unixuser200403-3">How to create your own font</A> [<a href="https://translate.google.com/translate?u=http%3A%2F%2Fwiki.fdiary.net%2Ffont%2F%3Funixuser200403-3&langpair=ja%7Cen&hl=en&ie=UTF-8&oe=UTF-8&prev=%2Flanguage_tools">English</a>] by B. Hen.
+    <li><A HREF="http://www-hep2.fzu.cz/~piska/TUG2004/piskatb2.pdf">Creating Type 1 fonts from METAFONT sources: comparison of tools, techniques and results</A> by Karel Piska (PDF only).
+    <li><A HREF="https://daveg.outer-rim.org/entries/2004/03/08/the-little-things/">The little things</A> by daveg@dorja.
+    <li><A HREF="https://www.osalt.com/potrace">Open Source
+    Alternatives</A> by Anders Rasmussen.
+    <li><a href="http://boolesrings.org/vatter/how-to-make-slides-from-handwritten-notes-using-potrace/">How
+    to make slides from handwritten notes using Potrace</a> by Vince Vatter. 
+    <li><a href="https://books.google.de/books?id=qrElYgVLDwYC&printsec=frontcover&hl=de&source=gbs_ge_summary_r&cad=0#v=onepage&q&f=false">"Fonts
+    & Encodings"</a>, by Yannis Haralambous, P. Scott Horne, O'Reilly,
+    2007. This is a reference book on fonts, and also contains a brief
+    section on Potrace.
+    <li><a href="https://maverick.inria.fr/Publications/2008/OBWBTS08/">Diffusion
+    curves</a>, by Alexandrina Orzan, Adrien Bousseau, Holger
+    Winnem&ouml;ller, Pascal Barla, Jo&euml;lle Thollot, and David
+    Salesin. This article introduces a new vector graphics primitive
+    for representing color images, with very impressive results. Some small
+    part of the algorithm is inspired by Potrace.
+    <li><a href="https://www.sciencedirect.com/science/article/pii/S0097849315000114">Multi-layer
+    stencil creation from images</a>, by Arjun Jain, Chao Chen,
+    Thorsten Thorm&auml;hlen, Dimitris Metaxas, and Hans-Peter
+    Seidel. A very nice article about creating stencils for
+    spray-painting. While the article does not mention tracing
+    directly, it would be useful for this sort of application. 
+    <li><a href="http://svo.2.staticpublic.s3-website-us-east-1.amazonaws.com/glasstty/">Hacking
+        with Style: TrueType VT220 Font</a>, by Viacheslav Slavinsky.
+        This article explains how to reconstruct an old DEC terminal
+        font using FontForge, Potrace, and ImageMagick.
+    <li><a href="http://ospublish.constantvzw.org/blog/tools/potrace-alphamax-1334-or-the-limit-between-artificial-and-natural">Potrace
+        alphamax 1.334 (or the limit between artificial and natural)</a>,
+      by OSP-blog. A blog post about Potrace's alphamax parameter.
+    <li><a href="http://hi.cs.waseda.ac.jp/~esimo/en/research/sketch/">Sketch
+        Simplification</a>, by Edgar Simo-Serra, Satoshi Iizuka, Kazuma
+      Sasaki, and Hiroshi Ishikawa. Describes a new technique to
+      simplify sketch drawings that comes close to artists'
+      "inking". After cleaning up the image using a neural network,
+      Potrace is used to perform the final vectorization.
+    <li><a href="http://catherineh.github.io/programming/2018/04/04/pngs-to-embroidery-patterns">PNGs
+    to Embroidery Patterns</a>, by Catherine Holloway. A blog post in
+    which the author describes how she used Potrace in
+    her <a href="https://github.com/CatherineH/python-embroidery/">computerized
+    sewing machine software</a>.
+</ul><p>
+
+</td></tr></table>
+
+<a name="ports"><h3>Ports to other programming languages</h3></a>
+
+<table border=0><tr><td width=20></td><td>
+
+<b>Important notice about ports.</b> If you are planning to modify
+ Potrace, including making a port of Potrace to another programming
+ language, please be aware of the following. While the source code of
+ Potrace is licensed under the GNU General Public License, the name
+ "Potrace" is my trademark, and may only be used with my permission.
+
+<p>
+
+ In practice, I will permit the use of the name "Potrace" in
+ connection with a port of Potrace to another programming language,
+ provided that the port complies with the term of the GNU General
+ Public License and produces the same high quality vectorized output
+ as the original Potrace. Ports that are buggy or do not produce high
+ quality output are not permitted to use the name "Potrace". To ensure
+ compliance with this policy, please run your port by me before making
+ it public. Also, if you use the "Potrace" name (or any derivative,
+ such as "MyPotrace"), you must provide a name and email address where
+ I can reach you. Derivatives of Potrace that are posted anonymously
+ or where the authors cannot be reached or do not reply to email or
+ bug reports are not permitted to use the name "Potrace".
+
+<p>
+
+ Notwithstanding the foregoing paragraph, I do not warrant the quality
+ of any third-part ports; any ports that are posted here are provided
+ "as is", without any warranty.
+
+<ul>
+
+<li><b><a href="https://rubygems.org/gems/potracer">Potracer</a></b>,
+  by Kenny Parnell. Ruby bindings for Potrace. (Added October 16, 2012).
+
+<li><b><a href="https://wahlers.com.br/claus/blog/as3-bitmap-tracer-vectorizer-as3potrace/">as3potrace</a></b>,
+  by Claus Wahlers. A port of Potrace 1.8 to ActionScript 3.0
+  (Flash). (Added May 1, 2011).
+
+<li><b><a href="http://www.libspark.org/wiki/nitoyon/PotrAs">PotrAs</a></b>,
+  by Nitoyon. Another port of Potrace 1.8 to ActionScript 3.0
+  (Flash). (Added May 1, 2011).
+
+<li><b><a
+href="https://www.drawing3d.de/Downloads.aspx">Vectorization</a></b>, by
+Wolfgang Nagl. A port of Potrace 1.8 to C# Visual
+Studio. (Added Aug 23, 2009, updated Feb 23, 2016).
+
+<li><b><a
+href="https://sourceforge.net/projects/pypotrace/">PyPotrace</a></b>,
+by Eternalsquire. Python bindings for Potrace. (Added Apr 12, 2010).
+
+<li><b><a href="https://github.com/flupke/pypotrace">pypotrace</a></b>,
+by Luper Rouch. Python bindings for Potrace, also available <a
+href="https://pypi.python.org/pypi/pypotrace">here</a>. (Added Apr 12, 2010).
+
+<li><b><a href="https://metacpan.org/release/Graphics-Potrace">Graphics::Potrace</a></b>,
+by Flavio Poletti. Perl bindings for Potrace, also available <a
+href="https://github.com/polettix/Graphics-Potrace">here</a>. (Added
+  Dec 26, 2013).
+
+<li><b><a href="https://github.com/kilobtye/Potrace">A JavaScript port
+      of Potrace</a></b>, by Kilobtye. (Added Mar 20, 2017).
+
+<li><b><a href="https://github.com/pcolton/potrace">Swift
+      Potrace</a></b>, by Paul Colton. A port of Potrace to the Swift
+      language. (Added May 22, 2017).
+
+<li><b><a href="https://github.com/Otamay/potracio">A PHP port
+      of Potrace</a></b>, by Otamay. (Added Jul 7, 2018).
+
+<li><b><a href="https://github.com/GreenAppers/flutter_potrace/blob/master/lib/potrace.dart">A Dart port of Potrace</a></b>, by Justin Foutts. (Added Apr 18, 2019).
+
+</ul>
+
+</td></tr></table>
+
+<a name=advertisements><h3>Sponsored Links</h3></a>
+
+<table border=0><tr><td width=20></td><td>
+
+<ul>
+<li><a href="http://www.vectorizenow.com/">Vectorize Now</a>. A fast
+  service for high-quality, hand drawn vectorization.
+</ul>
+
+</td></tr></table>
+
+<a name=version><h3>Version</h3></a>
+
+<table border=0><tr><td width=20></td><td>
+
+1.16
+
+</td></tr></table>
+
+<a name=author><h3>Author</h3></a>
+
+<table border=0><tr><td width=20></td><td>
+
+Copyright &copy; 2001-2019 Peter Selinger.
+
+</td></tr></table>
+
+<a name=logo><h3>Logo</h3></a>
+
+<table border=0><tr><td width=20></td><td>
+
+The <a href="logo/potrace-logo-468.png">Potrace logo and mascot</a> was
+designed by Karol Krenski. Copyright &copy; 2003 Karol Krenski and Peter
+Selinger. The logo is licensed under GPL.
+
+</td></tr></table>
+
+<a name=license><h3>License</h3></a>
+
+<table border=0><tr><td width=20></td><td>
+
+   This program is free software; you can redistribute it and/or modify
+   it under the terms of the GNU General Public License as published by
+   the Free Software Foundation; either version 2, or (at your option)
+   any later version.<p>
+
+   This program is distributed in the hope that it will be useful,
+   but WITHOUT ANY WARRANTY; without even the implied warranty of
+   MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+   GNU General Public License for more details.<p>
+
+   You should have received a copy of the GNU General Public License
+   along with this program; if not, write to the Free Software
+   Foundation, Inc., 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.<p>
+
+</td></tr></table>
+
+<a name=trademarks><h3>Trademarks</h3></a>
+
+<table border=0><tr><td width=20></td><td>
+
+   "Potrace" is a trademark of Peter Selinger. "Potrace Professional"
+   and "Icosasoft" are trademarks of Icosasoft Software Inc. Other
+   trademarks belong to their respective owners.
+
+</td></tr></table>
+
+<br clear=all>
+To my other
+<a href="https://www.mathstat.dal.ca/~selinger/software.html">
+software</a>.
+<hr width=100%><!---------------------------------------------------------------->
+
+<center><address><nobr>
+<a href="https://www.mathstat.dal.ca/~selinger/">
+Peter Selinger</a> /<wbr> 
+ Department of Mathematics and Statistics /<wbr> 
+ Dalhousie University </nobr><br>
+ <a href="mailto:selinger@users.sourceforge.net">selinger@users.sourceforge.net</a>
+ / <a href="gpg-key.txt">PGP key</a>
+</address></center>
+
+<!--#config timefmt="Updated %b %e, %Y" -->
+<font size=1><!--#echo var="LAST_MODIFIED" --></font>
+
+<!--
+     <IMG SRC="http://counter.digits.com/wc/-d/4/potrace" ALIGN=right
+      WIDTH=45 HEIGHT=10 BORDER=0 HSPACE=0 VSPACE=0> 
+-->
+
+<div style="position:fixed;top:0;left:0;width:100%;height:45px;z-index:2147483647;background-color:rgba(253,147,38,0.90) !important;color:black !important;text-align:right !important;font:normal 12px/45px Arial, sans-serif !important;border-radius:0 !important;margin:0 !important;max-width:100% !important;background-repeat: no-repeat !important;background-position: 15px center !important;
+background-image: url(data:image/png;base64,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);
+"><span style="padding-right:15px;">You are viewing a snapshot of <a style='font-weight:bold !important; color:white !important' href='http://potrace.sf.net'>http://potrace.sf.net</a> created on 2020/08/09</span></div>

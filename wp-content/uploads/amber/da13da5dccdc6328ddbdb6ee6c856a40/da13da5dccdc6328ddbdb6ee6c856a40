@@ -1,0 +1,2734 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+ <title>DOSBox, an x86 emulator with DOS</title>
+ <meta http-equiv="Content-Type" content="text/html;charset=utf-8"/>
+ <link rel="icon" type="image/x-icon" href="site_images/favicon.ico"/>
+ <link rel="shortcut icon" type="image/x-icon" href="site_images/favicon.ico"/>
+ <link rel="stylesheet" type="text/css" href="assets/6ba0a9460d08a9cc53db9012ac365653.css"/>
+ <link rel="stylesheet" type="text/css" href="assets/dedf5013da84438206dc5f1c6300b39b.css"/>
+ <!--[if IE]><link rel="stylesheet" type="text/css" href="IE.css"/><![endif]-->
+</head>	
+<body>
+ <h1 id="logo">DOSBox</h1>
+ <ul id="menu">
+  <li><a href="news.php?show_news=1">News</a></li>
+  <li><a href="crew.php">Crew</a></li>
+  <li><a href="information.php?page=0">Information</a></li>
+  <li><a href="status.php?show_status=1">Status</a></li>
+  <li><a href="download.php?main=1">Downloads</a></li>
+  <li><a href="comp_list.php?letter=a">Compatibility</a></li>
+  <li><a href="https://www.vogons.org/viewforum.php?f=53" target="_blank">Forum</a></li>
+  <li><a href="links.php">Links</a></li>
+  <li><a href="https://www.dosbox.com/login.php">Login</a></li>
+ </ul>
+ <span class="indent top">Latest version:
+  <a class="bold" href="download.php?main=1">0.74-3</a>
+ </span><table class="main">
+	<tr>
+		<td valign="top"><br>
+
+<table width="100%">
+<tr>
+<td width="9">
+&nbsp;
+</td>
+<td>
+
+	<table cellspacing="0" cellpadding="0">
+	<tr>
+	<td>
+	<b>First char:
+		</b>
+	</td>
+
+	<td width="6">&nbsp;</td>
+
+	<td>
+	<b>Latest added:
+		</b>
+	</td>
+
+	<td width="6">&nbsp;</td>
+
+	<td>
+	<b>Game-search:
+		</b>
+	</td>
+
+
+	</tr>
+
+	<tr>
+	<td>
+	<form name="sort" method="GET" action="comp_list.php">
+	<select name="letter" onChange="submit(form.sort);"><option value='A' selected>A (238)</option><option value='B'>B (235)</option><option value='C'>C (292)</option><option value='D'>D (248)</option><option value='E'>E (97)</option><option value='F'>F (157)</option><option value='G'>G (128)</option><option value='H'>H (110)</option><option value='I'>I (80)</option><option value='J'>J (69)</option><option value='K'>K (77)</option><option value='L'>L (140)</option><option value='M'>M (225)</option><option value='N'>N (77)</option><option value='O'>O (64)</option><option value='P'>P (229)</option><option value='Q'>Q (32)</option><option value='R'>R (160)</option><option value='S'>S (486)</option><option value='T'>T (352)</option><option value='U'>U (58)</option><option value='V'>V (42)</option><option value='W'>W (171)</option><option value='X'>X (32)</option><option value='Y'>Y (16)</option><option value='Z'>Z (35)</option><option value="num">0-9 (45)</option>
+	<option value="broken">broken</option>
+	<option value="runnable">runnable</option>
+	<option value="playable">playable</option>
+	</select>
+
+	</form>
+
+	</td>
+
+	<td width="6">&nbsp;</td>
+
+	<td>
+	<form name="latest" method="GET" action="comp_list.php">
+	<input name="letter" type="hidden" value="A"><select name='showID' onChange='if(form.showID1 !== undefined)form.showID1.selectedIndex=0; submit(form.latest);'><option value='0'>-</option><option value='4614' > (supported) Ajax (1989)</option><option value='4613' > (supported) Airstrike USA (ATF II) (1990)</option><option value='4612' > (supported) NetMech (1995)</option><option value='4611' > (supported) Battle for bikini bottom (2003)</option><option value='4610' > (supported) European Racers (1993)</option><option value='4609' > (supported) Side Arms: Hyper Dyne (1987)</option><option value='4608' > (supported) Lode Runner 3.0 (1983)</option><option value='4607' > (supported) SimCity 2000 for WIndows (1995)</option><option value='4606' > (supported) ScubaVenture (1993)</option><option value='4604' > (supported) Planet X3 (2019)</option></select><br>
+	</form>
+
+	</td>
+
+	<td width="6">&nbsp;</td>
+
+	<td>
+	<form name="game-search" method="GET" action="comp_list.php">
+	<input name="letter" type="hidden" value="A"><input type="text" name="search" size="14" value="game-name">&nbsp;<input type="submit" name="submit" value="Search">
+	</form>
+	</td>
+
+	</tr>
+	</table><br/><div style="width: 630px;" class="caption">
+ <p style="padding:6px;margin:0;"><a href="/">DOSBox</a> does NOT host these games. This list is a compatibility list. If you are looking for games, you can visit <a href="http://www.classicdosgames.com" target="blank">www.classicdosgames.com</a> or <a href="https://www.gog.com/?pp=b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f" class="goglink" target="_blank"><span class="gog1">GOG</span><span class="gog2">.COM</span></a>.</p>
+</div>
+<br/><div style="width: 630px;" class="caption">Game directory (browsing from <b>A</b>)</div>
+<div style="width: 630px;" class="content"><table cellspacing="0" cellpadding="0" class="tablecomp">
+ <tr>
+  <th width="240">Game:</th>
+  <th width="30">Year:</span></th>
+  <th width="5">&nbsp;</th>
+  <th width="40">Version:</th>
+  <th width="5">&nbsp;</th>
+  <th width="70">Status:</th>
+  <th width="220">
+   <span class="runnable">runnable</span> -
+   <span class="playable">playable</span> -
+   <span class="supported">supported</span>
+  </th>
+ </tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=4602&amp;letter=A">A Dudley Dilemma</a></td>
+ <td>1998</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=2139&amp;letter=A">A Line in the Sand</a></td>
+ <td>1992</td>
+ <td>&nbsp;</td>
+ <td>0.72</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="196" height="8" alt="90% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=1639&amp;letter=A">A Mind Forever Voyaging</a></td>
+ <td>1986</td>
+ <td>&nbsp;</td>
+ <td>0.72</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=2246&amp;letter=A">A Nightmare on Elm Street</a></td>
+ <td>1989</td>
+ <td>&nbsp;</td>
+ <td>0.72</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=2759&amp;letter=A">A-10 Tank Killer</a></td>
+ <td>1989</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=578&amp;letter=A">A-10 Tank Killer 1.5</a></td>
+ <td>1991</td>
+ <td>&nbsp;</td>
+ <td>0.72</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=4393&amp;letter=A">A-Maze</a></td>
+ <td>1989</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="211.4" height="8" alt="97% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=304&amp;letter=A">A-Train (Take the A-Train 3)</a></td>
+ <td>1991</td>
+ <td>&nbsp;</td>
+ <td>0.73</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=3975&amp;letter=A">A.G.E.</a></td>
+ <td>1991</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=441&amp;letter=A">A320 Airbus</a></td>
+ <td>1991</td>
+ <td>&nbsp;</td>
+ <td>0.73</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=3739&amp;letter=A">A4 Networks</a></td>
+ <td>1995</td>
+ <td>&nbsp;</td>
+ <td>0.73</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="196" height="8" alt="90% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=451&amp;letter=A">Aaargh</a></td>
+ <td>1988</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=3951&amp;letter=A">AbadÃ­a del Crimen, La</a></td>
+ <td>1992</td>
+ <td>&nbsp;</td>
+ <td>0.73</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="207" height="8" alt="95% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=182&amp;letter=A">Abandoned Places 1</a></td>
+ <td>1992</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=3744&amp;letter=A">ABC Monday Night Football</a></td>
+ <td>1989</td>
+ <td>&nbsp;</td>
+ <td>0.72</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="174" height="8" alt="80% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=4577&amp;letter=A">Abenteuer Europa</a></td>
+ <td>1994</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=4381&amp;letter=A">Abmis The Lion</a></td>
+ <td>1996</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=1103&amp;letter=A">Abrams Battle Tank</a></td>
+ <td>1988</td>
+ <td>&nbsp;</td>
+ <td>0.72</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=2094&amp;letter=A">Absolute Pinball</a></td>
+ <td>1996</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=3795&amp;letter=A">Absolute Zero</a></td>
+ <td>1996</td>
+ <td>&nbsp;</td>
+ <td>0.72</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="185" height="8" alt="85% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=549&amp;letter=A">Abuse</a></td>
+ <td>1995</td>
+ <td>&nbsp;</td>
+ <td>0.73</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=4269&amp;letter=A">Ace</a></td>
+ <td>1987</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=3781&amp;letter=A">Ace 2</a></td>
+ <td>1987</td>
+ <td>&nbsp;</td>
+ <td>0.72</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="207" height="8" alt="95% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=443&amp;letter=A">Ace of Aces</a></td>
+ <td>1987</td>
+ <td>&nbsp;</td>
+ <td>0.72</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=1045&amp;letter=A">Aces of the Deep</a></td>
+ <td>1994</td>
+ <td>&nbsp;</td>
+ <td>0.72</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="174" height="8" alt="80% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=272&amp;letter=A">Aces of the Pacific</a></td>
+ <td>1990</td>
+ <td>&nbsp;</td>
+ <td>0.72</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="174" height="8" alt="80% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=3750&amp;letter=A">Aces of the Pacific: 1946!</a></td>
+ <td>1992</td>
+ <td>&nbsp;</td>
+ <td>0.72</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="174" height="8" alt="80% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=692&amp;letter=A">Aces Over Europe</a></td>
+ <td>1993</td>
+ <td>&nbsp;</td>
+ <td>0.73</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=3442&amp;letter=A">Acheton</a></td>
+ <td>1987</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="174" height="8" alt="80% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=2492&amp;letter=A">Acid Tetris</a></td>
+ <td>1997</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=3308&amp;letter=A">Across the Rhine</a></td>
+ <td>1995</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="174" height="8" alt="80% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=444&amp;letter=A">Action Fighter</a></td>
+ <td>1989</td>
+ <td>&nbsp;</td>
+ <td>0.72</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=4382&amp;letter=A">Action in The North Atlantic</a></td>
+ <td>1989</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="215.8" height="8" alt="99% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=386&amp;letter=A">Action Soccer</a></td>
+ <td>1995</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="playable">playable</span></td>
+ <td><img class="status" src="assets/166d3e3738a3fdacd615b3d68bd12e76.png" width="130" height="8" alt="60% (playable)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=1941&amp;letter=A">Action Stations!</a></td>
+ <td>1989</td>
+ <td>&nbsp;</td>
+ <td>0.61</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="174" height="8" alt="80% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=2834&amp;letter=A">Action SuperCross</a></td>
+ <td>1998</td>
+ <td>&nbsp;</td>
+ <td>0.63</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=4211&amp;letter=A">Activision 2600 Action Pack Win 3x</a></td>
+ <td>1995</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="207" height="8" alt="95% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=658&amp;letter=A">Actua Soccer</a></td>
+ <td>1995</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=4216&amp;letter=A">Adlib Jukebox</a></td>
+ <td>1990</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="215.8" height="8" alt="99% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=3056&amp;letter=A">Adult Film Cameraman</a></td>
+ <td>1994</td>
+ <td>&nbsp;</td>
+ <td>0.72</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=2154&amp;letter=A">Advanced Civilization</a></td>
+ <td>1996</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=4383&amp;letter=A">Advanced DOS Quiz</a></td>
+ <td>1991</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=1471&amp;letter=A">Advanced Tactical Fighters</a></td>
+ <td>1996</td>
+ <td>&nbsp;</td>
+ <td>0.73</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="196" height="8" alt="90% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=3749&amp;letter=A">Advantage Tennis</a></td>
+ <td>1991</td>
+ <td>&nbsp;</td>
+ <td>0.72</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="207" height="8" alt="95% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=1810&amp;letter=A">Adventure Construction Set</a></td>
+ <td>1987</td>
+ <td>&nbsp;</td>
+ <td>0.72</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=972&amp;letter=A">Adventure Creation Kit</a></td>
+ <td>1995</td>
+ <td>&nbsp;</td>
+ <td>0.65</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=1942&amp;letter=A">Adventure Fun-Pack</a></td>
+ <td>1989</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=4386&amp;letter=A">Adventure in Serenia</a></td>
+ <td>1986</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=4385&amp;letter=A">Adventures In Math</a></td>
+ <td>1983</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=73&amp;letter=A">Adventures of Captain Comic</a></td>
+ <td>1988</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=4387&amp;letter=A">Adventures of Melvin Freebush</a></td>
+ <td>1993</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="209.2" height="8" alt="96% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=1503&amp;letter=A">Adventures of Robbo (Robbo Deluxe)</a></td>
+ <td>1994</td>
+ <td>&nbsp;</td>
+ <td>0.60</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=4048&amp;letter=A">Adventures of Tintin</a></td>
+ <td>1997</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=850&amp;letter=A">Aethra's Chronicles</a></td>
+ <td>1994</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=4464&amp;letter=A">African Adventure</a></td>
+ <td>1997</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=4388&amp;letter=A">African Raiders-01</a></td>
+ <td>1986</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="189.4" height="8" alt="87% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=927&amp;letter=A">After Burner</a></td>
+ <td>1989</td>
+ <td>&nbsp;</td>
+ <td>0.72</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=1368&amp;letter=A">Afterlife CD version</a></td>
+ <td>1996</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=1831&amp;letter=A">Age Of Rifles</a></td>
+ <td>1996</td>
+ <td>&nbsp;</td>
+ <td>0.72</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=4390&amp;letter=A">Agent USA</a></td>
+ <td>1984</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="207" height="8" alt="95% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=1660&amp;letter=A">Air Bucks</a></td>
+ <td>1992</td>
+ <td>&nbsp;</td>
+ <td>0.72</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=4359&amp;letter=A">Air Duel: 80 Years of Dogfighting</a></td>
+ <td>1993</td>
+ <td>&nbsp;</td>
+ <td>0.73</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=3388&amp;letter=A">Air Power</a></td>
+ <td>1995</td>
+ <td>&nbsp;</td>
+ <td>0.72</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="196" height="8" alt="90% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=4391&amp;letter=A">Air Trax</a></td>
+ <td>1983</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="196" height="8" alt="90% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=821&amp;letter=A">Airball</a></td>
+ <td>1987</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=400&amp;letter=A">Airborne Ranger</a></td>
+ <td>1988</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=3582&amp;letter=A">Airlift Rescue</a></td>
+ <td>1995</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=4315&amp;letter=A">Airlines</a></td>
+ <td>1994</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="playable">playable</span></td>
+ <td><img class="status" src="assets/166d3e3738a3fdacd615b3d68bd12e76.png" width="108" height="8" alt="50% (playable)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=4613&amp;letter=A">Airstrike USA (ATF II)</a></td>
+ <td>1990</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=1178&amp;letter=A">AIV Network$</a></td>
+ <td>1997</td>
+ <td>&nbsp;</td>
+ <td>0.60</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=4614&amp;letter=A">Ajax</a></td>
+ <td>1989</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=717&amp;letter=A">Akalabeth (from Ultima Collection)</a></td>
+ <td>1980</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="playable">playable</span></td>
+ <td><img class="status" src="assets/166d3e3738a3fdacd615b3d68bd12e76.png" width="108" height="8" alt="50% (playable)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=4241&amp;letter=A">Al Unser Jr. Arcade Racing (Win3.x)</a></td>
+ <td>1995</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="185" height="8" alt="85% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=259&amp;letter=A">Al-Qadim</a></td>
+ <td>1994</td>
+ <td>&nbsp;</td>
+ <td>0.73</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=19&amp;letter=A">Aladdin</a></td>
+ <td>1993</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=4551&amp;letter=A">Aladin</a></td>
+ <td>1993</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=1381&amp;letter=A">Albion</a></td>
+ <td>1996</td>
+ <td>&nbsp;</td>
+ <td>0.73</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="207" height="8" alt="95% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=1294&amp;letter=A">Alcatraz</a></td>
+ <td>1992</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=3990&amp;letter=A">Aldo Again</a></td>
+ <td>1988</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=1640&amp;letter=A">Aldo's Adventure</a></td>
+ <td>1987</td>
+ <td>&nbsp;</td>
+ <td>0.73</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=3991&amp;letter=A">Aldo's Assault</a></td>
+ <td>1989</td>
+ <td>&nbsp;</td>
+ <td>0.73</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=2862&amp;letter=A">Aleshar - The World of Ice</a></td>
+ <td>1997</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="185" height="8" alt="85% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=538&amp;letter=A">ALF</a></td>
+ <td>1988</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=2668&amp;letter=A">ALF's Thinking Skills</a></td>
+ <td>1988</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=1950&amp;letter=A">Aliants</a></td>
+ <td>1988</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=3425&amp;letter=a">alice</a></td>
+ <td>1990</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=2863&amp;letter=A">Alice in Wonderland</a></td>
+ <td>1989</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=409&amp;letter=A">Alien Breed</a></td>
+ <td>1993</td>
+ <td>&nbsp;</td>
+ <td>0.73</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=1140&amp;letter=A">Alien Breed 2 - Tower Assault</a></td>
+ <td>1994</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=4231&amp;letter=A">Alien Breed: Tower Assault</a></td>
+ <td>1994</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="playable">playable</span></td>
+ <td><img class="status" src="assets/166d3e3738a3fdacd615b3d68bd12e76.png" width="61.8" height="8" alt="29% (playable)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=3369&amp;letter=A">Alien Cabal</a></td>
+ <td>1997</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=2035&amp;letter=A">Alien Carnage</a></td>
+ <td>1994</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=1002&amp;letter=A">Alien Incident</a></td>
+ <td>1996</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=1728&amp;letter=A">Alien Legacy</a></td>
+ <td>1994</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=1119&amp;letter=A">Alien Logic</a></td>
+ <td>1994</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="196" height="8" alt="90% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=3137&amp;letter=A">Alien Odyssey</a></td>
+ <td>1997</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=2918&amp;letter=A">Alien Olympics</a></td>
+ <td>1994</td>
+ <td>&nbsp;</td>
+ <td>0.63</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=2805&amp;letter=A">Alien Rampage</a></td>
+ <td>1996</td>
+ <td>&nbsp;</td>
+ <td>0.63</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=2712&amp;letter=A">Alien Syndrome</a></td>
+ <td>1989</td>
+ <td>&nbsp;</td>
+ <td>0.63</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=4097&amp;letter=A">Alien Tales (aka Reading Galaxy)</a></td>
+ <td>1995</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=1018&amp;letter=A">Alien Trilogy</a></td>
+ <td>1996</td>
+ <td>&nbsp;</td>
+ <td>0.73</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=1292&amp;letter=A">Alien Virus</a></td>
+ <td>1996</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=2066&amp;letter=A">Aliens: A Comic Book Adventure</a></td>
+ <td>1995</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=940&amp;letter=A">All Dogs Go To Heaven</a></td>
+ <td>1989</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=4392&amp;letter=A">All New Family Fued</a></td>
+ <td>1989</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=521&amp;letter=A">Alley Cat</a></td>
+ <td>1984</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=219&amp;letter=A">Alone in the Dark 1</a></td>
+ <td>1992</td>
+ <td>&nbsp;</td>
+ <td>0.73</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=220&amp;letter=A">Alone in the Dark 2</a></td>
+ <td>1994</td>
+ <td>&nbsp;</td>
+ <td>0.73</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=3982&amp;letter=A">Alone in The Dark 2 - CD/Flopy</a></td>
+ <td>1993</td>
+ <td>&nbsp;</td>
+ <td>0.73</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="211.4" height="8" alt="97% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=221&amp;letter=A">Alone in the Dark 3</a></td>
+ <td>1995</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=813&amp;letter=A">Alpha Waves</a></td>
+ <td>1990</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=1948&amp;letter=A">Alphaman</a></td>
+ <td>1995</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=4275&amp;letter=A">Alpine Encounter</a></td>
+ <td>1985</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=3241&amp;letter=A">Alter Ego Male/Female</a></td>
+ <td>1986</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=1090&amp;letter=A">Altered Beast</a></td>
+ <td>1990</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=803&amp;letter=A">Altered Destiny</a></td>
+ <td>1990</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=1717&amp;letter=A">Alternate Reality - The City</a></td>
+ <td>1988</td>
+ <td>&nbsp;</td>
+ <td>0.60</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=577&amp;letter=A">Amarillo Slim Dealer's Choice</a></td>
+ <td>1991</td>
+ <td>&nbsp;</td>
+ <td>0.72</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="174" height="8" alt="80% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=4394&amp;letter=A">Amazing Maze</a></td>
+ <td>1983</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="215.8" height="8" alt="99% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=1054&amp;letter=A">Amazing Spider-man</a></td>
+ <td>1989</td>
+ <td>&nbsp;</td>
+ <td>0.73</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=635&amp;letter=A">Amazon</a></td>
+ <td>1984</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=436&amp;letter=A">Amazon Guardians of Eden</a></td>
+ <td>1992</td>
+ <td>&nbsp;</td>
+ <td>0.72</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=4276&amp;letter=A">Amazon Trail</a></td>
+ <td>1993</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=180&amp;letter=A">Amberstar</a></td>
+ <td>1992</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=4272&amp;letter=A">Ambush at Sorinor</a></td>
+ <td>1993</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=4543&amp;letter=A">American Challenge</a></td>
+ <td>1986</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=2864&amp;letter=A">Amnesia</a></td>
+ <td>1986</td>
+ <td>&nbsp;</td>
+ <td>0.63</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=2288&amp;letter=A">Amok</a></td>
+ <td>1997</td>
+ <td>&nbsp;</td>
+ <td>0.72</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="187.2" height="8" alt="86% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=3128&amp;letter=A">Amulets & Armor</a></td>
+ <td>1997</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=3782&amp;letter=A">Amy's First Primer 2.2</a></td>
+ <td>1991</td>
+ <td>&nbsp;</td>
+ <td>0.72</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=101&amp;letter=A">An American Tail: Fievel Goes West</a></td>
+ <td>1994</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=697&amp;letter=A">Anacreon: Reconstruction 4021</a></td>
+ <td>1988</td>
+ <td>&nbsp;</td>
+ <td>0.72</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="196" height="8" alt="90% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=2930&amp;letter=A">Anatomik</a></td>
+ <td>1994</td>
+ <td>&nbsp;</td>
+ <td>0.63</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=285&amp;letter=A">Ancient Art of War</a></td>
+ <td>1989</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=1374&amp;letter=A">Ancient Art of War at Sea</a></td>
+ <td>1987</td>
+ <td>&nbsp;</td>
+ <td>0.60</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=388&amp;letter=A">Ancient Art of War in the Skies</a></td>
+ <td>1992</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="broken">broken</span></td>
+ <td>&nbsp;</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=2130&amp;letter=A">Ancient Battles</a></td>
+ <td>1988</td>
+ <td>&nbsp;</td>
+ <td>0.61</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="174" height="8" alt="80% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=825&amp;letter=A">Ancient Domains of Mystery (ADOM)</a></td>
+ <td>1994</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=2551&amp;letter=A">Ancient Empires</a></td>
+ <td>1991</td>
+ <td>&nbsp;</td>
+ <td>0.73</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=4395&amp;letter=A">Ancient Land of Ys</a></td>
+ <td>1989</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="213.6" height="8" alt="98% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=179&amp;letter=A">Ancients 1: Death Watch</a></td>
+ <td>1991</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=181&amp;letter=A">Ancients 2: Approaching Evil</a></td>
+ <td>1993</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=4163&amp;letter=A">Andromeda Conquest</a></td>
+ <td>1982</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=2089&amp;letter=A">Angband 3.0.6.</a></td>
+ <td>1997</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=2360&amp;letter=A">Angel Devoid: Face of the Enemy</a></td>
+ <td>1996</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=2463&amp;letter=A">Animal</a></td>
+ <td>1996</td>
+ <td>&nbsp;</td>
+ <td>0.72</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="185" height="8" alt="85% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=4430&amp;letter=A">Animal Quest</a></td>
+ <td>1993</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="185" height="8" alt="85% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=753&amp;letter=A">Annals of Rome</a></td>
+ <td>1986</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="207" height="8" alt="95% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=810&amp;letter=A">Annihilator tank</a></td>
+ <td>1996</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=136&amp;letter=A">Another World / Out of this world</a></td>
+ <td>1991</td>
+ <td>&nbsp;</td>
+ <td>0.72</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="211.4" height="8" alt="97% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=93&amp;letter=A">Anstoss</a></td>
+ <td>1994</td>
+ <td>&nbsp;</td>
+ <td>0.73</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=3122&amp;letter=A">Anstoss Worldcup Edition</a></td>
+ <td>1994</td>
+ <td>&nbsp;</td>
+ <td>0.73</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=3992&amp;letter=A">Ant Hill</a></td>
+ <td>1991</td>
+ <td>&nbsp;</td>
+ <td>0.73</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=3860&amp;letter=A">Ant Run</a></td>
+ <td>1993</td>
+ <td>&nbsp;</td>
+ <td>0.73</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=4396&amp;letter=A">Antarctic Adventure</a></td>
+ <td>1984</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="185" height="8" alt="85% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=4397&amp;letter=A">Anti-Ballistic-Missile</a></td>
+ <td>1982</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="215.8" height="8" alt="99% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=3049&amp;letter=A">Antix</a></td>
+ <td>1985</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=452&amp;letter=A">Anvil of Dawn</a></td>
+ <td>1995</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=2964&amp;letter=A">Apache</a></td>
+ <td>1995</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=4398&amp;letter=A">Apache Strike</a></td>
+ <td>1989</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="211.4" height="8" alt="97% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=4001&amp;letter=A">APB: All-Points Bulletin</a></td>
+ <td>1989</td>
+ <td>&nbsp;</td>
+ <td>0.73</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=2783&amp;letter=A">Apocalypse Abyss</a></td>
+ <td>1994</td>
+ <td>&nbsp;</td>
+ <td>0.73</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="209.2" height="8" alt="96% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=738&amp;letter=A">Apollo 18</a></td>
+ <td>1988</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=1951&amp;letter=A">Apple Panic</a></td>
+ <td>1982</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=3450&amp;letter=A">Arachnophobia</a></td>
+ <td>1991</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="174" height="8" alt="80% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=4106&amp;letter=A">Arcade America</a></td>
+ <td>1995</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=401&amp;letter=A">Arcade Pool</a></td>
+ <td>1994</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=2865&amp;letter=A">Arcade Volleyball</a></td>
+ <td>1988</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=4524&amp;letter=A">Arcade Volleyballl</a></td>
+ <td>1994</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=4047&amp;letter=A">Archer Maclean's Pool</a></td>
+ <td>1992</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=2124&amp;letter=A">Archimedean Dynasty</a></td>
+ <td>1996</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="196" height="8" alt="90% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=4399&amp;letter=A">Archipelagos</a></td>
+ <td>1989</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="211.4" height="8" alt="97% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=771&amp;letter=A">Archon</a></td>
+ <td>1984</td>
+ <td>&nbsp;</td>
+ <td>0.73</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=1835&amp;letter=A">Archon Ultra</a></td>
+ <td>1995</td>
+ <td>&nbsp;</td>
+ <td>0.73</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=72&amp;letter=A">Arctic Adventure</a></td>
+ <td>1991</td>
+ <td>&nbsp;</td>
+ <td>0.73</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=1191&amp;letter=A">Arctic Fox</a></td>
+ <td>1986</td>
+ <td>&nbsp;</td>
+ <td>0.58</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=3315&amp;letter=A">Arctic Moves</a></td>
+ <td>1995</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=4277&amp;letter=A">Are We There Yet?</a></td>
+ <td>1991</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=2064&amp;letter=A">Are you afraid of the dark?</a></td>
+ <td>1994</td>
+ <td>&nbsp;</td>
+ <td>0.72</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="207" height="8" alt="95% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=3597&amp;letter=A">Arena</a></td>
+ <td>1995</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="207" height="8" alt="95% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=14&amp;letter=A">Arena - The Elder Scrolls</a></td>
+ <td>1994</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=4586&amp;letter=A">Arena-</a></td>
+ <td>1994</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=3686&amp;letter=A">Arena:Elder Scrolls</a></td>
+ <td>1994</td>
+ <td>&nbsp;</td>
+ <td>0.73</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=1748&amp;letter=A">Ark of Time</a></td>
+ <td>1997</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="196" height="8" alt="90% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=424&amp;letter=A">Arkanoid</a></td>
+ <td>1983</td>
+ <td>&nbsp;</td>
+ <td>0.73</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=613&amp;letter=A">Arkanoid II - Revenge of Doh</a></td>
+ <td>1989</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=777&amp;letter=A">Armaeth - The Lost Kingdom</a></td>
+ <td>1993</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=1952&amp;letter=A">Armchair Quaterback</a></td>
+ <td>1985</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=298&amp;letter=A">Armor Alley</a></td>
+ <td>1991</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=2835&amp;letter=A">Armored Fist</a></td>
+ <td>1995</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=2988&amp;letter=A">Armored Fist 2</a></td>
+ <td>1997</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=2823&amp;letter=A">Armour-Geddon</a></td>
+ <td>1991</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=4002&amp;letter=A">Army Moves</a></td>
+ <td>1986</td>
+ <td>&nbsp;</td>
+ <td>0.73</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=4400&amp;letter=A">Arnhem</a></td>
+ <td>1985</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=1624&amp;letter=A">Arnie 2</a></td>
+ <td>1993</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=2254&amp;letter=A">Aro</a></td>
+ <td>1996</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=2117&amp;letter=A">Arthur: The Quest For Excalibur</a></td>
+ <td>1990</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=3198&amp;letter=A">Artic Baron</a></td>
+ <td>1992</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="196" height="8" alt="90% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=4003&amp;letter=A">Artic Moves</a></td>
+ <td>1995</td>
+ <td>&nbsp;</td>
+ <td>0.73</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=2713&amp;letter=A">Artura</a></td>
+ <td>1989</td>
+ <td>&nbsp;</td>
+ <td>0.63</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=4516&amp;letter=A">ARYAVAIV</a></td>
+ <td>1994</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=1125&amp;letter=A">Ascendancy</a></td>
+ <td>1995</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=3913&amp;letter=A">Ascendancy (CD)</a></td>
+ <td>1995</td>
+ <td>&nbsp;</td>
+ <td>0.73</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=3078&amp;letter=A">Ashes of Empire</a></td>
+ <td>1992</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="196" height="8" alt="90% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=784&amp;letter=A">Aspar GP Master</a></td>
+ <td>1988</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=1188&amp;letter=A">Aspetra</a></td>
+ <td>1996</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=3847&amp;letter=a">assault</a></td>
+ <td>1993</td>
+ <td>&nbsp;</td>
+ <td>0.72</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="193.8" height="8" alt="89% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=3919&amp;letter=A">Assault Trooper</a></td>
+ <td>1996</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=1564&amp;letter=A">Asterix & Obelix</a></td>
+ <td>1996</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=4482&amp;letter=A">Asterix &amp; Obelix</a></td>
+ <td>1996</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=3465&amp;letter=A">Asterix - Le DÃ©fi de CÃ©sar</a></td>
+ <td>1995</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=2866&amp;letter=A">Asterix - Operation Getafix</a></td>
+ <td>1989</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="163" height="8" alt="75% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=4552&amp;letter=A">Asterix and Obelix</a></td>
+ <td>1996</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=3375&amp;letter=A">Astonishia story</a></td>
+ <td>1995</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=4401&amp;letter=A">Astro Blaster</a></td>
+ <td>1988</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="185" height="8" alt="85% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=814&amp;letter=A">Astro Fire</a></td>
+ <td>1994</td>
+ <td>&nbsp;</td>
+ <td>0.73</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=4161&amp;letter=A">Astro-Dodge</a></td>
+ <td>1982</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="163" height="8" alt="75% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=3830&amp;letter=A">Astrocounter of Crescents</a></td>
+ <td>1996</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="playable">playable</span></td>
+ <td><img class="status" src="assets/166d3e3738a3fdacd615b3d68bd12e76.png" width="136.6" height="8" alt="63% (playable)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=4402&amp;letter=A">Astronomy Quest</a></td>
+ <td>1988</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=3050&amp;letter=A">Astrotit</a></td>
+ <td>1987</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="196" height="8" alt="90% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=4278&amp;letter=A">ATAC: The Secret War Against Drugs</a></td>
+ <td>1992</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=3140&amp;letter=A">Atlantis - The Lost Tales</a></td>
+ <td>1997</td>
+ <td>&nbsp;</td>
+ <td>0.72</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="174" height="8" alt="80% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=4043&amp;letter=A">Atlas</a></td>
+ <td>1995</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="playable">playable</span></td>
+ <td><img class="status" src="assets/166d3e3738a3fdacd615b3d68bd12e76.png" width="86" height="8" alt="40% (playable)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=631&amp;letter=A">Atomino</a></td>
+ <td>1991</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=739&amp;letter=A">Atomix</a></td>
+ <td>1990</td>
+ <td>&nbsp;</td>
+ <td>0.72</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=4004&amp;letter=A">ATP: Airline Transport Pilot</a></td>
+ <td>1990</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=3048&amp;letter=A">Attack on Altair</a></td>
+ <td>1983</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="196" height="8" alt="90% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=4044&amp;letter=A">Aufschwung Ost</a></td>
+ <td>1993</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="163" height="8" alt="75% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=4134&amp;letter=a">autka</a></td>
+ <td>1997</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="207" height="8" alt="95% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=3993&amp;letter=A">Autobots</a></td>
+ <td>1989</td>
+ <td>&nbsp;</td>
+ <td>0.73</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=3637&amp;letter=A">Autodesk 3d Studio 4</a></td>
+ <td>1994</td>
+ <td>&nbsp;</td>
+ <td>0.72</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=1130&amp;letter=A">Autoduel</a></td>
+ <td>1988</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=3886&amp;letter=A">Avish!</a></td>
+ <td>1993</td>
+ <td>&nbsp;</td>
+ <td>0.73</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=946&amp;letter=A">Avoid the Noid</a></td>
+ <td>1989</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=4403&amp;letter=A">Axe of Rage</a></td>
+ <td>1989</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="200.4" height="8" alt="92% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=4404&amp;letter=A">Axia</a></td>
+ <td>1998</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content_odd">
+ <td><a href="comp_list.php?showID=1794&amp;letter=A">Azalta</a></td>
+ <td>1996</td>
+ <td>&nbsp;</td>
+ <td>0.70</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="218" height="8" alt="100% (supported)">
+</td>
+</tr>
+<tr class="content">
+ <td><a href="comp_list.php?showID=2976&amp;letter=A">Azrael's Tear</a></td>
+ <td>1996</td>
+ <td>&nbsp;</td>
+ <td>0.74-3</td>
+ <td>&nbsp;</td>
+ <td><span class="supported">supported</span></td>
+ <td><img class="status" src="assets/04fd7a448bd3556b3bbf956276ea21ef.png" width="196" height="8" alt="90% (supported)">
+</td>
+</tr>
+</table></div><br><div style="width: 630px;" class="caption">Compatibility statistics (<b>3895</b> games in database)</div>
+<div style="width: 630px;" class="content">
+	<table cellspacing="0" cellpadding="0" width="100%">
+	<tr>
+	<td valign="top">
+	<b>Version:</b></td>
+
+	<td valign="top">
+	<span class="bold"><a href="?letter=broken">Games broken</a>:</span></td>
+
+	<td valign="top">
+	<span class="bold runnable"><a href="?letter=runnable">Games runnable</a>:</span></td>
+
+	<td valign="top">
+	<span class="bold playable"><a href="?letter=playable">Games playable</a>:</span></td>
+
+	<td valign="top">
+	<span class="bold supported">Games supported:</span></td>
+	</tr>
+
+	<tr class="content_odd">
+		<td valign="top">
+		DOSBox 0.74-3 (997)</td>
+		<td valign="top">
+		<a class="nodecor" href="?letter=broken&amp;version=0.74-3">26</a> (2.61%)</td>
+
+		<td valign="top">
+		<a class="nodecor" href="?letter=runnable&amp;version=0.74-3">21</a> (2.11%)</td>
+
+		<td valign="top">
+		<a class="nodecor" href="?letter=playable&amp;version=0.74-3">37</a> (3.71%)</td>
+
+		<td valign="top">
+		913 (91.57%)</td>
+		</tr><tr >
+		<td valign="top">
+		DOSBox 0.73 (621)</td>
+		<td valign="top">
+		<a class="nodecor" href="?letter=broken&amp;version=0.73">14</a> (2.25%)</td>
+
+		<td valign="top">
+		<a class="nodecor" href="?letter=runnable&amp;version=0.73">13</a> (2.09%)</td>
+
+		<td valign="top">
+		<a class="nodecor" href="?letter=playable&amp;version=0.73">13</a> (2.09%)</td>
+
+		<td valign="top">
+		581 (93.56%)</td>
+		</tr><tr class="content_odd">
+		<td valign="top">
+		DOSBox 0.72 (708)</td>
+		<td valign="top">
+		<a class="nodecor" href="?letter=broken&amp;version=0.72">40</a> (5.65%)</td>
+
+		<td valign="top">
+		<a class="nodecor" href="?letter=runnable&amp;version=0.72">20</a> (2.82%)</td>
+
+		<td valign="top">
+		<a class="nodecor" href="?letter=playable&amp;version=0.72">28</a> (3.95%)</td>
+
+		<td valign="top">
+		620 (87.57%)</td>
+		</tr><tr >
+		<td valign="top">
+		DOSBox 0.71 (151)</td>
+		<td valign="top">
+		<a class="nodecor" href="?letter=broken&amp;version=0.71">28</a> (18.54%)</td>
+
+		<td valign="top">
+		<a class="nodecor" href="?letter=runnable&amp;version=0.71">5</a> (3.31%)</td>
+
+		<td valign="top">
+		<a class="nodecor" href="?letter=playable&amp;version=0.71">7</a> (4.64%)</td>
+
+		<td valign="top">
+		111 (73.51%)</td>
+		</tr><tr class="content_odd">
+		<td valign="top">
+		DOSBox 0.70 (944)</td>
+		<td valign="top">
+		<a class="nodecor" href="?letter=broken&amp;version=0.70">21</a> (2.22%)</td>
+
+		<td valign="top">
+		<a class="nodecor" href="?letter=runnable&amp;version=0.70">13</a> (1.38%)</td>
+
+		<td valign="top">
+		<a class="nodecor" href="?letter=playable&amp;version=0.70">30</a> (3.18%)</td>
+
+		<td valign="top">
+		880 (93.22%)</td>
+		</tr><tr >
+		<td valign="top">
+		DOSBox 0.65 (715)</td>
+		<td valign="top">
+		<a class="nodecor" href="?letter=broken&amp;version=0.65">35</a> (4.90%)</td>
+
+		<td valign="top">
+		<a class="nodecor" href="?letter=runnable&amp;version=0.65">26</a> (3.64%)</td>
+
+		<td valign="top">
+		<a class="nodecor" href="?letter=playable&amp;version=0.65">39</a> (5.45%)</td>
+
+		<td valign="top">
+		615 (86.01%)</td>
+		</tr><tr class="content_odd">
+		<td valign="top">
+		DOSBox 0.63 (912)</td>
+		<td valign="top">
+		<a class="nodecor" href="?letter=broken&amp;version=0.63">75</a> (8.22%)</td>
+
+		<td valign="top">
+		<a class="nodecor" href="?letter=runnable&amp;version=0.63">43</a> (4.71%)</td>
+
+		<td valign="top">
+		<a class="nodecor" href="?letter=playable&amp;version=0.63">45</a> (4.93%)</td>
+
+		<td valign="top">
+		749 (82.13%)</td>
+		</tr><tr >
+		<td valign="top">
+		DOSBox 0.62 (391)</td>
+		<td valign="top">
+		<a class="nodecor" href="?letter=broken&amp;version=0.62">54</a> (13.81%)</td>
+
+		<td valign="top">
+		<a class="nodecor" href="?letter=runnable&amp;version=0.62">24</a> (6.14%)</td>
+
+		<td valign="top">
+		<a class="nodecor" href="?letter=playable&amp;version=0.62">27</a> (6.91%)</td>
+
+		<td valign="top">
+		286 (73.15%)</td>
+		</tr><tr class="content_odd">
+		<td valign="top">
+		DOSBox 0.61 (998)</td>
+		<td valign="top">
+		<a class="nodecor" href="?letter=broken&amp;version=0.61">87</a> (8.72%)</td>
+
+		<td valign="top">
+		<a class="nodecor" href="?letter=runnable&amp;version=0.61">58</a> (5.81%)</td>
+
+		<td valign="top">
+		<a class="nodecor" href="?letter=playable&amp;version=0.61">68</a> (6.81%)</td>
+
+		<td valign="top">
+		785 (78.66%)</td>
+		</tr><tr >
+		<td valign="top">
+		DOSBox 0.60 (768)</td>
+		<td valign="top">
+		<a class="nodecor" href="?letter=broken&amp;version=0.60">109</a> (14.19%)</td>
+
+		<td valign="top">
+		<a class="nodecor" href="?letter=runnable&amp;version=0.60">67</a> (8.72%)</td>
+
+		<td valign="top">
+		<a class="nodecor" href="?letter=playable&amp;version=0.60">72</a> (9.38%)</td>
+
+		<td valign="top">
+		520 (67.71%)</td>
+		</tr><tr class="content_odd">
+		<td valign="top">
+		DOSBox 0.58 (1141)</td>
+		<td valign="top">
+		<a class="nodecor" href="?letter=broken&amp;version=0.58">263</a> (23.05%)</td>
+
+		<td valign="top">
+		<a class="nodecor" href="?letter=runnable&amp;version=0.58">14</a> (1.23%)</td>
+
+		<td valign="top">
+		<a class="nodecor" href="?letter=playable&amp;version=0.58">19</a> (1.67%)</td>
+
+		<td valign="top">
+		845 (74.06%)</td>
+		</tr></table></div></td></tr></table><br><br>
+		</td>
+		<td valign="top">
+		<br>
+		<br>
+		<div class="temp">
+		<center><a href="/wiki/Basic_Setup_and_Installation_of_DosBox">DOSBox Tutorial</a></center>
+		</div>
+		<br>
+		<div class="temp">
+		<center><a href="/DOSBoxManual.html">DOSBox Manual</a></center>
+		</div>
+		<br>
+		<div class="gog">
+Looking for classic PC games?<br><br><a href="https://www.gog.com/?pp=b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f&amp;utm_medium=display" class="goglink_side">Get them at<br> <span class="gog1">GOG</span><span class="gog2">.COM</span></a>.<br><br>Cheap and<br>DRM-free!
+		</div>
+		<br>
+
+
+		</td>
+	</tr>
+</table>
+		<table align="left" width="100%" border="0" cellspacing="0" cellpadding="0">
+			<tr>
+				<td valign="top" width="14">
+ 					&nbsp;
+				</td>
+				<td valign="top">
+<br>&nbsp;<br>
+<form action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<input type="hidden" name="cmd" value="_s-xclick">
+<input type="image" src="assets/edbd6d9c69911375a483f2448e7a1075.gif" border="0" name="submit" alt="Make payments with PayPal - it's fast, free and secure!">
+<img alt="" border="0" src="assets/b55967a8b59b6369901ff538fca69dd4.gif" width="1" height="1">
+<input type="hidden" name="encrypted" value="-----BEGIN PKCS7-----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-----END PKCS7-----
+">
+
+					&nbsp;&nbsp;&nbsp;<img src="assets/e57c861ac0d0684141370500879ca809.jpg" alt="Compilations">&nbsp;&nbsp;&nbsp;
+					<a href="https://www.gog.com/?pp=b3f0c7f6bb763af1be91d9e74eabfeb199dc1f1f"><img src="assets/c3514e3016e223cb4a51e935ac121de9.jpg" alt="DRM-free PC classics - GOG.com"></a>&nbsp;&nbsp;&nbsp;
+					<a target="_blank" href="http://extremetracking.com/open?login=harekiet">
+					<img src="assets/5e733ca3a34419b59a3c5ee35b7d1300.gif" height=38
+					border=0 width=41 alt=""></a><script language="javascript1.2"><!--
+					EXs=screen;EXw=EXs.width;navigator.appName!="Netscape"?
+					EXb=EXs.colorDepth:EXb=EXs.pixelDepth;//-->
+					</script><script language="javascript"><!--
+					EXd=document;EXw?"":EXw="na";EXb?"":EXb="na";
+					EXd.write("<img src=\"//t0.extreme-dm.com",
+					"/0.gif?tag=harekiet&j=y&srw="+EXw+"&srb="+EXb+"&",
+					"l="+escape(EXd.referrer)+"\" height=1 width=1>");//-->
+					</script><noscript><img height=1 width=1 alt=""
+					src="assets/c20f41f68c5f07c9279742b89c2e13ce.gif"></noscript>
+					&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://www.sourceforge.net/projects/dosbox" target="_blank"><img src="assets/f86cb0621050052fdc8af24c04ca7d22.php" width="88" height="31" border="0" alt="SourceForge.net Logo"></a>
+					&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://sourceforge.net/donate/index.php?group_id=52551"><img src="assets/e9b60538df44c0223c634664724847b0.jpg" width="88" height="32" border="0" alt="Support This Project"></a></form>
+					<span class="bold" style="margin-left: 1em; line-height: 2em;">Copyright </span>&copy; <span class="bold">2019 DOSBox</span>
+				</td>
+			</tr>
+		</table><br><br><br><br><br><br>
+		
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write("\<script src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'>\<\/script>" );
+</script>
+<script type="text/javascript">
+var pageTracker = _gat._getTracker("UA-3229677-1");
+pageTracker._initData();
+pageTracker._trackPageview();
+</script>
+
+<div style="position:fixed;top:0;left:0;width:100%;height:45px;z-index:2147483647;background-color:rgba(253,147,38,0.90) !important;color:black !important;text-align:right !important;font:normal 12px/45px Arial, sans-serif !important;border-radius:0 !important;margin:0 !important;max-width:100% !important;background-repeat: no-repeat !important;background-position: 15px center !important;
+background-image: url(data:image/png;base64,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);
+"><span style="padding-right:15px;">You are viewing a snapshot of <a style='font-weight:bold !important; color:white !important' href='http://dosbox.sourceforge.net/comp_list.php?letter=a'>http://dosbox.sourceforge.net/comp_list.php?letter=a</a> created on 2020/08/11</span></div></body>
+</html>

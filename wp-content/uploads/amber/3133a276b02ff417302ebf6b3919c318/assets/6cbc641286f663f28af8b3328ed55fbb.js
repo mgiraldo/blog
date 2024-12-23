@@ -1,0 +1,1 @@
+var _apw = {"settings":{"tst":1597173188,"enabled":true,"base_domain":"www.elmundo.es","cookie_domain":"elmundo.es","uid":null,"payload":{"user":{"uid":null,"payload":null}},"anonymous_ac":null,"subscribers_ac":{"cookie_subs_ttl":5,"max_cookie_size":512}},"access":null,"modules":{}};

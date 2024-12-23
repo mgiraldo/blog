@@ -1,0 +1,27 @@
+
+.articlelead-in { font-size: small; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; background-color: #d3d3d3 }
+.articletitle { color: #4169e1; font-size: large; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+.articletitlenolink { color: maroon; font-size: large; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+.asktogslogan  { font-style: normal; font-size: 18pt; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-decoration: none }
+.asktogtitle  { font-weight: bold; font-size: 36px; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular; text-decoration: none }
+.booktitle { font-size: large }
+.byline { font-size: small; font-family: Arial, Helvetica, Geneva, Swiss, SunSans-Regular }
+.dateline { color: black; font-weight: bold; font-size: 10px; font-family: arial, "Times New Roman", Georgia, Times }
+.header2 { color: #000; font-weight: bold; font-size: 14px; font-family: Arial; background-color: #bce; margin-top: 12px; margin-bottom: 6px; padding: 0px; border-bottom: 1px solid #630 }
+.heading { color: navy; font-weight: bold; font-size: 14pt }
+.heading2 { color: #000; font-weight: bold; font-size: 14pt }
+.heading3 { color: #000; font-weight: bolder; font-size: 12pt }
+.large text { font-size: 16px }
+.leftmenutabletext  { font-weight: bold }
+.newclass { background-color: maroon }
+.silvertext12p { color: silver; font-weight: bolder; font-size: 12pt }
+body { color: black; font-size: 12px; font-family: georgia; background: white url(../assets/96f0bcdc97a055fe2fa823d90fcf9b84.gif)   }
+h1 { font-size: x-large }
+h2  { color: black; font-size: large }
+.parHeading1 /*agl rulekind: base; nickname: "Heading%201"; htmltag: h1;*/ { font-size: 18px; font-family: arial, verdana, geneva, helvetica; font-weight: bold; }
+.parHeading2 /*agl rulekind: base; nickname: "Heading%202"; htmltag: h2;*/ { font-size: 16px; font-family: arial, verdana, geneva, helvetica; font-weight: bold; }
+.parHeading3 /*agl rulekind: base; nickname: "Heading%203"; htmltag: h3;*/ { font-size: 15px; font-family: arial, verdana, geneva, helvetica; font-weight: bold; }
+.parHeading4 /*agl rulekind: base; nickname: "Heading%204"; htmltag: h4;*/ { font-size: 14px; font-family: arial, verdana, geneva, helvetica; font-weight: bold; }
+.parHeading5 /*agl rulekind: base; nickname: "Heading%205"; htmltag: h5;*/ { font-size: 13px; font-family: verdana, geneva, helvetica, arial; font-weight: bold; }
+.parHeading6 /*agl rulekind: base; nickname: "Heading%206"; htmltag: h6;*/ { font-size: 12px; font-family: arial, verdana, geneva, helvetica; font-weight: bold; }
+.parParagraph /*agl rulekind: base; nickname: "Paragraph"; htmltag: p;*/ { font-size: 12px; font-family: georgia, verdana, geneva, helvetica, arial; margin: 3px 0 0; }

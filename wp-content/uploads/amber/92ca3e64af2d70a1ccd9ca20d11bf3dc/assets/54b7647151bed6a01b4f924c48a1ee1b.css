@@ -1,0 +1,404 @@
+@charset "UTF-8";
+
+
+/* Tons de Azul
+(Azul_01) #0066CC (+ escuro)
+(Azul_02) #418DD9
+(Azul_03) #80B3E6
+(Azul_04) #B4D5FE - best for background-color
+(Azul_05) #E0ECF9
+(Azul_06) #F0F6FC (- claro)
+*/
+
+
+body {margin-left: 0px; margin-top: 0px; margin-right: 0px; margin-bottom: 0px; background-color: #FFFFFF;}
+
+img {border: none;}
+<!--- img {border-color: #CCCCCC;} --->
+body {table-layout: fixed;}
+
+a:link {
+    color: #333333; 
+	text-decoration: none;
+	}
+a:visited {
+    color: #333333; 
+	text-decoration: none;
+    }
+a:hover {
+    color: #666666; 
+	text-decoration: underline;
+    }
+a:active {
+    color: #333333; 
+	text-decoration: none;
+    }
+	
+.bodytext {font-family: Verdana; font-size: 11px; font-style: normal; line-height: 15px; color: #333333; font-weight: normal;}
+.bodytext a:link {color: #333333; text-decoration: underline;}
+.bodytext a:visited {color: #333333; text-decoration: underline;}
+.bodytext a:active {color: #333333; text-decoration: underline;}
+.bodytext a:hover {color: #666666; text-decoration: underline;}
+
+#influadsButton { 
+
+  top:0; 
+  right:0; 
+  height:70px;
+  width:340px;
+
+}
+#influadsButton .influads_block { 
+  height:70px; 
+  width:340px !important; 
+
+}
+#influadsButton .influads_link_img { 
+  float:left; 
+
+}
+
+#influadsButton .influads_text { 
+font: 10px/1.2 Verdana, sans-serif;
+  
+}
+
+#influadsButton .influads_powered_div { 
+font: 10px/0.1 Georgia, sans-serif;
+  color:#ddd !important; 
+  }
+  
+
+
+.FilterByLinks {
+	font-family: Verdana;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	color: #333333;
+	font-weight: normal;
+	margin-left: 10px;
+    }
+	
+.TitlesSideBar {
+	font-family: Verdana;
+	font-size: 14px;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	color: #CCCCCC;
+	font-weight: bold;
+	margin-left: 10px;
+    }
+	
+.FilterPullDown {
+	margin-right: 10px;
+    }
+	
+.SuggestPanel {
+	font-family: Verdana;
+	font-size: 10px;
+	font-style: normal;
+	line-height: 13px;
+	color: #666666;
+	font-weight: normal;
+	margin-left: 10px;
+    }
+	
+.smallTextGrey {
+	font-family: Verdana;
+	font-size: 10px;
+	font-style: normal;
+	line-height: 13px;
+	color: #666666;
+	font-weight: normal;
+    }
+
+.shadow1 {
+	background-color: #000000;
+	height:6px;
+	font-size: 10px;
+
+}
+
+.shadow2 {
+	background-color: #CCCCCC;
+	height:3px;
+	font-size: 10px;
+
+}
+	
+.TopLinks {
+	font-family: Verdana;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	color: #FFFFFF;
+	font-weight: normal;
+    }
+	
+a.TopLinks:link {
+    color: #FFFFFF; 
+	text-decoration: none;
+    }
+
+a.TopLinks:visited {
+    color: #FFFFFF; 
+	text-decoration: none;
+     }
+
+a.TopLinks:hover {
+    color: #FFFFFF; 
+	text-decoration: underline;
+    }
+
+a.TopLinks:active {
+    color: #FFFFFF; 
+	text-decoration: none;
+    }	
+
+.bodyGreyBold {
+	font-family: Verdana;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	color: #666666;
+	font-weight: bold;
+    }
+	
+.bodyGreyBold a:link {background-color: #FFFFFF; color: #666666; text-decoration: none;}
+.bodyGreyBold a:visited {background-color: #FFFFFF; color: #666666; text-decoration: none;}
+.bodyGreyBold a:active {background-color: #FFFFFF; color: #666666; text-decoration: none;}
+.bodyGreyBold a:hover {background-color: #FFFFFF; color: #999999; text-decoration: underline;}
+	
+	
+.bodyBlueBold {
+	font-family: Verdana;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	color: #418DD9;
+	font-weight: bold;
+    }
+	
+.smallTextBlue {
+	font-family: Verdana;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	color: #418DD9;
+	font-weight: normal;
+	background-color:#F0F6FC;
+    }
+	
+.smallTextBlack {
+	font-family: Verdana;
+	font-size: 10px;
+	font-style: normal;
+	line-height: normal;
+	color: #333333;
+	font-weight: bold;
+    }
+	
+.blueTextBrackets {
+	font-family: Verdana;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	color: #418DD9;
+	font-weight: normal;
+    }
+
+/*    COMMUNITY     */
+.title_community {
+	color: #333333;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 22px;
+	font-weight: normal;
+	margin-bottom: 0px;
+	}
+.subtitle_community {
+    color: #666666;
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-style: italic;
+	font-size: 14px;
+	margin-top: 3px;
+	margin-bottom: 20px;
+	}
+/*    COMMUNITY     */
+	
+.ProjectTitle {
+	font-family: Verdana;
+	font-size: 17px;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	color: #999999;
+	font-weight: bold;
+    }
+	
+	
+.Light_Grey_12 {
+	font-family: Verdana;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	color: #999999;
+	font-weight: bold;
+    }
+
+
+.DomainInProject {
+	font-family: Verdana;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	color: #999999;
+	font-weight: bold;
+    }
+.DomainInProject a:link {color: #999999; text-decoration: none;}
+.DomainInProject a:visited {color: #999999; text-decoration: none;}
+.DomainInProject a:active {color: #999999; text-decoration: none;}
+.DomainInProject a:hover {color: #999999; text-decoration: underline;}
+
+	
+.Dark_Grey_12 {
+	font-family: Verdana;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	color: #303030;
+	font-weight: bold;
+    }
+	
+.permalink {font-family: Verdana; font-size: 10px; font-style: normal; line-height: normal; color: #333333; font-weight: normal;}
+
+.links {
+	font-family: Verdana;
+	font-size: 10px;
+	font-style: normal;
+	line-height: 14px;
+	color: #333333;
+	font-weight: normal;
+	text-align: left;	
+}
+
+.links11 {
+	font-family: Verdana;
+	font-size: 11px;
+	font-style: normal;
+	line-height: 18px;
+	color: #333333;
+	font-weight: normal;
+}
+
+	
+.TBlue {
+	font-family: Verdana;
+	font-size: 13px;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	color: #418DD9;
+	font-weight: bold;
+    }
+
+	
+.TGrey {
+	font-family: Verdana;
+	font-size: 15px;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	color: #CCCCCC;
+	font-weight: bold;
+	margin-left: 10px;
+    }
+	
+.TBlack {
+	font-family: Verdana;
+	font-size: 11px;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	color: #666666;
+	font-weight: bold;
+    }
+	
+.BigTitleBlack {
+	font-family: Verdana;
+	font-size: 18px;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	color: #666666;
+	font-weight: bold;
+    }
+	
+.BigTitleBlue {
+	font-family: Verdana;
+	font-size: 22px;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	color: #418DD9;
+	font-weight: normal;
+    }
+	
+	
+.textTableIndex {background-color: #F1F1F1; color: #333333; font-family: Verdana; font-size: 10px; font-weight: normal;}
+.textTableIndex a:link {background-color: #F1F1F1; color: #333333; text-decoration: none;}
+.textTableIndex a:visited {background-color: #F1F1F1; color: #333333; text-decoration: none;}
+.textTableIndex a:active {background-color: #F1F1F1; color: #333333; text-decoration: none;}
+.textTableIndex a:hover {background-color: #666666; color: #FFFFFF; text-decoration: none;}
+
+.WhiteText {
+	font-family: Verdana;
+	font-size: 12px;
+	font-style: normal;
+	line-height: normal;
+	font-variant: normal;
+	color: #FFFFFF;
+	font-weight: normal;
+}
+
+
+table.sample {
+	border-width: 1px;
+	border-spacing: 5px;
+	border-style: dotted;
+	border-color: blue;
+	border-collapse: separate;
+	background-color: white;
+	width: 230px;
+	height: 30px;
+}
+table.sample th {
+	border-width: 1px;
+	padding: 1px;
+	border-style: none;
+	border-color: gray;
+	background-color: white;
+	-moz-border-radius: 0px;
+}
+table.sample td {
+	border-width: 1px;
+	padding: 4px;
+	border-style: none;
+	border-color: gray;
+	background-color: white;
+	-moz-border-radius: 0px;
+}
+
+.leftimage {
+	position: relative;
+	float: left;
+	margin-top: 0px;
+	margin-right: 20px;
+	margin-left: 0px;
+}

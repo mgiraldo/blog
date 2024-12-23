@@ -1,0 +1,22 @@
+
+/* Generic stylesheet, which makes no assumptions about base font size.  These rules are used unless
+a more specific stylesheet is selected by Javascript */
+
+td   { font-family: verdana, arial, helvetica, sans-serif; }
+th   { font-family: verdana, arial, helvetica, sans-serif; font-weight:bold; text-align:left; color:#FFFFFF;}
+body { font-family: verdana, arial, helvetica, sans-serif; }
+pre	 { font-family: courier, serif; }
+h1, h2, h3, h4, h5, h6 { font-family: verdana, arial, helvetica, sans-serif;  }
+
+h4.leftMargin	{ color:#666633; }
+
+.cssSmall		{ font-size: 85% }
+.cssSmallGray	{ font-size: 70%; color: #999999;  }
+.cssHdrLink		{ font-size: 70%; }
+.cssNavLink		{ font-size: 70%; }
+.cssSiteName	{ font-size: 115%; }
+.cssTagline		{ font-style: italic; font-weight: bold; color: #FFFFFF; }
+.cssPrehead		 { font-size: medium; font-weight: bold; margin-bottom: 1ex; vertical-align: top }
+
+.cssNavBar {border:1px solid #CCCCCC; border-top:2px solid #CCCCCC"}
+.cssGoldText  { color: #663; font-weight: bold }

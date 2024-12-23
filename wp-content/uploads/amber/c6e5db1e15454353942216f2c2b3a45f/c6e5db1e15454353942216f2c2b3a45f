@@ -1,0 +1,514 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML+RDFa 1.0//EN" "http://www.w3.org/MarkUp/DTD/xhtml-rdfa-1.dtd">
+<!--
+
+DON'T USE THIS PAGE FOR SCRAPING.
+
+Seriously. You'll only get your IP blocked.
+
+Read http://www.gutenberg.org/feeds/ to learn how to download Project
+Gutenberg metadata much faster than by scraping.
+
+--><html xmlns="http://www.w3.org/1999/xhtml" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:ebook="http://www.gutenberg.org/ebooks/" xmlns:marcrel="http://www.loc.gov/loc.terms/relators/" xmlns:xsd="http://www.w3.org/2001/XMLSchema#" lang="en_US" xml:lang="en_US" version="XHTML+RDFa 1.0">
+
+
+
+
+<head xmlns:og="http://opengraphprotocol.org/schema/" profile="http://a9.com/-/spec/opensearch/1.1/">
+<style type="text/css">
+.icon   { background: transparent url(assets/8dbfc70c05e8f9f56f22b1fe2a7ca33c.png) 0 0 no-repeat; }
+</style>
+<link rel="stylesheet" type="text/css" href="assets/bbdbe4ec05b7cc4cbba24a24b906a04f.css" />
+<script type="text/javascript">//<![CDATA[
+var json_search     = "/ebooks/suggest/";
+var mobile_url      = "http://m.gutenberg.org/ebooks/46672.mobile";
+var canonical_url   = "http://www.gutenberg.org/ebooks/46672";
+var lang            = "en_US";
+var fb_lang         = "en_US"; /* FB accepts only xx_XX */
+var msg_load_more   = "Load More Results…";
+var page_mode       = "screen";
+var dialog_title    = "";
+var dialog_message  = "";
+//]]></script>
+<script type="text/javascript" src="assets/2400b08035fbe005318e2da51d550a30.js"></script>
+<link rel="shortcut icon" href="/pics/favicon" />
+<link rel="canonical" href="http://www.gutenberg.org/ebooks/46672" />
+<link rel="search" type="application/opensearchdescription+xml" title="Search Project Gutenberg" href="http://www.gutenberg.org/catalog/osd-books.xml" />
+<link rel="alternate nofollow" type="application/atom+xml;profile=opds-catalog" title="OPDS feed" href="/ebooks/46672.opds" />
+<link rel="apple-touch-icon" href="/pics/apple-touch-icon" />
+<meta name="viewport" content="width=device-width" />
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Style-Type" content="text/css" />
+<meta http-equiv="Content-Language" content="en_US" />
+<meta name="title" content="Chronicles of England, Scotland and Ireland (3 of 6): England (3 of 9) by Holinshed" />
+<meta name="description" content="Free kindle book and epub digitized and proofread by Project Gutenberg." />
+<meta name="keywords" content="ebook, ebooks, free ebooks, free books, book, books, audio books" />
+<meta name="classification" content="public" />
+<meta property="og:title" content="Chronicles of England, Scotland and Ireland (3 of 6): England (3 of 9) by Holinshed" />
+<meta property="og:description" content="Free kindle book and epub digitized and proofread by Project Gutenberg." />
+<meta property="og:type" content="book" />
+<meta property="og:image" content="https://www.gutenberg.org/cache/epub/46672/pg46672.cover.medium.jpg" />
+<meta property="og:url" content="http://www.gutenberg.org/ebooks/46672" />
+<meta property="og:site_name" content="Project Gutenberg" />
+<meta property="fb:app_id" content="115319388529183" />
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@gutenberg_new" />
+<meta name="twitter:image" content="https://www.gutenberg.org/cache/epub/46672/pg46672.cover.medium.jpg" />
+<meta name="twitter:image:alt" content="book cover image" />
+<title>Chronicles of England, Scotland and Ireland (3 of 6): England (3 of 9) by Holinshed - Free Ebook</title>
+<link rel="alternate nofollow" type="application/rdf+xml" href="/ebooks/46672.rdf" />
+<style type="text/css">
+.qrcode { background: transparent url(assets/8c443315552e32b3749ec45ceee70d91.png) 0 0 no-repeat; }
+</style>
+<meta name="google" content="notranslate" />
+</head>
+<body>
+<div id="mw-head-dummy" class="noprint"></div>
+<div id="content" itemscope="itemscope" itemtype="http://schema.org/Book">
+<div class="breadcrumbs noprint">
+<ul>
+<li class="breadcrumb first" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+<span class="breadcrumb-separator"></span>
+<a href="/" title="Go to the Main page." itemprop="url"><span itemprop="title">Project Gutenberg</span></a>
+</li>
+<li class="breadcrumb next" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+<span class="breadcrumb-separator"></span>
+<a href="/ebooks/" title="Start a new search." itemprop="url"><span itemprop="title">62,810 free ebooks</span></a>
+</li>
+<li class="breadcrumb next" itemscope="itemscope" itemtype="http://data-vocabulary.org/Breadcrumb">
+<span class="breadcrumb-separator"></span>
+<a href="/ebooks/author/5166" title="Find more ebooks by the same author." itemprop="url"><span itemprop="title">29 by Raphael Holinshed</span></a>
+</li>
+</ul>
+</div>
+<div class="header">
+<h1 itemprop="name">Chronicles of England, Scotland and Ireland (3 of 6): England (3 of 9) by Holinshed</h1>
+</div>
+<div class="body">
+<div property="dcterms:publisher" itemprop="publisher" content="Project Gutenberg"></div>
+<div itemprop="bookFormat" content="EBook"></div>
+<div id="cover-social-wrapper">
+<div id="cover">
+<img class="cover-art" src="https://www.gutenberg.org/cache/epub/46672/pg46672.cover.medium.jpg" title="Book Cover" alt="Book Cover" itemprop="image" />
+</div>
+<div id="social" class="noprint">
+<ul>
+<li>
+<!-- tweet without javascript -->
+<div class="social-button twitter-share-button">
+<a href="https://twitter.com/share?url=http%3A%2F%2Fwww.gutenberg.org%2Febooks%2F46672&amp;text=Chronicles%20of%20England%2C%20Scotland%20and%20Ireland%20%283%20of%206%29%3A%20England%20%283%20of%209%29%20by%20Holinshed&amp;count=none&amp;lang=en&amp;related=gutenberg_new%3AProject%20Gutenberg%20New%20Books" title="Share on Twitter" onclick="open_share_popup(this.href, this.target, 640, 320)" target="_tw_share_popup">
+<span class="icon icon_twitter"></span>
+</a>
+</div>
+</li>
+<li>
+<a onclick="printpage ()" title="Print this page"><span class="icon icon_print"></span></a>
+</li>
+</ul>
+</div>
+<div id="qr">
+<span class="qrcode qrcode-desktop" title="Scan QR Code for this page."></span>
+</div>
+</div>
+<div id="tabs-wrapper">
+<div id="tabs">
+<ul class="noprint">
+<li><a href="#download">Download</a></li>
+<li><a href="#bibrec">Bibrec</a></li>
+</ul>
+<div id="bibrec">
+<div typeof="pgterms:ebook" about="[ebook:46672]">
+<h2>Bibliographic Record <span>
+<a href="/wiki/Gutenberg:Help_on_Bibliographic_Record_Page#Table:_Bibliographic_Record" title="Explain Table: Bibliographic Record."><span class="icon icon_help noprint"></span></a>
+</span></h2>
+<table class="bibrec" summary="Bibliographic data of author and book.">
+<colgroup>
+<col class="narrow" />
+<col />
+</colgroup>
+<tr>
+<th>Author</th>
+<td>
+<a href="/ebooks/author/5166" rel="marcrel:aut" about="/authors/5166" typeof="pgterms:agent" itemprop="creator">Holinshed, Raphael, -1580?</a></td>
+</tr>
+<tr>
+<th>Title</th>
+<td itemprop="headline">
+Chronicles of England, Scotland and Ireland (3 of 6): England (3 of 9)<br />Henrie the Sixt, Sonne and Heire to Henrie the Fift
+</td>
+</tr>
+<tr property="dcterms:language" datatype="dcterms:RFC4646" itemprop="inLanguage" content="en">
+<th>Language</th>
+<td>English</td>
+</tr>
+<tr property="dcterms:subject" datatype="dcterms:LCC" content="DA">
+<th>LoC Class</th>
+<td>
+<a href="/browse/loccs/da">DA: History: General and Eastern Hemisphere: Great Britain, Ireland, Central Europe</a>
+</td>
+</tr>
+<tr>
+<th>Subject</th>
+<td property="dcterms:subject" datatype="dcterms:LCSH">
+<a class="block" href="/ebooks/subject/2056">
+Great Britain -- History -- Tudors, 1485-1603
+</a>
+</td>
+</tr><tr>
+<th>Subject</th>
+<td property="dcterms:subject" datatype="dcterms:LCSH">
+<a class="block" href="/ebooks/subject/6151">
+Great Britain -- History -- Henry VI, 1422-1461
+</a>
+</td>
+</tr><tr>
+<th>Subject</th>
+<td property="dcterms:subject" datatype="dcterms:LCSH">
+<a class="block" href="/ebooks/subject/23851">
+Great Britain -- History -- To 1485
+</a>
+</td>
+</tr>
+<tr>
+<th>Category</th>
+<td property="dcterms:type" datatype="dcterms:DCMIType">Text</td>
+</tr>
+<tr>
+<th>EBook-No.</th>
+<td>46672</td>
+</tr>
+<tr property="dcterms:issued" datatype="xsd:date" content="2014-08-24T00:00:00+00:00">
+<th>Release Date</th>
+<td itemprop="datePublished">Aug 24, 2014</td>
+</tr>
+<tr>
+<th>Copyright Status</th>
+<td property="dcterms:rights">Public domain in the USA.</td>
+</tr>
+<tr>
+<th>Downloads</th>
+<td itemprop="interactionCount">11 downloads in the last 30 days.</td>
+</tr>
+<tr itemprop="offers" itemscope="itemscope" itemtype="http://schema.org/Offer">
+<th>Price</th>
+<td><span itemprop="priceCurrency" content="USD"></span><span itemprop="price">$0.00</span><span itemprop="availability" href="http://schema.org/InStock" content="In Stock"></span></td>
+</tr>
+</table>
+</div>
+<div id="more_stuff">
+<h2 class="header">Similar Books</h2>
+<div class="grayed noprint navlink">
+<a rel="nofollow" href="/ebooks/46672/also/" accesskey="1">
+<span class="cell leftcell">
+<span class="icon icon_suggestion"></span>
+</span>
+<span class="cell content">
+<span class="title">Readers also downloaded…</span>
+</span>
+<span class="hstrut"></span>
+</a>
+</div>
+</div> <!-- more stuff -->
+</div>
+<div id="download">
+<div about="[ebook:46672]" rel="dcterms:hasFormat" rev="dcterms:isFormatOf">
+<h2>Download This eBook</h2>
+<table class="files" summary="Table of available file types and sizes.">
+<colgroup>
+<col class="narrow" />
+<col />
+<col />
+<col class="narrow noprint" />
+<col class="narrow noprint" />
+<col class="narrow noprint" />
+</colgroup>
+<tr>
+<th></th>
+<th>Format <span>
+<a href="/wiki/Gutenberg:Help_on_Bibliographic_Record_Page#Format" title="Explain Format."><span class="icon icon_help noprint"></span></a>
+</span></th>
+<th class="noscreen">Url</th>
+<th class="right">Size</th>
+<th class="noprint"><span>
+<a href="/wiki/Gutenberg:Help_on_Bibliographic_Record_Page#Dropbox" title="Explain Dropbox."><span class="icon icon_help noprint"></span></a>
+</span></th>
+<th class="noprint"><span>
+<a href="/wiki/Gutenberg:Help_on_Bibliographic_Record_Page#Google_Drive" title="Explain Google Drive."><span class="icon icon_help noprint"></span></a>
+</span></th>
+<th class="noprint"><span>
+<a href="/wiki/Gutenberg:Help_on_Bibliographic_Record_Page#OneDrive" title="Explain OneDrive."><span class="icon icon_help noprint"></span></a>
+</span></th>
+</tr>
+<tr class="even" about="https://www.gutenberg.org/files/46672/46672-h/46672-h.htm" typeof="pgterms:file">
+<td><span class="icon icon_book"></span></td>
+<td property="dcterms:format" content="text/html; charset=us-ascii" datatype="dcterms:IMT" class="unpadded icon_save"><a href="/files/46672/46672-h/46672-h.htm" type="text/html; charset=us-ascii" class="link" title="Download">Read this book online: HTML</a></td>
+<td class="noscreen">https://www.gutenberg.org/files/46672/46672-h/46672-h.htm</td>
+<td class="right" property="dcterms:extent" content="684032">668 kB</td>
+<td class="noprint">
+</td>
+<td class="noprint">
+</td>
+<td class="noprint">
+<a href="/ebooks/send/megaupload/46672.html" title="Send to MegaUpload." rel="nofollow"></a>
+</td>
+</tr><tr class="even" about="https://www.gutenberg.org/ebooks/46672.epub.images" typeof="pgterms:file">
+<td><span class="icon icon_book"></span></td>
+<td property="dcterms:format" content="application/epub+zip" datatype="dcterms:IMT" class="unpadded icon_save"><a href="/ebooks/46672.epub.images?session_id=8398daa5ec4abfbce9b3a256e92c40edb9fc3ea6" type="application/epub+zip" class="link" title="Download">EPUB (with images)</a></td>
+<td class="noscreen">https://www.gutenberg.org/ebooks/46672.epub.images</td>
+<td class="right" property="dcterms:extent" content="373525">365 kB</td>
+<td class="noprint">
+<a href="/ebooks/send/dropbox/46672.epub.images" title="Send to Dropbox." rel="nofollow"><span class="icon icon_dropbox"></span></a>
+</td>
+<td class="noprint">
+<a href="/ebooks/send/gdrive/46672.epub.images" title="Send to Google Drive." rel="nofollow"><span class="icon icon_gdrive"></span></a>
+</td>
+<td class="noprint">
+<a href="/ebooks/send/msdrive/46672.epub.images" title="Send to OneDrive." rel="nofollow"><span class="icon icon_msdrive"></span></a>
+</td>
+</tr><tr class="odd" about="https://www.gutenberg.org/ebooks/46672.epub.noimages" typeof="pgterms:file">
+<td><span class="icon icon_book"></span></td>
+<td property="dcterms:format" content="application/epub+zip" datatype="dcterms:IMT" class="unpadded icon_save"><a href="/ebooks/46672.epub.noimages?session_id=8398daa5ec4abfbce9b3a256e92c40edb9fc3ea6" type="application/epub+zip" class="link" title="Download">EPUB (no images)</a></td>
+<td class="noscreen">https://www.gutenberg.org/ebooks/46672.epub.noimages</td>
+<td class="right" property="dcterms:extent" content="311392">304 kB</td>
+<td class="noprint">
+<a href="/ebooks/send/dropbox/46672.epub.noimages" title="Send to Dropbox." rel="nofollow"><span class="icon icon_dropbox"></span></a>
+</td>
+<td class="noprint">
+<a href="/ebooks/send/gdrive/46672.epub.noimages" title="Send to Google Drive." rel="nofollow"><span class="icon icon_gdrive"></span></a>
+</td>
+<td class="noprint">
+<a href="/ebooks/send/msdrive/46672.epub.noimages" title="Send to OneDrive." rel="nofollow"><span class="icon icon_msdrive"></span></a>
+</td>
+</tr><tr class="even" about="https://www.gutenberg.org/ebooks/46672.kindle.images" typeof="pgterms:file">
+<td><span class="icon icon_book"></span></td>
+<td property="dcterms:format" content="application/x-mobipocket-ebook" datatype="dcterms:IMT" class="unpadded icon_save"><a href="/ebooks/46672.kindle.images?session_id=8398daa5ec4abfbce9b3a256e92c40edb9fc3ea6" type="application/x-mobipocket-ebook" class="link" title="Download">Kindle (with images)</a></td>
+<td class="noscreen">https://www.gutenberg.org/ebooks/46672.kindle.images</td>
+<td class="right" property="dcterms:extent" content="1315073">1.3 MB</td>
+<td class="noprint">
+<a href="/ebooks/send/dropbox/46672.kindle.images" title="Send to Dropbox." rel="nofollow"><span class="icon icon_dropbox"></span></a>
+</td>
+<td class="noprint">
+<a href="/ebooks/send/gdrive/46672.kindle.images" title="Send to Google Drive." rel="nofollow"><span class="icon icon_gdrive"></span></a>
+</td>
+<td class="noprint">
+<a href="/ebooks/send/msdrive/46672.kindle.images" title="Send to OneDrive." rel="nofollow"><span class="icon icon_msdrive"></span></a>
+</td>
+</tr><tr class="odd" about="https://www.gutenberg.org/ebooks/46672.kindle.noimages" typeof="pgterms:file">
+<td><span class="icon icon_book"></span></td>
+<td property="dcterms:format" content="application/x-mobipocket-ebook" datatype="dcterms:IMT" class="unpadded icon_save"><a href="/ebooks/46672.kindle.noimages?session_id=8398daa5ec4abfbce9b3a256e92c40edb9fc3ea6" type="application/x-mobipocket-ebook" class="link" title="Download">Kindle (no images)</a></td>
+<td class="noscreen">https://www.gutenberg.org/ebooks/46672.kindle.noimages</td>
+<td class="right" property="dcterms:extent" content="1205000">1.1 MB</td>
+<td class="noprint">
+<a href="/ebooks/send/dropbox/46672.kindle.noimages" title="Send to Dropbox." rel="nofollow"><span class="icon icon_dropbox"></span></a>
+</td>
+<td class="noprint">
+<a href="/ebooks/send/gdrive/46672.kindle.noimages" title="Send to Google Drive." rel="nofollow"><span class="icon icon_gdrive"></span></a>
+</td>
+<td class="noprint">
+<a href="/ebooks/send/msdrive/46672.kindle.noimages" title="Send to OneDrive." rel="nofollow"><span class="icon icon_msdrive"></span></a>
+</td>
+</tr><tr class="even" about="https://www.gutenberg.org/ebooks/46672.txt.utf-8" typeof="pgterms:file">
+<td><span class="icon icon_book"></span></td>
+<td property="dcterms:format" content="text/plain" datatype="dcterms:IMT" class="unpadded icon_save"><a href="/ebooks/46672.txt.utf-8" type="text/plain" class="link" title="Download">Plain Text UTF-8</a></td>
+<td class="noscreen">https://www.gutenberg.org/ebooks/46672.txt.utf-8</td>
+<td class="right" property="dcterms:extent" content="628351">614 kB</td>
+<td class="noprint">
+</td>
+<td class="noprint">
+</td>
+<td class="noprint">
+</td>
+</tr>
+<tr class="even">
+<td><span class="icon icon_folder"></span></td>
+<td class="unpadded icon_file"><a href="/files/46672/" class="link">More Files…</a></td>
+<td class="noscreen">http://www.gutenberg.org/files/46672/</td>
+<td></td>
+<td class="noprint"></td>
+<td class="noprint"></td>
+<td class="noprint"></td>
+</tr>
+</table>
+</div>
+</div> <!-- download -->
+</div>
+</div>
+</div>
+<div id="dialog" class="hidden">
+</div>
+<div class="footer">
+</div>
+</div>
+<div id="fb-root"></div>
+<div id="print-head" class="noscreen">
+<div class="center">http://www.gutenberg.org/ebooks/46672<br /><br />Project Gutenberg offers 62,810 free ebooks to download.</div>
+</div>
+<div id="screen-head" class="noprint">
+<table>
+<tr>
+<td rowspan="2" id="logo">
+<a href="/wiki/Main_Page" title="Go to the Main Page.">
+<span class="icon icon_logo"></span>
+</a>
+</td>
+<td id="tagline-badges" colspan="2">
+<table>
+<tr>
+<td id="tagline">Project Gutenberg offers 62,810 free ebooks to download.</td>
+<td id="paypal-badge" class="badge">
+<form class="paypal-button" action="https://www.paypal.com/cgi-bin/webscr" method="post">
+<div>
+<input lang="en" xml:lang="en" type="hidden" name="cmd" value="_s-xclick" />
+<input lang="en" xml:lang="en" type="hidden" name="hosted_button_id" value="XKAL6BZL3YPSN" />
+<input type="image" name="submit" src="assets/d21692ff4718b2154688b78e05a32e2f.gif" title="Send us money through PayPal." />
+</div>
+</form>
+</td>
+<td id="flattr-badge" class="badge">
+<a class="flattr-button" target="_blank" href="https://flattr.com/thing/509045/Project-Gutenberg" title="Send us money through Flattr.">
+<span class="icon icon_flattr"></span>
+</a>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr id="menubar-search">
+<td id="menubar">
+<a id="menubar-first" tabindex="11" accesskey="1" title="Start a new search." href="/ebooks/">Search</a>
+<a tabindex="22" title="Our latest releases." href="/ebooks/search/?sort_order=release_date">Latest</a>
+<a tabindex="31" title="Read the Project Gutenberg terms of use." href="/terms_of_use/">Terms of Use</a>
+<a tabindex="32" href="/wiki/Gutenberg:Project_Gutenberg_Needs_Your_Donation" title="Learn why we need some money.">Donate?</a>
+<a tabindex="33" accesskey="m" href="http://m.gutenberg.org/ebooks/46672.mobile" title="Go to our mobile site.">Mobile</a>
+</td>
+<td id="search">
+<form method="get" action="/ebooks/search/" enctype="multipart/form-data">
+<table class="borderless">
+<tr>
+<td id="search-button-cell">
+<button id="search-button" type="submit" title="Execute the search. &lt;enter&gt;">
+<span class="icon icon_smsearch"></span>
+</button>
+</td>
+<td id="search-input-cell">
+<input id="search-input" name="query" type="text" title="Search Project Gutenberg. &lt;s&gt;" accesskey="s" value="" />
+</td>
+<td id="help-button-cell">
+<button id="help-button" type="button" title="Open the help menu. &lt;h&gt;" accesskey="h">Help</button>
+</td>
+</tr>
+</table>
+</form>
+</td>
+</tr>
+</table>
+<div id="helpbox" class="hide">
+<div>
+<p>Enter your search terms separated by spaces,
+then press &lt;Enter&gt;.
+Avoid punctuation except as indicated below:</p>
+<table class="helpbox">
+<tr>
+<th>Suffixes</th>
+<th lang="en" xml:lang="en">.</th>
+<td>exact match</td>
+</tr>
+<tr>
+<th rowspan="7">Prefixes</th>
+<th lang="en" xml:lang="en">a.</th>
+<td>author</td>
+</tr>
+<tr>
+<th lang="en" xml:lang="en">t.</th>
+<td>title</td>
+</tr>
+<tr>
+<th lang="en" xml:lang="en">s.</th>
+<td>subject</td>
+</tr>
+<tr>
+<th lang="en" xml:lang="en">l.</th>
+<td>language</td>
+</tr>
+<tr>
+<th lang="en" xml:lang="en">#</th>
+<td>ebook no.</td>
+</tr>
+<tr>
+<th lang="en" xml:lang="en">n.</th>
+<td>ebook no.</td>
+</tr>
+<tr>
+<th lang="en" xml:lang="en">cat.</th>
+<td>category</td>
+</tr>
+<tr>
+<th rowspan="3" style="width: 8em">
+Operators
+<small>Always put spaces around these.</small>
+</th>
+<th lang="en" xml:lang="en">|</th>
+<td>or</td>
+</tr>
+<tr>
+<th lang="en" xml:lang="en">!</th>
+<td>not</td>
+</tr>
+<tr>
+<th lang="en" xml:lang="en">( )</th>
+<td>grouping</td>
+</tr>
+</table>
+<table class="helpbox">
+<tr>
+<th>this query</th>
+<th>finds</th>
+</tr>
+<tr>
+<td lang="en" xml:lang="en">shakespeare hamlet</td>
+<td>"Hamlet" by Shakespeare</td>
+</tr>
+<tr>
+<td lang="en" xml:lang="en">qui.</td>
+<td>"qui", not "Quixote"</td>
+</tr>
+<tr>
+<td lang="en" xml:lang="en">love stories</td>
+<td>love stories</td>
+</tr>
+<tr>
+<td lang="en" xml:lang="en">a.shakespeare</td>
+<td>by Shakespeare</td>
+</tr>
+<tr>
+<td lang="en" xml:lang="en">s.shakespeare</td>
+<td>about Shakespeare</td>
+</tr>
+<tr>
+<td lang="en" xml:lang="en">#74</td>
+<td>ebook no. 74</td>
+</tr>
+<tr>
+<td lang="en" xml:lang="en">juvenile l.german</td>
+<td>juvenile lit in German</td>
+</tr>
+<tr>
+<td lang="en" xml:lang="en">verne ( l.fr | l.it )</td>
+<td>by Verne in French or Italian</td>
+</tr>
+<tr>
+<td lang="en" xml:lang="en">love stories ! austen</td>
+<td>love stories not by Austen</td>
+</tr>
+<tr>
+<td lang="en" xml:lang="en">jane austen cat.audio</td>
+<td>audio books by Jane Austen</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+
+<div style="position:fixed;top:0;left:0;width:100%;height:45px;z-index:2147483647;background-color:rgba(253,147,38,0.90) !important;color:black !important;text-align:right !important;font:normal 12px/45px Arial, sans-serif !important;border-radius:0 !important;margin:0 !important;max-width:100% !important;background-repeat: no-repeat !important;background-position: 15px center !important;
+background-image: url(data:image/png;base64,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);
+"><span style="padding-right:15px;">You are viewing a snapshot of <a style='font-weight:bold !important; color:white !important' href='http://www.gutenberg.org/ebooks/46672'>http://www.gutenberg.org/ebooks/46672</a> created on 2020/08/09</span></div></body>
+</html>

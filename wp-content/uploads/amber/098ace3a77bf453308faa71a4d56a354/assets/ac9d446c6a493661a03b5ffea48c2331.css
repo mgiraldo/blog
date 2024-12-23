@@ -1,0 +1,257 @@
+/* resets */
+h1,
+h2,
+h3 {
+  font-size: 100%;
+  font-weight: normal;
+}
+div,
+p,
+li,
+ol,
+ul,
+blockquote,
+h1,
+h2,
+h3,
+pre {
+  margin: 0;
+  padding: 0;
+}
+cite {
+  font-style: normal;
+}
+/* end resets */
+
+body {
+  margin: 0 0;
+  padding: 0;
+  background: #ffffff;
+  color: #555555;
+  font: 1em/1.618 "ff-tisa-web-pro", sans-serif;
+  text-align: center; /* ie */
+}
+
+#awesome {
+  margin: 0 auto;
+  max-width: 30em;
+  padding-left: 1em;
+  padding-right: 1em;
+  padding-bottom: 2.618em;
+  text-align: left; /* ie */
+}
+
+img {
+  border: 1px solid #eeeeee;
+}
+
+p img {
+  vertical-align: top;
+}
+
+p img + img {
+  margin-left: 10px;
+}
+
+a:link,
+a:visited,
+a:hover,
+a:active {
+  color: inherit;
+  text-decoration: underline;
+}
+a:hover,
+a:active {
+  color: #d32e18;
+}
+
+h3 a:link,
+h3 a:visited,
+h3 a:hover,
+h3 a:active,
+.published a:link,
+.published a:visited,
+.published a:hover,
+.published a:active,
+a.permalink:link,
+a.permalink:visited,
+a.permalink:hover,
+a.permalink:active {
+  text-decoration: none;
+}
+
+.internetexplorer a:link,
+.internetexplorer a:visited,
+.internetexplorer a:hover,
+.internetexplorer a:active {
+  color: #d32e18;
+}
+
+h1 {
+  color: #d32e18;
+  font: 600 normal 2.618em/1.4 "freight-sans-pro", sans-serif;
+  margin: 0.382em 0 0;
+  letter-spacing: -0.0346em;
+  border-bottom: 1px solid #e8e8e8;
+}
+
+.blurb {
+  color: #c9c9c9;
+  margin-top: 0px;
+}
+
+.published {
+  color: #c9c9c9;
+  margin: 0;
+}
+
+/* front page */
+.front {
+  font-size: 1.618em;
+}
+.front h1 {
+  letter-spacing: -0.146em;
+  border-bottom: 1px solid #e8e8e8;
+}
+.front p {
+  margin-top: 0.618em;
+  line-height: 1.4;
+}
+
+/* weblog entries */
+.entry {
+  margin: 1em 0;
+  position: relative;
+}
+
+.entry p:nth-last-child(2):before {
+  content: " ";
+  margin-top: 1em;
+  display: block;
+}
+
+.entry p:nth-last-child(2) {
+  display: inline;
+}
+.entry .permalink {
+  display: inline-block;
+  color: #d32e18;
+}
+
+.entry + .entry {
+  margin-top: 2.618em;
+}
+
+p,
+ul,
+ol,
+h3,
+blockquote,
+pre {
+  margin-top: 1em;
+}
+
+h3 {
+  font: 600 normal 2.12em/1 "freight-sans-pro", sans-serif;
+  color: #d32e18;
+}
+
+/* list items */
+ul,
+ol {
+  list-style-position: outside;
+}
+li {
+  color: #d32e18;
+}
+ol li {
+  list-style: decimal;
+}
+ul li {
+  list-style-type: disc;
+}
+li span {
+  color: #555555;
+}
+
+/* blockquotes */
+blockquote {
+  position: relative;
+}
+blockquote .hello_quote_open,
+blockquote .hello_quote_close {
+  color: #d32e18;
+  font-family: "ff-tisa-web-pro";
+  font-weight: bold;
+}
+blockquote .hello_quote_open {
+  position: absolute;
+  left: -10px;
+  top: 0;
+}
+
+blockquote .hello_quote_close {
+  bottom: 0;
+  padding-left: 3px;
+}
+
+.internetexplorer blockquote .hello_quote_open,
+.internetexplorer blockquote .hello_quote_close {
+  color: #555555;
+  position: static;
+  font-size: 1em;
+  line-height: 1.4em;
+  padding-left: 0;
+}
+
+.hello_quote_source span {
+  color: #d32e18;
+}
+.hello_quote_source {
+  margin-top: 0;
+  color: #777777;
+}
+
+p.published {
+  color: #dddddd;
+}
+
+/* code */
+
+code {
+  font: 0.8em/1.618 "source-code-pro", Courier, Monospace;
+  color: #999999;
+}
+
+pre code {
+  font-size: 1em;
+}
+
+code .cr_c {
+  /* comment */
+  color: #999999;
+}
+
+/* html */
+code.hello_code_html .cr_ta {
+  /* tag */
+  color: #666666;
+}
+
+/* css */
+code.hello_code_css .cr_kw,   /* keyword, as in tag */
+code.hello_code_css .cr_cl,   /* class */
+code.hello_code_css .cr_ps {
+  /* pseudo_class */
+  color: #666666;
+}
+code.hello_code_css .cr_ke,   /* key */
+code.hello_code_css .cr_vl, /* value */
+code.hello_code_css .cr_cr {
+  /* color */
+  color: #999999;
+}
+code.hello_code_css .cr_op {
+  /* operator */
+  color: #777777;
+}

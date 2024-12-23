@@ -1,0 +1,39 @@
+body {
+	background-color: #FFFFFF
+}
+
+a, a:visited {
+	color: #559966;
+	text-decoration: none;
+}
+
+a:hover {
+	color: #FF6735;
+}
+
+h1	{
+	text-align: left;
+	color: black;
+	font-family: arial;
+	font-size:24pt;
+	font-weight: bold;
+	margin-bottom: -15px
+	}
+
+
+h2	{
+	text-align: left;
+	color: #333333;
+	font-family: arial;
+	font-size:14pt;
+	font-weight: bold;
+	margin-bottom: -15px
+	}
+
+p	{
+	text-align: left;
+	font-family: Arial;
+	color: #333333;
+	font-size:10pt;
+	letter-spacing: 0pt;
+}

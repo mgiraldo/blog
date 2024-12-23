@@ -1,0 +1,702 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="pingback" href="http://mikeindustries.com/wp/xmlrpc.php">
+		<link rel="alternate" type="application/rss+xml" title="RSS"  href="https://mikeindustries.com/blog/feed">
+		<link rel="alternate" type="application/atom+xml" title="Atom" href="https://mikeindustries.com/blog/feed/atom">
+		<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Mike Industries &raquo; Twitter Buys Summify, Gives Everyone a Reason to Use It Comments Feed" href="https://mikeindustries.com/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it/feed" />
+<link rel='stylesheet' id='wp-block-library-css'  href='assets/9f9b21e60b85945b2a77c2b0401f7527.css' type='text/css' media='all' />
+<link rel='https://api.w.org/' href='https://mikeindustries.com/blog/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://mikeindustries.com/wp/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://mikeindustries.com/wp/wp-includes/wlwmanifest.xml" /> 
+<link rel='prev' title='SOPA and The New Gatekeepers' href='https://mikeindustries.com/blog/archive/2012/01/sopa-and-the-new-gatekeepers' />
+<link rel='next' title='Choice Quotes from the 2011 Berkshire Hathaway Annual Report' href='https://mikeindustries.com/blog/archive/2012/02/choice-quotes-from-the-2011-berkshire-hathaway-annual-report' />
+<link rel="canonical" href="https://mikeindustries.com/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it" />
+<link rel="alternate" type="application/json+oembed" href="https://mikeindustries.com/blog/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmikeindustries.com%2Fblog%2Farchive%2F2012%2F01%2Ftwitter-buys-summify-gives-everyone-a-reason-to-use-it" />
+<link rel="alternate" type="text/xml+oembed" href="https://mikeindustries.com/blog/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fmikeindustries.com%2Fblog%2Farchive%2F2012%2F01%2Ftwitter-buys-summify-gives-everyone-a-reason-to-use-it&#038;format=xml" />
+		<link rel="stylesheet" href="assets/7e6d325ff0c37022ab03b5f36165add2.css" type="text/css">
+		<link rel="stylesheet" href="assets/1051911cd4981f30f62eac5094f869d3.css" type="text/css">
+		<script>document.cookie="resolution="+Math.max(screen.width,screen.height)+("devicePixelRatio" in window ? ","+devicePixelRatio : ",1")+"; path=/";</script>
+		<script src="assets/719f59597f1e3e6b1190ea62952d0fee.js"></script>
+		<script src="assets/691e985b3f71a45a6867b5bf60e4813c.js"></script>
+		<title>Twitter Buys Summify, Gives Everyone a Reason to Use It &raquo; Mike Industries</title>
+		<script src="/mint/?js" type="text/javascript"></script>
+	
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="@mikeindustries">
+<meta name="twitter:creator" content="@mikeindustries">
+<meta name="twitter:title" content="Twitter Buys Summify, Gives Everyone a Reason to Use It &raquo; Mike Industries">
+<meta name="twitter:description" content="Today, it was announced that Twitter has acquired an awesome little Pacific Northwest company called Summify. If you haven&#8217;t heard of Summify, they provide what I consider to be the best next-generation news delivery platform in the world right now.
+Isn&#8217;t …">
+<meta name="twitter:image" content="https://mikeindustries.comassets/f28b8e2ced2df14927f9abbcfd053de8.jpg">
+
+<meta property="og:description" content="Today, it was announced that Twitter has acquired an awesome little Pacific Northwest company called Summify. If you haven&#8217;t heard of Summify, they provide what I consider to be the best next-generation news delivery platform in the world right now.
+Isn&#8217;t …">
+<meta property="og:image" content="https://mikeindustries.comassets/f28b8e2ced2df14927f9abbcfd053de8.jpg">
+<meta property="og:site_name" content="Mike Industries">
+<meta property="og:title" content="Twitter Buys Summify, Gives Everyone a Reason to Use It &raquo; Mike Industries" />
+<meta property="og:type" content="article" />
+
+
+</head>
+	<body id="top" onload="init('assets/f28b8e2ced2df14927f9abbcfd053de8.jpg');" class="single ">
+	
+		<nav id="fixedheader" class="clearfix">
+			<div class="sitetitle" id="titlebox">
+				<div class="g">
+					<h1><a href="https://mikeindustries.com/blog">Mike Industries</a></h1>
+				</div>
+			</div>
+			<input type="checkbox" id="drop" />
+			<div class="sitenavigation">
+				<label for="drop" class="toggle">&#10094;</label>
+				<div class="navmenu">
+					<div class="g clearfix">
+						<div class="menu-header-menu-container"><ul id="menu-header-menu" class="menu"><li id="menu-item-27594" class="menu-item menu-item-type-taxonomy menu-item-object-category current-post-ancestor current-menu-parent current-post-parent menu-item-27594"><a href="https://mikeindustries.com/blog/archive/category/original">What I&#8217;m Writing</a></li>
+<li id="menu-item-28740" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-28740"><a href="/blog/archive/category/links,books">What I&#8217;m Reading</a></li>
+<li id="menu-item-27598" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27598"><a href="https://mikeindustries.com/blog/about-me">About Me</a></li>
+<li class="subscribe"><a href="http://mikeindustries.com/blog/feed" onclick="toggleMailKaimp('true'); return false;">Subscribe</a></li></ul></div>					</div>
+				</div>
+			</div>
+
+		</nav>
+		<div id="headercontainer">
+			<header id="header">
+				<div class="intro">
+												</div>
+			
+							
+			</header>
+
+			<style>#headerbg {background-image:url(assets/f28b8e2ced2df14927f9abbcfd053de8.jpg);}</style><style>#headerbg_low {background-image:url(/ai-cache/20assets/f28b8e2ced2df14927f9abbcfd053de8.jpg);}</style>
+
+			<div id="headerbg"></div><div id="headerbg_low"></div>
+
+
+		</div>
+
+	<section>
+
+		
+<article id="post-12143" class="post-12143 post type-post status-publish format-standard hentry category-business category-design category-original category-technology">
+
+			<div class="sidebar">
+				<div class="g">
+					<div class="date">
+						January 19, 2012					</div>
+				</div>
+			</div>
+			<div class="content">
+				<div class="g">
+
+					<h1>Twitter Buys Summify, Gives Everyone a Reason to Use It</h1><p>Today, it was <a href="http://blog.summify.com/2012/01/19/summify-joins-the-flock-at-twitter/" target="_blank">announced</a> that Twitter has acquired an awesome little Pacific Northwest company called <a href="http://summify.com" target="_blank">Summify</a>. If you haven&#8217;t heard of Summify, they provide what I consider to be the best next-generation news delivery platform in the world right now.</p>
+<p>Isn&#8217;t Twitter itself a news delivery platform though? Not really. Twitter is an information delivery platform, of which news is a small but extremely important subset. In other words, when you read a joke on Twitter, that&#8217;s not news. When you ask someone a question about a restaurant on Twitter, that&#8217;s not news. When you receive a response from an <a href="http://twitter.com/#!/GhostOfTyree" target="_blank">expertly crafted bot</a> on Twitter, that&#8217;s not news. In short, the great majority of what Twitter traffics is non-news information.</p>
+<p>It&#8217;s long been a complaint of Twitter users, however, that when they <em>do</em> want to use Twitter as a news source &#8212; perhaps even their only news source &#8212; it&#8217;s a less than ideal experience. People keep their <a href="http://www.echofon.com/" target="_blank">excellent Twitter clients</a> open all day hoping they&#8217;ll stay abreast on what&#8217;s going on in the world, but often they miss important events because the firehose of chatter drowns out critical links.</p>
+<p>What Summify does is essentially stand in front of your firehose, collect the drops of water that are news-related, and then fill up a nice, tidy cup for you containing only (or mostly) news. You can tell Summify you want a tall, a grande, or a venti and the platform delivers the right sized cup to you at whatever interval you choose.</p>
+<p>And oh by the way, Summify can analyze your Facebook account and your Google Reader account as well as your Twitter account if you&#8217;d like.</p>
+<p>And oh by the way, your news summary is available via web, via RSS, via tablet, and via phone.</p>
+<p>And oh by the way, Summify was created by a team of <del>about</del> <ins>under</ins> 10 people. <a href="http://mirceapasoi.com/" target="_blank">Mircea</a>, <a href="http://cristianstrat.com/" target="_blank">Cristian</a>, and crew are extremely smart and very nice people, but still, what a great product from such a small team.</p>
+<p>So why is this such a smart acquisition for Twitter? In my mind, there are two reasons.</p>
+<p>First, although the Twitter design staff has gone to great pains to craft the interface and sign-up process such that people know <em>how</em> to use Twitter immediately, I feel like they&#8217;ve now solved that problem. Do a <a href="https://twitter.com/#!/search/%23YouKnowDamnWell" target="_blank">Twitter search for a trending hashtag</a> and you&#8217;ll see all sorts of people of &#8220;various knowledge levels&#8221; getting around <em>just fine</em>.</p>
+<p>I feel like the new problem to solve is not &#8220;how do I use Twitter&#8221; but &#8220;why should I use Twitter&#8221;. This problem doesn&#8217;t apply to everyone that is currently using it, obviously, but it applies to my mom, my fiance, and all of the other millions of the people in the world who just don&#8217;t see a value proposition yet. Basically the &#8220;I don&#8217;t have anything to say to strangers&#8221; crowd, the &#8220;I don&#8217;t care what celebrities are saying&#8221; crowd, and the &#8220;I already have Facebook&#8221; crowd.</p>
+<p>With Summify folded into Twitter, there will now be one activity that almost everyone in the world can get obvious value from: a simple summary of what news stories you should know about every day, based on who influences you.</p>
+<p>The second reason this is a great acquisition is that it helps hedge against a phenomenon that I think is coming over the next few years: information overload followed by consumption retreat. It&#8217;s only a matter of time before people look at all of the distractions they expose themselves to every day and realize it is keeping them from living productive lives. Twitter, Facebook, and RSS before them have hastened this effect, and while it&#8217;s still only a problem at the edges, it will get more pronounced each year.</p>
+<p>Summify offers a simple antidote; one that Twitter can weave into their UI such that users can dial up or dial down their desired consumption level as they see fit. Right now there is actually a <em>disincentive</em> to follow people on Twitter, in many cases. Summify potentially eliminates that problem entirely by promising to send you <em>better</em> stories, not <em>more</em> stories for each new account you follow.</p>
+<p>As a closing thought, I&#8217;ve had this idea in my head for the last few years of what a perfect news site looks like, and it&#8217;s quite simple: a white screen with a list of 5 or 10 links that changes once a day. That&#8217;s it. Here&#8217;s the tricky part though: the 5 or 10 links need to be <strong>THE</strong> 5 or 10 links that are most useful to me on any given day. In other words, let&#8217;s say there are 10,000 new stories every day. This site needs to be smart enough to pick the top 5 or 10 for me with almost 100% certainty. You will know it works when it&#8217;s creepy. I liken it to Barack Obama&#8217;s daily briefing he gets from his advisors. He doesn&#8217;t have time to scour news sites all day so his advisors tell him what he absolutely <a href="http://26.media.tumblr.com/tumblr_lxz6am0K5l1qf859do1_500.jpg" target="_blank">needs to see</a> every morning and then, here&#8217;s the key part: he gets on with his life.</p>
+<p>I want that.</p>
+<p>I feel like Twitter &#8212; with Summify in tow &#8212; can eventually provide that.</p>
+<p>Sign me up!</p>
+<div class="update"><strong>UPDATE:</strong> I forgot to mention that there is another great service worth trying called <a href="http://percolate.com/accounts/register/summify/" target="_blank">Percolate</a> that is a slightly different take on curation than what Summify provides. Give it a shot.</div>
+<div class="subscribe_inline">Enjoy this? <a href="javascript:void(0)" onclick="toggleMailKaimp('true')">Subscribe</a> to Mike Industries updates via email, or follow me on Twitter <a href="http://twitter.com/mikeindustries">@mikeindustries</a>.</div>				</div>
+			</div>
+
+</article>
+	</section>
+
+		
+<section id="comments" class="comments-area">
+	<article class="pagetitle">
+		<div class="sidebar"></div>
+		<div class="content">
+			<div class="g">
+
+			<h5 class="comments-title">
+			34 comments on &ldquo;Twitter Buys Summify, Gives Everyone a Reason to Use It&rdquo;. <a href="#respond">Leave your own?</a>		</h5>
+
+		<ol class="comment-list">
+			    <li class="comment even thread-even depth-1" id="comment-83060">
+            <div id="div-comment-83060" class="comment-body">
+        <div class="comment-author vcard">
+        <img alt='' src='http://2.gravatar.com/avatar/5a556967ccbc33553af08a5de3970a6f?s=28&#038;d=mm&#038;r=pg' srcset='http://2.gravatar.com/avatar/5a556967ccbc33553af08a5de3970a6f?s=56&#038;d=mm&#038;r=pg 2x' class='avatar avatar-28 photo' height='28' width='28' />        <cite class="fn">jd</cite> <span class="says">says:</span>    </div>
+    
+    <p>your perfect news site sounds great, except for one thing &#8212; the background color.</p>
+
+    <div class="comment-meta commentmetadata"><a href="https://mikeindustries.com/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it#comment-83060">
+        January 19, 2012 at 12:07 pm</a>    </div>
+
+    <div class="reply">
+            </div>
+        </div>
+        </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="comment-83061">
+            <div id="div-comment-83061" class="comment-body">
+        <div class="comment-author vcard">
+        <img alt='' src='http://1.gravatar.com/avatar/725e3e8f63148459cdbb84f4d673d0ad?s=28&#038;d=mm&#038;r=pg' srcset='http://1.gravatar.com/avatar/725e3e8f63148459cdbb84f4d673d0ad?s=56&#038;d=mm&#038;r=pg 2x' class='avatar avatar-28 photo' height='28' width='28' />        <cite class="fn"><a href='http://blog.bmannconsulting.com' rel='external nofollow ugc' class='url'>Boris Mann</a></cite> <span class="says">says:</span>    </div>
+    
+    <p>I believe it was 6 people ;)</p>
+<p>I think, for pure &#8220;news&#8221; your ideal scenario makes sense. But, I also want art and food stuff-that-I-wouldn&#8217;t-see delivered to me. I&#8217;ve long called that the &#8220;serendipity&#8221; factor.</p>
+<p>I also want the most excellent serendipity feed in the world. A way to bring &#8220;good&#8221; stuff from outside the echo chamber and serve it up.</p>
+
+    <div class="comment-meta commentmetadata"><a href="https://mikeindustries.com/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it#comment-83061">
+        January 19, 2012 at 12:17 pm</a>    </div>
+
+    <div class="reply">
+            </div>
+        </div>
+        </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="comment-83062">
+            <div id="div-comment-83062" class="comment-body">
+        <div class="comment-author vcard">
+        <img alt='' src='http://2.gravatar.com/avatar/ed62706aea72f11802598f6d36d89b42?s=28&#038;d=mm&#038;r=pg' srcset='http://2.gravatar.com/avatar/ed62706aea72f11802598f6d36d89b42?s=56&#038;d=mm&#038;r=pg 2x' class='avatar avatar-28 photo' height='28' width='28' />        <cite class="fn"><a href='http://ahow.co' rel='external nofollow ugc' class='url'>Adam</a></cite> <span class="says">says:</span>    </div>
+    
+    <p>Only problem with the idea of an AI-driven news site that only changes once a day is when does it change? And what if something you&#8217;d be super-interested in happens after the change? Does it really wait until the next day, like a newspaper?</p>
+<p>Also, as with any news service that is customizable, how is it told what you like? Do you preload it with categories, or does it learn from your social networks or reading habits? And, whichever one you prefer, is that really enough for it to go on to nail your interests every day?</p>
+
+    <div class="comment-meta commentmetadata"><a href="https://mikeindustries.com/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it#comment-83062">
+        January 19, 2012 at 12:20 pm</a>    </div>
+
+    <div class="reply">
+            </div>
+        </div>
+        </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="comment-83063">
+            <div id="div-comment-83063" class="comment-body">
+        <div class="comment-author vcard">
+        <img alt='' src='http://2.gravatar.com/avatar/5928400845b2995b3377bc8ba2b39afd?s=28&#038;d=mm&#038;r=pg' srcset='http://2.gravatar.com/avatar/5928400845b2995b3377bc8ba2b39afd?s=56&#038;d=mm&#038;r=pg 2x' class='avatar avatar-28 photo' height='28' width='28' />        <cite class="fn">Lanny Heidbreder</cite> <span class="says">says:</span>    </div>
+    
+    <p>So Summify got acquired and will soon be shut down completely. Why on earth would you expect to see anything like Summify come out of the company that shut it down? </p>
+<p>That&#8217;s not how startups work. You create a free service, you hemorrhage money for a few months, then you sell out, make millions, and disappear, leaving your customers in the lurch until they find a new startup with a free product and no business model to sign up for.</p>
+<p>Once you realize that you were a talent acquisition and that your job is now to make money rather than to make great things, you get disillusioned and quit after a year or two to go found YOUR next startup (this time, optionally with a business model).</p>
+<p>But bringing your previous great idea to fruition on a grander scale with the full moral and financial support of your new company? Ha! Like that&#8217;d ever happen.</p>
+
+    <div class="comment-meta commentmetadata"><a href="https://mikeindustries.com/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it#comment-83063">
+        January 19, 2012 at 12:23 pm</a>    </div>
+
+    <div class="reply">
+            </div>
+        </div>
+        </li><!-- #comment-## -->
+    <li class="comment byuser comment-author-mike-d bypostauthor even thread-even depth-1" id="comment-83065">
+            <div id="div-comment-83065" class="comment-body">
+        <div class="comment-author vcard">
+        <img alt='' src='http://0.gravatar.com/avatar/98f8a0fafd6e05471fc3592318fa6001?s=28&#038;d=mm&#038;r=pg' srcset='http://0.gravatar.com/avatar/98f8a0fafd6e05471fc3592318fa6001?s=56&#038;d=mm&#038;r=pg 2x' class='avatar avatar-28 photo' height='28' width='28' />        <cite class="fn"><a href='https://mikeindustries.com/blog/' rel='external nofollow ugc' class='url'>Mike D.</a></cite> <span class="says">says:</span>    </div>
+    
+    <p>Boris: My memory could be bad. Last time I talked to Cristian and Mircea, I thought they said about 10&#8230; could have included contractors maybe? Oh well, either way, small team!</p>
+<p>Adam: With regard to the once-a-day thing, you could theoretically set when you wanted it to update, but the underlying answer to your concern is that in most cases, I simply don&#8217;t need or even want to know about things right away. Michael Jackson died? That can wait until tomorrow. Almost everything can wait until tomorrow. There are notable exceptions like natural disasters and whatnot, but for 99% of the things I read, I would be happy to read them later. The answer to your second question is tougher. I don&#8217;t know how to best teach a system like this. Ideally it&#8217;s a combination of a lot of things: stuff you input, people you follow, and even an externally edited &#8220;THIS IS REALLY F&#8217;ING IMPORTANT&#8221; factor.</p>
+
+    <div class="comment-meta commentmetadata"><a href="https://mikeindustries.com/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it#comment-83065">
+        January 19, 2012 at 12:24 pm</a>    </div>
+
+    <div class="reply">
+            </div>
+        </div>
+        </li><!-- #comment-## -->
+    <li class="comment byuser comment-author-mike-d bypostauthor odd alt thread-odd thread-alt depth-1" id="comment-83066">
+            <div id="div-comment-83066" class="comment-body">
+        <div class="comment-author vcard">
+        <img alt='' src='http://0.gravatar.com/avatar/98f8a0fafd6e05471fc3592318fa6001?s=28&#038;d=mm&#038;r=pg' srcset='http://0.gravatar.com/avatar/98f8a0fafd6e05471fc3592318fa6001?s=56&#038;d=mm&#038;r=pg 2x' class='avatar avatar-28 photo' height='28' width='28' />        <cite class="fn"><a href='https://mikeindustries.com/blog/' rel='external nofollow ugc' class='url'>Mike D.</a></cite> <span class="says">says:</span>    </div>
+    
+    <p>Lanny: You are right in that most acquisitions simply &#8220;don&#8217;t work out&#8221; for one reason or another. It&#8217;s pretty early to make a judgement like that here though. Twitter does not have a track record of screwing up acquired companies at this point. I&#8217;m optimistic.</p>
+
+    <div class="comment-meta commentmetadata"><a href="https://mikeindustries.com/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it#comment-83066">
+        January 19, 2012 at 12:28 pm</a>    </div>
+
+    <div class="reply">
+            </div>
+        </div>
+        </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="comment-83067">
+            <div id="div-comment-83067" class="comment-body">
+        <div class="comment-author vcard">
+        <img alt='' src='http://2.gravatar.com/avatar/ed62706aea72f11802598f6d36d89b42?s=28&#038;d=mm&#038;r=pg' srcset='http://2.gravatar.com/avatar/ed62706aea72f11802598f6d36d89b42?s=56&#038;d=mm&#038;r=pg 2x' class='avatar avatar-28 photo' height='28' width='28' />        <cite class="fn"><a href='http://ahow.co' rel='external nofollow ugc' class='url'>Adam</a></cite> <span class="says">says:</span>    </div>
+    
+    <p>@Mike: Yeah, there&#8217;s a lot of hand-waving whenever people start talking about customized news like this, but it does always seem to appeal to people. Certainly appeals to me.</p>
+<p>Think it&#8217;d work better as an app? I&#8217;ve found myself wishing Flipboard was more like this, instead of siloed like it is now.</p>
+<p>Fire up your simple news app, flip through the 5-10 hyper-targeted stories, and then no matter how many times you revisit it that day, nothing&#8217;s new again until the next day at whatever o&#8217;clock. It could even play off that and tell you to go read a book or something.</p>
+
+    <div class="comment-meta commentmetadata"><a href="https://mikeindustries.com/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it#comment-83067">
+        January 19, 2012 at 12:30 pm</a>    </div>
+
+    <div class="reply">
+            </div>
+        </div>
+        </li><!-- #comment-## -->
+    <li class="pingback odd alt thread-odd thread-alt depth-1" id="comment-83070">
+            <div id="div-comment-83070" class="comment-body">
+        <div class="comment-author vcard">
+                <cite class="fn"><a href='http://www.agenturblog.de/2012-01/summify-stellt-den-dienst-ein-weitestgehend/' rel='external nofollow ugc' class='url'>Summify stellt den Dienst ein (weitestgehend) | agenturblog.de</a></cite> <span class="says">says:</span>    </div>
+    
+    <p>[&#8230;] also die zentralen Links &#252;ber die die eigenen Freunde am intensivsten gesprochen haben. Mike Davidson fasst den Anspruch an diese Zusammenstellung so zusammen: I’ve had this idea in my head for the [&#8230;]</p>
+
+    <div class="comment-meta commentmetadata"><a href="https://mikeindustries.com/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it#comment-83070">
+        January 19, 2012 at 12:35 pm</a>    </div>
+
+    <div class="reply">
+            </div>
+        </div>
+        </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="comment-83071">
+            <div id="div-comment-83071" class="comment-body">
+        <div class="comment-author vcard">
+        <img alt='' src='http://2.gravatar.com/avatar/e0ea3bd4ba56ae1fbb9a7e891f412244?s=28&#038;d=mm&#038;r=pg' srcset='http://2.gravatar.com/avatar/e0ea3bd4ba56ae1fbb9a7e891f412244?s=56&#038;d=mm&#038;r=pg 2x' class='avatar avatar-28 photo' height='28' width='28' />        <cite class="fn">Bill Marty</cite> <span class="says">says:</span>    </div>
+    
+    <p>Mike,</p>
+<p>Your perfect news site exists, and it is one of the most highly trafficked sites on the web.  It&#8217;s called drudgereport.com.  It caters primarily to the right half of the political spectrum.  To your definition of perfect, it adds a picture or two, and updates a few times a day.  Have a look.</p>
+<p>Bill</p>
+
+    <div class="comment-meta commentmetadata"><a href="https://mikeindustries.com/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it#comment-83071">
+        January 19, 2012 at 12:46 pm</a>    </div>
+
+    <div class="reply">
+            </div>
+        </div>
+        </li><!-- #comment-## -->
+    <li class="comment byuser comment-author-mike-d bypostauthor odd alt thread-odd thread-alt depth-1" id="comment-83095">
+            <div id="div-comment-83095" class="comment-body">
+        <div class="comment-author vcard">
+        <img alt='' src='http://0.gravatar.com/avatar/98f8a0fafd6e05471fc3592318fa6001?s=28&#038;d=mm&#038;r=pg' srcset='http://0.gravatar.com/avatar/98f8a0fafd6e05471fc3592318fa6001?s=56&#038;d=mm&#038;r=pg 2x' class='avatar avatar-28 photo' height='28' width='28' />        <cite class="fn"><a href='https://mikeindustries.com/blog/' rel='external nofollow ugc' class='url'>Mike D.</a></cite> <span class="says">says:</span>    </div>
+    
+    <p>Not at all, Bill. The Drudge Report, while popular, is one man&#8217;s link vomit. Not at all the concept I described.</p>
+
+    <div class="comment-meta commentmetadata"><a href="https://mikeindustries.com/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it#comment-83095">
+        January 19, 2012 at 1:27 pm</a>    </div>
+
+    <div class="reply">
+            </div>
+        </div>
+        </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="comment-83096">
+            <div id="div-comment-83096" class="comment-body">
+        <div class="comment-author vcard">
+        <img alt='' src='http://1.gravatar.com/avatar/1ece7eb9d9fc05d07e19c356f6b41424?s=28&#038;d=mm&#038;r=pg' srcset='http://1.gravatar.com/avatar/1ece7eb9d9fc05d07e19c356f6b41424?s=56&#038;d=mm&#038;r=pg 2x' class='avatar avatar-28 photo' height='28' width='28' />        <cite class="fn">Red Wolf</cite> <span class="says">says:</span>    </div>
+    
+    <p>Nice! Kind of disappointed I didn&#8217;t know about it before this, because I would have loved to play with it, but look forward to seeing it in Twitter.</p>
+
+    <div class="comment-meta commentmetadata"><a href="https://mikeindustries.com/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it#comment-83096">
+        January 19, 2012 at 1:29 pm</a>    </div>
+
+    <div class="reply">
+            </div>
+        </div>
+        </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="comment-83097">
+            <div id="div-comment-83097" class="comment-body">
+        <div class="comment-author vcard">
+        <img alt='' src='http://2.gravatar.com/avatar/bd79e5cb1ab68e22c726a0e6e90d329d?s=28&#038;d=mm&#038;r=pg' srcset='http://2.gravatar.com/avatar/bd79e5cb1ab68e22c726a0e6e90d329d?s=56&#038;d=mm&#038;r=pg 2x' class='avatar avatar-28 photo' height='28' width='28' />        <cite class="fn">Total</cite> <span class="says">says:</span>    </div>
+    
+    <p>I get something like you want delivered to me everyday, on my front porch.  It&#8217;s analog, though, and comes on newsprint.</p>
+
+    <div class="comment-meta commentmetadata"><a href="https://mikeindustries.com/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it#comment-83097">
+        January 19, 2012 at 1:35 pm</a>    </div>
+
+    <div class="reply">
+            </div>
+        </div>
+        </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="comment-83098">
+            <div id="div-comment-83098" class="comment-body">
+        <div class="comment-author vcard">
+        <img alt='' src='http://1.gravatar.com/avatar/d02f381a20343fbcb7c9ac2802e0daae?s=28&#038;d=mm&#038;r=pg' srcset='http://1.gravatar.com/avatar/d02f381a20343fbcb7c9ac2802e0daae?s=56&#038;d=mm&#038;r=pg 2x' class='avatar avatar-28 photo' height='28' width='28' />        <cite class="fn"><a href='http://johanneskleske.com' rel='external nofollow ugc' class='url'>Johannes</a></cite> <span class="says">says:</span>    </div>
+    
+    <p>“Twitter does not have a track record of screwing up acquired companies at this point.”</p>
+<p>Have you looked at Tweetdeck recently?</p>
+
+    <div class="comment-meta commentmetadata"><a href="https://mikeindustries.com/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it#comment-83098">
+        January 19, 2012 at 1:40 pm</a>    </div>
+
+    <div class="reply">
+            </div>
+        </div>
+        </li><!-- #comment-## -->
+    <li class="comment byuser comment-author-mike-d bypostauthor odd alt thread-odd thread-alt depth-1" id="comment-83099">
+            <div id="div-comment-83099" class="comment-body">
+        <div class="comment-author vcard">
+        <img alt='' src='http://0.gravatar.com/avatar/98f8a0fafd6e05471fc3592318fa6001?s=28&#038;d=mm&#038;r=pg' srcset='http://0.gravatar.com/avatar/98f8a0fafd6e05471fc3592318fa6001?s=56&#038;d=mm&#038;r=pg 2x' class='avatar avatar-28 photo' height='28' width='28' />        <cite class="fn"><a href='https://mikeindustries.com/blog/' rel='external nofollow ugc' class='url'>Mike D.</a></cite> <span class="says">says:</span>    </div>
+    
+    <p>Johannes: I have. Doesn&#8217;t look any worse than it did a year ago&#8230; however, I am a biased Echofon claqueur.  Love that thing!!!</p>
+
+    <div class="comment-meta commentmetadata"><a href="https://mikeindustries.com/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it#comment-83099">
+        January 19, 2012 at 1:43 pm</a>    </div>
+
+    <div class="reply">
+            </div>
+        </div>
+        </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="comment-83102">
+            <div id="div-comment-83102" class="comment-body">
+        <div class="comment-author vcard">
+        <img alt='' src='http://0.gravatar.com/avatar/c6576e5a393cc89721d2ef39037b364c?s=28&#038;d=mm&#038;r=pg' srcset='http://0.gravatar.com/avatar/c6576e5a393cc89721d2ef39037b364c?s=56&#038;d=mm&#038;r=pg 2x' class='avatar avatar-28 photo' height='28' width='28' />        <cite class="fn"><a href='http://www.scoopinion.com' rel='external nofollow ugc' class='url'>Kobra</a></cite> <span class="says">says:</span>    </div>
+    
+    <p>Mike, Your perfect news site exists: <a href="http://www.scoopinion.com/" rel="nofollow ugc">http://www.scoopinion.com/</a><br />
+Our approach for curation is a little different: stories are curated according how people have interacted with a piece of news. This way only stories worth reading are served. Scoopinion is uses Chrome/FF app, so only thing left for user is to read. </p>
+<p>Hope you enjoy it, </p>
+<p>kobra<br />
+CEO</p>
+<p><a href="http://www.arcticstartup.com/2011/11/23/scoopinion-automates-the-sharing-of-interesting-news-articles" rel="nofollow ugc">http://www.arcticstartup.com/2011/11/23/scoopinion-automates-the-sharing-of-interesting-news-articles</a></p>
+
+    <div class="comment-meta commentmetadata"><a href="https://mikeindustries.com/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it#comment-83102">
+        January 19, 2012 at 3:08 pm</a>    </div>
+
+    <div class="reply">
+            </div>
+        </div>
+        </li><!-- #comment-## -->
+    <li class="pingback odd alt thread-odd thread-alt depth-1" id="comment-83105">
+            <div id="div-comment-83105" class="comment-body">
+        <div class="comment-author vcard">
+                <cite class="fn"><a href='http://shakeoutblog.com/2012/01/19/5-to-10-links/' rel='external nofollow ugc' class='url'>5 to 10 links</a></cite> <span class="says">says:</span>    </div>
+    
+    <p>[&#8230;] John Gruber quotes Mike Davidson&#8217;s image of the perfect news site: As a closing thought, I’ve had this idea in my head for the last few years of what a perfect news site looks like, and it’s quite simple: a white screen with a list of 5 or 10 links that changes once a day. That’s it. Here’s the tricky part though: the 5 or 10 links need to be THE 5 or 10 links that are most useful to me on any given day. (link to original article) [&#8230;]</p>
+
+    <div class="comment-meta commentmetadata"><a href="https://mikeindustries.com/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it#comment-83105">
+        January 19, 2012 at 3:18 pm</a>    </div>
+
+    <div class="reply">
+            </div>
+        </div>
+        </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="comment-83106">
+            <div id="div-comment-83106" class="comment-body">
+        <div class="comment-author vcard">
+        <img alt='' src='http://0.gravatar.com/avatar/fd0654fb15545b4b619912ca815de5cb?s=28&#038;d=mm&#038;r=pg' srcset='http://0.gravatar.com/avatar/fd0654fb15545b4b619912ca815de5cb?s=56&#038;d=mm&#038;r=pg 2x' class='avatar avatar-28 photo' height='28' width='28' />        <cite class="fn"><a href='http://about.me/RohanSJ' rel='external nofollow ugc' class='url'>Rohan Jayasekera</a></cite> <span class="says">says:</span>    </div>
+    
+    <p>Mike, TweetDeck has in fact changed.  The new version released under Twitter ownership dropped support for LinkedIn and a few other sources &#8212; I imagine Facebook is next &#8212; so I&#8217;m continuing to use my old pre-acquisition version of TweetDeck as long as I can.</p>
+<p>I imagine that whatever the Summify team builds for Twitter will similarly only look at tweets, not other sources.  Time will tell whether that is sufficient or whether a new Summify-like startup will come along and build a new multi-source aggregator that beats anything Twitter-only.</p>
+<p>Twitter doesn&#8217;t necessarily screw up acquisitions, but it does prefer to stop third parties from building on the tweetstream, acquiring them being one way of stopping them.  Another is preventing access to the full stream; I have personally worked at a startup where Twitter reneged on its promise to supply us with a full feed.</p>
+
+    <div class="comment-meta commentmetadata"><a href="https://mikeindustries.com/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it#comment-83106">
+        January 19, 2012 at 3:42 pm</a>    </div>
+
+    <div class="reply">
+            </div>
+        </div>
+        </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="comment-83108">
+            <div id="div-comment-83108" class="comment-body">
+        <div class="comment-author vcard">
+        <img alt='' src='http://0.gravatar.com/avatar/617424fce468c894eb9fbf99ddf096fd?s=28&#038;d=mm&#038;r=pg' srcset='http://0.gravatar.com/avatar/617424fce468c894eb9fbf99ddf096fd?s=56&#038;d=mm&#038;r=pg 2x' class='avatar avatar-28 photo' height='28' width='28' />        <cite class="fn"><a href='http://tomdavenport.co.uk' rel='external nofollow ugc' class='url'>Tom Davenport</a></cite> <span class="says">says:</span>    </div>
+    
+    <p>Summify IS the idea you were having. Now Twitter bought it, I&#8217;m worried of losing the only social media app that ever saved me time.</p>
+
+    <div class="comment-meta commentmetadata"><a href="https://mikeindustries.com/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it#comment-83108">
+        January 19, 2012 at 4:12 pm</a>    </div>
+
+    <div class="reply">
+            </div>
+        </div>
+        </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="comment-83109">
+            <div id="div-comment-83109" class="comment-body">
+        <div class="comment-author vcard">
+        <img alt='' src='http://2.gravatar.com/avatar/5928400845b2995b3377bc8ba2b39afd?s=28&#038;d=mm&#038;r=pg' srcset='http://2.gravatar.com/avatar/5928400845b2995b3377bc8ba2b39afd?s=56&#038;d=mm&#038;r=pg 2x' class='avatar avatar-28 photo' height='28' width='28' />        <cite class="fn"><a href='http:/twitter.com/75th' rel='external nofollow ugc' class='url'>Lanny Heidbreder</a></cite> <span class="says">says:</span>    </div>
+    
+    <p>TweetDeck may be a good example of Twitter trashing a startup&#8217;s hard work; I never could stand it, so I don&#8217;t know. I was thinking of Tweetie and Lören Brichter.</p>
+
+    <div class="comment-meta commentmetadata"><a href="https://mikeindustries.com/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it#comment-83109">
+        January 19, 2012 at 6:52 pm</a>    </div>
+
+    <div class="reply">
+            </div>
+        </div>
+        </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="comment-83110">
+            <div id="div-comment-83110" class="comment-body">
+        <div class="comment-author vcard">
+        <img alt='' src='http://0.gravatar.com/avatar/09664766769242c1c19231fc308df912?s=28&#038;d=mm&#038;r=pg' srcset='http://0.gravatar.com/avatar/09664766769242c1c19231fc308df912?s=56&#038;d=mm&#038;r=pg 2x' class='avatar avatar-28 photo' height='28' width='28' />        <cite class="fn"><a href='http://andre.stechert.org/' rel='external nofollow ugc' class='url'>Andre Stechert</a></cite> <span class="says">says:</span>    </div>
+    
+    <p>The 5 to 10 links sounds like exactly what I get from Percolate.</p>
+
+    <div class="comment-meta commentmetadata"><a href="https://mikeindustries.com/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it#comment-83110">
+        January 19, 2012 at 7:35 pm</a>    </div>
+
+    <div class="reply">
+            </div>
+        </div>
+        </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="comment-83112">
+            <div id="div-comment-83112" class="comment-body">
+        <div class="comment-author vcard">
+        <img alt='' src='http://2.gravatar.com/avatar/5b6d43c86d9cabab790116986212a515?s=28&#038;d=mm&#038;r=pg' srcset='http://2.gravatar.com/avatar/5b6d43c86d9cabab790116986212a515?s=56&#038;d=mm&#038;r=pg 2x' class='avatar avatar-28 photo' height='28' width='28' />        <cite class="fn">Nic</cite> <span class="says">says:</span>    </div>
+    
+    <p>A white screen with a list of 5 or 10 links that changes once a day.  That was pretty much what the old Delicious used to be.  Ok, not customised to my tastes, but interesting enough to check every so often.  Now I only use the new Delicious to store my links. :-(</p>
+
+    <div class="comment-meta commentmetadata"><a href="https://mikeindustries.com/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it#comment-83112">
+        January 19, 2012 at 10:24 pm</a>    </div>
+
+    <div class="reply">
+            </div>
+        </div>
+        </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="comment-83119">
+            <div id="div-comment-83119" class="comment-body">
+        <div class="comment-author vcard">
+        <img alt='' src='http://0.gravatar.com/avatar/682c5d38274a86b41c6dedcf8902effa?s=28&#038;d=mm&#038;r=pg' srcset='http://0.gravatar.com/avatar/682c5d38274a86b41c6dedcf8902effa?s=56&#038;d=mm&#038;r=pg 2x' class='avatar avatar-28 photo' height='28' width='28' />        <cite class="fn">gregorylent</cite> <span class="says">says:</span>    </div>
+    
+    <p>confirmation bias is the natural result</p>
+
+    <div class="comment-meta commentmetadata"><a href="https://mikeindustries.com/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it#comment-83119">
+        January 20, 2012 at 3:25 am</a>    </div>
+
+    <div class="reply">
+            </div>
+        </div>
+        </li><!-- #comment-## -->
+    <li class="pingback even thread-even depth-1" id="comment-83209">
+            <div id="div-comment-83209" class="comment-body">
+        <div class="comment-author vcard">
+                <cite class="fn"><a href='http://www.iphoneblog.de/2012/01/20/twitter-kauft-news-aggregator-summify/' rel='external nofollow ugc' class='url'>Twitter kauft News-Aggregator &#8216;Summify&#8217; – iPhoneBlog.de</a></cite> <span class="says">says:</span>    </div>
+    
+    <p>[&#8230;] tun, die neu erworbene Teamstärke auf ihre Suche loszulassen. Für die persönlichen &#8216;Trending Topics&#8216; existieren bereits genügend Alternativen &#8211; der Suchfunktion fehlt Intelligenz. Die [&#8230;]</p>
+
+    <div class="comment-meta commentmetadata"><a href="https://mikeindustries.com/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it#comment-83209">
+        January 20, 2012 at 9:09 am</a>    </div>
+
+    <div class="reply">
+            </div>
+        </div>
+        </li><!-- #comment-## -->
+    <li class="pingback odd alt thread-odd thread-alt depth-1" id="comment-83213">
+            <div id="div-comment-83213" class="comment-body">
+        <div class="comment-author vcard">
+                <cite class="fn"><a href='http://gigaom.com/2012/01/20/twitter-acquisition-confirms-that-curation-is-the-future/' rel='external nofollow ugc' class='url'>Twitter acquisition confirms that curation is the future &mdash; Tech News and Analysis</a></cite> <span class="says">says:</span>    </div>
+    
+    <p>[&#8230;] hole that exists not just in Twitter but Facebook and other services as well &#8212; namely, the need to give users more ways of filtering the massive amounts of information that keep flooding &#8230; and other social-media inboxes. There are so many ways of producing and sharing content, but so few [&#8230;]</p>
+
+    <div class="comment-meta commentmetadata"><a href="https://mikeindustries.com/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it#comment-83213">
+        January 20, 2012 at 9:38 am</a>    </div>
+
+    <div class="reply">
+            </div>
+        </div>
+        </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="comment-83218">
+            <div id="div-comment-83218" class="comment-body">
+        <div class="comment-author vcard">
+        <img alt='' src='http://0.gravatar.com/avatar/f4dba131de08f1c03e5d2d96058b4696?s=28&#038;d=mm&#038;r=pg' srcset='http://0.gravatar.com/avatar/f4dba131de08f1c03e5d2d96058b4696?s=56&#038;d=mm&#038;r=pg 2x' class='avatar avatar-28 photo' height='28' width='28' />        <cite class="fn">Jayhawk</cite> <span class="says">says:</span>    </div>
+    
+    <p>Your ideal site will generate the best news items by suggesting things to you based on your history if thumbs up/ down and some comparison ro other users that have a sinilar profile. It will work well because it will use the same technique (mathematical, but i dont remember the name of the theory) that was applied to great success during the netflix challenge. </p>
+<p>There, now make it.</p>
+
+    <div class="comment-meta commentmetadata"><a href="https://mikeindustries.com/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it#comment-83218">
+        January 20, 2012 at 10:43 am</a>    </div>
+
+    <div class="reply">
+            </div>
+        </div>
+        </li><!-- #comment-## -->
+    <li class="comment byuser comment-author-mike-d bypostauthor odd alt thread-odd thread-alt depth-1" id="comment-83237">
+            <div id="div-comment-83237" class="comment-body">
+        <div class="comment-author vcard">
+        <img alt='' src='http://0.gravatar.com/avatar/98f8a0fafd6e05471fc3592318fa6001?s=28&#038;d=mm&#038;r=pg' srcset='http://0.gravatar.com/avatar/98f8a0fafd6e05471fc3592318fa6001?s=56&#038;d=mm&#038;r=pg 2x' class='avatar avatar-28 photo' height='28' width='28' />        <cite class="fn"><a href='https://mikeindustries.com/blog/' rel='external nofollow ugc' class='url'>Mike D.</a></cite> <span class="says">says:</span>    </div>
+    
+    <p>Kobra: Looks interesting, but it&#8217;s not quite it. Bear in mind that I don&#8217;t think the site I&#8217;m describing is even possible without the best people in the world working with the best data in the world. You have to know so much about a) the news and b) the user that I just don&#8217;t think anyone has done it yet. Also, bear in mind that &#8220;a link of 5-10 links I would like&#8221; does me no good. It needs to be &#8220;these are the 5-10 you most need to read&#8221;. There&#8217;s a huge difference there.</p>
+<p>Rohan: Good points about Tweetdeck. At least it&#8217;s not an Adobe AIR app anymore though, right? I also worry about Twitter removing Summify&#8217;s ability to cull FB and Google, but at the same time, I felt Summify actually produced *better* results for me when I disconnected FB and Google. Strange, but true.</p>
+<p>Lanny: Tweetie has gotten a lot better since it was taken under Twitter&#8217;s umbrella, and in fact, Loren was still the guy working on it until a few months ago.</p>
+
+    <div class="comment-meta commentmetadata"><a href="https://mikeindustries.com/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it#comment-83237">
+        January 20, 2012 at 2:50 pm</a>    </div>
+
+    <div class="reply">
+            </div>
+        </div>
+        </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="comment-83242">
+            <div id="div-comment-83242" class="comment-body">
+        <div class="comment-author vcard">
+        <img alt='' src='http://0.gravatar.com/avatar/66303d9169c747a4b9c1b467878fc30e?s=28&#038;d=mm&#038;r=pg' srcset='http://0.gravatar.com/avatar/66303d9169c747a4b9c1b467878fc30e?s=56&#038;d=mm&#038;r=pg 2x' class='avatar avatar-28 photo' height='28' width='28' />        <cite class="fn"><a href='http://dale-nicholson.blogspot.com/' rel='external nofollow ugc' class='url'>Dale Nicholson</a></cite> <span class="says">says:</span>    </div>
+    
+    <p>Summify looks like something I wish I&#8217;d found before it was already being shut down.  I&#8217;m interested to see how Twitter integrates it, I really don&#8217;t like it when they make things &#8220;twitter only&#8221;.</p>
+<p>I spend hours looking for the gems in my twitter feed with very little success, hopefully when they integrate summify it will help.</p>
+
+    <div class="comment-meta commentmetadata"><a href="https://mikeindustries.com/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it#comment-83242">
+        January 20, 2012 at 4:03 pm</a>    </div>
+
+    <div class="reply">
+            </div>
+        </div>
+        </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="comment-83343">
+            <div id="div-comment-83343" class="comment-body">
+        <div class="comment-author vcard">
+        <img alt='' src='http://2.gravatar.com/avatar/ef1255a423255cf4692bdf81ba1797de?s=28&#038;d=mm&#038;r=pg' srcset='http://2.gravatar.com/avatar/ef1255a423255cf4692bdf81ba1797de?s=56&#038;d=mm&#038;r=pg 2x' class='avatar avatar-28 photo' height='28' width='28' />        <cite class="fn">nop</cite> <span class="says">says:</span>    </div>
+    
+    <p>Still doesn&#8217;t compel me to use Twitter. Only reason I ever used Twitter was to claim my identity, log out, and never return.</p>
+
+    <div class="comment-meta commentmetadata"><a href="https://mikeindustries.com/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it#comment-83343">
+        January 22, 2012 at 12:27 am</a>    </div>
+
+    <div class="reply">
+            </div>
+        </div>
+        </li><!-- #comment-## -->
+    <li class="comment even thread-even depth-1" id="comment-83344">
+            <div id="div-comment-83344" class="comment-body">
+        <div class="comment-author vcard">
+        <img alt='' src='http://0.gravatar.com/avatar/3c12736e0c35b720100f3d91a6e5fc08?s=28&#038;d=mm&#038;r=pg' srcset='http://0.gravatar.com/avatar/3c12736e0c35b720100f3d91a6e5fc08?s=56&#038;d=mm&#038;r=pg 2x' class='avatar avatar-28 photo' height='28' width='28' />        <cite class="fn"><a href='http://vanderwal.net/random/' rel='external nofollow ugc' class='url'>vanderwal</a></cite> <span class="says">says:</span>    </div>
+    
+    <p>I was really bummed that Summify was bought for many of the reasons you pointed out, but also because Twitter has a rather poor record of keeping services going after it buys them. Summify has been reported as saying it is shutting its services fully in a few weeks.</p>
+<p>I am picky as hell and for 5 to 6 years I have been looking for a service that would aggregate, cull, parse, then filter potential inbound links to find ones that I would like and may have missed. I have mapped out a few different approaches, have had grad students offer to pull together the known IR and AI algorithms and offer to build pieces only to be sucked into academic work, but when Summify crossed my screen more than a year back I was hooked &amp; gave up thinking of building something.</p>
+<p>Summify did the very rare thing of providing articles that floated through services (I too found having it only follow Twitter was the best approach) and pulling 15 things twice a day that I may have interest in and may not have seen. I have 6 to 8 strong non-related interest areas, which makes this a bit difficult. But, Summify in its approach was able to pull together a few things that were good, some meh, some I&#8217;d seen, and usually 2 or 3 that were OMG how did I miss this. The 15 things is a great small enough number to scan, but the ability to cull things that have the OMG factor in such a small representation is good, well great. It had stopped me from thinking I need to build something to scratch my own itch, but I started spending time on how did they do this and sorted a few ways to get close, with what you need to monitor to optimize based on individuals overall preferences, but also their shifting short interests.</p>
+<p>Summify allowed me to cut back my time in Twitter. I cut it back a lot. The gems in Twitter that mattered to me, I knew would find me, not the if it is important it will find you myth. Summify turned that myth and pop culture broadly cools stuff that &#8220;everybody&#8221; cares about and turned that on its head to what I really couldn&#8217;t afford to miss as well as others with vastly different tastes, interests, and depths of understanding. That is not only cool, but needed and a basic foundation of any service that most services never consider.</p>
+<p>I am insanely bummed that they will be shutting it down, but dang if I&#8217;m not now thinking this has to be done again but better. As great as it was there are still some things that could be really improved upon. Thanks for your post, it really stirred juices and I come back to it a few times in the last two days.</p>
+
+    <div class="comment-meta commentmetadata"><a href="https://mikeindustries.com/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it#comment-83344">
+        January 22, 2012 at 1:15 am</a>    </div>
+
+    <div class="reply">
+            </div>
+        </div>
+        </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="comment-83368">
+            <div id="div-comment-83368" class="comment-body">
+        <div class="comment-author vcard">
+        <img alt='' src='http://0.gravatar.com/avatar/c6576e5a393cc89721d2ef39037b364c?s=28&#038;d=mm&#038;r=pg' srcset='http://0.gravatar.com/avatar/c6576e5a393cc89721d2ef39037b364c?s=56&#038;d=mm&#038;r=pg 2x' class='avatar avatar-28 photo' height='28' width='28' />        <cite class="fn"><a href='http://www.scoopinion.com' rel='external nofollow ugc' class='url'>Kobra</a></cite> <span class="says">says:</span>    </div>
+    
+    <p>Mike: Thanks for replying! Our approach is different from summify&#8217;s and we are well aware on the difficulties of automagical personification and filtering. Gladly being based on browser app makes it possible to determine interest graph from ones browsing activities. </p>
+<p>Summify is a great service and I&#8217;m waiting how they will improve the twitter experience. As Matthew Ingram of GigaOm rightly pointed out, Curation is the future</p>
+<p><a href="http://gigaom.com/2012/01/20/twitter-acquisition-confirms-that-curation-is-the-future/" rel="nofollow ugc">http://gigaom.com/2012/01/20/twitter-acquisition-confirms-that-curation-is-the-future/</a></p>
+
+    <div class="comment-meta commentmetadata"><a href="https://mikeindustries.com/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it#comment-83368">
+        January 22, 2012 at 9:28 am</a>    </div>
+
+    <div class="reply">
+            </div>
+        </div>
+        </li><!-- #comment-## -->
+    <li class="comment byuser comment-author-mike-d bypostauthor even thread-even depth-1" id="comment-83426">
+            <div id="div-comment-83426" class="comment-body">
+        <div class="comment-author vcard">
+        <img alt='' src='http://0.gravatar.com/avatar/98f8a0fafd6e05471fc3592318fa6001?s=28&#038;d=mm&#038;r=pg' srcset='http://0.gravatar.com/avatar/98f8a0fafd6e05471fc3592318fa6001?s=56&#038;d=mm&#038;r=pg 2x' class='avatar avatar-28 photo' height='28' width='28' />        <cite class="fn"><a href='https://mikeindustries.com/blog/' rel='external nofollow ugc' class='url'>Mike D.</a></cite> <span class="says">says:</span>    </div>
+    
+    <p>Great comment, vanderwal. I was also thinking of developing something along those lines a little over a year ago, when all of a sudden, it seemed like Summify and Percolate popped up overnight. I figured it would soon be a crowded field and Summify did such a great job so I kind of mothballed the idea as well.</p>
+
+    <div class="comment-meta commentmetadata"><a href="https://mikeindustries.com/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it#comment-83426">
+        January 23, 2012 at 11:25 am</a>    </div>
+
+    <div class="reply">
+            </div>
+        </div>
+        </li><!-- #comment-## -->
+    <li class="comment odd alt thread-odd thread-alt depth-1" id="comment-83467">
+            <div id="div-comment-83467" class="comment-body">
+        <div class="comment-author vcard">
+        <img alt='' src='http://0.gravatar.com/avatar/35919440763e0e77c029c70676220f2d?s=28&#038;d=mm&#038;r=pg' srcset='http://0.gravatar.com/avatar/35919440763e0e77c029c70676220f2d?s=56&#038;d=mm&#038;r=pg 2x' class='avatar avatar-28 photo' height='28' width='28' />        <cite class="fn"><a href='http://geoffmobile.com' rel='external nofollow ugc' class='url'>Geoff</a></cite> <span class="says">says:</span>    </div>
+    
+    <p>Congrats to the Summify team! I was talking with a coworker in Vancouver over lunch and he said he used to work with one of the Summify developers. Great job!</p>
+<p>p.s. I created a little web app of my own that lets you trace up the retweet chain, to find interesting articles and people. feedback would be much appreciated:<br />
+<a href="http://gpeters.com/twitter" rel="nofollow ugc">http://gpeters.com/twitter</a></p>
+<p>cheers!<br />
+Geoff</p>
+
+    <div class="comment-meta commentmetadata"><a href="https://mikeindustries.com/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it#comment-83467">
+        January 23, 2012 at 6:22 pm</a>    </div>
+
+    <div class="reply">
+            </div>
+        </div>
+        </li><!-- #comment-## -->
+    <li class="pingback even thread-even depth-1" id="comment-298462">
+            <div id="div-comment-298462" class="comment-body">
+        <div class="comment-author vcard">
+                <cite class="fn"><a href='http://torontostandard.com/industry/twitter-is-becoming-a-media-company/' rel='external nofollow ugc' class='url'>Twitter Is Becoming a Media Company | Toronto Standard Toronto Standard</a></cite> <span class="says">says:</span>    </div>
+    
+    <p>[&#8230;] Mike Davidson pointed out in an&nbsp;excellent post&nbsp;on the subject, the acquisition of Summify will give average users even more reason to log on [&#8230;]</p>
+
+    <div class="comment-meta commentmetadata"><a href="https://mikeindustries.com/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it#comment-298462">
+        January 13, 2014 at 7:51 am</a>    </div>
+
+    <div class="reply">
+            </div>
+        </div>
+        </li><!-- #comment-## -->
+    <li class="pingback odd alt thread-odd thread-alt depth-1" id="comment-667997">
+            <div id="div-comment-667997" class="comment-body">
+        <div class="comment-author vcard">
+                <cite class="fn"><a href='https://mauriciogiraldo.com/blog/2012/01/22/detalles-coquetos/' rel='external nofollow ugc' class='url'>detalles coquetos &#8211; mga/blog</a></cite> <span class="says">says:</span>    </div>
+    
+    <p>[&#8230;] un post comentando sobre la compra de Summify por parte de Twitter llego al sitio web del [&#8230;]</p>
+
+    <div class="comment-meta commentmetadata"><a href="https://mikeindustries.com/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it#comment-667997">
+        August 8, 2020 at 1:22 am</a>    </div>
+
+    <div class="reply">
+            </div>
+        </div>
+        </li><!-- #comment-## -->
+		</ol><!-- .comment-list -->
+
+	
+	
+		<div id="respond" class="comment-respond">
+		<h3 id="reply-title" class="comment-reply-title">Leave a Reply <small><a rel="nofollow" id="cancel-comment-reply-link" href="/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it#respond" style="display:none;">Cancel reply</a></small></h3><form action="http://mikeindustries.com/wp/wp-comments-post.php" method="post" id="commentform" class="comment-form"><p class="comment-notes"><span id="email-notes">Your email address will not be published.</span> Required fields are marked <span class="required">*</span></p><p class="comment-form-comment"><label for="comment">Comment</label> <textarea id="comment" name="comment" cols="45" rows="8" maxlength="65525" required="required"></textarea></p><p class="comment-form-author"><label for="author">Name <span class="required">*</span></label> <input id="author" name="author" type="text" value="" size="30" maxlength="245" required='required' /></p>
+<p class="comment-form-email"><label for="email">Email <span class="required">*</span></label> <input id="email" name="email" type="text" value="" size="30" maxlength="100" aria-describedby="email-notes" required='required' /></p>
+<p class="comment-form-url"><label for="url">Website</label> <input id="url" name="url" type="text" value="" size="30" maxlength="200" /></p>
+<!-- Subscribe to Comments Reloaded version 200422 --><!-- Subscribe to comments Reloaded MP: '/manage-comment-notifications/' --><!-- BEGIN: subscribe to comments reloaded --><p class='comment-form-subscriptions'><label for='subscribe-reloaded'><input type='checkbox' name='subscribe-reloaded' id='subscribe-reloaded' value='yes' /> Notify me of follow-up comments via e-mail. You can also <a href='https://mikeindustries.com/blog/manage-comment-notifications/?srp=12143&amp;srk=afa890109ed5f4891d555526f67b1d73&amp;sra=s&amp;srsrc=f'>subscribe</a> without commenting.</label></p><!-- END: subscribe to comments reloaded --><p class="form-submit"><input name="submit" type="submit" id="submit" class="submit" value="Post Comment" /> <input type='hidden' name='comment_post_ID' value='12143' id='comment_post_ID' />
+<input type='hidden' name='comment_parent' id='comment_parent' value='0' />
+</p><p style="display: none;"><input type="hidden" id="akismet_comment_nonce" name="akismet_comment_nonce" value="420bdf7f70" /></p><p style="display: none;"><input type="hidden" id="ak_js" name="ak_js" value="206"/></p></form>	</div><!-- #respond -->
+	
+			</div>
+		</div>
+	</article>
+</section><!-- .comments-area -->
+
+
+
+
+	<footer>
+			<div id="copyright"><a href="#top" title="Back to Top">© 2003 - ∞ (and beyond) Mike Davidson. All rights reserved.</a></div>
+	</footer>
+
+<!-- Begin MailChimp Signup Form -->
+<div id="mc_embed_modal" class="hiddenform">
+	<div id="mc_embed_signup">
+		<form action="//mikeindustries.us13.list-manage.com/subscribe/post?u=16e6cb48908f92514458b2d2a&amp;id=b47ed96670" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+		    <div id="mc_embed_signup_scroll">
+			<h2>Subscribe by Email</h2>
+		<div class="mc-field-group">
+			<label for="mce-EMAIL">Email Address (Required)</label>
+			<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+		</div>
+		<div class="mc-field-group">
+			<label for="mce-FNAME">First Name</label>
+			<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+		</div>
+		<div class="mc-field-group">
+			<label for="mce-LNAME">Last Name</label>
+			<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+		</div>
+			<div id="mce-responses" class="clear">
+				<div class="response" id="mce-error-response" style="display:none"></div>
+				<div class="response" id="mce-success-response" style="display:none"></div>
+			</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+		    <div style="position: absolute; left: -5000px;" aria-hidden="true"><input type="text" name="b_16e6cb48908f92514458b2d2a_b47ed96670" tabindex="-1" value=""></div>
+		    <div class="clear"><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button" onclick="submitMailKaimp(); return false;"></div>
+		    </div>
+		</form>
+		<p>... or use <a href="http://mikeindustries.com/blog/feed">RSS</a></p>
+	</div>
+</div>
+
+<!--End mc_embed_signup-->
+
+<script type='text/javascript' src='assets/6c3bbd69e14ed4d1796fae7956b3ab17.2'></script>
+<script async="async" type='text/javascript' src='assets/2892df429c9b1d55c385b6be17d39502.5'></script>
+
+	
+<div style="position:fixed;top:0;left:0;width:100%;height:45px;z-index:2147483647;background-color:rgba(253,147,38,0.90) !important;color:black !important;text-align:right !important;font:normal 12px/45px Arial, sans-serif !important;border-radius:0 !important;margin:0 !important;max-width:100% !important;background-repeat: no-repeat !important;background-position: 15px center !important;
+background-image: url(data:image/png;base64,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);
+"><span style="padding-right:15px;">You are viewing a snapshot of <a style='font-weight:bold !important; color:white !important' href='http://www.mikeindustries.com/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it'>http://www.mikeindustries.com/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it</a> created on 2020/08/09</span></div></body>
+</html>

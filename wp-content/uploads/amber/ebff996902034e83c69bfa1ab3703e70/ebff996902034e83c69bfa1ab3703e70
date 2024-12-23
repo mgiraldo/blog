@@ -1,0 +1,544 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Image scaling - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":false,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"63720748-0317-495d-b6ba-684bda285231","wgCSPNonce":false,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Image_scaling","wgTitle":"Image scaling","wgCurRevisionId":1059868854,"wgRevisionId":1059868854,"wgArticleId":2937077,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description matches Wikidata","Articles needing expert attention with no reason or talk parameter","Articles needing expert attention from July 2016","All articles needing expert attention","Miscellaneous articles needing expert attention",
+"All articles with unsourced statements","Articles with unsourced statements from December 2015","Commons category link from Wikidata","Articles containing video clips","Image processing"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Image_scaling","wgRelevantArticleId":2937077,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{"status":{"levels":-1}}},"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsFlags":10,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgWMESchemaEditAttemptStepOversample":false,"wgWMEPageLength":20000,"wgNoticeProject":"wikipedia","wgULSCurrentAutonym":"English","wgEditSubmitButtonLabelPublish":true,"wgCentralAuthMobileDomain":false,"wgULSPosition":"interlanguage",
+"wgULSisCompactLinksEnabled":true,"wgWikibaseItemId":"Q440296","wgGENewcomerTasksGuidanceEnabled":true,"wgGEAskQuestionEnabled":false,"wgGELinkRecommendationsFrontendEnabled":false};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","mediawiki.page.gallery.styles":"ready","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.wikimediaBadges":"ready","ext.uls.interlanguage":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["mediawiki.page.gallery","ext.cite.ux-enhancements","site","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","mmv.head","mmv.bootstrap.autostart","ext.popups",
+"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.cx.eventlogging.campaigns","ext.centralNotice.geoIP","ext.centralNotice.startUp","ext.centralauth.centralautologin","ext.uls.compactlinks","ext.uls.interface","ext.growthExperiments.SuggestedEditSession"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="assets/faabc9dacf883d2cf9f7f23af44c1b87.css"/>
+<script async="" src="assets/c065145ab1ee4f734095d2092a9278ed.php"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="assets/dab0269550e613a8f8d91320ac5db71f.css"/>
+<meta name="generator" content="MediaWiki 1.38.0-wmf.9"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta name="format-detection" content="telephone=no"/>
+<meta property="og:image" content="https:assets/496945a660622eec775cd50082a39bcc.png"/>
+<meta property="og:image:width" content="1200"/>
+<meta property="og:image:height" content="600"/>
+<meta property="og:image" content="https:assets/496945a660622eec775cd50082a39bcc.png"/>
+<meta property="og:image:width" content="800"/>
+<meta property="og:image:height" content="400"/>
+<meta property="og:image:width" content="640"/>
+<meta property="og:image:height" content="320"/>
+<meta property="og:title" content="Image scaling - Wikipedia"/>
+<meta property="og:type" content="website"/>
+<link rel="preconnect" href="//upload.wikimedia.org"/>
+<link rel="alternate" media="only screen and (max-width: 720px)" href="//en.m.wikipedia.org/wiki/Image_scaling"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Image_scaling&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="https://creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Image_scaling"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Image_scaling rootpage-Image_scaling skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice"><!-- CentralNotice --></div>
+	<div class="mw-indicators">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" >Image scaling</h1>
+	<div id="bodyContent" class="vector-body">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" class="mw-body-content mw-content-ltr" lang="en" dir="ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Changing the resolution of a digital image</div>
+<table class="box-Expert_needed plainlinks metadata ambox ambox-content" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="assets/9eee4d299e83f3e374d9d94f105349c4.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article <b>needs attention from an expert in Computer graphics</b>.<span class="hide-when-compact"> Please add a <i>reason</i> or a <i>talk</i> parameter to this template to explain the issue with the article. <a href="/wiki/Wikipedia:WikiProject_Computer_graphics" title="Wikipedia:WikiProject Computer graphics">WikiProject Computer graphics</a> may be able to help recruit an expert.</span>  <span class="date-container"><i>(<span class="date">July 2016</span>)</i></span></div></td></tr></tbody></table>
+<div class="thumb tright"><div class="thumbinner" style="width:258px;"><a href="/wiki/File:2xsai_example.png" class="image"><img alt="" src="assets/496945a660622eec775cd50082a39bcc.png" decoding="async" width="256" height="128" class="thumbimage" data-file-width="256" data-file-height="128" /></a>  <div class="thumbcaption">An image scaled with nearest-neighbor scaling (left) and <a href="/wiki/2%C3%97SaI" class="mw-redirect" title="2×SaI">2×SaI</a> scaling (right)</div></div></div>
+<p>In <a href="/wiki/Computer_graphics" title="Computer graphics">computer graphics</a> and <a href="/wiki/Digital_imaging" title="Digital imaging">digital imaging</a>, <b>image</b> <b>scaling</b> refers to the resizing of a digital image. In video technology, the magnification of digital material is known as upscaling or <a href="/wiki/Resolution_enhancement_technology" title="Resolution enhancement technology">resolution enhancement</a>.
+</p><p>When scaling a <a href="/wiki/Vector_graphic" class="mw-redirect" title="Vector graphic">vector graphic</a> image, the graphic primitives that make up the image can be scaled using geometric transformations, with no loss of <a href="/wiki/Image_quality" title="Image quality">image quality</a>. When scaling a <a href="/wiki/Raster_graphics" title="Raster graphics">raster graphics</a> image, a new image with a higher or lower number of pixels must be generated. In the case of decreasing the pixel number (scaling down) this usually results in a visible quality loss. From the standpoint of <a href="/wiki/Digital_signal_processing" title="Digital signal processing">digital signal processing</a>, the scaling of raster graphics is a two-dimensional example of <a href="/wiki/Sample-rate_conversion" title="Sample-rate conversion">sample-rate conversion</a>, the conversion of a <a href="/wiki/Discrete_signal" class="mw-redirect" title="Discrete signal">discrete signal</a> from a <a href="/wiki/Sampling_rate" class="mw-redirect" title="Sampling rate">sampling rate</a> (in this case the local sampling rate) to another.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Mathematical"><span class="tocnumber">1</span> <span class="toctext">Mathematical</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Algorithms"><span class="tocnumber">2</span> <span class="toctext">Algorithms</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Nearest-neighbor_interpolation"><span class="tocnumber">2.1</span> <span class="toctext">Nearest-neighbor interpolation</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Bilinear_and_bicubic_algorithms"><span class="tocnumber">2.2</span> <span class="toctext">Bilinear and bicubic algorithms</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Sinc_and_Lanczos_resampling"><span class="tocnumber">2.3</span> <span class="toctext">Sinc and Lanczos resampling</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Box_sampling"><span class="tocnumber">2.4</span> <span class="toctext">Box sampling</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Mipmap"><span class="tocnumber">2.5</span> <span class="toctext">Mipmap</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Fourier-transform_methods"><span class="tocnumber">2.6</span> <span class="toctext">Fourier-transform methods</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Edge-directed_interpolation"><span class="tocnumber">2.7</span> <span class="toctext">Edge-directed interpolation</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#hqx"><span class="tocnumber">2.8</span> <span class="toctext">hqx</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Vectorization"><span class="tocnumber">2.9</span> <span class="toctext">Vectorization</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Deep_convolutional_neural_networks"><span class="tocnumber">2.10</span> <span class="toctext">Deep convolutional neural networks</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Applications"><span class="tocnumber">3</span> <span class="toctext">Applications</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#General"><span class="tocnumber">3.1</span> <span class="toctext">General</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Video"><span class="tocnumber">3.2</span> <span class="toctext">Video</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Pixel-art_scaling"><span class="tocnumber">3.3</span> <span class="toctext">Pixel-art scaling</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Real-time_scaling"><span class="tocnumber">3.4</span> <span class="toctext">Real-time scaling</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Mathematical">Mathematical</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Image_scaling&amp;action=edit&amp;section=1" title="Edit section: Mathematical">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Image scaling can be interpreted as a form of image resampling or image reconstruction from the view of the <a href="/wiki/Nyquist_theorem" class="mw-redirect" title="Nyquist theorem">Nyquist sampling theorem</a>. According to the theorem, downsampling to a smaller image from a higher-resolution original can only be carried out after applying a suitable 2D <a href="/wiki/Anti-aliasing_filter" title="Anti-aliasing filter">anti-aliasing filter</a> to prevent aliasing artifacts. The image is reduced to the information that can be carried by the smaller image.
+</p><p>In the case of up sampling, a <a href="/wiki/Reconstruction_filter" title="Reconstruction filter">reconstruction filter</a> takes the place of the anti-aliasing filter.
+</p>
+<ul class="gallery mw-gallery-packed">
+		<li class="gallerybox" style="width: 162px"><div style="width: 162px">
+			<div class="thumb" style="width: 160px;"><div style="margin:0px auto;"><a href="/wiki/File:160_by_160_thumbnail_of_%27Green_Sea_Shell%27.png" class="image"><img alt="" src="assets/8d6e6c07b1c1723def7576f92422765b.png" decoding="async" width="160" height="160" data-file-width="160" data-file-height="160" /></a></div></div>
+			<div class="gallerytext">
+<p>Original 160x160px image
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 206.66666666667px"><div style="width: 206.66666666667px">
+			<div class="thumb" style="width: 204.66666666667px;"><div style="margin:0px auto;"><a href="/wiki/File:160_by_160_thumbnail_of_%27Green_Sea_Shell%27_-_0._in_fourier_domain.png" class="image"><img alt="" src="assets/746b295130359ed05c9f059bbe8536e2.png" decoding="async" width="205" height="160" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/160_by_160_thumbnail_of_%27Green_Sea_Shell%27_-_0._in_fourier_domain.png/461px-160_by_160_thumbnail_of_%27Green_Sea_Shell%27_-_0._in_fourier_domain.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/160_by_160_thumbnail_of_%27Green_Sea_Shell%27_-_0._in_fourier_domain.png/614px-160_by_160_thumbnail_of_%27Green_Sea_Shell%27_-_0._in_fourier_domain.png 2x" data-file-width="1105" data-file-height="864" /></a></div></div>
+			<div class="gallerytext">
+<p>Original image in spatial-frequency domain
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 162px"><div style="width: 162px">
+			<div class="thumb" style="width: 160px;"><div style="margin:0px auto;"><a href="/wiki/File:160_by_160_thumbnail_of_%27Green_Sea_Shell%27_-_1._fourier_filtered_for_downsampling_to_40_x_40.png" class="image"><img alt="" src="assets/4bffabd1ffc7c998dc8afd5d652de34d.png" decoding="async" width="160" height="160" data-file-width="162" data-file-height="162" /></a></div></div>
+			<div class="gallerytext">
+<p>2D <a href="/wiki/Low-pass_filter" title="Low-pass filter">low-pass filtered</a>, but still at 160x160px
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 206px"><div style="width: 206px">
+			<div class="thumb" style="width: 204px;"><div style="margin:0px auto;"><a href="/wiki/File:160_by_160_thumbnail_of_%27Green_Sea_Shell%27_-_1.1._fourier_filtered_image_for_downsampling_to_40_x_40_in_fourier_domain.png" class="image"><img alt="" src="assets/8275fd1af55bf8cab984ddd190fc0ddb.png" decoding="async" width="204" height="160" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/160_by_160_thumbnail_of_%27Green_Sea_Shell%27_-_1.1._fourier_filtered_image_for_downsampling_to_40_x_40_in_fourier_domain.png/459px-160_by_160_thumbnail_of_%27Green_Sea_Shell%27_-_1.1._fourier_filtered_image_for_downsampling_to_40_x_40_in_fourier_domain.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/160_by_160_thumbnail_of_%27Green_Sea_Shell%27_-_1.1._fourier_filtered_image_for_downsampling_to_40_x_40_in_fourier_domain.png/612px-160_by_160_thumbnail_of_%27Green_Sea_Shell%27_-_1.1._fourier_filtered_image_for_downsampling_to_40_x_40_in_fourier_domain.png 2x" data-file-width="1116" data-file-height="876" /></a></div></div>
+			<div class="gallerytext">
+<p><a href="/wiki/Filter_(signal_processing)" title="Filter (signal processing)">Filtered</a> image in spatial-frequency domain
+</p>
+			</div>
+		</div></li>
+</ul>
+<ul class="gallery mw-gallery-packed">
+		<li class="gallerybox" style="width: 162px"><div style="width: 162px">
+			<div class="thumb" style="width: 160px;"><div style="margin:0px auto;"><a href="/wiki/File:160_by_160_thumbnail_of_%27Green_Sea_Shell%27_-_2._downsampling_to_40_x_40_(nearest_neighour).png" class="image"><img alt="" src="assets/d6493ac5cf6a766a7d0909806daf92a4.png" decoding="async" width="160" height="160" data-file-width="40" data-file-height="40" /></a></div></div>
+			<div class="gallerytext">
+<p>low-pass filtered 160x160px image 4× downsampled to 40x40px<span class="nowrap">&#160;</span>
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 162px"><div style="width: 162px">
+			<div class="thumb" style="width: 160px;"><div style="margin:0px auto;"><a href="/wiki/File:160_by_160_thumbnail_of_%27Green_Sea_Shell%27_-_3._fourier_reconstruction_from_40_x_40.png" class="image"><img alt="" src="assets/8430d09f8dc28e29a561b1d7ff6d081e.png" decoding="async" width="160" height="160" data-file-width="162" data-file-height="162" /></a></div></div>
+			<div class="gallerytext">
+<p>4× Fourier upsampling of 40x40px downsampled image to 160x160px (correct reconstruction)
+</p>
+			</div>
+		</div></li>
+		<li class="gallerybox" style="width: 162px"><div style="width: 162px">
+			<div class="thumb" style="width: 160px;"><div style="margin:0px auto;"><a href="/wiki/File:160_by_160_thumbnail_of_%27Green_Sea_Shell%27_-_4._fourier_reconstruction_from_40_x_40_(aliasing_).png" class="image"><img alt="" src="assets/a245ac58ab8c844cda3ade0fb26453a0.png" decoding="async" width="160" height="160" data-file-width="162" data-file-height="162" /></a></div></div>
+			<div class="gallerytext">
+<p>4× Fourier upsampling of 40x40px downsampled image to 160x160px (with aliasing)
+</p>
+			</div>
+		</div></li>
+</ul>
+<p>A more sophisticated approach to upscaling treats the problem as an <a href="/wiki/Inverse_problem" title="Inverse problem">inverse problem</a>, solving the question of generating a plausible image, which, when scaled down, would look like the input image. A variety of techniques have been applied for this, including optimization techniques with <a href="/wiki/Regularization_(mathematics)" title="Regularization (mathematics)">regularization</a> terms and the use of <a href="/wiki/Machine_learning" title="Machine learning">machine learning</a> from examples.
+</p>
+<h2><span class="mw-headline" id="Algorithms">Algorithms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Image_scaling&amp;action=edit&amp;section=2" title="Edit section: Algorithms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<style data-mw-deduplicate="TemplateStyles:r1033289096">.mw-parser-output .hatnote{font-style:italic}.mw-parser-output div.hatnote{padding-left:1.6em;margin-bottom:0.5em}.mw-parser-output .hatnote i{font-style:normal}.mw-parser-output .hatnote+link+.hatnote{margin-top:-0.5em}</style><div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Comparison_gallery_of_image_scaling_algorithms" title="Comparison gallery of image scaling algorithms">Comparison gallery of image scaling algorithms</a></div>
+<p>An image size can be changed in several ways.
+</p>
+<h3><span class="mw-headline" id="Nearest-neighbor_interpolation">Nearest-neighbor interpolation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Image_scaling&amp;action=edit&amp;section=3" title="Edit section: Nearest-neighbor interpolation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>One of the simpler ways of increasing image size is <a href="/wiki/Nearest-neighbor_interpolation" title="Nearest-neighbor interpolation">nearest-neighbor interpolation</a>, replacing every pixel with the nearest pixel in the output; for upscaling this means multiple pixels of the same color will be present. This can preserve sharp details in pixel art, but also introduce <a href="/wiki/Jaggies" title="Jaggies">jaggedness</a> in previously smooth images. 'Nearest' in nearest-neighbor doesn't have to be the mathematical nearest. One common implementation is to always round towards zero. Rounding this way produces fewer artifacts and is faster to calculate.
+</p>
+<h3><span class="mw-headline" id="Bilinear_and_bicubic_algorithms">Bilinear and bicubic algorithms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Image_scaling&amp;action=edit&amp;section=4" title="Edit section: Bilinear and bicubic algorithms">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Bilinear_interpolation" title="Bilinear interpolation">Bilinear interpolation</a> works by <a href="/wiki/Interpolation" title="Interpolation">interpolating</a> pixel color values, introducing a continuous transition into the output even where the original material has discrete transitions. Although this is desirable for continuous-tone images, this algorithm reduces <a href="/wiki/Display_contrast" title="Display contrast">contrast</a> (sharp edges) in a way that may be undesirable for line art. <a href="/wiki/Bicubic_interpolation" title="Bicubic interpolation">Bicubic interpolation</a> yields substantially better results, with an increase in computational cost.
+</p>
+<h3><span class="mw-headline" id="Sinc_and_Lanczos_resampling">Sinc and Lanczos resampling</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Image_scaling&amp;action=edit&amp;section=5" title="Edit section: Sinc and Lanczos resampling">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Sinc_resampling" class="mw-redirect" title="Sinc resampling">Sinc resampling</a> in theory provides the best possible reconstruction for a perfectly bandlimited signal. In practice, the assumptions behind sinc resampling are not completely met by real-world digital images. <a href="/wiki/Lanczos_resampling" title="Lanczos resampling">Lanczos resampling</a>, an approximation to the sinc method, yields better results. Bicubic interpolation can be regarded as a computationally efficient approximation to Lanczos resampling.
+</p>
+<h3><span class="mw-headline" id="Box_sampling">Box sampling</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Image_scaling&amp;action=edit&amp;section=6" title="Edit section: Box sampling">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>One weakness of bilinear, bicubic and related algorithms is that they sample a specific number of pixels. When down scaling below a certain threshold, such as more than twice for all bi-sampling algorithms, the algorithms will sample non-adjacent pixels, which results in both losing data, and causes rough results.
+</p><p>The trivial solution to this issue is box sampling, which is to consider the target pixel a box on the original image, and sample all pixels inside the box. This ensures that all input pixels contribute to the output. The major weakness of this algorithm is that it is hard to optimize.
+</p>
+<h3><span class="mw-headline" id="Mipmap">Mipmap</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Image_scaling&amp;action=edit&amp;section=7" title="Edit section: Mipmap">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Another solution to the downscale problem of bi-sampling scaling are <a href="/wiki/Mipmap" title="Mipmap">mipmaps</a>. A mipmap is a prescaled set of downscale copies. When downscaling the nearest larger mipmap is used as the origin, to ensure no scaling below the useful threshold of bilinear scaling is used. This algorithm is fast, and easy to optimize. It is standard in many frameworks such as <a href="/wiki/OpenGL" title="OpenGL">OpenGL</a>. The cost is using more image memory, exactly one third more in the standard implementation.
+</p>
+<h3><span class="mw-headline" id="Fourier-transform_methods">Fourier-transform methods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Image_scaling&amp;action=edit&amp;section=8" title="Edit section: Fourier-transform methods">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Simple interpolation based on <a href="/wiki/Fourier_transform" title="Fourier transform">Fourier transform</a> pads the <a href="/wiki/Frequency_domain" title="Frequency domain">frequency domain</a> with zero components (a smooth window-based approach would reduce the <a href="/wiki/Ringing_artifacts" title="Ringing artifacts">ringing</a>). Besides the good conservation (or recovery) of details, notable is the ringing and the circular bleeding of content from the left border to right border (and the other way around).
+</p>
+<h3><span class="mw-headline" id="Edge-directed_interpolation">Edge-directed interpolation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Image_scaling&amp;action=edit&amp;section=9" title="Edit section: Edge-directed interpolation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Edge-directed interpolation algorithms aim to preserve edges in the image after scaling, unlike other algorithms, which can introduce staircase artifacts.
+</p><p>Examples of algorithms for this task include New Edge-Directed Interpolation (NEDI),<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> Edge-Guided Image Interpolation (EGGI),<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> <a href="/w/index.php?title=Iterative_Curvature-Based_Interpolation&amp;action=edit&amp;redlink=1" class="new" title="Iterative Curvature-Based Interpolation (page does not exist)">Iterative Curvature-Based Interpolation</a> (ICBI),<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> and <a href="/wiki/Directional_Cubic_Convolution_Interpolation" title="Directional Cubic Convolution Interpolation">Directional Cubic Convolution Interpolation</a> (DCCI).<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>  A 2013 analysis found that DCCI had the best scores in <a href="/wiki/Peak_signal-to-noise_ratio" title="Peak signal-to-noise ratio">PSNR</a> and <a href="/wiki/Structural_similarity" title="Structural similarity">SSIM</a> on a series of test images.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="hqx">hqx</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Image_scaling&amp;action=edit&amp;section=10" title="Edit section: hqx">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>For magnifying computer graphics with low resolution and/or few colors (usually from 2 to 256 colors), better results can be achieved by <a href="/wiki/Hqx" title="Hqx">hqx</a> or other <a href="/wiki/Pixel-art_scaling_algorithms" title="Pixel-art scaling algorithms">pixel-art scaling algorithms</a>. These produce sharp edges and maintain high level of detail.
+</p>
+<h3><span class="mw-headline" id="Vectorization">Vectorization</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Image_scaling&amp;action=edit&amp;section=11" title="Edit section: Vectorization">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Vector extraction, or <a href="/wiki/Image_tracing" title="Image tracing">vectorization</a>, offer another approach. Vectorization first creates a resolution-independent vector representation of the graphic to be scaled. Then the resolution-independent version is rendered as a raster image at the desired resolution. This technique is used by <a href="/wiki/Adobe_Illustrator" title="Adobe Illustrator">Adobe Illustrator</a>, Live Trace, and <a href="/wiki/Inkscape" title="Inkscape">Inkscape</a>.<sup id="cite_ref-pixelart_7-0" class="reference"><a href="#cite_note-pixelart-7">&#91;7&#93;</a></sup> <a href="/wiki/Scalable_Vector_Graphics" title="Scalable Vector Graphics">Scalable Vector Graphics</a> are well suited to simple geometric images, while photographs do not fare well with vectorization due to their complexity.
+</p>
+<h3><span class="mw-headline" id="Deep_convolutional_neural_networks">Deep convolutional neural networks</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Image_scaling&amp;action=edit&amp;section=12" title="Edit section: Deep convolutional neural networks">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This method uses <a href="/wiki/Machine_learning" title="Machine learning">machine learning</a> for more detailed images such as photographs and complex artwork. Programs that use this method include <a href="/wiki/Waifu2x" title="Waifu2x">waifu2x</a>, Imglarger and Neural Enhance.
+</p>
+<style data-mw-deduplicate="TemplateStyles:r978413945/mw-parser-output/.tmulti">.mw-parser-output .tmulti .thumbinner{display:flex;flex-direction:column}.mw-parser-output .tmulti .trow{display:flex;flex-direction:row;clear:left;flex-wrap:wrap;width:100%;box-sizing:border-box}.mw-parser-output .tmulti .tsingle{margin:1px;float:left}.mw-parser-output .tmulti .theader{clear:both;font-weight:bold;text-align:center;align-self:center;background-color:transparent;width:100%}.mw-parser-output .tmulti .thumbcaption{background-color:transparent}.mw-parser-output .tmulti .text-align-left{text-align:left}.mw-parser-output .tmulti .text-align-right{text-align:right}.mw-parser-output .tmulti .text-align-center{text-align:center}@media all and (max-width:720px){.mw-parser-output .tmulti .thumbinner{width:100%!important;box-sizing:border-box;max-width:none!important;align-items:center}.mw-parser-output .tmulti .trow{justify-content:center}.mw-parser-output .tmulti .tsingle{float:none!important;max-width:100%!important;box-sizing:border-box;text-align:center}.mw-parser-output .tmulti .tsingle .thumbcaption{text-align:left}.mw-parser-output .tmulti .trow>.thumbcaption{text-align:center}}</style><div class="thumb tmulti tnone center"><div class="thumbinner" style="width:770px;max-width:770px"><div class="trow"><div class="theader">Demonstration of conventional upscaling vs Waifu2x upscaling with noise reduction, using a detail of <a href="/wiki/File:Evelyn_de_Morgan_-_Phosphorus_and_Hesperus,_(1881).jpg" title="File:Evelyn de Morgan - Phosphorus and Hesperus, (1881).jpg">Phosphorus and Hesperus</a> by <a href="/wiki/Evelyn_De_Morgan" title="Evelyn De Morgan">Evelyn De Morgan</a>. Click for full sizes.</div></div><div class="trow"><div class="tsingle" style="width:152px;max-width:152px"><div class="thumbimage"><a href="/wiki/File:Evelyn_de_Morgan_-_Phosphorus_and_Hesperus,_(1881)_detail.png" class="image"><img alt="" src="assets/bb1635beee04f8cb9dd14760760758c6.png" decoding="async" width="150" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Evelyn_de_Morgan_-_Phosphorus_and_Hesperus%2C_%281881%29_detail.png/225px-Evelyn_de_Morgan_-_Phosphorus_and_Hesperus%2C_%281881%29_detail.png 1.5x, //upload.wikimedia.org/wikipedia/commons/8/87/Evelyn_de_Morgan_-_Phosphorus_and_Hesperus%2C_%281881%29_detail.png 2x" data-file-width="250" data-file-height="250" /></a></div><div class="thumbcaption">Original image</div></div><div class="tsingle" style="width:152px;max-width:152px"><div class="thumbimage"><a href="/wiki/File:Evelyn_de_Morgan_-_Phosphorus_and_Hesperus,_(1881)_detail_-_upscaled_200%25_using_Paint_Shop_Pro.png" class="image"><img alt="" src="assets/3a28ffd3eed496804b84477729b33a35.png" decoding="async" width="150" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Evelyn_de_Morgan_-_Phosphorus_and_Hesperus%2C_%281881%29_detail_-_upscaled_200%25_using_Paint_Shop_Pro.png/225px-Evelyn_de_Morgan_-_Phosphorus_and_Hesperus%2C_%281881%29_detail_-_upscaled_200%25_using_Paint_Shop_Pro.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Evelyn_de_Morgan_-_Phosphorus_and_Hesperus%2C_%281881%29_detail_-_upscaled_200%25_using_Paint_Shop_Pro.png/300px-Evelyn_de_Morgan_-_Phosphorus_and_Hesperus%2C_%281881%29_detail_-_upscaled_200%25_using_Paint_Shop_Pro.png 2x" data-file-width="500" data-file-height="500" /></a></div><div class="thumbcaption">Image upscaled 200% using <a href="/wiki/PaintShop_Pro" title="PaintShop Pro">PaintShop Pro</a></div></div><div class="tsingle" style="width:152px;max-width:152px"><div class="thumbimage"><a href="/wiki/File:Evelyn_de_Morgan_-_Phosphorus_and_Hesperus,_(1881)_detail_-_upscaled_200%25_using_Waifu2x_in_Photo_mode_with_Medium_noise_reduction.png" class="image"><img alt="" src="assets/cc9c0a653d5b0879a5313e9881ed9aa0.png" decoding="async" width="150" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Evelyn_de_Morgan_-_Phosphorus_and_Hesperus%2C_%281881%29_detail_-_upscaled_200%25_using_Waifu2x_in_Photo_mode_with_Medium_noise_reduction.png/225px-Evelyn_de_Morgan_-_Phosphorus_and_Hesperus%2C_%281881%29_detail_-_upscaled_200%25_using_Waifu2x_in_Photo_mode_with_Medium_noise_reduction.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Evelyn_de_Morgan_-_Phosphorus_and_Hesperus%2C_%281881%29_detail_-_upscaled_200%25_using_Waifu2x_in_Photo_mode_with_Medium_noise_reduction.png/300px-Evelyn_de_Morgan_-_Phosphorus_and_Hesperus%2C_%281881%29_detail_-_upscaled_200%25_using_Waifu2x_in_Photo_mode_with_Medium_noise_reduction.png 2x" data-file-width="500" data-file-height="500" /></a></div><div class="thumbcaption">Image upscaled 200% using <a href="/wiki/Waifu2x" title="Waifu2x">waifu2x</a> in Photo mode with Medium noise reduction</div></div><div class="tsingle" style="width:152px;max-width:152px"><div class="thumbimage"><a href="/wiki/File:Evelyn_de_Morgan_-_Phosphorus_and_Hesperus,_(1881)_detail_output.png" class="image"><img alt="" src="assets/5d5ee30031b9c70e33be43caa9e702f6.png" decoding="async" width="150" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Evelyn_de_Morgan_-_Phosphorus_and_Hesperus%2C_%281881%29_detail_output.png/225px-Evelyn_de_Morgan_-_Phosphorus_and_Hesperus%2C_%281881%29_detail_output.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Evelyn_de_Morgan_-_Phosphorus_and_Hesperus%2C_%281881%29_detail_output.png/300px-Evelyn_de_Morgan_-_Phosphorus_and_Hesperus%2C_%281881%29_detail_output.png 2x" data-file-width="1000" data-file-height="1000" /></a></div><div class="thumbcaption">Image upscaled 400% using Topaz A.I. Gigapixel with Low noise reduction</div></div><div class="tsingle" style="width:152px;max-width:152px"><div class="thumbimage"><a href="/wiki/File:Evelyn_de_Morgan_-_Phosphorus_and_Hesperus,_(1881)_RealSR.png" class="image"><img alt="" src="assets/cbbdea7f0626f880a0bf61461ca37dab.png" decoding="async" width="150" height="150" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Evelyn_de_Morgan_-_Phosphorus_and_Hesperus%2C_%281881%29_RealSR.png/225px-Evelyn_de_Morgan_-_Phosphorus_and_Hesperus%2C_%281881%29_RealSR.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Evelyn_de_Morgan_-_Phosphorus_and_Hesperus%2C_%281881%29_RealSR.png/300px-Evelyn_de_Morgan_-_Phosphorus_and_Hesperus%2C_%281881%29_RealSR.png 2x" data-file-width="1000" data-file-height="1000" /></a></div><div class="thumbcaption">Image upscaled 400% using RealSR DF2K-JPEG</div></div></div></div></div>
+<h2><span class="mw-headline" id="Applications">Applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Image_scaling&amp;action=edit&amp;section=13" title="Edit section: Applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="General">General</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Image_scaling&amp;action=edit&amp;section=14" title="Edit section: General">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Image scaling is used in, among other applications, <a href="/wiki/Web_browser" title="Web browser">web browsers</a>,<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> <a href="/wiki/Image_editor" class="mw-redirect" title="Image editor">image editors</a>, image and file viewers, software magnifiers, digital zoom, the process of generating <a href="/wiki/Thumbnail_image" class="mw-redirect" title="Thumbnail image">thumbnail images</a> and when outputting images through screens or printers.
+</p>
+<h3><span class="mw-headline" id="Video">Video</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Image_scaling&amp;action=edit&amp;section=15" title="Edit section: Video">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>This application is the magnification of images for home theaters for HDTV-ready output devices from PAL-Resolution content, for example from a DVD player. Upscaling is performed in real time, and the output signal is not saved.
+</p>
+<h3><span class="mw-headline" id="Pixel-art_scaling">Pixel-art scaling</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Image_scaling&amp;action=edit&amp;section=16" title="Edit section: Pixel-art scaling">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r1033289096"/><div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Pixel-art_scaling_algorithms" title="Pixel-art scaling algorithms">Pixel-art scaling algorithms</a></div>
+<p>As <a href="/wiki/Pixel_art" title="Pixel art">pixel-art</a> graphics are usually low-resolution, they rely on careful placing of individual pixels, often with a limited palette of colors. This results in graphics that rely on stylized visual cues to define complex shapes with little resolution, down to individual pixels. This makes scaling of pixel art a particularly difficult problem.
+</p><p>Specialized algorithms<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup> were developed to handle pixel-art graphics, as the traditional scaling algorithms do not take perceptual cues into account.
+</p><p>Since a typical application is to improve the appearance of <a href="/wiki/History_of_video_game_consoles_(fourth_generation)" class="mw-redirect" title="History of video game consoles (fourth generation)">fourth-generation</a> and earlier <a href="/wiki/Video_game" title="Video game">video games</a> on <a href="/wiki/Arcade_emulator" class="mw-redirect" title="Arcade emulator">arcade</a> and <a href="/wiki/Console_emulator" class="mw-redirect" title="Console emulator">console emulators</a>, many are designed to run in real time for small input images at 60 frames per second.
+</p><p>On fast hardware, these algorithms are suitable for gaming and other real-time image processing. These algorithms provide sharp, crisp graphics, while minimizing blur. Scaling art algorithms have been implemented in a wide range of emulators such as HqMAME and <a href="/wiki/DOSBox" title="DOSBox">DOSBox</a>, as well as 2D <a href="/wiki/Game_engine" title="Game engine">game engines</a> and <a href="/wiki/Game_engine_recreation" title="Game engine recreation">game engine recreations</a> such as <a href="/wiki/ScummVM" title="ScummVM">ScummVM</a>. They gained recognition with gamers, for whom these technologies encouraged a revival of 1980s and 1990s gaming experiences.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2015)">citation needed</span></a></i>&#93;</sup>
+</p><p>Such filters are currently used in commercial emulators on <a href="/wiki/Xbox_Live" class="mw-redirect" title="Xbox Live">Xbox Live</a>, <a href="/wiki/Virtual_Console" title="Virtual Console">Virtual Console</a>, and <a href="/wiki/PlayStation_Network" title="PlayStation Network">PSN</a> to allow classic low-resolution games to be more visually appealing on modern <a href="/wiki/High-definition_video" title="High-definition video">HD</a> displays. Recently released games that incorporate these filters include <i><a href="/wiki/Sonic%27s_Ultimate_Genesis_Collection" title="Sonic&#39;s Ultimate Genesis Collection">Sonic's Ultimate Genesis Collection</a></i>, <i><a href="/wiki/Castlevania:_The_Dracula_X_Chronicles" title="Castlevania: The Dracula X Chronicles">Castlevania: The Dracula X Chronicles</a></i>, <i><a href="/wiki/Castlevania:_Symphony_of_the_Night" title="Castlevania: Symphony of the Night">Castlevania: Symphony of the Night</a></i>, and <i><a href="/wiki/Akumaj%C5%8D_Dracula_X_Chi_no_Rondo" class="mw-redirect" title="Akumajō Dracula X Chi no Rondo">Akumajō Dracula X Chi no Rondo</a></i>.
+</p>
+<h3><span class="mw-headline" id="Real-time_scaling">Real-time scaling</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Image_scaling&amp;action=edit&amp;section=17" title="Edit section: Real-time scaling">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A number of companies have developed techniques to upscale video frames in <a href="/wiki/Real-time_rendering" class="mw-redirect" title="Real-time rendering">real-time</a>, such as when they are drawn on screen in a video game. <a href="/wiki/Nvidia" title="Nvidia">Nvidia</a>'s <a href="/wiki/Deep_learning_super_sampling" title="Deep learning super sampling">deep learning super sampling</a> (DLSS) uses <a href="/wiki/Deep_learning" title="Deep learning">deep learning</a> to upsample lower-<a href="/wiki/Image_resolution" title="Image resolution">resolution</a> images to a higher resolution for display on higher-resolution computer monitors.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> <a href="/wiki/AMD" class="mw-redirect" title="AMD">AMD</a>'s <a href="/wiki/GPUOpen#FidelityFX_Super_Resolution" title="GPUOpen">FidelityFX Super Resolution</a> (FSR) does not employ machine learning, instead using traditional hand-written algorithms to achieve spatial upscaling on traditional shading units. FSR standardized Presets are not enforced and some titles such as <i><a href="/wiki/Dota_2" title="Dota 2">Dota 2</a></i> offer resolution sliders.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup> Other technologies include <a href="/wiki/Intel" title="Intel">Intel</a> XeSS and Nvidia Image Scaler (NIS).<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup><sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Image_scaling&amp;action=edit&amp;section=18" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Bicubic_interpolation" title="Bicubic interpolation">Bicubic interpolation</a></li>
+<li><a href="/wiki/Bilinear_interpolation" title="Bilinear interpolation">Bilinear interpolation</a></li>
+<li><a href="/wiki/Lanczos_resampling" title="Lanczos resampling">Lanczos resampling</a></li>
+<li><a href="/wiki/Spline_interpolation" title="Spline interpolation">Spline interpolation</a></li>
+<li><a href="/wiki/Seam_carving" title="Seam carving">Seam carving</a></li>
+<li><a href="/wiki/Image_reconstruction" class="mw-redirect" title="Image reconstruction">Image reconstruction</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Image_scaling&amp;action=edit&amp;section=19" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="assets/70c24f3aeb33735b46b2c16df777eb66.png" decoding="async" width="30" height="40" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <span style="font-weight: bold; font-style: italic;"><a href="https://commons.wikimedia.org/wiki/Category:Image_scaling" class="extiw" title="commons:Category:Image scaling">Image scaling</a></span>.</td></tr>
+</tbody></table>
+<style data-mw-deduplicate="TemplateStyles:r1011085734">.mw-parser-output .reflist{font-size:90%;margin-bottom:0.5em;list-style-type:decimal}.mw-parser-output .reflist .references{font-size:100%;margin-bottom:0;list-style-type:inherit}.mw-parser-output .reflist-columns-2{column-width:30em}.mw-parser-output .reflist-columns-3{column-width:25em}.mw-parser-output .reflist-columns{margin-top:0.3em}.mw-parser-output .reflist-columns ol{margin-top:0}.mw-parser-output .reflist-columns li{page-break-inside:avoid;break-inside:avoid-column}.mw-parser-output .reflist-upper-alpha{list-style-type:upper-alpha}.mw-parser-output .reflist-upper-roman{list-style-type:upper-roman}.mw-parser-output .reflist-lower-alpha{list-style-type:lower-alpha}.mw-parser-output .reflist-lower-greek{list-style-type:lower-greek}.mw-parser-output .reflist-lower-roman{list-style-type:lower-roman}</style><div class="reflist reflist-columns references-column-width" style="column-width: 30em;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><style data-mw-deduplicate="TemplateStyles:r999302996">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background:linear-gradient(transparent,transparent),url("assets/bd670353c83f78ac9bf7920d3135114a.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background:linear-gradient(transparent,transparent),url("assets/a37b208d8a82dd697fbb820509243556.svg")right 0.1em center/9px no-repeat}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background:linear-gradient(transparent,transparent),url("assets/407b2f7ef21a3c79d854bf0d6e7f538b.svg")right 0.1em center/9px no-repeat}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background:linear-gradient(transparent,transparent),url("assets/44712c5455c69cd59c93962ea0465e79.svg")right 0.1em center/12px no-repeat}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:none;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://chiranjivi.tripod.com/EDITut.html">"Edge-Directed Interpolation"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">19 February</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Edge-Directed+Interpolation&amp;rft_id=http%3A%2F%2Fchiranjivi.tripod.com%2FEDITut.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AImage+scaling" class="Z3988"></span></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFXin_LiMichael_T._Orchard" class="citation journal cs1">Xin Li; Michael T. Orchard. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160214121631/http://www.csee.wvu.edu/~xinl/papers/ICIP2000a.pdf">"NEW EDGE DIRECTED INTERPOLATION"</a> <span class="cs1-format">(PDF)</span>. <i>2000 IEEE International Conference on Image Processing</i>: 311. Archived from <a rel="nofollow" class="external text" href="http://www.csee.wvu.edu/~xinl/papers/ICIP2000a.pdf">the original</a> <span class="cs1-format">(PDF)</span> on 2016-02-14.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=2000+IEEE+International+Conference+on+Image+Processing&amp;rft.atitle=NEW+EDGE+DIRECTED+INTERPOLATION&amp;rft.pages=311&amp;rft.au=Xin+Li&amp;rft.au=Michael+T.+Orchard&amp;rft_id=http%3A%2F%2Fwww.csee.wvu.edu%2F~xinl%2Fpapers%2FICIP2000a.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AImage+scaling" class="Z3988"></span></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFZhang,_D.Xiaolin_Wu2006" class="citation journal cs1">Zhang, D.; Xiaolin Wu (2006). "An Edge-Guided Image Interpolation Algorithm via Directional Filtering and Data Fusion". <i>IEEE Transactions on Image Processing</i>. <b>15</b> (8): 2226–38. <a href="/wiki/Bibcode_(identifier)" class="mw-redirect" title="Bibcode (identifier)">Bibcode</a>:<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/2006ITIP...15.2226Z">2006ITIP...15.2226Z</a>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1109%2FTIP.2006.877407">10.1109/TIP.2006.877407</a>. <a href="/wiki/PMID_(identifier)" class="mw-redirect" title="PMID (identifier)">PMID</a>&#160;<a rel="nofollow" class="external text" href="//pubmed.ncbi.nlm.nih.gov/16900678">16900678</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=IEEE+Transactions+on+Image+Processing&amp;rft.atitle=An+Edge-Guided+Image+Interpolation+Algorithm+via+Directional+Filtering+and+Data+Fusion&amp;rft.volume=15&amp;rft.issue=8&amp;rft.pages=2226-38&amp;rft.date=2006&amp;rft_id=info%3Apmid%2F16900678&amp;rft_id=info%3Adoi%2F10.1109%2FTIP.2006.877407&amp;rft_id=info%3Abibcode%2F2006ITIP...15.2226Z&amp;rft.au=Zhang%2C+D.&amp;rft.au=Xiaolin+Wu&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AImage+scaling" class="Z3988"></span></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFK.Sreedhar_ReddyDr.K.Rama_Linga_Reddy2013" class="citation journal cs1">K.Sreedhar Reddy; Dr.K.Rama Linga Reddy (December 2013). <a rel="nofollow" class="external text" href="http://www.ijarcce.com/upload/2013/december/IJARCCE4D-s-sreedhar_reddy_enlargement_of.pdf">"Enlargement of Image Based Upon Interpolation Techniques"</a> <span class="cs1-format">(PDF)</span>. <i>International Journal of Advanced Research in Computer and Communication Engineering</i>. <b>2</b> (12): 4631.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=International+Journal+of+Advanced+Research+in+Computer+and+Communication+Engineering&amp;rft.atitle=Enlargement+of+Image+Based+Upon+Interpolation+Techniques&amp;rft.volume=2&amp;rft.issue=12&amp;rft.pages=4631&amp;rft.date=2013-12&amp;rft.au=K.Sreedhar+Reddy&amp;rft.au=Dr.K.Rama+Linga+Reddy&amp;rft_id=http%3A%2F%2Fwww.ijarcce.com%2Fupload%2F2013%2Fdecember%2FIJARCCE4D-s-sreedhar_reddy_enlargement_of.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AImage+scaling" class="Z3988"></span></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFDengwen_ZhouXiaoliu_Shen" class="citation web cs1">Dengwen Zhou; Xiaoliu Shen. <a rel="nofollow" class="external text" href="http://www.mathworks.com/matlabcentral/fileexchange/38570-image-zooming-using-directional-cubic-convolution-interpolation">"Image Zooming Using Directional Cubic Convolution Interpolation"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">13 September</span> 2015</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Image+Zooming+Using+Directional+Cubic+Convolution+Interpolation&amp;rft.au=Dengwen+Zhou&amp;rft.au=Xiaoliu+Shen&amp;rft_id=http%3A%2F%2Fwww.mathworks.com%2Fmatlabcentral%2Ffileexchange%2F38570-image-zooming-using-directional-cubic-convolution-interpolation&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AImage+scaling" class="Z3988"></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFShaode_YuRongmao_LiRui_ZhangMou_An2013" class="citation arxiv cs1">Shaode Yu; Rongmao Li; Rui Zhang; Mou An; Shibin Wu; Yaoqin Xie (2013). "Performance evaluation of edge-directed interpolation methods for noise-free images". <a href="/wiki/ArXiv_(identifier)" class="mw-redirect" title="ArXiv (identifier)">arXiv</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//arxiv.org/abs/1303.6455">1303.6455</a></span> [<a rel="nofollow" class="external text" href="//arxiv.org/archive/cs.CV">cs.CV</a>].</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=preprint&amp;rft.jtitle=arXiv&amp;rft.atitle=Performance+evaluation+of+edge-directed+interpolation+methods+for+noise-free+images&amp;rft.date=2013&amp;rft_id=info%3Aarxiv%2F1303.6455&amp;rft.au=Shaode+Yu&amp;rft.au=Rongmao+Li&amp;rft.au=Rui+Zhang&amp;rft.au=Mou+An&amp;rft.au=Shibin+Wu&amp;rft.au=Yaoqin+Xie&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AImage+scaling" class="Z3988"></span></span>
+</li>
+<li id="cite_note-pixelart-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-pixelart_7-0">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFJohannes_Kopf_and_Dani_Lischinski2011" class="citation journal cs1">Johannes Kopf and Dani Lischinski (2011). <a rel="nofollow" class="external text" href="https://archive.today/20150901034643/http://research.microsoft.com/en-us/um/people/kopf/pixelart">"Depixelizing Pixel Art"</a>. <i>ACM Transactions on Graphics</i>. <b>30</b> (4): 99:1–99:8. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1145%2F2010324.1964994">10.1145/2010324.1964994</a>. Archived from <a rel="nofollow" class="external text" href="http://research.microsoft.com/en-us/um/people/kopf/pixelart/">the original</a> on 2015-09-01<span class="reference-accessdate">. Retrieved <span class="nowrap">24 October</span> 2012</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=ACM+Transactions+on+Graphics&amp;rft.atitle=Depixelizing+Pixel+Art&amp;rft.volume=30&amp;rft.issue=4&amp;rft.pages=99%3A1-99%3A8&amp;rft.date=2011&amp;rft_id=info%3Adoi%2F10.1145%2F2010324.1964994&amp;rft.au=Johannes+Kopf+and+Dani+Lischinski&amp;rft_id=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fkopf%2Fpixelart%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AImage+scaling" class="Z3988"></span></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.entropymine.com/resamplescope/notes/browsers/">Analysis of image scaling algorithms used by popular web browsers</a></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.datagenetics.com/blog/december32013/index.html">"Pixel Scalers"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">19 February</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pixel+Scalers&amp;rft_id=http%3A%2F%2Fwww.datagenetics.com%2Fblog%2Fdecember32013%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AImage+scaling" class="Z3988"></span></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.nvidia.com/en-us/geforce/news/nvidia-dlss-your-questions-answered/">"NVIDIA DLSS: Your Questions, Answered"</a>. <i>www.nvidia.com</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20211005045718/https://www.nvidia.com/en-us/geforce/news/nvidia-dlss-your-questions-answered/">Archived</a> from the original on 5 October 2021<span class="reference-accessdate">. Retrieved <span class="nowrap">2021-10-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.nvidia.com&amp;rft.atitle=NVIDIA+DLSS%3A+Your+Questions%2C+Answered&amp;rft_id=https%3A%2F%2Fwww.nvidia.com%2Fen-us%2Fgeforce%2Fnews%2Fnvidia-dlss-your-questions-answered%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AImage+scaling" class="Z3988"></span></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.phoronix.com/scan.php?page=news_item&amp;px=Dota-2-FidelityFX-Super-Res">"Valve's Dota 2 Adds AMD FidelityFX Super Resolution - Phoronix"</a>. <i>www.phoronix.com</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20210721181636/https://www.phoronix.com/scan.php?page=news_item&amp;px=Dota-2-FidelityFX-Super-Res">Archived</a> from the original on 21 July 2021<span class="reference-accessdate">. Retrieved <span class="nowrap">2021-10-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.phoronix.com&amp;rft.atitle=Valve%27s+Dota+2+Adds+AMD+FidelityFX+Super+Resolution+-+Phoronix&amp;rft_id=https%3A%2F%2Fwww.phoronix.com%2Fscan.php%3Fpage%3Dnews_item%26px%3DDota-2-FidelityFX-Super-Res&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AImage+scaling" class="Z3988"></span></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite id="CITEREFGartenberg2021" class="citation web cs1">Gartenberg, Chaim (2021-08-19). <a rel="nofollow" class="external text" href="https://www.theverge.com/2021/8/19/22631061/intel-arc-gpu-alchemist-xe-ss-super-sampling-ai-architecture-day-preview">"Intel shows off its answer to Nvidia's DLSS, coming to Arc GPUs in 2022"</a>. <i>The Verge</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20210819171113/https://www.theverge.com/2021/8/19/22631061/intel-arc-gpu-alchemist-xe-ss-super-sampling-ai-architecture-day-preview">Archived</a> from the original on 19 August 2021<span class="reference-accessdate">. Retrieved <span class="nowrap">2021-10-13</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=The+Verge&amp;rft.atitle=Intel+shows+off+its+answer+to+Nvidia%27s+DLSS%2C+coming+to+Arc+GPUs+in+2022&amp;rft.date=2021-08-19&amp;rft.aulast=Gartenberg&amp;rft.aufirst=Chaim&amp;rft_id=https%3A%2F%2Fwww.theverge.com%2F2021%2F8%2F19%2F22631061%2Fintel-arc-gpu-alchemist-xe-ss-super-sampling-ai-architecture-day-preview&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AImage+scaling" class="Z3988"></span></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r999302996"/><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.digitaltrends.com/computing/what-is-nvidia-image-scaling/">"What Is Nvidia Image Scaling? Upscaling Tech, Explained"</a>. <i>Digital Trends</i>. 2021-11-16<span class="reference-accessdate">. Retrieved <span class="nowrap">2021-12-03</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Digital+Trends&amp;rft.atitle=What+Is+Nvidia+Image+Scaling%3F+Upscaling+Tech%2C+Explained&amp;rft.date=2021-11-16&amp;rft_id=https%3A%2F%2Fwww.digitaltrends.com%2Fcomputing%2Fwhat-is-nvidia-image-scaling%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AImage+scaling" class="Z3988"></span></span>
+</li>
+</ol></div>
+<div class="navbox-styles nomobile"><style data-mw-deduplicate="TemplateStyles:r1057682214">.mw-parser-output .navbox{box-sizing:border-box;border:1px solid #a2a9b1;width:100%;clear:both;font-size:88%;text-align:center;padding:1px;margin:1em auto 0}.mw-parser-output .navbox .navbox{margin-top:0}.mw-parser-output .navbox+.navbox,.mw-parser-output .navbox+.navbox-styles+.navbox{margin-top:-1px}.mw-parser-output .navbox-inner,.mw-parser-output .navbox-subgroup{width:100%}.mw-parser-output .navbox-group,.mw-parser-output .navbox-title,.mw-parser-output .navbox-abovebelow{padding:0.25em 1em;line-height:1.5em;text-align:center}.mw-parser-output .navbox-group{white-space:nowrap;text-align:right}.mw-parser-output .navbox,.mw-parser-output .navbox-subgroup{background-color:#fdfdfd}.mw-parser-output .navbox-list{line-height:1.5em;border-color:#fdfdfd}.mw-parser-output .navbox-list-with-group{text-align:left;border-left-width:2px;border-left-style:solid}.mw-parser-output tr+tr>.navbox-abovebelow,.mw-parser-output tr+tr>.navbox-group,.mw-parser-output tr+tr>.navbox-image,.mw-parser-output tr+tr>.navbox-list{border-top:2px solid #fdfdfd}.mw-parser-output .navbox th,.mw-parser-output .navbox-title{}.mw-parser-output .navbox-abovebelow,.mw-parser-output th.navbox-group,.mw-parser-output .navbox-subgroup .navbox-title{background-color:#ddf}.mw-parser-output .navbox-subgroup .navbox-group,.mw-parser-output .navbox-subgroup .navbox-abovebelow{background-color:#e6e6ff}.mw-parser-output .navbox-even{background-color:#f7f7f7}.mw-parser-output .navbox-odd{background-color:transparent}.mw-parser-output .navbox .hlist td dl,.mw-parser-output .navbox .hlist td ol,.mw-parser-output .navbox .hlist td ul,.mw-parser-output .navbox td.hlist dl,.mw-parser-output .navbox td.hlist ol,.mw-parser-output .navbox td.hlist ul{padding:0.125em 0}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style></div><div role="navigation" class="navbox" aria-labelledby="Video_processing" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="text-align:center;"><style data-mw-deduplicate="TemplateStyles:r1054937957">.mw-parser-output .navbar{display:inline;font-size:88%;font-weight:normal}.mw-parser-output .navbar-collapse{float:left;text-align:left}.mw-parser-output .navbar-boxtext{word-spacing:0}.mw-parser-output .navbar ul{display:inline-block;white-space:nowrap;line-height:inherit}.mw-parser-output .navbar-brackets::before{margin-right:-0.125em;content:"[ "}.mw-parser-output .navbar-brackets::after{margin-left:-0.125em;content:" ]"}.mw-parser-output .navbar li{word-spacing:-0.125em}.mw-parser-output .navbar a>span,.mw-parser-output .navbar a>abbr{text-decoration:inherit}.mw-parser-output .navbar-mini abbr{font-variant:small-caps;border-bottom:none;text-decoration:none;cursor:inherit}.mw-parser-output .navbar-ct-full{font-size:114%;margin:0 7em}.mw-parser-output .navbar-ct-mini{font-size:114%;margin:0 4em}.mw-parser-output .infobox .navbar{font-size:100%}.mw-parser-output .navbox .navbar{display:block;font-size:100%}.mw-parser-output .navbox-title .navbar{float:left;text-align:left;margin-right:0.5em}</style><div class="navbar plainlinks hlist navbar-mini"><ul><li class="nv-view"><a href="/wiki/Template:Video_processing" title="Template:Video processing"><abbr title="View this template" style="text-align:center;;;background:none transparent;border:none;box-shadow:none;padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Video_processing" title="Template talk:Video processing"><abbr title="Discuss this template" style="text-align:center;;;background:none transparent;border:none;box-shadow:none;padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Video_processing&amp;action=edit"><abbr title="Edit this template" style="text-align:center;;;background:none transparent;border:none;box-shadow:none;padding:0;">e</abbr></a></li></ul></div><div id="Video_processing" style="font-size:114%;margin:0 4em"><a href="/wiki/Video_processing" title="Video processing">Video processing</a></div></th></tr><tr><th scope="row" class="navbox-group" style="text-align:center;;width:1%"><a href="/wiki/Video_post-processing" title="Video post-processing">Post-processing</a></th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Deblocking_filter" title="Deblocking filter">Deblocking</a></li>
+<li><a class="mw-selflink selflink">Resizing</a>
+<ul><li><a href="/wiki/Comparison_gallery_of_image_scaling_algorithms" title="Comparison gallery of image scaling algorithms">Comparison</a></li></ul></li>
+<li><a href="/wiki/Deinterlacing" title="Deinterlacing">Deinterlacing</a></li>
+<li><a href="/wiki/Video_denoising" title="Video denoising">Denoising</a></li>
+<li><a href="/wiki/Deflicking" title="Deflicking">Deflicking</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;;width:1%">Special processing</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Film_colorization" title="Film colorization">Film colorization</a>&#160;(<a href="/wiki/Film_tinting" title="Film tinting">tinting</a>)</li>
+<li><a href="/wiki/Color_grading" title="Color grading">Color grading</a></li>
+<li><a href="/wiki/Film_look" title="Film look">Film look</a></li>
+<li><a href="/wiki/Super-resolution_imaging" title="Super-resolution imaging">Super-resolution imaging</a></li>
+<li><a href="/wiki/Video_matting" title="Video matting">Video matting</a></li>
+<li><a href="/wiki/Uncompressed_video" title="Uncompressed video">Uncompressed</a></li>
+<li><a href="/wiki/Pixel-art_scaling_algorithms" title="Pixel-art scaling algorithms">Pixel art scaling</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;;width:1%">24 to 30&#160;<a href="/wiki/Frame_rate" title="Frame rate">fps</a> conversion</th><td class="navbox-list-with-group navbox-list navbox-odd hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Telecine" title="Telecine">Telecine</a>&#160;(<a href="/wiki/Telecine#2:3_pulldown" title="Telecine">3:2 pulldown</a>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align:center;;width:1%">30 to 24&#160;<a href="/wiki/Frame_rate" title="Frame rate">fps</a> conversion</th><td class="navbox-list-with-group navbox-list navbox-even hlist" style="width:100%;padding:0"><div style="padding:0 0.25em">
+<ul><li><a href="/wiki/Inverse_telecine#Reverse_telecine_(a.k.a._inverse_telecine_(IVTC),_reverse_pulldown)" class="mw-redirect" title="Inverse telecine">Inverse telecine</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1308
+Cached time: 20211212033518
+Cache expiry: 1814400
+Reduced expiry: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.442 seconds
+Real time usage: 0.578 seconds
+Preprocessor visited node count: 1410/1000000
+Post‐expand include size: 45928/2097152 bytes
+Template argument size: 1596/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 50940/5000000 bytes
+Lua time usage: 0.244/10.000 seconds
+Lua memory usage: 6407023/52428800 bytes
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  504.192      1 -total
+ 33.49%  168.862      1 Template:Reflist
+ 21.46%  108.176      7 Template:Cite_web
+ 14.00%   70.582      1 Template:Video_processing
+ 13.35%   67.320      1 Template:Navbox
+ 12.33%   62.162      1 Template:Short_description
+ 10.74%   54.140      1 Template:Expert_needed
+  7.77%   39.151      1 Template:Commons_category
+  7.12%   35.907      1 Template:Sister_project
+  7.11%   35.825      1 Template:Ambox
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2937077-0!canonical and timestamp 20211212033518 and revision id 1059868854. Serialized with JSON.
+ -->
+</div><noscript><img src="assets/3f07551aa465d8e435036dce80f3b4e4" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Image_scaling&amp;oldid=1059868854">https://en.wikipedia.org/w/index.php?title=Image_scaling&amp;oldid=1059868854</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Image_processing" title="Category:Image processing">Image processing</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:Articles_needing_expert_attention_with_no_reason_or_talk_parameter" title="Category:Articles needing expert attention with no reason or talk parameter">Articles needing expert attention with no reason or talk parameter</a></li><li><a href="/wiki/Category:Articles_needing_expert_attention_from_July_2016" title="Category:Articles needing expert attention from July 2016">Articles needing expert attention from July 2016</a></li><li><a href="/wiki/Category:All_articles_needing_expert_attention" title="Category:All articles needing expert attention">All articles needing expert attention</a></li><li><a href="/wiki/Category:Miscellaneous_articles_needing_expert_attention" title="Category:Miscellaneous articles needing expert attention">Miscellaneous articles needing expert attention</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2015" title="Category:Articles with unsourced statements from December 2015">Articles with unsourced statements from December 2015</a></li><li><a href="/wiki/Category:Commons_category_link_from_Wikidata" title="Category:Commons category link from Wikidata">Commons category link from Wikidata</a></li><li><a href="/wiki/Category:Articles_containing_video_clips" title="Category:Articles containing video clips">Articles containing video clips</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<nav id="p-personal" class="mw-portlet mw-portlet-personal vector-user-menu-legacy vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label" aria-label="" class="vector-menu-heading">
+		
+		<span>Personal tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage" class="mw-list-item"><span>Not logged in</span></li><li id="pt-anontalk" class="mw-list-item"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n"><span>Talk</span></a></li><li id="pt-anoncontribs" class="mw-list-item"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y"><span>Contributions</span></a></li><li id="pt-createaccount" class="mw-list-item"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Image+scaling" title="You are encouraged to create an account and log in; however, it is not mandatory"><span>Create account</span></a></li><li id="pt-login" class="mw-list-item"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Image+scaling" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o"><span>Log in</span></a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<nav id="p-namespaces" class="mw-portlet mw-portlet-namespaces vector-menu vector-menu-tabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label" aria-label="" class="vector-menu-heading">
+		
+		<span>Namespaces</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected mw-list-item"><a href="/wiki/Image_scaling" title="View the content page [c]" accesskey="c"><span>Article</span></a></li><li id="ca-talk" class="mw-list-item"><a href="/wiki/Talk:Image_scaling" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t"><span>Talk</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			<nav id="p-variants" class="mw-portlet mw-portlet-variants emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox"
+		id="p-variants-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-variants"
+		class="vector-menu-checkbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label" aria-label="Change language variant" class="vector-menu-heading">
+		
+		<span>Variants</span>
+			<span class="vector-menu-checkbox-expanded">expanded</span>
+			<span class="vector-menu-checkbox-collapsed">collapsed</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<nav id="p-views" class="mw-portlet mw-portlet-views vector-menu vector-menu-tabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label" aria-label="" class="vector-menu-heading">
+		
+		<span>Views</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected mw-list-item"><a href="/wiki/Image_scaling"><span>Read</span></a></li><li id="ca-edit" class="mw-list-item"><a href="/w/index.php?title=Image_scaling&amp;action=edit" title="Edit this page [e]" accesskey="e"><span>Edit</span></a></li><li id="ca-history" class="mw-list-item"><a href="/w/index.php?title=Image_scaling&amp;action=history" title="Past revisions of this page [h]" accesskey="h"><span>View history</span></a></li></ul>
+		
+	</div>
+</nav>
+
+			<nav id="p-cactions" class="mw-portlet mw-portlet-cactions emptyPortlet vector-menu-dropdown-noicon vector-menu vector-menu-dropdown" aria-labelledby="p-cactions-label" role="navigation"  title="More options"
+	 >
+	<input type="checkbox"
+		id="p-cactions-checkbox"
+		role="button"
+		aria-haspopup="true"
+		data-event-name="ui.dropdown-p-cactions"
+		class="vector-menu-checkbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label" aria-label="" class="vector-menu-heading">
+		
+		<span>More</span>
+			<span class="vector-menu-checkbox-expanded">expanded</span>
+			<span class="vector-menu-checkbox-collapsed">collapsed</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search" class=" vector-search-box">
+	<div>
+			<h3 >
+				<label for="searchInput">Search</label>
+			</h3>
+		<form action="/w/index.php" id="searchform"
+			class="vector-search-box-form">
+			<div id="simpleSearch"
+				class="vector-search-box-inner"
+				 data-search-loc="header-navigation">
+				<input class="vector-search-box-input"
+					 type="search" name="search" placeholder="Search Wikipedia" aria-label="Search Wikipedia" autocapitalize="sentences" title="Search Wikipedia [f]" accesskey="f" id="searchInput"
+				/>
+				<input type="hidden" name="title" value="Special:Search"/>
+				<input id="mw-searchButton"
+					 class="searchButton mw-fallbackSearchButton" type="submit" name="fulltext" title="Search Wikipedia for this text" value="Search" />
+				<input id="searchButton"
+					 class="searchButton" type="submit" name="go" title="Go to a page with this exact name if it exists" value="Go" />
+			</div>
+		</form>
+	</div>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a class="mw-wiki-logo" href="/wiki/Main_Page"
+			title="Visit the main page"></a>
+	</div>
+	<nav id="p-navigation" class="mw-portlet mw-portlet-navigation vector-menu vector-menu-portal portal" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label" aria-label="" class="vector-menu-heading">
+		
+		<span>Navigation</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description" class="mw-list-item"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z"><span>Main page</span></a></li><li id="n-contents" class="mw-list-item"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia"><span>Contents</span></a></li><li id="n-currentevents" class="mw-list-item"><a href="/wiki/Portal:Current_events" title="Articles related to current events"><span>Current events</span></a></li><li id="n-randompage" class="mw-list-item"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x"><span>Random article</span></a></li><li id="n-aboutsite" class="mw-list-item"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works"><span>About Wikipedia</span></a></li><li id="n-contactpage" class="mw-list-item"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia"><span>Contact us</span></a></li><li id="n-sitesupport" class="mw-list-item"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation"><span>Donate</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	<nav id="p-interaction" class="mw-portlet mw-portlet-interaction vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label" aria-label="" class="vector-menu-heading">
+		
+		<span>Contribute</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="n-help" class="mw-list-item"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia"><span>Help</span></a></li><li id="n-introduction" class="mw-list-item"><a href="/wiki/Help:Introduction" title="Learn how to edit Wikipedia"><span>Learn to edit</span></a></li><li id="n-portal" class="mw-list-item"><a href="/wiki/Wikipedia:Community_portal" title="The hub for editors"><span>Community portal</span></a></li><li id="n-recentchanges" class="mw-list-item"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r"><span>Recent changes</span></a></li><li id="n-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia"><span>Upload file</span></a></li></ul>
+		
+	</div>
+</nav>
+<nav id="p-tb" class="mw-portlet mw-portlet-tb vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label" aria-label="" class="vector-menu-heading">
+		
+		<span>Tools</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere" class="mw-list-item"><a href="/wiki/Special:WhatLinksHere/Image_scaling" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j"><span>What links here</span></a></li><li id="t-recentchangeslinked" class="mw-list-item"><a href="/wiki/Special:RecentChangesLinked/Image_scaling" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k"><span>Related changes</span></a></li><li id="t-upload" class="mw-list-item"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u"><span>Upload file</span></a></li><li id="t-specialpages" class="mw-list-item"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q"><span>Special pages</span></a></li><li id="t-permalink" class="mw-list-item"><a href="/w/index.php?title=Image_scaling&amp;oldid=1059868854" title="Permanent link to this revision of this page"><span>Permanent link</span></a></li><li id="t-info" class="mw-list-item"><a href="/w/index.php?title=Image_scaling&amp;action=info" title="More information about this page"><span>Page information</span></a></li><li id="t-cite" class="mw-list-item"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Image_scaling&amp;id=1059868854&amp;wpFormIdentifier=titleform" title="Information on how to cite this page"><span>Cite this page</span></a></li><li id="t-wikibase" class="mw-list-item"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q440296" title="Structured data on this page hosted by Wikidata [g]" accesskey="g"><span>Wikidata item</span></a></li></ul>
+		
+	</div>
+</nav>
+<nav id="p-coll-print_export" class="mw-portlet mw-portlet-coll-print_export vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label" aria-label="" class="vector-menu-heading">
+		
+		<span>Print/export</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl" class="mw-list-item"><a href="/w/index.php?title=Special:DownloadAsPdf&amp;page=Image_scaling&amp;action=show-download-screen" title="Download this page as a PDF file"><span>Download as PDF</span></a></li><li id="t-print" class="mw-list-item"><a href="/w/index.php?title=Image_scaling&amp;printable=yes" title="Printable version of this page [p]" accesskey="p"><span>Printable version</span></a></li></ul>
+		
+	</div>
+</nav>
+<nav id="p-wikibase-otherprojects" class="mw-portlet mw-portlet-wikibase-otherprojects vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label" aria-label="" class="vector-menu-heading">
+		
+		<span>In other projects</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons mw-list-item"><a href="https://commons.wikimedia.org/wiki/Category:Image_scaling" hreflang="en"><span>Wikimedia Commons</span></a></li></ul>
+		
+	</div>
+</nav>
+
+	<nav id="p-lang" class="mw-portlet mw-portlet-lang vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label" aria-label="" class="vector-menu-heading">
+		
+		<span>Languages</span>
+	</h3>
+	<div class="vector-menu-content">
+		
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-az mw-list-item"><a href="https://az.wikipedia.org/wiki/Migyasd%C9%99yi%C5%9Fm%C9%99" title="Migyasdəyişmə – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target"><span>Azərbaycanca</span></a></li><li class="interlanguage-link interwiki-ca mw-list-item"><a href="https://ca.wikipedia.org/wiki/Escalat_d%27image" title="Escalat d&#039;image – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target"><span>Català</span></a></li><li class="interlanguage-link interwiki-de mw-list-item"><a href="https://de.wikipedia.org/wiki/Skalierung_(Computergrafik)" title="Skalierung (Computergrafik) – German" lang="de" hreflang="de" class="interlanguage-link-target"><span>Deutsch</span></a></li><li class="interlanguage-link interwiki-et mw-list-item"><a href="https://et.wikipedia.org/wiki/Pildi_skaleerimine" title="Pildi skaleerimine – Estonian" lang="et" hreflang="et" class="interlanguage-link-target"><span>Eesti</span></a></li><li class="interlanguage-link interwiki-es mw-list-item"><a href="https://es.wikipedia.org/wiki/Interpolaci%C3%B3n_(fotograf%C3%ADa)" title="Interpolación (fotografía) – Spanish" lang="es" hreflang="es" class="interlanguage-link-target"><span>Español</span></a></li><li class="interlanguage-link interwiki-fr mw-list-item"><a href="https://fr.wikipedia.org/wiki/Redimensionnement_d%27image" title="Redimensionnement d&#039;image – French" lang="fr" hreflang="fr" class="interlanguage-link-target"><span>Français</span></a></li><li class="interlanguage-link interwiki-ja mw-list-item"><a href="https://ja.wikipedia.org/wiki/%E7%94%BB%E5%83%8F%E3%82%B9%E3%82%B1%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0" title="画像スケーリング – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target"><span>日本語</span></a></li><li class="interlanguage-link interwiki-ru mw-list-item"><a href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D1%88%D1%82%D0%B0%D0%B1%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%B8%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F" title="Масштабирование изображения – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target"><span>Русский</span></a></li><li class="interlanguage-link interwiki-uk mw-list-item"><a href="https://uk.wikipedia.org/wiki/%D0%9C%D0%B0%D1%81%D1%88%D1%82%D0%B0%D0%B1%D1%83%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F_%D0%B7%D0%BE%D0%B1%D1%80%D0%B0%D0%B6%D0%B5%D0%BD%D0%BD%D1%8F" title="Масштабування зображення – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target"><span>Українська</span></a></li><li class="interlanguage-link interwiki-zh mw-list-item"><a href="https://zh.wikipedia.org/wiki/%E5%9B%BE%E5%83%8F%E7%BC%A9%E6%94%BE" title="图像缩放 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target"><span>中文</span></a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q440296#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info">
+	<li id="footer-info-lastmod"> This page was last edited on 12 December 2021, at 03:35<span class="anonymous-show">&#160;(UTC)</span>.</li>
+	<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+
+	<ul id="footer-places">
+	<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+	<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+	<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+	<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+	<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Image_scaling&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+	<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+	<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+</ul>
+
+	<ul id="footer-icons" class="noprint">
+	<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="assets/d0baecaa986ff7633a512d4b50947d64.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+	<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="assets/ff74a01dcaa635dc8296ffd80fbd87eb.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+</ul>
+
+</footer>
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.442","walltime":"0.578","ppvisitednodes":{"value":1410,"limit":1000000},"postexpandincludesize":{"value":45928,"limit":2097152},"templateargumentsize":{"value":1596,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":50940,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  504.192      1 -total"," 33.49%  168.862      1 Template:Reflist"," 21.46%  108.176      7 Template:Cite_web"," 14.00%   70.582      1 Template:Video_processing"," 13.35%   67.320      1 Template:Navbox"," 12.33%   62.162      1 Template:Short_description"," 10.74%   54.140      1 Template:Expert_needed","  7.77%   39.151      1 Template:Commons_category","  7.12%   35.907      1 Template:Sister_project","  7.11%   35.825      1 Template:Ambox"]},"scribunto":{"limitreport-timeusage":{"value":"0.244","limit":"10.000"},"limitreport-memusage":{"value":6407023,"limit":52428800}},"cachereport":{"origin":"mw1308","timestamp":"20211212033518","ttl":1814400,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Image scaling","url":"https:\/\/en.wikipedia.org\/wiki\/Image_scaling","sameAs":"http:\/\/www.wikidata.org\/entity\/Q440296","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q440296","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-10-18T18:26:58Z","dateModified":"2021-12-12T03:35:16Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e9\/2xsai_example.png","headline":"changing the resolution of a digital image"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":140,"wgHostname":"mw1349"});});</script>
+
+<div style="position:fixed;top:0;left:0;width:100%;height:45px;z-index:2147483647;background-color:rgba(253,147,38,0.90) !important;color:black !important;text-align:right !important;font:normal 12px/45px Arial, sans-serif !important;border-radius:0 !important;margin:0 !important;max-width:100% !important;background-repeat: no-repeat !important;background-position: 15px center !important;
+background-image: url(data:image/png;base64,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);
+"><span style="padding-right:15px;">You are viewing a snapshot of <a style='font-weight:bold !important; color:white !important' href='https://en.wikipedia.org/wiki/Image_scaling'>https://en.wikipedia.org/wiki/Image_scaling</a> created on 2021/12/14</span></div></body>
+</html>

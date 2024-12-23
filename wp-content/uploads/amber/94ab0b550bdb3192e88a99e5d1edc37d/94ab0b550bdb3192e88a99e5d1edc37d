@@ -1,0 +1,437 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Weasel program - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"31a79cec-6203-4200-bf44-0dee27a68d07","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Weasel_program","wgTitle":"Weasel program","wgCurRevisionId":917802703,"wgRevisionId":917802703,"wgArticleId":1851887,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles that may contain original research from August 2016","All articles that may contain original research","Artificial life","Genetic algorithms","Richard Dawkins","Simulation software","Thought experiments"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":
+"Weasel_program","wgRelevantArticleId":1851887,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q4810835"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready",
+"jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="assets/3b055fed185f27e4e7f0020518908b58.css"/>
+<script async="" src="assets/c065145ab1ee4f734095d2092a9278ed.php"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="assets/dab0269550e613a8f8d91320ac5db71f.css"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.3"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/e/e9/Mustela_frenata.jpg"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Weasel_program&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Weasel_program&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Weasel_program"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Weasel_program rootpage-Weasel_program skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Weasel program</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Mustela_frenata.jpg" class="image"><img alt="" src="assets/47bb778daa712b93d67d903bb9b642f9.jpg" decoding="async" width="220" height="164" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mustela_frenata.jpg/330px-Mustela_frenata.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Mustela_frenata.jpg/440px-Mustela_frenata.jpg 2x" data-file-width="450" data-file-height="336" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Mustela_frenata.jpg" class="internal" title="Enlarge"></a></div>The software's name takes itself from dialogue in <i>Hamlet</i>:<br /><i>Hamlet:</i> Do you see yonder cloud that's almost in shape of a camel?<br /><i>Polonius:</i> By the mass, and 'tis like a camel, indeed.<br /><i>Hamlet:</i> Methinks it is like a <a href="/wiki/Weasel" title="Weasel">weasel</a>.</div></div></div>
+<p>The <b>weasel program</b> or <b>Dawkins' weasel</b> is a <a href="/wiki/Thought_experiment" title="Thought experiment">thought experiment</a> and a variety of <a href="/wiki/Computer_simulation" title="Computer simulation">computer simulations</a> illustrating it.  Their aim is to demonstrate that the process that drives <a href="/wiki/Evolution" title="Evolution">evolutionary</a> systems—random <a href="/wiki/Mutation" title="Mutation">variation</a> combined with non-random cumulative <a href="/wiki/Selection_(biology)" class="mw-redirect" title="Selection (biology)">selection</a>—is different from pure <a href="/wiki/Chance_(philosophy)" class="mw-redirect" title="Chance (philosophy)">chance</a>.
+</p><p>The thought experiment was formulated by <a href="/wiki/Richard_Dawkins" title="Richard Dawkins">Richard Dawkins</a>, and the first simulation written by him; various other implementations of the program have been written by others.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Implications_for_biology"><span class="tocnumber">2</span> <span class="toctext">Implications for biology</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#More_complex_models"><span class="tocnumber">3</span> <span class="toctext">More complex models</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Example_algorithm"><span class="tocnumber">4</span> <span class="toctext">Example algorithm</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weasel_program&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In chapter 3 of his book <i><a href="/wiki/The_Blind_Watchmaker" title="The Blind Watchmaker">The Blind Watchmaker</a></i>, Dawkins gave the following introduction to the program, referencing the well-known <a href="/wiki/Infinite_monkey_theorem" title="Infinite monkey theorem">infinite monkey theorem</a>:
+</p>
+<style data-mw-deduplicate="TemplateStyles:r960796168">.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}</style><blockquote class="templatequote"><p>I don't know who it was first pointed out that, given enough time, a <a href="/wiki/Monkey" title="Monkey">monkey</a> bashing away at <a href="/wiki/Randomness" title="Randomness">random</a> on a <a href="/wiki/Typewriter" title="Typewriter">typewriter</a> could produce all the works of <a href="/wiki/Shakespeare" class="mw-redirect" title="Shakespeare">Shakespeare</a>. The operative phrase is, of course, given enough time. Let us limit the task facing our monkey somewhat. Suppose that he has to produce, not the complete works of Shakespeare but just the short sentence 'Methinks it is like a <a href="/wiki/Weasel" title="Weasel">weasel</a>', and we shall make it relatively easy by giving him a typewriter with a restricted keyboard, one with just the 26 (capital) letters, and a space bar. How long will he take to write this one little sentence?</p></blockquote>
+<p>The scenario is staged to produce a string of <a href="/wiki/Gibberish" title="Gibberish">gibberish</a> letters, assuming that the selection of each letter in a sequence of 28 characters will be random. The number of possible combinations in this random sequence is 27<sup>28</sup>, or about 10<sup>40</sup>, so the <a href="/wiki/Probability" title="Probability">probability</a> that the monkey will produce a given sequence is extremely low. Any particular sequence of 28 characters could be selected as a "target" phrase, all equally as improbable as Dawkins's chosen target, "METHINKS IT IS LIKE A WEASEL".
+</p><p>A <a href="/wiki/Computer_program" title="Computer program">computer program</a> could be written to carry out the actions of Dawkins's <a href="/wiki/Hypothesis" title="Hypothesis">hypothetical</a> monkey, continuously generating combinations of 26 letters and spaces at high speed. Even at the rate of millions of combinations per second, it is unlikely, even given the entire <a href="/wiki/Age_of_the_universe" title="Age of the universe">lifetime of the universe</a> to run, that the program would ever produce the phrase "METHINKS IT IS LIKE A WEASEL".<sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup>
+</p><p>Dawkins intends this example to illustrate a common misunderstanding of <a href="/wiki/Evolution" title="Evolution">evolutionary</a> change, i.e. that <a href="/wiki/DNA" title="DNA">DNA</a> sequences or <a href="/wiki/Organic_compound" title="Organic compound">organic compounds</a> such as <a href="/wiki/Proteins" class="mw-redirect" title="Proteins">proteins</a> are the result of atoms randomly combining to form more complex structures. In these types of computations, any sequence of <a href="/wiki/Amino_acids" class="mw-redirect" title="Amino acids">amino acids</a> in a protein will be extraordinarily improbable (this is known as <a href="/wiki/Hoyle%27s_fallacy" class="mw-redirect" title="Hoyle&#39;s fallacy">Hoyle's fallacy</a>). Rather, evolution proceeds by <a href="/wiki/Hill_climbing" title="Hill climbing">hill climbing</a>, as in <a href="/wiki/Adaptive_landscape" class="mw-redirect" title="Adaptive landscape">adaptive landscapes</a>.
+</p><p>Dawkins then goes on to show that a process of <i>cumulative</i> selection can take far fewer steps to reach any given target. In Dawkins's words:
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r960796168"/><blockquote class="templatequote"><p>We again use our computer monkey, but with a crucial difference in its program. It again begins by choosing a random sequence of 28 letters, just as before ... it duplicates it repeatedly, but with a certain chance of random <a href="/wiki/Error" title="Error">error</a> &#8211; 'mutation' &#8211; in the copying. The computer examines the <a href="/wiki/Mutant" title="Mutant">mutant</a> nonsense phrases, the 'progeny' of the original phrase, and chooses the one which,<i> however slightly, </i>most resembles the target phrase, METHINKS IT IS LIKE A WEASEL.</p></blockquote>
+<p>By repeating the procedure, a randomly generated sequence of 28 letters and spaces will be gradually changed each <a href="/wiki/Generation" title="Generation">generation</a>. The sequences progress through each generation:
+</p>
+<dl><dd>Generation&#160;01:<tt>&#160;&#160;&#160;WDLTMNLT&#160;DTJBKWIRZREZLMQCO&#160;P</tt> <sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup></dd>
+<dd>Generation&#160;02:<tt>&#160;&#160;&#160;WDLTMNLT&#160;DTJBSWIRZREZLMQCO&#160;P</tt></dd>
+<dd>Generation&#160;10:<tt>&#160;&#160;&#160;MDLDMNLS&#160;ITJISWHRZREZ&#160;MECS&#160;P</tt></dd>
+<dd>Generation&#160;20:<tt>&#160;&#160;&#160;MELDINLS&#160;IT&#160;ISWPRKE&#160;Z&#160;WECSEL</tt></dd>
+<dd>Generation&#160;30:<tt>&#160;&#160;&#160;METHINGS&#160;IT&#160;ISWLIKE&#160;B&#160;WECSEL</tt></dd>
+<dd>Generation&#160;40:<tt>&#160;&#160;&#160;METHINKS&#160;IT&#160;IS&#160;LIKE&#160;I&#160;WEASEL</tt></dd>
+<dd>Generation&#160;43:<tt>&#160;&#160;&#160;METHINKS&#160;IT&#160;IS&#160;LIKE&#160;A&#160;WEASEL</tt></dd></dl>
+<p>Dawkins continues:
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r960796168"/><blockquote class="templatequote"><p>The exact time taken by the computer to reach the target doesn't matter. If you want to know, it completed the whole exercise for me, the first time, while I was out to lunch. It took about half an hour. (Computer enthusiasts may think this unduly slow. The reason is that the program was written in <a href="/wiki/BASIC_programming_language" class="mw-redirect" title="BASIC programming language">BASIC</a>, a sort of computer baby-talk. When I rewrote it in <a href="/wiki/Pascal_programming_language" class="mw-redirect" title="Pascal programming language">Pascal</a>, it took 11 seconds.) Computers are a bit faster at this kind of thing than monkeys, but the difference really isn't significant. What matters is the difference between the time taken by<i> cumulative </i>selection, and the time which the same computer, working flat out at the same rate, would take to reach the target phrase if it were forced to use the other procedure of<i> single-step selection: </i>about a million million million million million years. This is more than a million million million times as long as the universe has so far existed.</p></blockquote>
+<h2><span class="mw-headline" id="Implications_for_biology">Implications for biology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weasel_program&amp;action=edit&amp;section=2" title="Edit section: Implications for biology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The program aims to demonstrate that the preservation of small changes in an evolving string of characters (or <a href="/wiki/Gene" title="Gene">genes</a>) can produce meaningful combinations in a relatively short time as long as there is some mechanism to select cumulative changes, whether it is a person identifying which traits are desirable (in the case of artificial selection) or a criterion of survival ("fitness") imposed by the environment (in the case of natural selection). Reproducing systems tend to preserve traits across generations, because the offspring inherit a copy of the parent's traits. It is the differences between offspring, the variations in copying, which become the basis for selection, allowing phrases closer to the target to survive, and the remaining variants to "die."
+</p><p>Dawkins discusses the issue of the mechanism of selection with respect to his "biomorphs" program:
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r960796168"/><blockquote class="templatequote"><p>The human eye has an active role to play in the story. It is the selecting agent. It surveys the litter of progeny and chooses one for breeding. ...Our model, in other words, is strictly a model of artificial selection, not natural selection. The criterion for 'success' is not the direct criterion of survival, as it is in true natural selection. In true natural selection, if a body has what it takes to survive, its genes automatically survive because they are inside it. So the genes that survive tend to be, automatically, those genes that confer on bodies the qualities that assist them to survive.</p></blockquote>
+<p>Regarding the example's applicability to biological evolution, he is careful to point out that it has its limitations:
+</p>
+<link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r960796168"/><blockquote class="templatequote"><p>Although the monkey/Shakespeare model is useful for explaining the distinction between single-step selection and cumulative selection, it is misleading in important ways. One of these is that, in each generation of selective 'breeding', the mutant 'progeny' phrases were judged according to the criterion of resemblance to a<i> distant ideal </i>target, the phrase METHINKS IT IS LIKE A WEASEL. Life isn't like that. Evolution has no long-term goal. There is no long-distance target, no final perfection to serve as a criterion for selection, although human vanity cherishes the absurd notion that our species is the final goal of evolution. In real life, the criterion for selection is always short-term, either simple survival or, more generally, reproductive success.</p></blockquote>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Dawkins-Weasel.png" class="image"><img alt="" src="assets/cf64ae5d5948b06ebb5879d4ed92260b.png" decoding="async" width="220" height="491" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/e/e7/Dawkins-Weasel.png 1.5x" data-file-width="325" data-file-height="725" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Dawkins-Weasel.png" class="internal" title="Enlarge"></a></div>A full run of a weasel program, with 100 offspring per generation, and a 5% mutation chance per character copied. Only the "fittest" string of each generation is shown. Note that, in generation 8, the 25th character, which had been correct (<code>A</code>), becomes incorrect (<code>I</code>). The program does not "lock" correct characters, rather it measures at each iteration the closeness of the complete string to the 'target' phrase.</div></div></div>
+<h2><span class="mw-headline" id="More_complex_models">More complex models</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weasel_program&amp;action=edit&amp;section=3" title="Edit section: More complex models">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In <i>The Blind Watchmaker,</i> Dawkins goes on to provide a graphical model of <a href="/wiki/Gene_selection" class="mw-redirect" title="Gene selection">gene selection</a> involving  entities he calls biomorphs. These are <a href="/wiki/Plane_(mathematics)" class="mw-redirect" title="Plane (mathematics)">two-dimensional</a> sets of <a href="/wiki/Line_(mathematics)#Line_segment" class="mw-redirect" title="Line (mathematics)">line segments</a> which bear relationships to each other, drawn under the control of "genes" that determine the appearance of the biomorph. By selecting entities from sequential generations of biomorphs, an experimenter can guide the evolution of the figures toward given shapes, such as "airplane" or "octopus" biomorphs.
+</p><p>As a simulation, the biomorphs are not much closer to the actual genetic behavior of biological organisms. Like the Weasel program, their development is shaped by an external factor, in this case the decisions of the experimenter who chooses which of many possible shapes will go forward into the following generation. They do however serve to illustrate the concept of "genetic space," where each possible gene is treated as a <a href="/wiki/Dimension" title="Dimension">dimension</a>, and the actual genomes of living organisms make up a tiny fraction of all possible gene combinations, most of which will not produce a viable organism. As Dawkins puts it, "however many ways there may be of being alive, it is certain that there are vastly more ways of being dead". 
+</p><p>In <i>Climbing Mount Improbable</i>, Dawkins responded to the limitations of the Weasel program by describing programs, written by other parties, that modeled the evolution of the <a href="/wiki/Spider_web" title="Spider web">spider web</a>.  He suggested that these programs were more realistic models of the evolutionary process, since they had no predetermined goal other than coming up with a web that caught more flies through a "trial and error" process.  Spiderwebs were seen as good topics for evolutionary modeling because they were simple examples of biosystems that were easily visualized; the modeling programs successfully generated a range of spider webs similar to those found in nature.
+</p>
+<h2><span class="mw-headline" id="Example_algorithm">Example algorithm</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weasel_program&amp;action=edit&amp;section=4" title="Edit section: Example algorithm">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="box-Original_research plainlinks metadata ambox ambox-content ambox-Original_research" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="assets/9eee4d299e83f3e374d9d94f105349c4.png" decoding="async" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" data-file-width="40" data-file-height="40" /></div></td><td class="mbox-text"><div class="mbox-text-span">This section <b>possibly contains <a href="/wiki/Wikipedia:No_original_research" title="Wikipedia:No original research">original research</a></b>.<span class="hide-when-compact"> Please <a class="external text" href="https://en.wikipedia.org/w/index.php?title=Weasel_program&amp;action=edit">improve it</a> by <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verifying</a> the claims made and adding <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a>. Statements consisting only of original research should be removed.</span>  <small class="date-container"><i>(<span class="date">August 2016</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<p>Although Dawkins did not provide the source code for his program, a "Weasel" style algorithm could run as follows.
+</p>
+<ol><li>Start with a random string of 28 characters.</li>
+<li>Make 100 copies of the string (<i>reproduce</i>).</li>
+<li>For each character in each of the 100 copies, with a probability of 5%, replace (<i>mutate</i>) the character with a new random character.</li>
+<li>Compare each new string with the target string "METHINKS IT IS LIKE A WEASEL", and give each a score (the number of letters in the string that are correct and in the correct position).</li>
+<li>If any of the new strings has a perfect score (28), halt. Otherwise, take the highest scoring string, and go to step 2.</li></ol>
+<p>For these purposes, a "character" is any uppercase letter, or a space. The number of copies per generation, and the chance of mutation per letter are not specified in Dawkins's book; 100 copies and a 5% mutation rate are examples. Correct letters are not "locked". Each correct letter may become incorrect in subsequent generations. The terms of the program and the existence of the target phrase do however mean that such 'negative mutations' will quickly be 'corrected'.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weasel_program&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Genetic_algorithm" title="Genetic algorithm">Genetic algorithm</a></li>
+<li><a href="/wiki/Objections_to_evolution" title="Objections to evolution">Objections to evolution</a></li>
+<li><a href="/wiki/Watchmaker_analogy" title="Watchmaker analogy">Watchmaker analogy</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weasel_program&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Dawkins, R. (1986) <i><a href="/wiki/The_Blind_Watchmaker" title="The Blind Watchmaker">The Blind Watchmaker</a></i> Oxford University Press.</li></ul>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">For a string of 28 characters, with 27 possible characters (A-Z plus space), any randomly generated string has the probability one in 27^28 of being correct; that is approximately one in 10^40. If a program generating 10 million strings per second had been running since the start of the universe (around 14 billion years, or 10^17 seconds), it would have only generated around 10^24 strings by now.</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Note: the 4th character of line 1 is missing in Dawkins' text; however line 2 suggests it was probably a T</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weasel_program&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://rosettacode.org/wiki/Evolutionary_algorithm">Many examples of Weasel programs in various computer languages</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080514161817/http://home.pacbell.net/s-max/scott/weasel.html">The Weasel Applet (the "weasel program" written in Java)</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080719075206/http://vlab.infotech.monash.edu.au/simulations/evolution/richard-dawkin-weasel/">Dawkin's Weasel demo applet</a> (in Monash University's Virtual Lab)</li>
+<li><a rel="nofollow" class="external text" href="http://www.talkorigins.org/indexcc/CF/CF011_1.html">Talk.origins claim CF011_1 Dawkins' WEASEL simulation</a></li>
+<li><a rel="nofollow" class="external text" href="https://s3.amazonaws.com/files.nice/weasel2.html">An open sourced, HTML/Javascript web-based version by Damian Peterson</a></li>
+<li><a rel="nofollow" class="external text" href="http://bytesizebio.net/index.php/2011/04/23/shakespeares-birthday-and-evolution/">An open sourced python script by Iddo Friedberg</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Richard_Dawkins" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Richard_Dawkins" title="Template:Richard Dawkins"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Richard_Dawkins" title="Template talk:Richard Dawkins"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Richard_Dawkins&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Richard_Dawkins" style="font-size:114%;margin:0 4em"><a href="/wiki/Richard_Dawkins" title="Richard Dawkins">Richard Dawkins</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="BibliographyPolitical_views"><div class="hlist hlist-separated"><ul><li><a href="/wiki/Richard_Dawkins_bibliography" title="Richard Dawkins bibliography">Bibliography</a></li><li><a href="/wiki/Political_views_of_Richard_Dawkins" title="Political views of Richard Dawkins">Political views</a></li></ul></div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Books</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/The_Selfish_Gene" title="The Selfish Gene">The Selfish Gene</a></i> (1976)</li>
+<li><i><a href="/wiki/The_Extended_Phenotype" title="The Extended Phenotype">The Extended Phenotype</a></i> (1982)</li>
+<li><i><a href="/wiki/The_Blind_Watchmaker" title="The Blind Watchmaker">The Blind Watchmaker</a></i> (1986)</li>
+<li><i><a href="/wiki/River_Out_of_Eden" title="River Out of Eden">River Out of Eden</a></i> (1995)</li>
+<li><i><a href="/wiki/Climbing_Mount_Improbable" title="Climbing Mount Improbable">Climbing Mount Improbable</a></i> (1996)</li>
+<li><i><a href="/wiki/Unweaving_the_Rainbow" title="Unweaving the Rainbow">Unweaving the Rainbow</a></i> (1998)</li>
+<li><i><a href="/wiki/A_Devil%27s_Chaplain" title="A Devil&#39;s Chaplain">A Devil's Chaplain</a></i> (2003)</li>
+<li><i><a href="/wiki/The_Ancestor%27s_Tale" title="The Ancestor&#39;s Tale">The Ancestor's Tale</a></i> (2004)</li>
+<li><i><a href="/wiki/The_God_Delusion" title="The God Delusion">The God Delusion</a></i> (2006)</li>
+<li><i><a href="/wiki/The_Greatest_Show_on_Earth:_The_Evidence_for_Evolution" title="The Greatest Show on Earth: The Evidence for Evolution">The Greatest Show on Earth: The Evidence for Evolution</a></i> (2009)</li>
+<li><i><a href="/wiki/The_Magic_of_Reality" title="The Magic of Reality"> The Magic of Reality: How We Know What's Really True</a></i> (2011)</li>
+<li><i><a href="/wiki/An_Appetite_for_Wonder" title="An Appetite for Wonder">An Appetite for Wonder: The Making of a Scientist</a></i> (2013)</li>
+<li><i><a href="/wiki/Brief_Candle_in_the_Dark:_My_Life_in_Science" title="Brief Candle in the Dark: My Life in Science">Brief Candle in the Dark: My Life in Science</a></i> (2015)</li>
+<li><i><a href="/wiki/Science_in_the_Soul:_Selected_Writings_of_a_Passionate_Rationalist" class="mw-redirect" title="Science in the Soul: Selected Writings of a Passionate Rationalist">Science in the Soul: Selected Writings of a Passionate Rationalist</a></i> (2017)</li>
+<li><i><a href="/w/index.php?title=Outgrowing_God:_A_Beginner%27s_Guide&amp;action=edit&amp;redlink=1" class="new" title="Outgrowing God: A Beginner&#39;s Guide (page does not exist)">Outgrowing God: A Beginner's Guide</a></i> (2019)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related works</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Growing_Up_in_the_Universe" title="Growing Up in the Universe">Growing Up in the Universe</a></i> (1991)</li>
+<li><i><a href="/wiki/Dawkins_vs._Gould" title="Dawkins vs. Gould">Dawkins vs. Gould</a></i> (2001)</li>
+<li><i><a href="/wiki/Beyond_Belief:_Science,_Religion,_Reason_and_Survival" title="Beyond Belief: Science, Religion, Reason and Survival">Beyond Belief</a></i> (2006)</li>
+<li><i><a href="/wiki/Richard_Dawkins:_How_a_Scientist_Changed_the_Way_We_Think" title="Richard Dawkins: How a Scientist Changed the Way We Think">Richard Dawkins: How a Scientist Changed the Way We Think</a></i> (2006)</li>
+<li><i><a href="/wiki/The_Oxford_Book_of_Modern_Science_Writing" title="The Oxford Book of Modern Science Writing">The Oxford Book of Modern Science Writing</a></i> (2008)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Documentaries</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Nice_Guys_Finish_First" title="Nice Guys Finish First">Nice Guys Finish First</a></i> (1987)</li>
+<li><i><a href="/wiki/The_Blind_Watchmaker_(film)" title="The Blind Watchmaker (film)">The Blind Watchmaker</a></i> (1987)</li>
+<li><i><a href="/wiki/Break_the_Science_Barrier" title="Break the Science Barrier">Break the Science Barrier</a></i> (1996)</li>
+<li><i><a href="/wiki/The_Atheism_Tapes" title="The Atheism Tapes">The Atheism Tapes</a></i> (2004)</li>
+<li><i><a href="/wiki/The_Root_of_All_Evil%3F" title="The Root of All Evil?">The Root of All Evil?</a></i> (2006)</li>
+<li><i><a href="/wiki/The_Enemies_of_Reason" title="The Enemies of Reason">The Enemies of Reason</a></i> (2007)</li>
+<li><i><a href="/wiki/The_Genius_of_Charles_Darwin" title="The Genius of Charles Darwin">The Genius of Charles Darwin</a></i> (2008)</li>
+<li><i><a href="/wiki/Faith_School_Menace%3F" title="Faith School Menace?">Faith School Menace?</a></i> (2010)</li>
+<li><i><a href="/wiki/Sex,_Death_and_the_Meaning_of_Life" title="Sex, Death and the Meaning of Life">Sex, Death and the Meaning of Life</a></i> (2012)</li>
+<li><i><a href="/wiki/The_Unbelievers" title="The Unbelievers">The Unbelievers</a></i> (2013)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">See also</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Meme" title="Meme">Meme</a></li>
+<li><a href="/wiki/Atheist_Bus_Campaign" title="Atheist Bus Campaign">Atheist Bus Campaign</a></li>
+<li><a href="/wiki/Out_Campaign" title="Out Campaign">Out Campaign</a></li>
+<li><a href="/wiki/Gerin_oil" title="Gerin oil">Gerin oil</a></li>
+<li><a href="/wiki/Richard_Dawkins_Foundation_for_Reason_and_Science" title="Richard Dawkins Foundation for Reason and Science">Foundation for Reason and Science</a></li>
+<li><a href="/wiki/Simonyi_Professor_for_the_Public_Understanding_of_Science" title="Simonyi Professor for the Public Understanding of Science">Professorship for the Public Understanding of Science</a></li>
+<li><a href="/wiki/Ultimate_Boeing_747_gambit" title="Ultimate Boeing 747 gambit">Ultimate Boeing 747 gambit</a></li>
+<li><a href="/wiki/Lalla_Ward" title="Lalla Ward">Lalla Ward</a></li>
+<li><a href="/w/index.php?title=Frameshift_(band)&amp;action=edit&amp;redlink=1" class="new" title="Frameshift (band) (page does not exist)">Frameshift</a></li>
+<li><a class="mw-selflink selflink">Weasel program</a></li>
+<li><a href="/wiki/Marian_Dawkins" title="Marian Dawkins">Marian Dawkins</a></li>
+<li><a href="/wiki/Middle_World" title="Middle World">Middle World</a></li>
+<li><a href="/wiki/Go_God_Go" title="Go God Go">Go God Go</a></li>
+<li><a href="/wiki/Go_God_Go_XII" title="Go God Go XII">Go God Go XII</a></li>
+<li><a href="/wiki/God%27s_utility_function" class="mw-redirect" title="God&#39;s utility function">God's utility function</a></li>
+<li><a href="/wiki/Courtier%27s_Reply" class="mw-redirect" title="Courtier&#39;s Reply">Courtier's Reply</a></li>
+<li><a href="/wiki/Spectrum_of_theistic_probability" title="Spectrum of theistic probability">Spectrum of theistic probability</a></li>
+<li><a href="/wiki/Universal_Darwinism" title="Universal Darwinism">Universal Darwinism</a></li>
+<li><i><a href="/wiki/Endless_Forms_Most_Beautiful_(album)" title="Endless Forms Most Beautiful (album)">Endless Forms Most Beautiful</a></i></li>
+<li><i><a href="/wiki/When_the_Professor_Got_Stuck_in_the_Snow" title="When the Professor Got Stuck in the Snow">When the Professor Got Stuck in the Snow</a></i></li>
+<li><a href="/wiki/Richard_Dawkins_Award" title="Richard Dawkins Award">Richard Dawkins Award</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="Wikipedia book" src="assets/b44a82d57f882e485b76202e56cf2286.png" decoding="async" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Book:Richard_Dawkins" title="Book:Richard Dawkins">Book</a></li>
+<li><img alt="Category" src="assets/a9e3d452e47e587f4b154c3daa441ebf.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Richard_Dawkins" title="Category:Richard Dawkins">Category</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div class="noprint metadata navbox" role="navigation" aria-label="Portals" style="font-weight:bold;padding:0.4em 2em"><ul style="margin:0.1em 0 0"><li style="display:inline"><span style="display:inline-block;white-space:nowrap"><span style="margin:0 0.5em"><a href="/wiki/File:Tree_of_life.svg" class="image"><img alt="Tree of life.svg" src="assets/253470752daf5ee4db3622b171b07f11.png" decoding="async" width="24" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Tree_of_life.svg/36px-Tree_of_life.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Tree_of_life.svg/48px-Tree_of_life.svg.png 2x" data-file-width="915" data-file-height="760" /></a></span><a href="/wiki/Portal:Evolutionary_biology" title="Portal:Evolutionary biology">Evolutionary biology portal</a></span></li></ul></div>
+<!-- 
+NewPP limit report
+Parsed by mw1287
+Cached time: 20200803162308
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.168 seconds
+Real time usage: 0.250 seconds
+Preprocessor visited node count: 743/1000000
+Post‐expand include size: 27798/2097152 bytes
+Template argument size: 3991/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 2/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 2512/5000000 bytes
+Lua time usage: 0.043/10.000 seconds
+Lua memory usage: 1.51 MB/50 MB
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  171.812      1 -total
+ 33.32%   57.247      1 Template:Or_section
+ 28.03%   48.163      5 Template:Quote
+ 27.57%   47.366      1 Template:Original_research
+ 25.26%   43.407      1 Template:Ambox
+ 23.55%   40.465      1 Template:Richard_Dawkins
+ 20.86%   35.835      1 Template:Navbox
+  8.94%   15.365      1 Template:Portal_bar
+  5.80%    9.961      1 Template:Hlist
+  5.68%    9.764      2 Template:Icon
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1851887-0!canonical and timestamp 20200803162307 and revision id 917802703
+ -->
+</div><noscript><img src="assets/3f07551aa465d8e435036dce80f3b4e4" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Weasel_program&amp;oldid=917802703">https://en.wikipedia.org/w/index.php?title=Weasel_program&amp;oldid=917802703</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Artificial_life" title="Category:Artificial life">Artificial life</a></li><li><a href="/wiki/Category:Genetic_algorithms" title="Category:Genetic algorithms">Genetic algorithms</a></li><li><a href="/wiki/Category:Richard_Dawkins" title="Category:Richard Dawkins">Richard Dawkins</a></li><li><a href="/wiki/Category:Simulation_software" title="Category:Simulation software">Simulation software</a></li><li><a href="/wiki/Category:Thought_experiments" title="Category:Thought experiments">Thought experiments</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_that_may_contain_original_research_from_August_2016" title="Category:Articles that may contain original research from August 2016">Articles that may contain original research from August 2016</a></li><li><a href="/wiki/Category:All_articles_that_may_contain_original_research" title="Category:All articles that may contain original research">All articles that may contain original research</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Weasel+program" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Weasel+program" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Weasel_program" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Weasel_program" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Weasel_program">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=Weasel_program&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=Weasel_program&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label">
+		<span>Contribute</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Weasel_program" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Weasel_program" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Weasel_program&amp;oldid=917802703" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Weasel_program&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Weasel_program&amp;id=917802703&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4810835" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label">
+		<span>Print/export</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Weasel+program&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Weasel_program&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label">
+		<span>Languages</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Programa_Weasel" title="Programa Weasel – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%B5%E0%B5%80%E0%B4%B8%E0%B5%BD_%E0%B4%AA%E0%B5%8D%E0%B4%B0%E0%B5%8B%E0%B4%97%E0%B5%8D%E0%B4%B0%E0%B4%BE%E0%B4%82" title="വീസൽ പ്രോഗ്രാം – Malayalam" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Programa_Doninha_(Weasel)" title="Programa Doninha (Weasel) – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/K%C3%A4rpp%C3%A4-ohjelma" title="Kärppä-ohjelma – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Gelincik_program%C4%B1" title="Gelincik programı – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%BB%83%E9%BC%A0%E7%8B%BC%E7%A8%8B%E5%BC%8F" title="黃鼠狼程式 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q4810835#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 25 September 2019, at 15:24<span class="anonymous-show">&#160;(UTC)</span>.</li>
+		<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+		<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+		<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Weasel_program&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="assets/d0baecaa986ff7633a512d4b50947d64.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="assets/ff74a01dcaa635dc8296ffd80fbd87eb.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.168","walltime":"0.250","ppvisitednodes":{"value":743,"limit":1000000},"postexpandincludesize":{"value":27798,"limit":2097152},"templateargumentsize":{"value":3991,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":2512,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  171.812      1 -total"," 33.32%   57.247      1 Template:Or_section"," 28.03%   48.163      5 Template:Quote"," 27.57%   47.366      1 Template:Original_research"," 25.26%   43.407      1 Template:Ambox"," 23.55%   40.465      1 Template:Richard_Dawkins"," 20.86%   35.835      1 Template:Navbox","  8.94%   15.365      1 Template:Portal_bar","  5.80%    9.961      1 Template:Hlist","  5.68%    9.764      2 Template:Icon"]},"scribunto":{"limitreport-timeusage":{"value":"0.043","limit":"10.000"},"limitreport-memusage":{"value":1581868,"limit":52428800}},"cachereport":{"origin":"mw1287","timestamp":"20200803162308","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Weasel program","url":"https:\/\/en.wikipedia.org\/wiki\/Weasel_program","sameAs":"http:\/\/www.wikidata.org\/entity\/Q4810835","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q4810835","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2005-05-07T03:19:11Z","dateModified":"2019-09-25T15:24:19Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/e\/e9\/Mustela_frenata.jpg","headline":"thought experiment in evolutionary science"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":137,"wgHostname":"mw1261"});});</script>
+
+<div style="position:fixed;top:0;left:0;width:100%;height:45px;z-index:2147483647;background-color:rgba(253,147,38,0.90) !important;color:black !important;text-align:right !important;font:normal 12px/45px Arial, sans-serif !important;border-radius:0 !important;margin:0 !important;max-width:100% !important;background-repeat: no-repeat !important;background-position: 15px center !important;
+background-image: url(data:image/png;base64,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);
+"><span style="padding-right:15px;">You are viewing a snapshot of <a style='font-weight:bold !important; color:white !important' href='http://en.wikipedia.org/wiki/Weasel_program'>http://en.wikipedia.org/wiki/Weasel_program</a> created on 2020/08/10</span></div></body></html>

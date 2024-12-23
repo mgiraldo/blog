@@ -1,0 +1,840 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>PSR B1919+21 - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"3fed1f5f-9e78-4d27-b32c-604295ca2030","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"PSR_B1919+21","wgTitle":"PSR B1919+21","wgCurRevisionId":970896983,"wgRevisionId":970896983,"wgArticleId":1000060,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description matches Wikidata","All articles with unsourced statements","Articles with unsourced statements from November 2019","Rotation-powered pulsars","Vulpecula","Astronomical objects discovered in 1967","Search for extraterrestrial intelligence"],
+"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"PSR_B1919+21","wgRelevantArticleId":1000060,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q1319958"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading",
+"ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="assets/3b055fed185f27e4e7f0020518908b58.css"/>
+<script async="" src="assets/c065145ab1ee4f734095d2092a9278ed.php"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="assets/dab0269550e613a8f8d91320ac5db71f.css"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.3"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Chart_Showing_Radio_Signal_of_First_Identified_Pulsar.jpg/1200px-Chart_Showing_Radio_Signal_of_First_Identified_Pulsar.jpg"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=PSR_B1919%2B21&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=PSR_B1919%2B21&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/PSR_B1919%2B21"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-PSR_B1919_21 rootpage-PSR_B1919_21 skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">PSR B1919+21</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">Pulsar in the constellation Vulpecula</div>
+<table class="infobox" style="width: 22em; font-size: 88%; line-height: 1.5em">
+<caption style="font-size: 125%; font-weight: bold">PSR B1919+21
+</caption><tbody><tr><td colspan="2" style="text-align:center;"><div style="text-align: center; margin-left:auto; margin-right:auto"><a href="/wiki/File:Chart_Showing_Radio_Signal_of_First_Identified_Pulsar.jpg" class="image"><img alt="Chart Showing Radio Signal of First Identified Pulsar.jpg" src="assets/8e138ab0296715d935b54e779549e06a.jpg" decoding="async" width="250" height="333" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Chart_Showing_Radio_Signal_of_First_Identified_Pulsar.jpg/375px-Chart_Showing_Radio_Signal_of_First_Identified_Pulsar.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Chart_Showing_Radio_Signal_of_First_Identified_Pulsar.jpg/500px-Chart_Showing_Radio_Signal_of_First_Identified_Pulsar.jpg 2x" data-file-width="3024" data-file-height="4032" /></a><br />Chart on which <a href="/wiki/Jocelyn_Bell_Burnell" title="Jocelyn Bell Burnell">Jocelyn Bell Burnell</a> first recognised evidence of PSR B1919+21, exhibited at <a href="/wiki/Cambridge_University_Library" title="Cambridge University Library">Cambridge University Library</a></div></td></tr>
+
+<tr>
+<th style="text-align: center; background-color: #FFFFC0;" colspan="2">Observation data<br /><small> <a href="/wiki/Epoch_(astronomy)" title="Epoch (astronomy)">Epoch</a> <a href="/wiki/J2000" class="mw-redirect" title="J2000">J2000</a> (<a href="/wiki/International_Celestial_Reference_System" title="International Celestial Reference System">ICRS</a>)&#160;&#160;&#160;&#160;&#160;&#160;<a href="/wiki/Equinox_(celestial_coordinates)" title="Equinox (celestial coordinates)">Equinox</a> <a href="/wiki/J2000" class="mw-redirect" title="J2000">J2000</a> (<a href="/wiki/International_Celestial_Reference_System" title="International Celestial Reference System">ICRS</a>)</small>
+</th></tr>
+<tr style="vertical-align:top">
+<th style="text-align:left"><a href="/wiki/Constellation" title="Constellation">Constellation</a>
+</th>
+<td><a href="/wiki/Vulpecula" title="Vulpecula">Vulpecula</a>
+</td></tr>
+ 
+
+<tr style="vertical-align:top">
+<th style="text-align:left"><span class="nowrap"><a href="/wiki/Right_ascension" title="Right ascension">Right ascension</a></span>
+</th>
+<td>&#160;19<sup>h</sup>&#160;21<sup>m</sup>&#160;44.815<sup>s</sup><sup id="cite_ref-Hobbs_1-0" class="reference"><a href="#cite_note-Hobbs-1">&#91;1&#93;</a></sup>
+</td></tr>
+<tr style="vertical-align:top">
+<th style="text-align:left"><a href="/wiki/Declination" title="Declination">Declination</a>
+</th>
+<td>+21&#176;&#160;53&#8242;&#160;02.25&#8243;<sup id="cite_ref-Hobbs_1-1" class="reference"><a href="#cite_note-Hobbs-1">&#91;1&#93;</a></sup>
+</td></tr>
+
+
+
+<tr>
+<th style="background-color: #FFFFC0; text-align: center;" colspan="2">Characteristics
+</th></tr>
+
+
+
+
+<tr style="vertical-align:top">
+<th style="text-align:left"><a href="/wiki/Stellar_evolution" title="Stellar evolution">Evolutionary&#160;stage</a>
+</th>
+<td>Pulsar
+</td></tr>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<tr><th style="background-color: #FFFFC0; text-align: center;" colspan="2"><a href="/wiki/Astrometry" title="Astrometry">Astrometry</a></th></tr><tr><th colspan="2" style="text-align: center"></th></tr><tr style="vertical-align:top;"><td><b><a href="/wiki/Distance_(astronomy)" class="mw-redirect" title="Distance (astronomy)">Distance</a></b></td><td><span class="nowrap"><span data-sort-value="7003100000000000000♠"></span>1000<span style="margin-left:0.3em;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:85%;text-align:right;">+2600<br />−700</span></span></span>&#160;<a href="/wiki/Light-year" title="Light-year">ly</a> <br />(<span class="nowrap"><span data-sort-value="7002300000000000000♠"></span>300<span style="margin-left:0.3em;"><span style="display:inline-block;margin-bottom:-0.3em;vertical-align:-0.4em;line-height:1.2em;font-size:85%;text-align:right;">+800<br />−200</span></span></span><sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>&#160;<a href="/wiki/Parsec" title="Parsec">pc</a>)</td></tr><tr><th colspan="2" style="text-align: center"></th></tr>
+<tr><th style="background-color: #FFFFC0; text-align: center;" colspan="2">Details</th></tr><tr><th colspan="2" style="text-align: center"></th></tr><tr style="vertical-align:baseline;"><td><b><a href="/wiki/Stellar_mass" title="Stellar mass">Mass</a></b></td><td>~1.4&#160;<a href="/wiki/Solar_mass" title="Solar mass"><var>M</var><sub>&#x2609;</sub></a></td></tr><tr style="vertical-align:baseline;"><td><b><a href="/wiki/Radius" title="Radius">Radius</a></b></td><td>~1.4 × 10<sup>−5</sup>&#160;<a href="/wiki/Solar_radius" title="Solar radius"><var>R</var><sub>&#x2609;</sub></a></td></tr><tr style="vertical-align:baseline;"><td><b><a href="/wiki/Luminosity" title="Luminosity">Luminosity</a></b></td><td>0.006<sup id="cite_ref-atnf_3-0" class="reference"><a href="#cite_note-atnf-3">&#91;3&#93;</a></sup>&#160;<a href="/wiki/Solar_luminosity" title="Solar luminosity"><var>L</var><sub>&#x2609;</sub></a></td></tr><tr style="vertical-align:baseline;"><td><b><a href="/wiki/Stellar_rotation" title="Stellar rotation">Rotation</a></b></td><td>1.3373 s<sup id="cite_ref-Arzoumanian1994_4-0" class="reference"><a href="#cite_note-Arzoumanian1994-4">&#91;4&#93;</a></sup></td></tr><tr style="vertical-align:baseline;"><td><b><a href="/wiki/Stellar_evolution" title="Stellar evolution">Age</a></b></td><td>16<sup id="cite_ref-atnf_3-1" class="reference"><a href="#cite_note-atnf-3">&#91;3&#93;</a></sup>&#160;<a href="/wiki/Megayear" class="mw-redirect" title="Megayear">Myr</a></td></tr><tr><th colspan="2" style="text-align: center"></th></tr>
+<tr><th style="background-color: #FFFFC0; text-align: center;" colspan="2"><a href="/wiki/Star_catalogue" title="Star catalogue">Other designations</a></th></tr><tr><td colspan="2"><div style="width: 250px;"> PSR&#160;<a href="/wiki/J2000.0" class="mw-redirect" title="J2000.0">J</a>1921+2153, <a href="/wiki/Pulsar" title="Pulsar">PSR</a>&#160;1921+2153, PSR&#160;<a href="/wiki/B1950.0" class="mw-redirect" title="B1950.0">B</a>1919+21, PSR&#160;<a href="/wiki/Equatorial_coordinate_system" title="Equatorial coordinate system">1919+21</a>, WSTB&#160;12W15, <a href="/wiki/University_of_Cambridge" title="University of Cambridge">CP</a>&#160;1919<a href="/wiki/Declination" title="Declination">+21</a>, CP&#160;<a href="/wiki/Right_ascension" title="Right ascension">1919</a>, <span class="nowrap">LGM-1</span> </div></td></tr>
+<tr><th style="background-color: #FFFFC0; text-align: center;" colspan="2">Database references</th></tr><tr style="vertical-align: top;"><td><b><a href="/wiki/SIMBAD" title="SIMBAD">SIMBAD</a></b></td><td><a rel="nofollow" class="external text" href="http://simbad.u-strasbg.fr/simbad/sim-id?Ident=PSR+B1919%2B21">data</a></td></tr>
+</tbody></table>
+<p><b>PSR&#160;B1919+21</b> is a <a href="/wiki/Pulsar" title="Pulsar">pulsar</a> with a period of 1.3373 seconds<sup id="cite_ref-Arzoumanian1994_4-1" class="reference"><a href="#cite_note-Arzoumanian1994-4">&#91;4&#93;</a></sup> and a pulse width of 0.04 seconds. Discovered by <a href="/wiki/Jocelyn_Bell_Burnell" title="Jocelyn Bell Burnell">Jocelyn Bell Burnell</a> on 28 November 1967, it is the first discovered radio pulsar.<sup id="cite_ref-edn_5-0" class="reference"><a href="#cite_note-edn-5">&#91;5&#93;</a></sup> The power and regularity of the signals were briefly thought to resemble an extraterrestrial <a href="/wiki/Beacon" title="Beacon">beacon</a>, leading the source to be nicknamed <b>LGM-1</b> (for "<a href="/wiki/Little_green_men" title="Little green men">little green men</a>").<sup id="cite_ref-aps.org_6-0" class="reference"><a href="#cite_note-aps.org-6">&#91;6&#93;</a></sup>
+</p><p>The original designation of this pulsar was <b>CP&#160;1919</b>, which stands for Cambridge Pulsar at <a href="/wiki/Right_ascension" title="Right ascension">RA</a> &#160;19<sup>h</sup>&#160;19<sup>m</sup>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> It is also known as <b>PSR&#160;J1921+2153</b> and is located in the <a href="/wiki/Constellation" title="Constellation">constellation</a> of <a href="/wiki/Vulpecula" title="Vulpecula">Vulpecula</a>.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Discovery"><span class="tocnumber">1</span> <span class="toctext">Discovery</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Nobel_Prize_controversy"><span class="tocnumber">2</span> <span class="toctext">Nobel Prize controversy</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Cultural_references"><span class="tocnumber">3</span> <span class="toctext">Cultural references</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Further_reading"><span class="tocnumber">5</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Discovery">Discovery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=PSR_B1919%2B21&amp;action=edit&amp;section=1" title="Edit section: Discovery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In 1967, a radio signal was detected using the <a href="/wiki/Interplanetary_Scintillation_Array" title="Interplanetary Scintillation Array">Interplanetary Scintillation Array</a> of the <a href="/wiki/Mullard_Radio_Astronomy_Observatory" title="Mullard Radio Astronomy Observatory">Mullard Radio Astronomy Observatory</a> in <a href="/wiki/Cambridge" title="Cambridge">Cambridge</a>, UK, by Jocelyn Bell Burnell. The signal had a <span class="nowrap"><span data-sort-value="7000133730208833100♠"></span>1.337<span style="margin-left:.25em;">302</span><span style="margin-left:.25em;">088</span><span style="margin-left:.25em;">331</span></span>-second <a href="/wiki/Frequency" title="Frequency">period</a> and 0.04-second <a href="/wiki/Pulse-width_modulation" title="Pulse-width modulation">pulsewidth</a>.<sup id="cite_ref-Arzoumanian1994_4-2" class="reference"><a href="#cite_note-Arzoumanian1994-4">&#91;4&#93;</a></sup> It originated at <a href="/wiki/Celestial_coordinate" class="mw-redirect" title="Celestial coordinate">celestial coordinates</a> &#160;19<sup>h</sup>&#160;19<sup>m</sup> <a href="/wiki/Right_ascension" title="Right ascension">right ascension</a>, +21° <a href="/wiki/Declination" title="Declination">declination</a>. It was detected by individual observation of miles of graphical data traces. Due to its almost perfect regularity, it was at first assumed to be spurious <a href="/wiki/Noise_(physics)" class="mw-redirect" title="Noise (physics)">noise</a>, but this hypothesis was promptly discarded. The discoverers jokingly named it <i><a href="/wiki/Little_green_men" title="Little green men">little green men</a> 1</i> (<i>LGM-1</i>), considering that it may have originated from an extraterrestrial civilization, but Bell Burnell soon ruled out extraterrestrial life as a source after discovering a similar signal from another part of the sky.<sup id="cite_ref-aps.org_6-1" class="reference"><a href="#cite_note-aps.org-6">&#91;6&#93;</a></sup>
+</p><p>The original signal turned out to be radio emissions from the <a href="/wiki/Pulsar" title="Pulsar">pulsar</a> CP&#160;1919, and was the first one recognized as such. Bell Burnell noted that other scientists could have discovered pulsars before her, but their <a href="/wiki/Observation" title="Observation">observations</a> were either ignored or disregarded. Researchers <a href="/wiki/Thomas_Gold" title="Thomas Gold">Thomas Gold</a> and <a href="/wiki/Fred_Hoyle" title="Fred Hoyle">Sir Fred Hoyle</a> identified this astronomical object as a rapidly rotating <a href="/wiki/Neutron_star" title="Neutron star">neutron star</a> immediately upon their announcement.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2019)">citation needed</span></a></i>&#93;</sup>
+</p><p>Before the nature of the signal was determined, the researchers, Bell Burnell and her PhD supervisor <a href="/wiki/Antony_Hewish" title="Antony Hewish">Antony Hewish</a>, considered the possibility of extraterrestrial life:<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<blockquote>
+<p>We did not really believe that we had picked up signals from another civilization, but obviously the idea had crossed our minds and we had no proof that it was an entirely natural radio emission. It is an interesting problem – if one thinks one may have detected life elsewhere in the universe[,] how does one announce the results responsibly? Who does one tell first?
+</p>
+</blockquote>
+<h2><span class="mw-headline" id="Nobel_Prize_controversy">Nobel Prize controversy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=PSR_B1919%2B21&amp;action=edit&amp;section=2" title="Edit section: Nobel Prize controversy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>When Hewish and <a href="/wiki/Martin_Ryle" title="Martin Ryle">Martin Ryle</a> received the <a href="/wiki/Nobel_Prize" title="Nobel Prize">Nobel Prize</a> in physics in 1974 for their work in <a href="/wiki/Radio_astronomy" title="Radio astronomy">radio astronomy</a> and pulsars, Hoyle argued that <a href="/wiki/Jocelyn_Bell_Burnell" title="Jocelyn Bell Burnell">Jocelyn Bell Burnell</a> should have been a co-recipient of the prize.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Cultural_references">Cultural references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=PSR_B1919%2B21&amp;action=edit&amp;section=3" title="Edit section: Cultural references">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The English <a href="/wiki/Post-punk" title="Post-punk">post-punk</a> band <a href="/wiki/Joy_Division" title="Joy Division">Joy Division</a> used an image of CP&#160;1919's radio pulses on the cover of their 1979 debut album, <i><a href="/wiki/Unknown_Pleasures" title="Unknown Pleasures">Unknown Pleasures</a></i>.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup><sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p><p>German-born British composer <a href="/wiki/Max_Richter" title="Max Richter">Max Richter</a> wrote a piece inspired by the discovery of CP1919 titled <i>Journey (CP1919)</i>.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p><p>The English <a href="/wiki/Indie_rock" title="Indie rock">indie rock</a> band <a href="/wiki/Arctic_Monkeys" title="Arctic Monkeys">Arctic Monkeys</a> used a sound based on the pulses in their music video for "<a href="/wiki/Four_Out_of_Five" title="Four Out of Five">Four Out of Five</a>."<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=PSR_B1919%2B21&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-Hobbs-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Hobbs_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Hobbs_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFHobbsLyneKramerMartin2004" class="citation journal cs1">Hobbs, G.; Lyne, A. G.; Kramer, M.; Martin, C. E.; Jordan, C. (2004). <a rel="nofollow" class="external text" href="https://doi.org/10.1111/j.1365-2966.2004.08157.x">"Long-term timing observations of 374 pulsars"</a>. <i>Monthly Notices of the Royal Astronomical Society</i>. <b>353</b> (4): 1311. <a href="/wiki/Bibcode_(identifier)" class="mw-redirect" title="Bibcode (identifier)">Bibcode</a>:<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/2004MNRAS.353.1311H">2004MNRAS.353.1311H</a>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.1111%2Fj.1365-2966.2004.08157.x">10.1111/j.1365-2966.2004.08157.x</a></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Monthly+Notices+of+the+Royal+Astronomical+Society&amp;rft.atitle=Long-term+timing+observations+of+374+pulsars&amp;rft.volume=353&amp;rft.issue=4&amp;rft.pages=1311&amp;rft.date=2004&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1365-2966.2004.08157.x&amp;rft_id=info%3Abibcode%2F2004MNRAS.353.1311H&amp;rft.aulast=Hobbs&amp;rft.aufirst=G.&amp;rft.au=Lyne%2C+A.+G.&amp;rft.au=Kramer%2C+M.&amp;rft.au=Martin%2C+C.+E.&amp;rft.au=Jordan%2C+C.&amp;rft_id=%2F%2Fdoi.org%2F10.1111%2Fj.1365-2966.2004.08157.x&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APSR+B1919%2B21" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r951705291">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background-image:url("assets/d4e7cc61232afb2b2b94df937ca19111.png");background-image:linear-gradient(transparent,transparent),url("assets/bd670353c83f78ac9bf7920d3135114a.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background-image:url("assets/6e4cfa7b3160bba14bae3b7c771d6b1e.png");background-image:linear-gradient(transparent,transparent),url("assets/a37b208d8a82dd697fbb820509243556.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background-image:url("assets/0225d20521fa7e24cfc3d4845805124a.png");background-image:linear-gradient(transparent,transparent),url("assets/407b2f7ef21a3c79d854bf0d6e7f538b.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background-image:url("assets/a9fe05a6cf353fa7e0c0643bf92fb39c.png");background-image:linear-gradient(transparent,transparent),url("assets/44712c5455c69cd59c93962ea0465e79.svg");background-repeat:no-repeat;background-size:12px;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite id="CITEREFVerbiestWeisbergChaelLee2012" class="citation journal cs1">Verbiest, J. P. W.; Weisberg, J. M.; Chael, A. A.; Lee, K. J.; Lorimer, D. R. (2012). "On Pulsar Distance Measurements and Their Uncertainties". <i>The Astrophysical Journal</i>. <b>755</b> (1): 39. <a href="/wiki/ArXiv_(identifier)" class="mw-redirect" title="ArXiv (identifier)">arXiv</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="//arxiv.org/abs/1206.0428">1206.0428</a></span>. <a href="/wiki/Bibcode_(identifier)" class="mw-redirect" title="Bibcode (identifier)">Bibcode</a>:<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/2012ApJ...755...39V">2012ApJ...755...39V</a>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1088%2F0004-637X%2F755%2F1%2F39">10.1088/0004-637X/755/1/39</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+Astrophysical+Journal&amp;rft.atitle=On+Pulsar+Distance+Measurements+and+Their+Uncertainties&amp;rft.volume=755&amp;rft.issue=1&amp;rft.pages=39&amp;rft.date=2012&amp;rft_id=info%3Aarxiv%2F1206.0428&amp;rft_id=info%3Adoi%2F10.1088%2F0004-637X%2F755%2F1%2F39&amp;rft_id=info%3Abibcode%2F2012ApJ...755...39V&amp;rft.aulast=Verbiest&amp;rft.aufirst=J.+P.+W.&amp;rft.au=Weisberg%2C+J.+M.&amp;rft.au=Chael%2C+A.+A.&amp;rft.au=Lee%2C+K.+J.&amp;rft.au=Lorimer%2C+D.+R.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APSR+B1919%2B21" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-atnf-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-atnf_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-atnf_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.atnf.csiro.au/research/pulsar/psrcat/">"The ATNF Pulsar Catalogue"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2010-02-11</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+ATNF+Pulsar+Catalogue&amp;rft_id=http%3A%2F%2Fwww.atnf.csiro.au%2Fresearch%2Fpulsar%2Fpsrcat%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APSR+B1919%2B21" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Arzoumanian1994-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Arzoumanian1994_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Arzoumanian1994_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Arzoumanian1994_4-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFArzoumanianNiceTaylorThorsett1994" class="citation journal cs1">Arzoumanian, Z.; Nice, D. J.; Taylor, J. H.; Thorsett, S. E. (1994). "Timing behavior of 96 radio pulsars". <i>Astrophysical Journal</i>. <b>422</b> (2): 671. <a href="/wiki/Bibcode_(identifier)" class="mw-redirect" title="Bibcode (identifier)">Bibcode</a>:<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/1994ApJ...422..671A">1994ApJ...422..671A</a>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1086%2F173760">10.1086/173760</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Astrophysical+Journal&amp;rft.atitle=Timing+behavior+of+96+radio+pulsars&amp;rft.volume=422&amp;rft.issue=2&amp;rft.pages=671&amp;rft.date=1994&amp;rft_id=info%3Adoi%2F10.1086%2F173760&amp;rft_id=info%3Abibcode%2F1994ApJ...422..671A&amp;rft.aulast=Arzoumanian&amp;rft.aufirst=Z.&amp;rft.au=Nice%2C+D.+J.&amp;rft.au=Taylor%2C+J.+H.&amp;rft.au=Thorsett%2C+S.+E.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APSR+B1919%2B21" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-edn-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-edn_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.edn.com/electronics-blogs/edn-moments/4402048/Pulsar-is-1st-observed--November-28--1967">"Pulsar is 1st observed, November 28, 1967"</a>. EDN Network<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-12-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pulsar+is+1st+observed%2C+November+28%2C+1967&amp;rft.pub=EDN+Network&amp;rft_id=http%3A%2F%2Fwww.edn.com%2Felectronics-blogs%2Fedn-moments%2F4402048%2FPulsar-is-1st-observed--November-28--1967&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APSR+B1919%2B21" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-aps.org-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-aps.org_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-aps.org_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.aps.org/publications/apsnews/200602/history.cfm">"This Month in Physics History: February 1968: Discovery of pulsars announced"</a>. <i>www.aps.org</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.aps.org&amp;rft.atitle=This+Month+in+Physics+History%3A+February+1968%3A+Discovery+of+pulsars+announced.&amp;rft_id=https%3A%2F%2Fwww.aps.org%2Fpublications%2Fapsnews%2F200602%2Fhistory.cfm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APSR+B1919%2B21" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite id="CITEREFBasu2003" class="citation book cs1">Basu, Baidyanath (2003-02-01). <a rel="nofollow" class="external text" href="https://books.google.com/?id=1w5f5Po4XV8C&amp;pg=PA325"><i>An Introduction to Astrophysics</i></a>. p.&#160;325. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-81-203-1121-3" title="Special:BookSources/978-81-203-1121-3"><bdi>978-81-203-1121-3</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=An+Introduction+to+Astrophysics&amp;rft.pages=325&amp;rft.date=2003-02-01&amp;rft.isbn=978-81-203-1121-3&amp;rft.aulast=Basu&amp;rft.aufirst=Baidyanath&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3D1w5f5Po4XV8C%26pg%3DPA325&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APSR+B1919%2B21" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite id="CITEREFBurnell2004" class="citation news cs1"><a href="/wiki/Jocelyn_Bell_Burnell" title="Jocelyn Bell Burnell">Burnell, S. Jocelyn Bell</a> (2004-09-21) [1977]. <a rel="nofollow" class="external text" href="http://www.bigear.org/vol1no1/burnell.htm">"Little Green Men, White Dwarfs or Pulsars?"</a>. <i>Cosmic Search Magazine</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-07-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Cosmic+Search+Magazine&amp;rft.atitle=Little+Green+Men%2C+White+Dwarfs+or+Pulsars%3F&amp;rft.date=2004-09-21&amp;rft.aulast=Burnell&amp;rft.aufirst=S.+Jocelyn+Bell&amp;rft_id=http%3A%2F%2Fwww.bigear.org%2Fvol1no1%2Fburnell.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APSR+B1919%2B21" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/> (after-dinner speech given at the Eighth <a href="/wiki/Texas_Symposium_on_Relativistic_Astrophysics" class="mw-redirect" title="Texas Symposium on Relativistic Astrophysics">Texas Symposium on Relativistic Astrophysics</a>; first published in <cite id="CITEREFBell_Burnell1977" class="citation journal cs1">Bell Burnell, S. Jocelyn (1977). "Petit Four". <i>Annals of the New York Academy of Sciences</i>. <b>302</b>: 685–9. <a href="/wiki/Bibcode_(identifier)" class="mw-redirect" title="Bibcode (identifier)">Bibcode</a>:<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/1977NYASA.302..685B">1977NYASA.302..685B</a>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1111%2Fj.1749-6632.1977.tb37085.x">10.1111/j.1749-6632.1977.tb37085.x</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Annals+of+the+New+York+Academy+of+Sciences&amp;rft.atitle=Petit+Four&amp;rft.volume=302&amp;rft.pages=685-9&amp;rft.date=1977&amp;rft_id=info%3Adoi%2F10.1111%2Fj.1749-6632.1977.tb37085.x&amp;rft_id=info%3Abibcode%2F1977NYASA.302..685B&amp;rft.aulast=Bell+Burnell&amp;rft.aufirst=S.+Jocelyn&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APSR+B1919%2B21" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/>)</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite id="CITEREFJudson2003" class="citation news cs1">Judson, Horace Freeland (2003-10-20). <a rel="nofollow" class="external text" href="https://www.nytimes.com/2003/10/20/opinion/no-nobel-prize-for-whining.html">"No Nobel Prize for whining"</a>. <i><a href="/wiki/The_New_York_Times" title="The New York Times">The New York Times</a></i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=The+New+York+Times&amp;rft.atitle=No+Nobel+Prize+for+whining&amp;rft.date=2003-10-20&amp;rft.aulast=Judson&amp;rft.aufirst=Horace+Freeland&amp;rft_id=https%3A%2F%2Fwww.nytimes.com%2F2003%2F10%2F20%2Fopinion%2Fno-nobel-prize-for-whining.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APSR+B1919%2B21" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite id="CITEREFCapriola2011" class="citation web cs1">Capriola, Adam (2011-05-19). <a rel="nofollow" class="external text" href="http://adamcap.com/2011/05/19/history-of-joy-division-unknown-pleasures-album-art/">"The History of Joy Division's "Unknown Pleasures" Album Art"</a>. Adamcap.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-06-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+History+of+Joy+Division%27s+%22Unknown+Pleasures%22+Album+Art&amp;rft.pub=Adamcap.com&amp;rft.date=2011-05-19&amp;rft.aulast=Capriola&amp;rft.aufirst=Adam&amp;rft_id=http%3A%2F%2Fadamcap.com%2F2011%2F05%2F19%2Fhistory-of-joy-division-unknown-pleasures-album-art%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APSR+B1919%2B21" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.joydiv.org/up.htm">"<i>Unknown Pleasures</i>"</a>. Joy Division. June 1979<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-07-05</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Unknown+Pleasures&amp;rft.pub=Joy+Division&amp;rft.date=1979-06&amp;rft_id=http%3A%2F%2Fwww.joydiv.org%2Fup.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APSR+B1919%2B21" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite id="CITEREFChristiansen2015" class="citation web cs1">Christiansen, Jen (2015-02-18). <a rel="nofollow" class="external text" href="http://blogs.scientificamerican.com/sa-visual/pop-culture-pulsar-origin-story-of-joy-division-8217-s-unknown-pleasures-album-cover-video/">"Pop Culture Pulsar: Origin Story of Joy Division's Unknown Pleasures Album Cover"</a>. <a href="/wiki/Scientific_American" title="Scientific American">Scientific American</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-10-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pop+Culture+Pulsar%3A+Origin+Story+of+Joy+Division%27s+Unknown+Pleasures+Album+Cover&amp;rft.pub=Scientific+American&amp;rft.date=2015-02-18&amp;rft.aulast=Christiansen&amp;rft.aufirst=Jen&amp;rft_id=http%3A%2F%2Fblogs.scientificamerican.com%2Fsa-visual%2Fpop-culture-pulsar-origin-story-of-joy-division-8217-s-unknown-pleasures-album-cover-video%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APSR+B1919%2B21" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.maxrichtermusic.com/2019/05/16/journey-cp1919-performed-by-aurora-orchestra/">"Journey (CP1919) Performed by Aurora Orchestra"</a>. 2019-05-16<span class="reference-accessdate">. Retrieved <span class="nowrap">2019-05-20</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Journey+%28CP1919%29+Performed+by+Aurora+Orchestra&amp;rft.date=2019-05-16&amp;rft_id=https%3A%2F%2Fwww.maxrichtermusic.com%2F2019%2F05%2F16%2Fjourney-cp1919-performed-by-aurora-orchestra%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APSR+B1919%2B21" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=71Es-8FfATo">"Arctic Monkeys - Four Out Of Five (Official Video)"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Arctic+Monkeys+-+Four+Out+Of+Five+%28Official+Video%29&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D71Es-8FfATo&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APSR+B1919%2B21" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/> from 0:16-0:45 and 2:57-3:13.</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=ryg077wBvsM">"The Great Silence by LEMMiNO"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Great+Silence+by+LEMMiNO&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3Dryg077wBvsM&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APSR+B1919%2B21" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/> from 0:05-1:16</span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=PSR_B1919%2B21&amp;action=edit&amp;section=5" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite id="CITEREFHewishBellPilkingtonScott1968" class="citation journal cs1"><a href="/wiki/Antony_Hewish" title="Antony Hewish">Hewish, A.</a>; <a href="/wiki/Jocelyn_Bell_Burnell" title="Jocelyn Bell Burnell">Bell, S. J.</a>; Pilkington, J. D. H.; Scott, P. F.; Collins, R. A. (24 February 1968). "Observation of a Rapidly Pulsating Radio Source". <i><a href="/wiki/Nature_(journal)" title="Nature (journal)">Nature</a></i>. <b>217</b> (5130): 709–713. <a href="/wiki/Bibcode_(identifier)" class="mw-redirect" title="Bibcode (identifier)">Bibcode</a>:<a rel="nofollow" class="external text" href="https://ui.adsabs.harvard.edu/abs/1968Natur.217..709H">1968Natur.217..709H</a>. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1038%2F217709a0">10.1038/217709a0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.atitle=Observation+of+a+Rapidly+Pulsating+Radio+Source&amp;rft.volume=217&amp;rft.issue=5130&amp;rft.pages=709-713&amp;rft.date=1968-02-24&amp;rft_id=info%3Adoi%2F10.1038%2F217709a0&amp;rft_id=info%3Abibcode%2F1968Natur.217..709H&amp;rft.aulast=Hewish&amp;rft.aufirst=A.&amp;rft.au=Bell%2C+S.+J.&amp;rft.au=Pilkington%2C+J.+D.+H.&amp;rft.au=Scott%2C+P.+F.&amp;rft.au=Collins%2C+R.+A.&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APSR+B1919%2B21" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></li>
+<li><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20120210181519/http://www.k3pgp.org/pulsar.htm">"K3PGP Experimenter's Corner – Pulsars (List of pulsars for amateur radio astronomers)"</a>. K3PGP.org. Archived from <a rel="nofollow" class="external text" href="http://www.k3pgp.org/pulsar.htm">the original</a> on 2012-02-10<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-02-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=K3PGP+Experimenter%27s+Corner+%E2%80%93+Pulsars+%28List+of+pulsars+for+amateur+radio+astronomers%29&amp;rft.pub=K3PGP.org&amp;rft_id=http%3A%2F%2Fwww.k3pgp.org%2Fpulsar.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APSR+B1919%2B21" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></li>
+<li><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.astro.cornell.edu/~shami/psrvlb/">"Pulsar Astrometry with the VLBA (Study of Pulsar Parallax, PSR B1919+21 is one of the pulsars studied)"</a>. <a href="/wiki/Cornell_University" title="Cornell University">Cornell University</a>. 2004-01-21.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Pulsar+Astrometry+with+the+VLBA+%28Study+of+Pulsar+Parallax%2C+PSR+B1919%2B21+is+one+of+the+pulsars+studied%29&amp;rft.pub=Cornell+University&amp;rft.date=2004-01-21&amp;rft_id=http%3A%2F%2Fwww.astro.cornell.edu%2F~shami%2Fpsrvlb%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APSR+B1919%2B21" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=PSR_B1919%2B21&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite id="CITEREFBell1996" class="citation web cs1">Bell, Jon (1996-12-19). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120903153414/http://www.jb.man.ac.uk/~pulsar/Education/Tutorial/tut/node1.html#SECTION00010000000000000000">"A Tutorial on Radio Pulsars: The discovery of pulsars"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.jb.man.ac.uk/~pulsar/Education/Tutorial/tut/node1.html#SECTION00010000000000000000">the original</a> on 2012-09-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-06-28</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=A+Tutorial+on+Radio+Pulsars%3A+The+discovery+of+pulsars&amp;rft.date=1996-12-19&amp;rft.aulast=Bell&amp;rft.aufirst=Jon&amp;rft_id=http%3A%2F%2Fwww.jb.man.ac.uk%2F~pulsar%2FEducation%2FTutorial%2Ftut%2Fnode1.html%23SECTION00010000000000000000&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APSR+B1919%2B21" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></li>
+<li><cite id="CITEREFManchesterHobbsKhoo" class="citation web cs1">Manchester, R. N.; Hobbs, G.; Khoo, J. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20160310155315/http://www.atnf.csiro.au/research/pulsar/audio/CP1919.wav">"Recording of the first-discovered pulsar CP1919 (PSR B1919+21) made at the Parkes radio telescope in April 2012"</a>. CSIRO Astronomy &amp; Space Science: Pulsar Group. Archived from <a rel="nofollow" class="external text" href="http://www.atnf.csiro.au/research/pulsar/audio/CP1919.wav">the original</a> on 2016-03-10<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-06-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Recording+of+the+first-discovered+pulsar+CP1919+%28PSR+B1919%2B21%29+made+at+the+Parkes+radio+telescope+in+April+2012&amp;rft.pub=CSIRO+Astronomy+%26+Space+Science%3A+Pulsar+Group&amp;rft.aulast=Manchester&amp;rft.aufirst=R.+N.&amp;rft.au=Hobbs%2C+G.&amp;rft.au=Khoo%2C+J.&amp;rft_id=http%3A%2F%2Fwww.atnf.csiro.au%2Fresearch%2Fpulsar%2Faudio%2FCP1919.wav&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APSR+B1919%2B21" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Neutron_star" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Neutron_star" title="Template:Neutron star"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Neutron_star" title="Template talk:Neutron star"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Neutron_star&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Neutron_star" style="font-size:114%;margin:0 4em"><a href="/wiki/Neutron_star" title="Neutron star">Neutron star</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Types</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Radio-quiet_neutron_star" title="Radio-quiet neutron star">Radio-quiet</a></li>
+<li><a href="/wiki/Pulsar" title="Pulsar">Pulsar</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Single pulsars</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Magnetar" title="Magnetar">Magnetar</a>
+<ul><li><a href="/wiki/Soft_gamma_repeater" title="Soft gamma repeater">Soft gamma repeater</a></li>
+<li><a href="/wiki/Anomalous_X-ray_pulsar" title="Anomalous X-ray pulsar">Anomalous X-ray</a></li></ul></li>
+<li><a href="/wiki/Rotating_radio_transient" title="Rotating radio transient">Rotating radio transient</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Binary pulsars</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Binary_pulsar" title="Binary pulsar">Binary</a></li>
+<li><a href="/wiki/X-ray_pulsar" title="X-ray pulsar">X-ray pulsar</a>
+<ul><li><a href="/wiki/X-ray_binary" title="X-ray binary">X-ray binary</a></li>
+<li><a href="/wiki/X-ray_burster" title="X-ray burster">X-ray burster</a></li>
+<li><a href="/wiki/List_of_X-ray_pulsars" title="List of X-ray pulsars">List</a></li></ul></li>
+<li><a href="/wiki/Millisecond_pulsar" title="Millisecond pulsar">Millisecond</a></li>
+<li><a href="/wiki/Be/X-ray_binary" title="Be/X-ray binary">Be/X-ray</a></li>
+<li><a href="/wiki/Neutron_star_spin-up" title="Neutron star spin-up">Spin-up</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Properties</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Blitzar" title="Blitzar">Blitzar</a>
+<ul><li><a href="/wiki/Fast_radio_burst" title="Fast radio burst">Fast radio burst</a></li></ul></li>
+<li><a href="/wiki/Bondi_accretion" title="Bondi accretion">Bondi accretion</a></li>
+<li><a href="/wiki/Chandrasekhar_limit" title="Chandrasekhar limit">Chandrasekhar limit</a></li>
+<li><a href="/wiki/Gamma-ray_burst" title="Gamma-ray burst">Gamma-ray burst</a></li>
+<li><a href="/wiki/Glitch_(astronomy)" title="Glitch (astronomy)">Glitch</a></li>
+<li><a href="/wiki/Neutronium" title="Neutronium">Neutronium</a></li>
+<li><a href="/wiki/Neutron-star_oscillation" title="Neutron-star oscillation">Neutron-star oscillation</a></li>
+<li><a href="/wiki/Optical_pulsar" title="Optical pulsar">Optical</a></li>
+<li><a href="/wiki/Pulsar_kick" title="Pulsar kick">Pulsar kick</a></li>
+<li><a href="/wiki/Quasi-periodic_oscillation" title="Quasi-periodic oscillation">Quasi-periodic oscillation</a></li>
+<li><a href="/wiki/Relativistic_star" title="Relativistic star">Relativistic</a></li>
+<li><a href="/wiki/Rp-process" title="Rp-process">Rp-process</a></li>
+<li><a href="/wiki/Starquake_(astrophysics)" class="mw-redirect" title="Starquake (astrophysics)">Starquake</a></li>
+<li><a href="/wiki/Pulsar#Precise_clocks" title="Pulsar">Timing noise</a></li>
+<li><a href="/wiki/Tolman%E2%80%93Oppenheimer%E2%80%93Volkoff_limit" title="Tolman–Oppenheimer–Volkoff limit">Tolman–Oppenheimer–Volkoff limit</a></li>
+<li><a href="/wiki/Urca_process" title="Urca process">Urca process</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gamma-ray_burst_progenitors" title="Gamma-ray burst progenitors">Gamma-ray burst progenitors</a></li>
+<li><a href="/wiki/Asteroseismology" title="Asteroseismology">Asteroseismology</a></li>
+<li><a href="/wiki/Compact_star" title="Compact star">Compact star</a>
+<ul><li><a href="/wiki/Quark_star" title="Quark star">Quark star</a></li>
+<li><a href="/wiki/Exotic_star" title="Exotic star">Exotic star</a></li></ul></li>
+<li><a href="/wiki/Supernova" title="Supernova">Supernova</a>
+<ul><li><a href="/wiki/Supernova_remnant" title="Supernova remnant">Supernova remnant</a></li>
+<li><a href="/wiki/Template:Supernovae" title="Template:Supernovae">Related links</a></li></ul></li>
+<li><a href="/wiki/Hypernova" title="Hypernova">Hypernova</a></li>
+<li><a href="/wiki/Kilonova" title="Kilonova">Kilonova</a></li>
+<li><a href="/wiki/Neutron_star_merger" title="Neutron star merger">Neutron star merger</a></li>
+<li><a href="/wiki/Quark-nova" title="Quark-nova">Quark-nova</a></li>
+<li><a href="/wiki/White_dwarf" title="White dwarf">White dwarf</a>
+<ul><li><a href="/wiki/Template:White_dwarf" title="Template:White dwarf">Related links</a></li></ul></li>
+<li><a href="/wiki/Stellar_black_hole" title="Stellar black hole">Stellar black hole</a>
+<ul><li><a href="/wiki/Template:Black_holes" title="Template:Black holes">Related links</a></li></ul></li>
+<li><a href="/wiki/Radio_star" title="Radio star">Radio star</a></li>
+<li><a href="/wiki/Pulsar_planet" title="Pulsar planet">Pulsar planet</a></li>
+<li><a href="/wiki/Pulsar_wind_nebula" title="Pulsar wind nebula">Pulsar wind nebula</a></li>
+<li><a href="/wiki/Thorne%E2%80%93%C5%BBytkow_object" title="Thorne–Żytkow object">Thorne–Żytkow object</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Discovery</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">LGM-1</a></li>
+<li><a href="/wiki/Centaurus_X-3" title="Centaurus X-3">Centaurus X-3</a></li>
+<li><a href="/wiki/Timeline_of_white_dwarfs,_neutron_stars,_and_supernovae" title="Timeline of white dwarfs, neutron stars, and supernovae">Timeline of white dwarfs, neutron stars, and supernovae</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Satellite<br />investigation</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Rossi_X-ray_Timing_Explorer" title="Rossi X-ray Timing Explorer">Rossi X-ray Timing Explorer</a></li>
+<li><a href="/wiki/Fermi_Gamma-ray_Space_Telescope" title="Fermi Gamma-ray Space Telescope">Fermi Gamma-ray Space Telescope</a></li>
+<li><a href="/wiki/Compton_Gamma_Ray_Observatory" title="Compton Gamma Ray Observatory">Compton Gamma Ray Observatory</a></li>
+<li><a href="/wiki/Chandra_X-ray_Observatory" title="Chandra X-ray Observatory">Chandra X-ray Observatory</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/X-ray_pulsar-based_navigation" title="X-ray pulsar-based navigation">X-ray pulsar-based navigation</a></li>
+<li><a href="/wiki/Tempo_(astronomy)" title="Tempo (astronomy)">Tempo software program</a></li>
+<li><a href="/wiki/Astropulse" title="Astropulse">Astropulse</a></li>
+<li><a href="/wiki/The_Magnificent_Seven_(neutron_stars)" title="The Magnificent Seven (neutron stars)">The Magnificent Seven</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="Category" src="assets/a9e3d452e47e587f4b154c3daa441ebf.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Neutron_stars" title="Category:Neutron stars">Category</a></li>
+<li><img alt="Commons page" src="assets/585a9a5711492c3bf8b9ccca05aca0eb.png" decoding="async" title="Commons page" width="12" height="16" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /> <a href="https://commons.wikimedia.org/wiki/Category:Neutron_stars" class="extiw" title="commons:Category:Neutron stars">Commons</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Extraterrestrial_life" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="text-align: center;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Extraterrestrial_life" title="Template:Extraterrestrial life"><abbr title="View this template" style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Extraterrestrial_life" title="Template talk:Extraterrestrial life"><abbr title="Discuss this template" style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Extraterrestrial_life&amp;action=edit"><abbr title="Edit this template" style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Extraterrestrial_life" style="font-size:114%;margin:0 4em"><a href="/wiki/Extraterrestrial_life" title="Extraterrestrial life">Extraterrestrial life</a></div></th></tr><tr><th scope="row" class="navbox-group" style="text-align: center;;width:1%">Events and objects</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Allan_Hills_77005" title="Allan Hills 77005">ALH77005</a></li>
+<li><a href="/wiki/Allan_Hills_84001" title="Allan Hills 84001">ALH84001</a></li>
+<li><a href="/wiki/Cells_in_the_stratosphere" class="mw-redirect" title="Cells in the stratosphere">Cells in the stratosphere</a></li>
+<li><a href="/wiki/CI1_fossils" title="CI1 fossils">CI1 fossils</a></li>
+<li><a href="/wiki/Murchison_meteorite" title="Murchison meteorite">Murchison meteorite</a></li>
+<li><a href="/wiki/Nakhla_meteorite" title="Nakhla meteorite">Nakhla meteorite</a></li>
+<li><a href="/wiki/Polonnaruwa_(meteorite)" title="Polonnaruwa (meteorite)">Polonnaruwa meteorite</a></li>
+<li><a href="/wiki/Red_rain_in_Kerala" title="Red rain in Kerala">Red rain in Kerala</a></li>
+<li><a href="/wiki/Shergotty_meteorite" title="Shergotty meteorite">Shergotty meteorite</a></li>
+<li><a href="/wiki/Viking_lander_biological_experiments" title="Viking lander biological experiments">Viking lander biological experiments</a></li>
+<li><a href="/wiki/Yamato_000593" title="Yamato 000593">Yamato 000593</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;;width:1%">Signals of interest</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;text-align: center;">Misidentified</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a class="mw-selflink selflink">CP 1919</a> <span style="font-size:85%;">(misidentified pulsar)</span></li>
+<li><a href="/wiki/CTA-102" title="CTA-102">CTA-102</a> <span style="font-size:85%;">(misidentified quasar)</span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align: center;"><a href="/wiki/Stars" class="mw-redirect" title="Stars">Stars</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Tabby%27s_Star" title="Tabby&#39;s Star">KIC 8462852</a> <span style="font-size:85%;">(unusual light fluctuations)</span></li>
+<li><a href="/wiki/EPIC_204278916" title="EPIC 204278916">EPIC 204278916</a> <span style="font-size:85%;">(unusual light fluctuations)</span></li>
+<li>VVV-WIT-07 <span style="font-size:85%;">(unusual light fluctuations)</span></li>
+<li><a href="/wiki/HD_164595" title="HD 164595">HD 164595 signal</a> <span style="font-size:85%;">(unknown origin)</span></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;text-align: center;">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/SHGb02%2B14a" title="SHGb02+14a">SHGb02+14a</a> <span style="font-size:85%;">(radio source)</span></li>
+<li><a href="/wiki/Wow!_signal" title="Wow! signal">Wow! signal</a> <span style="font-size:85%;">(inconclusive)</span></li>
+<li><a href="/wiki/Fast_radio_burst" title="Fast radio burst">Fast radio burst</a> <span style="font-size:85%;">(unknown origin)</span></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;;width:1%">Life in the Universe</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Earliest_known_life_forms" title="Earliest known life forms">Earliest known life forms</a></li>
+<li><a href="/wiki/Enceladus#Potential_habitability" title="Enceladus">Habitability of Enceladus</a></li>
+<li><a href="/wiki/Europa_(moon)#Habitability_potential" title="Europa (moon)">Habitability of Europa</a></li>
+<li><a href="/wiki/Life_on_Mars" title="Life on Mars">Habitability of Mars</a></li>
+<li><a href="/wiki/Titan_(moon)#Prebiotic_conditions_and_life" title="Titan (moon)">Habitability of Titan</a></li>
+<li><a href="/wiki/Venus#Habitability" title="Venus">Habitability of Venus</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;;width:1%"><a href="/wiki/Planetary_habitability" title="Planetary habitability">Planetary<br />habitability</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Catalog_of_Nearby_Habitable_Systems" title="Catalog of Nearby Habitable Systems">Catalog of Nearby Habitable Systems</a></li>
+<li><a href="/wiki/Circumstellar_habitable_zone" title="Circumstellar habitable zone">Circumstellar habitable zone</a></li>
+<li><a href="/wiki/Earth_analog" title="Earth analog">Earth analog</a></li>
+<li><a href="/wiki/Extraterrestrial_liquid_water" title="Extraterrestrial liquid water">Extraterrestrial liquid water</a></li>
+<li><a href="/wiki/Galactic_habitable_zone" title="Galactic habitable zone">Galactic habitable zone</a></li>
+<li><a href="/wiki/Habitability_of_binary_star_systems" title="Habitability of binary star systems">Habitability of binary star systems</a></li>
+<li><a href="/wiki/Habitability_of_K-type_main-sequence_star_systems" title="Habitability of K-type main-sequence star systems">Habitability of orange dwarf systems</a></li>
+<li><a href="/wiki/Habitability_of_red_dwarf_systems" title="Habitability of red dwarf systems">Habitability of red dwarf systems</a></li>
+<li><a href="/wiki/Habitability_of_natural_satellites" title="Habitability of natural satellites">Natural satellite habitability</a></li>
+<li><a href="/wiki/Planetary_habitability" title="Planetary habitability">Planetary habitability</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;;width:1%"><a href="/wiki/Astrobiology#Missions" title="Astrobiology">Space missions</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Beagle_2" title="Beagle 2">Beagle 2</a></li>
+<li><a href="/wiki/Biological_Oxidant_and_Life_Detection" title="Biological Oxidant and Life Detection">Biological Oxidant and Life Detection</a></li>
+<li><a href="/wiki/BioSentinel" title="BioSentinel">BioSentinel</a></li>
+<li><a href="/wiki/Curiosity_(rover)" title="Curiosity (rover)"><i>Curiosity</i> rover</a></li>
+<li><i><a href="/wiki/Darwin_(spacecraft)" title="Darwin (spacecraft)">Darwin</a></i></li>
+<li><i><a href="/wiki/Dragonfly_(spacecraft)" title="Dragonfly (spacecraft)">Dragonfly</a></i></li>
+<li><a href="/wiki/Enceladus_Explorer" title="Enceladus Explorer">Enceladus Explorer</a></li>
+<li><a href="/wiki/Enceladus_Life_Finder" title="Enceladus Life Finder">Enceladus Life Finder</a></li>
+<li><i><a href="/wiki/Europa_Clipper" title="Europa Clipper">Europa Clipper</a></i></li>
+<li><a href="/wiki/ExoMars" title="ExoMars">ExoMars</a>
+<ul><li><a href="/wiki/Rosalind_Franklin_(rover)" title="Rosalind Franklin (rover)"><i>Rosalind Franklin</i> rover</a></li></ul></li>
+<li><a href="/wiki/ExoLance" title="ExoLance">ExoLance</a></li>
+<li><a href="/wiki/EXPOSE" title="EXPOSE">EXPOSE</a></li>
+<li><a href="/wiki/Foton-M" class="mw-redirect" title="Foton-M">Foton-M3</a></li>
+<li><a href="/wiki/Icebreaker_Life" title="Icebreaker Life">Icebreaker Life</a></li>
+<li><a href="/wiki/Journey_to_Enceladus_and_Titan" title="Journey to Enceladus and Titan">Journey to Enceladus and Titan</a></li>
+<li><a href="/wiki/Laplace-P" title="Laplace-P">Laplace-P</a></li>
+<li><a href="/wiki/Life_Investigation_For_Enceladus" title="Life Investigation For Enceladus">Life Investigation For Enceladus</a></li>
+<li><a href="/wiki/Living_Interplanetary_Flight_Experiment" title="Living Interplanetary Flight Experiment">Living Interplanetary Flight Experiment</a></li>
+<li><a href="/wiki/Mars_Geyser_Hopper" title="Mars Geyser Hopper">Mars Geyser Hopper</a></li>
+<li><a href="/wiki/Mars_sample-return_mission" title="Mars sample-return mission">Mars sample-return mission</a></li>
+<li><a href="/wiki/Mars_2020" title="Mars 2020">Mars 2020</a></li>
+<li><a href="/wiki/Northern_Light_(spacecraft)" title="Northern Light (spacecraft)">Northern Light</a></li>
+<li><a href="/wiki/Opportunity_(rover)" title="Opportunity (rover)"><i>Opportunity</i> rover</a></li>
+<li><a href="/wiki/SpaceX_Red_Dragon" title="SpaceX Red Dragon">SpaceX Red Dragon</a></li>
+<li><a href="/wiki/Spirit_(rover)" title="Spirit (rover)"><i>Spirit</i> rover</a></li>
+<li><a href="/wiki/Tanpopo_(mission)" title="Tanpopo (mission)">Tanpopo</a></li>
+<li><a href="/wiki/Titan_Mare_Explorer" title="Titan Mare Explorer">Titan Mare Explorer</a></li>
+<li><a href="/wiki/Venus_In_Situ_Explorer" title="Venus In Situ Explorer">Venus In Situ Explorer</a></li>
+<li><i><a href="/wiki/Viking_1" title="Viking 1">Viking 1</a></i></li>
+<li><i><a href="/wiki/Viking_2" title="Viking 2">Viking 2</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;;width:1%"><a href="/wiki/Interstellar_communication" title="Interstellar communication">Interstellar<br />communication</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Active_SETI" title="Active SETI">Active SETI</a></li>
+<li><a href="/wiki/Allen_Telescope_Array" title="Allen Telescope Array">Allen Telescope Array</a></li>
+<li><a href="/wiki/Arecibo_message" title="Arecibo message">Arecibo message</a></li>
+<li><a href="/wiki/Arecibo_Observatory" title="Arecibo Observatory">Arecibo Observatory</a></li>
+<li><a href="/wiki/Berkeley_SETI_Research_Center" title="Berkeley SETI Research Center">Berkeley SETI Research Center</a></li>
+<li><a href="/wiki/Bracewell_probe" title="Bracewell probe">Bracewell probe</a></li>
+<li><a href="/wiki/Breakthrough_Initiatives" title="Breakthrough Initiatives">Breakthrough Initiatives</a>
+<ul><li><a href="/wiki/Breakthrough_Listen" title="Breakthrough Listen">Breakthrough Listen</a></li>
+<li><a href="/wiki/Breakthrough_Message" class="mw-redirect" title="Breakthrough Message">Breakthrough Message</a></li></ul></li>
+<li><a href="/wiki/Communication_with_extraterrestrial_intelligence" title="Communication with extraterrestrial intelligence">Communication with extraterrestrial intelligence</a></li>
+<li><a href="/wiki/Gauss%27s_Pythagorean_right_triangle_proposal" title="Gauss&#39;s Pythagorean right triangle proposal">Gauss's Pythagorean right triangle proposal</a></li>
+<li><a href="/wiki/Lincos_(artificial_language)" class="mw-redirect" title="Lincos (artificial language)">Lincos language</a></li>
+<li><a href="/wiki/NIROSETI" title="NIROSETI">NIROSETI</a></li>
+<li><a href="/wiki/Pioneer_plaque" title="Pioneer plaque">Pioneer plaque</a></li>
+<li><a href="/wiki/Project_Cyclops" title="Project Cyclops">Project Cyclops</a></li>
+<li><a href="/wiki/Project_Ozma" title="Project Ozma">Project Ozma</a></li>
+<li><a href="/wiki/Project_Phoenix_(SETI)" title="Project Phoenix (SETI)">Project Phoenix</a></li>
+<li><a href="/wiki/SERENDIP" title="SERENDIP">SERENDIP</a></li>
+<li><a href="/wiki/Search_for_extraterrestrial_intelligence" title="Search for extraterrestrial intelligence">Search for extraterrestrial intelligence</a></li>
+<li><a href="/wiki/SETI@home" title="SETI@home">SETI@home</a></li>
+<li><a href="/wiki/SetiQuest" title="SetiQuest">setiQuest</a></li>
+<li><a href="/wiki/Voyager_Golden_Record" title="Voyager Golden Record">Voyager Golden Record</a></li>
+<li><a href="/wiki/Water_hole_(radio)" title="Water hole (radio)">Water hole</a></li>
+<li><a href="/wiki/Alien_language" title="Alien language">Xenolinguistics</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;;width:1%">Exhibitions</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/The_Science_of_Aliens" title="The Science of Aliens">The Science of Aliens</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;;width:1%">Hypotheses</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aestivation_hypothesis" title="Aestivation hypothesis">Aestivation hypothesis</a></li>
+<li><a href="/wiki/Ancient_astronauts" title="Ancient astronauts">Ancient astronauts</a></li>
+<li><a href="/wiki/Cosmic_pluralism" title="Cosmic pluralism">Cosmic pluralism</a></li>
+<li><a href="/wiki/Directed_panspermia" title="Directed panspermia">Directed panspermia</a></li>
+<li><a href="/wiki/Drake_equation" title="Drake equation">Drake equation</a></li>
+<li><a href="/wiki/Extraterrestrial_hypothesis" title="Extraterrestrial hypothesis">Extraterrestrial hypothesis</a></li>
+<li><a href="/wiki/Fermi_paradox" title="Fermi paradox">Fermi paradox</a></li>
+<li><a href="/wiki/Great_Filter" title="Great Filter">Great Filter</a></li>
+<li><a href="/wiki/Hypothetical_types_of_biochemistry" title="Hypothetical types of biochemistry">Hypothetical types of biochemistry</a></li>
+<li><a href="/wiki/Interplanetary_contamination" title="Interplanetary contamination">Interplanetary contamination</a></li>
+<li><a href="/wiki/Kardashev_scale" title="Kardashev scale">Kardashev scale</a></li>
+<li><a href="/wiki/Mediocrity_principle" title="Mediocrity principle">Mediocrity principle</a></li>
+<li><a href="/wiki/Neocatastrophism" title="Neocatastrophism">Neocatastrophism</a></li>
+<li><a href="/wiki/Panspermia" title="Panspermia">Panspermia</a></li>
+<li><a href="/wiki/Planetarium_hypothesis" title="Planetarium hypothesis">Planetarium hypothesis</a></li>
+<li><a href="/wiki/Rare_Earth_hypothesis" title="Rare Earth hypothesis">Rare Earth hypothesis</a></li>
+<li><a href="/wiki/Zoo_hypothesis" title="Zoo hypothesis">Zoo hypothesis</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;;width:1%">Related topics</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Astrobiology" title="Astrobiology">Astrobiology</a></li>
+<li><a href="/wiki/Astroecology" title="Astroecology">Astroecology</a></li>
+<li><a href="/wiki/Biosignature" title="Biosignature">Biosignature</a></li>
+<li><a href="/wiki/Brookings_Report" title="Brookings Report">Brookings Report</a></li>
+<li><a href="/wiki/Planetary_protection" title="Planetary protection">Planetary protection</a></li>
+<li><a href="/wiki/Potential_cultural_impact_of_extraterrestrial_contact" title="Potential cultural impact of extraterrestrial contact">Potential cultural impact of extraterrestrial contact</a></li>
+<li><a href="/wiki/Exotheology" title="Exotheology">Exotheology</a></li>
+<li><a href="/wiki/Extraterrestrials_in_fiction" title="Extraterrestrials in fiction">Extraterrestrials in fiction</a></li>
+<li><a href="/wiki/Extremophile" title="Extremophile">Extremophile</a></li>
+<li><a href="/wiki/Nexus_for_Exoplanet_System_Science" title="Nexus for Exoplanet System Science">Nexus for Exoplanet System Science</a></li>
+<li><a href="/wiki/Noogenesis" title="Noogenesis">Noogenesis</a></li>
+<li><a href="/wiki/San_Marino_Scale" title="San Marino Scale">San Marino Scale</a></li>
+<li><a href="/wiki/Technosignature" title="Technosignature">Technosignature</a></li>
+<li><a href="/wiki/UFO_religion" title="UFO religion">UFO religion</a></li>
+<li><a href="/wiki/Xenoarchaeology" title="Xenoarchaeology">Xenoarchaeology</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Constellation_of_Vulpecula" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style="text-align: center;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Vulpecula" title="Template:Vulpecula"><abbr title="View this template" style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Vulpecula" title="Template talk:Vulpecula"><abbr title="Discuss this template" style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Vulpecula&amp;action=edit"><abbr title="Edit this template" style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Constellation_of_Vulpecula" style="font-size:114%;margin:0 4em"><a href="/wiki/Vulpecula_(constellation)" class="mw-redirect" title="Vulpecula (constellation)">Constellation of Vulpecula</a></div></th></tr><tr><td class="navbox-abovebelow" colspan="2" style="text-align: center;"><div id="*_List_of_stars_in_Vulpecula_*_Vulpecula_in_Chinese_astronomy">
+<ul><li><a href="/wiki/List_of_stars_in_Vulpecula" title="List of stars in Vulpecula">List of stars in Vulpecula</a></li>
+<li><a href="/wiki/Vulpecula_in_Chinese_astronomy" title="Vulpecula in Chinese astronomy">Vulpecula in Chinese astronomy</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;;width:55px"><a href="/wiki/Star" title="Star">Stars</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:70px"><a href="/wiki/Bayer_designation" title="Bayer designation">Bayer</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Alpha_Vulpeculae" title="Alpha Vulpeculae">α (Anser)</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:70px"><a href="/wiki/Flamsteed_designation" title="Flamsteed designation">Flamsteed</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1_Vulpeculae" title="1 Vulpeculae">1</a></li>
+<li><a href="/wiki/2_Vulpeculae" title="2 Vulpeculae">2</a></li>
+<li><a href="/wiki/3_Vulpeculae" title="3 Vulpeculae">3</a></li>
+<li><a href="/wiki/4_Vulpeculae" title="4 Vulpeculae">4</a></li>
+<li><a href="/wiki/5_Vulpeculae" title="5 Vulpeculae">5</a></li>
+<li><a href="/wiki/7_Vulpeculae" title="7 Vulpeculae">7</a></li>
+<li><a href="/wiki/8_Vulpeculae" title="8 Vulpeculae">8</a></li>
+<li><a href="/wiki/9_Vulpeculae" title="9 Vulpeculae">9</a></li>
+<li><a href="/wiki/10_Vulpeculae" title="10 Vulpeculae">10</a></li>
+<li><a href="/wiki/CK_Vulpeculae" title="CK Vulpeculae">11</a></li>
+<li><a href="/wiki/12_Vulpeculae" title="12 Vulpeculae">12</a></li>
+<li><a href="/wiki/13_Vulpeculae" title="13 Vulpeculae">13</a></li>
+<li><a href="/wiki/14_Vulpeculae" title="14 Vulpeculae">14</a></li>
+<li><a href="/wiki/15_Vulpeculae" title="15 Vulpeculae">15</a></li>
+<li><a href="/wiki/16_Vulpeculae" title="16 Vulpeculae">16</a></li>
+<li><a href="/wiki/17_Vulpeculae" title="17 Vulpeculae">17</a></li>
+<li><a href="/wiki/18_Vulpeculae" title="18 Vulpeculae">18</a></li>
+<li><a href="/wiki/19_Vulpeculae" title="19 Vulpeculae">19</a></li>
+<li><a href="/wiki/20_Vulpeculae" title="20 Vulpeculae">20</a></li>
+<li><a href="/wiki/21_Vulpeculae" title="21 Vulpeculae">21</a></li>
+<li><a href="/wiki/22_Vulpeculae" title="22 Vulpeculae">22</a></li>
+<li><a href="/wiki/23_Vulpeculae" title="23 Vulpeculae">23</a></li>
+<li><a href="/wiki/24_Vulpeculae" title="24 Vulpeculae">24</a></li>
+<li><a href="/wiki/25_Vulpeculae" title="25 Vulpeculae">25</a></li>
+<li><a href="/wiki/26_Vulpeculae" title="26 Vulpeculae">26</a></li>
+<li><a href="/wiki/27_Vulpeculae" title="27 Vulpeculae">27</a></li>
+<li><a href="/wiki/28_Vulpeculae" title="28 Vulpeculae">28</a></li>
+<li><a href="/wiki/29_Vulpeculae" title="29 Vulpeculae">29</a></li>
+<li><a href="/wiki/30_Vulpeculae" title="30 Vulpeculae">30</a></li>
+<li><a href="/wiki/31_Vulpeculae" title="31 Vulpeculae">31</a></li>
+<li><a href="/wiki/32_Vulpeculae" title="32 Vulpeculae">32</a></li>
+<li><a href="/wiki/33_Vulpeculae" title="33 Vulpeculae">33</a></li>
+<li><a href="/wiki/35_Vulpeculae" title="35 Vulpeculae">35</a></li>
+<li><i><a href="/w/index.php?title=3_Cygni&amp;action=edit&amp;redlink=1" class="new" title="3 Cygni (page does not exist)">3 Cyg</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:70px"><a href="/wiki/Variable_star_designation" title="Variable star designation">Variable</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=R_Vulpeculae&amp;action=edit&amp;redlink=1" class="new" title="R Vulpeculae (page does not exist)">R</a></li>
+<li><a href="/wiki/S_Vulpeculae" title="S Vulpeculae">S</a></li>
+<li><a href="/wiki/T_Vulpeculae" title="T Vulpeculae">T</a></li>
+<li><a href="/wiki/U_Vulpeculae" title="U Vulpeculae">U</a></li>
+<li><a href="/w/index.php?title=V_Vulpeculae&amp;action=edit&amp;redlink=1" class="new" title="V Vulpeculae (page does not exist)">V</a></li>
+<li><a href="/w/index.php?title=X_Vulpeculae&amp;action=edit&amp;redlink=1" class="new" title="X Vulpeculae (page does not exist)">X</a></li>
+<li><a href="/w/index.php?title=Z_Vulpeculae&amp;action=edit&amp;redlink=1" class="new" title="Z Vulpeculae (page does not exist)">Z</a></li>
+<li><a href="/w/index.php?title=RS_Vulpeculae&amp;action=edit&amp;redlink=1" class="new" title="RS Vulpeculae (page does not exist)">RS</a></li>
+<li><a href="/wiki/SV_Vulpeculae" title="SV Vulpeculae">SV</a></li>
+<li><a href="/w/index.php?title=VW_Vulpeculae&amp;action=edit&amp;redlink=1" class="new" title="VW Vulpeculae (page does not exist)">VW</a></li>
+<li><a href="/w/index.php?title=WW_Vulpeculae&amp;action=edit&amp;redlink=1" class="new" title="WW Vulpeculae (page does not exist)">WW</a></li>
+<li><a href="/w/index.php?title=AW_Vulpeculae&amp;action=edit&amp;redlink=1" class="new" title="AW Vulpeculae (page does not exist)">AW</a></li>
+<li><a href="/w/index.php?title=BE_Vulpeculae&amp;action=edit&amp;redlink=1" class="new" title="BE Vulpeculae (page does not exist)">BE</a></li>
+<li><a href="/w/index.php?title=BO_Vulpeculae&amp;action=edit&amp;redlink=1" class="new" title="BO Vulpeculae (page does not exist)">BO</a></li>
+<li><a href="/w/index.php?title=BP_Vulpeculae&amp;action=edit&amp;redlink=1" class="new" title="BP Vulpeculae (page does not exist)">BP</a></li>
+<li><a href="/w/index.php?title=BS_Vulpeculae&amp;action=edit&amp;redlink=1" class="new" title="BS Vulpeculae (page does not exist)">BS</a></li>
+<li><a href="/wiki/BW_Vulpeculae" title="BW Vulpeculae">BW</a></li>
+<li><a href="/w/index.php?title=DR_Vulpeculae&amp;action=edit&amp;redlink=1" class="new" title="DR Vulpeculae (page does not exist)">DR</a></li>
+<li><a href="/w/index.php?title=ER_Vulpeculae&amp;action=edit&amp;redlink=1" class="new" title="ER Vulpeculae (page does not exist)">ER</a></li>
+<li><a href="/w/index.php?title=HR_7222&amp;action=edit&amp;redlink=1" class="new" title="HR 7222 (page does not exist)">LT</a></li>
+<li><a href="/w/index.php?title=LV_Vulpeculae&amp;action=edit&amp;redlink=1" class="new" title="LV Vulpeculae (page does not exist)">LV</a></li>
+<li><a href="/w/index.php?title=HD_192913&amp;action=edit&amp;redlink=1" class="new" title="HD 192913 (page does not exist)">MW</a></li>
+<li><a href="/wiki/NQ_Vulpeculae" title="NQ Vulpeculae">NQ</a></li>
+<li><a href="/wiki/NR_Vulpeculae" title="NR Vulpeculae">NR</a></li>
+<li><a href="/w/index.php?title=HD_188037&amp;action=edit&amp;redlink=1" class="new" title="HD 188037 (page does not exist)">NS</a></li>
+<li><a href="/w/index.php?title=PS_Vulpeculae&amp;action=edit&amp;redlink=1" class="new" title="PS Vulpeculae (page does not exist)">PS</a></li>
+<li><a href="/w/index.php?title=PU_Vulpeculae&amp;action=edit&amp;redlink=1" class="new" title="PU Vulpeculae (page does not exist)">PU</a></li>
+<li><a href="/w/index.php?title=PW_Vulpeculae&amp;action=edit&amp;redlink=1" class="new" title="PW Vulpeculae (page does not exist)">PW</a></li>
+<li><a href="/w/index.php?title=PX_Vulpeculae&amp;action=edit&amp;redlink=1" class="new" title="PX Vulpeculae (page does not exist)">PX</a></li>
+<li><a href="/w/index.php?title=QQ_Vulpeculae&amp;action=edit&amp;redlink=1" class="new" title="QQ Vulpeculae (page does not exist)">QQ</a></li>
+<li><a href="/wiki/HD_192685" title="HD 192685">QR</a></li>
+<li><a href="/wiki/QU_Vulpeculae" title="QU Vulpeculae">QU</a></li>
+<li><a href="/w/index.php?title=QV_Vulpeculae&amp;action=edit&amp;redlink=1" class="new" title="QV Vulpeculae (page does not exist)">QV</a></li>
+<li><a href="/w/index.php?title=HD_186943&amp;action=edit&amp;redlink=1" class="new" title="HD 186943 (page does not exist)">QY</a></li>
+<li><a href="/w/index.php?title=V379_Vulpeculae&amp;action=edit&amp;redlink=1" class="new" title="V379 Vulpeculae (page does not exist)">V379</a></li>
+<li><a href="/w/index.php?title=V387_Vulpeculae&amp;action=edit&amp;redlink=1" class="new" title="V387 Vulpeculae (page does not exist)">V387</a></li>
+<li><a href="/w/index.php?title=V407_Vulpeculae&amp;action=edit&amp;redlink=1" class="new" title="V407 Vulpeculae (page does not exist)">V407</a></li>
+<li><a href="/wiki/HD_189733" title="HD 189733">V452</a></li>
+<li><a href="/wiki/HD_203030" title="HD 203030">V457</a></li>
+<li><a href="/w/index.php?title=V458_Vulpeculae&amp;action=edit&amp;redlink=1" class="new" title="V458 Vulpeculae (page does not exist)">V458</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:70px"><a href="/wiki/Bright_Star_Catalogue" title="Bright Star Catalogue">HR</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=HD_176971&amp;action=edit&amp;redlink=1" class="new" title="HD 176971 (page does not exist)">7207</a></li>
+<li><a href="/w/index.php?title=HD_178187&amp;action=edit&amp;redlink=1" class="new" title="HD 178187 (page does not exist)">7250</a></li>
+<li><a href="/w/index.php?title=HD_178476&amp;action=edit&amp;redlink=1" class="new" title="HD 178476 (page does not exist)">7263</a></li>
+<li><a href="/w/index.php?title=HD_179648&amp;action=edit&amp;redlink=1" class="new" title="HD 179648 (page does not exist)">7286</a></li>
+<li><a href="/w/index.php?title=HD_182422&amp;action=edit&amp;redlink=1" class="new" title="HD 182422 (page does not exist)">7364</a></li>
+<li><a href="/w/index.php?title=HD_182761&amp;action=edit&amp;redlink=1" class="new" title="HD 182761 (page does not exist)">7384</a></li>
+<li><a href="/w/index.php?title=HD_182955&amp;action=edit&amp;redlink=1" class="new" title="HD 182955 (page does not exist)">7391</a></li>
+<li><a href="/w/index.php?title=HD_184010&amp;action=edit&amp;redlink=1" class="new" title="HD 184010 (page does not exist)">7421</a></li>
+<li><a href="/w/index.php?title=HD_184961&amp;action=edit&amp;redlink=1" class="new" title="HD 184961 (page does not exist)">7452</a></li>
+<li><a href="/w/index.php?title=HD_185436&amp;action=edit&amp;redlink=1" class="new" title="HD 185436 (page does not exist)">7472</a></li>
+<li><a href="/w/index.php?title=HD_186021&amp;action=edit&amp;redlink=1" class="new" title="HD 186021 (page does not exist)">7490</a></li>
+<li><a href="/w/index.php?title=HD_187193&amp;action=edit&amp;redlink=1" class="new" title="HD 187193 (page does not exist)">7540</a></li>
+<li><a href="/w/index.php?title=HD_187982&amp;action=edit&amp;redlink=1" class="new" title="HD 187982 (page does not exist)">7573</a></li>
+<li><a href="/w/index.php?title=HD_188485&amp;action=edit&amp;redlink=1" class="new" title="HD 188485 (page does not exist)">7601</a></li>
+<li><a href="/w/index.php?title=HD_189944&amp;action=edit&amp;redlink=1" class="new" title="HD 189944 (page does not exist)">7656</a></li>
+<li><a href="/w/index.php?title=HD_191877&amp;action=edit&amp;redlink=1" class="new" title="HD 191877 (page does not exist)">7716</a></li>
+<li><a href="/w/index.php?title=HD_193094&amp;action=edit&amp;redlink=1" class="new" title="HD 193094 (page does not exist)">7760</a></li>
+<li><a href="/w/index.php?title=HD_194577&amp;action=edit&amp;redlink=1" class="new" title="HD 194577 (page does not exist)">7811</a></li>
+<li><a href="/w/index.php?title=HD_195692&amp;action=edit&amp;redlink=1" class="new" title="HD 195692 (page does not exist)">7849</a></li>
+<li><a href="/w/index.php?title=HD_196035&amp;action=edit&amp;redlink=1" class="new" title="HD 196035 (page does not exist)">7862</a></li>
+<li><a href="/w/index.php?title=HD_196753&amp;action=edit&amp;redlink=1" class="new" title="HD 196753 (page does not exist)">7895</a></li>
+<li><a href="/w/index.php?title=HD_196821&amp;action=edit&amp;redlink=1" class="new" title="HD 196821 (page does not exist)">7903</a></li>
+<li><a href="/w/index.php?title=HD_201051&amp;action=edit&amp;redlink=1" class="new" title="HD 201051 (page does not exist)">8082</a></li>
+<li><a href="/w/index.php?title=HD_203206&amp;action=edit&amp;redlink=1" class="new" title="HD 203206 (page does not exist)">8158</a></li>
+<li><a href="/w/index.php?title=HD_203803&amp;action=edit&amp;redlink=1" class="new" title="HD 203803 (page does not exist)">8190</a></li>
+<li><a href="/w/index.php?title=HD_203858&amp;action=edit&amp;redlink=1" class="new" title="HD 203858 (page does not exist)">8194</a></li>
+<li><a href="/w/index.php?title=HD_203886&amp;action=edit&amp;redlink=1" class="new" title="HD 203886 (page does not exist)">8197</a></li>
+<li><a href="/w/index.php?title=HD_203925&amp;action=edit&amp;redlink=1" class="new" title="HD 203925 (page does not exist)">8198</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:70px"><a href="/wiki/Henry_Draper_Catalogue" title="Henry Draper Catalogue">HD</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=HD_186943&amp;action=edit&amp;redlink=1" class="new" title="HD 186943 (page does not exist)">186943</a></li>
+<li><a href="/w/index.php?title=HD_187614&amp;action=edit&amp;redlink=1" class="new" title="HD 187614 (page does not exist)">187614</a></li>
+<li><a href="/wiki/HD_188015" title="HD 188015">188015</a></li>
+<li><a href="/w/index.php?title=HD_189671&amp;action=edit&amp;redlink=1" class="new" title="HD 189671 (page does not exist)">189671</a></li>
+<li><a href="/w/index.php?title=HD_190066&amp;action=edit&amp;redlink=1" class="new" title="HD 190066 (page does not exist)">190066</a></li>
+<li><a href="/wiki/HD_190228" title="HD 190228">190228</a></li>
+<li><a href="/w/index.php?title=HD_190322&amp;action=edit&amp;redlink=1" class="new" title="HD 190322 (page does not exist)">190322</a></li>
+<li><a href="/w/index.php?title=HD_201626&amp;action=edit&amp;redlink=1" class="new" title="HD 201626 (page does not exist)">201626</a></li>
+<li><a href="/wiki/HD_203030" title="HD 203030">203030</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:70px">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/w/index.php?title=BD%2B23_3912&amp;action=edit&amp;redlink=1" class="new" title="BD+23 3912 (page does not exist)">BD+23 3912</a></li>
+<li><a href="/wiki/G_185-32" title="G 185-32">G 185-32</a></li>
+<li><a href="/w/index.php?title=GD_385&amp;action=edit&amp;redlink=1" class="new" title="GD 385 (page does not exist)">GD 385</a></li>
+<li><a href="/wiki/GS_2000%2B25" title="GS 2000+25">GS 2000+25</a></li>
+<li><a href="/wiki/HIP_100963" title="HIP 100963">HIP 100963</a></li>
+<li><a class="mw-selflink selflink">PSR B1919+21</a></li>
+<li><a href="/w/index.php?title=PSR_B1930%2B22&amp;action=edit&amp;redlink=1" class="new" title="PSR B1930+22 (page does not exist)">PSR B1930+22</a></li>
+<li><a href="/wiki/PSR_B1937%2B21" title="PSR B1937+21">PSR B1937+21</a></li>
+<li><a href="/w/index.php?title=PSR_B1953%2B29&amp;action=edit&amp;redlink=1" class="new" title="PSR B1953+29 (page does not exist)">PSR B1953+29</a></li>
+<li><a href="/w/index.php?title=PSR_B2020%2B28&amp;action=edit&amp;redlink=1" class="new" title="PSR B2020+28 (page does not exist)">PSR B2020+28</a></li>
+<li><a href="/wiki/PSR_J2007%2B2722" title="PSR J2007+2722">PSR J2007+2722</a></li>
+<li><a href="/w/index.php?title=Wolf_1346&amp;action=edit&amp;redlink=1" class="new" title="Wolf 1346 (page does not exist)">Wolf 1346</a></li>
+<li><a href="/w/index.php?title=WR_125&amp;action=edit&amp;redlink=1" class="new" title="WR 125 (page does not exist)">WR 125</a></li>
+<li><a href="/w/index.php?title=XTE_J1859%2B226&amp;action=edit&amp;redlink=1" class="new" title="XTE J1859+226 (page does not exist)">XTE J1859+226</a></li>
+<li><a href="/wiki/SGR_1935%2B2154" title="SGR 1935+2154">SGR 1935+2154</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Exoplanets" scope="row" class="navbox-group" style="width:151px;background: #ddddff;"><a href="/wiki/Exoplanet" title="Exoplanet">Exoplanets</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/HD_188015_b" title="HD 188015 b">HD 188015 b</a></li>
+<li><a href="/wiki/HD_189733_b" title="HD 189733 b">HD 189733 b</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Star_clusters" scope="row" class="navbox-group" style="width:151px;background: #ddddff;"><a href="/wiki/Star_cluster" title="Star cluster">Star clusters</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Brocchi%27s_Cluster" title="Brocchi&#39;s Cluster">Brocchi's Cluster</a></li>
+<li><a href="/wiki/NGC_6885" title="NGC 6885">NGC 6885</a></li>
+<li><a href="/wiki/NGC_6940" title="NGC 6940">NGC 6940</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th id="Nebulae" scope="row" class="navbox-group" style="width:151px;background: #ddddff;"><a href="/wiki/Nebula" title="Nebula">Nebulae</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dumbbell_Nebula" title="Dumbbell Nebula">Dumbbell Nebula</a></li>
+<li><a href="/wiki/Sharpless_2-88" title="Sharpless 2-88">Sh2-88</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="text-align: center;;width:55px"><a href="/wiki/Galaxy" title="Galaxy">Galaxies</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:70px"><a href="/wiki/New_General_Catalogue" title="New General Catalogue">NGC</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/NGC_7052" title="NGC 7052">7052</a></li>
+<li><a href="/wiki/NGC_7080" title="NGC 7080">7080</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:70px">Other</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/3C_433" title="3C 433">3C 433</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2" style="text-align: center;"><div><img alt="Category" src="assets/a9e3d452e47e587f4b154c3daa441ebf.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Vulpecula" title="Category:Vulpecula">Category</a></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1369
+Cached time: 20200807011142
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.572 seconds
+Real time usage: 0.753 seconds
+Preprocessor visited node count: 2328/1000000
+Post‐expand include size: 145922/2097152 bytes
+Template argument size: 8463/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 77226/5000000 bytes
+Lua time usage: 0.272/10.000 seconds
+Lua memory usage: 8.3 MB/50 MB
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  619.950      1 -total
+ 32.35%  200.566      1 Template:Reflist
+ 19.52%  120.984      5 Template:Cite_journal
+ 17.01%  105.447      9 Template:Navbox
+ 12.20%   75.624      1 Template:Starbox_astrometry
+ 11.50%   71.285      3 Template:Val
+ 11.43%   70.873      1 Template:Short_description
+ 10.58%   65.585      1 Template:Cn
+  8.61%   53.356      1 Template:Fix
+  7.97%   49.431     12 Template:Cite_web
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1000060-0!canonical and timestamp 20200807011141 and revision id 970896983
+ -->
+</div><noscript><img src="assets/3f07551aa465d8e435036dce80f3b4e4" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=PSR_B1919%2B21&amp;oldid=970896983">https://en.wikipedia.org/w/index.php?title=PSR_B1919%2B21&amp;oldid=970896983</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Rotation-powered_pulsars" title="Category:Rotation-powered pulsars">Rotation-powered pulsars</a></li><li><a href="/wiki/Category:Vulpecula" title="Category:Vulpecula">Vulpecula</a></li><li><a href="/wiki/Category:Astronomical_objects_discovered_in_1967" title="Category:Astronomical objects discovered in 1967">Astronomical objects discovered in 1967</a></li><li><a href="/wiki/Category:Search_for_extraterrestrial_intelligence" title="Category:Search for extraterrestrial intelligence">Search for extraterrestrial intelligence</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2019" title="Category:Articles with unsourced statements from November 2019">Articles with unsourced statements from November 2019</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=PSR+B1919%2B21" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=PSR+B1919%2B21" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/PSR_B1919%2B21" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:PSR_B1919%2B21" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/PSR_B1919%2B21">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=PSR_B1919%2B21&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=PSR_B1919%2B21&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label">
+		<span>Contribute</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/PSR_B1919%2B21" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/PSR_B1919%2B21" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=PSR_B1919%2B21&amp;oldid=970896983" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=PSR_B1919%2B21&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=PSR_B1919%2B21&amp;id=970896983&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1319958" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label">
+		<span>Print/export</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=PSR+B1919%2B21&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=PSR_B1919%2B21&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label">
+		<span>Languages</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/PSR_B1919%2B21" title="PSR B1919+21 – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/PSR_B1919%2B21" title="PSR B1919+21 – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/PSR_B1919%2B21" title="PSR B1919+21 – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%BE%DB%8C%E2%80%8C%D8%A7%D8%B3%E2%80%8C%D8%A2%D8%B1_%D8%A8%DB%8C%DB%B1%DB%B9%DB%B1%DB%B9%2B%DB%B2%DB%B1" title="پی‌اس‌آر بی۱۹۱۹+۲۱ – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/PSR_B1919%2B21" title="PSR B1919+21 – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/PSR_B1919%2B21" title="PSR B1919+21 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/PSR_B1919%2B21" title="PSR B1919+21 – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/PSR_B1919%2B21" title="PSR B1919+21 – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/PSR_B1919%2B21" title="PSR B1919+21 – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/PSR_B1919%2B21" title="PSR B1919+21 – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/PSR_B1919%2B21" title="PSR B1919+21 – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/PSR_B1919%2B21" title="PSR B1919+21 – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/PSR_B1919%2B21" title="PSR B1919+21 – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%9F%D0%A1%D0%A0_%D0%911919%2B21" title="ПСР Б1919+21 – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/PSR_B1919%2B21" title="PSR B1919+21 – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/PSR_B1919%2B21" title="PSR B1919+21 – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/PSR_B1919%2B21" title="PSR B1919+21 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1319958#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 3 August 2020, at 01:17<span class="anonymous-show">&#160;(UTC)</span>.</li>
+		<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+		<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+		<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=PSR_B1919%2B21&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="assets/d0baecaa986ff7633a512d4b50947d64.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="assets/ff74a01dcaa635dc8296ffd80fbd87eb.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.572","walltime":"0.753","ppvisitednodes":{"value":2328,"limit":1000000},"postexpandincludesize":{"value":145922,"limit":2097152},"templateargumentsize":{"value":8463,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":77226,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  619.950      1 -total"," 32.35%  200.566      1 Template:Reflist"," 19.52%  120.984      5 Template:Cite_journal"," 17.01%  105.447      9 Template:Navbox"," 12.20%   75.624      1 Template:Starbox_astrometry"," 11.50%   71.285      3 Template:Val"," 11.43%   70.873      1 Template:Short_description"," 10.58%   65.585      1 Template:Cn","  8.61%   53.356      1 Template:Fix","  7.97%   49.431     12 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.272","limit":"10.000"},"limitreport-memusage":{"value":8705698,"limit":52428800}},"cachereport":{"origin":"mw1369","timestamp":"20200807011142","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"PSR B1919+21","url":"https:\/\/en.wikipedia.org\/wiki\/PSR_B1919%2B21","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1319958","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1319958","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-09-19T23:29:25Z","dateModified":"2020-08-03T01:17:38Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/6\/65\/Chart_Showing_Radio_Signal_of_First_Identified_Pulsar.jpg","headline":"pulsar in the constellation Vulpecula"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":123,"wgHostname":"mw1351"});});</script>
+
+<div style="position:fixed;top:0;left:0;width:100%;height:45px;z-index:2147483647;background-color:rgba(253,147,38,0.90) !important;color:black !important;text-align:right !important;font:normal 12px/45px Arial, sans-serif !important;border-radius:0 !important;margin:0 !important;max-width:100% !important;background-repeat: no-repeat !important;background-position: 15px center !important;
+background-image: url(data:image/png;base64,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);
+"><span style="padding-right:15px;">You are viewing a snapshot of <a style='font-weight:bold !important; color:white !important' href='http://en.wikipedia.org/wiki/PSR_B1919%2B21'>http://en.wikipedia.org/wiki/PSR_B1919%2B21</a> created on 2020/08/12</span></div></body></html>

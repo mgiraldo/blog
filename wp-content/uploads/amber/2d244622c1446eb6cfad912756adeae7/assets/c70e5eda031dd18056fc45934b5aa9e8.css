@@ -1,0 +1,281 @@
+
+
+body {
+	font-family: "Times New Roman",Times,serif;
+	background-color: #B5DEFC;
+	padding: 5px 10px 20px 5px;
+	margin: 0px 5px 10px 10px;
+	color: #454545;
+}
+
+p, td, li, ul, ol, h1, h2, h3, h4, h5, h6,input {
+	font-family: "Times New Roman",Times,serif;
+	line-height: 120%;
+}
+
+
+a:link {
+	color: navy;
+}
+a:visited {
+	color: purple;
+}
+a:hover {
+}
+a:active{
+	color: aqua;
+}
+
+#headtable {
+	border-bottom: 2px solid black;
+}
+
+td#search {
+	font-size: 80%;
+	width: 100%;
+	padding: 2px 20px 2px 20px;
+}
+
+#startsearch {
+	font-weight: bold;
+	background-color: #CEE7FF;
+	border: 1px solid black;
+	margin: 4px 0px 0px 0px;
+}
+
+form {
+	margin: 0;
+	padding: 0;
+}
+
+td#logo {
+   width: 200px;
+}
+
+td#logo img {
+	margin: 0px 0px 0px 0px;
+}
+
+#adbanner {
+   padding: 4px 10px 4px 10px;
+   margin-left: 140px;
+}
+
+#maintable {
+	border-top: 2px solid black;
+}
+
+td#nav {
+   width: 140px;
+}
+
+td#content {
+   background-color: #F3F9FF;
+   width: 100%;
+
+}
+#content p {
+	margin: 10px 30px 10px 30px;
+}
+
+#content h1 {
+	font-size: 28pt;
+	font-weight: 500;
+	font-family: "Times New Roman",times,serif;
+	letter-spacing: 0.07em;
+	text-align: center;
+	margin: 0px 30px 10px 30px;
+	color: black;
+}
+#content h2 {
+	font-size: 100%;
+	background-color: #B5DEFC;
+	color: black;
+	text-align: center;
+	padding: 2px;
+	margin: 5px 30px 5px 30px;
+}
+#content h3 {
+	font-size: 100%;
+	color: black;
+	font-weight: bold;
+	border-bottom: 2px solid #CEE7FF;
+	margin: 10px 30px 0px 30px;
+}
+#footer {
+	font-size: 75%;
+	color: #575757;
+	margin-left: 130px;
+	text-align: center;
+}
+dt.link {
+	margin: 0px 30px 0px 30px;
+}
+dd.link {
+	margin: 0px 30px 10px 60px;
+}
+.navbar {
+	list-style-type: none;
+	margin: 0 0 5px 0;
+	padding: 0;
+}
+
+.navbar A:link, .navbar A:visited, .navbar A:hover {
+	color: black;
+	text-decoration: none;
+	display: block;
+	width: 100%;
+	text-align: center;
+	font-weight: bold;
+}
+.navbar A:hover {
+	background-color: #8CCEF7;
+}
+.navbar #current {
+	background-color: #F3F9FF;
+}
+
+ul.navlist {
+	padding-left: 5px;
+	margin-left: 10px;
+}
+
+p.pagetext {
+	margin: .2em 5% .2em 5%;
+}
+dt.quote {
+	margin-left: 50px;
+	font-size: 115%;
+	margin-right: 100px;
+}
+dt.quote a:link, dt.quote a:visited {
+	color: #454545;
+	text-decoration: none;
+}
+dt.quote a:hover {
+	text-decoration: underline;
+}
+dd.author {
+	font-size: 94%;
+	margin: 0px 10px 10px 150px;
+}
+div.icons {
+	float: right;
+	padding-left: 10px;
+}
+ul.iconlist{
+	list-style-type: none;
+}
+.qotdhead {
+	margin-top: .5ex;
+	text-align: center;
+}
+blockquote.quotebig {
+	border: solid 1px black;
+	background-color: #FFFFFF;
+	padding: 0px 30px 0px 30px;
+}
+blockquote.quotebig dd {
+	margin-top: 8px;
+	margin-left: 4em;
+}
+blockquote.quotebig dt {
+	font-size: 114%;
+}
+
+			A.nav2 {
+				text-decoration: underline;
+				color: navy;
+				font-family: serif;
+				font-size: 10pt;
+			}
+			A.nav2:HOVER {
+				color: blue;
+			}
+			A.featured {
+				text-decoration: none;
+			}
+			A.featured:HOVER {
+				text-decoration: underline;
+			}
+		td.archiveDate {
+			font-size: 97%;
+			background-color: #D4ECFE;
+			font-weight: bold;
+		}
+		td.archiveAuthor {
+			font-size:90%;
+			background-color: #D4ECFE;
+		}
+		
+.featurerow {
+	font-size: 95%;
+	border-bottom: 2px solid #CEE7FF;
+	padding-bottom: 3px;
+}
+.authorrow {
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-bottom: 2px;
+}
+.authorbio {
+	font-style: italic;
+	font-size: 90%;
+}
+.subjectletter {
+	font-size: 110%;
+	text-align: center;
+	margin: .2em 5% .2em 5%;
+	border-bottom: 1px solid black;
+	color: black;
+}
+.subjects {
+	margin: .2em 5% .5em 5%;
+}
+.subjectnumber {
+	font-size: 75%;
+}
+.subjectAZ {
+	margin: .2em 5% .2em 5%;
+	padding: 2px 0 2px 0;
+	text-align: center;
+	background-color: #D4ECFE;
+}
+.authorhead, .authorletters, .authorhead2 {
+	text-align: center;
+	margin-left: 5%;
+	margin-right: 5%;
+	padding: 2px;
+}
+.authorletters {
+	background-color: #D4ECFE;
+	margin-bottom: 5px;
+}
+.authorhead2 {
+	background-color: #B5DEFC;
+	margin-top: 5px;
+}
+
+.rsslinks {
+	background-color: white;
+	width: 100%;
+	border: 2px solid #8CCEF7;
+	margin-top: 5px;
+	padding: 2px 5px 2px 5px;
+}
+
+.rsslinks p {
+	margin: 2px 5px 2px 5px;
+}
+
+.promo {
+	background-color: white;
+	margin: 2px 5px 2px 50px;
+	padding: 10px 10px 10px 10px;
+	border: 2px solid #555555;
+	width: 50%;
+}
+
+.twitterqotd {
+	vertical-align:top;
+}

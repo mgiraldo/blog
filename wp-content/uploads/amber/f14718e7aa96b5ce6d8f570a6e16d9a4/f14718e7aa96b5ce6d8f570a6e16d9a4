@@ -1,0 +1,899 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Web design - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"986d665d-beea-4822-9496-eafa89a7ccb6","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Web_design","wgTitle":"Web design","wgCurRevisionId":970749570,"wgRevisionId":970749570,"wgArticleId":34035,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: uses authors parameter","Wikipedia indefinitely semi-protected pages","Use British English from July 2016","All articles with vague or ambiguous time","Vague or ambiguous time from May 2016","All articles with specifically marked weasel-worded phrases",
+"Articles with specifically marked weasel-worded phrases from May 2016","Articles with Curlie links","Wikipedia articles with BNF identifiers","Wikipedia articles with LCCN identifiers","Wikipedia articles with NDL identifiers","Web design","Computer-related introductions in 1989","Communication design"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Web_design","wgRelevantArticleId":34035,"wgIsProbablyEditable":!1,"wgRelevantPageIsProbablyEditable":!1,"wgRestrictionEdit":["autoconfirmed"],"wgRestrictionMove":["autoconfirmed"],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English",
+"wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q190637"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart"
+,"ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="assets/3b055fed185f27e4e7f0020518908b58.css"/>
+<script async="" src="assets/c065145ab1ee4f734095d2092a9278ed.php"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="assets/dab0269550e613a8f8d91320ac5db71f.css"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.3"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Web_design"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Web_design rootpage-Web_design skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	<div id="mw-indicator-pp-default" class="mw-indicator"><a href="/wiki/Wikipedia:Protection_policy#semi" title="This article is semi-protected."><img alt="Page semi-protected" src="assets/1c425eb335eae318386eaec494b5ba58.png" decoding="async" width="20" height="20" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/30px-Semi-protection-shackle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/1b/Semi-protection-shackle.svg/40px-Semi-protection-shackle.svg.png 2x" data-file-width="512" data-file-height="512" /></a></div>
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Web design</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p>
+
+<b>Web design</b> encompasses many different skills and disciplines in the production and maintenance of <a href="/wiki/Website" title="Website">websites</a>. The different areas of web design include web graphic design; <a href="/wiki/Interface_design" class="mw-redirect" title="Interface design">interface design</a>; authoring, including standardised code and <a href="/wiki/Proprietary_software" title="Proprietary software">proprietary software</a>; <a href="/wiki/User_experience_design" title="User experience design">user experience design</a>; and <a href="/wiki/Search_engine_optimization" title="Search engine optimization">search engine optimization</a>. Often many individuals will work in teams covering different aspects of the design process, although some designers will cover them all.<sup id="cite_ref-different_jobs_1-0" class="reference"><a href="#cite_note-different_jobs-1">&#91;1&#93;</a></sup> The term "web design" is normally used to describe the design process relating to the front-end (client side) design of a website including writing <a href="/wiki/Markup_language" title="Markup language">markup</a>. Web design partially overlaps <a href="/wiki/Web_engineering" title="Web engineering">web engineering</a> in the broader scope of <a href="/wiki/Web_development" title="Web development">web development</a>. Web designers are expected to have an awareness of <a href="/wiki/Web_usability" title="Web usability">usability</a> and if their role involves creating markup then they are also expected to be up to date with <a href="/wiki/Web_accessibility" title="Web accessibility">web accessibility</a> guidelines.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#1988–2001"><span class="tocnumber">1.1</span> <span class="toctext">1988–2001</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#The_start_of_the_web_and_web_design"><span class="tocnumber">1.1.1</span> <span class="toctext">The start of the web and web design</span></a></li>
+<li class="toclevel-3 tocsection-4"><a href="#Evolution_of_web_design"><span class="tocnumber">1.1.2</span> <span class="toctext">Evolution of web design</span></a></li>
+<li class="toclevel-3 tocsection-5"><a href="#End_of_the_first_browser_wars"><span class="tocnumber">1.1.3</span> <span class="toctext">End of the first browser wars</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-6"><a href="#2001–2012"><span class="tocnumber">1.2</span> <span class="toctext">2001–2012</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Tools_and_technologies"><span class="tocnumber">2</span> <span class="toctext">Tools and technologies</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Skills_and_techniques"><span class="tocnumber">3</span> <span class="toctext">Skills and techniques</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Marketing_and_communication_design"><span class="tocnumber">3.1</span> <span class="toctext">Marketing and communication design</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#User_experience_design_and_interactive_design"><span class="tocnumber">3.2</span> <span class="toctext">User experience design and interactive design</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Page_layout"><span class="tocnumber">3.3</span> <span class="toctext">Page layout</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Typography"><span class="tocnumber">3.4</span> <span class="toctext">Typography</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Motion_graphics"><span class="tocnumber">3.5</span> <span class="toctext">Motion graphics</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Quality_of_code"><span class="tocnumber">3.6</span> <span class="toctext">Quality of code</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Generated_content"><span class="tocnumber">3.7</span> <span class="toctext">Generated content</span></a>
+<ul>
+<li class="toclevel-3 tocsection-16"><a href="#Static_websites"><span class="tocnumber">3.7.1</span> <span class="toctext">Static websites</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="#Dynamic_websites"><span class="tocnumber">3.7.2</span> <span class="toctext">Dynamic websites</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-18"><a href="#Homepage_design"><span class="tocnumber">4</span> <span class="toctext">Homepage design</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Occupations"><span class="tocnumber">5</span> <span class="toctext">Occupations</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a>
+<ul>
+<li class="toclevel-2 tocsection-21"><a href="#See_also_2"><span class="tocnumber">6.1</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Related_disciplines"><span class="tocnumber">6.2</span> <span class="toctext">Related disciplines</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-23"><a href="#Notes"><span class="tocnumber">7</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:WebDesignBooks.JPG" class="image"><img alt="" src="assets/bc3b2e90038de91b40e3b43b04ce5158.JPG" decoding="async" width="220" height="146" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/WebDesignBooks.JPG/330px-WebDesignBooks.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/WebDesignBooks.JPG/440px-WebDesignBooks.JPG 2x" data-file-width="4928" data-file-height="3264" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:WebDesignBooks.JPG" class="internal" title="Enlarge"></a></div>Web design books in a store</div></div></div>
+<h3><span id="1988.E2.80.932001"></span><span class="mw-headline" id="1988–2001">1988–2001</span></h3>
+<p>Although web design has a fairly recent history. It can be linked to other areas such as graphic design, user experience, and multimedia arts, but is more aptly seen from a technological standpoint. It has become a large part of people's everyday lives. It is hard to imagine the Internet without animated graphics, different styles of typography, background, and music.
+</p>
+<h4><span class="mw-headline" id="The_start_of_the_web_and_web_design">The start of the web and web design</span></h4>
+<p>In 1989, whilst working at <a href="/wiki/CERN" title="CERN">CERN</a> <a href="/wiki/Tim_Berners-Lee" title="Tim Berners-Lee">Tim Berners-Lee</a> proposed to create a global hypertext project, which later became known as the <a href="/wiki/World_Wide_Web" title="World Wide Web">World Wide Web</a>. During 1991 to 1993 the World Wide Web was born. Text-only pages could be viewed using a simple line-mode browser.<sup id="cite_ref-World_Wide_Web_2-0" class="reference"><a href="#cite_note-World_Wide_Web-2">&#91;2&#93;</a></sup>  In 1993 <a href="/wiki/Marc_Andreessen" title="Marc Andreessen">Marc Andreessen</a> and <a href="/wiki/Eric_Bina" title="Eric Bina">Eric Bina</a>, created the <a href="/wiki/Mosaic_browser" class="mw-redirect" title="Mosaic browser">Mosaic browser</a>. At the time there were multiple browsers, however the majority of them were Unix-based and naturally text heavy. There had been no integrated approach to graphic design elements such as images or sounds. The Mosaic browser broke this mould.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>  The <a href="/wiki/W3C" class="mw-redirect" title="W3C">W3C</a> was created in October 1994 to "lead the World Wide Web to its full potential by developing common protocols that promote its evolution and ensure its interoperability."<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>  This discouraged any one company from monopolizing a propriety browser and programming language, which could have altered the effect of the World Wide Web as a whole. The W3C continues to set standards, which can today be seen with JavaScript and other languages. In 1994 Andreessen formed Mosaic Communications Corp. that later became known as <a href="/wiki/Netscape_Communications" class="mw-redirect" title="Netscape Communications">Netscape Communications</a>, the Netscape 0.9 browser. Netscape created its own HTML tags without regard to the traditional standards process. For example, Netscape 1.1 included tags for changing background colours and formatting text with tables on web pages. Throughout 1996 to 1999 the <a href="/wiki/Browser_wars" title="Browser wars">browser wars</a> began, as <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a> and <a href="/wiki/Netscape" title="Netscape">Netscape</a> fought for ultimate browser dominance. During this time there were many new technologies in the field, notably <a href="/wiki/Cascading_Style_Sheets" title="Cascading Style Sheets">Cascading Style Sheets</a>, <a href="/wiki/JavaScript" title="JavaScript">JavaScript</a>, and <a href="/wiki/Dynamic_HTML" title="Dynamic HTML">Dynamic HTML</a>. On the whole, the browser competition did lead to many positive creations and helped web design evolve at a rapid pace.<sup id="cite_ref-Browsers_5-0" class="reference"><a href="#cite_note-Browsers-5">&#91;5&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="Evolution_of_web_design">Evolution of web design</span></h4>
+<p>In 1996, Microsoft released its first competitive browser, which was complete with its own features and HTML tags. It was also the first browser to support style sheets, which at the time was seen as an obscure authoring technique and is today an important aspect of web design.<sup id="cite_ref-Browsers_5-1" class="reference"><a href="#cite_note-Browsers-5">&#91;5&#93;</a></sup>  The <a href="/wiki/HTML_markup" class="mw-redirect" title="HTML markup">HTML markup</a> for <a href="/wiki/HTML_element#Tables" title="HTML element">tables</a> was originally intended for displaying tabular data. However designers quickly realized the potential of using HTML tables for creating the complex, multi-column layouts that were otherwise not possible. At this time, as design and good aesthetics seemed to take precedence over good mark-up structure, and little attention was paid to semantics and <a href="/wiki/Web_accessibility" title="Web accessibility">web accessibility</a>. HTML sites were limited in their design options, even more so with earlier versions of HTML. To create complex designs, many web designers had to use complicated table structures or even use blank <a href="/wiki/Spacer_.GIF" class="mw-redirect" title="Spacer .GIF">spacer .GIF</a> images to stop empty table cells from collapsing.<sup id="cite_ref-Chapman,_Evolution_6-0" class="reference"><a href="#cite_note-Chapman,_Evolution-6">&#91;6&#93;</a></sup> <a href="/wiki/CSS" class="mw-redirect" title="CSS">CSS</a> was introduced in December 1996 by the <a href="/wiki/W3C" class="mw-redirect" title="W3C">W3C</a> to support presentation and layout. This allowed <a href="/wiki/HTML" title="HTML">HTML</a> code to be semantic rather than both semantic and presentational, and improved web accessibility, see <a href="/wiki/Tableless_web_design" title="Tableless web design">tableless web design</a>.
+</p><p>In 1996, <a href="/wiki/Adobe_Flash" title="Adobe Flash">Flash</a> (originally known as FutureSplash) was developed. At the time, the Flash content development tool was relatively simple compared to now, using basic layout and drawing tools, a limited precursor to <a href="/wiki/ActionScript" title="ActionScript">ActionScript</a>, and a timeline, but it enabled web designers to go beyond the point of HTML, <a href="/wiki/Graphics_Interchange_Format#Animated_GIF" class="mw-redirect" title="Graphics Interchange Format">animated GIFs</a> and <a href="/wiki/JavaScript" title="JavaScript">JavaScript</a>. However, because Flash required a <a href="/wiki/Plug-in_(computing)" title="Plug-in (computing)">plug-in</a>, many web developers avoided using it for fear of limiting their market share due to lack of compatibility. Instead, designers reverted to gif animations (if they didn't forego using <a href="/wiki/Motion_graphics" title="Motion graphics">motion graphics</a> altogether) and JavaScript for <a href="/wiki/Software_widget" title="Software widget">widgets</a>. But the benefits of Flash made it popular enough among specific target markets to eventually work its way to the vast majority of browsers, and powerful enough to be used to develop entire sites.<sup id="cite_ref-Chapman,_Evolution_6-1" class="reference"><a href="#cite_note-Chapman,_Evolution-6">&#91;6&#93;</a></sup>
+</p>
+<h4><span class="mw-headline" id="End_of_the_first_browser_wars">End of the first browser wars</span></h4>
+<div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/Browser_wars#First_Browser_War_(1995–2001)" title="Browser wars">Browser wars §&#160;First Browser War (1995–2001)</a></div>
+<p>In 1998, Netscape released Netscape Communicator code under an <a href="/wiki/Open-source_license" title="Open-source license">open source licence</a>, enabling thousands of developers to participate in improving the software. However, these developers decided to start a standard for the web from scratch, which guided the development of the open source browser and soon expanded to a complete application platform.<sup id="cite_ref-Browsers_5-2" class="reference"><a href="#cite_note-Browsers-5">&#91;5&#93;</a></sup>  The <a href="/wiki/Web_Standards_Project" title="Web Standards Project">Web Standards Project</a> was formed and promoted browser compliance with <a href="/wiki/Comparison_of_layout_engines_(HTML)" class="mw-redirect" title="Comparison of layout engines (HTML)">HTML</a> and <a href="/wiki/Comparison_of_layout_engines_(Cascading_Style_Sheets)" class="mw-redirect" title="Comparison of layout engines (Cascading Style Sheets)">CSS</a> standards. Programs like <a href="/wiki/Acid1" title="Acid1">Acid1</a>, <a href="/wiki/Acid2" title="Acid2">Acid2</a>, and <a href="/wiki/Acid3" title="Acid3">Acid3</a> were created in order to test browsers for compliance with web standards. In 2000, Internet Explorer was released for Mac, which was the first browser that fully supported HTML 4.01 and CSS 1. It was also the first browser to fully support the <a href="/wiki/Portable_Network_Graphics" title="Portable Network Graphics">PNG</a> image format.<sup id="cite_ref-Browsers_5-3" class="reference"><a href="#cite_note-Browsers-5">&#91;5&#93;</a></sup> By 2001, after a campaign by Microsoft to popularize Internet Explorer, Internet Explorer had reached 96% of <a href="/wiki/Usage_share_of_web_browsers" title="Usage share of web browsers">web browser usage share</a>, which signified the end of the first browsers wars as Internet Explorer had no real competition.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h3><span id="2001.E2.80.932012"></span><span class="mw-headline" id="2001–2012">2001–2012</span></h3>
+<p>Since the start of the 21st century the web has become more and more integrated into peoples lives. As this has happened the technology of the web has also moved on. There have also been significant changes in the way people use and access the web, and this has changed how sites are designed.
+</p><p>Since the end of the <a href="/wiki/Browser_wars" title="Browser wars">browsers wars</a><sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items" title="Wikipedia:Manual of Style/Dates and numbers"><span title="The time period mentioned near this tag is ambiguous. (May 2016)">when?</span></a></i>&#93;</sup> new browsers have been released. Many of these are <a href="/wiki/Open-source_software" title="Open-source software">open source</a> meaning that they tend to have faster development and are more supportive of new standards. The new options are considered by many<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Avoid_weasel_words" class="mw-redirect" title="Wikipedia:Avoid weasel words"><span title="Who says this? (May 2016)">weasel&#160;words</span></a></i>&#93;</sup> to be better than Microsoft's <a href="/wiki/Internet_Explorer" title="Internet Explorer">Internet Explorer</a>.
+</p><p>The <a href="/wiki/World_Wide_Web_Consortium" title="World Wide Web Consortium">W3C</a> has released new standards for HTML (<a href="/wiki/HTML5" title="HTML5">HTML5</a>) and CSS (<a href="/wiki/CSS3" class="mw-redirect" title="CSS3">CSS3</a>), as well as new <a href="/wiki/JavaScript" title="JavaScript">JavaScript</a> <a href="/wiki/Application_programming_interface" title="Application programming interface">API's</a>, each as a new but individual standard.<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items" title="Wikipedia:Manual of Style/Dates and numbers"><span title="The time period mentioned near this tag is ambiguous. (May 2016)">when?</span></a></i>&#93;</sup> While the term HTML5 is only used to refer to the new version of HTML and <i>some</i> of the JavaScript API's, it has become common to use it to refer to the entire suite of new standards (HTML5, CSS3 and JavaScript).
+</p>
+<h2><span class="mw-headline" id="Tools_and_technologies">Tools and technologies</span></h2>
+<p>Web designers use a variety of different tools depending on what part of the production process they are involved in. These tools are updated over time by newer standards and software but the principles behind them remain the same. Web designers use both <a href="/wiki/Vector_graphics_editor" title="Vector graphics editor">vector</a> and <a href="/wiki/Raster_graphics_editor" title="Raster graphics editor">raster</a> graphics editors to create web-formatted imagery or design prototypes. Technologies used to create websites include W3C standards like HTML and CSS, which can be hand-coded or generated by <a href="/wiki/Website_builder" title="Website builder">WYSIWYG editing software</a>. Other tools web designers might use include mark up <a href="/wiki/HTML_validator" class="mw-redirect" title="HTML validator">validators</a><sup id="cite_ref-W3C_validator_8-0" class="reference"><a href="#cite_note-W3C_validator-8">&#91;8&#93;</a></sup> and other testing tools for usability and accessibility to ensure their websites meet web accessibility guidelines.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Skills_and_techniques">Skills and techniques</span></h2>
+<h3><span class="mw-headline" id="Marketing_and_communication_design">Marketing and communication design</span></h3>
+<p>Marketing and communication design on a website may identify what works for its target market. This can be an age group or particular strand of culture; thus the designer may understand the trends of its audience. Designers may also understand the type of website they are designing, meaning, for example, that (B2B) <a href="/wiki/Business-to-business" title="Business-to-business">business-to-business</a> website design considerations might differ greatly from a consumer targeted website such as a <a href="/wiki/Retail" title="Retail">retail</a> or entertainment website. Careful consideration might be made to ensure that the aesthetics or overall design of a site do not clash with the clarity and accuracy of the content or the ease of <a href="/wiki/Web_navigation" title="Web navigation">web navigation</a>,<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> especially on a B2B website. Designers may also consider the reputation of the owner or business the site is representing to make sure they are portrayed favourably.
+</p>
+<h3><span class="mw-headline" id="User_experience_design_and_interactive_design">User experience design and interactive design</span></h3>
+<p>User understanding of the content of a website often depends on user understanding of how the website works. This is part of the <a href="/wiki/User_experience_design" title="User experience design">user experience design</a>. User experience is related to layout, clear instructions and labeling on a website. How well a user understands how they can interact on a site may also depend on the <a href="/wiki/Interactive_design" title="Interactive design">interactive design</a> of the site. If a user perceives the usefulness of the website, they are more likely to continue using it. Users who are skilled and well versed with website use may find a more distinctive, yet less intuitive or less <a href="/wiki/Usability" title="Usability">user-friendly</a> website interface useful nonetheless. However, users with less experience are less likely to see the advantages or usefulness of a less intuitive website interface. This drives the trend for a more universal user experience and ease of access to accommodate as many users as possible regardless of user skill.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>  Much of the user experience design and interactive design are considered in the <a href="/wiki/User_interface_design" title="User interface design">user interface design</a>.
+</p><p>Advanced interactive functions may require <a href="/wiki/Plug-in_(computing)" title="Plug-in (computing)">plug-ins</a> if not advanced coding language skills. Choosing whether or not to use interactivity that requires plug-ins is a critical decision in user experience design. If the plug-in doesn't come pre-installed with most browsers, there's a risk that the user will have neither the know how or the patience to install a plug-in just to access the content. If the function requires advanced coding language skills, it may be too costly in either time or money to code compared to the amount of enhancement the function will add to the user experience. There's also a risk that advanced interactivity may be incompatible with older browsers or hardware configurations. Publishing a function that doesn't work reliably is potentially worse for the user experience than making no attempt. It depends on the target audience if it's likely to be needed or worth any risks.
+</p>
+<h3><span class="mw-headline" id="Page_layout">Page layout</span></h3>
+<p>Part of the user interface design is affected by the quality of the <a href="/wiki/Page_layout" title="Page layout">page layout</a>.  For example, a designer may consider whether the site's page layout should remain consistent on different pages when designing the layout.  Page pixel width may also be considered vital for aligning objects in the layout design. The most popular fixed-width websites generally have the same set width to match the current most popular browser window, at the current most popular screen resolution, on the current most popular monitor size. Most pages are also center-aligned for concerns of <a href="/wiki/Aesthetics" title="Aesthetics">aesthetics</a> on larger screens.
+</p><p><b>Fluid layouts</b> increased in popularity around 2000 as an alternative to HTML-table-based layouts and <a href="/wiki/Grid_(page_layout)" class="mw-redirect" title="Grid (page layout)">grid-based design</a> in both page layout design principle and in coding technique, but were very slow to be adopted.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;note 1&#93;</a></sup> This was due to considerations of <a href="/wiki/Screen_reader" title="Screen reader">screen reading devices</a> and varying windows sizes which designers have no control over. Accordingly, a design may be broken down into units (sidebars, content blocks, <a href="/wiki/Web_banner" title="Web banner">embedded advertising</a> areas, navigation areas) that are sent to the browser and which will be fitted into the display window by the browser, as best it can. As the browser does recognize the details of the reader's screen (window size, font size relative to window etc.) the browser can make user-specific layout adjustments to fluid layouts, but not fixed-width layouts. Although such a display may often change the relative position of major content units, sidebars may be displaced below <a href="/wiki/Body_text" title="Body text">body text</a> rather than to the side of it. This is a more flexible display than a hard-coded grid-based layout that doesn't fit the device window. In particular, the relative position of content blocks may change while leaving the content within the block unaffected. This also minimizes the user's need to horizontally scroll the page.
+</p><p><a href="/wiki/Responsive_web_design" title="Responsive web design">Responsive web design</a> is a newer approach, based on CSS3, and a deeper level of per-device specification within the page's style sheet through an enhanced use of the CSS <code>@media</code> rule. In March 2018 Google announced they would be rolling out mobile-first indexing.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;12&#93;</a></sup> Sites using responsive design are well placed to ensure they meet this new approach.
+</p>
+<h3><span class="mw-headline" id="Typography">Typography</span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Typography" title="Typography">typography</a></div>
+<p>Web designers may choose to limit the variety of website typefaces to only a few which are of a similar style, instead of using a wide range of <a href="/wiki/Typeface" title="Typeface">typefaces</a> or <a href="/wiki/Typeface#Style_of_typefaces" title="Typeface">type styles</a>. Most browsers recognize a specific number of safe fonts, which designers mainly use in order to avoid complications.
+</p><p>Font downloading was later included in the CSS3 fonts module and has since been implemented in Safari 3.1, Opera 10 and Mozilla Firefox 3.5. This has subsequently increased interest in <a href="/wiki/Web_typography" title="Web typography">web typography</a>, as well as the usage of font downloading.
+</p><p>Most site layouts incorporate negative space to break the text up into paragraphs and also avoid center-aligned text.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;13&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Motion_graphics">Motion graphics</span></h3>
+<p>The page layout and user interface may also be affected by the use of motion graphics. The choice of whether or not to use motion graphics may depend on the target market for the website. Motion graphics may be expected or at least better received with an entertainment-oriented website. However, a website target audience with a more serious or formal interest (such as business, community, or government) might find animations unnecessary and distracting if only for entertainment or decoration purposes. This doesn't mean that more serious content couldn't be enhanced with animated or video presentations that is relevant to the content. In either case, <a href="/wiki/Motion_graphic_design" title="Motion graphic design">motion graphic design</a> may make the difference between more effective visuals or distracting visuals.
+</p><p>Motion graphics that are not initiated by the site visitor can produce accessibility issues. The World Wide Web consortium accessibility standards require that site visitors be able to disable the animations.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;14&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Quality_of_code">Quality of code</span></h3>
+<p>Website designers may consider it to be good practice to conform to standards. This is usually done via a description specifying what the element is doing. Failure to conform to standards may not make a website unusable or error prone, but standards can relate to the correct layout of pages for readability as well making sure coded elements are closed appropriately. This includes errors in code, more organized layout for code, and making sure IDs and classes are identified properly. Poorly-coded pages are sometimes colloquially called <a href="/wiki/Tag_soup" title="Tag soup">tag soup</a>. <a href="/wiki/W3C_Markup_Validation_Service" title="W3C Markup Validation Service">Validating via W3C</a><sup id="cite_ref-W3C_validator_8-1" class="reference"><a href="#cite_note-W3C_validator-8">&#91;8&#93;</a></sup> can only be done when a correct DOCTYPE declaration is made, which is used to highlight errors in code. The system identifies the errors and areas that do not conform to web design standards. This information can then be corrected by the user.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;15&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Generated_content">Generated content</span></h3>
+<p>There are two ways websites are generated: statically or dynamically.
+</p>
+<h4><span class="mw-headline" id="Static_websites">Static websites</span></h4>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Static_web_page" title="Static web page">Static web page</a></div>
+<p>A static website stores a unique file for every page of a static website. Each time that page is requested, the same content is returned. This content is created once, during the design of the website. It is usually manually authored, although some sites use an automated creation process, similar to a dynamic website, whose results are stored long-term as completed pages. These automatically-created static sites became more popular around 2015, with generators such as <a href="/wiki/Jekyll_(software)" title="Jekyll (software)">Jekyll</a> and <a href="/wiki/Adobe_Muse" title="Adobe Muse">Adobe Muse</a>.<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;16&#93;</a></sup>
+</p><p>The benefits of a static website are that they were simpler to host, as their server only needed to serve static content, not execute server-side scripts. This required less server administration and had less chance of exposing security holes. They could also serve pages more quickly, on low-cost server hardware. These advantage became less important as cheap web hosting expanded to also offer dynamic features, and <a href="/wiki/Virtual_machine" title="Virtual machine">virtual servers</a> offered high performance for short intervals at low cost.
+</p><p>Almost all websites have some static content, as supporting assets such as images and style sheets are usually static, even on a website with highly dynamic pages.
+</p>
+<h4><span class="mw-headline" id="Dynamic_websites">Dynamic websites</span></h4>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Dynamic_web_page" title="Dynamic web page">Dynamic web page</a></div>
+<p>Dynamic websites are generated on the fly and use server-side technology to generate webpages. They typically extract their content from one or more back-end databases: some are database queries across a relational database to query a catalogue or to summarise numeric information, others may use a <a href="/wiki/Document_database" class="mw-redirect" title="Document database">document database</a> such as <a href="/wiki/MongoDB" title="MongoDB">MongoDB</a> or <a href="/wiki/NoSQL" title="NoSQL">NoSQL</a> to store larger units of content, such as blog posts or wiki articles.
+</p><p>In the design process, dynamic pages are often mocked-up or <a href="/wiki/Website_wireframe" title="Website wireframe">wireframed</a> using static pages. The skillset needed to develop dynamic web pages is much broader than for a static pages, involving server-side and database coding as well as client-side interface design. Even medium-sized dynamic projects are thus almost always a team effort.
+</p><p>When dynamic web pages first developed, they were typically coded directly in languages such as <a href="/wiki/Perl" title="Perl">Perl</a>, <a href="/wiki/PHP" title="PHP">PHP</a> or <a href="/wiki/Active_Server_Pages" title="Active Server Pages">ASP</a>. Some of these, notably PHP and ASP, used a 'template' approach where a server-side page resembled the structure of the completed client-side page and data was inserted into places defined by 'tags'. This was a quicker means of development than coding in a purely procedural coding language such as Perl.
+</p><p>Both of these approaches have now been supplanted for many websites by higher-level application-focused tools such as <a href="/wiki/Content_management_system" title="Content management system">content management systems</a>.  These build on top of general purpose coding platforms and assume that a website exists to offer content according to one of several well recognised models, such as a time-sequenced <a href="/wiki/Blog" title="Blog">blog</a>, a thematic magazine or news site, a wiki or a user forum. These tools make the implementation of such a site very easy, and a purely organisational and design-based task, without requiring any coding.
+</p><p>Editing the content itself (as well as the template page) can be done both by means of the site itself, and with the use of third-party software. The ability to edit all pages is provided only to a specific category of users (for example, administrators, or registered users). In some cases, anonymous users are allowed to edit certain web content, which is less frequent (for example, on forums - adding messages). An example of a site with an anonymous change is <a href="/wiki/Wikipedia" title="Wikipedia">Wikipedia</a>.
+</p>
+<h2><span class="mw-headline" id="Homepage_design">Homepage design</span></h2>
+<p>Usability experts, including <a href="/wiki/Jakob_Nielsen_(usability_consultant)" title="Jakob Nielsen (usability consultant)">Jakob Nielsen</a> and Kyle Soucy, have often emphasised homepage design for website success and asserted that the homepage is the most important page on a website.<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;17&#93;</a></sup><cite id="CITEREFNielsenTahir2001" class="citation cs2">Nielsen, Jakob; Tahir, Marie (October 2001), <a rel="nofollow" class="external text" href="https://archive.org/details/homepageusabilit00jako_0"><i>Homepage Usability: 50 Websites Deconstructed</i></a>, New Riders Publishing, <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-0735711020" title="Special:BookSources/978-0735711020"><bdi>978-0735711020</bdi></a></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Homepage+Usability%3A+50+Websites+Deconstructed&amp;rft.pub=New+Riders+Publishing&amp;rft.date=2001-10&amp;rft.isbn=978-0735711020&amp;rft.aulast=Nielsen&amp;rft.aufirst=Jakob&amp;rft.au=Tahir%2C+Marie&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fhomepageusabilit00jako_0&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+design" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r951705291">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background-image:url("assets/d4e7cc61232afb2b2b94df937ca19111.png");background-image:linear-gradient(transparent,transparent),url("assets/bd670353c83f78ac9bf7920d3135114a.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background-image:url("assets/6e4cfa7b3160bba14bae3b7c771d6b1e.png");background-image:linear-gradient(transparent,transparent),url("assets/a37b208d8a82dd697fbb820509243556.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background-image:url("assets/0225d20521fa7e24cfc3d4845805124a.png");background-image:linear-gradient(transparent,transparent),url("assets/407b2f7ef21a3c79d854bf0d6e7f538b.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background-image:url("assets/a9fe05a6cf353fa7e0c0643bf92fb39c.png");background-image:linear-gradient(transparent,transparent),url("assets/44712c5455c69cd59c93962ea0465e79.svg");background-repeat:no-repeat;background-size:12px;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;18&#93;</a></sup><sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;19&#93;</a></sup> However practitioners into the 2000s were starting to find that a growing number of website traffic was bypassing the homepage, going directly to internal content pages through search engines, e-newsletters and RSS feeds.<sup id="cite_ref-21" class="reference"><a href="#cite_note-21">&#91;20&#93;</a></sup> Leading many practitioners to argue that homepages are less important than most people think.<sup id="cite_ref-22" class="reference"><a href="#cite_note-22">&#91;21&#93;</a></sup><sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;22&#93;</a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;23&#93;</a></sup><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;24&#93;</a></sup> Jared Spool argued in 2007 that a site's homepage was actually the least important page on a website.<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;25&#93;</a></sup>
+</p><p>In 2012 and 2013, carousels (also called 'sliders' and 'rotating banners') have become an extremely popular design element on homepages, often used to showcase featured or recent content in a confined space.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;26&#93;</a></sup><sup id="cite_ref-Messner2013_28-0" class="reference"><a href="#cite_note-Messner2013-28">&#91;27&#93;</a></sup> Many practitioners argue that carousels are an ineffective design element and hurt a website's search engine optimisation and usability.<sup id="cite_ref-Messner2013_28-1" class="reference"><a href="#cite_note-Messner2013-28">&#91;27&#93;</a></sup><sup id="cite_ref-29" class="reference"><a href="#cite_note-29">&#91;28&#93;</a></sup><sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;29&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Occupations">Occupations</span></h2>
+<p>There are two primary jobs involved in creating a website: the web designer and <a href="/wiki/Web_developer" title="Web developer">web developer</a>, who often work closely together on a website.<sup id="cite_ref-careersinwebdesign_31-0" class="reference"><a href="#cite_note-careersinwebdesign-31">&#91;30&#93;</a></sup> The web designers are responsible for the visual aspect, which includes the layout, coloring and typography of a web page. Web designers will also have a working knowledge of <a href="/wiki/Markup_language" title="Markup language">markup languages</a> such as HTML and CSS, although the extent of their knowledge will differ from one web designer to another.  Particularly in smaller organizations, one person will need the necessary skills for designing and programming the full web page, while larger organizations may have a web designer responsible for the visual aspect alone.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;31&#93;</a></sup>
+</p><p>Further jobs which may become involved in the creation of a website include:  
+</p>
+<ul><li><a href="/wiki/Graphic_designers" class="mw-redirect" title="Graphic designers">Graphic designers</a> to create visuals for the site such as logos, layouts and buttons</li>
+<li>Internet marketing specialists to help maintain web presence through strategic solutions on targeting viewers to the site, by using marketing and promotional techniques on the internet</li>
+<li>SEO writers to research and recommend the correct words to be incorporated into a particular website and make the website more accessible and found on numerous search engines<sup id="cite_ref-33" class="reference"><a href="#cite_note-33">&#91;32&#93;</a></sup></li>
+<li>Internet copywriter to create the written content of the page to appeal to the targeted viewers of the site<sup id="cite_ref-different_jobs_1-1" class="reference"><a href="#cite_note-different_jobs-1">&#91;1&#93;</a></sup></li>
+<li>User experience <a href="/wiki/User_experience_design" title="User experience design">(UX) designer</a> incorporates aspects of user-focused design considerations which include information architecture, user-centered design, user testing, interaction design, and occasionally visual design.</li></ul>
+<h2><span class="mw-headline" id="See_also">See also</span></h2>
+<h3><span class="mw-headline" id="See_also_2">See also</span></h3>
+<table style="width:100%;">
+
+<tbody><tr valign="top">
+<td style="width:33%;">
+<ul><li><a href="/wiki/Aesthetics" title="Aesthetics">Aesthetics</a></li>
+<li><a href="/wiki/Color_theory" title="Color theory">Color theory</a></li>
+<li><a href="/wiki/Composition_(visual_arts)" title="Composition (visual arts)">Composition (visual arts)</a></li>
+<li><a href="/wiki/Cross-browser" class="mw-redirect" title="Cross-browser">Cross-browser</a></li>
+<li><a href="/wiki/Design_education" title="Design education">Design education</a></li>
+<li><a href="/wiki/Design_principles_and_elements" class="mw-redirect" title="Design principles and elements">Design principles and elements</a></li>
+<li><a href="/wiki/Drawing" title="Drawing">Drawing</a></li>
+<li><a href="/wiki/Dark_pattern" title="Dark pattern">Dark pattern</a></li>
+<li><a href="/wiki/European_Design_Awards" class="mw-redirect" title="European Design Awards">European Design Awards</a></li>
+<li><a href="/wiki/First_Things_First_2000_manifesto" title="First Things First 2000 manifesto">First Things First 2000 manifesto</a></li></ul>
+</td>
+<td style="width:33%;">
+<ul><li><a href="/wiki/Graphic_art_software" title="Graphic art software">Graphic art software</a></li>
+<li><a href="/wiki/Graphic_design_occupations" title="Graphic design occupations">Graphic design occupations</a></li>
+<li><a href="/wiki/Graphics" title="Graphics">Graphics</a></li>
+<li><a href="/wiki/Information_graphics" class="mw-redirect" title="Information graphics">Information graphics</a></li>
+<li><a href="/wiki/Category:Graphic_design_schools" title="Category:Graphic design schools">List of graphic design institutions</a></li>
+<li><a href="/wiki/List_of_graphic_designers" title="List of graphic designers">List of notable graphic designers</a></li>
+<li><a href="/wiki/Logotype" class="mw-redirect" title="Logotype">Logotype</a></li>
+<li><a href="/wiki/Outline_of_web_design_and_web_development" title="Outline of web design and web development">Outline of web design and web development</a></li>
+<li><a href="/wiki/Progressive_Enhancement" class="mw-redirect" title="Progressive Enhancement">Progressive Enhancement</a></li></ul>
+</td>
+<td style="width:33%;">
+<ul><li><a href="/wiki/Style_guide" title="Style guide">Style guide</a></li>
+<li><a href="/wiki/Web_2.0" title="Web 2.0">Web 2.0</a></li>
+<li><a href="/wiki/Web_colors" title="Web colors">Web colors</a></li>
+<li><a href="/wiki/Web_safe_fonts" class="mw-redirect" title="Web safe fonts">Web safe fonts</a></li>
+<li><a href="/wiki/Web_usability" title="Web usability">Web usability</a></li>
+<li><a href="/wiki/Web_application_framework" class="mw-redirect" title="Web application framework">Web application framework</a></li>
+<li><a href="/wiki/Website_builder" title="Website builder">Website builder</a></li>
+<li><a href="/wiki/Website_wireframe" title="Website wireframe">Website wireframe</a></li></ul>
+</td></tr></tbody></table>
+<h3><span class="mw-headline" id="Related_disciplines">Related disciplines</span></h3>
+<table style="width:100%;">
+
+<tbody><tr valign="top">
+<td style="width:33%;">
+<ul><li><a href="/wiki/Communication_design" title="Communication design">Communication design</a></li>
+<li><a href="/wiki/Copywriting" title="Copywriting">Copywriting</a></li>
+<li><a href="/wiki/Desktop_publishing" title="Desktop publishing">Desktop publishing</a></li>
+<li><a href="/wiki/Digital_illustration" title="Digital illustration">Digital illustration</a></li>
+<li><a href="/wiki/Graphic_design" title="Graphic design">Graphic design</a></li>
+<li><a href="/wiki/Interaction_design" title="Interaction design">Interaction design</a></li></ul>
+</td>
+<td style="width:33%;">
+<ul><li><a href="/wiki/Information_design" title="Information design">Information design</a></li>
+<li><a href="/wiki/Light-on-dark_color_scheme" title="Light-on-dark color scheme">Light-on-dark color scheme</a></li>
+<li><a href="/wiki/Marketing_communications" title="Marketing communications">Marketing communications</a></li>
+<li><a href="/wiki/Motion_graphic_design" title="Motion graphic design">Motion graphic design</a></li>
+<li><a href="/wiki/New_media" title="New media">New media</a></li>
+<li><a href="/wiki/Search_engine_optimization" title="Search engine optimization">Search engine optimization</a> (SEO)</li></ul>
+</td>
+<td style="width:33%;">
+<ul><li><a href="/wiki/Technical_Writer" class="mw-redirect" title="Technical Writer">Technical Writer</a></li>
+<li><a href="/wiki/Typography" title="Typography">Typography</a></li>
+<li><a href="/wiki/User_experience" title="User experience">User experience</a></li>
+<li><a href="/wiki/User_interface_design" title="User interface design">User interface design</a></li>
+<li><a href="/wiki/Web_development" title="Web development">Web development</a></li>
+<li><a href="/wiki/Computer_animation#Web_animations" title="Computer animation">Web animations</a></li></ul>
+</td></tr></tbody></table>
+<h2><span class="mw-headline" id="Notes">Notes</span></h2>
+<div class="reflist" style="list-style-type: lower-roman;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><code>&lt;table&gt;</code>-based markup and <a href="/wiki/Spacer_.GIF" class="mw-redirect" title="Spacer .GIF">spacer .GIF</a> images</span>
+</li>
+</ol></div></div>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-different_jobs-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-different_jobs_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-different_jobs_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFLester" class="citation web cs1">Lester, Georgina. <a rel="nofollow" class="external text" href="http://www.arts-wales.co.uk/index.php?option=com_content&amp;task=view&amp;id=152&amp;Itemid=48">"Different jobs and responsibilities of various people involved in creating a website"</a>. Arts Wales UK<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-03-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Different+jobs+and+responsibilities+of+various+people+involved+in+creating+a+website&amp;rft.pub=Arts+Wales+UK&amp;rft.aulast=Lester&amp;rft.aufirst=Georgina&amp;rft_id=http%3A%2F%2Fwww.arts-wales.co.uk%2Findex.php%3Foption%3Dcom_content%26task%3Dview%26id%3D152%26Itemid%3D48&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-World_Wide_Web-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-World_Wide_Web_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.w3.org/People/Berners-Lee/Longer.html">"Longer Biography"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-03-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Longer+Biography&amp;rft_id=http%3A%2F%2Fwww.w3.org%2FPeople%2FBerners-Lee%2FLonger.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.techopedia.com/images/pdfs/history-of-the-internet.pdf">"Mosaic Browser"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-03-16</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Mosaic+Browser&amp;rft_id=http%3A%2F%2Fwww.techopedia.com%2Fimages%2Fpdfs%2Fhistory-of-the-internet.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book cs1">Zwicky, E.D, Cooper, S and Chapman, D.B. (2000). <a rel="nofollow" class="external text" href="https://archive.org/details/buildinginternet00zwic/page/804"><i>Building Internet Firewalls</i></a>. United States: O’Reily &amp; Associates. p.&#160;<a rel="nofollow" class="external text" href="https://archive.org/details/buildinginternet00zwic/page/804">804</a>. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-56592-871-7" title="Special:BookSources/1-56592-871-7"><bdi>1-56592-871-7</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Building+Internet+Firewalls&amp;rft.place=United+States&amp;rft.pages=804&amp;rft.pub=O%E2%80%99Reily+%26+Associates&amp;rft.date=2000&amp;rft.isbn=1-56592-871-7&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fbuildinginternet00zwic%2Fpage%2F804&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+design" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: uses authors parameter (<a href="/wiki/Category:CS1_maint:_uses_authors_parameter" title="Category:CS1 maint: uses authors parameter">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Browsers-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-Browsers_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Browsers_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Browsers_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Browsers_5-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFNiederst2006" class="citation book cs1">Niederst, Jennifer (2006). <a rel="nofollow" class="external text" href="https://books.google.com/books?id=bdf4vS2n7N8C&amp;pg=PT42&amp;dq=history+of+web+design&amp;hl=en&amp;sa=X&amp;ei=NZxgT7SXKJL98QPvvbGmBw&amp;ved=0CF4Q6AEwAw#v=onepage&amp;q=history%20of%20web%20design&amp;f=false"><i>Web Design In a Nutshell</i></a>. United States of America: O'Reilly Media. pp.&#160;12–14. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-596-00987-9" title="Special:BookSources/0-596-00987-9"><bdi>0-596-00987-9</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Web+Design+In+a+Nutshell&amp;rft.place=United+States+of+America&amp;rft.pages=12-14&amp;rft.pub=O%27Reilly+Media&amp;rft.date=2006&amp;rft.isbn=0-596-00987-9&amp;rft.aulast=Niederst&amp;rft.aufirst=Jennifer&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Dbdf4vS2n7N8C%26pg%3DPT42%26dq%3Dhistory%2Bof%2Bweb%2Bdesign%26hl%3Den%26sa%3DX%26ei%3DNZxgT7SXKJL98QPvvbGmBw%26ved%3D0CF4Q6AEwAw%23v%3Donepage%26q%3Dhistory%2520of%2520web%2520design%26f%3Dfalse&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Chapman,_Evolution-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Chapman,_Evolution_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Chapman,_Evolution_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFChapman" class="citation cs2">Chapman, Cameron, <a rel="nofollow" class="external text" href="https://web.archive.org/web/20131030030802/http://sixrevisions.com/web_design/the-evolution-of-web-design/"><i>The Evolution of Web Design</i></a>, Six Revisions, archived from <a rel="nofollow" class="external text" href="http://sixrevisions.com/web_design/the-evolution-of-web-design/">the original</a> on 30 October 2013</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Evolution+of+Web+Design&amp;rft.pub=Six+Revisions&amp;rft.aulast=Chapman&amp;rft.aufirst=Cameron&amp;rft_id=http%3A%2F%2Fsixrevisions.com%2Fweb_design%2Fthe-evolution-of-web-design%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://amo.net/NT/01-30-01MSFTIE6.html">"AMO.NET America's Multimedia Online (Internet Explorer 6 PREVIEW)"</a>. <i>amo.net</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-05-27</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=amo.net&amp;rft.atitle=AMO.NET+America%27s+Multimedia+Online+%28Internet+Explorer+6+PREVIEW%29&amp;rft_id=http%3A%2F%2Famo.net%2FNT%2F01-30-01MSFTIE6.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-W3C_validator-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-W3C_validator_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-W3C_validator_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://validator.w3.org/">"W3C Markup Validation Service"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=W3C+Markup+Validation+Service&amp;rft_id=http%3A%2F%2Fvalidator.w3.org%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite id="CITEREFW3C" class="citation web cs1">W3C. <a rel="nofollow" class="external text" href="http://www.w3.org/WAI/">"Web Accessibility Initiative (WAI)"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Web+Accessibility+Initiative+%28WAI%29&amp;rft.au=W3C&amp;rft_id=http%3A%2F%2Fwww.w3.org%2FWAI%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite id="CITEREFTHORLACIUS2007" class="citation journal cs1">THORLACIUS, LISBETH (2007). <a rel="nofollow" class="external text" href="http://www.nordicom.gu.se/en/tidskrifter/nordicom-review-12007/role-aesthetics-web-design">"The Role of Aesthetics in Web Design"</a>. <i>Nordicom Review</i> (28): 63–76<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-07-18</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Nordicom+Review&amp;rft.atitle=The+Role+of+Aesthetics+in+Web+Design&amp;rft.issue=28&amp;rft.pages=63-76&amp;rft.date=2007&amp;rft.aulast=THORLACIUS&amp;rft.aufirst=LISBETH&amp;rft_id=http%3A%2F%2Fwww.nordicom.gu.se%2Fen%2Ftidskrifter%2Fnordicom-review-12007%2Frole-aesthetics-web-design&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite id="CITEREFCastañedaMuñoz-Leiva2007" class="citation journal cs1">Castañeda, J.A Francisco; Muñoz-Leiva, Teodoro Luque (2007). "Web Acceptance Model (WAM): Moderating effects of user experience". <i>Information &amp; Management</i>. <b>44</b>: 384–396. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1016%2Fj.im.2007.02.003">10.1016/j.im.2007.02.003</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Information+%26+Management&amp;rft.atitle=Web+Acceptance+Model+%28WAM%29%3A+Moderating+effects+of+user+experience&amp;rft.volume=44&amp;rft.pages=384-396&amp;rft.date=2007&amp;rft_id=info%3Adoi%2F10.1016%2Fj.im.2007.02.003&amp;rft.aulast=Casta%C3%B1eda&amp;rft.aufirst=J.A+Francisco&amp;rft.au=Mu%C3%B1oz-Leiva%2C+Teodoro+Luque&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation news cs1"><a rel="nofollow" class="external text" href="https://webmasters.googleblog.com/2018/03/rolling-out-mobile-first-indexing.html">"Rolling out mobile-first indexing"</a>. <i>Official Google Webmaster Central Blog</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2018-06-09</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Official+Google+Webmaster+Central+Blog&amp;rft.atitle=Rolling+out+mobile-first+indexing&amp;rft_id=https%3A%2F%2Fwebmasters.googleblog.com%2F2018%2F03%2Frolling-out-mobile-first-indexing.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite id="CITEREFStone2009" class="citation web cs1">Stone, John (2009-11-16). <a rel="nofollow" class="external text" href="http://webdesignledger.com/tips/20-dos-and-donts-of-effective-web-typography">"20 Do's and Don'ts of Effective Web Typography"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-03-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=20+Do%E2%80%99s+and+Don%E2%80%99ts+of+Effective+Web+Typography&amp;rft.date=2009-11-16&amp;rft.aulast=Stone&amp;rft.aufirst=John&amp;rft_id=http%3A%2F%2Fwebdesignledger.com%2Ftips%2F20-dos-and-donts-of-effective-web-typography&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.w3.org/TR/UNDERSTANDING-WCAG20/time-limits-pause.html">World Wide Web Consortium: Understanding Web Content Accessibility Guidelines 2.2.2: Pause, Stop, Hide</a></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite id="CITEREFW3C_QA" class="citation web cs1">W3C QA. <a rel="nofollow" class="external text" href="http://www.w3.org/QA/2002/04/Web-Quality">"My Web site is standard! And yours?"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-03-21</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=My+Web+site+is+standard%21+And+yours%3F&amp;rft.au=W3C+QA&amp;rft_id=http%3A%2F%2Fwww.w3.org%2FQA%2F2002%2F04%2FWeb-Quality&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite id="CITEREFChristensen2015" class="citation web cs1">Christensen, Mathias Biilmann (2015-11-16). <a rel="nofollow" class="external text" href="https://www.smashingmagazine.com/2015/11/static-website-generators-jekyll-middleman-roots-hugo-review/">"Static Website Generators Reviewed: Jekyll, Middleman, Roots, Hugo"</a>. <i>Smashing Magazine</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-10-26</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Smashing+Magazine&amp;rft.atitle=Static+Website+Generators+Reviewed%3A+Jekyll%2C+Middleman%2C+Roots%2C+Hugo&amp;rft.date=2015-11-16&amp;rft.aulast=Christensen&amp;rft.aufirst=Mathias+Biilmann&amp;rft_id=https%3A%2F%2Fwww.smashingmagazine.com%2F2015%2F11%2Fstatic-website-generators-jekyll-middleman-roots-hugo-review%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite id="CITEREFSoucy" class="citation cs2">Soucy, Kyle, <a rel="nofollow" class="external text" href="https://web.archive.org/web/20120608071219/http://www.usableinterface.com/articles/homepage.php"><i>Is Your Homepage Doing What It Should?</i></a>, Usable Interface, archived from <a rel="nofollow" class="external text" href="http://www.usableinterface.com/articles/homepage.php">the original</a> on 8 June 2012</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Is+Your+Homepage+Doing+What+It+Should%3F&amp;rft.pub=Usable+Interface&amp;rft.aulast=Soucy&amp;rft.aufirst=Kyle&amp;rft_id=http%3A%2F%2Fwww.usableinterface.com%2Farticles%2Fhomepage.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite id="CITEREFNielsen2003" class="citation cs2">Nielsen, Jakob (10 November 2003), <a rel="nofollow" class="external text" href="https://web.archive.org/web/20131005150112/http://www.nngroup.com/articles/most-violated-homepage-guidelines/"><i>The Ten Most Violated Homepage Design Guidelines</i></a>, Nielsen Norman Group, archived from <a rel="nofollow" class="external text" href="http://www.nngroup.com/articles/most-violated-homepage-guidelines/">the original</a> on 5 October 2013</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+Ten+Most+Violated+Homepage+Design+Guidelines&amp;rft.pub=Nielsen+Norman+Group&amp;rft.date=2003-11-10&amp;rft.aulast=Nielsen&amp;rft.aufirst=Jakob&amp;rft_id=http%3A%2F%2Fwww.nngroup.com%2Farticles%2Fmost-violated-homepage-guidelines%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite id="CITEREFKnight2009" class="citation cs2">Knight, Kayla (20 August 2009), <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130821151637/http://sixrevisions.com/web_design/essential-tips-for-designing-an-effective-homepage/"><i>Essential Tips for Designing an Effective Homepage</i></a>, Six Revisions, archived from <a rel="nofollow" class="external text" href="http://sixrevisions.com/web_design/essential-tips-for-designing-an-effective-homepage/">the original</a> on 21 August 2013</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Essential+Tips+for+Designing+an+Effective+Homepage&amp;rft.pub=Six+Revisions&amp;rft.date=2009-08-20&amp;rft.aulast=Knight&amp;rft.aufirst=Kayla&amp;rft_id=http%3A%2F%2Fsixrevisions.com%2Fweb_design%2Fessential-tips-for-designing-an-effective-homepage%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite id="CITEREFSpool2005" class="citation cs2">Spool, Jared (29 September 2005), <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130916092857/http://www.uie.com/brainsparks/2005/09/29/is-home-page-design-relevant-anymore/"><i>Is Home Page Design Relevant Anymore?</i></a>, User Interface Engineering, archived from <a rel="nofollow" class="external text" href="http://www.uie.com/brainsparks/2005/09/29/is-home-page-design-relevant-anymore/">the original</a> on 16 September 2013</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Is+Home+Page+Design+Relevant+Anymore%3F&amp;rft.pub=User+Interface+Engineering&amp;rft.date=2005-09-29&amp;rft.aulast=Spool&amp;rft.aufirst=Jared&amp;rft_id=http%3A%2F%2Fwww.uie.com%2Fbrainsparks%2F2005%2F09%2F29%2Fis-home-page-design-relevant-anymore%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite id="CITEREFChapman2010" class="citation cs2">Chapman, Cameron (15 September 2010), <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130902031226/http://sixrevisions.com/usabilityaccessibility/10-usability-tips-based-on-research-studies/"><i>10 Usability Tips Based on Research Studies</i></a>, Six Revisions, archived from <a rel="nofollow" class="external text" href="http://sixrevisions.com/usabilityaccessibility/10-usability-tips-based-on-research-studies/">the original</a> on 2 September 2013</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=10+Usability+Tips+Based+on+Research+Studies&amp;rft.pub=Six+Revisions&amp;rft.date=2010-09-15&amp;rft.aulast=Chapman&amp;rft.aufirst=Cameron&amp;rft_id=http%3A%2F%2Fsixrevisions.com%2Fusabilityaccessibility%2F10-usability-tips-based-on-research-studies%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite id="CITEREFGócza" class="citation cs2">Gócza, Zoltán, <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130602172028/http://uxmyths.com/post/717779908/myth-the-homepage-is-your-most-important-page"><i>Myth #17: The homepage is your most important page</i></a>, archived from <a rel="nofollow" class="external text" href="http://uxmyths.com/post/717779908/myth-the-homepage-is-your-most-important-page">the original</a> on 2 June 2013</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Myth+%2317%3A+The+homepage+is+your+most+important+page&amp;rft.aulast=G%C3%B3cza&amp;rft.aufirst=Zolt%C3%A1n&amp;rft_id=http%3A%2F%2Fuxmyths.com%2Fpost%2F717779908%2Fmyth-the-homepage-is-your-most-important-page&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite id="CITEREFMcGovern2010" class="citation cs2">McGovern, Gerry (18 April 2010), <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130524221238/http://giraffeforum.com/wordpress/2010/04/18/the-decline-of-the-homepage/"><i>The decline of the homepage</i></a>, archived from <a rel="nofollow" class="external text" href="http://giraffeforum.com/wordpress/2010/04/18/the-decline-of-the-homepage/">the original</a> on 24 May 2013</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=The+decline+of+the+homepage&amp;rft.date=2010-04-18&amp;rft.aulast=McGovern&amp;rft.aufirst=Gerry&amp;rft_id=http%3A%2F%2Fgiraffeforum.com%2Fwordpress%2F2010%2F04%2F18%2Fthe-decline-of-the-homepage%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite id="CITEREFPorter2006" class="citation cs2">Porter, Joshua (24 April 2006), <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130514075119/http://www.uie.com/articles/prioritizing_design_time/"><i>Prioritizing Design Time: A Long Tail Approach</i></a>, User Interface Engineering, archived from <a rel="nofollow" class="external text" href="http://www.uie.com/articles/prioritizing_design_time/">the original</a> on 14 May 2013</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Prioritizing+Design+Time%3A+A+Long+Tail+Approach&amp;rft.pub=User+Interface+Engineering&amp;rft.date=2006-04-24&amp;rft.aulast=Porter&amp;rft.aufirst=Joshua&amp;rft_id=http%3A%2F%2Fwww.uie.com%2Farticles%2Fprioritizing_design_time%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite id="CITEREFSpool2007" class="citation cs2">Spool, Jared (6 August 2007), <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130429113949/http://www.uie.com/brainsparks/2007/08/06/usability-tools-podcast-home-page-design/"><i>Usability Tools Podcast: Home Page Design</i></a>, archived from <a rel="nofollow" class="external text" href="http://www.uie.com/brainsparks/2007/08/06/usability-tools-podcast-home-page-design/">the original</a> on 29 April 2013</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Usability+Tools+Podcast%3A+Home+Page+Design&amp;rft.date=2007-08-06&amp;rft.aulast=Spool&amp;rft.aufirst=Jared&amp;rft_id=http%3A%2F%2Fwww.uie.com%2Fbrainsparks%2F2007%2F08%2F06%2Fusability-tools-podcast-home-page-design%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite id="CITEREFBates2012" class="citation cs2">Bates, Chris (9 October 2012), <a rel="nofollow" class="external text" href="https://web.archive.org/web/20130403013507/http://www.smartinsights.com/conversion-optimisation/home-page-optimisation/carousels-design-best-practice/"><i>Best practices in carousel design for effective web marketing</i></a>, Smart Insights, archived from <a rel="nofollow" class="external text" href="http://www.smartinsights.com/conversion-optimisation/home-page-optimisation/carousels-design-best-practice/">the original</a> on 3 April 2013</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Best+practices+in+carousel+design+for+effective+web+marketing&amp;rft.pub=Smart+Insights&amp;rft.date=2012-10-09&amp;rft.aulast=Bates&amp;rft.aufirst=Chris&amp;rft_id=http%3A%2F%2Fwww.smartinsights.com%2Fconversion-optimisation%2Fhome-page-optimisation%2Fcarousels-design-best-practice%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-Messner2013-28"><span class="mw-cite-backlink">^ <a href="#cite_ref-Messner2013_28-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Messner2013_28-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFMessner2013" class="citation cs2">Messner, Katie (22 April 2013), <a rel="nofollow" class="external text" href="https://web.archive.org/web/20131010094459/http://www.usability.gov/get-involved/blog/2013/04/image-carousels.html"><i>Image Carousels: Getting Control of the Merry-Go-Round</i></a>, Usability.gov, archived from <a rel="nofollow" class="external text" href="https://www.usability.gov/get-involved/blog/2013/04/image-carousels.html">the original</a> on 10 October 2013</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Image+Carousels%3A+Getting+Control+of+the+Merry-Go-Round&amp;rft.pub=Usability.gov&amp;rft.date=2013-04-22&amp;rft.aulast=Messner&amp;rft.aufirst=Katie&amp;rft_id=http%3A%2F%2Fwww.usability.gov%2Fget-involved%2Fblog%2F2013%2F04%2Fimage-carousels.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite id="CITEREFJones2013" class="citation cs2">Jones, Harrison (19 June 2013), <a rel="nofollow" class="external text" href="https://web.archive.org/web/20131122031942/http://searchengineland.com/homepage-sliders-are-bad-for-seo-usability-163496"><i>Homepage Sliders: Bad For SEO, Bad For Usability</i></a>, archived from <a rel="nofollow" class="external text" href="http://searchengineland.com/homepage-sliders-are-bad-for-seo-usability-163496">the original</a> on 22 November 2013</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Homepage+Sliders%3A+Bad+For+SEO%2C+Bad+For+Usability&amp;rft.date=2013-06-19&amp;rft.aulast=Jones&amp;rft.aufirst=Harrison&amp;rft_id=http%3A%2F%2Fsearchengineland.com%2Fhomepage-sliders-are-bad-for-seo-usability-163496&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite id="CITEREFLaja2019" class="citation cs2">Laja, Peep (8 June 2019), <a rel="nofollow" class="external text" href="https://web.archive.org/web/20191210184941/https://cxl.com/blog/dont-use-automatic-image-sliders-or-carousels/"><i>Image Carousels and Sliders? Don’t Use Them. (Here’s why.)</i></a>, CXL, archived from <a rel="nofollow" class="external text" href="https://cxl.com/blog/dont-use-automatic-image-sliders-or-carousels/">the original</a> on 10 December 2019</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Image+Carousels+and+Sliders%3F+Don%E2%80%99t+Use+Them.+%28Here%E2%80%99s+why.%29&amp;rft.pub=CXL&amp;rft.date=2019-06-08&amp;rft.aulast=Laja&amp;rft.aufirst=Peep&amp;rft_id=https%3A%2F%2Fcxl.com%2Fblog%2Fdont-use-automatic-image-sliders-or-carousels%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-careersinwebdesign-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-careersinwebdesign_31-0">^</a></b></span> <span class="reference-text"><cite id="CITEREFOleksy2001" class="citation book cs1">Oleksy, Walter (2001). <span class="cs1-lock-registration" title="Free registration required"><a rel="nofollow" class="external text" href="https://archive.org/details/careersinwebdesi0000olek"><i>Careers in Web Design</i></a></span>. New York: The Rosen Publishing Group, Inc. pp.&#160;<a rel="nofollow" class="external text" href="https://archive.org/details/careersinwebdesi0000olek/page/9">9</a>–11. <a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780823931910" title="Special:BookSources/9780823931910"><bdi>9780823931910</bdi></a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Careers+in+Web+Design&amp;rft.place=New+York&amp;rft.pages=9-11&amp;rft.pub=The+Rosen+Publishing+Group%2C+Inc.&amp;rft.date=2001&amp;rft.isbn=9780823931910&amp;rft.aulast=Oleksy&amp;rft.aufirst=Walter&amp;rft_id=https%3A%2F%2Farchive.org%2Fdetails%2Fcareersinwebdesi0000olek&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.myjobsearch.com/careers/web-designer.html">"Web Designer"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-03-19</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Web+Designer&amp;rft_id=http%3A%2F%2Fwww.myjobsearch.com%2Fcareers%2Fweb-designer.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.ayokay.com/search-engine-optimization-seo/">"SEO Strategy"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2019-04-30</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=SEO+Strategy&amp;rft_id=https%3A%2F%2Fwww.ayokay.com%2Fsearch-engine-optimization-seo%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeb+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="External_links">External links</span></h2>
+<ul><li><a rel="nofollow" class="external text" href="http://www.w3.org/standards/webdesign/">W3C consortium for web standards</a></li>
+<li><a rel="nofollow" class="external text" href="https://curlie.org/Computers/Internet/Web_Design_and_Development">Web design and development</a> at <a href="/wiki/Curlie" class="mw-redirect" title="Curlie">Curlie</a></li></ul>
+<style data-mw-deduplicate="TemplateStyles:r891577481">.mw-parser-output .subjectbar{background-color:#f9f9f9;border:1px solid #aaa;clear:both;margin-bottom:0.5em;margin-top:0.5em;width:100%;box-sizing:border-box;font-size:88%}</style><table role="presentation" class="subjectbar noprint metadata plainlist"><tbody><tr><td style="width:175px"><span style="font-size:125%"><b><a href="/wiki/Portal:Contents/Portals" class="mw-redirect" title="Portal:Contents/Portals">Portals</a></b></span><br /><span style="font-size:90%">Access related topics</span></td><td style="text-align:left"><ul><li style="float:left;margin-left:0.3em;height:3.6em"><span style="display:inline-block;margin-right:0.3em;width:30px;line-height:3.6em;text-align:center"><a href="/wiki/File:Crystal_Clear_app_linneighborhood.svg" class="image"><img alt="Crystal Clear app linneighborhood.svg" src="assets/9b2a4dc8f66dd10dced12811cb90b2e9.png" decoding="async" width="30" height="30" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Crystal_Clear_app_linneighborhood.svg/45px-Crystal_Clear_app_linneighborhood.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Crystal_Clear_app_linneighborhood.svg/60px-Crystal_Clear_app_linneighborhood.svg.png 2x" data-file-width="407" data-file-height="407" /></a></span><span style="display:inline-block;width:11em;vertical-align:middle"><i><b><a href="/wiki/Portal:Internet" title="Portal:Internet">Internet portal</a></b></i></span></li></ul></td></tr><tr><td colspan="2"><hr /></td></tr><tr><td style="width:175px"><span style="font-size:90%">Find out more on<br />Wikipedia's</span><br /><span style="font-size:125%"><b><a href="/wiki/Wikipedia:Wikimedia_sister_projects" title="Wikipedia:Wikimedia sister projects">Sister projects</a></b></span></td><td style="text-align:left"><ul><li style="float:left;margin-left:0.3em;height:3.6em"><span style="display:inline-block;margin-right:0.3em;width:30px;line-height:3.6em;text-align:center"><img alt="" src="assets/59a043d77b9ab57eba840155bb517258.png" decoding="async" width="30" height="24" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/45px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/60px-Wikiversity-logo.svg.png 2x" data-file-width="1000" data-file-height="800" /></span><span style="display:inline-block;width:11em;vertical-align:middle"><a href="https://en.wikiversity.org/wiki/Special:Search/Web_design" class="extiw" title="wikiversity:Special:Search/Web design">Learning resources</a><br />from Wikiversity</span></li></ul></td></tr></tbody></table>
+<div role="navigation" class="navbox authority-control" aria-labelledby="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q190637&amp;#124;Edit_this_at_Wikidata" style="padding:3px"><table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th id="Authority_control_frameless_&amp;#124;text-top_&amp;#124;10px_&amp;#124;alt=Edit_this_at_Wikidata_&amp;#124;link=https&amp;#58;//www.wikidata.org/wiki/Q190637&amp;#124;Edit_this_at_Wikidata" scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a> <a href="https://www.wikidata.org/wiki/Q190637" title="Edit this at Wikidata"><img alt="Edit this at Wikidata" src="assets/ac019ab4612a22484ae88d26e07e0914.png" decoding="async" width="10" height="10" style="vertical-align: text-top" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/15px-OOjs_UI_icon_edit-ltr-progressive.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/8a/OOjs_UI_icon_edit-ltr-progressive.svg/20px-OOjs_UI_icon_edit-ltr-progressive.svg.png 2x" data-file-width="20" data-file-height="20" /></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><span class="nowrap"><a href="/wiki/BNF_(identifier)" class="mw-redirect" title="BNF (identifier)">BNF</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb13179036c">cb13179036c</a> <a rel="nofollow" class="external text" href="https://data.bnf.fr/ark:/12148/cb13179036c">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/LCCN_(identifier)" class="mw-redirect" title="LCCN (identifier)">LCCN</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/subjects/sh98000035">sh98000035</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/01187564">01187564</a></span></span></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Design" style="padding:3px"><table class="nowraplinks hlist mw-collapsible mw-collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Design" title="Template:Design"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Design" title="Template talk:Design"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Design&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Design" style="font-size:114%;margin:0 4em"><a href="/wiki/Design" title="Design">Design</a></div></th></tr><tr><td class="navbox-abovebelow hlist" colspan="2" style="background:lemonchiffon;"><div id="*_Outline_*_Designer">
+<ul><li><a href="/wiki/Outline_of_design" title="Outline of design">Outline</a></li>
+<li><a href="/wiki/Designer" title="Designer">Designer</a></li></ul>
+</div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";background:lemonchiffon;"><div id="Disciplines" style="font-size:114%;margin:0 4em">Disciplines</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;background:lemonchiffon;"><a href="/wiki/Communication_design" title="Communication design">Communication<br />design</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Advertising" title="Advertising">Advertising</a></li>
+<li><a href="/wiki/Book_design" title="Book design">Book design</a></li>
+<li><a href="/wiki/Corporate_design" title="Corporate design">Corporate design</a></li>
+<li><a href="/wiki/Exhibit_design" title="Exhibit design">Exhibit design</a></li>
+<li><a href="/wiki/Film_title_design" title="Film title design">Film title design</a></li>
+<li><a href="/wiki/Graphic_design" title="Graphic design">Graphic design</a>
+<ul><li><a href="/wiki/Motion_graphic_design" title="Motion graphic design">Motion</a></li>
+<li><a href="/wiki/Postage_stamp_design" title="Postage stamp design">Postage stamp design</a></li>
+<li><a href="/wiki/Print_design" title="Print design">Print design</a></li></ul></li>
+<li><a href="/wiki/Illustration" title="Illustration">Illustration</a></li>
+<li><a href="/wiki/Information_design" title="Information design">Information design</a></li>
+<li><a href="/wiki/Instructional_design" title="Instructional design">Instructional design</a></li>
+<li><a href="/wiki/News_design" title="News design">News design</a></li>
+<li><a href="/wiki/Photography" title="Photography">Photography</a></li>
+<li><a href="/wiki/Retail_design" title="Retail design">Retail design</a></li>
+<li><a href="/wiki/Signage" title="Signage">Signage</a>&#160;/&#32;<a href="/wiki/Traffic_sign_design" title="Traffic sign design">Traffic sign design</a></li>
+<li><a href="/wiki/Typography" title="Typography">Typography</a>&#160;/&#32;<a href="/wiki/Type_design" title="Type design">Type design</a></li>
+<li><a href="/wiki/Video_design" title="Video design">Video design</a></li>
+<li><a href="/wiki/Visual_merchandising" title="Visual merchandising">Visual merchandising</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:lemonchiffon;"><a href="/wiki/Environmental_design" title="Environmental design">Environmental<br />design</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Architecture" title="Architecture">Architecture</a></li>
+<li><a href="/wiki/Architectural_lighting_design" title="Architectural lighting design">Architectural lighting design</a></li>
+<li><a href="/wiki/Building_design" title="Building design">Building design</a>
+<ul><li><a href="/wiki/Passive_solar_building_design" title="Passive solar building design">Passive solar</a></li></ul></li>
+<li><a href="/wiki/Ecological_design" title="Ecological design">Ecological design</a></li>
+<li><a href="/wiki/Environmental_impact_design" title="Environmental impact design">Environmental impact design</a></li>
+<li><a href="/wiki/Garden_design" title="Garden design">Garden design</a>
+<ul><li><a href="/wiki/Computer-aided_garden_design" title="Computer-aided garden design">Computer-aided</a></li></ul></li>
+<li><a href="/wiki/Healthy_community_design" title="Healthy community design">Healthy community design</a></li>
+<li><a href="/wiki/Hotel_design" title="Hotel design">Hotel design</a></li>
+<li><a href="/wiki/Interior_architecture" title="Interior architecture">Interior architecture</a></li>
+<li><a href="/wiki/Interior_design" title="Interior design">Interior design</a>
+<ul><li><a href="/wiki/Experiential_interior_design" title="Experiential interior design">EID</a></li></ul></li>
+<li><a href="/wiki/Keyline_design" title="Keyline design">Keyline design</a></li>
+<li><a href="/wiki/Landscape_architecture" title="Landscape architecture">Landscape architecture</a>
+<ul><li><a href="/wiki/Sustainable_landscape_architecture" title="Sustainable landscape architecture">Sustainable</a></li></ul></li>
+<li><a href="/wiki/Landscape_design" title="Landscape design">Landscape design</a></li>
+<li><a href="/wiki/Spatial_design" title="Spatial design">Spatial design</a></li>
+<li><a href="/wiki/Urban_design" title="Urban design">Urban design</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:lemonchiffon;"><a href="/wiki/Industrial_design" title="Industrial design">Industrial<br />design</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Automotive_design" title="Automotive design">Automotive design</a></li>
+<li><a href="/wiki/Automotive_suspension_design" class="mw-redirect" title="Automotive suspension design">Automotive suspension design</a></li>
+<li><a href="/wiki/CMF_design" title="CMF design">CMF design</a></li>
+<li><a href="/wiki/Corrugated_box_design" title="Corrugated box design">Corrugated box design</a></li>
+<li><a href="/wiki/Electric_guitar_design" title="Electric guitar design">Electric guitar design</a></li>
+<li><a href="/wiki/Furniture" title="Furniture">Furniture design</a>
+<ul><li><a href="/wiki/Sustainable_furniture_design" title="Sustainable furniture design">Sustainable</a></li></ul></li>
+<li><a href="/wiki/Hardware_interface_design" title="Hardware interface design">Hardware interface design</a></li>
+<li><a href="/wiki/Motorcycle_design" title="Motorcycle design">Motorcycle design</a></li>
+<li><a href="/wiki/Packaging_and_labeling" title="Packaging and labeling">Packaging and labeling</a></li>
+<li><a href="/wiki/Photographic_lens_design" title="Photographic lens design">Photographic lens design</a></li>
+<li><a href="/wiki/Product_design" title="Product design">Product design</a></li>
+<li><a href="/wiki/Production_design" class="mw-redirect" title="Production design">Production design</a></li>
+<li><a href="/wiki/Sensory_design" title="Sensory design">Sensory design</a></li>
+<li><a href="/wiki/Service_design" title="Service design">Service design</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:lemonchiffon;"><a href="/wiki/Interaction_design" title="Interaction design">Interaction<br />design</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Experience_design" class="mw-redirect" title="Experience design">Experience design</a>
+<ul><li><a href="/wiki/Employee_experience_design" title="Employee experience design">EED</a></li></ul></li>
+<li><a href="/wiki/Game_design" title="Game design">Game design</a>
+<ul><li><a href="/wiki/Level_design" title="Level design">Level design</a></li>
+<li><a href="/wiki/Video_game_design" title="Video game design">Video game design</a></li></ul></li>
+<li><a href="/wiki/Hardware_interface_design" title="Hardware interface design">Hardware interface design</a></li>
+<li><a href="/wiki/Icon_design" title="Icon design">Icon design</a></li>
+<li><a href="/wiki/Immersive_design" title="Immersive design">Immersive design</a></li>
+<li><a href="/wiki/Information_design" title="Information design">Information design</a></li>
+<li><a href="/wiki/Sonic_interaction_design" title="Sonic interaction design">Sonic interaction design</a></li>
+<li><a href="/wiki/User_experience_design" title="User experience design">User experience design</a></li>
+<li><a href="/wiki/User_interface_design" title="User interface design">User interface design</a></li>
+<li><a class="mw-selflink selflink">Web design</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:lemonchiffon;">Other<br /><a href="/wiki/Applied_arts" title="Applied arts">applied arts</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Public_art" title="Public art">Public art design</a></li>
+<li><a href="/wiki/Ceramic_art" title="Ceramic art">Ceramic</a>&#160;/&#32;<a href="/wiki/Glass_art" title="Glass art">glass design</a></li>
+<li><a href="/wiki/Fashion_design" title="Fashion design">Fashion design</a>
+<ul><li><a href="/wiki/Costume_design" title="Costume design">Costume design</a></li>
+<li><a href="/wiki/Jewelry_design" class="mw-redirect" title="Jewelry design">Jewelry design</a></li></ul></li>
+<li><a href="/wiki/Floral_design" title="Floral design">Floral design</a></li>
+<li><a href="/wiki/Game_art_design" title="Game art design">Game art design</a></li>
+<li><a href="/wiki/Property_designer" title="Property designer">Property design</a></li>
+<li><a href="/wiki/Scenic_design" title="Scenic design">Scenic design</a></li>
+<li><a href="/wiki/Sound_design" title="Sound design">Sound design</a></li>
+<li><a href="/wiki/Lighting_designer" title="Lighting designer">Stage/set lighting design</a></li>
+<li><a href="/wiki/Textile_design" title="Textile design">Textile design</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:lemonchiffon;">Other<br />design<br />&amp; <a href="/wiki/Engineering" title="Engineering">engineering</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Algorithm_design" class="mw-redirect" title="Algorithm design">Algorithm design</a></li>
+<li><a href="/wiki/Behavioural_design" title="Behavioural design">Behavioural design</a></li>
+<li><a href="/wiki/Boiler_design" title="Boiler design">Boiler design</a></li>
+<li><a href="/wiki/Database_design" title="Database design">Database design</a></li>
+<li><a href="/wiki/Drug_design" title="Drug design">Drug design</a></li>
+<li><a href="/wiki/Electrical_system_design" title="Electrical system design">Electrical system design</a></li>
+<li><a href="/wiki/Design_of_experiments" title="Design of experiments">Experimental design</a></li>
+<li><a href="/wiki/Filter_design" title="Filter design">Filter design</a></li>
+<li><a href="/wiki/Geometric_design" title="Geometric design">Geometric design</a></li>
+<li><a href="/wiki/Job_design" title="Job design">Job design</a></li>
+<li><a href="/wiki/Integrated_circuit_design" title="Integrated circuit design">Integrated circuit design</a>
+<ul><li><a href="/wiki/Circuit_design" title="Circuit design">Circuit design</a></li>
+<li><a href="/wiki/Physical_design_(electronics)" title="Physical design (electronics)">Physical design</a></li>
+<li><a href="/wiki/Power_network_design_(IC)" title="Power network design (IC)">Power network design</a></li></ul></li>
+<li><a href="/wiki/Mechanism_design" title="Mechanism design">Mechanism design</a></li>
+<li><a href="/wiki/Nuclear_weapon_design" title="Nuclear weapon design">Nuclear weapon design</a></li>
+<li><a href="/wiki/Nucleic_acid_design" title="Nucleic acid design">Nucleic acid design</a></li>
+<li><a href="/wiki/Organization_design" class="mw-redirect" title="Organization design">Organization design</a></li>
+<li><a href="/wiki/Process_design" title="Process design">Process design</a></li>
+<li><a href="/wiki/Processor_design" title="Processor design">Processor design</a></li>
+<li><a href="/wiki/Protein_design" title="Protein design">Protein design</a></li>
+<li><a href="/wiki/Research_design" title="Research design">Research design</a></li>
+<li><a href="/wiki/Social_design" title="Social design">Social design</a></li>
+<li><a href="/wiki/Software_design" title="Software design">Software design</a></li>
+<li><a href="/wiki/Spacecraft_design" title="Spacecraft design">Spacecraft design</a></li>
+<li><a href="/wiki/Strategic_design" title="Strategic design">Strategic design</a></li>
+<li><a href="/wiki/Systems_design" title="Systems design">Systems design</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";background:lemonchiffon;"><div id="Approaches" style="font-size:114%;margin:0 4em">Approaches</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Activity-centered_design" title="Activity-centered design">Activity-centered</a></li>
+<li><a href="/wiki/Adaptive_web_design" title="Adaptive web design">Adaptive web</a></li>
+<li><a href="/wiki/Affective_design" title="Affective design">Affective</a></li>
+<li><a href="/wiki/Brainstorming" title="Brainstorming">Brainstorming</a></li>
+<li><a href="/wiki/Design_by_committee" title="Design by committee">By committee</a></li>
+<li><a href="/wiki/Design_by_contract" title="Design by contract">By contract</a></li>
+<li><a href="/wiki/C-K_theory" title="C-K theory">C-K theory</a></li>
+<li><a href="/wiki/Design_closure" title="Design closure">Closure</a></li>
+<li><a href="/wiki/Participatory_design" title="Participatory design">Co-design</a></li>
+<li><a href="/w/index.php?title=Concept-oriented_design&amp;action=edit&amp;redlink=1" class="new" title="Concept-oriented design (page does not exist)">Concept-oriented</a></li>
+<li><a href="/wiki/Configuration_design" title="Configuration design">Configuration</a></li>
+<li><a href="/wiki/Contextual_design" title="Contextual design">Contextual</a></li>
+<li><a href="/wiki/Continuous_design" title="Continuous design">Continuous</a></li>
+<li><a href="/wiki/Cradle-to-cradle_design" title="Cradle-to-cradle design">Cradle-to-cradle</a></li>
+<li><a href="/wiki/Creative_problem-solving" title="Creative problem-solving">Creative problem-solving</a></li>
+<li><a href="/wiki/Creativity_techniques" title="Creativity techniques">Creativity techniques</a></li>
+<li><a href="/wiki/Critical_design" title="Critical design">Critical</a>
+<ul><li><a href="/wiki/Design_fiction" title="Design fiction">Design fiction</a></li></ul></li>
+<li><a href="/wiki/Defensive_design" title="Defensive design">Defensive</a></li>
+<li><a href="/wiki/Design%E2%80%93bid%E2%80%93build" title="Design–bid–build">Design–bid–build</a></li>
+<li><a href="/wiki/Design%E2%80%93build" title="Design–build">Design–build</a>
+<ul><li><a href="/wiki/Architect-led_design%E2%80%93build" class="mw-redirect" title="Architect-led design–build">architect-led</a></li></ul></li>
+<li><a href="/wiki/Domain-driven_design" title="Domain-driven design">Domain-driven</a></li>
+<li><a href="/wiki/Ecodesign" class="mw-redirect" title="Ecodesign">Ecodesign</a></li>
+<li><a href="/wiki/Energy_neutral_design" title="Energy neutral design">Energy neutral</a></li>
+<li><a href="/wiki/Engineering_design_process" title="Engineering design process">Engineering design process</a>
+<ul><li><a href="/wiki/Probabilistic_design" title="Probabilistic design">Probabilistic design</a></li></ul></li>
+<li><a href="/wiki/Error-tolerant_design" title="Error-tolerant design">Error-tolerant</a></li>
+<li><a href="/wiki/Fault-tolerant_design" class="mw-redirect" title="Fault-tolerant design">Fault-tolerant</a></li>
+<li><a href="/wiki/Framework-oriented_design" title="Framework-oriented design">Framework-oriented</a></li>
+<li><a href="/wiki/Design_for_assembly" title="Design for assembly">For assembly</a></li>
+<li><a href="/wiki/Design_for_behaviour_change" class="mw-redirect" title="Design for behaviour change">For behaviour change</a></li>
+<li><a href="/wiki/Design_for_manufacturability" title="Design for manufacturability">For manufacturability</a></li>
+<li><a href="/wiki/Design_for_Six_Sigma" title="Design for Six Sigma">For Six Sigma</a></li>
+<li><a href="/wiki/Design_for_testing" title="Design for testing">For testing</a></li>
+<li><a href="/wiki/Design_for_X" title="Design for X">For X</a></li>
+<li><a href="/wiki/Functional_design" title="Functional design">Functional</a></li>
+<li><a href="/wiki/Generative_design" title="Generative design">Generative</a></li>
+<li><a href="/wiki/Geodesign" title="Geodesign">Geodesign</a></li>
+<li><a href="/wiki/Human-centered_design" title="Human-centered design">HCD</a></li>
+<li><a href="/wiki/High-level_design" title="High-level design">High-level</a></li>
+<li><a href="/wiki/Inclusive_design" title="Inclusive design">Inclusive</a></li>
+<li><a href="/wiki/Integrated_design" title="Integrated design">Integrated</a></li>
+<li><a href="/wiki/Integrated_topside_design" title="Integrated topside design">Integrated topside</a></li>
+<li><a href="/wiki/Intelligence-based_design" title="Intelligence-based design">Intelligence-based</a></li>
+<li><a href="/wiki/Iterative_design" title="Iterative design">Iterative</a></li>
+<li><a href="/wiki/KISS_principle" title="KISS principle">KISS principle</a></li>
+<li><a href="/wiki/Low-level_design" title="Low-level design">Low-level</a></li>
+<li><a href="/wiki/Metadesign" title="Metadesign">Metadesign</a></li>
+<li><a href="/wiki/Mind_map" title="Mind map">Mind mapping</a></li>
+<li><a href="/wiki/Modular_design" title="Modular design">Modular</a></li>
+<li><a href="/wiki/New_Wave_(design)" title="New Wave (design)">New Wave</a></li>
+<li><a href="/wiki/Object-oriented_design" title="Object-oriented design">Object-oriented</a></li>
+<li><a href="/wiki/Open-design_movement" title="Open-design movement">Open</a></li>
+<li><a href="/wiki/Parametric_design" title="Parametric design">Parametric</a></li>
+<li><a href="/wiki/Participatory_design" title="Participatory design">Participatory</a></li>
+<li><a href="/wiki/Platform-based_design" title="Platform-based design">Platform-based</a></li>
+<li><a href="/wiki/Policy-based_design" class="mw-redirect" title="Policy-based design">Policy-based</a></li>
+<li><a href="/wiki/Process-centered_design" title="Process-centered design">Process-centered</a></li>
+<li><a href="/wiki/Public_interest_design" title="Public interest design">Public interest</a></li>
+<li><a href="/wiki/Rational_design" title="Rational design">Rational</a></li>
+<li><a href="/wiki/Regenerative_design" title="Regenerative design">Regenerative</a></li>
+<li><a href="/wiki/Reliability_engineering" title="Reliability engineering">Reliability engineering</a></li>
+<li><a href="/wiki/Research-based_design" title="Research-based design">Research-based</a></li>
+<li><a href="/wiki/Responsibility-driven_design" title="Responsibility-driven design">Responsibility-driven</a></li>
+<li><a href="/wiki/Responsive_web_design" title="Responsive web design">RWD</a></li>
+<li><a href="/wiki/Safe-life_design" title="Safe-life design">Safe-life</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Sustainable</a></li>
+<li><a href="/wiki/Systemic_design" title="Systemic design">Systemic</a>
+<ul><li><a href="/wiki/Systems-oriented_design" title="Systems-oriented design">SOD</a></li></ul></li>
+<li><a href="/wiki/Tableless_web_design" title="Tableless web design">Tableless web</a></li>
+<li><a href="/wiki/Theory_of_constraints" title="Theory of constraints">Theory of constraints</a></li>
+<li><a href="/wiki/Top-down_and_bottom-up_design" title="Top-down and bottom-up design">Top-down and bottom-up</a></li>
+<li><a href="/wiki/Transformation_design" title="Transformation design">Transformation</a></li>
+<li><a href="/wiki/Transgenerational_design" title="Transgenerational design">Transgenerational</a></li>
+<li><a href="/wiki/TRIZ" title="TRIZ">TRIZ</a></li>
+<li><a href="/wiki/Universal_design" title="Universal design">Universal</a>
+<ul><li><a href="/wiki/Design_for_All_(in_ICT)" title="Design for All (in ICT)">Design for All</a></li></ul></li>
+<li><a href="/wiki/Usage-centered_design" title="Usage-centered design">Usage-centered</a></li>
+<li><a href="/wiki/Use-centered_design" title="Use-centered design">Use-centered</a></li>
+<li><a href="/wiki/User-centered_design" title="User-centered design">User-centered</a>
+<ul><li><a href="/wiki/Empathic_design" title="Empathic design">Empathic</a></li></ul></li>
+<li><a href="/wiki/User_innovation" title="User innovation">User innovation</a></li>
+<li><a href="/wiki/Value-driven_design" title="Value-driven design">Value-driven</a></li>
+<li><a href="/wiki/Value_sensitive_design" title="Value sensitive design">Value sensitive</a>
+<ul><li><a href="/wiki/Privacy_by_design" title="Privacy by design">Privacy by</a></li></ul></li></ul>
+<ul><li>Design <a href="/wiki/Design_choice" title="Design choice">choice</a></li>
+<li><a href="/wiki/Design_computing" title="Design computing">computing</a></li>
+<li><a href="/wiki/Design_controls" title="Design controls">controls</a></li>
+<li><a href="/wiki/Design_flow_(EDA)" title="Design flow (EDA)">flow</a></li>
+<li><a href="/wiki/Design_leadership" title="Design leadership">leadership</a></li>
+<li><a href="/wiki/Design_management" title="Design management">management</a></li>
+<li><a href="/wiki/Design_marker" title="Design marker">marker</a></li>
+<li><a href="/wiki/Design_methods" title="Design methods">methods</a></li>
+<li><a href="/wiki/Design_pattern" title="Design pattern">pattern</a></li>
+<li><a href="/wiki/Design_research" title="Design research">research</a></li>
+<li><a href="/wiki/Design_science" title="Design science">science</a></li>
+<li><a href="/wiki/Design_sprint" title="Design sprint">sprint</a></li>
+<li><a href="/wiki/Design_strategy" class="mw-redirect" title="Design strategy">strategy</a></li>
+<li><a href="/wiki/Design_theory" title="Design theory">theory</a></li>
+<li><a href="/wiki/Design_thinking" title="Design thinking">thinking</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";background:lemonchiffon;"><div id="ToolsIntellectual_propertyOrganizationsAwards" style="font-size:114%;margin:0 4em"><div class="hlist hlist-separated"><ul><li>Tools</li><li>Intellectual property</li><li>Organizations</li><li>Awards</li></ul></div></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;background:lemonchiffon;"><a href="/wiki/Design_tool" title="Design tool">Tools</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Algorithms-Aided_Design_(AAD)" title="Algorithms-Aided Design (AAD)">AAD</a></li>
+<li><a href="/wiki/Architectural_model" title="Architectural model">Architectural model</a></li>
+<li><a href="/wiki/Blueprint" title="Blueprint">Blueprint</a></li>
+<li><a href="/wiki/Comprehensive_layout" title="Comprehensive layout">Comprehensive layout</a></li>
+<li><a href="/wiki/Computer-aided_design" title="Computer-aided design">CAD</a>
+<ul><li><a href="/wiki/Computer-aided_industrial_design" title="Computer-aided industrial design">CAID</a></li>
+<li><a href="/wiki/Virtual_home_design_software" title="Virtual home design software">Virtual home design software</a></li></ul></li>
+<li><a href="/wiki/Computer-automated_design" title="Computer-automated design">CAutoD</a></li>
+<li><a href="/wiki/Design_quality_indicator" title="Design quality indicator">Design quality indicator</a></li>
+<li><a href="/wiki/Electronic_design_automation" title="Electronic design automation">Electronic design automation</a></li>
+<li><a href="/wiki/Flowchart" title="Flowchart">Flowchart</a></li>
+<li><a href="/wiki/Mockup" title="Mockup">Mockup</a></li>
+<li><a href="/wiki/Product_design_specification" class="mw-redirect" title="Product design specification">Product design specification</a></li>
+<li><a href="/wiki/Prototype" title="Prototype">Prototype</a></li>
+<li><a href="/wiki/Sketch_(drawing)" title="Sketch (drawing)">Sketch</a></li>
+<li><a href="/wiki/Storyboard" title="Storyboard">Storyboard</a></li>
+<li><a href="/wiki/Technical_drawing" title="Technical drawing">Technical drawing</a></li>
+<li><a href="/wiki/Web_design_program" class="mw-redirect" title="Web design program">Web design program</a></li>
+<li><a href="/wiki/Website_wireframe" title="Website wireframe">Website wireframe</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:lemonchiffon;">Intellectual<br />property</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Community_design" title="Community design">Community design</a></li>
+<li><a href="/wiki/Design_around" title="Design around">Design around</a></li>
+<li><a href="/wiki/Design_patent" title="Design patent">Design patent</a></li>
+<li><a href="/wiki/Fashion_design_copyright" title="Fashion design copyright">Fashion design copyright</a></li>
+<li><i><a href="/wiki/Geschmacksmuster" title="Geschmacksmuster">Geschmacksmuster</a></i></li>
+<li><a href="/wiki/Industrial_design_right" title="Industrial design right">Industrial design rights</a>
+<ul><li><a href="/wiki/Industrial_design_rights_in_the_European_Union" title="Industrial design rights in the European Union">European Union</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:lemonchiffon;">Organizations</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AIGA" class="mw-redirect" title="AIGA">AIGA</a></li>
+<li><a href="/wiki/Chartered_Society_of_Designers" title="Chartered Society of Designers">Chartered Society of Designers</a></li>
+<li><a href="/wiki/Design_and_Industries_Association" title="Design and Industries Association">Design and Industries Association</a></li>
+<li><a href="/wiki/Design_Council" title="Design Council">Design Council</a></li>
+<li><a href="/wiki/International_Forum_Design" title="International Forum Design">International Forum Design</a></li>
+<li><a href="/wiki/The_Design_Society" title="The Design Society">The Design Society</a></li>
+<li><a href="/wiki/Design_Research_Society" title="Design Research Society">Design Research Society</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:lemonchiffon;">Awards</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/European_Design_Award" title="European Design Award">European Design Award</a></li>
+<li><a href="/wiki/German_Design_Award" title="German Design Award">German Design Award</a></li>
+<li><a href="/wiki/Good_Design_Award_(Museum_of_Modern_Art)" title="Good Design Award (Museum of Modern Art)">Good Design Award (Museum of Modern Art)</a></li>
+<li><a href="/wiki/Good_Design_Award_(Chicago_Athenaeum)" class="mw-redirect" title="Good Design Award (Chicago Athenaeum)">Good Design Award (Chicago Athenaeum)</a></li>
+<li><a href="/wiki/Good_Design_Award_(Japan)" title="Good Design Award (Japan)">Good Design Award (Japan)</a></li>
+<li><a href="/wiki/Graphex" title="Graphex">Graphex</a></li>
+<li><a href="/wiki/IF_product_design_award" class="mw-redirect" title="IF product design award">IF product design award</a></li>
+<li><a href="/wiki/James_Dyson_Award" title="James Dyson Award">James Dyson Award</a></li>
+<li><a href="/wiki/Prince_Philip_Designers_Prize" title="Prince Philip Designers Prize">Prince Philip Designers Prize</a></li>
+<li><a href="/wiki/Prix_Versailles" title="Prix Versailles">Prix Versailles</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks mw-collapsible mw-collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";background:lemonchiffon;"><div id="Related_topics" style="font-size:114%;margin:0 4em">Related topics</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aesthetics" title="Aesthetics">Aesthetics</a></li>
+<li><a href="/wiki/Agile_software_development" title="Agile software development">Agile</a></li>
+<li><a href="/wiki/Concept_art" title="Concept art">Concept art</a></li>
+<li><a href="/wiki/Conceptual_design" title="Conceptual design">Conceptual design</a></li>
+<li><a href="/wiki/Creative_industries" title="Creative industries">Creative industries</a></li>
+<li><a href="/wiki/Cultural_icon" title="Cultural icon">Cultural icon</a></li>
+<li><a href="/wiki/.design" title=".design">.design</a></li>
+<li><a href="/wiki/Enterprise_architecture" title="Enterprise architecture">Enterprise architecture</a></li>
+<li><a href="/wiki/Futures_studies" title="Futures studies">Futures studies</a></li>
+<li><a href="/wiki/Indie_design" title="Indie design">Indie design</a></li>
+<li><a href="/wiki/Innovation_Management" class="mw-redirect" title="Innovation Management">Innovation Management</a></li>
+<li><a href="/wiki/Intelligent_design" title="Intelligent design">Intelligent design</a></li>
+<li><a href="/wiki/Lean_Startup" class="mw-redirect" title="Lean Startup">Lean Startup</a></li>
+<li><a href="/wiki/New_product_development" title="New product development">New product development</a></li>
+<li><a href="/wiki/OODA_Loop" class="mw-redirect" title="OODA Loop">OODA Loop</a></li>
+<li><a href="/wiki/Philosophy_of_design" title="Philosophy of design">Philosophy of design</a></li>
+<li><a href="/wiki/Process_simulation" title="Process simulation">Process simulation</a></li>
+<li><a href="/wiki/Slow_design" title="Slow design">Slow design</a></li>
+<li><a href="/wiki/STEAM_fields" title="STEAM fields">STEAM fields</a></li>
+<li><a href="/wiki/Unintelligent_design" class="mw-redirect" title="Unintelligent design">Unintelligent design</a></li>
+<li><a href="/wiki/Visualization_(computer_graphics)" class="mw-redirect" title="Visualization (computer graphics)">Visualization</a></li>
+<li><a href="/wiki/Wicked_problem" title="Wicked problem">Wicked problem</a></li></ul>
+<ul><li>Design <a href="/wiki/Design_brief" title="Design brief">brief</a></li>
+<li><a href="/wiki/Design_change" title="Design change">change</a></li>
+<li><a href="/wiki/Design_classic" title="Design classic">classic</a></li>
+<li><a href="/wiki/Design_competition" title="Design competition">competition</a>
+<ul><li><a href="/wiki/Architectural_design_competition" title="Architectural design competition">architectural</a></li>
+<li><a href="/wiki/Student_design_competition" title="Student design competition">student</a></li></ul></li>
+<li><a href="/wiki/Design_director" title="Design director">director</a></li>
+<li><a href="/wiki/Design_education" title="Design education">education</a></li>
+<li><a href="/wiki/Design_elements_and_principles" class="mw-redirect" title="Design elements and principles">elements and principles</a></li>
+<li><a href="/wiki/Design_engineer" title="Design engineer">engineer</a></li>
+<li><a href="/wiki/Design_firm" class="mw-redirect" title="Design firm">firm</a></li>
+<li><a href="/wiki/Design_history" title="Design history">history</a></li>
+<li><a href="/wiki/Design_knowledge" title="Design knowledge">knowledge</a></li>
+<li><a href="/wiki/Design_language" title="Design language">language</a></li>
+<li><a href="/wiki/Design_life" title="Design life">life</a></li>
+<li><a href="/wiki/Design_load" title="Design load">load</a></li>
+<li><a href="/wiki/Design_museum" title="Design museum">museum</a></li>
+<li><a href="/wiki/Design_paradigm" title="Design paradigm">paradigm</a></li>
+<li><a href="/wiki/Design_rationale" title="Design rationale">rationale</a></li>
+<li><a href="/wiki/Design_review" title="Design review">review</a></li>
+<li><a href="/wiki/Design_specification" title="Design specification">specification</a></li>
+<li><a href="/wiki/Design_studio" title="Design studio">studio</a></li>
+<li><a href="/wiki/Design_technology" title="Design technology">technology</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><a href="https://commons.wikimedia.org/wiki/category:Design" class="extiw" title="commons:category:Design"> <span style="color:#002bb8">Commons</span>    </a></li>
+<li><a href="https://en.wikibooks.org/wiki/Design" class="extiw" title="wikibooks:Design"> <span style="color:#002bb8">Wikibooks</span>  </a></li>
+<li><a href="https://en.wikinews.org/wiki/Special:Search/Design" class="extiw" title="wikinews:Special:Search/Design"> <span style="color:#002bb8">Wikinews</span>   </a></li>
+<li><a href="https://en.wikiquote.org/wiki/Design" class="extiw" title="wikiquote:Design"> <span style="color:#002bb8">Wikiquote</span>  </a></li>
+<li><a href="https://en.wikisource.org/wiki/Category:Design" class="extiw" title="wikisource:Category:Design"> <span style="color:#002bb8">Wikisource</span> </a></li>
+<li><a href="https://en.wiktionary.org/wiki/Design" class="extiw" title="wiktionary:Design"> <span style="color:#002bb8">Wiktionary</span> </a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1356
+Cached time: 20200810200956
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.652 seconds
+Real time usage: 0.842 seconds
+Preprocessor visited node count: 2367/1000000
+Post‐expand include size: 128413/2097152 bytes
+Template argument size: 1933/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 10/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 126188/5000000 bytes
+Lua time usage: 0.348/10.000 seconds
+Lua memory usage: 6.08 MB/50 MB
+Number of Wikibase entities loaded: 1/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  699.160      1 -total
+ 31.09%  217.336      2 Template:Reflist
+ 22.61%  158.065     15 Template:Citation
+ 12.32%   86.152      1 Template:Pp-semi-indef
+  9.86%   68.906      2 Template:When
+  9.03%   63.153      2 Template:Fix
+  8.11%   56.710      1 Template:Authority_control
+  7.73%   54.076     11 Template:Cite_web
+  6.49%   45.386      1 Template:Design
+  6.24%   43.658      5 Template:Category_handler
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:34035-0!canonical and timestamp 20200810200955 and revision id 970749570
+ -->
+</div><noscript><img src="assets/3f07551aa465d8e435036dce80f3b4e4" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Web_design&amp;oldid=970749570">https://en.wikipedia.org/w/index.php?title=Web_design&amp;oldid=970749570</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Web_design" title="Category:Web design">Web design</a></li><li><a href="/wiki/Category:Computer-related_introductions_in_1989" title="Category:Computer-related introductions in 1989">Computer-related introductions in 1989</a></li><li><a href="/wiki/Category:Communication_design" title="Category:Communication design">Communication design</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_uses_authors_parameter" title="Category:CS1 maint: uses authors parameter">CS1 maint: uses authors parameter</a></li><li><a href="/wiki/Category:Wikipedia_indefinitely_semi-protected_pages" title="Category:Wikipedia indefinitely semi-protected pages">Wikipedia indefinitely semi-protected pages</a></li><li><a href="/wiki/Category:Use_British_English_from_July_2016" title="Category:Use British English from July 2016">Use British English from July 2016</a></li><li><a href="/wiki/Category:All_articles_with_vague_or_ambiguous_time" title="Category:All articles with vague or ambiguous time">All articles with vague or ambiguous time</a></li><li><a href="/wiki/Category:Vague_or_ambiguous_time_from_May_2016" title="Category:Vague or ambiguous time from May 2016">Vague or ambiguous time from May 2016</a></li><li><a href="/wiki/Category:All_articles_with_specifically_marked_weasel-worded_phrases" title="Category:All articles with specifically marked weasel-worded phrases">All articles with specifically marked weasel-worded phrases</a></li><li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_May_2016" title="Category:Articles with specifically marked weasel-worded phrases from May 2016">Articles with specifically marked weasel-worded phrases from May 2016</a></li><li><a href="/wiki/Category:Articles_with_Curlie_links" title="Category:Articles with Curlie links">Articles with Curlie links</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_NDL_identifiers" title="Category:Wikipedia articles with NDL identifiers">Wikipedia articles with NDL identifiers</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Web+design" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Web+design" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Web_design" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Web_design" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/Web_design">Read</a></li><li id="ca-viewsource"><a href="/w/index.php?title=Web_design&amp;action=edit" title="This page is protected.&#10;You can view its source [e]" accesskey="e">View source</a></li><li id="ca-history"><a href="/w/index.php?title=Web_design&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label">
+		<span>Contribute</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Web_design" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Web_design" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Web_design&amp;oldid=970749570" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Web_design&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Web_design&amp;id=970749570&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q190637" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label">
+		<span>Print/export</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Web+design&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Web_design&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label">
+		<span>In other projects</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Web_design" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikiversity"><a href="https://en.wikiversity.org/wiki/Web_design" hreflang="en">Wikiversity</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label">
+		<span>Languages</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%85%D9%8A%D9%85_%D9%85%D9%88%D8%A7%D9%82%D8%B9_%D8%A7%D9%84%D9%88%D9%8A%D8%A8" title="تصميم مواقع الويب – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Dise%C3%B1u_web" title="Diseñu web – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Veb-dizayn" title="Veb-dizayn – Azerbaijani" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%93%E0%A6%AF%E0%A6%BC%E0%A7%87%E0%A6%AC_%E0%A6%A1%E0%A6%BF%E0%A6%9C%E0%A6%BE%E0%A6%87%E0%A6%A8" title="ওয়েব ডিজাইন – Bangla" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%92%D1%8D%D0%B1-%D0%B4%D1%8B%D0%B7%D0%B0%D0%B9%D0%BD" title="Вэб-дызайн – Belarusian" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-tarask.wikipedia.org/wiki/%D0%92%D1%8D%D0%B1-%D0%B4%D1%8B%D0%B7%D0%B0%D0%B9%D0%BD" title="Вэб-дызайн – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%A3%D0%B5%D0%B1_%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD" title="Уеб дизайн – Bulgarian" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Veb_dizajn" title="Veb dizajn – Bosnian" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Disseny_web" title="Disseny web – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Webdesign" title="Webdesign – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Webdesign" title="Webdesign – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Veebidisain" title="Veebidisain – Estonian" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%9A%CE%B1%CF%84%CE%B1%CF%83%CE%BA%CE%B5%CF%85%CE%AE_%CE%B9%CF%83%CF%84%CE%BF%CF%83%CE%B5%CE%BB%CE%AF%CE%B4%CF%89%CE%BD" title="Κατασκευή ιστοσελίδων – Greek" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Dise%C3%B1o_web" title="Diseño web – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C_%D9%88%D8%A8" title="طراحی وب – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Conception_de_site_web" title="Conception de site web – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Dese%C3%B1o_web" title="Deseño web – Galician" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-gu"><a href="https://gu.wikipedia.org/wiki/%E0%AA%B5%E0%AB%87%E0%AA%AC_%E0%AA%A1%E0%AA%BF%E0%AA%9D%E0%AA%BE%E0%AA%88%E0%AA%A8" title="વેબ ડિઝાઈન – Gujarati" lang="gu" hreflang="gu" class="interlanguage-link-target">ગુજરાતી</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%9B%B9_%EB%94%94%EC%9E%90%EC%9D%B8" title="웹 디자인 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D5%8E%D5%A5%D5%A2_%D5%A4%D5%AB%D5%A6%D5%A1%D5%B5%D5%B6" title="Վեբ դիզայն – Armenian" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A5%87%E0%A4%AC_%E0%A4%A1%E0%A4%BF%E0%A4%9C%E0%A4%BE%E0%A4%87%E0%A4%A8" title="वेब डिजाइन – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Web_dizajn" title="Web dizajn – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Perancangan_web" title="Perancangan web – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Web_design" title="Web design – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%A2%D7%99%D7%A6%D7%95%D7%91_%D7%90%D7%AA%D7%A8_%D7%90%D7%99%D7%A0%D7%98%D7%A8%D7%A0%D7%98" title="עיצוב אתר אינטרנט – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%95%E1%83%94%E1%83%91%E1%83%93%E1%83%98%E1%83%96%E1%83%90%E1%83%98%E1%83%9C%E1%83%98" title="ვებდიზაინი – Georgian" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/Malpersaz%C3%AE" title="Malpersazî – Kurdish" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Webdiz%C3%A1jn" title="Webdizájn – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%A3%D1%80%D0%B5%D0%B4%D1%83%D0%B2%D0%B0%D1%9A%D0%B5_%D0%BD%D0%B0_%D0%BC%D1%80%D0%B5%D0%B6%D0%BD%D0%B8_%D0%BC%D0%B5%D1%81%D1%82%D0%B0" title="Уредување на мрежни места – Macedonian" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Webdesign" title="Webdesign – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A7%E3%83%96%E3%83%87%E3%82%B6%E3%82%A4%E3%83%B3" title="ウェブデザイン – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Webdesign" title="Webdesign – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Vevdesign" title="Vevdesign – Norwegian Nynorsk" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Web_design" title="Web design – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Web_design" title="Web design – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Design_web" title="Design web – Romanian" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%92%D0%B5%D0%B1-%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD" title="Веб-дизайн – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Web_design" title="Web design – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Webov%C3%BD_dizajn" title="Webový dizajn – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-so"><a href="https://so.wikipedia.org/wiki/Dhismaha_websiteka" title="Dhismaha websiteka – Somali" lang="so" hreflang="so" class="interlanguage-link-target">Soomaaliga</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%92%D0%B5%D0%B1-%D0%B4%D0%B8%D0%B7%D0%B0%D1%98%D0%BD" title="Веб-дизајн – Serbian" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Web-dizajn" title="Web-dizajn – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Web_design" title="Web design – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Webbdesign" title="Webbdesign – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%87%E0%AE%A3%E0%AF%88%E0%AE%AF%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%B3_%E0%AE%B5%E0%AE%9F%E0%AE%BF%E0%AE%B5%E0%AE%AE%E0%AF%88%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81" title="இணையத்தள வடிவமைப்பு – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%B5%E0%B1%86%E0%B0%AC%E0%B1%8D_%E0%B0%A1%E0%B0%BF%E0%B0%9C%E0%B1%88%E0%B0%A8%E0%B1%8D" title="వెబ్ డిజైన్ – Telugu" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Web_grafik_tasar%C4%B1m%C4%B1" title="Web grafik tasarımı – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%92%D0%B5%D0%B1%D0%B4%D0%B8%D0%B7%D0%B0%D0%B9%D0%BD" title="Вебдизайн – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Thi%E1%BA%BFt_k%E1%BA%BF_web" title="Thiết kế web – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1" title="网页设计 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E7%B6%B2%E9%A0%81%E8%A8%AD%E8%A8%88" title="網頁設計 – Cantonese" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%BD%91%E9%A1%B5%E8%AE%BE%E8%AE%A1" title="网页设计 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q190637#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 2 August 2020, at 04:25<span class="anonymous-show">&#160;(UTC)</span>.</li>
+		<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+		<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+		<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Web_design&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="assets/d0baecaa986ff7633a512d4b50947d64.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="assets/ff74a01dcaa635dc8296ffd80fbd87eb.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.652","walltime":"0.842","ppvisitednodes":{"value":2367,"limit":1000000},"postexpandincludesize":{"value":128413,"limit":2097152},"templateargumentsize":{"value":1933,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":10,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":126188,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  699.160      1 -total"," 31.09%  217.336      2 Template:Reflist"," 22.61%  158.065     15 Template:Citation"," 12.32%   86.152      1 Template:Pp-semi-indef","  9.86%   68.906      2 Template:When","  9.03%   63.153      2 Template:Fix","  8.11%   56.710      1 Template:Authority_control","  7.73%   54.076     11 Template:Cite_web","  6.49%   45.386      1 Template:Design","  6.24%   43.658      5 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.348","limit":"10.000"},"limitreport-memusage":{"value":6376173,"limit":52428800}},"cachereport":{"origin":"mw1356","timestamp":"20200810200956","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Web design","url":"https:\/\/en.wikipedia.org\/wiki\/Web_design","sameAs":"http:\/\/www.wikidata.org\/entity\/Q190637","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q190637","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-02-25T15:51:15Z","dateModified":"2020-08-02T04:25:27Z","headline":"skills and disciplines in the production and maintenance of websites"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":150,"wgHostname":"mw1373"});});</script>
+
+<div style="position:fixed;top:0;left:0;width:100%;height:45px;z-index:2147483647;background-color:rgba(253,147,38,0.90) !important;color:black !important;text-align:right !important;font:normal 12px/45px Arial, sans-serif !important;border-radius:0 !important;margin:0 !important;max-width:100% !important;background-repeat: no-repeat !important;background-position: 15px center !important;
+background-image: url(data:image/png;base64,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);
+"><span style="padding-right:15px;">You are viewing a snapshot of <a style='font-weight:bold !important; color:white !important' href='http://en.wikipedia.org/wiki/Web_design'>http://en.wikipedia.org/wiki/Web_design</a> created on 2020/08/11</span></div></body></html>

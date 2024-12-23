@@ -1,0 +1,21 @@
+/*
+ * See: https://fonts.google.com/license/googlerestricted
+ */
+@font-face {
+  font-family: 'YT Sans';
+  font-style: normal;
+  font-weight: 300;
+  src: local('YTSans Light'), local('YTSans-Light'), url(../assets/fbf283647f3e5518170c6fc6e1f6dd4b.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'YT Sans';
+  font-style: normal;
+  font-weight: 500;
+  src: local('YTSans Medium'), local('YTSans-Medium'), url(../assets/7e553ab730ccd6d7ffa6ee17602789bd.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'YT Sans';
+  font-style: normal;
+  font-weight: 700;
+  src: local('YTSans Bold'), local('YTSans-Bold'), url(../assets/99b194c3470d021181081765cd406767.ttf) format('truetype');
+}

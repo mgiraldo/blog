@@ -1,0 +1,1 @@
+window.showAds=1

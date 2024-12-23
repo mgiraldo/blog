@@ -1,0 +1,588 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>TrueType - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"e9e715eb-9361-4779-b75b-79b6cfc0cb1c","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"TrueType","wgTitle":"TrueType","wgCurRevisionId":969361331,"wgRevisionId":969361331,"wgArticleId":31187,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with short description","Short description matches Wikidata","Typesetting","Digital typography","Font formats"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"TrueType","wgRelevantArticleId":31187,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,
+"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q751800"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready","mediawiki.toc.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready",
+"ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="assets/3b055fed185f27e4e7f0020518908b58.css"/>
+<script async="" src="assets/c065145ab1ee4f734095d2092a9278ed.php"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="assets/dab0269550e613a8f8d91320ac5db71f.css"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.3"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=TrueType&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=TrueType&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/TrueType"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-TrueType rootpage-TrueType skin-vector action-view skin-vector-legacy"><div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">TrueType</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="shortdescription nomobile noexcerpt noprint searchaux" style="display:none">File format</div>
+<table class="infobox" style="width:22em"><caption style="font-size:130%; padding-bottom:0.15em;">TrueType</caption><tbody><tr><th scope="row" style="line-height:1.2em; padding-right:0.65em;"><a href="/wiki/Filename_extension" title="Filename extension">Filename extension</a></th><td style="line-height:1.35em;"><code>.ttf</code>&#160;&amp;&#160;<code>.tte</code>&#160;(for&#160;<a href="/wiki/Private_Use_Areas" title="Private Use Areas">EUDC</a>&#160;usage) for <a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Microsoft Windows</a>, <code>.dfont</code> for <a href="/wiki/MacOS" title="MacOS">macOS</a></td></tr><tr><th scope="row" style="line-height:1.2em; padding-right:0.65em;"><a href="/wiki/Media_type" title="Media type">Internet media&#160;type</a></th><td style="line-height:1.35em;"><div class="plainlist"><ul><li><code>font/ttf</code></li><li><code>font/sfnt</code></li><li><code>application/x-font-ttf</code></li><li><code>application/font-sfnt</code>&#160;(deprecated)</li></ul></div><sup id="cite_ref-iana-media-types_1-0" class="reference"><a href="#cite_note-iana-media-types-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row" style="line-height:1.2em; padding-right:0.65em;"><a href="/wiki/Type_code" class="mw-redirect" title="Type code">Type code</a></th><td style="line-height:1.35em;">TFIL</td></tr><tr><th scope="row" style="line-height:1.2em; padding-right:0.65em;"><a href="/wiki/Uniform_Type_Identifier" title="Uniform Type Identifier">Uniform Type Identifier&#160;(UTI)</a></th><td style="line-height:1.35em;"><code>public.truetype-ttf-font</code></td></tr><tr><th scope="row" style="line-height:1.2em; padding-right:0.65em;">Developed&#160;by</th><td style="line-height:1.35em;"><a href="/wiki/Apple_Computer" class="mw-redirect" title="Apple Computer">Apple Computer</a></td></tr><tr><th scope="row" style="line-height:1.2em; padding-right:0.65em;">Type of format</th><td style="line-height:1.35em;"><a href="/wiki/Outline_font" class="mw-redirect" title="Outline font">outline font</a></td></tr><tr><th scope="row" style="line-height:1.2em; padding-right:0.65em;">Extended&#160;from</th><td style="line-height:1.35em;"><a href="/wiki/SFNT" title="SFNT">SFNT</a></td></tr></tbody></table>
+<p><b>TrueType</b> is an <a href="/wiki/Outline_font" class="mw-redirect" title="Outline font">outline font</a> <a href="/wiki/Standardization" title="Standardization">standard</a> developed by <a href="/wiki/Apple_Inc." title="Apple Inc.">Apple</a> in the late 1980s as a competitor to <a href="/wiki/Adobe_Inc." title="Adobe Inc.">Adobe</a>'s <a href="/wiki/Type_1_font" class="mw-redirect" title="Type 1 font">Type 1 fonts</a> used in <a href="/wiki/PostScript" title="PostScript">PostScript</a>.  It has become the most common format for fonts on the <a href="/wiki/Classic_Mac_OS" title="Classic Mac OS">classic Mac OS</a>, <a href="/wiki/MacOS" title="MacOS">macOS</a>, and <a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Microsoft Windows</a> operating systems.
+</p><p>The primary strength of TrueType was originally that it offered <a href="/wiki/Font" title="Font">font</a> developers a high degree of control over precisely how their fonts are displayed, right down to particular <a href="/wiki/Pixel" title="Pixel">pixels</a>, at various font sizes. With widely varying <a href="/wiki/Rendering_(computer_graphics)" title="Rendering (computer graphics)">rendering</a> technologies in use today, pixel-level control is no longer certain in a TrueType font.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Adoption_by_Microsoft"><span class="tocnumber">1.1</span> <span class="toctext">Adoption by Microsoft</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#TrueType_today"><span class="tocnumber">2</span> <span class="toctext">TrueType today</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Macintosh_and_Microsoft_Windows"><span class="tocnumber">2.1</span> <span class="toctext">Macintosh and Microsoft Windows</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Linux_and_other_platforms"><span class="tocnumber">2.2</span> <span class="toctext">Linux and other platforms</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Technical_notes"><span class="tocnumber">3</span> <span class="toctext">Technical notes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Outlines"><span class="tocnumber">3.1</span> <span class="toctext">Outlines</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Hinting_language"><span class="tocnumber">3.2</span> <span class="toctext">Hinting language</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Embedding_protection"><span class="tocnumber">3.3</span> <span class="toctext">Embedding protection</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Font_formats"><span class="tocnumber">3.4</span> <span class="toctext">Font formats</span></a>
+<ul>
+<li class="toclevel-3 tocsection-11"><a href="#TrueType_Collection"><span class="tocnumber">3.4.1</span> <span class="toctext">TrueType Collection</span></a></li>
+<li class="toclevel-3 tocsection-12"><a href="#Emoji"><span class="tocnumber">3.4.2</span> <span class="toctext">Emoji</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-13"><a href="#File_formats"><span class="tocnumber">3.5</span> <span class="toctext">File formats</span></a>
+<ul>
+<li class="toclevel-3 tocsection-14"><a href="#Basic"><span class="tocnumber">3.5.1</span> <span class="toctext">Basic</span></a></li>
+<li class="toclevel-3 tocsection-15"><a href="#Suitcase"><span class="tocnumber">3.5.2</span> <span class="toctext">Suitcase</span></a></li>
+<li class="toclevel-3 tocsection-16"><a href="#PostScript"><span class="tocnumber">3.5.3</span> <span class="toctext">PostScript</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TrueType&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><i>TrueType</i> was known during its development stage, first by the codename "Bass" and later on by the codename "Royal".<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> The system was developed and eventually released as TrueType with the launch of Mac <a href="/wiki/System_7" title="System 7">System 7</a> in May 1991. The initial TrueType outline fonts, four-weight families of <i><a href="/wiki/Times_Roman" class="mw-redirect" title="Times Roman">Times Roman</a></i>, <i><a href="/wiki/Helvetica" title="Helvetica">Helvetica</a></i>, <i><a href="/wiki/Courier_(typeface)" title="Courier (typeface)">Courier</a></i>,<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> and the pi font "Symbol" replicated the original PostScript fonts of the Apple LaserWriter. Apple also replaced some of their <a href="/wiki/Bitmap_font" class="mw-redirect" title="Bitmap font">bitmap fonts</a> used by the graphical user-interface of previous Macintosh System versions (including Geneva, Monaco and New York) with scalable TrueType outline-fonts.  For compatibility with older systems, Apple shipped these fonts, a TrueType <a href="/wiki/Extension_(Mac_OS)" title="Extension (Mac OS)">Extension</a> and a TrueType-aware version of <a href="/wiki/Typography_of_Apple_Inc." title="Typography of Apple Inc.">Font/DA Mover</a> for <a href="/wiki/System_6" title="System 6">System 6</a>. For compatibility with the Laserwriter II, Apple developed fonts like ITC Bookman and ITC Chancery in TrueType format.
+</p><p>All of these fonts could now scale to all sizes on screen and printer, making the Macintosh System 7 the first OS to work without any bitmap fonts. The early TrueType systems&#160;— being still part of Apple's QuickDraw graphics subsystem&#160;— did not render Type 1 fonts on-screen as they do today. At the time, many users had already invested considerable money in Adobe's still proprietary Type 1 fonts. As part of Apple's tactic of opening the font format versus Adobe's desire to keep it closed to all but Adobe licensees, Apple licensed TrueType to <a href="/wiki/Microsoft" title="Microsoft">Microsoft</a>. When TrueType and the license to Microsoft was announced, <a href="/wiki/John_Warnock" title="John Warnock">John Warnock</a> of Adobe gave an impassioned speech in which he claimed Apple and Microsoft were selling <a href="/wiki/Snake_oil" title="Snake oil">snake oil</a>, and then announced that the Type 1 format was open for anyone to use.
+</p><p>Meanwhile,  in exchange for TrueType, Apple got a license for <a href="/wiki/TrueImage" title="TrueImage">TrueImage</a>, a <a href="/wiki/PostScript" title="PostScript">PostScript</a>-compatible page-description language owned by Microsoft that Apple could use in <a href="/wiki/Laser_printing" title="Laser printing">laser printing</a>. This was never actually included in any Apple products when a later deal was struck between Apple and Adobe, where Adobe promised to put a TrueType interpreter in their PostScript printer boards. Apple renewed its agreements with Adobe for the use of PostScript in its printers, resulting in lower royalty payments to Adobe, who was beginning to license printer controllers capable of competing directly with Apple's LaserWriter printers.
+</p><p>Part of <a href="/wiki/Adobe_Systems" class="mw-redirect" title="Adobe Systems">Adobe</a>'s response to learning that TrueType was being developed was to create the <a href="/wiki/Adobe_Type_Manager" title="Adobe Type Manager">Adobe Type Manager</a> software to scale Type 1 fonts for <a href="/wiki/Spatial_anti-aliasing" title="Spatial anti-aliasing">anti-aliased</a> output on-screen. Although ATM initially cost money, rather than coming free with the operating system, it became a <i>de facto</i> standard for anyone involved in <a href="/wiki/Desktop_publishing" title="Desktop publishing">desktop publishing</a>. Anti-aliased rendering, combined with Adobe applications' ability to zoom in to read small type, and further combined with the now open PostScript Type 1 font format,  provided the impetus for an explosion in font design and in desktop publishing of newspapers and magazines.
+</p><p>Apple extended TrueType with the launch of <a href="/wiki/QuickDraw_GX#TrueType_GX" title="QuickDraw GX">TrueType GX</a> in 1994, with additional tables in the <a href="/wiki/SFNT" title="SFNT">sfnt</a> which formed part of <a href="/wiki/QuickDraw_GX" title="QuickDraw GX">QuickDraw GX</a>. This offered powerful extensions in two main areas. First was font axes (<a href="/wiki/Morphing" title="Morphing">morphing</a>), for example allowing fonts to be smoothly adjusted from light to bold or from narrow to extended&#160;— competition for Adobe's "<a href="/wiki/Multiple_master_fonts" title="Multiple master fonts">multiple master</a>" technology. Second was Line Layout Manager, where particular sequences of characters can be coded to flip to different designs in certain circumstances, useful for example to offer <a href="/wiki/Typographic_ligature" class="mw-redirect" title="Typographic ligature">ligatures</a> for "fi", "ffi", "ct", etc. while maintaining the backing store of characters necessary for <a href="/wiki/Spell_checker" title="Spell checker">spell checkers</a> and text searching. However, the lack of user-friendly tools for making TrueType GX fonts meant there were no more than a handful of GX fonts.
+</p><p>Much of the technology in TrueType GX, including morphing and substitution, lives on as AAT (<a href="/wiki/Apple_Advanced_Typography" title="Apple Advanced Typography">Apple Advanced Typography</a>) in <a href="/wiki/MacOS" title="MacOS">macOS</a>. Few font-developers outside Apple attempt to make AAT fonts; instead, <a href="/wiki/OpenType" title="OpenType">OpenType</a> has become the dominant sfnt format.
+</p>
+<h3><span class="mw-headline" id="Adoption_by_Microsoft">Adoption by Microsoft</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TrueType&amp;action=edit&amp;section=2" title="Edit section: Adoption by Microsoft">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>To ensure its wide adoption, Apple licensed TrueType to Microsoft for free.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>  By 1991 Microsoft added TrueType into the <a href="/wiki/Windows_3.1" class="mw-redirect" title="Windows 3.1">Windows 3.1</a> operating system. In partnership with their contractors, <a href="/wiki/Monotype_Imaging" title="Monotype Imaging">Monotype Imaging</a>, Microsoft put a lot of effort into creating a set of high quality TrueType fonts that were compatible with the core fonts being bundled with PostScript equipment at the time. This included the fonts that are standard with Windows to this day: <a href="/wiki/Times_New_Roman" title="Times New Roman">Times New Roman</a> (compatible with Times Roman), <a href="/wiki/Arial" title="Arial">Arial</a> (compatible with Helvetica) and <a href="/wiki/Courier_New" class="mw-redirect" title="Courier New">Courier New</a> (compatible with Courier). One should understand "compatible" to mean two things: first, that the fonts are similar in appearance, and second&#160;— and very importantly&#160;— the fonts have the same character widths, and so can be used to typeset the same documents without reflowing the text.
+</p><p>Microsoft and Monotype technicians used TrueType's <a href="/wiki/Font_hinting" title="Font hinting">hinting</a> technology to ensure that these fonts did not suffer from the problem of illegibility at low resolutions, which had previously forced the use of bitmapped fonts for screen display. Subsequent advances in technology have introduced first anti-aliasing, which smooths the edges of fonts at the expense of a slight blurring, and more recently <a href="/wiki/Subpixel_rendering" title="Subpixel rendering">subpixel rendering</a> (the Microsoft implementation goes by the name <a href="/wiki/ClearType" title="ClearType">ClearType</a>), which exploits the pixel structure of <a href="/wiki/LCD" class="mw-redirect" title="LCD">LCD</a> based displays to increase the apparent resolution of text. Microsoft has heavily marketed ClearType, and sub-pixel rendering techniques for text are now widely used on all platforms.
+</p><p>Microsoft also developed a "smart font" technology, named <i>TrueType Open</i> in 1994, later renamed to <a href="/wiki/OpenType" title="OpenType">OpenType</a> in 1996 when it merged support of the <a href="/wiki/Adobe_Inc." title="Adobe Inc.">Adobe</a> Type 1 glyph outlines.
+</p>
+<h2><span class="mw-headline" id="TrueType_today">TrueType today</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TrueType&amp;action=edit&amp;section=3" title="Edit section: TrueType today">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Macintosh_and_Microsoft_Windows">Macintosh and Microsoft Windows</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TrueType&amp;action=edit&amp;section=4" title="Edit section: Macintosh and Microsoft Windows">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>TrueType has long been the most common format for fonts on <a href="/wiki/Classic_Mac_OS" title="Classic Mac OS">classic Mac OS</a>, <a href="/wiki/MacOS" title="MacOS">Mac OS X</a>, and <a href="/wiki/Microsoft_Windows" title="Microsoft Windows">Microsoft Windows</a>, although Mac OS X and Microsoft Windows also include native support for Adobe's Type 1 format and the <a href="/wiki/OpenType" title="OpenType">OpenType</a> extension to TrueType (since <a href="/wiki/Mac_OS_X_10.0" title="Mac OS X 10.0">Mac OS X 10.0</a> and <a href="/wiki/Windows_2000" title="Windows 2000">Windows 2000</a>). While some fonts provided with the new operating systems are now in the OpenType format, most free or inexpensive third-party fonts use plain TrueType.
+</p><p>Increasing resolutions and new approaches to screen rendering have reduced the requirement of extensive TrueType hinting. Apple's rendering approach on macOS ignores almost all the hints in a TrueType font, while Microsoft's ClearType ignores many hints, and according to Microsoft, works best with "lightly hinted" fonts.
+</p>
+<h3><span class="mw-headline" id="Linux_and_other_platforms">Linux and other platforms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TrueType&amp;action=edit&amp;section=5" title="Edit section: Linux and other platforms">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/FreeType" title="FreeType">FreeType</a> project of David Turner has created an independent implementation of the TrueType standard (as well as other font standards in FreeType 2). FreeType is included in many <a href="/wiki/Linux" title="Linux">Linux</a> distributions.
+</p><p>Until May 2010, there were potential patent infringements in FreeType 1 because parts of the TrueType <a href="/wiki/Font_hinting" title="Font hinting">hinting</a> virtual machine were <a href="/wiki/Patent" title="Patent">patented</a> by Apple, a fact not mentioned in the TrueType standards. (Patent holders who contribute to standards published by a major standards body such as <a href="/wiki/International_Organization_for_Standardization" title="International Organization for Standardization">ISO</a> are required to disclose the scope of their patents, but TrueType was not such a standard.)<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> FreeType 2 included an optional automatic hinter to avoid the patented technology, but these patents have now expired so FreeType 2.4 now enables these features by default.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Technical_notes">Technical notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TrueType&amp;action=edit&amp;section=6" title="Edit section: Technical notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Outlines">Outlines</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TrueType&amp;action=edit&amp;section=7" title="Edit section: Outlines">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Circle_and_quadratic_bezier.svg" class="image"><img alt="" src="assets/953e272308bfaf0ffca39e55a75de01a.png" decoding="async" width="220" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Circle_and_quadratic_bezier.svg/330px-Circle_and_quadratic_bezier.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Circle_and_quadratic_bezier.svg/440px-Circle_and_quadratic_bezier.svg.png 2x" data-file-width="256" data-file-height="256" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Circle_and_quadratic_bezier.svg" class="internal" title="Enlarge"></a></div>A quadratic Bézier curve segment is defined by two end points and one control point.  This circle is eight contiguous segments.  The squares are end points and the circles are control points.</div></div></div>
+<p>The outlines of the characters (or <a href="/wiki/Glyph" title="Glyph">glyphs</a>) in TrueType fonts are made of straight line segments and quadratic <a href="/wiki/B%C3%A9zier_curve" title="Bézier curve">Bézier curves</a>. These curves are mathematically simpler and faster to process than cubic Bézier curves, which are used both in the <a href="/wiki/PostScript" title="PostScript">PostScript</a>-centered world of <a href="/wiki/Graphic_design" title="Graphic design">graphic design</a> and in Type 1 fonts. However, most shapes require more points to describe with quadratic curves than cubics. This difference also means that it is not possible to convert Type 1 losslessly to the TrueType format, although in practice it is often possible to do a lossless conversion from TrueType to Type 1.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Hinting_language">Hinting language</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TrueType&amp;action=edit&amp;section=8" title="Edit section: Hinting language">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>TrueType systems include a <a href="/wiki/Virtual_machine" title="Virtual machine">virtual machine</a> that executes programs inside the font, processing the "<a href="/wiki/Font_hinting" title="Font hinting">hints</a>" of the <a href="/wiki/Glyph" title="Glyph">glyphs</a>. These distort the control points which define the outline, with the intention that the rasterizer produce fewer undesirable features on the glyph. Each glyph's hinting program takes account of the size (in pixels) at which the glyph is to be displayed, as well as other less important factors of the display environment.
+</p><p>Although incapable of receiving input and producing output as normally understood in programming, the TrueType hinting language does offer the other prerequisites of programming languages: <a href="/wiki/Conditional_branch" class="mw-redirect" title="Conditional branch">conditional branching</a> (IF statements), <a href="/wiki/Control_flow#Loops" title="Control flow">looping</a> an arbitrary number of times (FOR- and WHILE-type statements), variables (although these are simply numbered slots in an area of memory reserved by the font), and encapsulation of code into functions. Special instructions called delta hints are the lowest level control, moving a control point at just one pixel size.
+</p><p>The hallmark of effective TrueType glyph programming techniques is that it does as much as possible using variables defined just once in the whole font (e.g., stem widths, <a href="/wiki/Cap_height" title="Cap height">cap height</a>, <a href="/wiki/X-height" title="X-height">x-height</a>). This means avoiding delta instructions as much as possible. This helps the font developer to make major changes (e.g., the point at which the entire font's main stems jump from 1 to 2 pixels wide) most of the way through development.
+</p><p>Creating a very well-hinted TrueType font remains a significant amount of work, despite the increased user-friendliness of programs for adding hints to fonts. Many TrueType fonts therefore have only rudimentary hints, or have hinting automatically applied by the font editor, with results of variable quality.
+</p>
+<h3><span class="mw-headline" id="Embedding_protection">Embedding protection</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TrueType&amp;action=edit&amp;section=9" title="Edit section: Embedding protection">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The TrueType format allows for the most basic type of <a href="/wiki/Digital_rights_management" title="Digital rights management">digital rights management</a>&#160;– an <i>embeddable <a href="/wiki/Flag_field" class="mw-redirect" title="Flag field">flag field</a></i> that specifies whether the author allows embedding of the font file into things like <a href="/wiki/Portable_Document_Format" class="mw-redirect" title="Portable Document Format">PDF</a> files and websites. Anyone with access to the font file can directly modify this field, and simple tools exist to facilitate modifying it (obviously, modifying this field does not modify the font license and does not give extra legal rights).<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> These tools have been the subject of controversy over potential copyright issues.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup><sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Font_formats">Font formats</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TrueType&amp;action=edit&amp;section=10" title="Edit section: Font formats">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="TrueType_Collection">TrueType Collection</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TrueType&amp;action=edit&amp;section=11" title="Edit section: TrueType Collection">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>TrueType Collection (TTC) is an extension of TrueType format that allows combining multiple fonts into a single file, creating substantial space savings for a collection of fonts with many glyphs in common. They were first available in Chinese, Japanese, and Korean versions of Windows, and supported for all regions in Windows 2000 and later.
+</p><p>Classic Mac OS included support of TTC starting with <a href="/wiki/Mac_OS_8" title="Mac OS 8">Mac OS 8</a>.5. In classic Mac OS and macOS, TTC has file type <tt>ttcf</tt>.
+</p>
+<h4><span class="mw-headline" id="Emoji">Emoji</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TrueType&amp;action=edit&amp;section=12" title="Edit section: Emoji">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Apple has implemented a proprietary extension to allow color .ttf files for its <a href="/wiki/Emoji" title="Emoji">emoji</a> font <a href="/wiki/Apple_Color_Emoji" title="Apple Color Emoji">Apple Color Emoji</a>.
+</p>
+<h3><span class="mw-headline" id="File_formats">File formats</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TrueType&amp;action=edit&amp;section=13" title="Edit section: File formats">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<h4><span class="mw-headline" id="Basic">Basic</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TrueType&amp;action=edit&amp;section=14" title="Edit section: Basic">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>A basic font is composed of multiple tables specified in its header. A table name can have up to 4 letters.
+</p><p>A TrueType Collection file begins with a ttcf table that allows access to the fonts within the collection by pointing to individual headers for each included font. The fonts within a collection share the same glyph-outline table, though each font can refer to subsets within those outlines in its own manner, through its 'cmap', 'name' and 'loca' tables.
+</p><p>A .ttf extension indicates a regular TrueType font or an OpenType font with TrueType outlines, while a .ttc extension is reserved for TTCs. Windows end user defined character editor (EUDCEDIT.EXE) creates TrueType font with name EUDC.TTE.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> An OpenType font with PostScript outlines must have an .otf extension. In principle an OpenType font with TrueType outlines may have an .otf extension, but this has rarely been done in practice.
+</p><p>In classic Mac OS and macOS, OpenType is one of several formats referred to as data-fork fonts, as they lack the classic Mac resource fork.
+</p>
+<h4><span class="mw-headline" id="Suitcase">Suitcase</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TrueType&amp;action=edit&amp;section=15" title="Edit section: Suitcase">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>The suitcase format for TrueType is used on classic Mac OS and macOS. It adds additional Apple-specific information.
+</p><p>Like TTC, it can handle multiple fonts within a single file. But unlike TTC, those fonts need not be within the same family.
+</p><p>Suitcases come in <a href="/wiki/Resource_fork" title="Resource fork">resource-fork and data-fork</a> formats. The resource-fork version was the original suitcase format. Data-fork-only suitcases, which place the resource fork contents into the data fork, were first supported in macOS. A suitcase packed into the data-fork-only format has the extension <i><a href="/wiki/Dfont" class="mw-redirect" title="Dfont">dfont</a></i>.
+</p>
+<h4><span class="mw-headline" id="PostScript">PostScript</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TrueType&amp;action=edit&amp;section=16" title="Edit section: PostScript">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>In the <a href="/wiki/PostScript" title="PostScript">PostScript</a> language, TrueType outlines are handled with a PostScript wrapper as Type 42 for name-keyed or Type 11 for <a href="/wiki/CID_fonts" class="mw-redirect" title="CID fonts">CID-keyed</a> fonts.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TrueType&amp;action=edit&amp;section=17" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/ClearType" title="ClearType">ClearType</a></li>
+<li><a href="/wiki/Datafork_TrueType" title="Datafork TrueType">Datafork TrueType</a></li>
+<li><a href="/wiki/Font_embedding" title="Font embedding">Embedded</a> TrueType font</li>
+<li><a href="/wiki/Open-source_Unicode_typefaces" title="Open-source Unicode typefaces">Open-source Unicode typefaces</a></li>
+<li><a href="/wiki/GNU_FreeFont" title="GNU FreeFont">GNU FreeFont</a></li>
+<li><a href="/wiki/Graphite_(SIL)" title="Graphite (SIL)">Graphite (SIL)</a></li>
+<li><a href="/wiki/FreeType" title="FreeType">FreeType</a></li>
+<li><a href="/wiki/Nonzero-rule" title="Nonzero-rule">Nonzero-rule</a></li>
+<li><a href="/wiki/Online_office_suite" title="Online office suite">Online office suite</a></li>
+<li><a href="/wiki/OpenType" title="OpenType">OpenType</a></li>
+<li><a href="/wiki/Pango" title="Pango">Pango</a> (Open source multilingual text rendering engine)</li>
+<li><a href="/wiki/Typography" title="Typography">Typography</a></li>
+<li><a href="/wiki/Typeface" title="Typeface">Typeface</a></li>
+<li><a href="/wiki/Unicode" title="Unicode">Unicode</a>,  <a href="/wiki/UTF-8" title="UTF-8">UTF-8</a>, <a href="/wiki/Unicode_font" title="Unicode font">Unicode fonts</a>.</li>
+<li><a href="/wiki/Uniscribe" title="Uniscribe">Uniscribe</a> (Windows multilingual text rendering engine)</li>
+<li><a href="/wiki/Apple_Type_Services_for_Unicode_Imaging" title="Apple Type Services for Unicode Imaging">Apple Type Services for Unicode Imaging</a> (New Macintosh multilingual text rendering engine)</li>
+<li><a href="/wiki/Core_Text" title="Core Text">Core Text</a></li>
+<li><a href="/wiki/WorldScript" title="WorldScript">WorldScript</a> (Old Macintosh multilingual text rendering engine)</li>
+<li><a href="/wiki/Web_Open_Font_Format" title="Web Open Font Format">Web Open Font Format</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TrueType&amp;action=edit&amp;section=18" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns"><ol class="references">
+<li id="cite_note-iana-media-types-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-iana-media-types_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="//www.iana.org/assignments/media-types/media-types.xhtml">"Media Types"</a>. <a href="/wiki/Internet_Assigned_Numbers_Authority" title="Internet Assigned Numbers Authority">IANA</a>. 2017-10-12<span class="reference-accessdate">. Retrieved <span class="nowrap">2017-10-17</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Media+Types&amp;rft.pub=IANA&amp;rft.date=2017-10-12&amp;rft_id=%2F%2Fwww.iana.org%2Fassignments%2Fmedia-types%2Fmedia-types.xhtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATrueType" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r951705291">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background-image:url("assets/d4e7cc61232afb2b2b94df937ca19111.png");background-image:linear-gradient(transparent,transparent),url("assets/bd670353c83f78ac9bf7920d3135114a.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background-image:url("assets/6e4cfa7b3160bba14bae3b7c771d6b1e.png");background-image:linear-gradient(transparent,transparent),url("assets/a37b208d8a82dd697fbb820509243556.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background-image:url("assets/0225d20521fa7e24cfc3d4845805124a.png");background-image:linear-gradient(transparent,transparent),url("assets/407b2f7ef21a3c79d854bf0d6e7f538b.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background-image:url("assets/a9fe05a6cf353fa7e0c0643bf92fb39c.png");background-image:linear-gradient(transparent,transparent),url("assets/44712c5455c69cd59c93962ea0465e79.svg");background-repeat:no-repeat;background-size:12px;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite id="CITEREFJacobs2017" class="citation web cs1">Jacobs, Mike (2017-10-19). <a rel="nofollow" class="external text" href="https://docs.microsoft.com/en-us/typography/truetype/history">"A brief history of TrueType"</a>. <i>Microsoft</i>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20190525215601/https://docs.microsoft.com/en-us/typography/truetype/history">Archived</a> from the original on 2019-05-25<span class="reference-accessdate">. Retrieved <span class="nowrap">2019-05-25</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Microsoft&amp;rft.atitle=A+brief+history+of+TrueType&amp;rft.date=2017-10-19&amp;rft.aulast=Jacobs&amp;rft.aufirst=Mike&amp;rft_id=https%3A%2F%2Fdocs.microsoft.com%2Fen-us%2Ftypography%2Ftruetype%2Fhistory&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATrueType" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.truetype-typography.com/tthist.htm">"A History of TrueType"</a>. <i>www.truetype-typography.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2020-01-08</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.truetype-typography.com&amp;rft.atitle=A+History+of+TrueType&amp;rft_id=http%3A%2F%2Fwww.truetype-typography.com%2Ftthist.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATrueType" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite id="CITEREFGassée" class="citation web cs1">Gassée, Jean-Louis. <a rel="nofollow" class="external text" href="http://www.mondaynote.com/2010/04/11/the-adobe-apple-flame-war/">"The Adobe&#160;– Apple Flame War"</a>. mondaynote.com<span class="reference-accessdate">. Retrieved <span class="nowrap">10 November</span> 2011</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Adobe+%E2%80%93+Apple+Flame+War&amp;rft.pub=mondaynote.com&amp;rft.aulast=Gass%C3%A9e&amp;rft.aufirst=Jean-Louis&amp;rft_id=http%3A%2F%2Fwww.mondaynote.com%2F2010%2F04%2F11%2Fthe-adobe-apple-flame-war%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATrueType" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://freetype.sourceforge.net/patents.html">"FreeType and Patents"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">23 May</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=FreeType+and+Patents&amp;rft_id=http%3A%2F%2Ffreetype.sourceforge.net%2Fpatents.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATrueType" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.freetype.org/patents.html">"The TrueType Bytecode Patents Have Expired!"</a>. <i>FreeType &amp; Patents</i><span class="reference-accessdate">. Retrieved <span class="nowrap">20 April</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=FreeType+%26+Patents&amp;rft.atitle=The+TrueType+Bytecode+Patents+Have+Expired%21&amp;rft_id=https%3A%2F%2Fwww.freetype.org%2Fpatents.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATrueType" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">
+<a rel="nofollow" class="external text" href="http://www.tug.org/TUGboat/Articles/tb21-2/tb67advo.pdf">"Interview: Donald E. Knuth" by advogato</a></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.advogato.org/article/28.html">"Interview: Donald E. Knuth" by advogato:</a></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.derwok.de/downloads/ttfpatch/">"TTFPATCH&#160;— a free tool to change the embeddable flag (fsType) of TrueType fonts"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">23 May</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=TTFPATCH+%E2%80%94+a+free+tool+to+change+the+embeddable+flag+%28fsType%29+of+TrueType+fonts&amp;rft_id=http%3A%2F%2Fwww.derwok.de%2Fdownloads%2Fttfpatch%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATrueType" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://carnage-melon.tom7.org/embed/">"Truetype embedding-enabler"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">23 May</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Truetype+embedding-enabler&amp;rft_id=http%3A%2F%2Fcarnage-melon.tom7.org%2Fembed%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATrueType" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.eff.org/wp/unintended-consequences-under-dmca">"Unintended Consequences: Twelve Years under the DMCA"</a>. <i>Electronic Frontier Foundation</i><span class="reference-accessdate">. Retrieved <span class="nowrap">23 May</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Electronic+Frontier+Foundation&amp;rft.atitle=Unintended+Consequences%3A+Twelve+Years+under+the+DMCA&amp;rft_id=https%3A%2F%2Fwww.eff.org%2Fwp%2Funintended-consequences-under-dmca&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATrueType" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://carnage-melon.tom7.org/embed/dmca.html">"Truetype embedding-enabler&#160;: DMCA threats"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">23 May</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Truetype+embedding-enabler+%3A+DMCA+threats&amp;rft_id=http%3A%2F%2Fcarnage-melon.tom7.org%2Fembed%2Fdmca.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATrueType" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://apitron.com/docs/articles/How_to_create_and_use_custom_fonts_for_PDF_generation.pdf">"How to create and use custom fonts for PDF generation"</a> <span class="cs1-format">(PDF)</span>. apitron.com. 6 March 2015<span class="reference-accessdate">. Retrieved <span class="nowrap">25 June</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=How+to+create+and+use+custom+fonts+for+PDF+generation&amp;rft.pub=apitron.com&amp;rft.date=2015-03-06&amp;rft_id=https%3A%2F%2Fapitron.com%2Fdocs%2Farticles%2FHow_to_create_and_use_custom_fonts_for_PDF_generation.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATrueType" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=TrueType&amp;action=edit&amp;section=19" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://developer.apple.com/fonts/TrueType-Reference-Manual/">TrueType specification (Apple)</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Typography" style="padding:3px"><table class="nowraplinks hlist mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Typography" title="Template:Typography"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Typography" title="Template talk:Typography"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Typography&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Typography" style="font-size:114%;margin:0 4em"><a href="/wiki/Typography" title="Typography">Typography</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Page_(paper)" title="Page (paper)">Page</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Canons_of_page_construction" title="Canons of page construction">Canons of page construction</a></li>
+<li><a href="/wiki/Column_(typography)" title="Column (typography)">Column</a></li>
+<li><a href="/wiki/Even_working" title="Even working">Even working</a></li>
+<li><a href="/wiki/Margin_(typography)" title="Margin (typography)">Margin</a></li>
+<li><a href="/wiki/Page_numbering" title="Page numbering">Page numbering</a></li>
+<li><a href="/wiki/Pagination" title="Pagination">Pagination</a></li>
+<li><a href="/wiki/Pull_quote" title="Pull quote">Pull quote</a></li>
+<li><a href="/wiki/Recto_and_verso" title="Recto and verso">Recto and verso</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Paragraph" title="Paragraph">Paragraph</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Typographic_alignment" title="Typographic alignment">Alignment</a></li>
+<li><a href="/wiki/Leading" title="Leading">Leading</a></li>
+<li><a href="/wiki/River_(typography)" title="River (typography)">River</a></li>
+<li><a href="/wiki/Sentence_spacing" title="Sentence spacing">Sentence spacing</a></li>
+<li><a href="/wiki/Widows_and_orphans" title="Widows and orphans">Widows and orphans</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Glyph" title="Glyph">Character</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:9em"><a href="/wiki/Typeface_anatomy" title="Typeface anatomy">Typeface anatomy</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Counter_(typography)" title="Counter (typography)">Counter</a></li>
+<li><a href="/wiki/Diacritic" title="Diacritic">Diacritics</a></li>
+<li><a href="/wiki/Dingbat" title="Dingbat">Dingbat</a></li>
+<li><a href="/wiki/Glyph" title="Glyph">Glyph</a></li>
+<li><a href="/wiki/Initial" title="Initial">Initial</a></li>
+<li><a href="/wiki/Kerning" title="Kerning">Kerning</a></li>
+<li><a href="/wiki/Letter-spacing" title="Letter-spacing">Letter-spacing</a></li>
+<li><a href="/wiki/Orthographic_ligature" title="Orthographic ligature">Ligature</a></li>
+<li><a href="/wiki/Rotated_letter" title="Rotated letter">Rotation</a></li>
+<li><a href="/wiki/Subscript_and_superscript" title="Subscript and superscript">Subscript and superscript</a></li>
+<li><a href="/wiki/Swash_(typography)" title="Swash (typography)">Swash</a></li>
+<li><a href="/wiki/Text_figures" title="Text figures">Text figures</a></li>
+<li><a href="/wiki/Tittle" title="Tittle">Tittle</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:9em"><a href="/wiki/Capitalization" title="Capitalization">Capitalization</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/All_caps" title="All caps">All caps</a></li>
+<li><a href="/wiki/Camel_case" title="Camel case">Camel case</a></li>
+<li><a href="/wiki/Letter_case" title="Letter case">Letter case</a></li>
+<li><a href="/wiki/Small_caps" title="Small caps">Small caps</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:9em"><a href="/wiki/Emphasis_(typography)" title="Emphasis (typography)">Visual distinction</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Italic_type" title="Italic type">Italics</a></li>
+<li><a href="/wiki/Oblique_type" title="Oblique type">Oblique</a></li>
+<li><a href="/wiki/Emphasis_(typography)" title="Emphasis (typography)">Bold</a></li>
+<li><a href="/wiki/Color_printing" title="Color printing">Color printing</a></li>
+<li><a href="/wiki/Underline" title="Underline">Underline</a></li>
+<li><a href="/wiki/Blackboard_bold" title="Blackboard bold">Blackboard bold</a></li>
+<li><a href="/wiki/Blackletter" title="Blackletter">Blackletter</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:9em">Vertical aspects</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Ascender_(typography)" title="Ascender (typography)">Ascender</a></li>
+<li><a href="/wiki/Baseline_(typography)" title="Baseline (typography)">Baseline</a></li>
+<li><a href="/wiki/Cap_height" title="Cap height">Cap height</a></li>
+<li><a href="/wiki/Descender" title="Descender">Descender</a></li>
+<li><a href="/wiki/Mean_line" title="Mean line">Median</a></li>
+<li><a href="/wiki/Overshoot_(typography)" title="Overshoot (typography)">Overshoot</a></li>
+<li><a href="/wiki/X-height" title="X-height">x-height</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Typeface" title="Typeface">Classifications</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:9em"><a href="/wiki/Roman_type" title="Roman type">Roman type</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Antiqua_(typeface_class)" title="Antiqua (typeface class)">Antiqua</a></li>
+<li><a href="/wiki/Didone_(typography)" title="Didone (typography)">Didone</a></li>
+<li><a href="/wiki/Sans-serif" title="Sans-serif">Sans-serif</a></li>
+<li><a href="/wiki/Script_typeface" title="Script typeface">Script</a></li>
+<li><a href="/wiki/Serif" title="Serif">Serif</a></li>
+<li><a href="/wiki/Slab_serif" title="Slab serif">Slab serif</a></li>
+<li><a href="/wiki/Reverse-contrast_typefaces" title="Reverse-contrast typefaces">Reverse-contrast</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:9em"><a href="/wiki/Blackletter" title="Blackletter">Blackletter type</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Fraktur" title="Fraktur">Fraktur</a></li>
+<li><a href="/wiki/Rotunda_(script)" title="Rotunda (script)">Rotunda</a></li>
+<li><i lang="de" title="German language text"><a href="/wiki/Schwabacher" title="Schwabacher">Schwabacher</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:9em"><a href="/wiki/Gaelic_type" title="Gaelic type">Gaelic type</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Insular_script" title="Insular script">Insular</a></li>
+<li><a href="/wiki/Uncial_script" title="Uncial script">Uncial</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:9em">Specialist</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Record_type" title="Record type">Record type</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Punctuation" title="Punctuation">Punctuation</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Dash" title="Dash">Dashes</a></li>
+<li><a href="/wiki/Hanging_punctuation" title="Hanging punctuation">Hanging punctuation</a></li>
+<li><a href="/wiki/Hyphen-minus" title="Hyphen-minus">Hyphen-minus</a></li>
+<li><a href="/wiki/Hyphen" title="Hyphen">Hyphenation</a></li>
+<li><a href="/wiki/Prime_(symbol)" title="Prime (symbol)">Prime mark</a></li>
+<li><a href="/wiki/Quotation_mark" title="Quotation mark">Quotation mark</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Typesetting" title="Typesetting">Typesetting</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Etaoin_shrdlu" title="Etaoin shrdlu">Etaoin shrdlu</a></li>
+<li><a href="/wiki/Font" title="Font">Font</a>
+<ul><li><a href="/wiki/Computer_font" title="Computer font">computer</a></li>
+<li><a href="/wiki/Monospaced_font" title="Monospaced font">monospaced</a></li></ul></li>
+<li><a href="/wiki/Font_catalog" title="Font catalog">Font catalog</a></li>
+<li><a href="/wiki/For_position_only" title="For position only">For position only</a></li>
+<li><a href="/wiki/Letterpress_printing" title="Letterpress printing">Letterpress</a></li>
+<li><a href="/wiki/Lorem_ipsum" title="Lorem ipsum">Lorem ipsum</a></li>
+<li><a href="/wiki/Microprinting" title="Microprinting">Microprinting</a></li>
+<li><a href="/wiki/Microtypography" title="Microtypography">Microtypography</a></li>
+<li><a href="/wiki/Movable_type" title="Movable type">Movable type</a></li>
+<li><a href="/wiki/Pangram" title="Pangram">Pangram</a></li>
+<li><a href="/wiki/Phototypesetting" title="Phototypesetting">Phototypesetting</a></li>
+<li><a href="/wiki/Punchcutting" title="Punchcutting">Punchcutting</a></li>
+<li><a href="/wiki/Type_color" title="Type color">Type color</a></li>
+<li><a href="/wiki/Type_design" title="Type design">Type design</a></li>
+<li><a href="/wiki/Typeface" title="Typeface">Typeface</a>
+<ul><li><a href="/wiki/List_of_typefaces" title="List of typefaces">list</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Typographic_unit" title="Typographic unit">Typographic units</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Agate_(typography)" title="Agate (typography)">Agate</a></li>
+<li><a href="/wiki/Cicero_(typography)" title="Cicero (typography)">Cicero</a></li>
+<li><a href="/wiki/Em_(typography)" title="Em (typography)">Em</a></li>
+<li><a href="/wiki/En_(typography)" title="En (typography)">En</a></li>
+<li><a href="/wiki/Figure_space" title="Figure space">Figure space</a></li>
+<li><a href="/wiki/Measure_(typography)" class="mw-redirect" title="Measure (typography)">Measure</a></li>
+<li><a href="/wiki/Paren_space" title="Paren space">Paren space</a></li>
+<li><a href="/wiki/Pica_(typography)" title="Pica (typography)">Pica</a></li>
+<li><a href="/wiki/Point_(typography)" title="Point (typography)">Point</a>
+<ul><li><a href="/wiki/Traditional_point-size_names" title="Traditional point-size names">traditional point-size names</a></li></ul></li>
+<li><a href="/wiki/Metric_typographic_units" title="Metric typographic units">Proposed metric units</a></li>
+<li><a href="/wiki/Thin_space" title="Thin space">Thin space</a></li>
+<li><a href="/wiki/Twip" title="Twip">Twip</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Digital_typography" class="mw-redirect" title="Digital typography">Digital typography</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Character_encoding" title="Character encoding">Character encoding</a></li>
+<li><a href="/wiki/Font_hinting" title="Font hinting">Hinting</a></li>
+<li><a href="/wiki/Font_rasterization" title="Font rasterization">Rasterization</a></li>
+<li><a href="/wiki/List_of_typographic_features" title="List of typographic features">Typographic features</a></li>
+<li><a href="/wiki/Web_typography" title="Web typography">Web typography</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related articles</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Calligraphy" title="Calligraphy">Calligraphy</a></li>
+<li><a href="/wiki/Intentionally_blank_page" title="Intentionally blank page">Intentionally blank page</a></li>
+<li><a href="/wiki/Style_guide" title="Style guide">Style guide</a></li>
+<li><a href="/wiki/Type_foundry" title="Type foundry">Type foundry</a></li>
+<li><a href="/wiki/History_of_Western_typography" title="History of Western typography">History</a></li>
+<li><a href="/wiki/Intellectual_property_protection_of_typefaces" title="Intellectual property protection of typefaces">Intellectual property protection of typefaces</a></li>
+<li><a href="/wiki/Technical_lettering" title="Technical lettering">Technical lettering</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related tables</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Template:Navbox_punctuation" title="Template:Navbox punctuation">Punctuation and other typographic symbols</a></li></ul>
+</div></td></tr><tr><td class="navbox-abovebelow" colspan="2"><div>
+<ul><li><img alt="Category" src="assets/a9e3d452e47e587f4b154c3daa441ebf.png" decoding="async" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Typography" title="Category:Typography">Category</a></li></ul>
+</div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1352
+Cached time: 20200807010220
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.456 seconds
+Real time usage: 0.598 seconds
+Preprocessor visited node count: 1189/1000000
+Post‐expand include size: 54291/2097152 bytes
+Template argument size: 1224/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 41815/5000000 bytes
+Lua time usage: 0.298/10.000 seconds
+Lua memory usage: 11.32 MB/50 MB
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  521.841      1 -total
+ 76.63%  399.872      3 Template:Navbox
+ 42.10%  219.708      1 Template:Typography_terms
+ 34.63%  180.725      1 Template:Lang
+ 28.19%  147.114      1 Template:Reflist
+ 25.64%  133.778     11 Template:Cite_web
+ 16.18%   84.410      1 Template:Short_description
+ 11.64%   60.764      1 Template:Infobox_file_format
+  9.16%   47.778      1 Template:Infobox
+  7.68%   40.099      1 Template:Pagetype
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:31187-0!canonical and timestamp 20200807010219 and revision id 969361331
+ -->
+</div><noscript><img src="assets/3f07551aa465d8e435036dce80f3b4e4" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript>
+<div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=TrueType&amp;oldid=969361331">https://en.wikipedia.org/w/index.php?title=TrueType&amp;oldid=969361331</a>"</div></div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Typesetting" title="Category:Typesetting">Typesetting</a></li><li><a href="/wiki/Category:Digital_typography" title="Category:Digital typography">Digital typography</a></li><li><a href="/wiki/Category:Font_formats" title="Category:Font formats">Font formats</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_short_description" title="Category:Articles with short description">Articles with short description</a></li><li><a href="/wiki/Category:Short_description_matches_Wikidata" title="Category:Short description matches Wikidata">Short description matches Wikidata</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=TrueType" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=TrueType" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/TrueType" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:TrueType" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="selected"><a href="/wiki/TrueType">Read</a></li><li id="ca-edit"><a href="/w/index.php?title=TrueType&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history"><a href="/w/index.php?title=TrueType&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label">
+		<span>Contribute</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/TrueType" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/TrueType" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=TrueType&amp;oldid=969361331" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=TrueType&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=TrueType&amp;id=969361331&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q751800" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label">
+		<span>Print/export</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=TrueType&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=TrueType&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label">
+		<span>In other projects</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:TrueType" hreflang="en">Wikimedia Commons</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label">
+		<span>Languages</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-tarask.wikipedia.org/wiki/TrueType" title="TrueType – Belarusian (Taraškievica orthography)" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/TrueType" title="TrueType – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/TrueType" title="TrueType – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/TrueType" title="TrueType – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/TrueType" title="TrueType – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/TrueType" title="TrueType – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%AA%D8%B1%D9%88%D8%AA%D8%A7%DB%8C%D9%BE" title="تروتایپ – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/TrueType" title="TrueType – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%ED%8A%B8%EB%A3%A8%ED%83%80%EC%9E%85" title="트루타입 – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%9F%E0%A5%8D%E0%A4%B0%E0%A5%82_%E0%A4%9F%E0%A4%BE%E0%A4%87%E0%A4%AA_%E0%A4%AB%E0%A5%89%E0%A4%A3%E0%A5%8D%E0%A4%9F" title="ट्रू टाइप फॉण्ट – Hindi" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/TrueType" title="TrueType – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/TrueType" title="TrueType – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/TrueType" title="TrueType – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/TrueType" title="TrueType – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/TrueType" title="TrueType – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/TrueType" title="TrueType – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/TrueType" title="TrueType – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/TrueType" title="TrueType – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/TrueType" title="TrueType – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/TrueType" title="TrueType – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Truetype" title="Truetype – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%97%E0%B8%A3%E0%B8%B9%E0%B9%84%E0%B8%97%E0%B8%9B%E0%B9%8C" title="ทรูไทป์ – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/TrueType" title="TrueType – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/TrueType" title="TrueType – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/TrueType" title="TrueType – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q751800#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 24 July 2020, at 23:20<span class="anonymous-show">&#160;(UTC)</span>.</li>
+		<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+		<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+		<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=TrueType&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="assets/d0baecaa986ff7633a512d4b50947d64.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="assets/ff74a01dcaa635dc8296ffd80fbd87eb.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.456","walltime":"0.598","ppvisitednodes":{"value":1189,"limit":1000000},"postexpandincludesize":{"value":54291,"limit":2097152},"templateargumentsize":{"value":1224,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":41815,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  521.841      1 -total"," 76.63%  399.872      3 Template:Navbox"," 42.10%  219.708      1 Template:Typography_terms"," 34.63%  180.725      1 Template:Lang"," 28.19%  147.114      1 Template:Reflist"," 25.64%  133.778     11 Template:Cite_web"," 16.18%   84.410      1 Template:Short_description"," 11.64%   60.764      1 Template:Infobox_file_format","  9.16%   47.778      1 Template:Infobox","  7.68%   40.099      1 Template:Pagetype"]},"scribunto":{"limitreport-timeusage":{"value":"0.298","limit":"10.000"},"limitreport-memusage":{"value":11865043,"limit":52428800}},"cachereport":{"origin":"mw1352","timestamp":"20200807010220","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"TrueType","url":"https:\/\/en.wikipedia.org\/wiki\/TrueType","sameAs":"http:\/\/www.wikidata.org\/entity\/Q751800","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q751800","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2001-11-27T22:49:12Z","dateModified":"2020-07-24T23:20:05Z","headline":"file format"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":143,"wgHostname":"mw1354"});});</script>
+
+<div style="position:fixed;top:0;left:0;width:100%;height:45px;z-index:2147483647;background-color:rgba(253,147,38,0.90) !important;color:black !important;text-align:right !important;font:normal 12px/45px Arial, sans-serif !important;border-radius:0 !important;margin:0 !important;max-width:100% !important;background-repeat: no-repeat !important;background-position: 15px center !important;
+background-image: url(data:image/png;base64,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);
+"><span style="padding-right:15px;">You are viewing a snapshot of <a style='font-weight:bold !important; color:white !important' href='http://en.wikipedia.org/wiki/TrueType'>http://en.wikipedia.org/wiki/TrueType</a> created on 2020/08/09</span></div></body></html>

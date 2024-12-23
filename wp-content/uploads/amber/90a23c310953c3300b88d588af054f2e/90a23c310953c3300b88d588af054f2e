@@ -1,0 +1,1116 @@
+<!DOCTYPE html>
+<!--[if lt IE 7 ]> <html class="no-js ie6" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml" lang="en-US"> <![endif]-->
+<!--[if IE 7 ]>    <html class="no-js ie7" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml" lang="en-US"> <![endif]-->
+<!--[if IE 8 ]>    <html class="no-js ie8" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml" lang="en-US"> <![endif]-->
+<!--[if (gte IE 9)|!(IE)]><!--><html class="no-js" xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml" lang="en-US"><!--<![endif]-->
+<head profile="http://gmpg.org/xfn/11">
+	<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+	<title>  Walt Mossberg - AllThingsD</title>
+	<link rel="stylesheet" href="assets/2d8b7ade298daf99d8a04ae21ad0629d.css">
+	<link rel="alternate" type="application/rss+xml" href="http://allthingsd.com/feed/" title="AllThingsD latest posts" />
+	<link rel="alternate" type="application/rss+xml" href="http://allthingsd.com/comments/feed/" title="AllThingsD latest comments" />
+	<link rel="pingback" href="http://allthingsd.com/xmlrpc.php" />
+	
+	<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+	
+	<link rel="alternate" type="application/rss+xml" title="AllThingsD &raquo; Posts by Walt Mossberg Feed" href="http://allthingsd.com/author/walt/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"http:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/allthingsd.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.3.16"}};
+			!function(a,b,c){function d(a){var c=b.createElement("canvas"),d=c.getContext&&c.getContext("2d");return d&&d.fillText?(d.textBaseline="top",d.font="600 32px Arial","flag"===a?(d.fillText(String.fromCharCode(55356,56812,55356,56807),0,0),c.toDataURL().length>3e3):(d.fillText(String.fromCharCode(55357,56835),0,0),0!==d.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='allthingsd-css'  href='assets/ec44dd697fb74a22a428de1cb0e9cee7.css' type='text/css' media='all' />
+<link rel='stylesheet' id='easy-fancybox-css-css'  href='assets/6452f99668db70fb58167709948f3def.css' type='text/css' media='screen' />
+<link rel='stylesheet' id='wp-pagenavi-css'  href='http://allthingsd.com/wp-content/plugins/wp-pagenavi/pagenavi-css.css?ver=2.70' type='text/css' media='all' />
+<link rel='stylesheet' id='blackbirdpie-css-css'  href='assets/d7a28bbef98fb813b3e1f57da27f64ec.css' type='text/css' media='all' />
+<script type='text/javascript' src='http://widgets.twimg.com/j/2/widget.js?ver=4.3.16'></script>
+<script type='text/javascript' src='assets/a7b00cc84746a36811ea3c9b53b59e8e.3'></script>
+<script type='text/javascript' src='assets/f44cd72c0053cc58913f18a967f0d299.1'></script>
+<script type='text/javascript' src='assets/101be2ab5a554ad6e79122d584b2b3a3.js'></script>
+<script type='text/javascript' src='assets/be64a7fb887e53dd610f6cc24477479f.js'></script>
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://allthingsd.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://allthingsd.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.3.16" />
+<link rel="hub" href="http://pubsubhubbub.appspot.com" />
+<script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+	<link rel="stylesheet" type="text/css" href="http://allthingsd.com/wp-content/plugins/wp-smugmug/wp-smugmug.php?wpsm-action=css" />
+		<!--[if lt IE 8]><link rel="stylesheet" type="text/css" href="http://allthingsd.com/wp-content/plugins/wp-smugmug/wp-smugmug.php?wpsm-action=css_ie" />
+	<![endif]-->
+<script type="text/javascript" src="assets/d332c1a7b3e3c6e21023604c5a5cd7b2.js"></script>
+<script type="text/javascript">try{Typekit.load();}catch(e){}</script>
+
+	<!-- Easy FancyBox 1.5.1 using FancyBox 1.3.5 - RavanH (http://status301.net/wordpress-plugins/easy-fancybox/) -->
+	<script type="text/javascript">
+	/* <![CDATA[ */
+	var fb_timeout = null;
+	var fb_opts = { 'overlayShow' : true, 'hideOnOverlayClick' : true, 'showCloseButton' : true, 'centerOnScroll' : true, 'enableEscapeButton' : true, 'autoScale' : true };
+	var easy_fancybox_handler = function(){
+	/* IMG */
+	var fb_IMG_select = 'a[href*=".jpg"]:not(.nofancybox):has(img), area[href*=".jpg"]:not(.nofancybox):has(img), a[href*=".gif"]:not(.nofancybox):has(img), area[href*=".gif"]:not(.nofancybox):has(img), a[href*=".png"]:not(.nofancybox):has(img), area[href*=".png"]:not(.nofancybox):has(img)';
+	jQuery(fb_IMG_select).addClass('fancybox');
+	var fb_IMG_sections = jQuery('div.gallery');
+	fb_IMG_sections.each(function() { jQuery(this).find(fb_IMG_select).attr('rel', 'gallery-' + fb_IMG_sections.index(this)); });
+	jQuery('a.fancybox, area.fancybox, li.fancybox a:not(li.nofancybox a)').fancybox( jQuery.extend({}, fb_opts, { 'easingIn' : 'easeOutBack', 'easingOut' : 'easeInBack', 'opacity' : false, 'hideOnContentClick' : false, 'titleShow' : true, 'titlePosition' : 'inside', 'titleFromAlt' : true, 'showNavArrows' : true, 'enableKeyboardNav' : true, 'cyclic' : false }) );
+	/* Auto-click */ 
+	jQuery('#fancybox-auto').trigger('click');
+	}
+	/* ]]> */
+	</script>
+	<style type="text/css">.fancybox-hidden{display:none}.rtl #fancybox-left{left:auto;right:0px}.rtl #fancybox-right{left:0px;right:auto}.rtl #fancybox-right-ico{background-position:-40px -30px}.rtl #fancybox-left-ico{background-position:-40px -60px}.rtl .fancybox-title-over{text-align:right}.rtl #fancybox-left-ico,.rtl #fancybox-right-ico{right:-9999px}.rtl #fancybox-right:hover span{right:auto;left:20px}.rtl #fancybox-left:hover span{right:20px}#fancybox-img{max-width:none;max-height:none}</style>
+	
+<script type="text/javascript">
+	var atd_refresh_custom_interval = 5400000;
+</script>
+		
+	<!-- Always force latest IE rendering engine (even in intranet) & Chrome Frame
+	Remove this if you use the .htaccess -->
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" />
+
+	<meta name="bitly-verification" content="c55177c1e89f" />
+		
+	<!-- Mobile viewport optimized: j.mp/bplateviewport -->
+	<meta name="viewport" content="width=1024" />
+	
+	<!-- Place favicon.ico & apple-touch-icon.png in the root of your domain and delete these references -->
+	<link rel="shortcut icon" href="/favicon.ico" />
+	<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+	
+	<link href="https://plus.google.com/u/0/104965028945637304221/posts" rel="publisher" />
+	
+	<!-- Uncomment if you are specifically targeting less enabled mobile browsers
+	<link rel="stylesheet" media="handheld" href="css/handheld.css?v=2">  -->
+	
+	<!-- All JavaScript at the bottom, except for Modernizr which enables HTML5 elements & feature detects -->
+	<script type="text/javascript" src="assets/9feed23315643553d0e4f99ba3773024.js"></script>
+	
+</head>
+
+<body class="archive author author-walt author-8">
+
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) {return;}
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/all.js#xfbml=1&appId=279240275449780";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<div id="container">
+
+	
+	<div id="wsjhat">
+		<div class="wrapper">
+			<!--<div id="site-name">All Things Digital</div>
+			<p id="skip"><a href="#content-main">Skip to main content</a>.</p>-->
+			<style type="text/css">#wsjhat { display:none; }</style>		</div>
+	</div>
+
+	<header class="banner" role="banner">
+		<div class="masthead clearfix">
+			<div class="wrapper" style="position:relative;">
+				<a href="http://allthingsd.com" class="logo png_bg">AllThingsD</a>
+				<form action="/"><input type="text" class="blur" name="s" id="s" title="Search All Things D" value="" /></form>
+							</div>
+		</div>
+		<nav id="nav" class="clearfix">
+			<div class="wrapper">
+				<ul class="fmenu">
+					<li id="nav-news">
+						<a href="http://allthingsd.com/category/news/?mod=atdnav" class="nav-link">News</a><span class="toggle"></span>
+						<div class="sub"></div>
+					</li>
+					<li id="nav-reviews">
+						<a href="http://allthingsd.com/category/reviews/?mod=atdnav" class="nav-link">Reviews</a><span class="toggle"></span>
+						<div class="sub"></div>
+					</li>
+					<li id="nav-mobile">
+						<a href="http://allthingsd.com/category/mobile/?mod=atdnav" class="nav-link">Mobile</a><span class="toggle"></span>
+						<div class="sub"></div>
+					</li>
+					<li id="nav-media">
+						<a href="http://allthingsd.com/category/media/?mod=atdnav" class="nav-link">Media</a><span class="toggle"></span>
+						<div class="sub"></div>
+					</li>
+					<li id="nav-social">
+						<a href="http://allthingsd.com/category/social/?mod=atdnav" class="nav-link">Social</a><span class="toggle"></span>
+						<div class="sub"></div>
+					</li>
+					<li id="nav-enterprise">
+						<a href="http://allthingsd.com/category/enterprise/?mod=atdnav" class="nav-link">Enterprise</a><span class="toggle"></span>
+						<div class="sub"></div>
+					</li>
+					<li id="nav-commerce">
+						<a href="http://allthingsd.com/category/commerce/?mod=atdnav" class="nav-link">Commerce</a><span class="toggle"></span>
+						<div class="sub"></div>
+					</li>
+					<li id="nav-voices">
+						<a href="http://allthingsd.com/category/voices/?mod=atdnav" class="nav-link">Voices</a><span class="toggle"></span>
+						<div class="sub"></div>
+					</li>
+					<li id="nav-conferences">
+						<a href="http://allthingsd.com/conferences/?mod=atdnav" class="nav-link"> Conferences</a><span class="toggle"></span>
+						<div class="sub"></div>
+					</li>
+					<li id="nav-video">
+						<a href="http://allthingsd.com/video/?mod=atdnav" class="nav-link">Video</a><span class="toggle"></span>
+						<div class="sub"></div>
+					</li>
+					<li id="nav-jobs">
+						<a href="http://allthingsd.com/follow-us/?mod=atdnav" class="nav-link">Follow Us</a><span class="toggle"></span>
+						<div class="sub"></div>
+					</li>
+				</ul>
+				<ul id="writers-menu" class="clearfix fmenu">
+					<li id="nav-writers">
+						<a href="http://allthingsd.com/about/" class="nav-link" aria-haspopup="true">View by Writer</a><span class="toggle" style="display:inline"></span>
+						<div class="sub"></div>
+					</li>
+				</ul>
+			</div>
+		</nav>
+			
+			<div id="cookie_notice"><div id="cookie_box" style="display: none;"></div></div>
+		
+		<div id="trending">
+	<div class="wrapper">
+				<p><strong>Trending &#8212;</strong> <a href="http://allthingsd.com/20131231/you-say-goodbye-and-we-say-hello/">You Say Goodbye and We Say Hello</a>		
+		<span style="position:relative; top:4px; left:5px;" id="trending-twitter">&nbsp;</span><script type="text/javascript">
+(function() {
+	jQuery(function() {
+		var arr = ["karaswisher"];
+		var x = arr[Math.floor(Math.random() * (arr.length - 1))];
+		var html = '<a href="http://twitter.com/' + x + '" show_screen_name="false" class="twitter-follow-button" data-width="200" data-show-count="false">Follow @' + x + '</a><script src="assets/4a00bf7b232381e504cdddfb8772c9ba.js" type="text/javascript"><' + '/' + 'script>';		
+			
+		jQuery('#trending-twitter').html(html);
+		
+		jQuery('#trending > .wrapper > p').css('position', 'relative');
+		jQuery('#trending > .wrapper > p').css('top', '-4px');
+	});
+})();
+</script>
+						
+				
+		
+		</p>
+		<div id="topics-trending">
+	&nbsp;</div>
+	</div><!--/.wrapper-->
+</div><!--/#trending-->
+	
+	</header>
+
+	<div id="content">
+
+		<div class="wrapper">
+
+			
+			
+<div class="page-header writer-header clearfix">
+	<img src="assets/375c3b2e3351d1884431265e57610da4.jpg" width="50" height="50" alt="" class="headshot replace-2x">
+	<h1 class="title">Walt Mossberg</h1>
+		<ul class="fmenu article-tools" id="walt">
+		<li><a href="#ethics-statement" id="walt-ethics-btn" class="writer-info ethics" rel="walt">ethics statement</a></li>		<li><a href="#bio" class="writer-info bio" rel="walt">bio</a></li>
+		<li><a href="&#109;&#097;&#105;&#108;&#116;&#111;&#058;&#119;&#097;&#108;&#116;&#064;&#097;&#108;&#108;&#116;&#104;&#105;&#110;&#103;&#115;&#100;&#046;&#099;&#111;&#109;" rel="me" class="email-link icn-link">e-mail</a></li>		<li><a href="http://allthingsd.com/author/walt/feed/" rel="me" class="feed-link icn-link">RSS</a></li>
+		<li><span class="facebook"></span><div class="fb-subscribe" data-href="https://www.facebook.com/WaltMossberg" data-layout="button_count" data-show-faces="false" data-font="verdana" data-width="120"></div>
+</li>				<li><a href="http://twitter.com/waltmossberg" show_screen_name="false" class="twitter-follow-button" data-width="200" data-show-count="false">Follow @waltmossberg</a><script src="assets/4a00bf7b232381e504cdddfb8772c9ba.js" type="text/javascript"></script></li>		<li style="background:none;"></li>	</ul>
+	</div>
+
+<div id="main" role="main">
+
+	<div class="writer-extras">
+		<div id="bio" class="writer-extra article-text"></div>
+		<div id="ethics-statement" class="writer-extra article-text"></div>
+	</div>
+	
+						
+						
+			<div class="double-feature clearfix">
+				<div class="left excerpt">
+					<div class="box clearfix">
+						<p class="col-name">Personal Technology</p>
+												<div class="excerpt-image">
+							<a href="http://allthingsd.com/20131217/top-products-in-two-decades-of-tech-reviews/"><img width="300" height="225" src="assets/dac3425cc9f678bb0168e076a1a2254d.jpg" class="attachment-Topics wp-post-image" alt="PJ-BS196_PTECHj_G_20131217193913" /></a>
+						</div>
+												<div class="excerpt-text">
+							<h2 class="title"><a href="http://allthingsd.com/20131217/top-products-in-two-decades-of-tech-reviews/">Top Products in Two Decades of Tech Reviews</a></h2>
+							<p class="byline">December 17, 2013</p>
+							<p><p>Walt Mossberg on the dozen personal-technology products that were the most influential over two decades of reviews.</p>
+</p>
+						</div>
+					</div>
+									<div class="other-recent">
+						<p class="col-name">Previously in Personal Technology</p>
+												<p><a href="http://allthingsd.com/20131210/diabetes-data-beamed-to-your-phone/">Diabetes Data Beamed to Your Phone</a></p>
+												<p><a href="http://allthingsd.com/20131203/dell-tablets-at-bargain-prices/">Dell Tablets at Bargain Prices</a></p>
+												<p><a href="http://allthingsd.com/20131126/smartphone-with-wi-fi-smarts/">Smartphone With Wi-Fi Smarts</a></p>
+												<p><a href="http://allthingsd.com/20131119/wi-fidelity-in-a-smaller-sonos/">Wi-Fi(delity) in a Smaller Sonos</a></p>
+											</div>
+								</div><!--/.left-->
+				
+						
+				<div class="right excerpt">
+					<div class="box clearfix">
+						<p class="col-name">Mossberg&#8217;s Mailbox</p>
+												<div class="excerpt-image">
+							<a href="http://allthingsd.com/20131210/two-houses-one-cable-tv-bill/"><img src="assets/877c42b7e6d8ee78eda4d921535e4716.png" width="300" height="225" alt="" class="" /></a>
+						</div>
+												<div class="excerpt-text">
+							<h2 class="title"><a href="http://allthingsd.com/20131210/two-houses-one-cable-tv-bill/">Two Houses, One Cable TV Bill</a></h2>
+							<p class="byline">December 10, 2013</p>
+							<p><p>Walt answers questions from readers about streaming TV from one house to another and the search for smartphones without cameras.</p>
+</p>
+						</div>
+					</div>
+										<div class="other-recent">
+						<p class="col-name">Previously in Mossberg&#8217;s Mailbox</p>
+												<p><a href="http://allthingsd.com/20131203/calling-overseas-on-wi-fi/">Calling Overseas on Wi-Fi</a></p>
+												<p><a href="http://allthingsd.com/20131126/tablet-buyers-wi-fi-goof/">Tablet Buyer&#8217;s Wi-Fi Goof</a></p>
+												<p><a href="http://allthingsd.com/20131119/e-reader-vs-ipad/">E-Reader vs. iPad</a></p>
+												<p><a href="http://allthingsd.com/20131029/wheres-the-intel-sticker/">Where&#8217;s the Intel Sticker?</a></p>
+											</div>
+								</div><!--/.right-->
+			</div><!--/double-feature-->
+			
+	
+	<div class="river clearfix">
+	
+		<div id="left">
+				<div class="filters module">
+		<div class="river-header">
+			<p><strong>Walt by topic</strong></p>
+		</div>
+		<ul>
+					<li alt="">
+				<a href="http://allthingsd.com/tag/apple/?by=walt" alt="67">Apple</a>
+			</li>
+					<li alt="">
+				<a href="http://allthingsd.com/tag/atd-facebook/?by=walt" alt="136063">ATD Facebook</a>
+			</li>
+					<li alt="">
+				<a href="http://allthingsd.com/tag/smartphone/?by=walt" alt="662">smartphone</a>
+			</li>
+					<li alt="">
+				<a href="http://allthingsd.com/tag/windows/?by=walt" alt="64">Windows</a>
+			</li>
+					<li alt="">
+				<a href="http://allthingsd.com/tag/google/?by=walt" alt="52">Google</a>
+			</li>
+					<li alt="">
+				<a href="http://allthingsd.com/tag/ipad/?by=walt" alt="7734">iPad</a>
+			</li>
+					<li alt="">
+				<a href="http://allthingsd.com/tag/tablet/?by=walt" alt="164">tablet</a>
+			</li>
+					<li alt="">
+				<a href="http://allthingsd.com/tag/wi-fi/?by=walt" alt="95">Wi-Fi</a>
+			</li>
+					<li alt="">
+				<a href="http://allthingsd.com/tag/kindle/?by=walt" alt="2609">Kindle</a>
+			</li>
+					<li alt="">
+				<a href="http://allthingsd.com/tag/windows-8/?by=walt" alt="25018">Windows 8</a>
+			</li>
+				</ul>
+	</div>
+			
+				
+		</div>
+		
+		
+		<div class="articles active">
+		
+			<div class="river-header clearfix">
+	            <p><strong>Recent Columns and Posts By <span>Walt</span></strong></p>
+    	                	</div>
+
+			
+	<div class="excerpt has-photo">
+		<div class="excerpt-text">
+		
+						
+			<h2 class="title"><a href="http://allthingsd.com/20131210/diabetes-data-beamed-to-your-phone/" id="epost-378031" class="post-link">Diabetes Data Beamed to Your Phone</a></h2>
+							<p class="byline">
+					<a href="http://allthingsd.com/author/walt/" rel="author">Walt Mossberg</a> in <a href="http://allthingsd.com/category/personal-technology/">Personal Technology</a> on December 10, 2013 at 6:16 pm PT				</p>
+						New meters from iHealth and LifeScan are small steps toward better diabetes care.		</div><!--.excerpt-text-->
+			<div class="excerpt-image">
+			<a href="http://allthingsd.com/20131210/diabetes-data-beamed-to-your-phone/" class=" video-thumb"><img width="140" height="105" src="assets/7ee708a4b37f61e005b5f734eb7fc7f2.jpg" class="attachment-140x105 wp-post-image" alt="PJ-BS070_PTECHj_GS_20131210175508" /></a>
+		</div><!--.excerpt-image-->
+		</div><!-- .excerpt -->
+	<div class="clearing"></div>
+	
+
+	<div class="excerpt has-photo">
+		<div class="excerpt-text">
+		
+						
+			<h2 class="title"><a href="http://allthingsd.com/20131203/calling-overseas-on-wi-fi/" id="epost-376493" class="post-link">Calling Overseas on Wi-Fi</a></h2>
+							<p class="byline">
+					<a href="http://allthingsd.com/author/walt/" rel="author">Walt Mossberg</a> in <a href="http://allthingsd.com/category/mossbergs-mailbox/">Mossberg&#8217;s Mailbox</a> on December 3, 2013 at 6:18 pm PT				</p>
+						Walt Mossberg answers a reader&#8217;s question about using Wi-Fi to make international calls.		</div><!--.excerpt-text-->
+			<div class="excerpt-image">
+			<a href="http://allthingsd.com/20131203/calling-overseas-on-wi-fi/" class=""><img src="assets/ec20028ca757c320134f16683529d6cf.png" alt="" /></a>
+		</div><!--.excerpt-image-->
+		</div><!-- .excerpt -->
+	<div class="clearing"></div>
+	
+
+	<div class="excerpt has-photo">
+		<div class="excerpt-text">
+		
+						
+			<h2 class="title"><a href="http://allthingsd.com/20131203/dell-tablets-at-bargain-prices/" id="epost-376491" class="post-link">Dell Tablets at Bargain Prices</a></h2>
+							<p class="byline">
+					<a href="http://allthingsd.com/author/walt/" rel="author">Walt Mossberg</a> in <a href="http://allthingsd.com/category/personal-technology/">Personal Technology</a> on December 3, 2013 at 6:12 pm PT				</p>
+						The Dell Venue 7 is a heck of a buy for a brand-name Android tablet, says Walt Mossberg, but if you can spare more money, you&#8217;ll get a better experience in a more expensive small tablet.		</div><!--.excerpt-text-->
+			<div class="excerpt-image">
+			<a href="http://allthingsd.com/20131203/dell-tablets-at-bargain-prices/" class=" video-thumb"><img width="140" height="105" src="assets/e355855f328350a5875d03451212352e.png" class="attachment-140x105 wp-post-image" alt="dell" /></a>
+		</div><!--.excerpt-image-->
+		</div><!-- .excerpt -->
+	<div class="clearing"></div>
+	
+
+	<div class="excerpt has-photo">
+		<div class="excerpt-text">
+		
+						
+			<h2 class="title"><a href="http://allthingsd.com/20131126/tablet-buyers-wi-fi-goof/" id="epost-375298" class="post-link">Tablet Buyer&#8217;s Wi-Fi Goof</a></h2>
+							<p class="byline">
+					<a href="http://allthingsd.com/author/walt/" rel="author">Walt Mossberg</a> in <a href="http://allthingsd.com/category/mossbergs-mailbox/">Mossberg&#8217;s Mailbox</a> on November 26, 2013 at 6:14 pm PT				</p>
+						Walt answers a question from a reader who unintentionally bought a Wi-Fi-only tablet: Can it be activated for 4G cellular service?		</div><!--.excerpt-text-->
+			<div class="excerpt-image">
+			<a href="http://allthingsd.com/20131126/tablet-buyers-wi-fi-goof/" class=""><img src="assets/ec20028ca757c320134f16683529d6cf.png" alt="" /></a>
+		</div><!--.excerpt-image-->
+		</div><!-- .excerpt -->
+	<div class="clearing"></div>
+	
+
+	<div class="excerpt has-photo">
+		<div class="excerpt-text">
+		
+						
+			<h2 class="title"><a href="http://allthingsd.com/20131126/smartphone-with-wi-fi-smarts/" id="epost-375294" class="post-link">Smartphone With Wi-Fi Smarts</a></h2>
+							<p class="byline">
+					<a href="http://allthingsd.com/author/walt/" rel="author">Walt Mossberg</a> in <a href="http://allthingsd.com/category/personal-technology/">Personal Technology</a> on November 26, 2013 at 6:03 pm PT				</p>
+						Republic Wireless is offering a clever, modern service on a good smartphone, and is showing that Wi-Fi calls can be as good as cellular ones.		</div><!--.excerpt-text-->
+			<div class="excerpt-image">
+			<a href="http://allthingsd.com/20131126/smartphone-with-wi-fi-smarts/" class=" video-thumb"><img width="140" height="105" src="assets/ab76ad00736f9120b6269ed8da13cacf.jpg" class="attachment-140x105 wp-post-image" alt="Republic Wireless" /></a>
+		</div><!--.excerpt-image-->
+		</div><!-- .excerpt -->
+	<div class="clearing"></div>
+	
+
+	<div class="excerpt has-photo">
+		<div class="excerpt-text">
+		
+						
+			<h2 class="title"><a href="http://allthingsd.com/20131119/e-reader-vs-ipad/" id="epost-373843" class="post-link">E-Reader vs. iPad</a></h2>
+							<p class="byline">
+					<a href="http://allthingsd.com/author/walt/" rel="author">Walt Mossberg</a> in <a href="http://allthingsd.com/category/mossbergs-mailbox/">Mossberg&#8217;s Mailbox</a> on November 19, 2013 at 6:08 pm PT				</p>
+						Which is a better reader for all types of light: The Kindle Paperwhite or the iPad?		</div><!--.excerpt-text-->
+			<div class="excerpt-image">
+			<a href="http://allthingsd.com/20131119/e-reader-vs-ipad/" class=""><img src="assets/ec20028ca757c320134f16683529d6cf.png" alt="" /></a>
+		</div><!--.excerpt-image-->
+		</div><!-- .excerpt -->
+	<div class="clearing"></div>
+	
+
+	<div class="excerpt has-photo">
+		<div class="excerpt-text">
+		
+						
+			<h2 class="title"><a href="http://allthingsd.com/20131119/wi-fidelity-in-a-smaller-sonos/" id="epost-373844" class="post-link">Wi-Fi(delity) in a Smaller Sonos</a></h2>
+							<p class="byline">
+					<a href="http://allthingsd.com/author/walt/" rel="author">Walt Mossberg</a> in <a href="http://allthingsd.com/category/personal-technology/">Personal Technology</a> on November 19, 2013 at 6:04 pm PT				</p>
+						Sonos has come out with a lower-priced, smaller model that preserves its quality sound and its modular, wireless connection system.		</div><!--.excerpt-text-->
+			<div class="excerpt-image">
+			<a href="http://allthingsd.com/20131119/wi-fidelity-in-a-smaller-sonos/" class=" video-thumb"><img width="140" height="105" src="assets/e00f6297bbad9676498172762521b99e.jpg" class="attachment-140x105 wp-post-image" alt="PJ-BR742_PTECHj_G_20131119164638" /></a>
+		</div><!--.excerpt-image-->
+		</div><!-- .excerpt -->
+	<div class="clearing"></div>
+	
+
+	<div class="excerpt has-photo">
+		<div class="excerpt-text">
+		
+						
+			<h2 class="title"><a href="http://allthingsd.com/20131112/in-data-speed-race-who-is-the-fastest-in-lte/" id="epost-372326" class="post-link">In Data-Speed Race, Who Is the Fastest in LTE?</a></h2>
+							<p class="byline">
+					<a href="http://allthingsd.com/author/walt/" rel="author">Walt Mossberg</a> in <a href="http://allthingsd.com/category/personal-technology/">Personal Technology</a> on November 12, 2013 at 6:03 pm PT				</p>
+						Walt puts four carriers&#8217; LTE services to a download-speed test.		</div><!--.excerpt-text-->
+			<div class="excerpt-image">
+			<a href="http://allthingsd.com/20131112/in-data-speed-race-who-is-the-fastest-in-lte/" class=" video-thumb"><img width="140" height="105" src="assets/d6095ae00ddcc9d310312ae89e5172cf.jpg" class="attachment-140x105 wp-post-image" alt="PJ-BR605_PTECHj_G_20131112184528" /></a>
+		</div><!--.excerpt-image-->
+		</div><!-- .excerpt -->
+	<div class="clearing"></div>
+	
+
+	<div class="excerpt has-photo">
+		<div class="excerpt-text">
+		
+						
+			<h2 class="title"><a href="http://allthingsd.com/20131105/is-a-nexus-phone-running-on-kitkat-any-sweeter/" id="epost-370805" class="post-link">Is a Nexus Phone Running on KitKat Any Sweeter?</a></h2>
+							<p class="byline">
+					<a href="http://allthingsd.com/author/walt/" rel="author">Walt Mossberg</a> in <a href="http://allthingsd.com/category/personal-technology/">Personal Technology</a> on November 5, 2013 at 6:04 pm PT				</p>
+						Google&#8217;s new Nexus 5 has some big advantages over its predecessor, but also a big minus.		</div><!--.excerpt-text-->
+			<div class="excerpt-image">
+			<a href="http://allthingsd.com/20131105/is-a-nexus-phone-running-on-kitkat-any-sweeter/" class=" video-thumb"><img width="140" height="105" src="assets/2c54d2f5b54c296394c8308000d7c6b7.jpg" class="attachment-140x105 wp-post-image" alt="PJ-BR470_PTECHj_DV_20131105183525" /></a>
+		</div><!--.excerpt-image-->
+		</div><!-- .excerpt -->
+	<div class="clearing"></div>
+	
+
+	<div class="excerpt has-photo">
+		<div class="excerpt-text">
+		
+						
+			<h2 class="title"><a href="http://allthingsd.com/20131029/wheres-the-intel-sticker/" id="epost-369157" class="post-link">Where&#8217;s the Intel Sticker?</a></h2>
+							<p class="byline">
+					<a href="http://allthingsd.com/author/walt/" rel="author">Walt Mossberg</a> in <a href="http://allthingsd.com/category/mossbergs-mailbox/">Mossberg&#8217;s Mailbox</a> on October 29, 2013 at 6:14 pm PT				</p>
+						Walt answers a reader&#8217;s question on how to tell if a PC has a new Intel chip if you&#8217;re buying online and can&#8217;t see the Intel sticker on the box.		</div><!--.excerpt-text-->
+			<div class="excerpt-image">
+			<a href="http://allthingsd.com/20131029/wheres-the-intel-sticker/" class=""><img src="assets/ec20028ca757c320134f16683529d6cf.png" alt="" /></a>
+		</div><!--.excerpt-image-->
+		</div><!-- .excerpt -->
+	<div class="clearing"></div>
+	
+
+	<div class="excerpt excerpt-short">
+		<h2 class="title"><a href="http://allthingsd.com/20131029/speed-and-power-packed-into-a-thin-ipad-air/" id="epost-369151" class="post-link  video"">Speed and Power Packed Into a Thin iPad Air</a></h2>
+		<p class="byline">
+			Posted by Walt Mossberg in <a href="http://allthingsd.com/category/personal-technology/">Personal Technology</a>, October 29, 2013 at 6:03 pm PT
+		</p>
+	</div><!-- .excerpt -->
+	<div class="clearing"></div>
+	
+
+	<div class="excerpt excerpt-short">
+		<h2 class="title"><a href="http://allthingsd.com/20131022/sneaky-apps-and-quiet-tv-watching/" id="epost-367631" class="post-link">Sneaky Apps and Quiet TV Watching</a></h2>
+		<p class="byline">
+			Posted by Walt Mossberg in <a href="http://allthingsd.com/category/mossbergs-mailbox/">Mossberg&#8217;s Mailbox</a>, October 22, 2013 at 6:13 pm PT
+		</p>
+	</div><!-- .excerpt -->
+	<div class="clearing"></div>
+	
+
+	<div class="excerpt excerpt-short">
+		<h2 class="title"><a href="http://allthingsd.com/20131022/the-laptops-to-buy/" id="epost-367620" class="post-link  video"">The Laptops to Buy</a></h2>
+		<p class="byline">
+			Posted by Walt Mossberg in <a href="http://allthingsd.com/category/personal-technology/">Personal Technology</a>, October 22, 2013 at 6:04 pm PT
+		</p>
+	</div><!-- .excerpt -->
+	<div class="clearing"></div>
+	
+
+	<div class="excerpt excerpt-short">
+		<h2 class="title"><a href="http://allthingsd.com/20131022/when-you-dont-want-a-new-start/" id="epost-367626" class="post-link">When You Don&#8217;t Want a New Start</a></h2>
+		<p class="byline">
+			Posted by Walt Mossberg in <a href="http://allthingsd.com/category/mossblog/">Mossblog</a>, October 22, 2013 at 6:00 pm PT
+		</p>
+	</div><!-- .excerpt -->
+	<div class="clearing"></div>
+	
+
+	<div class="excerpt excerpt-short">
+		<h2 class="title"><a href="http://allthingsd.com/20131015/in-search-of-a-virtual-keyboard-app/" id="epost-365905" class="post-link">In Search of a Virtual Keyboard App</a></h2>
+		<p class="byline">
+			Posted by Walt Mossberg in <a href="http://allthingsd.com/category/mossbergs-mailbox/">Mossberg&#8217;s Mailbox</a>, October 15, 2013 at 6:06 pm PT
+		</p>
+	</div><!-- .excerpt -->
+	<div class="clearing"></div>
+	
+
+	<div class="excerpt excerpt-short">
+		<h2 class="title"><a href="http://allthingsd.com/20131015/the-money-is-in-the-email/" id="epost-365900" class="post-link  video"">The Money Is in the Email</a></h2>
+		<p class="byline">
+			Posted by Walt Mossberg in <a href="http://allthingsd.com/category/personal-technology/">Personal Technology</a>, October 15, 2013 at 6:03 pm PT
+		</p>
+	</div><!-- .excerpt -->
+	<div class="clearing"></div>
+	
+
+	<div class="excerpt excerpt-short">
+		<h2 class="title"><a href="http://allthingsd.com/20131008/kindle-fire-hdx-a-more-helpful-tablet/" id="epost-364045" class="post-link  video"">Kindle Fire HDX: A More Helpful Tablet</a></h2>
+		<p class="byline">
+			Posted by Walt Mossberg in <a href="http://allthingsd.com/category/personal-technology/">Personal Technology</a>, October 8, 2013 at 6:05 pm PT
+		</p>
+	</div><!-- .excerpt -->
+	<div class="clearing"></div>
+	
+
+	<div class="excerpt excerpt-short">
+		<h2 class="title"><a href="http://allthingsd.com/20131001/how-can-you-undo-an-upgrade-to-apples-new-ios-7/" id="epost-362294" class="post-link">How Can You Undo an Upgrade to Apple&#8217;s New iOS 7?</a></h2>
+		<p class="byline">
+			Posted by Walt Mossberg in <a href="http://allthingsd.com/category/mossbergs-mailbox/">Mossberg&#8217;s Mailbox</a>, October 1, 2013 at 6:17 pm PT
+		</p>
+	</div><!-- .excerpt -->
+	<div class="clearing"></div>
+	
+
+	<div class="excerpt excerpt-short">
+		<h2 class="title"><a href="http://allthingsd.com/20131001/new-spin-on-video-chats-brings-more-to-the-party/" id="epost-362289" class="post-link  video"">New Spin on Video Chats Brings More to the Party</a></h2>
+		<p class="byline">
+			Posted by Walt Mossberg in <a href="http://allthingsd.com/category/personal-technology/">Personal Technology</a>, October 1, 2013 at 6:04 pm PT
+		</p>
+	</div><!-- .excerpt -->
+	<div class="clearing"></div>
+	
+
+	<div class="excerpt excerpt-short">
+		<h2 class="title"><a href="http://allthingsd.com/20130924/fingerprint-confidential/" id="epost-360660" class="post-link">Fingerprint Confidential</a></h2>
+		<p class="byline">
+			Posted by Walt Mossberg in <a href="http://allthingsd.com/category/mossbergs-mailbox/">Mossberg&#8217;s Mailbox</a>, September 24, 2013 at 6:07 pm PT
+		</p>
+	</div><!-- .excerpt -->
+	<div class="clearing"></div>
+	
+
+	<div class="excerpt excerpt-short">
+		<h2 class="title"><a href="http://allthingsd.com/20130924/cloud-video-for-you-and-your-friends-many-devices/" id="epost-360653" class="post-link  video"">Cloud Video for You and Your Friends&#8217; Many Devices</a></h2>
+		<p class="byline">
+			Posted by Walt Mossberg in <a href="http://allthingsd.com/category/personal-technology/">Personal Technology</a>, September 24, 2013 at 6:02 pm PT
+		</p>
+	</div><!-- .excerpt -->
+	<div class="clearing"></div>
+	
+
+	<div class="excerpt excerpt-short">
+		<h2 class="title"><a href="http://allthingsd.com/20130917/a-new-touch-for-iphone/" id="epost-359024" class="post-link  video"">A New Touch for iPhone</a></h2>
+		<p class="byline">
+			Posted by Walt Mossberg in <a href="http://allthingsd.com/category/personal-technology/">Personal Technology</a>, September 17, 2013 at 6:07 pm PT
+		</p>
+	</div><!-- .excerpt -->
+	<div class="clearing"></div>
+	
+
+	<div class="excerpt excerpt-short">
+		<h2 class="title"><a href="http://allthingsd.com/20130910/finding-a-tablet-for-a-4-year-old/" id="epost-357526" class="post-link">Finding a Tablet for a 4-Year-Old</a></h2>
+		<p class="byline">
+			Posted by Walt Mossberg in <a href="http://allthingsd.com/category/mossbergs-mailbox/">Mossberg&#8217;s Mailbox</a>, September 10, 2013 at 6:11 pm PT
+		</p>
+	</div><!-- .excerpt -->
+	<div class="clearing"></div>
+	
+
+	<div class="excerpt excerpt-short">
+		<h2 class="title"><a href="http://allthingsd.com/20130910/a-valuable-tool-for-web-browsing/" id="epost-357525" class="post-link  video"">A Valuable Tool for Web Browsing</a></h2>
+		<p class="byline">
+			Posted by Walt Mossberg in <a href="http://allthingsd.com/category/personal-technology/">Personal Technology</a>, September 10, 2013 at 6:05 pm PT
+		</p>
+	</div><!-- .excerpt -->
+	<div class="clearing"></div>
+	
+
+	<div class="excerpt excerpt-short">
+		<h2 class="title"><a href="http://allthingsd.com/20130903/parallels-access-requirements-on-windows/" id="epost-355618" class="post-link">Parallels Access Requirements on Windows</a></h2>
+		<p class="byline">
+			Posted by Walt Mossberg in <a href="http://allthingsd.com/category/mossbergs-mailbox/">Mossberg&#8217;s Mailbox</a>, September 3, 2013 at 6:09 pm PT
+		</p>
+	</div><!-- .excerpt -->
+	<div class="clearing"></div>
+	
+			<div class="pagination">
+
+	<div class='wp-pagenavi'>
+<span class='pages'>Page 1 of 35</span><span class='current'>1</span><a href='http://allthingsd.com/author/walt/page/2/' class='page larger'>2</a><a href='http://allthingsd.com/author/walt/page/3/' class='page larger'>3</a><a href='http://allthingsd.com/author/walt/page/4/' class='page larger'>4</a><a href='http://allthingsd.com/author/walt/page/5/' class='page larger'>5</a><a href="http://allthingsd.com/author/walt/page/2/" class="nextpostslink">Next</a><span class='extend'>...</span><a href='http://allthingsd.com/author/walt/page/35/' class='last'>Last</a>
+</div></div>		</div>
+	</div>
+
+</div>
+
+<div id="side">
+	<div class="recent-stories page-header-extra" id="recent-stories">
+	<div class="recent-inner">
+				<div class="excerpt first">			<p><a href="http://allthingsd.com/20131217/top-products-in-two-decades-of-tech-reviews/">Top Products in Two Decades of Tech Reviews</a></p>
+			<p>December 17, 2013 at 6:04 pm PT</p>
+		</div>
+				<div class="excerpt">			<p><a href="http://allthingsd.com/20131210/diabetes-data-beamed-to-your-phone/">Diabetes Data Beamed to Your Phone</a></p>
+			<p>December 10, 2013 at 6:16 pm PT</p>
+		</div>
+				<div class="excerpt">			<p><a href="http://allthingsd.com/20131210/two-houses-one-cable-tv-bill/">Two Houses, One Cable TV Bill</a></p>
+			<p>December 10, 2013 at 6:14 pm PT</p>
+		</div>
+				<div class="excerpt">			<p><a href="http://allthingsd.com/20131203/calling-overseas-on-wi-fi/">Calling Overseas on Wi-Fi</a></p>
+			<p>December 03, 2013 at 6:18 pm PT</p>
+		</div>
+				<div class="excerpt">			<p><a href="http://allthingsd.com/20131203/dell-tablets-at-bargain-prices/">Dell Tablets at Bargain Prices</a></p>
+			<p>December 03, 2013 at 6:12 pm PT</p>
+		</div>
+			</div>
+</div>
+
+	
+	<div id="secondary-sidebar">
+			</div>
+
+	
+	<div id="primary-sidebar">
+		<div class="wsj-search module">
+	<p class="col-name">Search the Mossberg Archives</p>
+	<p><strong>AllThingsD</strong> contains an archive of columns by Walt Mossberg and Katherine Boehret from The Wall Street Journal dating back to 2005.</p>
+	<form action="/">
+		<input type="text" name="s" id="sw" title="search the archives" value="" />
+		<input type="hidden" name="wk" id="wk" value="1" />
+	</form>
+</div>
+<div class="module video-module">
+	<div class="module-header clearfix">
+		<p class="col-name">Featured Video</p>
+		<p><a href="http://allthingsd.com/video/">View all videos &raquo;</a></p>
+	</div>
+	<div class="video-wrapper">
+		<div id="video-carousel" style="width:320px; height:181px; display:block; visibility: hidden;">api-video/find_all_videos.asp&fields=id,videoStillURL,thumbnailURL,guid,video320kMP4Url,name,duration&count=4&doctype=128&type=allthingsd-section&query=Walt+Mossberg</div>
+	</div>
+	<p class="right"><a href="#" class="video-options">Search &raquo;</a></p>
+	<div class="clearfix"></div>
+	<div class="video-search module">
+		<form action="/video">
+			<input type="text" name="s" id="sv" title="search the video archives" value="" />
+		</form>
+	</div>
+</div>
+		
+<div class="module wsj-cols mossberg-guides" id="mossberg-guides">
+	<h2 class="col-name">Walt Mossberg&#8217;s Product Guides</h2>
+	<div class="wsj-top">
+					<img src="assets/8d9a0609eb9f6c4ec6bad72b310cde88.jpg" width="85" height="115" alt="" />
+				<h2 class="col-name">Desktop PC&#8217;s and Laptops</h2>
+		<p class="title"><a href="http://allthingsd.com/20131022/the-laptops-to-buy/" id="mossguide-367620" class="post-link">The Laptops to Buy</a></p>
+		<hr />
+		<h2 class="col-name">Digital Cameras</h2>
+		<p class="title"><a href="http://allthingsd.com/20101109/digital-cameras-improve-zooms-hd-function/" id="mossguide-68693" class="post-link">Digital Cameras Improve Zooms, HD Function</a></p>
+	</div>
+</div>
+	</div>
+
+	
+	<div id="tertiary-sidebar">
+			</div>
+
+	</div>
+<div class="clearfix"></div>
+		</div><!--/#wrapper-->
+	
+    	<div id="nav-flyouts"></div>
+	
+	<div class="nav-flyout" id="nav-writers-flyout">
+		<div class="nav-flyout-header clearfix">
+			<h2 class="title"><strong>AllThingsD</strong> by Writer</h2>
+		</div>
+		
+<ul>	
+<li class="writer" id="mossberg">
+	<div class="writer-image">
+		<a href="http://allthingsd.com/author/walt/"><p class="title">Walt Mossberg</p></a>
+	</div>
+</li>
+	
+<li class="writer" id="swisher">
+	<div class="writer-image">
+		<a href="http://allthingsd.com/author/kara/"><p class="title">Kara Swisher</p></a>
+	</div>
+</li>
+	
+<li class="writer" id="paczkowski">
+	<div class="writer-image">
+		<a href="http://allthingsd.com/author/john/"><p class="title">John Paczkowski</p></a>
+	</div>
+</li>
+	
+<li class="writer" id="boehret">
+	<div class="writer-image">
+		<a href="http://allthingsd.com/author/katie/"><p class="title">Katherine Boehret</p></a>
+	</div>
+</li>
+</ul><ul class="middle">	
+<li class="writer" id="kafka">
+	<div class="writer-image">
+		<a href="http://allthingsd.com/author/peter/"><p class="title">Peter Kafka</p></a>
+	</div>
+</li>
+	
+<li class="writer" id="fried">
+	<div class="writer-image">
+		<a href="http://allthingsd.com/author/ina/"><p class="title">Ina Fried</p></a>
+	</div>
+</li>
+	
+<li class="writer" id="gannes">
+	<div class="writer-image">
+		<a href="http://allthingsd.com/author/lizg/"><p class="title">Liz Gannes</p></a>
+	</div>
+</li>
+	
+<li class="writer" id="hesseldahl">
+	<div class="writer-image">
+		<a href="http://allthingsd.com/author/arik/"><p class="title">Arik Hesseldahl</p></a>
+	</div>
+</li>
+</ul><ul>	
+<li class="writer" id="goode">
+	<div class="writer-image">
+		<a href="http://allthingsd.com/author/lauren/"><p class="title">Lauren Goode</p></a>
+	</div>
+</li>
+	
+<li class="writer" id="isaac">
+	<div class="writer-image">
+		<a href="http://allthingsd.com/author/mikeisaac/"><p class="title">Mike Isaac</p></a>
+	</div>
+</li>
+	
+<li class="writer" id="cha">
+	<div class="writer-image">
+		<a href="http://allthingsd.com/author/bonnie/"><p class="title">Bonnie Cha</p></a>
+	</div>
+</li>
+	
+<li class="writer" id="delrey">
+	<div class="writer-image">
+		<a href="http://allthingsd.com/author/jason/"><p class="title">Jason Del&nbsp;Rey</p></a>
+	</div>
+</li>
+</ul></ul>
+
+	</div>
+
+
+    </div><!--/#content-->
+    
+    <footer class="atd">
+        <div class="wrapper">
+            <!--<a href="http://allthingsd.com/" class="logo ir">All Things Digital</a>-->
+            <div class="footer-about" style="padding-top:0;">
+            	<a href="http://allthingsd.com/"><img src="assets/c59894de62ea057054cd3bbd56e4584f.png" alt="D: All Things Digital" width="240" height="36" class="aligncenter" style="margin-top:0px;" /></a>
+                <p style="padding-top:0;">AllThingsD.com is a Web site devoted to news, analysis and opinion on technology, the Internet and media. But it is different from other sites in this space. It is a fusion of different media styles, different topics, different formats and different sources. <a href="http://allthingsd.com/about/" rel="nofollow">Read more &raquo;</a></p>
+            </div><!--/.footer-about-->
+            <div class="footer-col">
+                <ul>
+                    <li><a href="http://allthingsd.com/about/" rel="nofollow">About Us &raquo;</a></li>
+                    <li><a href="http://allthingsd.com/contact/" rel="nofollow">Contact Us &raquo;</a></li>
+                    <li><a href="http://allthingsd.com/comments/" rel="nofollow">Comments Policy &raquo;</a></li>
+                    <li><a href="http://allthingsd.com/trackingcookies/" rel="nofollow">Cookies Policy &raquo;</a></li>
+                    <li><a href="http://allthingsd.com/privacy/" rel="nofollow">Privacy Policy &raquo;</a></li>
+                    <li><a href="http://allthingsd.com/faq/" rel="nofollow">FAQ &raquo;</a></li>
+                    <li><a href="http://allthingsd.com/terms/" rel="nofollow">Terms of Service &raquo;</a></li>
+                </ul>
+            </div>
+            <div class="footer-col">
+                <ul>
+                    <li><a href="http://allthingsd.com/trackingcookies/#cookies_advertising" rel="nofollow">Your Ad Choices &raquo;</a></li>
+                    <li><a href="http://allthingsd.com/advertise/" rel="nofollow">Advertise With Us &raquo;</a></li>
+                    <li><a href="http://allthingsd.com/tips/" rel="nofollow">Send a Tip &raquo;</a></li>
+					<li><a href="http://allthingsd.com/subscribe/#email" rel="nofollow">Daily Headlines Email &raquo;</a></li>
+		    		<li><a href="http://allthingsd.com/follow-us/" rel="nofollow">Follow <strong>AllThingsD</strong> Your Way &raquo;</a></li>
+                </ul>
+            </div>
+            <div class="footer-col footer-conf">
+                <p><a href="http://allthingsd.com/conferences/d/" rel="nofollow"><img src="assets/e46b56ec2adafeab62bc2f8e3a885dd7.png" width="150" height="66" class="replace-2x" alt="D Conference" /></a></p>
+                <p>Featuring the most influential figures in technology, unscripted<br />and upfront. <a href="http://allthingsd.com/conferences/d/d11/" rel="nofollow">More &raquo;</a></p>
+                
+                <p><strong>Conferences:</strong></p>
+                <ul>
+                	<li><a href="http://allthingsd.com/conferences/d/d11/">D: All Things Digital. &raquo;</a></li>
+	                <li><a href="http://allthingsd.com/conferences/dive-into-media/">D: Dive Into Media &raquo;</a></li>
+    	            <li><a href="http://allthingsd.com/conferences/dive-into-mobile/">D: Dive Into Mobile &raquo;</a></li>
+        	    </ul>
+                
+            </div>
+            <div class="footer-col footer-subscribe">
+        		
+                <h2>Follow us on Twitter:</h2>
+                
+                <div class="subscribe-block subscribe-twitter">
+                    <p>Select Account <span></span></p>
+                    <div class="subscribe-list twitter-list">
+                    
+                    <ul>
+						<li><a href="http://twitter.com/allthingsd" rel="nofollow">@allthingsd</a> (All Things Digital)</li>
+						<li><a href="http://twitter.com/ATDapple" rel="nofollow">@ATDapple</a> (Apple)</li>
+                    </ul>
+                    <ul>
+						<li><a href="http://twitter.com/ATDgoogle" rel="nofollow">@ATDgoogle</a> (Google)</li>
+						<li><a href="http://twitter.com/ATDmedia" rel="nofollow">@ATDmedia</a> (Media)</li>
+                    </ul>
+                    <ul>
+                    	<li><a href="http://twitter.com/ATDmobile" rel="nofollow">@ATDmobile</a> (Mobile)</li>
+						<li><a href="http://twitter.com/ATDreviews" rel="nofollow">@ATDreviews</a> (Reviews)</li>
+                    </ul>
+                    
+                   <div class="clearfix"></div>
+                    
+                    
+<ul><li><a href="http://twitter.com/waltmossberg" rel="nofollow">@waltmossberg</a> (Walt Mossberg)</li>
+<li><a href="http://twitter.com/karaswisher" rel="nofollow">@karaswisher</a> (Kara Swisher)</li>
+<li><a href="http://twitter.com/JohnPaczkowski" rel="nofollow">@JohnPaczkowski</a> (John Paczkowski)</li>
+<li><a href="http://twitter.com/kabster728" rel="nofollow">@kabster728</a> (Katherine Boehret)</li>
+</ul><ul><li><a href="http://twitter.com/pkafka" rel="nofollow">@pkafka</a> (Peter Kafka)</li>
+<li><a href="http://twitter.com/inafried" rel="nofollow">@inafried</a> (Ina Fried)</li>
+<li><a href="http://twitter.com/LizGannes" rel="nofollow">@LizGannes</a> (Liz Gannes)</li>
+<li><a href="http://twitter.com/ahess247" rel="nofollow">@ahess247</a> (Arik Hesseldahl)</li>
+</ul><ul><li><a href="http://twitter.com/LaurenGoode" rel="nofollow">@LaurenGoode</a> (Lauren Goode)</li>
+<li><a href="http://twitter.com/MikeIsaac" rel="nofollow">@MikeIsaac</a> (Mike Isaac)</li>
+<li><a href="http://twitter.com/BonnieSCha" rel="nofollow">@BonnieSCha</a> (Bonnie Cha)</li>
+<li><a href="http://twitter.com/DelRey" rel="nofollow">@DelRey</a> (Jason Del Rey)</li>
+</ul></ul>
+                    
+					</div>
+					<!--/.subscribe-block-lists-->
+					                    
+                                        
+                </div>
+                
+                <h2>RSS Feeds</h2>
+                <div class="subscribe-block subscribe-feeds">
+                    <p>Select Feed <span></span></p>
+                    <div class="subscribe-list feeds-list">
+                    
+                    		<!-- Category and Column Feeds -->
+                    		
+            			<ul>
+            				<li><a href="http://allthingsd.com/feed/" rel="nofollow">All Feeds</a></li>
+            				<li><a href="http://allthingsd.com/category/news/feed/" rel="nofollow">News</a></li>
+            				<li><a href="http://allthingsd.com/category/reviews/feed/" rel="nofollow">Reviews</a></li>
+            				<li><a href="http://allthingsd.com/category/mobile/feed/" rel="nofollow">Mobile</a></li>
+            			</ul>
+            			<ul>
+            				<li><a href="http://allthingsd.com/category/media/feed/" rel="nofollow">Media</a></li>
+            				<li><a href="http://allthingsd.com/category/social/feed/" rel="nofollow">Social</a></li>
+            				<li><a href="http://allthingsd.com/category/enterprise/feed/" rel="nofollow">Enterprise</a></li>
+            				<li><a href="http://allthingsd.com/category/news/feed/" rel="nofollow">Commerce</a></li>
+            			</ul>
+            			<ul>
+            				<li><a href="http://allthingsd.com/category/voices/feed/" rel="nofollow">Voices</a></li>
+            				<li><a href="http://allthingsd.com/category/personal-technology/feed/" rel="nofollow">Personal Technology</a></li>
+            				<li><a href="http://allthingsd.com/category/mossbergs-mailbox/feed/" rel="nofollow">Mossberg&#8217;s Mailbox</a></li>
+            				<li><a href="http://allthingsd.com/category/the-digital-solution/feed/" rel="nofollow">The Digital Solution</a></li>
+            			</ul>
+            			
+            			<hr />
+            			
+            				<!-- Author Feeds -->
+            				
+<ul><li><a href="http://allthingsd.com/author/walt/feed" rel="nofollow">Walt Mossberg</a></li>
+<li><a href="http://allthingsd.com/author/kara/feed" rel="nofollow">Kara Swisher</a></li>
+<li><a href="http://allthingsd.com/author/john/feed" rel="nofollow">John Paczkowski</a></li>
+<li><a href="http://allthingsd.com/author/katie/feed" rel="nofollow">Katherine Boehret</a></li>
+</ul><ul><li><a href="http://allthingsd.com/author/peter/feed" rel="nofollow">Peter Kafka</a></li>
+<li><a href="http://allthingsd.com/author/ina/feed" rel="nofollow">Ina Fried</a></li>
+<li><a href="http://allthingsd.com/author/lizg/feed" rel="nofollow">Liz Gannes</a></li>
+<li><a href="http://allthingsd.com/author/arik/feed" rel="nofollow">Arik Hesseldahl</a></li>
+</ul><ul><li><a href="http://allthingsd.com/author/lauren/feed" rel="nofollow">Lauren Goode</a></li>
+<li><a href="http://allthingsd.com/author/mikeisaac/feed" rel="nofollow">Mike Isaac</a></li>
+<li><a href="http://allthingsd.com/author/bonnie/feed" rel="nofollow">Bonnie Cha</a></li>
+<li><a href="http://allthingsd.com/author/jason/feed" rel="nofollow">Jason Del Rey</a></li>
+</ul></ul>            				
+            				
+                    </div><!--/.subscribe-block-list-->
+        		</div>
+        		
+
+            </div>
+        </div><!--/.wrapper-->
+        <div id="footer-links">
+        	<ul class="hmenu footer-meta">
+				<li><a href="http://www.dowjones.com/" rel="nofollow">&copy; 2005-2020 Dow Jones &amp; Company Inc.</a></li>
+				<li><a href="http://allthingsd.com/terms/" rel="nofollow">All Rights Reserved.</a></li>
+                <li><a href="http://allthingsd.com/?atd_action=force_mobile" id="atd_mobile_link">Mobile Version</a></li>
+        	</ul>
+	        <div class="clearing"></div>
+        </div>
+    </footer>
+</div><!--/#container -->
+
+
+<!--Begin Google Analytics -->
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-20024794-1']);
+  _gaq.push(['_setDomainName', '.allthingsd.com']);  _gaq.push(['_setAllowHash', false]);
+  _gaq.push(['_trackPageview']);
+
+	
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<!--End Google Analytics -->
+
+<!--[if IE 8]>
+<div id="slice" class="hslice">
+	<div class="entry-title" style="display: none;">All Things Digital</div>
+	<div class="entry-content" style="display: none;">AllThingsD.com is a Web site devoted to news, analysis and opinion on technology, the Internet, and media.</div>
+	<a rel="entry-content" href="http://ie8.smoothfusion.com/allthingsd/View.aspx" style="display: none; ">LINKS TO ACTUAL PAGE CONTAINING WEB SLICE FUNCTIONALITY.</a>
+	<a rel="bookmark" target="_blank" href="http://www.allthingsd.com" style="display: none;" />
+	<span class="ttl" style="display: none;">15</span>
+<![endif]-->
+
+<!-- /// LOAD CHARTBEAT /// -->
+<script type="text/javascript">
+var _sf_async_config={};
+_sf_async_config.uid = 9009;
+_sf_async_config.useCanonical = true;
+
+(function(){
+  function loadChartbeat() {
+    window._sf_endpt=(new Date()).getTime();
+    var e = document.createElement('script');
+    e.setAttribute('language', 'javascript');
+    e.setAttribute('type', 'text/javascript');
+    e.setAttribute('src',
+       (("https:" == document.location.protocol) ? "https://s3.amazonaws.com/" : "http://") +
+       "static.chartbeat.com/js/chartbeat.js");
+    document.body.appendChild(e);
+  }
+  var oldonload = window.onload;
+  window.onload = (typeof window.onload != 'function') ?
+     loadChartbeat : function() { oldonload(); loadChartbeat(); };
+})();
+</script>
+<script type='text/javascript' src='assets/7cdf25aad9890bc28294f0ecc2f5af23.16'></script>
+<script type='text/javascript' src='assets/306675a976fb2e7278d245bfcdf0471e.js'></script>
+<script type='text/javascript' src='assets/21cfefabe2f356ad8d6a99965c09a100.js'></script>
+<script type='text/javascript' src='assets/1ca4e72c76a52aae08f930cdf4bce4ab.js'></script>
+<script type='text/javascript' src='assets/f8146456911445f2e89817551ec82fe8.1'></script>
+<script type="text/javascript" src="//tealium.hs.llnwd.net/o43/utag/wsjdn/allthingsd/prod/utag.js"></script>
+<script type="text/javascript">
+jQuery(function($){$('a#atd_mobile_link').click(function(){var mobile_cookie=getCookie('atd_mobile_theme_mobile');if(mobile_cookie!='true'){setCookie('atd_mobile_theme_mobile','true',30,'/','allthingsd.com');}else{setCookie('atd_mobile_theme_mobile','false',-1,'/','allthingsd.com');}
+location.reload(false);return false;});});
+</script>
+<script type="text/javascript" src=""></script>
+    
+
+<script type="text/javascript">jQuery(function(){setTimeout(function(){var bk_data={"adZone":"","adSize1":"","serverDomain":"allthingsd.com","primaryProduct":"All Things D","pageName":"ATD_Walt Mossberg_Main","articleType":"ATD_Summaries_Walt Mossberg","section":"ATD_Writer","subSection":"ATD_Walt Mossberg","contentType":"summaries","encryptedUUID":"","contentChannel":"Summaries","isSub":"yes","edition":null,"referer":""};var bk_referrer=document.createElement('a');bk_referrer.href=document.referrer;bk_data['referer']=bk_referrer.hostname;var ad_sizes=[];var ad_scripts=jQuery("script[src^='http://ad.doubleclick.net']");jQuery(ad_scripts).map(function(i,el){var width=false;var height=false;var adSize=false;if(!width&&!height&&!adSize){var obj=jQuery(el).parent().find('object');if(obj.length>0){width=obj[0].width;height=obj[0].height;adSize=''+width+'x'+height;ad_sizes.push(adSize);}}
+if(!width&&!height&&!adSize){var embed=jQuery(el).parent().find('embed');if(embed.length>0){width=jQuery(embed[0]).width();height=jQuery(embed[0]).height();adSize=''+width+'x'+height;ad_sizes.push(adSize);}}
+if(!width&&!height&&!adSize){var iframe=jQuery(el).parent().find('iframe');if(iframe.length>0){width=jQuery(iframe[0]).width();height=jQuery(iframe[0]).height();adSize=''+width+'x'+height;ad_sizes.push(adSize);}}
+if(!width&&!height&&!adSize){var a=jQuery(el).parent().find('a');if(a.length>0){width=jQuery(a[0]).children('img').width();height=jQuery(a[0]).children('img').height();adSize=''+width+'x'+height;ad_sizes.push(adSize);}}});for(var i=0;i<ad_sizes.length;i++){var key='adSize'+(i+1);bk_data[key]=ad_sizes[i];}
+var bk_adzones=[];if(typeof(ad_zones)!='undefined'&&ad_zones.length>0){var j=0;for(var i=0;i<ad_zones.length;i++){if(jQuery.inArray(ad_zones[i],bk_adzones)==-1){bk_adzones.push(ad_zones[i]);var key=(j==0)?'adZone':'adZone'+(j+1);j++;bk_data[key]=ad_zones[i];}}}
+var bk_adsections=[];if(typeof(ad_sections)!='undefined'&&ad_sections.length>0){var j=0;for(var i=0;i<ad_sections.length;i++){if(jQuery.inArray(ad_sections[i],bk_adsections)==-1){bk_adsections.push(ad_sections[i]);var key=(j==0)?'adSection':'adSection'+(j+1);j++;bk_data[key]=ad_sections[i];}}}
+blueKai.blueKai.bk_track(true,bk_data);},5000);});
+
+</script>
+<!-- START omniture_snippet_wsj_1.htm -->
+<script type="text/javascript" src="assets/d284ff6342a2f509a07f39f6ddb87d97.js"></script>
+<script type="text/javascript">
+<!--
+    s.channel = "All Things D";
+    
+    var refresh = s.getQueryParam('refresh');
+    var siteid = s.getQueryParam('siteid');
+    if(!refresh){refresh = 'off'};
+    var link = s.getQueryParam('mod');
+    var reflink = s.getQueryParam('reflink');
+    var targeturl = s.getQueryParam('url'); 
+    if (reflink){
+       link = "";
+    }else if(link){
+       reflink = "";
+    }
+    var fullurl = document.location.href;
+    var baseurl = document.location.protocol+'//'+document.location.host+document.location.pathname;
+    
+    fullurl = fullurl.replace(/</g, "&lt;").replace(/>/g, "&gt;");
+    
+	setMetaData('siteid', siteid);
+    setMetaData('baseurl', baseurl);
+    setMetaData('fullurl', fullurl);
+    if(link){setMetaData('link', link);}
+    if(reflink){setMetaData('reflink', reflink);}
+    if(targeturl){setMetaData('targeturl', targeturl);} 
+    
+    	setMetaData('sitedomain','allthingsd.com');
+	setMetaData('s_account','djglobal,djatd');
+	setMetaData('primaryproduct','All Things D');
+	setMetaData('pagename','ATD_Walt Mossberg_Main');
+	setMetaData('section','Summaries');
+	setMetaData('subsection','ATD_Writer');
+	setMetaData('refresh','off');
+	setMetaData('basesection','ATD_Walt Mossberg');
+	setMetaData('csource','ATD');
+	setMetaData('caccess','free');
+	setMetaData('ctype','summaries');
+	setMetaData('atype','ATD_Summaries_Walt Mossberg');
+	setMetaData('apage','ATD_Author_Walt Mossberg');
+	setMetaData('abasedocid','ATD_Author_8');
+s.events="event12,event16";		
+	setMetaData('refresh', refresh);
+		
+/** START omniture_snippet_wsj_2.htm **/
+    if(s.prop19 == 'article'){
+        //s.hier1 = s.channel+','+s.prop1+','+s.prop2+','+s.pageName+','+s.prop22+','+s.prop3+','+s.prop20+','+s.prop4+','+s.prop6;
+    }else{
+        //s.hier1 = s.channel+','+s.prop1+','+s.prop2+','+s.pageName+','+s.prop6;
+    }
+    s.hier1 = '';
+
+/** pageView event and eVar value **/
+//s.events=s.events?s.events+",event12":"event12";
+s.eVar3 = "";
+/*
+try{
+  if (GetCookie('TR')){s.eVar3 = GetCookie('TR')}
+} catch(err){}
+*/
+s.eVar4 = s.pageName;
+s.eVar5="";
+s.eVar6="";
+if(link){s.eVar5 =link;}
+if(reflink){s.eVar6 =reflink;}
+if(siteid){s.eVar6 = s.prop11 = siteid;}
+s.eVar8 = "";
+if (s.prop18){
+  s.eVar8 = s.prop18;
+}
+s.eVar11 = s.channel;
+
+/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
+var s_code=s.t();if(s_code)document.write(s_code)//--></script>
+<script language="JavaScript" type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'\!-'+'-')
+//--></script><!--/DO NOT REMOVE/-->
+<!-- End SiteCatalyst code version: H.25. -->
+
+<script type="text/javascript">
+jQuery(document).on('ready post-load', easy_fancybox_handler );
+</script>
+
+
+<!-- JavaScript at the bottom for fast page loading -->
+
+<script type="text/javascript">
+var ATD_URL = "http://allthingsd.com";
+var ATD_AJAX_LOAD = '1';
+</script>
+
+<script type="text/javascript">var jsver = 1.0;</script>
+<script type="text/javascript" language="Javascript 1.1">jsver = 1.1;</script>
+<script type="text/javascript" language="Javascript 1.2">jsver = 1.2;</script>
+
+<!-- end scripts-->
+
+<!--[if lt IE 7 ]>
+<script src="http://allthingsd.com/wp-content/themes/atd-2.0/js/libs/dd_belatedpng.js"></script>
+<script>DD_belatedPNG.fix('img, .png_bg');</script>
+<![endif]-->
+
+
+<div style="position:fixed;top:0;left:0;width:100%;height:45px;z-index:2147483647;background-color:rgba(253,147,38,0.90) !important;color:black !important;text-align:right !important;font:normal 12px/45px Arial, sans-serif !important;border-radius:0 !important;margin:0 !important;max-width:100% !important;background-repeat: no-repeat !important;background-position: 15px center !important;
+background-image: url(data:image/png;base64,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);
+"><span style="padding-right:15px;">You are viewing a snapshot of <a style='font-weight:bold !important; color:white !important' href='http://walt.allthingsd.com/'>http://walt.allthingsd.com/</a> created on 2020/08/11</span></div></body>
+</html>

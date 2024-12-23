@@ -1,0 +1,546 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+  <head>
+    <title>opensoundcontrol.org | an Enabling Encoding for Media Applications</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+
+      <!-- Additional IE/Win specific style sheet (Conditional Comments) -->
+      <!--[if IE]>
+      <style type="text/css" media="all">@import "assets/3caad4a9ca2c801c30129240548aa2c6.css";</style>
+      <![endif]-->
+    
+<link rel="alternate" type="application/rss+xml" title="opensoundcontrol.org RSS" href="http://opensoundcontrol.org/node/feed" />
+
+<link rel="shortcut icon" href="/misc/favicon.ico" type="image/x-icon" />
+    <style type="text/css" media="all">@import "assets/00cbd558ab4216fe77522675ac6b06ed.css";</style>
+    <script type="text/javascript" src="assets/3e441e90968748d2be261949f4950677.js"></script>
+<script type="text/javascript" src="assets/3bb8c6f0c054d29c7da44d322a8b5f22.js"></script>
+<script type="text/javascript" src="assets/69cd454b249dda0caa095286b28f3bc1.js"></script>
+<script type="text/javascript" src="assets/3bcc7cbb2774ca2991a75c8530c9bbb6.js"></script>
+<script type="text/javascript" src="assets/059327c0e2cecfbb2e21c1516454977b.js"></script>
+<script type="text/javascript" src="assets/60428b1b3df0b9bfada258840299db67.js"></script>
+<script type="text/javascript" src="assets/f075b5b2ae82bf7b92e34da46781749f.js"></script>
+<script type="text/javascript" src="assets/e6e2df9aacfe82385508cdceba6216cc.js"></script>
+<script type="text/javascript" src="assets/8f030c4fc72ea22de57aea0c4d44df25.js"></script>
+<script type="text/javascript" src="assets/8a6fc18cef064967d26b60f8d19208f3.js"></script>
+<script type="text/javascript" src="assets/40cd66ebc47cfedac75e85097b408a08.js"></script>
+<script type="text/javascript">Drupal.extend({ settings: { "jstools": { "cleanurls": true, "basePath": "/" }, "activemenu": { "#block-book-0": "activemenu/book", "#block-menu-1": "activemenu/menu", "#block-menu-59": "activemenu/menu", "#block-menu-72": "activemenu/menu", "#block-menu-onpage": "activemenu/menu", "#block-user-1": "activemenu/menu", "#block-taxonomy_context-1": "activemenu/menu" }, "collapsiblock": { "blocks": [  ], "default_state": 1, "titleSelector": "h2" }, "tabs": { "slide": false, "fade": false, "speed": "fast", "auto_height": false }, "spamspan": { "m": "spamspan", "u": "u", "d": "d", "t": "t" } } });</script>
+    <style type="text/css" media="print">@import "assets/82cb94910662af7713e5b4d93a9ba450.css";</style>
+    <!--[if lt IE 7]>
+    <style type="text/css" media="all">@import "assets/edb709e047613878fd2f1f518c2e134f.css";</style>
+    <![endif]-->
+  </head>
+  <body class="sidebar-right">
+
+<!-- Layout -->
+  <div id="header-region" class="clear-block"></div>
+
+    <div id="wrapper">
+    <div id="container" class="clear-block">
+
+      <div id="header">
+        <div id="logo-floater">
+        <h1><a href="/" title="opensoundcontrol.org an Enabling Encoding for Media Applications"><span>opensoundcontrol.org</span> an Enabling Encoding for Media Applications</a></h1>        </div>
+
+                  <ul class="links primary-links"><li class="first menu-1-1-59"><a href="/introduction-osc" class="menu-1-1-59">Introduction to OSC</a></li>
+<li class="menu-1-2-59"><a href="/introduction-osc" class="menu-1-2-59">Introduction to OSC</a></li>
+<li class="menu-1-3-59"><a href="/spec-1_0" class="menu-1-3-59">OSC 1.0 Specification</a></li>
+<li class="menu-1-4-59"><a href="/spec-1_1" class="menu-1-4-59">OSC 1.1 Specification</a></li>
+<li class="menu-1-5-59"><a href="/osc-application-areas" class="menu-1-5-59">Application Areas</a></li>
+<li class="menu-1-6-59"><a href="/resources" class="menu-1-6-59">Developer Resources</a></li>
+<li class="menu-1-7-59"><a href="/forum" class="menu-1-7-59">Forums</a></li>
+<li class="menu-1-8-59"><a href="/implementations" class="menu-1-8-59">Implementations</a></li>
+<li class="last menu-1-9-59"><a href="/publications" class="menu-1-9-59">Publications</a></li>
+</ul>                                  
+      </div> <!-- /header -->
+
+      
+      <div id="center"><div id="squeeze"><div class="right-corner"><div class="left-corner">
+                    
+                              
+          
+                              
+<div id="node-625" class="node">
+
+
+  <h2><a href="/implementation/osc-simpl-unity" title="OSC simpl (for Unity)">OSC simpl (for Unity)</a></h2>
+
+      <span class="submitted">December 12, 2017 - 1:58pm — Adrian Freed</span>
+  
+  <div class="content">
+    <div class="field field-type-text field-field-project-type"><div class="field-items"><div class="field-item"><div class="field-label-inline-first">Project Type:&nbsp;</div>Software Application</div></div></div><div class="field field-type-link field-field-project-url"><div class="field-items"><div class="field-item"><div class="field-label-inline-first">Project URL:&nbsp;</div><a href="https://assetstore.unity.com/packages/tools/input-management/osc-simpl-53710">OSC simpl ification for Unity 3D</a></div></div></div><div class="field field-type-text field-field-description"><div class="field-items"><div class="field-item"><p>Supports<br />
+- All OSC argument types (except MIDI)<br />
+- Bundles with timetags<br />
+- UDP IPv4 Unicast, Broadcast and Multicast<br />
+- Unity's .Net 2.0 Subset</p>
+
+
+</div></div></div>
+
+  </div>
+
+  <div class="clear-block clear">
+    <div class="meta">
+        </div>
+
+      </div>
+
+</div>
+<div id="node-620" class="node">
+
+
+  <h2><a href="/implementation/oscpkt" title="OscPkt">OscPkt</a></h2>
+
+      <span class="submitted">December 20, 2011 - 2:18pm — MrMormon</span>
+  
+  <div class="content">
+    <div class="field field-type-text field-field-project-type"><div class="field-items"><div class="field-item"><div class="field-label-inline-first">Project Type:&nbsp;</div>Programming Language Library</div></div></div><div class="field field-type-link field-field-project-url"><div class="field-items"><div class="field-item"><div class="field-label-inline-first">Project URL:&nbsp;</div><a href="http://gruntthepeon.free.fr/oscpkt/">http://gruntthepeon.free.fr/oscpkt/</a></div></div></div><div class="field field-type-text field-field-description"><div class="field-items"><div class="field-item"><p>(I didn't write this.) This is a very minimalistic OSC 1.0 library written completely in C++ and released under the zlib license.</p>
+
+
+</div></div></div>
+
+  </div>
+
+  <div class="clear-block clear">
+    <div class="meta">
+        </div>
+
+          <div class="links"><ul class="links inline"><li class="first comment_forbidden"><span class="comment_forbidden"><a href="/user/login?destination=node/620%2523comment-form">Login</a> to post comments</span></li>
+<li class="last upload_attachments"><a href="/implementation/oscpkt#attachments" title="Read full article to view attachments." class="upload_attachments">1 attachment</a></li>
+</ul></div>
+      </div>
+
+</div>
+<div id="node-618" class="node">
+
+
+  <h2><a href="/implementation/livegrabber" title="LiveGrabber">LiveGrabber</a></h2>
+
+      <span class="submitted">December 13, 2011 - 3:28pm — Mattijs</span>
+  
+  <div class="content">
+    <div class="field field-type-text field-field-project-type"><div class="field-items"><div class="field-item"><div class="field-label-inline-first">Project Type:&nbsp;</div>Software Application</div></div></div><div class="field field-type-link field-field-project-url"><div class="field-items"><div class="field-item"><div class="field-label-inline-first">Project URL:&nbsp;</div><a href="http://livegrabber.sourceforge.net/">Sourceforge page</a></div></div></div><div class="field field-type-text field-field-description"><div class="field-items"><div class="field-item"><p>The LiveGrabber plugins are a set of Max For Live plugins that send device parameters, track parameters, clip envelopes and audio analysis information from Ableton Live to any device on the network th</p>
+
+
+</div></div></div>
+
+  </div>
+
+  <div class="clear-block clear">
+    <div class="meta">
+        </div>
+
+          <div class="links"><ul class="links inline"><li class="first last comment_forbidden"><span class="comment_forbidden"><a href="/user/login?destination=node/618%2523comment-form">Login</a> to post comments</span></li>
+</ul></div>
+      </div>
+
+</div>
+<div id="node-617" class="node">
+
+
+  <h2><a href="/implementation/oscseq" title="OSCseq">OSCseq</a></h2>
+
+      <span class="submitted">December 13, 2011 - 3:21pm — Mattijs</span>
+  
+  <div class="content">
+    <div class="field field-type-text field-field-project-type"><div class="field-items"><div class="field-item"><div class="field-label-inline-first">Project Type:&nbsp;</div>Software Application</div></div></div><div class="field field-type-link field-field-project-url"><div class="field-items"><div class="field-item"><div class="field-label-inline-first">Project URL:&nbsp;</div><a href="http://oscseq.com">OSCseq.com</a></div></div></div><div class="field field-type-text field-field-description"><div class="field-items"><div class="field-item"><p>OSCseq is a basic Open Sound Control sequencer.</p>
+
+
+</div></div></div>
+
+  </div>
+
+  <div class="clear-block clear">
+    <div class="meta">
+        </div>
+
+          <div class="links"><ul class="links inline"><li class="first last comment_forbidden"><span class="comment_forbidden"><a href="/user/login?destination=node/617%2523comment-form">Login</a> to post comments</span></li>
+</ul></div>
+      </div>
+
+</div>
+<div id="node-565" class="node">
+
+
+  <h2><a href="/implementation/osc-and-dmx-lighting" title="OSC and DMX Lighting">OSC and DMX Lighting</a></h2>
+
+      <span class="submitted">September 18, 2011 - 1:36pm — lightjams</span>
+  
+  <div class="content">
+    <div class="field field-type-text field-field-project-type"><div class="field-items"><div class="field-item"><div class="field-label-inline-first">Project Type:&nbsp;</div>Software Application</div></div></div><div class="field field-type-link field-field-project-url"><div class="field-items"><div class="field-item"><div class="field-label-inline-first">Project URL:&nbsp;</div><a href="http://www.lightjams.com">Lightjams - DMX Lighting Controller for Live Performances</a></div></div></div><div class="field field-type-text field-field-description"><div class="field-items"><div class="field-item"><p>DMX lighting controller with native support for OSC in and out. This allows easy integration of lighting control with other show control applications like music, VJ and media server.</p>
+
+
+</div></div></div>
+
+  </div>
+
+  <div class="clear-block clear">
+    <div class="meta">
+        </div>
+
+          <div class="links"><ul class="links inline"><li class="first last comment_forbidden"><span class="comment_forbidden"><a href="/user/login?destination=node/565%2523comment-form">Login</a> to post comments</span></li>
+</ul></div>
+      </div>
+
+</div>
+<div id="node-556" class="node">
+
+
+  <h2><a href="/implementation/osc-clj-clojure-osc-library" title="osc-clj - Clojure OSC Library">osc-clj - Clojure OSC Library</a></h2>
+
+      <span class="submitted">September 14, 2011 - 3:51am — samaaron</span>
+  
+  <div class="content">
+    <div class="field field-type-text field-field-project-type"><div class="field-items"><div class="field-item"><div class="field-label-inline-first">Project Type:&nbsp;</div>Programming Language Library</div></div></div><div class="field field-type-link field-field-project-url"><div class="field-items"><div class="field-item"><div class="field-label-inline-first">Project URL:&nbsp;</div><a href="https://github.com/overtone/osc-clj">Clojure OSC Library</a></div></div></div><div class="field field-type-text field-field-description"><div class="field-items"><div class="field-item"><p>Full implementation of OSC 1.0 Specification.</p>
+
+
+</div></div></div>
+
+  </div>
+
+  <div class="clear-block clear">
+    <div class="meta">
+        </div>
+
+          <div class="links"><ul class="links inline"><li class="first last comment_forbidden"><span class="comment_forbidden"><a href="/user/login?destination=node/556%2523comment-form">Login</a> to post comments</span></li>
+</ul></div>
+      </div>
+
+</div>
+<div id="node-333" class="node">
+
+
+  <h2><a href="/publication/improving-efficiency-open-sound-control-compressed-address-strings" title="Improving the Efficiency of Open Sound Control with Compressed Address Strings">Improving the Efficiency of Open Sound Control with Compressed Address Strings</a></h2>
+
+      <span class="submitted">July 18, 2011 - 2:07am — jarik</span>
+  
+  <div class="content">
+    <div id="biblio-node"><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rfr_id=info%3Asid%2Fopensoundcontrol.org&amp;rft.title=Improving+the+Efficiency+of+Open+Sound+Control+with+Compressed+Address+Strings&amp;rft.series=Proceedings+of+the+8th+Sound+and+Music+Computing+Conference&amp;rft.isbn=9788897385035&amp;rft.date=2011&amp;rft.aulast=Kleimola&amp;rft.aufirst=Jari&amp;rft.au=McGlynn%2C+Patrick&amp;rft.pub=Padova+University+Press&amp;rft.place=Padova%2C+Italy&amp;rft_id=http%3A%2F%2Fwww.acoustics.hut.fi%2Fpublications%2Fpapers%2Fsmc2011-osc"></span><table>
+<tbody>
+ <tr class="odd"><td align="right"><span class="biblio-row-title">Publication Type</span></td><td>&nbsp;&nbsp;</td><td>Conference Paper</td> </tr>
+ <tr class="even"><td align="right" valign="top" width="20%"><span class="biblio-row-title">Year of Publication</span></td><td>&nbsp;&nbsp;</td><td>2011
+
+</td> </tr>
+ <tr class="odd"><td align="right" valign="top" width="20%"><span class="biblio-row-title">Authors</span></td><td>&nbsp;&nbsp;</td><td><a href="/publications/author/Kleimola">Kleimola, Jari</a>; <a href="/publications/author/McGlynn">McGlynn, Patrick</a></td> </tr>
+ <tr class="even"><td align="right" valign="top" width="20%"><span class="biblio-row-title">Conference Name</span></td><td>&nbsp;&nbsp;</td><td>Sound and Music Computing Conference (SMC-2011)
+
+</td> </tr>
+ <tr class="odd"><td align="right" valign="top" width="20%"><span class="biblio-row-title">Series Title</span></td><td>&nbsp;&nbsp;</td><td>Proceedings of the 8th Sound and Music Computing Conference
+
+</td> </tr>
+ <tr class="even"><td align="right" valign="top" width="20%"><span class="biblio-row-title">Pagination</span></td><td>&nbsp;&nbsp;</td><td>pp. 479-485
+
+</td> </tr>
+ <tr class="odd"><td align="right" valign="top" width="20%"><span class="biblio-row-title">Conference Start Date</span></td><td>&nbsp;&nbsp;</td><td>06/07/2011
+
+</td> </tr>
+ <tr class="even"><td align="right" valign="top" width="20%"><span class="biblio-row-title">Publisher</span></td><td>&nbsp;&nbsp;</td><td>Padova University Press
+
+</td> </tr>
+ <tr class="odd"><td align="right" valign="top" width="20%"><span class="biblio-row-title">Conference Location</span></td><td>&nbsp;&nbsp;</td><td>Padova, Italy
+
+</td> </tr>
+ <tr class="even"><td align="right" valign="top" width="20%"><span class="biblio-row-title">Editor</span></td><td>&nbsp;&nbsp;</td><td>Serena Zanolla, Federico Avanzini, Sergio Canazza and Amalia de Götzen
+
+</td> </tr>
+ <tr class="odd"><td align="right" valign="top" width="20%"><span class="biblio-row-title">ISBN Number</span></td><td>&nbsp;&nbsp;</td><td>9788897385035
+
+</td> </tr>
+ <tr class="even"><td align="right" valign="top" width="20%"><span class="biblio-row-title">URL</span></td><td>&nbsp;&nbsp;</td><td><a href="http://www.acoustics.hut.fi/publications/papers/smc2011-osc">http://www.acoustics.hut.fi/publications/papers/smc2011-osc</a></td> </tr>
+ <tr class="odd"><td align="right" valign="top" width="20%"><span class="biblio-row-title"></span></td><td>&nbsp;&nbsp;</td><td></td> </tr>
+</tbody></table>
+</div>  </div>
+
+  <div class="clear-block clear">
+    <div class="meta">
+        </div>
+
+          <div class="links"><ul class="links inline"><li class="first last comment_forbidden"><span class="comment_forbidden"><a href="/user/login?destination=node/333%2523comment-form">Login</a> to post comments</span></li>
+</ul></div>
+      </div>
+
+</div>
+<div id="node-330" class="node">
+
+
+  <h2><a href="/implementation/missing-link-osc-midi-translator" title="The Missing Link OSC/MIDI Translator">The Missing Link OSC/MIDI Translator</a></h2>
+
+      <span class="submitted">June 7, 2011 - 1:49pm — missinglinkmidi</span>
+  
+  <div class="content">
+    <div class="field field-type-text field-field-project-type"><div class="field-items"><div class="field-item"><div class="field-label-inline-first">Project Type:&nbsp;</div>Hardware</div></div></div><div class="field field-type-link field-field-project-url"><div class="field-items"><div class="field-item"><div class="field-label-inline-first">Project URL:&nbsp;</div><a href="http://wifimidi.com">The Missing Link</a></div></div></div><div class="field field-type-text field-field-description"><div class="field-items"><div class="field-item"><p>The Missing Link OSC/MIDI Translator is a standalone hardware device which contains its own WiFi radio, and translates specially-coded OSC messages sent from your mobile device or computer into standa</p>
+
+
+</div></div></div>
+
+  </div>
+
+  <div class="clear-block clear">
+    <div class="meta">
+        </div>
+
+          <div class="links"><ul class="links inline"><li class="first last comment_forbidden"><span class="comment_forbidden"><a href="/user/login?destination=node/330%2523comment-form">Login</a> to post comments</span></li>
+</ul></div>
+      </div>
+
+</div>
+<div id="node-329" class="node">
+
+
+  <h2><a href="/implementation/logic-pro-express" title="Logic Pro/Express">Logic Pro/Express</a></h2>
+
+      <span class="submitted">May 25, 2011 - 12:39am — mhaydn</span>
+  
+  <div class="content">
+    <div class="field field-type-text field-field-project-type"><div class="field-items"><div class="field-item"><div class="field-label-inline-first">Project Type:&nbsp;</div>Software Application</div></div></div><div class="field field-type-link field-field-project-url"><div class="field-items"><div class="field-item"><div class="field-label-inline-first">Project URL:&nbsp;</div><a href="http://www.apple.com/logicpro/">Logic Pro</a></div></div></div><div class="field field-type-text field-field-description"><div class="field-items"><div class="field-item"><p>Starting with version 9.1.2 (latest version: 9.1.6), Logic Pro and Logic Express support OSC in their control surface support.</p>
+
+
+</div></div></div>
+
+  </div>
+
+  <div class="clear-block clear">
+    <div class="meta">
+        </div>
+
+          <div class="links"><ul class="links inline"><li class="first last comment_forbidden"><span class="comment_forbidden"><a href="/user/login?destination=node/329%2523comment-form">Login</a> to post comments</span></li>
+</ul></div>
+      </div>
+
+</div>
+<div id="node-319" class="node">
+
+
+  <h2><a href="/implementation/arduino-max-msp-osc" title="Arduino, Processing, OSC and MaxMSP">Arduino, Processing, OSC and MaxMSP</a></h2>
+
+      <span class="submitted">April 1, 2011 - 8:16am — millenliam</span>
+  
+  <div class="content">
+    <div class="field field-type-text field-field-project-type"><div class="field-items"><div class="field-item"><div class="field-label-inline-first">Project Type:&nbsp;</div>Hardware</div></div></div><div class="field field-type-link field-field-project-url"><div class="field-items"><div class="field-item"><div class="field-label-inline-first">Project URL:&nbsp;</div><a href="http://liamtmlacey.blogspot.com/2011/03/arduino-to-maxmsp-via-osc-guide-and.html">Arduino to Max/MSP via OSC</a></div></div></div><div class="field field-type-text field-field-description"><div class="field-items"><div class="field-item"><p>This Article is a guide complete with example code and downloads that allows you to send and receive data between an independent Arduino microcontroller (with no external Ethernet Shield) and Max/MSP</p>
+
+
+</div></div></div>
+
+  </div>
+
+  <div class="clear-block clear">
+    <div class="meta">
+        </div>
+
+          <div class="links"><ul class="links inline"><li class="first last comment_forbidden"><span class="comment_forbidden"><a href="/user/login?destination=node/319%2523comment-form">Login</a> to post comments</span></li>
+</ul></div>
+      </div>
+
+</div>
+<div id="node-306" class="node">
+
+
+  <h2><a href="/implementation/liboscparse" title="liboscparse: liblo for embedded systems">liboscparse: liblo for embedded systems</a></h2>
+
+      <span class="submitted">November 9, 2010 - 6:30am — lekernel</span>
+  
+  <div class="content">
+    <div class="field field-type-text field-field-project-type"><div class="field-items"><div class="field-item"><div class="field-label-inline-first">Project Type:&nbsp;</div>Programming Language Library</div></div></div><div class="field field-type-link field-field-project-url"><div class="field-items"><div class="field-item"><div class="field-label-inline-first">Project URL:&nbsp;</div><a href="https://github.com/lekernel/liboscparse">liboscparse</a></div></div></div><div class="field field-type-text field-field-description"><div class="field-items"><div class="field-item"><p>Liblo for embedded systems</p>
+
+
+</div></div></div>
+
+  </div>
+
+  <div class="clear-block clear">
+    <div class="meta">
+        </div>
+
+          <div class="links"><ul class="links inline"><li class="first last comment_forbidden"><span class="comment_forbidden"><a href="/user/login?destination=node/306%2523comment-form">Login</a> to post comments</span></li>
+</ul></div>
+      </div>
+
+</div>
+<div id="node-305" class="node">
+
+
+  <h2><a href="/implementation/milkymist-one" title="Milkymist One: open hardware interactive VJ station">Milkymist One: open hardware interactive VJ station</a></h2>
+
+      <span class="submitted">November 9, 2010 - 6:29am — lekernel</span>
+  
+  <div class="content">
+    <div class="field field-type-text field-field-project-type"><div class="field-items"><div class="field-item"><div class="field-label-inline-first">Project Type:&nbsp;</div>Hardware</div></div></div><div class="field field-type-link field-field-project-url"><div class="field-items"><div class="field-item"><div class="field-label-inline-first">Project URL:&nbsp;</div><a href="http://www.milkymist.org">Milkymist</a></div></div></div><div class="field field-type-text field-field-description"><div class="field-items"><div class="field-item"><p>Milkymist One is a comprehensive open source solution for the live synthesis of interactive visual effects for VJs (video performance artists).</p>
+
+
+</div></div></div>
+
+  </div>
+
+  <div class="clear-block clear">
+    <div class="meta">
+        </div>
+
+          <div class="links"><ul class="links inline"><li class="first last comment_forbidden"><span class="comment_forbidden"><a href="/user/login?destination=node/305%2523comment-form">Login</a> to post comments</span></li>
+</ul></div>
+      </div>
+
+</div>
+<div id="node-304" class="node">
+
+
+  <h2><a href="/implementation/syn-namespace" title="SynOSCopy &quot;SYN&quot; Namespace">SynOSCopy &quot;SYN&quot; Namespace</a></h2>
+
+      <span class="submitted">September 27, 2010 - 1:55am — fabb</span>
+  
+  <div class="content">
+    <div class="field field-type-text field-field-project-type"><div class="field-items"><div class="field-item"><div class="field-label-inline-first">Project Type:&nbsp;</div>Other</div></div></div><div class="field field-type-link field-field-project-url"><div class="field-items"><div class="field-item"><div class="field-label-inline-first">Project URL:&nbsp;</div><a href="http://github.com/fabb/SynOSCopy">SynOSCopy &quot;SYN&quot; Namespace Project at Github</a></div></div></div><div class="field field-type-text field-field-description"><div class="field-items"><div class="field-item"><p>This is a proposal for a standardized namespace within OSC.</p>
+<p>Its main application is for controlling Synthesizers, therefore the name "SYN".</p>
+
+
+</div></div></div>
+
+  </div>
+
+  <div class="clear-block clear">
+    <div class="meta">
+        </div>
+
+          <div class="links"><ul class="links inline"><li class="first last comment_forbidden"><span class="comment_forbidden"><a href="/user/login?destination=node/304%2523comment-form">Login</a> to post comments</span></li>
+</ul></div>
+      </div>
+
+</div>
+<div id="node-297" class="node">
+
+
+  <h2><a href="/implementation/python-txosc" title="TxOSC : OSC for Twisted in Python">TxOSC : OSC for Twisted in Python</a></h2>
+
+      <span class="submitted">June 8, 2010 - 9:22pm — aalex</span>
+  
+  <div class="content">
+    <div class="field field-type-text field-field-project-type"><div class="field-items"><div class="field-item"><div class="field-label-inline-first">Project Type:&nbsp;</div>Programming Language Library</div></div></div><div class="field field-type-link field-field-project-url"><div class="field-items"><div class="field-item"><div class="field-label-inline-first">Project URL:&nbsp;</div><a href="http://bitbucket.org/arjan/txosc">TxOSC: OSC protocol for Twisted</a></div></div></div><div class="field field-type-text field-field-description"><div class="field-items"><div class="field-item"><h1>Open Sound Control (OSC) protocol for Twisted</h1>
+<p>This library implements OSC version 1.1 over both UDP and TCP for  the Twisted Python framework.</p>
+
+
+</div></div></div>
+
+  </div>
+
+  <div class="clear-block clear">
+    <div class="meta">
+        </div>
+
+          <div class="links"><ul class="links inline"><li class="first last comment_forbidden"><span class="comment_forbidden"><a href="/user/login?destination=node/297%2523comment-form">Login</a> to post comments</span></li>
+</ul></div>
+      </div>
+
+</div>
+<div id="node-296" class="node">
+
+
+  <h2><a href="/publication/best-practices-open-sound-control" title="Best Practices for Open Sound Control">Best Practices for Open Sound Control</a></h2>
+
+      <span class="submitted">May 3, 2010 - 3:57am — aws</span>
+  
+  <div class="content">
+    <div id="biblio-node"><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Adc&amp;rfr_id=info%3Asid%2Fopensoundcontrol.org&amp;rft.title=Best+Practices+for+Open+Sound+Control&amp;rft.date=2010&amp;rft.aulast=Schmeder&amp;rft.aufirst=Andrew&amp;rft.au=Freed%2C+Adrian&amp;rft.au=Wessel%2C+David&amp;rft.place=Utrecht%2C+NL"></span><table>
+<tbody>
+ <tr class="odd"><td align="right"><span class="biblio-row-title">Publication Type</span></td><td>&nbsp;&nbsp;</td><td>Conference Paper</td> </tr>
+ <tr class="even"><td align="right" valign="top" width="20%"><span class="biblio-row-title">Year of Publication</span></td><td>&nbsp;&nbsp;</td><td>2010
+
+</td> </tr>
+ <tr class="odd"><td align="right" valign="top" width="20%"><span class="biblio-row-title">Authors</span></td><td>&nbsp;&nbsp;</td><td><a href="/publications/author/Schmeder">Schmeder, Andrew</a>; <a href="/publications/author/Freed">Freed, Adrian</a>; <a href="/publications/author/Wessel">Wessel, David</a></td> </tr>
+ <tr class="even"><td align="right" valign="top" width="20%"><span class="biblio-row-title">Conference Name</span></td><td>&nbsp;&nbsp;</td><td>Linux Audio Conference
+
+</td> </tr>
+ <tr class="odd"><td align="right" valign="top" width="20%"><span class="biblio-row-title">Conference Start Date</span></td><td>&nbsp;&nbsp;</td><td>01/05/2010
+
+</td> </tr>
+ <tr class="even"><td align="right" valign="top" width="20%"><span class="biblio-row-title">Conference Location</span></td><td>&nbsp;&nbsp;</td><td>Utrecht, NL
+
+</td> </tr>
+ <tr class="odd"><td align="right" valign="top" width="20%"><span class="biblio-row-title"></span></td><td>&nbsp;&nbsp;</td><td></td> </tr>
+</tbody></table>
+</div>  </div>
+
+  <div class="clear-block clear">
+    <div class="meta">
+        </div>
+
+          <div class="links"><ul class="links inline"><li class="first comment_forbidden"><span class="comment_forbidden"><a href="/user/login?destination=node/296%2523comment-form">Login</a> to post comments</span></li>
+<li class="last upload_attachments"><a href="/publication/best-practices-open-sound-control#attachments" title="Read full article to view attachments." class="upload_attachments">1 attachment</a></li>
+</ul></div>
+      </div>
+
+</div><div class="pager"><span class="pager-list"><strong class="pager-current">1</strong><a href="/node?page=1" class="pager-next active" title="Go to page 2">2</a><a href="/node?page=2" class="pager-next active" title="Go to page 3">3</a><a href="/node?page=3" class="pager-next active" title="Go to page 4">4</a><a href="/node?page=4" class="pager-next active" title="Go to page 5">5</a><a href="/node?page=5" class="pager-next active" title="Go to page 6">6</a><a href="/node?page=6" class="pager-next active" title="Go to page 7">7</a><a href="/node?page=7" class="pager-next active" title="Go to page 8">8</a><a href="/node?page=8" class="pager-last active" title="Go to page 9">9</a></span><a href="/node?page=1" class="pager-next active" title="Go to next page">next ›</a><a href="/node?page=8" class="pager-last active" title="Go to last page">last »</a></div>          <span class="clear"></span>
+          <a href="http://opensoundcontrol.org/node/feed" class="feed-icon"><img src="assets/d4083af6ac6ed3b986c38369884ef150.png" alt="Syndicate content" title="Syndicate content" width="16" height="16" /></a>          <div id="footer">Copyright for comments and postings are the property of the respective author.  <br /><a href="/node/feed">Main Page RSS Feed</a> | <a href="/crss">All Forum Comments RSS Feed</a>
+</div>
+      </div></div></div></div> <!-- /.left-corner, /.right-corner, /#squeeze, /#center -->
+
+              <div id="sidebar-right" class="sidebar">
+                    <div id="block-user-0" class="clear-block block block-user">
+
+  <h2>User login</h2>
+
+  <div class="content"><form action="/node?destination=node"  method="post" id="user-login-form">
+<div><div class="form-item">
+ <label for="edit-name">Username: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="text" maxlength="60" name="name" id="edit-name"  size="15" value="" class="form-text required" />
+</div>
+<div class="form-item">
+ <label for="edit-pass">Password: <span class="form-required" title="This field is required.">*</span></label>
+ <input type="password" name="pass" id="edit-pass"  maxlength="60"  size="15"  class="form-text required" />
+</div>
+<div class="form-item">
+ <label class="option"><input type="checkbox" name="persistent_login" id="edit-persistent-login" value="1"   class="form-checkbox" /> Remember me</label>
+</div>
+<input type="submit" name="op" id="edit-submit" value="Log in"  class="form-submit" />
+<div class="item-list"><ul><li><a href="/user/password" title="Request new password via e-mail.">Request new password</a></li></ul></div><input type="hidden" name="form_id" id="edit-user-login-block" value="user_login_block"  />
+
+</div></form>
+</div>
+</div>
+<div id="block-user-1" class="clear-block block block-user">
+
+  <h2>Navigation</h2>
+
+  <div class="content">
+<ul class="menu">
+<li class="leaf"><a href="/tracker">Recent posts</a></li>
+
+</ul>
+</div>
+</div>
+<div id="block-search-0" class="clear-block block block-search">
+
+  <h2>Search</h2>
+
+  <div class="content"><form action="/search/node"  method="post" id="search-block-form">
+<div><div class="container-inline"><div class="form-item">
+ <input type="text" maxlength="128" name="search_block_form_keys" id="edit-search-block-form-keys"  size="15" value="" title="Enter the terms you wish to search for." class="form-text" />
+</div>
+<input type="submit" name="op" id="edit-submit" value="Search"  class="form-submit" />
+<input type="hidden" name="form_id" id="edit-search-block-form" value="search_block_form"  />
+</div>
+</div></form>
+</div>
+</div>
+<div id="block-biblio-0" class="clear-block block block-biblio">
+
+  <h2>New Publications</h2>
+
+  <div class="content"><div class="item-list"><ul><li ><a href="/publication/improving-efficiency-open-sound-control-compressed-address-strings">Improving the Efficiency of Open Sound Control with Compressed Address Strings</a></li><li ><a href="/publication/best-practices-open-sound-control">Best Practices for Open Sound Control</a></li><li ><a href="/publication/minuit-propositions-query-system-over-osc">Minuit : Propositions for a query system over OSC</a></li><li ><a href="/publication/micro-osc-open-sound-control-reference-implementation-embedded-devices">micro-OSC: The Open Sound Control Reference Implementation for Embedded Devices</a></li></ul><a href="/publications/rss.xml" class="feed-icon"><img src="assets/d4083af6ac6ed3b986c38369884ef150.png" alt="Syndicate content" title="Syndicate content" width="16" height="16" /></a></div></div>
+</div>
+<div id="block-user-3" class="clear-block block block-user">
+
+  <h2>Who's online</h2>
+
+  <div class="content">There are currently <em>0 users</em> and <em>1 guest</em> online.</div>
+</div>
+        </div>
+      
+    </div> <!-- /container -->
+  </div>
+<!-- /layout -->
+
+    
+<div style="position:fixed;top:0;left:0;width:100%;height:45px;z-index:2147483647;background-color:rgba(253,147,38,0.90) !important;color:black !important;text-align:right !important;font:normal 12px/45px Arial, sans-serif !important;border-radius:0 !important;margin:0 !important;max-width:100% !important;background-repeat: no-repeat !important;background-position: 15px center !important;
+background-image: url(data:image/png;base64,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);
+"><span style="padding-right:15px;">You are viewing a snapshot of <a style='font-weight:bold !important; color:white !important' href='http://opensoundcontrol.org/'>http://opensoundcontrol.org/</a> created on 2020/08/09</span></div></body>
+</html>

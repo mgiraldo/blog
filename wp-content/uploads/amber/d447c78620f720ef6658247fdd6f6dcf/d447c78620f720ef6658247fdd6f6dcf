@@ -1,0 +1,452 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="GENERATOR" content="Mozilla/4.5 [en] (Win98; I) [Netscape]"><title>Html Validator for Firefox and Mozilla</title>
+
+<link rel="stylesheet" type="text/css" href="assets/99faae11b2163e3e4bfec3e8789cac4a.css">
+<link rel="shortcut icon" href="../favicon.png"></head>
+<body>
+<iframe src="../banner.html" marginwidth="0" marginheight="0" frameborder="0" height="65" scrolling="no" width="100%"></iframe>
+<table style="width: 100%; text-align: left;" border="0" cellpadding="4" cellspacing="4">
+<tbody>
+<tr>
+<td class="td_toc"> <iframe src="toc.html" frameborder="0" height="1000" scrolling="no" width="100%"></iframe><br>
+</td>
+<td style="vertical-align: top;">
+<h3>DOWNLOAD</h3>
+Choose your platform : <br>
+<br>
+<table style="text-align: left; width: 100%;" border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>&nbsp;</td>
+<td>Version</td>
+<td><br>
+</td>
+<td>1.5</td>
+<td>2.0</td>
+<td>3.6</td>
+</tr>
+<tr>
+<td>Windows<br>
+</td>
+<td>0.861</td>
+<td><a href="http://htmlvalidator.sourceforge.net/mozilla/tidy_firefox_win_0861.xpi">Download
+HTML
+Validator for Windows</a></td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+</tr>
+<tr>
+<td style="vertical-align: top;">Linux 32 bits<br>
+</td>
+<td style="vertical-align: top;">0.861<br>
+</td>
+<td style="vertical-align: top;"><a href="http://htmlvalidator.sourceforge.net/mozilla/tidy_firefox_linux_0861.xpi">Download
+HTML
+Validator for Linux 32bits</a></td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+</tr>
+<tr>
+<td>Linux 64 bits</td>
+<td>0.861</td>
+<td><a href="http://htmlvalidator.sourceforge.net/mozilla/tidy_firefox_linux64_0861.xpi">Download
+HTML
+Validator for Linux 64bits</a></td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+</tr>
+<tr>
+<td>Mac OsX Intel</td>
+<td>0.861</td>
+<td><a href="http://htmlvalidator.sourceforge.net/mozilla/tidy_firefox_macintel_0861.xpi">Download
+HTML
+Validator for Mac OsX Intel</a></td>
+<td>X</td>
+<td>X</td>
+<td>X<br>
+</td>
+</tr>
+<tr>
+<td>Mac OSX PPC</td>
+<td>0.861</td>
+<td><a href="http://htmlvalidator.sourceforge.net/mozilla/tidy_firefox_macos_0861.xpi">Download
+HTML
+Validator for Mac OsX PPC</a></td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+</tr>
+<tr>
+<td>FreeBSD 5.1+</td>
+<td>0.839</td>
+<td><a href="http://htmlvalidator.sourceforge.net/mozilla/tidy_firefox_freebsd54_0839.xpi">Download
+HTML
+Validator for FreeBSD 5.1+</a></td>
+<td>X</td>
+<td>X</td>
+<td><br>
+</td>
+</tr>
+<tr>
+<td>FreeBSD 6+</td>
+<td>0.839</td>
+<td><a href="http://htmlvalidator.sourceforge.net/mozilla/tidy_firefox_freebsd61_0839.xpi">Download
+HTML
+Validator for FreeBSD 6+</a></td>
+<td>X</td>
+<td>X</td>
+<td><br>
+</td>
+</tr>
+<tr>
+<td>FreeBSD 7</td>
+<td>0.861</td>
+<td><a href="http://htmlvalidator.sourceforge.net/mozilla/tidy_firefox_fbsd70_0861.xpi">Download
+HTML
+Validator for FreeBSD 7</a></td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+</tr>
+<tr>
+<td>OpenBSD 32 bits</td>
+<td>0.861</td>
+<td><a href="http://htmlvalidator.sourceforge.net/mozilla/tidy_firefox_openbsd_0861.xpi">Download
+HTML
+Validator for OpenBSD 32 bits</a></td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+</tr>
+<tr>
+<td>OpenBSD 64 bits</td>
+<td>0.861</td>
+<td><a href="http://htmlvalidator.sourceforge.net/mozilla/tidy_firefox_openbsd64_0861.xpi">Download
+HTML
+Validator for OpenBSD 64 bits</a></td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+</tr>
+<tr>
+<td>Other platforms </td>
+<td>0.7x</td>
+<td><a href="download_070.html">See here</a></td>
+<td><br>
+</td>
+<td><br>
+</td>
+<td><br>
+</td>
+</tr>
+<tr>
+<td>Source code (2009-04-17) <br>
+</td>
+<td>0.861</td>
+<td><a href="http://htmlvalidator.sourceforge.net/mozilla/tidy_08x_source.zip">Download
+the
+source code</a></td>
+<td><br>
+</td>
+<td><br>
+</td>
+<td><br>
+</td>
+</tr>
+</tbody>
+</table>
+<br>
+The extension XPI is now 2.0 Mb big ... The SGML
+parser is quite complex :-) But seems to work really well. The
+validation for the biggest pages I saw are below the 1/100 sec for both
+algorithms.<br>
+<h3>PREVIOUS VERSION</h3>
+<table style="text-align: left; width: 100%;" border="1" cellpadding="2" cellspacing="2">
+<tbody>
+<tr>
+<td>&nbsp;</td>
+<td>Version</td>
+<td><br>
+</td>
+<td>1.5</td>
+<td>2.0</td>
+<td>3.0</td>
+</tr>
+<tr>
+<td>Windows<br>
+</td>
+<td>0.855</td>
+<td><a href="http://htmlvalidator.sourceforge.net/mozilla/tidy_firefox_win_0855.xpi">Download
+HTML
+Validator for Windows</a></td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+</tr>
+<tr>
+<td style="vertical-align: top;">Linux 32 bits<br>
+</td>
+<td style="vertical-align: top;">0.854<br>
+</td>
+<td style="vertical-align: top;"><a href="http://htmlvalidator.sourceforge.net/mozilla/tidy_firefox_linux_0854.xpi">Download
+HTML
+Validator for Linux 32bits</a></td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+</tr>
+<tr>
+<td>Linux 64 bits</td>
+<td>0.852</td>
+<td><a href="http://htmlvalidator.sourceforge.net/mozilla/tidy_firefox_linux64_0852.xpi">Download
+HTML
+Validator for Linux 64bits</a></td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+</tr>
+<tr>
+<td>Mac OsX Intel</td>
+<td>0.852</td>
+<td><a href="http://htmlvalidator.sourceforge.net/mozilla/tidy_firefox_macintel_0852.xpi">Download
+HTML
+Validator for Mac OsX Intel</a></td>
+<td>X</td>
+<td>X</td>
+<td>X<br>
+</td>
+</tr>
+<tr>
+<td>Mac OSX PPC</td>
+<td>0.852</td>
+<td><a href="http://htmlvalidator.sourceforge.net/mozilla/tidy_firefox_macos_0852.xpi">Download
+HTML
+Validator for Mac OsX PPC</a></td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+</tr>
+<tr>
+<td>FreeBSD 5.1+</td>
+<td>0.839</td>
+<td><a href="http://htmlvalidator.sourceforge.net/mozilla/tidy_firefox_freebsd54_0839.xpi">Download
+HTML
+Validator for FreeBSD 5.1+</a></td>
+<td>X</td>
+<td>X</td>
+<td><br>
+</td>
+</tr>
+<tr>
+<td>FreeBSD 6+</td>
+<td>0.839</td>
+<td><a href="http://htmlvalidator.sourceforge.net/mozilla/tidy_firefox_freebsd61_0839.xpi">Download
+HTML
+Validator for FreeBSD 6+</a></td>
+<td>X</td>
+<td>X</td>
+<td><br>
+</td>
+</tr>
+<tr>
+<td>FreeBSD 7</td>
+<td>0.852</td>
+<td><a href="http://htmlvalidator.sourceforge.net/mozilla/tidy_firefox_fbsd70_0852.xpi">Download
+HTML
+Validator for FreeBSD 7</a></td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+</tr>
+<tr>
+<td>OpenBSD 32 bits</td>
+<td>0.852</td>
+<td><a href="http://htmlvalidator.sourceforge.net/mozilla/tidy_firefox_openbsd_0852.xpi">Download
+HTML
+Validator for OpenBSD 32 bits</a></td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+</tr>
+<tr>
+<td>OpenBSD 64 bits</td>
+<td>0.852</td>
+<td><a href="http://htmlvalidator.sourceforge.net/mozilla/tidy_firefox_openbsd64_0852.xpi">Download
+HTML
+Validator for OpenBSD 64 bits</a></td>
+<td>X</td>
+<td>X</td>
+<td>X</td>
+</tr>
+<tr>
+<td>Other platforms </td>
+<td>0.7x</td>
+<td><a href="http://users.skynet.be/mgueury/mozilla/download_070.html">See
+here</a></td>
+<td><br>
+</td>
+<td><br>
+</td>
+<td><br>
+</td>
+</tr>
+<tr>
+<td>Source code (2009-04-17) <br>
+</td>
+<td>0.855</td>
+<td><a href="http://htmlvalidator.sourceforge.net/mozilla/tidy_08x_source.zip">Download
+the
+source code</a></td>
+<td><br>
+</td>
+<td><br>
+</td>
+<td><br>
+</td>
+</tr>
+</tbody>
+</table>
+<br>
+<h3>NEW FEATURES</h3>
+The new version adds the following new features:<br>
+<ul>
+<li><span class="blue_strong">validation
+with a different algorithm, a SGML parser</span> (OpenSP). It is
+the
+same
+algorithm program as the one running on validator.w3.org. The
+validation is done based on the DTD definition of HTML. The screenshots
+below&nbsp;let you <span class="blue_strong">compare
+the
+result of the next version of
+the extension and the real validator of W3c</span>. They are just
+the
+same.</li>
+<li>The help is <span class="blue_strong">written
+in a Wiki
+web side called <a href="http://www.htmlpedia.org/">Htmlpedia</a>
+and
+synchronized at
+bundle time.</span>&nbsp; If you are
+interested to improve the help, please do, in the next version it will
+be bundle with the extension !</li>
+<li>validation of &nbsp;HTML pages<span class="blue_strong">
+after Javascript or Ajax execution</span></li>
+<li><span class="blue_strong">the
+warning/errors pane is divided by
+columns</span> that can be sorted by
+line/colum, message type, and so on</li>
+<li><span class="blue_strong">line numbers</span>
+next to the lines of
+code</li>
+<li><span class="blue_strong">the number of
+errors is shown at the top</span>
+and not at the bottom anymore</li>
+<li>a new XHTML help (thanks to Ansgar)</li>
+<li>if your page contains no error, there are a new logos
+of this extension that you can add to your site.<br>
+No HTML Tidy Error :&nbsp; <a href="http://users.skynet.be/mgueury/mozilla/"> <img style="border: 0px solid ; width: 78px; height: 32px;" src="assets/71ed4e47efba72e25b1b96b596f410f4.gif" alt="Validated by HTML Validator (based on Tidy)"></a>
+or&nbsp; <a href="http://users.skynet.be/mgueury/mozilla/"><img style="border: 0px solid ; width: 39px; height: 16px;" src="assets/f04f17eee0677eee95dc2fa9cc6ec9b4.gif" alt="Validated by HTML Validator (based on Tidy)"></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<br>
+No HTML Tidy and no SGML error:&nbsp; <a href="http://users.skynet.be/mgueury/mozilla/"><img src="assets/b9f7587823314418d1dd41ad2c3f36f2.gif" alt="Validated by HTML Validator (based on Tidy)" style="border: 0px solid ; width: 78px; height: 32px;"></a>
+or&nbsp; <a href="http://users.skynet.be/mgueury/mozilla/"><img src="assets/9654922529207c226e0199454863ba3b.gif" alt="Validated by HTML Validator (based on Tidy)" style="border: 0px solid ; width: 39px; height: 16px;"></a></li>
+<li>Also, due that the SGML algorithm is identical to
+algorithm
+used in&nbsp;validator.w3.org. Normally, if you have 0 errors in
+SGML,
+if you check you page with validator.w3.org, it will give you <br>
+No SGML Error :&nbsp; <a href="http://users.skynet.be/mgueury/mozilla/"> <img style="border: 0px solid ; width: 88px; height: 31px;" src="assets/41369302bbae08d101d172ac18e9a1de" alt="Validated by HTML Validator (based on SGML)"></a>
+or&nbsp; <a href="http://users.skynet.be/mgueury/mozilla/"><img style="border: 0px solid ; width: 88px; height: 31px;" src="assets/f6385cf516fca3331ec495ab5bca68c4" alt="Validated by HTML Validator (based on SGML)"></a>&nbsp;&nbsp;
+</li>
+<li>...</li>
+</ul>
+For additional questions, there is a forum : <a href="http://www.htmlpedia.org/phpBB/">http://www.htmlpedia.org/phpBB/</a><br>
+<br>
+The SGML Parser is&nbsp;compiled and bundled in a XPI file just
+like
+Tidy in older version. You should have just to install the XPI to get
+it working.
+Then go to the&nbsp;options and choose algorithm "SGML Parser".
+Happy
+validation !!!<br>
+<h3>SCREENSHOTS</h3>
+<h4>Screenshot 1: Html Validator&nbsp;</h4>
+Notice the Validation after JavaScript execution. And the different
+icons depending of the algorithm used.<br>
+<br>
+<img style="width: 800px; height: 300px;" alt="browser" src="assets/d96b1171dd0a6b840e09242a1578ab5e.png"><br>
+<h4>Screenshot 2: Html Validator (validation by Tidy) </h4>
+<a href="assets/0ca5ae5e3f7d837c01ff151005ccd2b6.png"><img alt="tidy" src="assets/0ca5ae5e3f7d837c01ff151005ccd2b6.png" style="border: 0px solid ; width: 800px; height: 600px;"></a><br>
+<br>
+<h4>Screenshot 3: Html Validator (validation by SGML Parser)</h4>
+<a href="assets/6e6c08a3f9b600dd44bc0aad072c9abe.png"><img alt="sp" src="assets/6e6c08a3f9b600dd44bc0aad072c9abe.png" style="border: 0px solid ; width: 800px; height: 600px;"></a><br>
+<h4>Screenshot 4/5: The same page validated by
+validator.w3.org
+(compare the errors with screenshot 3)<br>
+</h4>
+<a href="assets/5fe358e57a7d710adb84c8075a5cbf55.png"><img alt="w3 1" src="assets/5fe358e57a7d710adb84c8075a5cbf55.png" style="border: 0px solid ; width: 800px; height: 600px;"></a><br>
+<br>
+<br>
+<a href="assets/4d21a688cf41cd7a08205db79e3abf91.png"><img alt="w3 2" src="assets/4d21a688cf41cd7a08205db79e3abf91.png" style="border: 0px solid ; width: 800px; height: 600px;"></a><br>
+<br>
+<br>
+</td>
+</tr>
+</tbody>
+</table>
+<!--ONESTAT SCRIPTCODE START--><!-- // Modification of this code is not allowed and will permanently disable your account! // Account ID : 214724 // Website URL: http://users.skynet.be/~mgueury // Copyright (C) 2002-2004 OneStat.com All Rights Reserved -->
+<div style="text-align: right;" id="OneStatTag">
+<table style="text-align: left; margin-left: auto; margin-right: 0px;" border="0" cellpadding="0" cellspacing="0">
+<tbody>
+<tr>
+<td align="center">
+<script type="text/javascript">
+<!--
+function OneStat_Pageview()
+{
+var d=document;
+var sid="214724";
+var CONTENTSECTION="";
+var CUSTOMDATA="";
+var osp_URL=d.URL;
+var osp_Title=d.title;
+var t=new Date();
+var p="http"+(d.URL.indexOf('https:')==0?'s':'')+"://stat.onestat.com/stat.aspx?tagver=2&sid="+sid;
+p+="&url="+escape(osp_URL);
+p+="&ti="+escape(osp_Title);
+p+="&section="+escape(CONTENTSECTION);
+p+="&custom="+escape(CUSTOMDATA);
+p+="&rf="+escape(parent==self?window.document.referrer:top.document.referrer);
+p+="&tz="+escape(t.getTimezoneOffset());
+p+="&ch="+escape(t.getHours());
+p+="&js=1";
+p+="&ul="+escape(navigator.appName=="Netscape"?navigator.language:navigator.userLanguage);
+if(typeof(screen)=="object"){
+p+="&sr="+screen.width+"x"+screen.height;p+="&cd="+screen.colorDepth;
+p+="&jo="+(navigator.javaEnabled()?"Yes":"No");
+}
+d.write('<a href="http://www.onestat.com/aspx/login.aspx?sid='+sid+'" target=_blank><img id="ONESTAT_TAG" border="0" src="'+p+'" alt="This site tracked by OneStat.com. Get your own free website counter."></'+'a>');
+}
+OneStat_Pageview();
+//-->
+</script>
+<noscript><a href="http://www.onestat.com"><img
+src="assets/10d1defabf1f6a9220a17ab60336c9e6"
+alt="free webmaster resources" border="0"></a><br> <a
+href="http://www.onestat.com">Free Website Counter</a></noscript>
+<br>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--ONESTAT SCRIPTCODE END-->
+
+<div style="position:fixed;top:0;left:0;width:100%;height:45px;z-index:2147483647;background-color:rgba(253,147,38,0.90) !important;color:black !important;text-align:right !important;font:normal 12px/45px Arial, sans-serif !important;border-radius:0 !important;margin:0 !important;max-width:100% !important;background-repeat: no-repeat !important;background-position: 15px center !important;
+background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHwAAAAYCAYAAAA4e5nyAAAKQWlDQ1BJQ0MgUHJvZmlsZQAASA2dlndUU9kWh8+9N73QEiIgJfQaegkg0jtIFQRRiUmAUAKGhCZ2RAVGFBEpVmRUwAFHhyJjRRQLg4Ji1wnyEFDGwVFEReXdjGsJ7601896a/cdZ39nnt9fZZ+9917oAUPyCBMJ0WAGANKFYFO7rwVwSE8vE9wIYEAEOWAHA4WZmBEf4RALU/L09mZmoSMaz9u4ugGS72yy/UCZz1v9/kSI3QyQGAApF1TY8fiYX5QKUU7PFGTL/BMr0lSkyhjEyFqEJoqwi48SvbPan5iu7yZiXJuShGlnOGbw0noy7UN6aJeGjjAShXJgl4GejfAdlvVRJmgDl9yjT0/icTAAwFJlfzOcmoWyJMkUUGe6J8gIACJTEObxyDov5OWieAHimZ+SKBIlJYqYR15hp5ejIZvrxs1P5YjErlMNN4Yh4TM/0tAyOMBeAr2+WRQElWW2ZaJHtrRzt7VnW5mj5v9nfHn5T/T3IevtV8Sbsz55BjJ5Z32zsrC+9FgD2JFqbHbO+lVUAtG0GQOXhrE/vIADyBQC03pzzHoZsXpLE4gwnC4vs7GxzAZ9rLivoN/ufgm/Kv4Y595nL7vtWO6YXP4EjSRUzZUXlpqemS0TMzAwOl89k/fcQ/+PAOWnNycMsnJ/AF/GF6FVR6JQJhIlou4U8gViQLmQKhH/V4X8YNicHGX6daxRodV8AfYU5ULhJB8hvPQBDIwMkbj96An3rWxAxCsi+vGitka9zjzJ6/uf6Hwtcim7hTEEiU+b2DI9kciWiLBmj34RswQISkAd0oAo0gS4wAixgDRyAM3AD3iAAhIBIEAOWAy5IAmlABLJBPtgACkEx2AF2g2pwANSBetAEToI2cAZcBFfADXALDIBHQAqGwUswAd6BaQiC8BAVokGqkBakD5lC1hAbWgh5Q0FQOBQDxUOJkBCSQPnQJqgYKoOqoUNQPfQjdBq6CF2D+qAH0CA0Bv0BfYQRmALTYQ3YALaA2bA7HAhHwsvgRHgVnAcXwNvhSrgWPg63whfhG/AALIVfwpMIQMgIA9FGWAgb8URCkFgkAREha5EipAKpRZqQDqQbuY1IkXHkAwaHoWGYGBbGGeOHWYzhYlZh1mJKMNWYY5hWTBfmNmYQM4H5gqVi1bGmWCesP3YJNhGbjS3EVmCPYFuwl7ED2GHsOxwOx8AZ4hxwfrgYXDJuNa4Etw/XjLuA68MN4SbxeLwq3hTvgg/Bc/BifCG+Cn8cfx7fjx/GvyeQCVoEa4IPIZYgJGwkVBAaCOcI/YQRwjRRgahPdCKGEHnEXGIpsY7YQbxJHCZOkxRJhiQXUiQpmbSBVElqIl0mPSa9IZPJOmRHchhZQF5PriSfIF8lD5I/UJQoJhRPShxFQtlOOUq5QHlAeUOlUg2obtRYqpi6nVpPvUR9Sn0vR5Mzl/OX48mtk6uRa5Xrl3slT5TXl3eXXy6fJ18hf0r+pvy4AlHBQMFTgaOwVqFG4bTCPYVJRZqilWKIYppiiWKD4jXFUSW8koGStxJPqUDpsNIlpSEaQtOledK4tE20Otpl2jAdRzek+9OT6cX0H+i99AllJWVb5SjlHOUa5bPKUgbCMGD4M1IZpYyTjLuMj/M05rnP48/bNq9pXv+8KZX5Km4qfJUilWaVAZWPqkxVb9UU1Z2qbapP1DBqJmphatlq+9Uuq43Pp893ns+dXzT/5PyH6rC6iXq4+mr1w+o96pMamhq+GhkaVRqXNMY1GZpumsma5ZrnNMe0aFoLtQRa5VrntV4wlZnuzFRmJbOLOaGtru2nLdE+pN2rPa1jqLNYZ6NOs84TXZIuWzdBt1y3U3dCT0svWC9fr1HvoT5Rn62fpL9Hv1t/ysDQINpgi0GbwaihiqG/YZ5ho+FjI6qRq9Eqo1qjO8Y4Y7ZxivE+41smsImdSZJJjclNU9jU3lRgus+0zwxr5mgmNKs1u8eisNxZWaxG1qA5wzzIfKN5m/krCz2LWIudFt0WXyztLFMt6ywfWSlZBVhttOqw+sPaxJprXWN9x4Zq42Ozzqbd5rWtqS3fdr/tfTuaXbDdFrtOu8/2DvYi+yb7MQc9h3iHvQ732HR2KLuEfdUR6+jhuM7xjOMHJ3snsdNJp9+dWc4pzg3OowsMF/AX1C0YctFx4bgccpEuZC6MX3hwodRV25XjWuv6zE3Xjed2xG3E3dg92f24+ysPSw+RR4vHlKeT5xrPC16Il69XkVevt5L3Yu9q76c+Oj6JPo0+E752vqt9L/hh/QL9dvrd89fw5/rX+08EOASsCegKpARGBFYHPgsyCRIFdQTDwQHBu4IfL9JfJFzUFgJC/EN2hTwJNQxdFfpzGC4sNKwm7Hm4VXh+eHcELWJFREPEu0iPyNLIR4uNFksWd0bJR8VF1UdNRXtFl0VLl1gsWbPkRoxajCCmPRYfGxV7JHZyqffS3UuH4+ziCuPuLjNclrPs2nK15anLz66QX8FZcSoeGx8d3xD/iRPCqeVMrvRfuXflBNeTu4f7kufGK+eN8V34ZfyRBJeEsoTRRJfEXYljSa5JFUnjAk9BteB1sl/ygeSplJCUoykzqdGpzWmEtPi000IlYYqwK10zPSe9L8M0ozBDuspp1e5VE6JA0ZFMKHNZZruYjv5M9UiMJJslg1kLs2qy3mdHZZ/KUcwR5vTkmuRuyx3J88n7fjVmNXd1Z752/ob8wTXuaw6thdauXNu5Tnddwbrh9b7rj20gbUjZ8MtGy41lG99uit7UUaBRsL5gaLPv5sZCuUJR4b0tzlsObMVsFWzt3WazrWrblyJe0fViy+KK4k8l3JLr31l9V/ndzPaE7b2l9qX7d+B2CHfc3em681iZYlle2dCu4F2t5czyovK3u1fsvlZhW3FgD2mPZI+0MqiyvUqvakfVp+qk6oEaj5rmvep7t+2d2sfb17/fbX/TAY0DxQc+HhQcvH/I91BrrUFtxWHc4azDz+ui6rq/Z39ff0TtSPGRz0eFR6XHwo911TvU1zeoN5Q2wo2SxrHjccdv/eD1Q3sTq+lQM6O5+AQ4ITnx4sf4H++eDDzZeYp9qukn/Z/2ttBailqh1tzWibakNml7THvf6YDTnR3OHS0/m/989Iz2mZqzymdLz5HOFZybOZ93fvJCxoXxi4kXhzpXdD66tOTSna6wrt7LgZevXvG5cqnbvfv8VZerZ645XTt9nX297Yb9jdYeu56WX+x+aem172296XCz/ZbjrY6+BX3n+l37L972un3ljv+dGwOLBvruLr57/17cPel93v3RB6kPXj/Mejj9aP1j7OOiJwpPKp6qP6391fjXZqm99Oyg12DPs4hnj4a4Qy//lfmvT8MFz6nPK0a0RupHrUfPjPmM3Xqx9MXwy4yX0+OFvyn+tveV0auffnf7vWdiycTwa9HrmT9K3qi+OfrW9m3nZOjk03dp76anit6rvj/2gf2h+2P0x5Hp7E/4T5WfjT93fAn88ngmbWbm3/eE8/syOll+AAAACXBIWXMAAC4jAAAuIwF4pT92AAACL2lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS40LjAiPgogICA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPgogICAgICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIgogICAgICAgICAgICB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iCiAgICAgICAgICAgIHhtbG5zOnRpZmY9Imh0dHA6Ly9ucy5hZG9iZS5jb20vdGlmZi8xLjAvIj4KICAgICAgICAgPHhtcDpDcmVhdG9yVG9vbD5BZG9iZSBJbWFnZVJlYWR5PC94bXA6Q3JlYXRvclRvb2w+CiAgICAgICAgIDx0aWZmOllSZXNvbHV0aW9uPjMwMDwvdGlmZjpZUmVzb2x1dGlvbj4KICAgICAgICAgPHRpZmY6T3JpZW50YXRpb24+MTwvdGlmZjpPcmllbnRhdGlvbj4KICAgICAgICAgPHRpZmY6WFJlc29sdXRpb24+MzAwPC90aWZmOlhSZXNvbHV0aW9uPgogICAgICA8L3JkZjpEZXNjcmlwdGlvbj4KICAgPC9yZGY6UkRGPgo8L3g6eG1wbWV0YT4KsBaN+QAADtFJREFUaAWdmQew3UUVh18qoSX0BAMISaQ6FOldpY1SRBSGamQYBDMKSFPRkSYzDNIE1KEJgqAIBpAiohJw6BB6kwChQ6ihJJCX5vedu+dm3333vjw8M+fu7jm/U/bs/vdf7oCurq4B8HxYWnfQoEET5s+fv/mAAQNWYfwpPIXxtfPmzfs1/XlwELh96OyLbj2wK9K+TjsZ2YVz5879ewPVNZC2aVNkC2sin8GDB28+Z86cxwF/DNc5Lsw+Y44D+CH81me0z1ijsfsEfq+NfWKGoxsJzxs6dOgwarAY/UHUYUZ3d/cL9GfAUubUGC34TT8jsR+JzVxaZa2E6/mDZ8+e/T6Klytl2q84ZMiQzyGPMfE/wdc0xu9W2J45DBw48GQWcX4nRv8wxsvDQ8Dc3AlX5BdVgdpNoFL36DaxxHsSX7sU7eAeqL4HgcX+BPiY/8N+kDbEvoRNt0MH+4gBZp8y349pZ5d+1tCxdXATSBa8lcIPcc4qtrNo57Xh7qKfWBykr8z1vKKfU9q5tJ/CU6jBEVXQgVmcs9gVTQW76WnGzwEcBm8GL8l4fYwn0Z8Nrw9LXr33we4mr4iNYekggg3iSj+Qfuy6kC78xwnMoQBbkcPa9MfDN8J5AtFdKAWWfDfCxxdA/wqeA/cnDws5F14V/i72d9FK2vYi9MOJ0wXvymn0BoChXGmDkK/Aibgd8mOo2Yb0N0RnrdrmAH4k/CS43bFfqmBpmuScvMLzim09NZdF/yr1/grtovgYhq+V6O9CDm6m3dDtyHhOF8X9KoLcldPp74Uid1DXsGHDVkN2V4UJLBN5CsduhiaB2Q3+oMLuXpSxsZrAzp3csb8vPjxSXTQpdI1ux99cmAHk5wkxnxw3Lej+5JAXwEnaUpszOtgOUU6Mw8HNpJtxC7zZrKkfcCcUSWsOMQZzLfy3plXfnTpW1kt7L7xexBy2MIfmXBj8VUHhnSsLFz0TXBb9OxXO3ey9SxJn4Ay+R4X7twDIJOtEQ9jyk5tseey7KdLxtG/A5xVc5tJi1mOYm8JNmhvv4n7aZ/wlif0y9takzr8OlAt+NJiPUOSxbY7mYLso7KY4DYxXZvqv6xBzQn8DfJ14aBE469napo8AFpy3nxvhu4vQ3PQr60t9HPl0R+ggr4C7uOxvUg8r99jwKNToXY6GK2iDOH4upOMx7pEvzmPQY2cgPiaif4i+tB48ClZXT5RhLzKuBfoOzRCOpBNLnEMZLwGbS+uEEfWgiMEEN0I6n5xPoN0bNoeF2Wf8/bEbReyTsFkXXhqOudG2kkVV5/wlW9lY3bDzuZ5mGdhblFTPQVtJP3lMp492bWLCiJ/aXryU8c0hZMznahVc5RsY3Kc76cX4bfzUjsOIBXgm9TiYWvo6TdImCo4+sS6Uk5X6WnB1PhtIE+BIkJgX0x9E0fZTAcWiNLptfzP+Zmjf5b56Iu0c7McXdCd77XIuh9G/mdieLMtxS1i92Ibv0s9Gf+3kqe8ih/ccUGzvs1I7vLLMLRcxwP380bbeSGkWvsjhbQVs4qUFvVO0nRYmExxecDadkkrs4gXrInofljrZqIvJUpRt2CxjWKAzFUIvwV4hRziA9JcxQtDyExuViXlqPV50l+PTTSR1srcO3u83BLsm7CuoRZrOibUJrdQurnPqVOzAM6eoK3PylUpqVwexXuWSuXTidjmkTTtd5rCcIOY1TccPOoC+DK8Du9M9qk1gaBkL3pl+EP3/lq72TljWRludbwW7o16mkaV2E21oyi/4I+EneRq9F1HcJ4l1BrwmhduiwGJz9DBsDJycp5F26+BnkmIW7Dc0q3DMf80x1M4+CsNVfTh2U7kiwhbsE8SOudBvl78ya2CdJGNbN9vwiT9Pp/d5L36CVqpPz4akYZP+3ZRi2nFi0i5bc8gNY1zn6DhkzGsP+rOY18Pe0A+A88nbq2I03IPYnT6NJuYxlDGZHqAyANd8CMTupCLOZNqZmKw0qsQ4uDFsLLh95M/DVxZ5J1+5kOvoB2xemdrfA99S7BNXhrFg9oeDmU3OeZp4/z0DnpJA2py3C6r+OGzyBKtgjS66b8E+pR9blK25Ry5gboXvAOPD3/LwUoV9fvBWICuPB0HapKgdtrfD96Swpd0QnTmc2pQj+I/CwtO5ms6gvxe8H3xNkaf+G03DxsPQ+uC3xeEP4McTS9+NEU+JtFmoyrTZjSKA/wW2s5Dm7UCbLKxPw+54CyDlJmmMGr/hB9x4eAYinx+CGMcHEgYrFVFtn/EngPOEsthBjPeEveIstpR2mdeP0VvM79N64Yynfwh8Av3b1FnLhmnYttYhF/xqsbAfXj6BPy48o4xtjfPT4is3Ti74begeQedJMxJelbhbwadrB7sZMne67G4MJhdlLmyvFswPA82RCfZ6+H04v+408eBeApdFar2iiotomgXAz9vwBUVpQdXlxOLqx++RRZ/yMowmZPi4ENyjRZGT9OvgB8hPLvJYMPrN+OieAnNZ0ecRPRaZi7Z9kWfcXPAj1cN+v/gI9lVQ9itX1uMB+t8u9jbNmPRzwW8g/nPE2Q7sNwvvTpvs9409wa+hAyh95IJfh954bph3S5vxLwSfeWc9uhYHdD+coLr1s97dJLODkWwZK6sxPfokPxXoGPFQXwuei7Sz/sB+MSwWTKgM41i/xaI0Bb0xUQQwD+PrkoLTf8Y4B/mbLfaRmw9rxqfN20CzQMjfxufPil1ulFzwuMLRjYbdJJ4qPst4So2iVptjnx+RzkEm5WLZzwW/BdzNCvpBtX0u+D/Mk3hn07oWvytzWaXyt2AdAEwqQMGvMMFjMd4J3hqDtSoj/1xxF8UCg3sGPh4+BKy3gWmpo30NO+89UnNnNYbN35zwP8HfX6T1hBTlgrnzvdryISoXRUzaLAHG4+9ghZALEzH4U2It7eF8eNM+fV/KHLwFSfqSs5gezTepgLJoueDewz9F7iJ3JDBfh42deWXuOX8X/IbiwNtg5tbattYxc5yU+ePnL/DLVTLmusAO5f5wLuDjKJv3sMooCgrOxAJL+2f0WeiE+uDjbgsMi3N6UeQEE2ebxRtb8H7wfwV+E/YLW7Lj18tYv3n1pn3TF7t6Y/ReqRuUQInJwvjwdmvRxaLRXxKZR/BBRZ65RsscTqGYrxedjXPOBf8Jdh8xzocp46mXjamPuD2AuwCOd3JkkpjID7l1nRjSBXUpwz6bnJcPbfcWpPOxTh7lUs4zBibk35ySBT+IR/jp9J3AbNhjVqf2x8Lbwr5uvQhuvF3YHenrkMl/yGvQnvh5iv5oMDvSau/DkBMUn+TYJ90DbfHpA4mymISyQtro+wNekbak3Rs+Gs7PlT7MaUPouRuBmclr3bOMpYynXtx58B/hleFXYOPvTzMP2z85hsQ1ibzuxedxCNIm8i4AscZImxyrTnlsHHz8AV8HuxnJz38e63mmvXa1f8f9IWN50khuQJ8ZrmGzXsGr2O30XXTXkEouOIZvD0HvHWaxvXdvDTauXIqUV66LXVOMwZ1fsG+iXKEA6gnmpAaD88Hv/NpJH/3F9Ev8wwomd28UFd3l6CymZIyMk7GHgvkIzEmB4If+FGQXlXH4Kf20WQn9PHjXChM4bI/VH/KsQ8Yr0GiifvTGgfWWtFNR6iPzvgHddUWe+DLss4kcsf0XfEdBRk0YXw3PQJanT2D9Wa4AXZx2lJPwHTHp1dLxyq4pxuzmj4tQ27SvcTEpEvLJcymurtOK0sJlIVpbE58JXwnngufJYesp4RWezwLGyCvcK0h/3egvhifQdxNvT38cC3euYyjxdf9V/L4Ce7pI9XzEW8Mopso2FHhiLa+OeJ2+uH2WhW4NY90zr5gDNT1AEDX21iuFfiATmdoYd40rrQZ18NgxHM+rFb1XxaqlX+N0GMHw+SX1tB67ed8KnXIojzBf8+6An4ct2izYxWvH3ciNfS5FG0sBt2CoTxdSGoF8DO09Mer9E/E54n6LalmO1k3I71D4GY7YfI3LvLRu+sbvI7Cfa6Ua49h5y1K22Te33AzeiuYS6wmVUF0Px3UtHfeHMp71ytPOxbf/KTn7zcRXOhe/IWdwMRxHNe14FEn1RCz0ExVuGqBlClDnTiwKD2aXCndpwdSTyf7qBbd7weTClWGvJidnLr4zX1UQcZyyAbbUH0/jaxd5xqkdhQzcdfjwKPdv2EMKoF38kIE5Buw74HLx4kGsyN2kIyofYpq5Kie3Hc0N/C8rXKj8QeeRfkvRWU991Ky/Xn6R5Xyux/5BxlLGjtyRnwu7uVYOLTs9nmwVwv6z9CMUw0PZMF4HeXw1KpjcHF5JYwsuGvS+fvjhITAuQtHXxY+dSJxTwVnETDDb2mVrP20PwdYrLQvtJvDz71vIMlY7f1GE3BzgvY2lDwvaSuGr4L2KxhVAbDJiHoWPD1uNythNsR76fJ65psJlbrkofji5vtL3txv5YXsV/EAxSt/N+ZDni+hzQ8QO9B06F9LW16C7AD5E2+O9m7GvNon9kP5E2D/YfZdOue1FJYFcAIeZxCJiKeSZBRMTL/2+mrT3fVv7UxLMeBJ870L8WYwoCHN7GvxlC8FnvBHGgw8u+HgQwoevZcqtiReFfCdyT8P3YHXWMu00T5/2c8G9wj0BHoUfoX8/fB/9yfDD8EPwC8z3LI2g9NG0V99Qxfxy0bOuaxT/P4/F4P58KwJ3+ubFaEnalbkHrEibC3afr1nc8y7A+TbIPw+709eCN4HHwEk38dCwLwOPEoPbStkfjW/fo85G9kFoFmDKsG2jHyc7ixx8kOqG4yENf8vB1zJ+Fn3GaefE+VjcaeDvZE4v9YHPvGeB/QSbKeCfK3if3I0zDPa0sbi2vj4+RR4+JR/PM8NR9B9CLrZdXuZinLexexF+jf4bMv1XC79E+wZ+HoEno6tJe+M+hs5a1DEyL78WajdKQwFBHO+bkuSlKD0C3J3T4dvh7yUmW2T7wX4DfovWyc+EH2A8ITG0uRMr0YJ4RdiMX4MW0q/9al/7qHWd3NT4ut8ffPrvj136czN0wneSp21r24qvx3W/tsuLtut/szhyWqonQDsAAAAASUVORK5CYII=);
+"><span style="padding-right:15px;">You are viewing a snapshot of <a style='font-weight:bold !important; color:white !important' href='http://users.skynet.be/mgueury/mozilla/download.html'>http://users.skynet.be/mgueury/mozilla/download.html</a> created on 2017/01/24</span></div></body></html>

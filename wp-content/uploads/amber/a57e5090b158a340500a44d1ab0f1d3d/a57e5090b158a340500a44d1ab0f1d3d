@@ -1,0 +1,266 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head profile="http://gmpg.org/xfn/11">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<title>Interactive Art &amp; Computational Design / Spring 2011</title>	
+	<meta name="generator" content="WordPress 4.5.22" /> <!-- leave this for stats please -->
+	<style type="text/css" media="screen">
+		@import url( http://golancourses.net/2011spring/wp-content/themes/barecity_1.5/style.css );
+	</style>
+	<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://golancourses.net/2011spring/feed/" />
+	<link rel="alternate" type="text/xml" title="RSS .92" href="http://golancourses.net/2011spring/feed/rss/" />
+	<link rel="alternate" type="application/atom+xml" title="Atom 0.3" href="http://golancourses.net/2011spring/feed/atom/" />
+	<link rel="Shortcut Icon" href="http://golancourses.net/2011spring/wp-content/themes/barecity_1.5/favicon.ico" type="image/x-icon" />	
+	<link rel="pingback" href="http://golancourses.net/2011spring/xmlrpc.php" />
+    	<link rel='archives' title='January 2012' href='http://golancourses.net/2011spring/2012/01/' />
+	<link rel='archives' title='August 2011' href='http://golancourses.net/2011spring/2011/08/' />
+	<link rel='archives' title='May 2011' href='http://golancourses.net/2011spring/2011/05/' />
+	<link rel='archives' title='April 2011' href='http://golancourses.net/2011spring/2011/04/' />
+	<link rel='archives' title='March 2011' href='http://golancourses.net/2011spring/2011/03/' />
+	<link rel='archives' title='February 2011' href='http://golancourses.net/2011spring/2011/02/' />
+	<link rel='archives' title='January 2011' href='http://golancourses.net/2011spring/2011/01/' />
+	
+<!-- processing embed scripts -->
+<script src="assets/e0532096989619a95ae11aa29c551ed9.js"></script>
+
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/golancourses.net\/2011spring\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5.22"}};
+			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,d=c[0]+","+c[1]+","+c[2]+","+c[3],g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel='stylesheet' id='wp-syntax-css-css'  href='assets/e5b21908521101da8ce4afe120698d25.css' type='text/css' media='all' />
+<script type='text/javascript' src='assets/6e3e385298b54a75e1941f9e2c6872c2.22'></script>
+<script type='text/javascript' src='assets/5774d0cbed4b325e6e2c50a5f87fac89.4'></script>
+<script type='text/javascript' src='assets/0d074a0f0cdd6a47525d841779a4ff41.1'></script>
+<script type='text/javascript' src='assets/cd50d31c87f1aac681ce15e8c074a8fe.22'></script>
+<script type='text/javascript' src='assets/8d879b2713c948a85d7378d5c4cd896f.2'></script>
+
+<script type="text/javascript" charset="utf-8">
+	(function(){
+		try {
+			// Disabling SWFObject's Autohide feature
+			if (typeof swfobject.switchOffAutoHideShow === "function") {
+				swfobject.switchOffAutoHideShow();
+			}
+		} catch(e) {}
+	})();
+</script>
+<link rel='https://api.w.org/' href='http://golancourses.net/2011spring/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://golancourses.net/2011spring/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://golancourses.net/2011spring/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 4.5.22" />
+<link rel="canonical" href="http://golancourses.net/2011spring/" />
+<link rel='shortlink' href='http://golancourses.net/2011spring/' />
+<link rel="alternate" type="application/json+oembed" href="http://golancourses.net/2011spring/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fgolancourses.net%2F2011spring%2F" />
+<link rel="alternate" type="text/xml+oembed" href="http://golancourses.net/2011spring/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fgolancourses.net%2F2011spring%2F&#038;format=xml" />
+<meta name="framework" content="Alkivia Framework 0.8" />
+<style type="text/css">
+.avatar {vertical-align:middle}
+.credit {font-size: 50%;}
+</style>
+		</head>
+
+<body>
+	<div id="rap">	
+		<div id="headwrap">
+			<div id="header">
+				<a href="http://golancourses.net/2011spring/">Interactive Art &amp; Computational Design / Spring 2011<!-- <span id="himage"><img src="" /></span> --></a>
+			</div>
+			<div id="desc">        
+				<a href="http://golancourses.net/2011spring/">&raquo;Carnegie Mellon University / Spring 2011</a>
+			</div>
+		</div>
+		<div id="content">
+		<!-- end header -->
+
+<div class="post" id="post-2">
+	 <h3 class="storytitle"><a href="http://golancourses.net/2011spring/" rel="bookmark">About</a></h3>
+	<div class="meta">by Golan Levin @ 12:10 am 10 January 2011 </div>
+
+	<div class="storycontent">
+		<p><a href="http://golancourses.net/2011spring/wp-admin"><img class="alignnone size-full wp-image-441" title="STIACD-2011" src="assets/284c03de8d8ee94594095ba7bdf1f44a.jpg" border="0" alt="" width="600" height="207" srcset="assets/284c03de8d8ee94594095ba7bdf1f44a.jpg 600w, http://golancourses.net/2011spring/wp-content/uploads/stiacd11-300x103.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></a></p>
+<p><strong>Time:</strong> Mondays/Wednesdays 8:30am-11:30am<br />
+<strong>Location:</strong> CFA-303 (Seminar Room) and <a href="http://maps.google.com/maps?f=q&amp;t=h&amp;ll=40.441544,-79.942907&amp;spn=0.000833,0.001848&amp;z=19" target="_blank">CFA-318</a> (Mac Cluster)<br />
+<strong>Course Numbers: </strong>60110-A (Art), 51-482 (Design), 62-726 (CFA)</p>
+<p><strong>Instructor:</strong> Golan Levin (<em><a href="http://www.flong.com/contact/">contact information</a></em>)<br />
+<strong>Office Hours:</strong> T/Th mornings, 9-10am<br />
+<strong>Office Locations:</strong> CFA-405 (office) or CFA-111 (<a href="http://www.cmu.edu/studio" target="_blank">Studio for Creative Inquiry</a>)</p>
+<hr />
+<p><strong><span style="color: #ff0000;"><em>New!</em></span> An index to <a href="http://golancourses.net/2011spring/final/">FINAL PROJECTS FROM SPRING 2011</a></strong></p>
+<hr />
+<p><strong>This is an advanced studio course in arts computing and new media practice. </strong> Topics surveyed in the course will be tailored to student interests, and may include: experimental interface design, information visualization, game design, real-time audiovisuals, locative and mobile media, computational form-generation for rapid prototyping, image processing and vision-based interactions, augmented reality, simulation, networked crowd-sourcing, dynamic typography, mechatronic and device art, physical computing, and other topics. Through a small number of exploratory assignments and a public capstone project, students will bolster interdisciplinary problem-solving abilities and explore computation as a medium for curiosity-driven experimentation. <em> </em></p>
+<p><em>Enrolling students are expected to have demonstrable programming skills,</em> <em>without exception, at or beyond the level of an introductory class such as 15-110.</em> Although the course will provide technical overviews of major arts-programming toolkits (including <a href="http://www.processing.org/" target="_blank">Processing</a>, <a href="http://cycling74.com/products/maxmspjitter/" target="_blank">Max/MSP/Jitter</a>, <a href="http://www.openframeworks.cc/" target="_blank">openFrameworks</a>, <a href="http://puredata.info" target="_blank">PureData</a>, and <a href="http://www.arduino.cc/" target="_blank">Arduino</a>), assignments may be executed in the student&#8217;s preferred programming environment. Graduate students should register for section 62-726 (12 units), which meets with the undergraduate sections 60-412 and 51-482 (10 units). Students lacking the programming skills for this course are encouraged to take <a href="http://www.andrew.cmu.edu/course/15-102/" target="_blank">15-102</a>, <em>Exploring Programming Using Graphics</em> (J. Roberts).</p>
+	</div>
+
+	<div class="feedback">
+				<span>Comments Off<span class="screen-reader-text"> on About</span></span>	</div>
+
+</div>
+
+
+<h2 id="comments"> 
+	</h2>
+
+
+</p>
+
+	
+
+
+
+<!-- begin footer -->
+		</div>
+			<!-- begin sidebar -->
+<div id="sidebar">
+<ul>
+		
+		Search   		<form id="searchform" method="get" action="/2011spring/index.php">
+			<div>
+				<input type="text" name="s" id="s" size="15" /><br />
+							</div>
+		</form>
+		<li id="authors-2" class="widget widget_authors">			Participants<br />			<ul><li><a href="http://golancourses.net/2011spring/author/akwolfe/" title="Posts by Alex Wolfe">Alex Wolfe</a> (20)</li>
+<li><a href="http://golancourses.net/2011spring/author/abfoster/" title="Posts by Asa Foster">Asa Foster</a> (11)</li>
+<li><a href="http://golancourses.net/2011spring/author/jgotow/" title="Posts by Ben Gotow">Ben Gotow</a> (19)</li>
+<li><a href="http://golancourses.net/2011spring/author/cboyle/" title="Posts by Caitlin Boyle">Caitlin Boyle</a> (16)</li>
+<li><a href="http://golancourses.net/2011spring/author/cdoomany/" title="Posts by cdoomany">cdoomany</a> (15)</li>
+<li><a href="http://golancourses.net/2011spring/author/rcharmon/" title="Posts by chaotic*neutral">chaotic*neutral</a> (16)</li>
+<li><a href="http://golancourses.net/2011spring/author/chuachoh/" title="Posts by Chong Han Chua">Chong Han Chua</a> (20)</li>
+<li><a href="http://golancourses.net/2011spring/author/ebrockme/" title="Posts by eric.brockmeyer">eric.brockmeyer</a> (13)</li>
+<li><a href="http://golancourses.net/2011spring/author/admin/" title="Posts by Golan Levin">Golan Levin</a> (4)</li>
+<li><a href="http://golancourses.net/2011spring/author/hrl/" title="Posts by honray">honray</a> (17)</li>
+<li><a href="http://golancourses.net/2011spring/author/huaishup/" title="Posts by huaishup">huaishup</a> (19)</li>
+<li><a href="http://golancourses.net/2011spring/author/jmulholl/" title="Posts by James Mulholland">James Mulholland</a> (19)</li>
+<li><a href="http://golancourses.net/2011spring/author/lewei/" title="Posts by Le Wei">Le Wei</a> (20)</li>
+<li><a href="http://golancourses.net/2011spring/author/marynelv/" title="Posts by Marynel Vázquez">Marynel Vázquez</a> (17)</li>
+<li><a href="http://golancourses.net/2011spring/author/mhawkins/" title="Posts by Max Hawkins">Max Hawkins</a> (12)</li>
+<li><a href="http://golancourses.net/2011spring/author/merichar/" title="Posts by Meg Richards">Meg Richards</a> (15)</li>
+<li><a href="http://golancourses.net/2011spring/author/mirvine/" title="Posts by mirvine">mirvine</a> (20)</li>
+<li><a href="http://golancourses.net/2011spring/author/mshuster/" title="Posts by mshuster">mshuster</a> (18)</li>
+<li><a href="http://golancourses.net/2011spring/author/ppm/" title="Posts by ppm">ppm</a> (19)</li>
+<li><a href="http://golancourses.net/2011spring/author/samiaa/" title="Posts by Samia">Samia</a> (26)</li>
+<li><a href="http://golancourses.net/2011spring/author/rsims/" title="Posts by Shawn Sims">Shawn Sims</a> (21)</li>
+<li><a href="http://golancourses.net/2011spring/author/susanlin/" title="Posts by susanlin">susanlin</a> (22)</li>
+<li><a href="http://golancourses.net/2011spring/author/tmsherma/" title="Posts by Timothy Sherman">Timothy Sherman</a> (15)</li>
+<li><a href="http://golancourses.net/2011spring/author/wpenney/" title="Posts by Ward Penney">Ward Penney</a> (19)</li>
+</ul>					</li>	<li id="pages-2" class="widget widget_pages">Pages<br />		<ul>
+			<li class="page_item page-item-2 current_page_item"><a href="http://golancourses.net/2011spring/">About</a></li>
+<li class="page_item page-item-6199"><a href="http://golancourses.net/2011spring/final/">Final Projects</a></li>
+<li class="page_item page-item-26 page_item_has_children"><a href="http://golancourses.net/2011spring/instructions/">Instructions</a>
+<ul class='children'>
+	<li class="page_item page-item-120"><a href="http://golancourses.net/2011spring/instructions/code-embedding/">Code Embedding</a></li>
+	<li class="page_item page-item-123"><a href="http://golancourses.net/2011spring/instructions/flash-embedding/">Flash Embedding</a></li>
+	<li class="page_item page-item-383"><a href="http://golancourses.net/2011spring/instructions/other-embedding/">Other Embedding</a></li>
+	<li class="page_item page-item-38"><a href="http://golancourses.net/2011spring/instructions/processing-embedding/">Processing Embedding</a></li>
+	<li class="page_item page-item-33"><a href="http://golancourses.net/2011spring/instructions/sound-embedding/">Sound Embedding</a></li>
+	<li class="page_item page-item-2192"><a href="http://golancourses.net/2011spring/instructions/taking-screenshots-videos/">Taking Screengrabs</a></li>
+	<li class="page_item page-item-8"><a href="http://golancourses.net/2011spring/instructions/video-embedding/">Video Embedding</a></li>
+</ul>
+</li>
+<li class="page_item page-item-58 page_item_has_children"><a href="http://golancourses.net/2011spring/lectures/">Lectures</a>
+<ul class='children'>
+	<li class="page_item page-item-75"><a href="http://golancourses.net/2011spring/lectures/lecture-11-01-10/">Lecture 11-01-10</a></li>
+	<li class="page_item page-item-2076"><a href="http://golancourses.net/2011spring/lectures/lecture-11-01-12/">Lecture 11-01-12</a></li>
+	<li class="page_item page-item-2819"><a href="http://golancourses.net/2011spring/lectures/lecture-11-01-24/">Lecture 11-01-24</a></li>
+	<li class="page_item page-item-3674"><a href="http://golancourses.net/2011spring/lectures/lecture-11-02-02/">Lecture 11-02-02</a></li>
+	<li class="page_item page-item-3872"><a href="http://golancourses.net/2011spring/lectures/lecture-11-02-07/">Lecture 11-02-07</a></li>
+	<li class="page_item page-item-3972"><a href="http://golancourses.net/2011spring/lectures/lecture-11-02-09/">Lecture 11-02-09</a></li>
+	<li class="page_item page-item-4784"><a href="http://golancourses.net/2011spring/lectures/lecture-11-03-02/">Lecture 11-03-02</a></li>
+	<li class="page_item page-item-4891"><a href="http://golancourses.net/2011spring/lectures/lecture-11-03-16/">Lecture 11-03-16</a></li>
+</ul>
+</li>
+<li class="page_item page-item-93 page_item_has_children"><a href="http://golancourses.net/2011spring/projects/">Projects</a>
+<ul class='children'>
+	<li class="page_item page-item-71"><a href="http://golancourses.net/2011spring/projects/assignment-1-gauntlet/">Project1 &#8211; Gauntlet</a></li>
+	<li class="page_item page-item-2083"><a href="http://golancourses.net/2011spring/projects/project-2-visualization/">Project2 &#8211; Infoviz</a></li>
+	<li class="page_item page-item-4378"><a href="http://golancourses.net/2011spring/projects/project-3-interaction/">Project3 &#8211; New Interactions with Kinect and Computer Vision!</a></li>
+	<li class="page_item page-item-3107"><a href="http://golancourses.net/2011spring/projects/project-3-statement/">Project3 &#8211; Statement</a></li>
+	<li class="page_item page-item-4877"><a href="http://golancourses.net/2011spring/projects/project4-generative/">Project4 &#8211; Generative</a></li>
+	<li class="page_item page-item-5689"><a href="http://golancourses.net/2011spring/projects/final-project-statement/">Final Project</a></li>
+</ul>
+</li>
+<li class="page_item page-item-67"><a href="http://golancourses.net/2011spring/schedule/">Schedule</a></li>
+<li class="page_item page-item-60"><a href="http://golancourses.net/2011spring/syllabus/">Syllabus</a></li>
+		</ul>
+		</li><li id="categories-2" class="widget widget_categories">Categories<br />		<ul>
+	<li class="cat-item cat-item-32"><a href="http://golancourses.net/2011spring/category/finalproject/" >FinalProject</a>
+</li>
+	<li class="cat-item cat-item-3"><a href="http://golancourses.net/2011spring/category/lookingoutwards/" >LookingOutwards</a>
+</li>
+	<li class="cat-item cat-item-4"><a href="http://golancourses.net/2011spring/category/project1/" >Project1</a>
+</li>
+	<li class="cat-item cat-item-6"><a href="http://golancourses.net/2011spring/category/project2/" >Project2</a>
+</li>
+	<li class="cat-item cat-item-7"><a href="http://golancourses.net/2011spring/category/project3/" >Project3</a>
+</li>
+	<li class="cat-item cat-item-31"><a href="http://golancourses.net/2011spring/category/project4/" >Project4</a>
+</li>
+	<li class="cat-item cat-item-1"><a href="http://golancourses.net/2011spring/category/uncategorized/" >Uncategorized</a>
+</li>
+		</ul>
+</li>		<li id="recent-posts-3" class="widget widget_recent_entries">		Recent Posts<br />		<ul>
+					<li>
+				<a href="http://golancourses.net/2011spring/01/24/alex-wolfe-2012-looking-outwards1/">Alex Wolfe | 2012 | Looking Outwards1</a>
+						</li>
+					<li>
+				<a href="http://golancourses.net/2011spring/01/24/alex-wolfe-2012-gauntlet/">Alex Wolfe | 2012 | Gauntlet</a>
+						</li>
+					<li>
+				<a href="http://golancourses.net/2011spring/08/09/kinect-portal-independent-study/">Kinect Portal &#8211; Independent Study</a>
+						</li>
+					<li>
+				<a href="http://golancourses.net/2011spring/05/26/kinect-projects/">Quick Links to our Spring 2011 Kinect Projects</a>
+						</li>
+					<li>
+				<a href="http://golancourses.net/2011spring/05/12/alex-wolfe-final-project-reaction-diffusion-textiles/">Alex Wolfe | Final Project | Reaction Diffusion Textiles</a>
+						</li>
+				</ul>
+		</li>		<li id="linkcat-2" class="widget widget_links">Links<br />
+	<ul class='xoxo blogroll'>
+<li><a href="http://www.creativeapplications.net/" target="_blank">Creative Applications</a></li>
+<li><a href="http://infosthetics.com/" target="_blank">Infosthetics</a></li>
+<li><a href="http://www.youtube.com/user/MediaArtTube" target="_blank">MediaArt Tube</a></li>
+<li><a href="http://turbulence.org/blog/" target="_blank">Networked Performance</a></li>
+<li><a href="http://www.neural.it/" target="_blank">Neural.it</a></li>
+<li><a href="http://openprocessing.org" title="A website to share Processing sketches">openprocessing</a></li>
+<li><a href="http://www.processing.org/exhibition/" target="_blank">Processing Exhibition</a></li>
+<li><a href="http://www.todayandtomorrow.net/" target="_blank">Today and Tomorrow</a></li>
+<li><a href="http://vimeo.com/tag:openframeworks">Vimeo: OF</a></li>
+<li><a href="http://vimeo.com/tag:processing">Vimeo: Processing</a></li>
+<li><a href="http://www.visualcomplexity.com/vc/" target="_blank">Visual Complexity</a></li>
+<li><a href="http://www.visualizing.org/" target="_blank">Visualizing.org</a></li>
+<li><a href="http://www.we-make-money-not-art.com/" target="_blank">We Make Money Not Art</a></li>
+
+	</ul>
+</li>
+ 
+</ul>
+</div>
+<!-- end sidebar -->
+			<div class="credit">
+				<!--Creative Commons License--> 
+												This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">Creative Commons Attribution-Noncommercial-Share Alike 3.0 Unported License</a>. <br />
+			 	(c) 2020 Interactive Art &amp; Computational Design / Spring 2011 | 
+			 	powered by	<a href="http://wordpress.org/">WordPress</a>
+				with <a href="http://shaheeilyas.com/barecity">Barecity</a>
+			</div>
+	</div>
+
+<div style="position:fixed;top:0;left:0;width:100%;height:45px;z-index:2147483647;background-color:rgba(253,147,38,0.90) !important;color:black !important;text-align:right !important;font:normal 12px/45px Arial, sans-serif !important;border-radius:0 !important;margin:0 !important;max-width:100% !important;background-repeat: no-repeat !important;background-position: 15px center !important;
+background-image: url(data:image/png;base64,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);
+"><span style="padding-right:15px;">You are viewing a snapshot of <a style='font-weight:bold !important; color:white !important' href='http://golancourses.net/2011spring/'>http://golancourses.net/2011spring/</a> created on 2020/08/09</span></div></body>
+</html>

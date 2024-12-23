@@ -1,0 +1,1104 @@
+<!DOCTYPE HTML>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Customizing the Build - Travis CI</title>
+<link rel="stylesheet" href="assets/4135a69d9f322f56d507488e624e0faa.css">
+<link rel="alternate" type="application/rss+xml" title="Travis CI Build Environment Updates" href="https://docs.travis-ci.com/feed.build-env-updates.xml">
+<script src="assets/297c23035bdfa50cd97b6002c54bd10b.js" defer></script>
+
+<script src="assets/bcf48d2c6030e7809c5f8622371596c8.js" type="text/javascript" charset="utf-8" defer></script>
+<script src="assets/dfccf22cbcf2b7202344aa4e2f4657fa.js" type="text/javascript" charset="utf-8" defer></script>
+<meta name="twitter:card" content="summary" />
+<meta name="twitter:site" content="@travisci" />
+<meta name="twitter:creator" content="@travisci" />
+<meta property="og:title" content="Travis CI Documentation" />
+<meta property="og:type" content="website" />
+<meta property="og:url" content=/user/customizing-the-build/ />
+<meta property="og:description" content="Customizing the Build" />
+<meta property="og:image" content="/images/TravisCI-Full-Color.png" }} />
+<meta property="og:image:type" content="image/png" />
+<meta property="og:image:width" content="642" />
+<meta property="og:image:height" content="201" />
+<meta property="og:image:alt" content="Travis CI logo" />
+
+
+
+
+<script type="text/javascript">
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-24868285-6']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+</script>
+
+  </head>
+  <body>
+    <div class="wrapper">
+
+      <header class="top">
+  <div class="row topbar">
+    <h1 id="logo" class="logo">
+  <a href="https://travis-ci.com/" title="Travis CI">Travis</a>
+</h1>
+
+    <nav>
+      <ul id="navigation" class="navigation">
+        <li><a href="https://blog.travis-ci.com">Blog</a></li>
+        <li><a href="/">Docs</a></li>
+        <li class="toggle"><button type="button" id="toggle-menu" class="button--teal">Menu</button></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+
+      <div id="content" class="row">
+
+        <div id="sidebar" class="sidebar">
+  <div>
+    <!-- <h2>Search</h2> -->
+    <div class="searchbox">
+      <form>
+        <input type="text" id="st-search-input" class="searchbox-input" placeholder="Search the docs" />
+      </form>
+      <script type="text/javascript">
+      var Swiftype = window.Swiftype || {};
+        (function() {
+          Swiftype.key = 'tXvDDzd4fNTBnLvxfEyx';
+
+          Swiftype.searchSearchFields = {
+            "page": ["title, body, tags"]
+          };
+          Swiftype.autocompleteSearchFields = {
+            "page": ["title, body, tags"]
+          };
+          /** DO NOT EDIT BELOW THIS LINE **/
+          var script = document.createElement('script'); script.type = 'text/javascript'; script.async = true;
+          script.src = "//swiftype.com/embed.js";
+          var entry = document.getElementsByTagName('script')[0];
+          document.getElementsByTagName('script')[0].parentNode.insertBefore(script, entry);
+        }());
+      </script>
+    </div>
+  </div>
+
+  <section class="sidebar-navigation">
+    <nav>
+      <h3>Getting Started</h3>
+      <ul>
+        <li><a href="/user/for-beginners/">Core Concepts for Beginners</a></li>
+        <li><a href="/user/tutorial/">Travis CI Tutorial</a></li>
+        <li><a href="/user/customizing-the-build/">Customizing the Build</a></li>
+        <li><a href="/user/speeding-up-the-build/">Speeding up the Build</a></li>
+        <li><a href="/user/docker/">Using Docker in your Build</a></li>
+        <li><a href="/user/gui-and-headless-browsers/">Headless Testing with Browsers</a></li>
+        <li><a href="/user/pull-requests/">Building Pull Requests</a></li>
+        <li><a href="/user/cron-jobs/">Cron Jobs</a></li>
+        <li><a href="/user/common-build-problems/">Common Build Problems</a></li>
+        <li><a href="https://github.com/travis-ci/travis#readme">Command Line Client</a></li>
+        <li><a href="/user/build-config-imports/">Build Config Imports</a></li>
+        <li><a href="/user/build-config-validation/">Build Config Validation</a></li>
+      </ul>
+
+      <h3>Jobs, Builds, Matrices and Stages</h3>
+      <ul>
+        <li><a href="/user/job-lifecycle/">Job Lifecycle</a></li>
+        <li><a href="/user/build-matrix/">Build Matrix</a></li>
+        <li><a href="/user/build-stages/">Build Stages</a></li>
+        <li><a href="/user/conditional-builds-stages-jobs/">Conditional Builds, Stages, and Jobs</a></li>
+      </ul>
+
+      <h3>Installing Dependencies</h3>
+      <ul>
+        <li><a href="/user/installing-dependencies/">Installing Dependencies</a></li>
+        <li><a href="/user/private-dependencies/">Private Dependencies GitHub</a></li>
+        <li><a href="/user/private-dependencies-bb/">Private Dependencies Bitbucket</a></li>
+        <li><a href="/user/database-setup/">Setting up Services and Databases</a></li>
+        <li><a href="/user/caching/">Caching Dependencies</a></li>
+        <li><a href="/user/ssh-known-hosts/">Adding to SSH Known Hosts</a></li>
+      </ul>
+
+      <h3>Programming Languages</h3>
+      <ul>
+      
+        <li><a href="/user/languages/android/">Android</a></li>
+      
+        <li><a href="/user/languages/c/">C</a></li>
+      
+        <li><a href="/user/languages/csharp/">C#</a></li>
+      
+        <li><a href="/user/languages/cpp/">C++</a></li>
+      
+        <li><a href="/user/languages/clojure/">Clojure</a></li>
+      
+        <li><a href="/user/languages/crystal/">Crystal</a></li>
+      
+        <li><a href="/user/languages/d/">D</a></li>
+      
+        <li><a href="/user/languages/dart/">Dart</a></li>
+      
+        <li><a href="/user/languages/elixir/">Elixir</a></li>
+      
+        <li><a href="/user/languages/elm/">Elm</a></li>
+      
+        <li><a href="/user/languages/erlang/">Erlang</a></li>
+      
+        <li><a href="/user/languages/csharp/">F#</a></li>
+      
+        <li><a href="/user/languages/minimal-and-generic/">Generic</a></li>
+      
+        <li><a href="/user/languages/go/">Go</a></li>
+      
+        <li><a href="/user/languages/groovy/">Groovy</a></li>
+      
+        <li><a href="/user/languages/haskell/">Haskell</a></li>
+      
+        <li><a href="/user/languages/haxe/">Haxe</a></li>
+      
+        <li><a href="/user/languages/java/">Java</a></li>
+      
+        <li><a href="/user/languages/javascript-with-nodejs/">JavaScript <small>(with Node.js)</small></a></li>
+      
+        <li><a href="/user/languages/julia/">Julia</a></li>
+      
+        <li><a href="/user/languages/minimal-and-generic/">Minimal</a></li>
+      
+        <li><a href="/user/languages/nix/">Nix</a></li>
+      
+        <li><a href="/user/languages/objective-c/">Objective-C</a></li>
+      
+        <li><a href="/user/languages/perl/">Perl</a></li>
+      
+        <li><a href="/user/languages/perl6/">Perl6</a></li>
+      
+        <li><a href="/user/languages/php/">PHP</a></li>
+      
+        <li><a href="/user/languages/python/">Python</a></li>
+      
+        <li><a href="/user/languages/r/">R</a></li>
+      
+        <li><a href="/user/languages/ruby/">Ruby</a></li>
+      
+        <li><a href="/user/languages/rust/">Rust</a></li>
+      
+        <li><a href="/user/languages/scala/">Scala</a></li>
+      
+        <li><a href="/user/languages/smalltalk/">Smalltalk</a></li>
+      
+        <li><a href="/user/languages/objective-c/">Swift</a></li>
+      
+        <li><a href="/user/languages/csharp/">Visual Basic</a></li>
+      
+        <li><a href="/user/languages/community-supported-languages/">Adding a language</a></li>
+      </ul>
+
+      <h3>Deployments and Uploads</h3>
+      <ul>
+        
+          <li class="is-overview"><a href="/user/deployment/">Overview</a></li>
+          
+        
+        
+          <li><a href="/user/deployment/anynines/">anynines</a></li>
+        
+          <li><a href="/user/deployment/atlas/">Atlas</a></li>
+        
+          <li><a href="/user/deployment/codedeploy/">AWS CodeDeploy</a></li>
+        
+          <li><a href="/user/deployment/elasticbeanstalk/">AWS Elastic Beanstalk</a></li>
+        
+          <li><a href="/user/deployment/lambda/">AWS Lambda</a></li>
+        
+          <li><a href="/user/deployment/opsworks/">AWS OpsWorks</a></li>
+        
+          <li><a href="/user/deployment/s3/">AWS S3</a></li>
+        
+          <li><a href="/user/deployment/azure-web-apps/">Azure Web Apps</a></li>
+        
+          <li><a href="/user/deployment/bintray/">bintray</a></li>
+        
+          <li><a href="/user/deployment/bitballoon/">BitBalloon</a></li>
+        
+          <li><a href="/user/deployment/bluemixcloudfoundry/">Bluemix CloudFoundry</a></li>
+        
+          <li><a href="/user/deployment/boxfuse/">Boxfuse</a></li>
+        
+          <li><a href="/user/deployment/catalyze/">Catalyze</a></li>
+        
+          <li><a href="/user/deployment/chefsupermarket/">Chef Supermarket</a></li>
+        
+          <li><a href="/user/deployment/cloud66/">Cloud 66</a></li>
+        
+          <li><a href="/user/deployment/cloudfoundry/">CloudFoundry</a></li>
+        
+          <li><a href="/user/deployment/cargo/">Cargo</a></li>
+        
+          <li><a href="/user/deployment/engineyard/">Engine Yard</a></li>
+        
+          <li><a href="/user/deployment/pages/">GitHub Pages</a></li>
+        
+          <li><a href="/user/deployment/releases/">GitHub Releases</a></li>
+        
+          <li><a href="/user/deployment/google-app-engine/">Google App Engine</a></li>
+        
+          <li><a href="/user/deployment/gcs/">Google Cloud Storage</a></li>
+        
+          <li><a href="/user/deployment/firebase/">Google Firebase</a></li>
+        
+          <li><a href="/user/deployment/hackage/">Hackage</a></li>
+        
+          <li><a href="/user/deployment/hephy/">Hephy</a></li>
+        
+          <li><a href="/user/deployment/heroku/">Heroku</a></li>
+        
+          <li><a href="/user/deployment/launchpad/">Launchpad</a></li>
+        
+          <li><a href="/user/deployment/npm/">npm</a></li>
+        
+          <li><a href="/user/deployment/openshift/">OpenShift</a></li>
+        
+          <li><a href="/user/deployment/packagecloud/">packagecloud.io</a></li>
+        
+          <li><a href="/user/deployment/puppetforge/">Puppet Forge</a></li>
+        
+          <li><a href="/user/deployment/pypi/">PyPI</a></li>
+        
+          <li><a href="/user/deployment/cloudfiles/">Rackspace Cloud Files</a></li>
+        
+          <li><a href="/user/deployment/rubygems/">RubyGems</a></li>
+        
+          <li><a href="/user/deployment/scalingo/">Scalingo</a></li>
+        
+          <li><a href="/user/deployment/script/">Script</a></li>
+        
+          <li><a href="/user/deployment/snaps/">Snap Store</a></li>
+        
+          <li><a href="/user/deployment/surge/">Surge.sh</a></li>
+        
+          <li><a href="/user/deployment/testfairy/">TestFairy</a></li>
+        
+          <li><a href="/user/deployment/transifex/">Transifex</a></li>
+        
+        <li><a href="/user/uploading-artifacts/">Uploading Build Artifacts</a></li>
+      </ul>
+
+      <h3>CI Environment Reference</h3>
+      <ul>
+        <li class="is-overview"><a href="/user/reference/overview/">Overview</a></li>
+        <li><a href="/user/reference/linux/">Ubuntu Linux CI Environment References</a></li>
+        <li><a href="/user/reference/osx/">macOS CI Environment Reference</a></li>
+        <li><a href="/user/reference/windows/">Windows CI Environment Reference</a></li>
+        <li><a href="/user/multi-os/">Building on Multiple Operating Systems</a></li>
+        <li><a href="/user/multi-cpu-architectures/">Building on Multiple CPU Architectures</a></li>
+        <li><a href="/user/environment-variables/">Environment Variables</a></li>
+        <li><a href="/user/build-environment-updates/">Build Environment Updates</a></li>
+        <li><a href="/user/ip-addresses/">Build Machines IP Addresses</a></li>
+      </ul>
+
+      <h3>Encrypting Files and Data</h3>
+      <ul>
+        <li><a href="/user/encryption-keys/">Encrypting Sensitive Data</a></li>
+        <li><a href="/user/encrypting-files/">Encrypting Files</a></li>
+        <li><a href="/user/github-oauth-scopes/">GitHub Permissions used by Travis CI</a></li>
+        <li><a href="/user/bb-oauth-scopes/">Bitbucket Permissions used by Travis CI</a></li>
+        <li><a href="/user/best-practices-security/">Best Practices in Securing Your Data</a></li>
+      </ul>
+
+      <h3>Integrations and Notifications</h3>
+      <ul>
+        <li><a href="/user/notifications/">Configuring Notifications</a></li>
+        <li><a href="/user/status-images/">Showing Build Status Images</a></li>
+        <li><a href="/user/code-climate/">Code Climate</a></li>
+        <li><a href="/user/deepsource/">DeepSource</a></li>
+        <li><a href="/user/coveralls/">Coveralls</a></li>
+        <li><a href="/user/coverity-scan/">Coverity Scan</a></li>
+        <li><a href="/user/browserstack/">BrowserStack</a></li>
+        <li><a href="/user/sauce-connect/">Sauce Labs</a></li>
+        <li><a href="/user/sonarcloud/">SonarCloud</a></li>
+        <li><a href="/user/sourceclear/">SourceClear</a></li>
+        <li><a href="/user/build-feeds/">Atom Feeds</a></li>
+        <li><a href="/user/cc-menu/">CCMenu / CCTray Feeds</a></li>
+        <li><a href="/user/integration/platformio/">Embedded Builds with PlatformIO</a></li>
+        <li><a href="/user/apps/">3rd Party Apps, Clients and Tools</a></li>
+      </ul>
+
+      <h3>Developer Program</h3>
+      <ul>
+        <li class="is-overview"><a href="/user/developer/">Overview</a></li>
+        <li><a href="https://developer.travis-ci.com/">API V3</a></li>
+        <li><a href="/user/triggering-builds/">Triggering Builds with API V3</a></li>
+        <li><a href="https://github.com/travis-ci/travis#ruby-library">The Ruby Library</a></li>
+      </ul>
+
+      <h3>Travis CI Enterprise</h3>
+      <ul>
+        <li><a href="/user/enterprise/">Enterprise Docs</a></li>
+      </ul>
+
+    </nav>
+  </section>
+
+  <section class="sidebar-notice">
+    <p>This documentation site is open source.
+      The <a href="https://github.com/travis-ci/docs-travis-ci-com">README in our Git repository</a> explains how to contribute.</p>
+  </section>
+
+</div><!-- /#sidebar -->
+
+
+        <main id="main" class="main" data-swiftype-index='true'>
+          
+            <aside class="improve-page" data-swiftype-index='false'><a href="https://github.com/travis-ci/docs-travis-ci-com/edit/master/user/customizing-the-build.md" target="_blank" title="Edit this page on GitHub" class="button-pen" data-proofer-ignore>Improve this page on GitHub</a></aside>
+            <h1 class="title">Customizing the Build</h1>
+          
+
+          
+
+
+          
+            <div id="toc" class="toc">
+              <ul class="list-language">
+  <li><a href="#travis-ci-build-configuration-and-settings">Travis CI Build Configuration and Settings</a></li>
+  <li><a href="#build-timeouts">Build Timeouts</a></li>
+  <li><a href="#build-lifecycle">Build Lifecycle</a></li>
+  <li><a href="#limiting-concurrent-jobs">Limiting Concurrent Jobs</a></li>
+  <li><a href="#building-only-the-latest-commit">Building Only the Latest Commit</a></li>
+  <li><a href="#git-clone-depth">Git Clone Depth</a></li>
+  <li><a href="#git-clone-quiet">Git Clone Quiet</a></li>
+  <li><a href="#git-submodules">Git Submodules</a></li>
+  <li><a href="#git-lfs">Git LFS</a></li>
+  <li><a href="#git-sparse-checkout">Git Sparse Checkout</a></li>
+  <li><a href="#git-end-of-line-conversion-control">Git End of Line Conversion Control</a></li>
+  <li><a href="#disabling-git-clone">Disabling git clone</a></li>
+  <li><a href="#setting-symlinks-option">Setting symlinks option</a></li>
+  <li><a href="#building-specific-branches">Building Specific Branches</a></li>
+  <li><a href="#skipping-a-build">Skipping a Build</a></li>
+  <li><a href="#build-matrix">Build matrix</a></li>
+  <li><a href="#installing-a-second-programming-language">Installing a Second Programming Language</a></li>
+  <li><a href="#implementing-complex-build-steps">Implementing Complex Build Steps</a></li>
+  <li><a href="#custom-hostnames">Custom Hostnames</a></li>
+  <li><a href="#what-repository-providers-or-version-control-systems-can-i-use">What Repository Providers or Version Control Systems Can I Use?</a></li>
+  <li><a href="#what-yaml-version-can-i-use-in-travisyml">What YAML Version Can I Use in <code class="highlighter-rouge">.travis.yml</code></a></li>
+  <li><a href="#troubleshooting">Troubleshooting</a></li>
+</ul>
+
+            </div>
+          
+
+          <h2 id="travis-ci-build-configuration-and-settings">Travis CI Build Configuration and Settings <a href="#travis-ci-build-configuration-and-settings" class="toc-anchor">#</a></h2>
+
+<p>Builds on Travis CI are configured mostly through the build configuration
+stored in the file <code class="highlighter-rouge">.travis.yml</code> in your repository. This allows your
+configuration to be version controlled and flexible.</p>
+
+<p>For advanced use cases the main build configuration file <code class="highlighter-rouge">.travis.yml</code> can
+import other, shared config sources using the <a href="/user/build-config-imports">Build Config Imports</a>
+feature.</p>
+
+<p>Detailed information about Travis CI’s build config format can be found in our
+<a href="https://config.travis-ci.com/">Travis CI Build Config Reference</a>. Additional
+information about Travis CI’s use of YAML as a language to describe build
+configuration can be found <a href="/user/build-config-yaml">here</a>.</p>
+
+<p>Other features can be controlled through the repository’s settings either
+through the Travis CI UI, or the Travis CI <a href="https://github.com/travis-ci/travis.rb#readme">command line client</a>.</p>
+
+<h2 id="build-timeouts">Build Timeouts <a href="#build-timeouts" class="toc-anchor">#</a></h2>
+
+<p>It is very common for test suites or build scripts to hang.
+Travis CI has specific time limits for each job, and will stop the build and add an error message to the build log in the following situations:</p>
+
+<ul>
+  <li>When a job produces no log output for 10 minutes.</li>
+  <li>When a job on a public repository takes longer than 50 minutes.</li>
+  <li>When a job on a private repository takes longer than 120 minutes.</li>
+</ul>
+
+<p>Some common reasons why builds might hang:</p>
+
+<ul>
+  <li>Waiting for keyboard input or other kind of human interaction</li>
+  <li>Concurrency issues (deadlocks, livelocks and so on)</li>
+  <li>Installation of native extensions that take very long time to compile</li>
+</ul>
+
+<blockquote>
+  <p>There is no timeout for a build; a build will run as long as needed to complete all the jobs, but will stop immediately if any job hits a timeout limit.</p>
+</blockquote>
+
+<h2 id="build-lifecycle">Build Lifecycle <a href="#build-lifecycle" class="toc-anchor">#</a></h2>
+
+<p id="Build-Lifecycle">The <a href="/user/job-lifecycle">Build Lifecycle documentation</a> now has its own page.</p>
+
+<h2 id="limiting-concurrent-jobs">Limiting Concurrent Jobs <a href="#limiting-concurrent-jobs" class="toc-anchor">#</a></h2>
+
+<p>The maximum number of concurrent jobs depends on the total system load, but
+one situation in which you might want to set a particular limit is:</p>
+
+<ul>
+  <li>if your build depends on an external resource and might run into a race
+condition with concurrent jobs.</li>
+</ul>
+
+<p>You can set the maximum number of concurrent jobs in the settings pane for
+each repository.</p>
+
+<p><img src="assets/bbf243e184f605229c05401b764d2042.png" alt="Settings -&gt; Limit concurrent builds" /></p>
+
+<p>Or using the command line client:</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nv">$ </span>travis settings maximum_number_of_builds <span class="nt">--set</span> 1
+</code></pre></div></div>
+
+<h2 id="building-only-the-latest-commit">Building Only the Latest Commit <a href="#building-only-the-latest-commit" class="toc-anchor">#</a></h2>
+
+<p>If you are only interested in building the most recent commit on each branch you can use this new feature to automatically cancel older builds in the queue that are <em>not yet running</em>. Existing builds will be allowed to finish.</p>
+
+<p>The <em>Auto Cancellation Setting</em> is in the <em>Settings</em> tab of each repository, and you can enable it separately to:</p>
+<ul>
+  <li>
+    <p><em>Auto cancel branch builds</em> - cancels queued builds in your branch and appears in the <em>Build History</em> tab of your repository.</p>
+  </li>
+  <li>
+    <p><em>Auto cancel pull request builds</em> - cancels queued builds for pull requests (the future merge result of your change/feature branch against its target) and appears in the <em>Pull Requests</em> tab of your repository.</p>
+  </li>
+</ul>
+
+<p><img src="assets/a0c7a52e85aaaa85ed33e469ff5ef419.png" alt="Auto cancellation setting" title="Auto cancellation setting" /></p>
+
+<p>For example, in the following screenshot, we pushed commit <code class="highlighter-rouge">ca31c2b</code> to the branch <code class="highlighter-rouge">MdA-fix-notice</code> while builds #226 and #227 were queued. With the auto cancellation feature on, the builds #226 and #227 were automatically cancelled:</p>
+
+<p><img src="assets/a7dcfb571eff5657a95c8ca11e8be4ab.png" alt="Auto cancellation example" title="Auto cancellation example" /></p>
+
+<h2 id="git-clone-depth">Git Clone Depth <a href="#git-clone-depth" class="toc-anchor">#</a></h2>
+
+<p>Travis CI can clone repositories to a maximum depth of 50 commits, which is only really useful if you are performing git operations.</p>
+
+<blockquote>
+  <p>Please note that if you use a depth of 1 and have a queue of jobs, Travis CI won’t build commits that are in the queue when you push a new commit.</p>
+</blockquote>
+
+<p>You can set the <a href="https://git-scm.com/docs/git-clone#git-clone---depthltdepthgt">clone depth</a> in <code class="highlighter-rouge">.travis.yml</code>:</p>
+
+<div data-file=".travis.yml" class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">git</span><span class="pi">:</span>
+  <span class="na">depth</span><span class="pi">:</span> <span class="m">3</span>
+</code></pre></div></div>
+
+<p>You can also remove the <code class="highlighter-rouge">--depth</code> flag entirely with:</p>
+
+<div data-file=".travis.yml" class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">git</span><span class="pi">:</span>
+  <span class="na">depth</span><span class="pi">:</span> <span class="no">false</span>
+</code></pre></div></div>
+
+<blockquote>
+  <p>Some operations on the repository, such as common automated code review scripts (e.g. Pronto for Ruby), may fail due to the limited git clone depth, not being able to access all the objects in the repository. Removing the depth flag, or running <code class="highlighter-rouge">git fetch --unshallow</code> might solve the issue.</p>
+</blockquote>
+
+<h2 id="git-clone-quiet">Git Clone Quiet <a href="#git-clone-quiet" class="toc-anchor">#</a></h2>
+
+<p>Travis CI clones repositories without the quiet flag (<code class="highlighter-rouge">-q</code>) by default. Enabling the quiet flag can be useful if you’re trying to avoid log file size limits or even if you just don’t need to include it.</p>
+
+<p>You can enable the <a href="https://git-scm.com/docs/git-clone#git-clone---quiet">quiet flag</a> in <code class="highlighter-rouge">.travis.yml</code>:</p>
+
+<div data-file=".travis.yml" class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">git</span><span class="pi">:</span>
+  <span class="na">quiet</span><span class="pi">:</span> <span class="no">true</span>
+</code></pre></div></div>
+
+<h2 id="git-submodules">Git Submodules <a href="#git-submodules" class="toc-anchor">#</a></h2>
+
+<p>Travis CI clones Git submodules by default. To avoid this set:</p>
+
+<div data-file=".travis.yml" class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">git</span><span class="pi">:</span>
+  <span class="na">submodules</span><span class="pi">:</span> <span class="no">false</span>
+</code></pre></div></div>
+
+<h2 id="git-lfs">Git LFS <a href="#git-lfs" class="toc-anchor">#</a></h2>
+
+<h3 id="authentication-with-github">Authentication with GitHub <a href="#authentication-with-github" class="toc-anchor">#</a></h3>
+
+<p>We recommend using a read-only GitHub OAuth token to authenticate when using <a href="https://git-lfs.github.com/">Git LFS</a>:</p>
+
+<div data-file=".travis.yml" class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">before_install</span><span class="pi">:</span>
+<span class="pi">-</span> <span class="s">echo -e "machine github.com\n  login $GITHUB_TOKEN" &gt; ~/.netrc</span>
+<span class="pi">-</span> <span class="s">git lfs pull</span>
+</code></pre></div></div>
+
+<p>This authentication is required when connecting to private repositories, and prevents rate-limiting when connecting to open source repositories.</p>
+
+<p>Deploy keys are not currently supported by LFS, so you should use a GitHub OAuth token to authenticate as in the example above.</p>
+
+<h3 id="authentication-with-bitbucket">Authentication with Bitbucket <a href="#authentication-with-bitbucket" class="toc-anchor">#</a></h3>
+
+<p>We recommend using a read-only Bitbucket OAuth token to authenticate when using <a href="https://git-lfs.github.com/">Git LFS</a>:</p>
+
+<div data-file=".travis.yml" class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">before_install</span><span class="pi">:</span>
+<span class="pi">-</span> <span class="s">echo -e "machine bitbucket.com\n  login $BITBUCKET_TOKEN" &gt; ~/.netrc</span>
+<span class="pi">-</span> <span class="s">git lfs pull</span>
+</code></pre></div></div>
+
+<p>This authentication is required when connecting to private repositories, and prevents rate-limiting when connecting to open source repositories.</p>
+
+<p>Deploy keys are not currently supported by LFS, so you should use a Bitbucket OAuth token to authenticate as in the example above.</p>
+
+<h3 id="linux">Linux <a href="#linux" class="toc-anchor">#</a></h3>
+
+<p><a href="https://git-lfs.github.com/">Git LFS</a> is supported by default on our Ubuntu Trusty, Xenial and Bionic images.</p>
+
+<h3 id="macos">macOS <a href="#macos" class="toc-anchor">#</a></h3>
+
+<p>Installing <code class="highlighter-rouge">git-lfs</code> via brew is the recommended way to get Git LFS in <a href="/user/reference/osx/">macOS</a>.</p>
+
+<div data-file=".travis.yml" class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">os</span><span class="pi">:</span> <span class="s">osx</span>
+
+<span class="na">before_install</span><span class="pi">:</span>
+<span class="pi">-</span> <span class="s">brew install git-lfs</span>
+
+<span class="na">before_script</span><span class="pi">:</span>
+<span class="pi">-</span> <span class="s">git lfs pull</span>
+</code></pre></div></div>
+
+<h3 id="git-lfs-skip-smudge">Git LFS Skip Smudge <a href="#git-lfs-skip-smudge" class="toc-anchor">#</a></h3>
+
+<p>GitHub rate-limits the Git LFS requests during the <code class="highlighter-rouge">git clone</code> process. If you run into rate-limiting issues, you can skip fetching the git-lfs files during the initial <code class="highlighter-rouge">git clone</code> (equivalent to <a href="https://github.com/git-lfs/git-lfs/blob/master/docs/man/git-lfs-smudge.1.ronn"><code class="highlighter-rouge">git lfs smudge --skip</code></a>), and download these assets during the <code class="highlighter-rouge">before_install</code> phase of your build. To achieve this, you can use the following configuration in <code class="highlighter-rouge">.travis.yml</code>:</p>
+
+<div data-file=".travis.yml" class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">git</span><span class="pi">:</span>
+  <span class="na">lfs_skip_smudge</span><span class="pi">:</span> <span class="no">true</span>
+</code></pre></div></div>
+
+<h2 id="git-sparse-checkout">Git Sparse Checkout <a href="#git-sparse-checkout" class="toc-anchor">#</a></h2>
+
+<p>Travis CI supports <code class="highlighter-rouge">git</code>’s <a href="https://git-scm.com/docs/git-read-tree#_sparse_checkout">sparse checkout</a>
+capability.</p>
+
+<p>To clone your repository sparsely, add:</p>
+
+<div data-file=".travis.yml" class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">git</span><span class="pi">:</span>
+  <span class="na">sparse_checkout</span><span class="pi">:</span> <span class="s">skip-worktree-map-file</span>
+</code></pre></div></div>
+
+<p>where <code class="highlighter-rouge">skip-worktree-map-file</code> is a path to the existing file in the current repository with data you’d like to put into <code class="highlighter-rouge">$GIT_DIR/info/sparse-checkout</code> file of <a href="https://git-scm.com/docs/git-read-tree#_sparse_checkout">format described in Git documentation</a>.</p>
+
+<h2 id="git-end-of-line-conversion-control">Git End of Line Conversion Control <a href="#git-end-of-line-conversion-control" class="toc-anchor">#</a></h2>
+
+<p>Travis CI clones repositories with platform-dependent <a href="https://git-scm.com/docs/git-config#Documentation/git-config.txt-coreautocrlf">core.autocrlf</a> behavior.
+This behavior can be modified via the autocrlf attribute in <code class="highlighter-rouge">.travis.yml</code>. Valid values are <code class="highlighter-rouge">true</code>, <code class="highlighter-rouge">false</code> and <code class="highlighter-rouge">input</code>.</p>
+
+<p>To clone your repository without end of line conversion, add:</p>
+
+<div data-file=".travis.yml" class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">git</span><span class="pi">:</span>
+  <span class="na">autocrlf</span><span class="pi">:</span> <span class="s">input</span>
+</code></pre></div></div>
+
+<p>This is equivalent to <a href="https://git-scm.com/docs/git-config#Documentation/git-config.txt-coreautocrlf"><code class="highlighter-rouge">git config --global core.autocrlf input</code></a> prior to cloning the repository.</p>
+
+<h2 id="disabling-git-clone">Disabling git clone <a href="#disabling-git-clone" class="toc-anchor">#</a></h2>
+
+<p>In some workflows, like <a href="https://docs.travis-ci.com/user/build-stages/#what-are-build-stages">build stages</a>, it might be beneficial to skip the automatic <code class="highlighter-rouge">git clone</code> step.</p>
+
+<p>You can do this by adding:</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">git</span><span class="pi">:</span>
+  <span class="na">clone</span><span class="pi">:</span> <span class="no">false</span>
+</code></pre></div></div>
+
+<blockquote>
+  <p>Note that if you use this option, the <code class="highlighter-rouge">TRAVIS_COMMIT_MESSAGE</code> environment variable will not be defined.</p>
+</blockquote>
+
+<h2 id="setting-symlinks-option">Setting symlinks option <a href="#setting-symlinks-option" class="toc-anchor">#</a></h2>
+
+<p>In some cases when a repository is used for both Linux and Windows, it may be desirable to set
+<a href="https://git-scm.com/docs/git-config#Documentation/git-config.txt-coresymlinks">core.symlinks</a> option.</p>
+
+<p>To do this:</p>
+
+<div class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">git</span><span class="pi">:</span>
+  <span class="na">symlinks</span><span class="pi">:</span> <span class="no">true</span>
+</code></pre></div></div>
+
+<h2 id="building-specific-branches">Building Specific Branches <a href="#building-specific-branches" class="toc-anchor">#</a></h2>
+
+<p>Travis CI uses the <code class="highlighter-rouge">.travis.yml</code> file from the branch containing the Git commit that triggers the build. Include branches using a safelist, or exclude them using a blocklist.</p>
+
+<blockquote>
+  <p>Note that you also need to take into account automatic <a href="/user/pull-requests#double-builds-on-pull-requests">Pull Request Builds</a> when deciding to safelist or blocklist certain branches.</p>
+</blockquote>
+
+<h3 id="safelisting-or-blocklisting-branches">Safelisting or Blocklisting Branches <a href="#safelisting-or-blocklisting-branches" class="toc-anchor">#</a></h3>
+
+<p>Specify which branches to build using a safelist, or blocklist branches that you do not want to be built:</p>
+
+<div data-file=".travis.yml" class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="c1"># blocklist</span>
+<span class="na">branches</span><span class="pi">:</span>
+  <span class="na">except</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="s">legacy</span>
+  <span class="pi">-</span> <span class="s">experimental</span>
+
+<span class="c1"># safelist</span>
+<span class="na">branches</span><span class="pi">:</span>
+  <span class="na">only</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="s">master</span>
+  <span class="pi">-</span> <span class="s">stable</span>
+</code></pre></div></div>
+
+<blockquote>
+  <p>Note that safelisting also prevents tagged commits from being built. If you consistently tag your builds in the format <code class="highlighter-rouge">v1.3</code> you can safelist them all with <a href="#using-regular-expressions">regular expressions</a>, for example <code class="highlighter-rouge">/^v\d+\.\d+(\.\d+)?(-\S*)?$/</code>.</p>
+</blockquote>
+
+<p>If you use both a safelist and a blocklist, the safelist takes precedence. By default, the <code class="highlighter-rouge">gh-pages</code> branch is not built unless you add it to the safelist.</p>
+
+<p>To build <em>all</em> branches:</p>
+
+<div data-file=".travis.yml" class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">branches</span><span class="pi">:</span>
+  <span class="na">only</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="s">gh-pages</span>
+  <span class="pi">-</span> <span class="s">/.*/</span>
+</code></pre></div></div>
+
+<blockquote>
+  <p>Note that for historical reasons <code class="highlighter-rouge">.travis.yml</code> needs to be present <em>on all active branches</em> of your project.</p>
+</blockquote>
+
+<h3 id="using-regular-expressions">Using Regular Expressions <a href="#using-regular-expressions" class="toc-anchor">#</a></h3>
+
+<p>You can use regular expressions to safelist or blocklist branches:</p>
+
+<div data-file=".travis.yml" class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">branches</span><span class="pi">:</span>
+  <span class="na">only</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="s">master</span>
+  <span class="pi">-</span> <span class="s">/^deploy-.*$/</span>
+</code></pre></div></div>
+
+<p>Any name surrounded with <code class="highlighter-rouge">/</code> in the list of branches is treated as a regular expression and can contain any quantifiers, anchors or character classes supported by <a href="http://www.ruby-doc.org/core/Regexp.html">Ruby regular expressions</a>.</p>
+
+<p>Options that are specified after the last <code class="highlighter-rouge">/</code> (e.g., <code class="highlighter-rouge">i</code> for case insensitive matching) are not supported but can be given inline instead.  For example, <code class="highlighter-rouge">/^(?i:deploy)-.*$/</code> matches <code class="highlighter-rouge">Deploy-2014-06-01</code> and other
+branches and tags that start with <code class="highlighter-rouge">deploy-</code> in any combination of cases.</p>
+
+<h2 id="skipping-a-build">Skipping a Build <a href="#skipping-a-build" class="toc-anchor">#</a></h2>
+
+<p>If you don’t want to run a build for a particular commit for any reason, you may instruct Travis CI
+to skip building this commit via a command in the commit message.</p>
+
+<p>The command should be one of the following forms:</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>[&lt;KEYWORD&gt; skip]
+</code></pre></div></div>
+
+<p>or</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>[skip &lt;KEYWORD&gt;]
+</code></pre></div></div>
+
+<p>where <code class="highlighter-rouge">&lt;KEYWORD&gt;</code> is either <code class="highlighter-rouge">ci</code>, <code class="highlighter-rouge">travis</code>, <code class="highlighter-rouge">travis ci</code>, <code class="highlighter-rouge">travis-ci</code>, or <code class="highlighter-rouge">travisci</code>.
+For example,</p>
+
+<div class="highlighter-rouge"><div class="highlight"><pre class="highlight"><code>[skip travis] Update README
+</code></pre></div></div>
+
+<p>Note that in case multiple commits are pushed together, the skip command is effective only if present in the commit message of the HEAD commit.</p>
+
+<h2 id="build-matrix">Build matrix <a href="#build-matrix" class="toc-anchor">#</a></h2>
+
+<p>You can also define exclusions to the build matrix:</p>
+
+<div data-file=".travis.yml" class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">jobs</span><span class="pi">:</span>
+  <span class="na">exclude</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="na">rvm</span><span class="pi">:</span> <span class="s">1.9.3</span>
+    <span class="na">gemfile</span><span class="pi">:</span> <span class="s">gemfiles/Gemfile.rails-2.3.x</span>
+    <span class="na">env</span><span class="pi">:</span> <span class="s">ISOLATED=true</span>
+  <span class="pi">-</span> <span class="na">rvm</span><span class="pi">:</span> <span class="s">jruby</span>
+    <span class="na">gemfile</span><span class="pi">:</span> <span class="s">gemfiles/Gemfile.rails-2.3.x</span>
+    <span class="na">env</span><span class="pi">:</span> <span class="s">ISOLATED=true</span>
+</code></pre></div></div>
+
+<blockquote>
+  <p>All build matrixes are currently limited to a maximum of <strong>200 jobs</strong> for both private and public repositories. If you are on an open-source plan, please remember that Travis CI provides this service free of charge to the community. So please only specify the matrix you <em>actually need</em>.</p>
+</blockquote>
+
+<h3 id="naming-jobs-within-matrices">Naming Jobs within Matrices <a href="#naming-jobs-within-matrices" class="toc-anchor">#</a></h3>
+
+<p>You can define names for specific jobs within a matrix. We recommend unique job names, but
+do not enforce it (though this may change in the future). Jobs defined in the <code class="highlighter-rouge">matrix.include</code>
+section can be given a job name as follows:</p>
+
+<div data-file=".travis.yml" class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">language</span><span class="pi">:</span> <span class="s">python</span>
+<span class="na">jobs</span><span class="pi">:</span>
+  <span class="na">include</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="na">name</span><span class="pi">:</span> <span class="s2">"</span><span class="s">3.5</span><span class="nv"> </span><span class="s">Unit</span><span class="nv"> </span><span class="s">Test"</span>
+    <span class="na">python</span><span class="pi">:</span> <span class="s2">"</span><span class="s">3.5"</span>
+    <span class="na">env</span><span class="pi">:</span> <span class="s">TEST_SUITE=suite_3_5_unit</span>
+  <span class="pi">-</span> <span class="na">name</span><span class="pi">:</span> <span class="s2">"</span><span class="s">3.5</span><span class="nv"> </span><span class="s">Integration</span><span class="nv"> </span><span class="s">Tests"</span>
+    <span class="na">python</span><span class="pi">:</span> <span class="s2">"</span><span class="s">3.5"</span>
+    <span class="na">env</span><span class="pi">:</span> <span class="s">TEST_SUITE=suite_3_5_integration</span>
+  <span class="pi">-</span> <span class="na">name</span><span class="pi">:</span> <span class="s2">"</span><span class="s">pypy</span><span class="nv"> </span><span class="s">Unit</span><span class="nv"> </span><span class="s">Tests"</span>
+    <span class="na">python</span><span class="pi">:</span> <span class="s2">"</span><span class="s">pypy"</span>
+    <span class="na">env</span><span class="pi">:</span> <span class="s">TEST_SUITE=suite_pypy_unit</span>
+<span class="na">script</span><span class="pi">:</span> <span class="s">./test.py $TEST_SUITE</span>
+</code></pre></div></div>
+
+<p>Jobs that are generated by matrix expansion cannot be given name attributes.</p>
+
+<h3 id="excluding-jobs">Excluding Jobs <a href="#excluding-jobs" class="toc-anchor">#</a></h3>
+
+<p>If the jobs you want to exclude from the build matrix share the same matrix
+parameters, you can specify only those and omit the varying parts.</p>
+
+<p>Suppose you have:</p>
+
+<div data-file=".travis.yml" class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">language</span><span class="pi">:</span> <span class="s">ruby</span>
+<span class="na">rvm</span><span class="pi">:</span>
+<span class="pi">-</span> <span class="s">1.9.3</span>
+<span class="pi">-</span> <span class="s">2.0.0</span>
+<span class="pi">-</span> <span class="s">2.1.0</span>
+<span class="na">env</span><span class="pi">:</span>
+<span class="pi">-</span> <span class="s">DB=mongodb</span>
+<span class="pi">-</span> <span class="s">DB=redis</span>
+<span class="pi">-</span> <span class="s">DB=mysql</span>
+<span class="na">gemfile</span><span class="pi">:</span>
+<span class="pi">-</span> <span class="s">Gemfile</span>
+<span class="pi">-</span> <span class="s">gemfiles/rails4.gemfile</span>
+<span class="pi">-</span> <span class="s">gemfiles/rails31.gemfile</span>
+<span class="pi">-</span> <span class="s">gemfiles/rails32.gemfile</span>
+</code></pre></div></div>
+
+<p>This results in a 3×3×4 build matrix. To exclude all jobs which have <code class="highlighter-rouge">rvm</code> value <code class="highlighter-rouge">2.0.0</code> <em>and</em>
+<code class="highlighter-rouge">gemfile</code> value <code class="highlighter-rouge">Gemfile</code>, you can write:</p>
+
+<div data-file=".travis.yml" class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">jobs</span><span class="pi">:</span>
+  <span class="na">exclude</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="na">rvm</span><span class="pi">:</span> <span class="s">2.0.0</span>
+    <span class="na">gemfile</span><span class="pi">:</span> <span class="s">Gemfile</span>
+</code></pre></div></div>
+
+<p>Which is equivalent to:</p>
+
+<div data-file=".travis.yml" class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">jobs</span><span class="pi">:</span>
+  <span class="na">exclude</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="na">rvm</span><span class="pi">:</span> <span class="s">2.0.0</span>
+    <span class="na">gemfile</span><span class="pi">:</span> <span class="s">Gemfile</span>
+    <span class="na">env</span><span class="pi">:</span> <span class="s">DB=mongodb</span>
+  <span class="pi">-</span> <span class="na">rvm</span><span class="pi">:</span> <span class="s">2.0.0</span>
+    <span class="na">gemfile</span><span class="pi">:</span> <span class="s">Gemfile</span>
+    <span class="na">env</span><span class="pi">:</span> <span class="s">DB=redis</span>
+  <span class="pi">-</span> <span class="na">rvm</span><span class="pi">:</span> <span class="s">2.0.0</span>
+    <span class="na">gemfile</span><span class="pi">:</span> <span class="s">Gemfile</span>
+    <span class="na">env</span><span class="pi">:</span> <span class="s">DB=mysql</span>
+</code></pre></div></div>
+
+<h4 id="excluding-jobs-with-env-value">Excluding Jobs with <code class="highlighter-rouge">env</code> Value <a href="#excluding-jobs-with-env-value" class="toc-anchor">#</a></h4>
+
+<p>When excluding jobs with <code class="highlighter-rouge">env</code> values, the value must match
+<em>exactly</em>.</p>
+
+<p>For example,</p>
+
+<div data-file=".travis.yml" class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">language</span><span class="pi">:</span> <span class="s">ruby</span>
+<span class="na">rvm</span><span class="pi">:</span>
+<span class="pi">-</span> <span class="s">1.9.3</span>
+<span class="pi">-</span> <span class="s">2.0.0</span>
+<span class="pi">-</span> <span class="s">2.1.0</span>
+<span class="na">env</span><span class="pi">:</span>
+<span class="pi">-</span> <span class="s">DB=mongodb SUITE=all</span>
+<span class="pi">-</span> <span class="s">DB=mongodb SUITE=compact</span>
+<span class="pi">-</span> <span class="s">DB=redis</span>
+<span class="pi">-</span> <span class="s">DB=mysql</span>
+<span class="na">jobs</span><span class="pi">:</span>
+  <span class="na">exclude</span><span class="pi">:</span>
+    <span class="pi">-</span> <span class="na">rvm</span><span class="pi">:</span> <span class="s">1.9.3</span>
+      <span class="na">env</span><span class="pi">:</span> <span class="s">DB=mongodb</span>
+</code></pre></div></div>
+
+<p>defines a 3×4 matrix, because the <code class="highlighter-rouge">env</code> value does not match with
+any job defined in the matrix.</p>
+
+<p>To exclude all Ruby 1.9.3 jobs with <code class="highlighter-rouge">DB=mongodb</code> set, write:</p>
+
+<div data-file=".travis.yml" class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">language</span><span class="pi">:</span> <span class="s">ruby</span>
+<span class="na">rvm</span><span class="pi">:</span>
+<span class="pi">-</span> <span class="s">1.9.3</span>
+<span class="pi">-</span> <span class="s">2.0.0</span>
+<span class="pi">-</span> <span class="s">2.1.0</span>
+<span class="na">env</span><span class="pi">:</span>
+<span class="pi">-</span> <span class="s">DB=mongodb SUITE=all</span>
+<span class="pi">-</span> <span class="s">DB=mongodb SUITE=compact</span>
+<span class="pi">-</span> <span class="s">DB=redis</span>
+<span class="pi">-</span> <span class="s">DB=mysql</span>
+<span class="na">jobs</span><span class="pi">:</span>
+  <span class="na">exclude</span><span class="pi">:</span>
+    <span class="pi">-</span> <span class="na">rvm</span><span class="pi">:</span> <span class="s">1.9.3</span>
+      <span class="na">env</span><span class="pi">:</span> <span class="s">DB=mongodb SUITE=all</span> <span class="c1"># not 'env: DB=mongodb  SUITE=all' or 'env: SUITE=all DB=mongodb'</span>
+    <span class="pi">-</span> <span class="na">rvm</span><span class="pi">:</span> <span class="s">1.9.3</span>
+      <span class="na">env</span><span class="pi">:</span> <span class="s">DB=mongodb SUITE=compact</span> <span class="c1"># not 'env: SUITE=compact DB=mongodb'</span>
+</code></pre></div></div>
+
+<h3 id="explicitly-including-jobs">Explicitly Including Jobs <a href="#explicitly-including-jobs" class="toc-anchor">#</a></h3>
+
+<p>It is also possible to include entries into the matrix with <code class="highlighter-rouge">matrix.include</code>:</p>
+
+<div data-file=".travis.yml" class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">jobs</span><span class="pi">:</span>
+  <span class="na">include</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="na">rvm</span><span class="pi">:</span> <span class="s">ruby-head</span>
+    <span class="na">gemfile</span><span class="pi">:</span> <span class="s">gemfiles/Gemfile.rails-3.2.x</span>
+    <span class="na">env</span><span class="pi">:</span> <span class="s">ISOLATED=false</span>
+</code></pre></div></div>
+
+<p>This adds a particular job to the build matrix which has already been populated.</p>
+
+<p>This is useful if you want to only test the latest version of a dependency together with the latest version of the runtime.</p>
+
+<p>You can use this method to create a build matrix containing only specific combinations.
+For example, the following creates a build matrix with 3 jobs, which runs a test suite for each version of Python:</p>
+
+<div data-file=".travis.yml" class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">language</span><span class="pi">:</span> <span class="s">python</span>
+<span class="na">jobs</span><span class="pi">:</span>
+  <span class="na">include</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="na">python</span><span class="pi">:</span> <span class="s2">"</span><span class="s">2.7"</span>
+    <span class="na">env</span><span class="pi">:</span> <span class="s">TEST_SUITE=suite_2_7</span>
+  <span class="pi">-</span> <span class="na">python</span><span class="pi">:</span> <span class="s2">"</span><span class="s">3.8"</span>
+    <span class="na">env</span><span class="pi">:</span> <span class="s">TEST_SUITE=suite_3_8</span>
+  <span class="pi">-</span> <span class="na">python</span><span class="pi">:</span> <span class="s2">"</span><span class="s">pypy"</span>
+    <span class="na">env</span><span class="pi">:</span> <span class="s">TEST_SUITE=suite_pypy</span>
+<span class="na">script</span><span class="pi">:</span> <span class="s">./test.py $TEST_SUITE</span>
+</code></pre></div></div>
+
+<h4 id="explicitly-included-jobs-inherit-the-first-value-in-the-array">Explicitly included jobs inherit the first value in the array <a href="#explicitly-included-jobs-inherit-the-first-value-in-the-array" class="toc-anchor">#</a></h4>
+
+<p>The jobs which are explicitly included inherit the first value of the expansion
+keys defined.</p>
+
+<p>In this example with a 3-job Python build matrix, each job in <code class="highlighter-rouge">matrix.include</code>
+has the <code class="highlighter-rouge">python</code> value set to <code class="highlighter-rouge">'3.8'</code>.
+You can explicitly set the python version for a specific entry:</p>
+
+<div data-file=".travis.yml" class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">language</span><span class="pi">:</span> <span class="s">python</span>
+<span class="na">python</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="s1">'</span><span class="s">3.8'</span>
+  <span class="pi">-</span> <span class="s1">'</span><span class="s">3.7'</span>
+  <span class="pi">-</span> <span class="s1">'</span><span class="s">2.7'</span>
+<span class="na">jobs</span><span class="pi">:</span>
+  <span class="na">include</span><span class="pi">:</span>
+    <span class="pi">-</span> <span class="na">python</span><span class="pi">:</span> <span class="s1">'</span><span class="s">3.8'</span> <span class="c1"># this is not strictly necessary</span>
+      <span class="na">env</span><span class="pi">:</span> <span class="s">EXTRA_TESTS=true</span>
+    <span class="pi">-</span> <span class="na">python</span><span class="pi">:</span> <span class="s1">'</span><span class="s">3.7'</span>
+      <span class="na">env</span><span class="pi">:</span> <span class="s">EXTRA_TESTS=true</span>
+<span class="na">script</span><span class="pi">:</span> <span class="s">env $EXTRA_TESTS ./test.py $TEST_SUITE</span>
+</code></pre></div></div>
+
+<h3 id="jobs-that-are-allowed-to-fail">Jobs That Are Allowed to Fail <a href="#jobs-that-are-allowed-to-fail" class="toc-anchor">#</a></h3>
+
+<p>You can define jobs that are allowed to fail in the build matrix.</p>
+
+<p>Allowed failures are jobs in your build matrix that are allowed to fail without
+causing the entire build to fail. This lets you add in experimental and
+preparatory builds, for example to test against runtime versions or
+configurations that you are not ready to officially support.</p>
+
+<p>Define allowed failures in the build matrix as key/value pairs:</p>
+
+<div data-file=".travis.yml" class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">jobs</span><span class="pi">:</span>
+  <span class="na">allow_failures</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="na">rvm</span><span class="pi">:</span> <span class="s">1.9.3</span>
+</code></pre></div></div>
+
+<h4 id="conditionally-allowing-jobs-to-fail">Conditionally Allowing Jobs to Fail <a href="#conditionally-allowing-jobs-to-fail" class="toc-anchor">#</a></h4>
+
+<p>Allowed failures can include a <a href="/user/conditional-builds-stages-jobs#conditionally-allowing-jobs-to-fail">condition</a> using the key <code class="highlighter-rouge">if</code>.</p>
+
+<p>For example, the following would allow the job using <code class="highlighter-rouge">rvm: 1.9.3</code> to fail
+only on the <code class="highlighter-rouge">master</code> branch:</p>
+
+<div data-file=".travis.yml" class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">jobs</span><span class="pi">:</span>
+  <span class="na">allow_failures</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="na">rvm</span><span class="pi">:</span> <span class="s">1.9.3</span>
+    <span class="na">if</span><span class="pi">:</span> <span class="s">branch = master</span>
+</code></pre></div></div>
+
+<h4 id="matching-jobs-with-allow_failures">Matching Jobs with <code class="highlighter-rouge">allow_failures</code> <a href="#matching-jobs-with-allow_failures" class="toc-anchor">#</a></h4>
+
+<p>When matching jobs against the definitions given in <code class="highlighter-rouge">allow_failures</code>, <em>all</em>
+attributes specified on an entry in <code class="highlighter-rouge">allow_failures</code> must be met exactly, and all
+the keys in <code class="highlighter-rouge">allow_failures</code> element must exist in the top level of the build
+matrix (i.e., not in <code class="highlighter-rouge">matrix.include</code>).</p>
+
+<h5 id="allow_failures-examples"><code class="highlighter-rouge">allow_failures</code> Examples <a href="#allow_failures-examples" class="toc-anchor">#</a></h5>
+
+<p>Consider</p>
+
+<div data-file=".travis.yml" class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">language</span><span class="pi">:</span> <span class="s">ruby</span>
+
+<span class="na">rvm</span><span class="pi">:</span>
+<span class="pi">-</span> <span class="s">2.0.0</span>
+<span class="pi">-</span> <span class="s">2.1.6</span>
+
+<span class="na">env</span><span class="pi">:</span>
+  <span class="na">global</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="s">SECRET_VAR1=SECRET1</span>
+  <span class="na">jobs</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="s">SECRET_VAR2=SECRET2</span>
+
+<span class="na">jobs</span><span class="pi">:</span>
+  <span class="na">allow_failures</span><span class="pi">:</span>
+    <span class="pi">-</span> <span class="na">env</span><span class="pi">:</span> <span class="s">SECRET_VAR1=SECRET1 SECRET_VAR2=SECRET2</span>
+</code></pre></div></div>
+
+<p>Here, no job is allowed to fail because no job has the <code class="highlighter-rouge">env</code> value
+<code class="highlighter-rouge">SECRET_VAR1=SECRET1 SECRET_VAR2=SECRET2</code>.</p>
+
+<p>Next,</p>
+
+<div data-file=".travis.yml" class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">language</span><span class="pi">:</span> <span class="s">php</span>
+<span class="na">php</span><span class="pi">:</span>
+<span class="pi">-</span> <span class="m">5.6</span>
+<span class="pi">-</span> <span class="m">7.0</span>
+<span class="na">jobs</span><span class="pi">:</span>
+  <span class="na">include</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="na">php</span><span class="pi">:</span> <span class="m">7.0</span>
+    <span class="na">env</span><span class="pi">:</span> <span class="s">KEY=VALUE</span>
+  <span class="na">allow_failures</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="na">php</span><span class="pi">:</span> <span class="m">7.0</span>
+    <span class="na">env</span><span class="pi">:</span> <span class="s">KEY=VALUE</span>
+</code></pre></div></div>
+
+<p>Without the top-level <code class="highlighter-rouge">env</code>, no job will be allowed to fail.</p>
+
+<h3 id="fast-finishing">Fast Finishing <a href="#fast-finishing" class="toc-anchor">#</a></h3>
+
+<p>If some jobs in the build matrix are allowed to fail, the build won’t be marked as finished until they have completed.</p>
+
+<p>To mark the build as finished as soon as possible, add <code class="highlighter-rouge">fast_finish: true</code> to the <code class="highlighter-rouge">matrix</code> section of your <code class="highlighter-rouge">.travis.yml</code> like this:</p>
+
+<div data-file=".travis.yml" class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">jobs</span><span class="pi">:</span>
+  <span class="na">fast_finish</span><span class="pi">:</span> <span class="no">true</span>
+</code></pre></div></div>
+
+<p>Now, the build result will be determined as soon as all the required jobs finish, based on these results, while the rest of the <code class="highlighter-rouge">allow_failures</code> jobs continue to run.</p>
+
+<h2 id="installing-a-second-programming-language">Installing a Second Programming Language <a href="#installing-a-second-programming-language" class="toc-anchor">#</a></h2>
+
+<p>If you need to install a second programming language in your current build environment, you can do so in the <code class="highlighter-rouge">before_install</code> stage of the build.</p>
+
+<p>For example, you can use the following recipe to install a custom version of Ruby in a Python build:</p>
+<div data-file=".travis.yml" class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">language</span><span class="pi">:</span> <span class="s">python</span>
+
+<span class="na">before_install</span><span class="pi">:</span>
+<span class="pi">-</span> <span class="s">rvm install 2.1.5</span>
+</code></pre></div></div>
+
+<p>You can also install a custom PHP version in a Node.js build like this:</p>
+<div data-file=".travis.yml" class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">language</span><span class="pi">:</span> <span class="s">node_js</span>
+
+<span class="na">before_install</span><span class="pi">:</span>
+<span class="pi">-</span> <span class="s">phpenv global </span><span class="m">7.0</span>
+</code></pre></div></div>
+
+<p>It’s also possible to use other language installation methods such as <code class="highlighter-rouge">apt-get</code>, <code class="highlighter-rouge">pyenv</code> for Python, <code class="highlighter-rouge">nvm</code> for Node.js, etc.</p>
+
+<h2 id="implementing-complex-build-steps">Implementing Complex Build Steps <a href="#implementing-complex-build-steps" class="toc-anchor">#</a></h2>
+
+<p>If you have a complex build environment that is hard to configure in the <code class="highlighter-rouge">.travis.yml</code>, consider moving the steps into a separate shell script.
+The script can be a part of your repository and can easily be called from the <code class="highlighter-rouge">.travis.yml</code>.</p>
+
+<p>See <a href="/user/job-lifecycle#complex-build-commands">Complex Build Commands</a> for more information on how to do this.</p>
+
+<h2 id="custom-hostnames">Custom Hostnames <a href="#custom-hostnames" class="toc-anchor">#</a></h2>
+
+<p>If your build requires setting up custom hostnames, you can specify a single host or a
+list of them in your .travis.yml. Travis CI will automatically setup the
+hostnames in <code class="highlighter-rouge">/etc/hosts</code> for both IPv4 and IPv6.</p>
+
+<div data-file=".travis.yml" class="language-yaml highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="na">addons</span><span class="pi">:</span>
+  <span class="na">hosts</span><span class="pi">:</span>
+  <span class="pi">-</span> <span class="s">travis.test</span>
+  <span class="pi">-</span> <span class="s">joshkalderimis.com</span>
+</code></pre></div></div>
+
+<h2 id="what-repository-providers-or-version-control-systems-can-i-use">What Repository Providers or Version Control Systems Can I Use? <a href="#what-repository-providers-or-version-control-systems-can-i-use" class="toc-anchor">#</a></h2>
+
+<p>Build and test your open source and private repositories hosted on GitHub on <a href="https://travis-ci.com/">travis-ci.com</a>. Travis CI can also integrate with Atlassian <a href="https://bitbucket.org/">Bitbucket</a>.</p>
+
+<p>Travis CI currently does not support git repositories hosted on GitLab or other version control systems such as Mercurial.</p>
+
+<h2 id="what-yaml-version-can-i-use-in-travisyml">What YAML Version Can I Use in <code class="highlighter-rouge">.travis.yml</code> <a href="#what-yaml-version-can-i-use-in-travisyml" class="toc-anchor">#</a></h2>
+
+<p>Travis CI uses the Ruby libYAML library, which means that your <code class="highlighter-rouge">.travis.yml</code> must be valid <a href="http://yaml.org/spec/1.1/">YAML 1.1</a>.</p>
+
+<h2 id="troubleshooting">Troubleshooting <a href="#troubleshooting" class="toc-anchor">#</a></h2>
+
+<p>Check out the list of <a href="/user/common-build-problems/">common build problems</a>.</p>
+
+
+        </main>
+      </div><!-- /#content -->
+
+      <footer class="footer">
+  <div class="layout-inner">
+    <div class="footer-elem">
+      <svg width="142px" height="45.381px" viewBox="0 0 142 45.381" enable-background="new 0 0 142 45.381" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:xlink= "http://www.w3.org/1999/xlink">
+        <title>Travis CI Mascot</title>
+        <image xlink:href="https://styleguide.travis-ci.com/images/logos/travis-footer-logo-new.svg" x="0" y="0" width="142px" height="45.381px" />
+      </svg>
+    </div>
+
+    <div class="footer-elem"></div>
+
+    <div class="footer-elem">
+      <h3 class="footer-title">©Travis CI, GmbH</h3>
+      <address>Rigaer Straße 8<br>10247 Berlin, Germany</address>
+      <ul>
+        <li><a href="https://travisci.workable.com/" title="Jobs at Travis CI">Work with Travis CI</a></li>
+      </ul>
+    </div>
+
+    <div class="footer-elem">
+      <h3 class="footer-title">Help</h3>
+      <ul>
+        <li><a href="https://docs.travis-ci.com" title="Travis CI Docs">Documentation</a></li>
+        <li><a href="https://changelog.travis-ci.com/">Changelog</a></li>
+        <li><a href="https://blog.travis-ci.com/" title="Travis CI Blog">Blog</a></li>
+        <li><a href="mailto:support@travis-ci.com" title="Email Travis CI support">Email</a></li>
+        <li><a href="https://twitter.com/travisci" title="Travis CI on Twitter">Twitter</a></li>
+      </ul>
+    </div>
+
+    <div class="footer-elem">
+      <h3 class="footer-title">Company</h3>
+      <ul>
+        <li><a href="/imprint.html" title="Imprint">Imprint</a></li>
+        <li><a href="https://ideracorp.com/legal/TravisCI">Legal</a></li>
+      </ul>
+    </div>
+
+    <div class="footer-elem">
+      <h3 class="footer-title">Travis CI Status</h3>
+      <ul>
+        <li><div class="status-circle status">Status:</div>
+          <a href="http://www.traviscistatus.com/">Travis CI Status</a>
+        </li>
+      </ul>
+    </div>
+  </div>
+</footer>
+
+<script>
+ fetch('https://pnpcptp8xh9k.statuspage.io/api/v2/status.json').then(function(response) {
+   return response.json();
+ }).then(function(data) {
+   if (data.status && data.status.indicator) {
+     document.querySelector('.status-circle').classList.add(data.status.indicator);
+   }
+ });
+</script>
+
+    </div><!-- /.wrapper -->
+  
+<div style="position:fixed;top:0;left:0;width:100%;height:45px;z-index:2147483647;background-color:rgba(253,147,38,0.90) !important;color:black !important;text-align:right !important;font:normal 12px/45px Arial, sans-serif !important;border-radius:0 !important;margin:0 !important;max-width:100% !important;background-repeat: no-repeat !important;background-position: 15px center !important;
+background-image: url(data:image/png;base64,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);
+"><span style="padding-right:15px;">You are viewing a snapshot of <a style='font-weight:bold !important; color:white !important' href='http://docs.travis-ci.com/user/customizing-the-build/'>http://docs.travis-ci.com/user/customizing-the-build/</a> created on 2020/08/08</span></div></body>
+</html>

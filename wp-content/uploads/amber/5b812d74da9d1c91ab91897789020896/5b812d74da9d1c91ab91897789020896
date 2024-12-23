@@ -1,0 +1,1748 @@
+<!doctype html>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={licenseKey:"949ceaf672",applicationID:"156780203"};window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var i=n[t]={exports:{}};e[t][0].call(i.exports,function(n){var i=e[t][1][n];return r(i||n)},i,i.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var i=0;i<t.length;i++)r(t[i]);return r}({1:[function(e,n,t){function r(){}function i(e,n,t){return function(){return o(e,[u.now()].concat(f(arguments)),n?null:this,t),n?void 0:this}}var o=e("handle"),a=e(4),f=e(5),c=e("ee").get("tracer"),u=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",d=l+"ixn-";a(p,function(e,n){s[n]=i(l+n,!0,"api")}),s.addPageAction=i(l+"addPageAction",!0),s.setCurrentRouteName=i(l+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,i="function"==typeof n;return o(d+"tracer",[u.now(),e,t],r),function(){if(c.emit((i?"":"no-")+"fn-start",[u.now(),r,i],t),i)try{return n.apply(this,arguments)}catch(e){throw c.emit("fn-err",[arguments,this,e],t),e}finally{c.emit("fn-end",[u.now()],t)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=i(d+n)}),newrelic.noticeError=function(e,n){"string"==typeof e&&(e=new Error(e)),o("err",[e,u.now(),!1,n])}},{}],2:[function(e,n,t){function r(e,n){var t=e.getEntries();t.forEach(function(e){"first-paint"===e.name?c("timing",["fp",Math.floor(e.startTime)]):"first-contentful-paint"===e.name&&c("timing",["fcp",Math.floor(e.startTime)])})}function i(e,n){var t=e.getEntries();t.length>0&&c("lcp",[t[t.length-1]])}function o(e){if(e instanceof s&&!l){var n,t=Math.round(e.timeStamp);n=t>1e12?Date.now()-t:u.now()-t,l=!0,c("timing",["fi",t,{type:e.type,fid:n}])}}if(!("init"in NREUM&&"page_view_timing"in NREUM.init&&"enabled"in NREUM.init.page_view_timing&&NREUM.init.page_view_timing.enabled===!1)){var a,f,c=e("handle"),u=e("loader"),s=NREUM.o.EV;if("PerformanceObserver"in window&&"function"==typeof window.PerformanceObserver){a=new PerformanceObserver(r),f=new PerformanceObserver(i);try{a.observe({entryTypes:["paint"]}),f.observe({entryTypes:["largest-contentful-paint"]})}catch(p){}}if("addEventListener"in document){var l=!1,d=["click","keydown","mousedown","pointerdown","touchstart"];d.forEach(function(e){document.addEventListener(e,o,!1)})}}},{}],3:[function(e,n,t){function r(e,n){if(!i)return!1;if(e!==i)return!1;if(!n)return!0;if(!o)return!1;for(var t=o.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==t[a])return!1;return!0}var i=null,o=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var f=navigator.userAgent,c=f.match(a);c&&f.indexOf("Chrome")===-1&&f.indexOf("Chromium")===-1&&(i="Safari",o=c[1])}n.exports={agent:i,version:o,match:r}},{}],4:[function(e,n,t){function r(e,n){var t=[],r="",o=0;for(r in e)i.call(e,r)&&(t[o]=n(r,e[r]),o+=1);return t}var i=Object.prototype.hasOwnProperty;n.exports=r},{}],5:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,i=t-n||0,o=Array(i<0?0:i);++r<i;)o[r]=e[n+r];return o}n.exports=r},{}],6:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function i(e){function n(e){return e&&e instanceof r?e:e?c(e,f,o):o()}function t(t,r,i,o){if(!l.aborted||o){e&&e(t,r,i);for(var a=n(i),f=v(t),c=f.length,u=0;u<c;u++)f[u].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function d(e,n){h[e]=v(e).concat(n)}function m(e,n){var t=h[e];if(t)for(var r=0;r<t.length;r++)t[r]===n&&t.splice(r,1)}function v(e){return h[e]||[]}function g(e){return p[e]=p[e]||i(t)}function w(e,n){u(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var h={},y={},b={on:d,addEventListener:d,removeEventListener:m,emit:t,get:g,listeners:v,context:n,buffer:w,abort:a,aborted:!1};return b}function o(){return new r}function a(){(s.api||s.feature)&&(l.aborted=!0,s=l.backlog={})}var f="nr@context",c=e("gos"),u=e(4),s={},p={},l=n.exports=i();l.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(i.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(o){}return e[n]=r,r}var i=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){i.buffer([e],r),i.emit(e,n,t)}var i=e("ee").get("handle");n.exports=r,r.ee=i},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,o,function(){return i++})}var i=1,o="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=E.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();u(y,function(n,t){e[n]||(e[n]=t)}),c("mark",["onload",a()+E.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function i(){"complete"===d.readyState&&o()}function o(){c("mark",["domContent",a()+E.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(f=Math.max((new Date).getTime(),f))-E.offset}var f=(new Date).getTime(),c=e("handle"),u=e(4),s=e("ee"),p=e(3),l=window,d=l.document,m="addEventListener",v="attachEvent",g=l.XMLHttpRequest,w=g&&g.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:g,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var h=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1173.min.js"},b=g&&w&&w[m]&&!/CriOS/.test(navigator.userAgent),E=n.exports={offset:f,now:a,origin:h,features:{},xhrWrappable:b,userAgent:p};e(1),e(2),d[m]?(d[m]("DOMContentLoaded",o,!1),l[m]("load",r,!1)):(d[v]("onreadystatechange",i),l[v]("onload",r)),c("mark",["firstbyte",f],null,"api");var x=0,O=e(6)},{}],"wrap-function":[function(e,n,t){function r(e){return!(e&&e instanceof Function&&e.apply&&!e[a])}var i=e("ee"),o=e(5),a="nr@original",f=Object.prototype.hasOwnProperty,c=!1;n.exports=function(e,n){function t(e,n,t,i){function nrWrapper(){var r,a,f,c;try{a=this,r=o(arguments),f="function"==typeof t?t(r,a):t||{}}catch(u){l([u,"",[r,a,i],f])}s(n+"start",[r,a,i],f);try{return c=e.apply(a,r)}catch(p){throw s(n+"err",[r,a,p],f),p}finally{s(n+"end",[r,a,c],f)}}return r(e)?e:(n||(n=""),nrWrapper[a]=e,p(e,nrWrapper),nrWrapper)}function u(e,n,i,o){i||(i="");var a,f,c,u="-"===i.charAt(0);for(c=0;c<n.length;c++)f=n[c],a=e[f],r(a)||(e[f]=t(a,u?f+i:i,o,f))}function s(t,r,i){if(!c||n){var o=c;c=!0;try{e.emit(t,r,i,n)}catch(a){l([a,t,r,i])}c=o}}function p(e,n){if(Object.defineProperty&&Object.keys)try{var t=Object.keys(e);return t.forEach(function(t){Object.defineProperty(n,t,{get:function(){return e[t]},set:function(n){return e[t]=n,n}})}),n}catch(r){l([r])}for(var i in e)f.call(e,i)&&(n[i]=e[i]);return n}function l(n){try{e.emit("internal-error",n)}catch(t){}}return e||(e=i),t.inPlace=u,t.flag=a,t}},{}]},{},["loader"]);</script>
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+
+	<title>Setting Type on the Web to a Baseline Grid &#8211; A List Apart</title>
+<link rel='dns-prefetch' href='//secure.gravatar.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="A List Apart &raquo; Feed" href="https://alistapart.com/main/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/13.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/alistapart.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.5"}};
+			!function(e,a,t){var r,n,o,i,p=a.createElement("canvas"),s=p.getContext&&p.getContext("2d");function c(e,t){var a=String.fromCharCode;s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,e),0,0);var r=p.toDataURL();return s.clearRect(0,0,p.width,p.height),s.fillText(a.apply(this,t),0,0),r===p.toDataURL()}function l(e){if(!s||!s.fillText)return!1;switch(s.textBaseline="top",s.font="600 32px Arial",e){case"flag":return!c([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])&&(!c([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!c([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]));case"emoji":return!c([55357,56424,8205,55356,57212],[55357,56424,8203,55356,57212])}return!1}function d(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(i=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},o=0;o<i.length;o++)t.supports[i[o]]=l(i[o]),t.supports.everything=t.supports.everything&&t.supports[i[o]],"flag"!==i[o]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[i[o]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(r=t.source||{}).concatemoji?d(r.concatemoji):r.wpemoji&&r.twemoji&&(d(r.twemoji),d(r.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='all-css-0' href='assets/91a69ae0d966233ec8e8bf1898f1a721.css' type='text/css' media='all' />
+<style id='wp-block-library-inline-css'>
+.has-text-align-justify{text-align:justify;}
+</style>
+<style id='ala-style-inline-css'>
+ { clip: rect(1px, 1px, 1px, 1px); height: 1px; position: absolute; overflow: hidden; width: 1px; }
+</style>
+<script type='text/javascript' src='assets/9730b5047239af2901e0efa10784e816.js'></script>
+<link rel="https://api.w.org/" href="https://alistapart.com/wp-json/" /><link rel="alternate" type="application/json" href="https://alistapart.com/wp-json/wp/v2/article/14895" /><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://alistapart.com/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://alistapart.com/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.5" />
+<link rel="canonical" href="https://alistapart.com/article/settingtypeontheweb/" />
+<link rel="alternate" type="application/json+oembed" href="https://alistapart.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falistapart.com%2Farticle%2Fsettingtypeontheweb%2F" />
+<link rel="alternate" type="text/xml+oembed" href="https://alistapart.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Falistapart.com%2Farticle%2Fsettingtypeontheweb%2F&#038;format=xml" />
+
+<link rel='dns-prefetch' href='//v0.wordpress.com'/>
+<style type='text/css'>img#wpstats{display:none}</style><link rel="pingback" href="https://alistapart.com/xmlrpc.php">		<style type="text/css">
+						.site-title,
+			.site-description {
+				position: absolute;
+				clip: rect(1px, 1px, 1px, 1px);
+			}
+
+						</style>
+		
+<!-- Jetpack Open Graph Tags -->
+<meta property="og:type" content="article" />
+<meta property="og:title" content="Setting Type on the Web to a Baseline Grid" />
+<meta property="og:url" content="https://alistapart.com/article/settingtypeontheweb/" />
+<meta property="og:description" content="As web designers, we sometimes may feel we&#8217;re on a relentless journey to bridge the gap between digital and traditional processes. Wilson Miner brings us one step closer by offering up a way …" />
+<meta property="article:published_time" content="2007-04-10T11:40:00+00:00" />
+<meta property="article:modified_time" content="2007-04-10T11:40:00+00:00" />
+<meta property="og:site_name" content="A List Apart" />
+<meta property="og:image" content="assets/316a21060165ea5087de7cd6394ff096.jpg?fit=270%2C506" />
+<meta property="og:image:width" content="270" />
+<meta property="og:image:height" content="506" />
+<meta property="og:image:alt" content="Setting Type on the Web to a Baseline Grid" />
+<meta property="og:locale" content="en_US" />
+<meta name="twitter:site" content="@alistapart" />
+<meta name="twitter:text:title" content="Setting Type on the Web to a Baseline Grid" />
+<meta name="twitter:image" content="assets/316a21060165ea5087de7cd6394ff096.jpg?fit=270%2C506&#038;w=144" />
+<meta name="twitter:image:alt" content="Setting Type on the Web to a Baseline Grid" />
+<meta name="twitter:card" content="summary" />
+
+<!-- End Jetpack Open Graph Tags -->
+<link rel="icon" href="https://alistapart.com/wp-content/uploads/2019/03/cropped-icon_navigation-laurel-512.jpg?fit=32%2C32" sizes="32x32" />
+<link rel="icon" href="https://alistapart.com/wp-content/uploads/2019/03/cropped-icon_navigation-laurel-512.jpg?fit=192%2C192" sizes="192x192" />
+<link rel="apple-touch-icon" href="https://alistapart.com/wp-content/uploads/2019/03/cropped-icon_navigation-laurel-512.jpg?fit=180%2C180" />
+<meta name="msapplication-TileImage" content="https://alistapart.com/wp-content/uploads/2019/03/cropped-icon_navigation-laurel-512.jpg?fit=270%2C270" />
+			<link rel="stylesheet" type="text/css" id="wp-custom-css" href="assets/60c15e51b4d1ffac29f4b064ca580e58.css" />
+		</head>
+
+<body class="article-template-default single single-article postid-14895 wp-custom-logo article-settingtypeontheweb" itemscope itemtype="http://schema.org/Article">
+<div id="page" class="site">
+	<a class="skip-link screen-reader-text" href="#content">Skip to content</a>
+
+	<header id="masthead" class="site-header">
+		<div class="site-branding">
+			<a href="https://alistapart.com/" class="custom-logo-link" rel="home"><img width="960" height="98" src="assets/7cc987dba086fc5916ac2a1f6bacb7d1.png" class="custom-logo" alt="A List Apart" loading="lazy" srcset="https://alistapart.com/wp-content/uploads/2019/03/ala-logo-big.png?w=960 960w, https://alistapart.com/wp-content/uploads/2019/03/ala-logo-big.png?w=300 300w, https://alistapart.com/wp-content/uploads/2019/03/ala-logo-big.png?w=768 768w" sizes="(max-width: 960px) 100vw, 960px" /></a>				<p class="site-title"><a href="https://alistapart.com/" rel="home"  itemscope itemtype="http://schema.org/ImageObject">A List Apart</a></p>
+								<p class="site-description">For people who make websites</p>
+					</div><!-- .site-branding -->
+
+		<nav id="site-navigation" class="main-navigation" itemscope="" itemtype="http://schema.org/SiteNavigationElement">
+			<button class="menu-toggle" aria-controls="primary-menu" aria-expanded="false"><span class="screen-reader-text">Primary Menu</span></button>
+			<div class="menu-site-header-container"><ul id="primary-menu" class="menu"><li id="menu-item-6000493" class="ala-home-url menu-item menu-item-type-custom menu-item-object-custom menu-item-home menu-item-6000493"><a href="https://alistapart.com" itemprop="url"><span itemprop="name">Home</span></a></li>
+<li id="menu-item-6000494" class="menu-item menu-item-type-post_type menu-item-object-page current_page_parent menu-item-6000494"><a href="https://alistapart.com/articles/" itemprop="url"><span itemprop="name">Articles</span></a></li>
+<li id="menu-item-6000495" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6000495"><a href="https://alistapart.com/events/" itemprop="url"><span itemprop="name">Events</span></a></li>
+<li id="menu-item-6000496" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6000496"><a href="https://alistapart.com/topics/" itemprop="url"><span itemprop="name">Topics</span></a></li>
+<li id="menu-item-6000497" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6000497"><a href="https://alistapart.com/about/contribute/" itemprop="url"><span itemprop="name">Write for Us</span></a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children"><a href="#" class="mlp-language-nav"><span itemprop="name">Language (English) <i class="arrow-down"></i></span></a><ul class="sub-menu mlp-languages"><li class="site-id-"2" mlp-language-nav-item menu-item menu-item-type-mlp_language menu-item-object-mlp_language"><a rel="alternate" href="https://alistapart.com/it" itemprop="url"><span itemprop="name">Italian</span></a></li></ul></li></ul></div>
+			<form role="search" method="get" class="search-form" action="https://alistapart.com/">
+				<label>
+					<span class="screen-reader-text">Search for:</span>
+					<input type="search" class="search-field" placeholder="Search &hellip;" value="" name="s" />
+				</label>
+				<input type="submit" class="search-submit" value="Search" />
+			</form>		</nav><!-- #site-navigation -->
+
+	</header><!-- #masthead -->
+
+	<div id="content" class="site-content">
+
+	<div id="primary" class="content-area">
+		<main id="main" class="site-main">
+
+			
+<article id="post-14895" class="post-14895 article type-article status-publish has-post-thumbnail hentry category-html category-layout-grids category-typography-web-fonts issue-accessibleweb20applicationsandsettingtypeonthewebtoabaselinegrid">
+
+	<figure class="hero-wide" itemprop="image" itemscope="" itemtype="http://schema.org/ImageObject">
+		
+			<div class="post-thumbnail">
+				<img width="270" height="506" src="assets/316a21060165ea5087de7cd6394ff096.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="Setting Type on the Web to a Baseline Grid" loading="lazy" itemprop="contentUrl" srcset="assets/316a21060165ea5087de7cd6394ff096.jpg?w=270 270w, assets/316a21060165ea5087de7cd6394ff096.jpg?w=160 160w" sizes="(max-width: 270px) 100vw, 270px" />			</div><!-- .post-thumbnail -->
+
+					<a class="ala-issue-number" href="https://alistapart.com/issue/235"><span class="ala-issue-number__badge">Issue №</span>
+				<span itemprop="issueNumber">235</span></a>
+			
+	</figure>
+
+	<header class="entry-header">
+		
+		<h1 class="entry-title" itemprop="headline">Setting Type on the Web to a Baseline Grid</h1>		<div class="entry-meta">
+			<span class="byline"> by <span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"><a class="url fn n" href="https://alistapart.com/author/wminer/" itemprop="url"> <span itemprop="name">Wilson Miner</span></a></span></span><span class="posted-on"><time class="entry-date published updated" datetime="2007-04-10T07:40:00-04:00">April 10, 2007</time></span>			<div class="entry-topic">
+				<span class="cat-links">Published in <a href="https://alistapart.com/blog/topic/html/" rel="category tag">HTML</a>, <a href="https://alistapart.com/blog/topic/layout-grids/" rel="category tag">Layout &amp; Grids</a>, <a href="https://alistapart.com/blog/topic/typography-web-fonts/" rel="category tag">Typography &amp; Web Fonts</a></span>			</div>
+		</div><!-- .entry-meta -->
+	</header><!-- .entry-header -->
+
+	
+	
+	
+	<div class="entry-content">
+		<p>We web designers get excited about the littlest things. Our friends in the print world must get a kick out of watching us talk about finally being able to achieve layouts on the web that they’ve taken for granted for years. Let’s face it: it’s easier these days to embed a video on the web than it is to set type consistently or align elements to a universal grid.</p>		<div class="aside-breaker"><span>Article Continues Below</span></div>
+		<div class="ala-single-sidebar-wrapper">
+			<span class="screen-reader-text">Article Continues Below</span>
+			<aside class="ala-single-sidebar-minutiae">
+				<a href="https://alistapart.com/article/settingtypeontheweb/#comments" class="ala-comment-bubble">51 Comments</a>					<div class="ala-share">
+					<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-icon sd-sharing"><h3 id="section1" class="sd-title">Share this:<a class="subhead-anchor" href="#section1">#section1</a></h3><div class="sd-content"><ul><li class="share-facebook"><a rel="nofollow noopener noreferrer" data-shared="sharing-facebook-14895" class="share-facebook sd-button share-icon no-text" href="https://alistapart.com/article/settingtypeontheweb/?share=facebook" target="_blank" title="Click to share on Facebook"><span></span><span class="sharing-screen-reader-text">Click to share on Facebook (Opens in new window)</span></a></li><li class="share-twitter"><a rel="nofollow noopener noreferrer" data-shared="sharing-twitter-14895" class="share-twitter sd-button share-icon no-text" href="https://alistapart.com/article/settingtypeontheweb/?share=twitter" target="_blank" title="Click to share on Twitter"><span></span><span class="sharing-screen-reader-text">Click to share on Twitter (Opens in new window)</span></a></li><li class="share-end"></li></ul></div></div></div>					</div>
+										<section id="custom_html-6" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><a href="https://www.patreon.com/alistapart" class="patreon-bubble">Become a patron</a></div></section>					
+							</aside>
+
+			<aside class="ala-single-sidebar-1">
+				<section id="custom_html-2" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="banner">
+	<a href="https://link.chtbl.com/wireframe?sid=podcast.alistapart">
+	<img class="banner-logo" src="assets/a6bea7cea5f159dbec58f8f24c3f481d.jpg" alt="Wireframe podcast banner">
+	<p>Wireframe is a podcast all about how UX can help technology fit into our lives.</p>
+	</a>
+</div>
+
+<div class="banner ala-banner">
+	<a href="https://abookapart.com/">				<img src="assets/fcf78c60220b1422abb00ee2aa9a512b.png" alt="A Book Apart Logo" class="banner-logo" />
+		<p>A Book Apart:<br> Brief books for people who make websites.</p>		
+		</a>
+</div>
+
+<div class="banner">
+	<a href="https://aneventapart.com/">				<img src="assets/1474e963f19730a49797dc6d542c9ba3.png" alt="An Event Apart Logo" class="banner-logo" />
+		<p>An Event Apart:<br> 3 days of design, code, and content for web &amp; UX designers &amp; devs.</p>		
+		</a>
+</div></div></section>			</aside>
+
+		</div>
+		
+<p>But we’re scrappy folks, web designers. We don’t give up easy. In the long slow battle with browser support and platform inconsistencies, we’ve been able to bring more and more sophisticated print techniques onto the web—sometimes kicking and screaming.</p>
+<h2 id="section2">We have the technology<a class="subhead-anchor" href="#section2">#section2</a></h2>
+<p>Over the last year or so, there’s been a lot of talk about grid systems and using column grids for website layouts. Mark gave us a <a href="http://www.markboulton.co.uk/journal/comments/five-simple-steps-to-designing-grid-systems-preface" title="Mark Boulton: Five Simple Steps to designing grid systems">lesson plan</a>, Khoi gave us a <a href="http://www.subtraction.com/2005/09/02/the-funniest" title="Khoi Vinh: The Funniest Grid You Ever Saw">case study</a> and Cameron gave us <a href="http://cameronmoll.com/archives/2006/12/gridding_the_960/" title="Cameron Moll: Gridding the 960">a toolkit</a>. The message is clear: we have the browser support, the know-how, and the tools we need to create consistent multi-column grid layouts on the web.</p>
+<p>We can apply the same principles of proportion and balance to the type within those columns by borrowing another technique from our print brethren: the baseline grid.</p>
+<p>The main principle of the baseline grid is that the bottom of every line of text (the baseline) falls on a vertical grid set in even increments all the way down the page. Imagine those old <a href="http://en.wikipedia.org/wiki/Big_Chief_tablet">Big Chief ruled writing pads</a> they gave you in grade school to practice penmanship and you’ve got the basic idea. The magical <a href="https://alistapart.github.io/code-samples/settingtypeontheweb/example.html">end result</a> is that all the text on your page lines up across all the columns, creating a harmonious vertical rhythm.</p>
+<p>In print, it’s not that hard. Just enable the baseline grid in Quark or InDesign and set the increment based on the line-height you want. On the web of course, it’s another story. It’s hard enough to align things vertically with CSS because it’s tough to predict where every element will fall, and it only gets worse when we’re dealing with type, which is hard enough to size consistently on its own. But with a little math and a slightly obsessive attention to detail, we can make it work.</p>
+<h2 id="section3">Firing up the grid<a class="subhead-anchor" href="#section3">#section3</a></h2>
+<p>Note: I’ve used pixel units for sizing text in the examples for this article. Recognizing that this may be a surprising recommendation for an article in this publication, I’ve addressed some of my reasons for doing so—as well as some alternate techniques that use relative units—further down.</p>
+<p>The first thing we have to do is set a line-height for our grid. I’ve chosen a pretty standard base font size of 12 pixels, and set the line-height at 18 pixels, which gives us a nice open leading of about 150%. It’s important to think about your line-heights up front. You want a ratio of font size to line-height that’s a good balance for readability and that’s easily divisible into smaller units (more on this later).</p>
+<p>I’ve also borrowed a trick from <a href="http://www.subtraction.com/2005/09/02/the-funniest">Khoi</a> and created a tiling background image that I can use on the page while I’m working to make sure everything lines up where I want it to. You can see the end result with the grid turned on in this <a href="https://alistapart.github.io/code-samples/settingtypeontheweb/example_grid.html">example</a>.</p>
+<p>You’ll notice in the previous example that the text doesn’t fall directly on the grid lines. Because of the way CSS renders line-height (by adding space above and below the letters) it’s a lot easier to line the text up <em>within</em> the grid lines rather than directly on them. It’s possible to adjust your background image to take this into account, or tweak the padding on certain elements so the text starts in a different place, but there’s no point making this more complicated than it needs to be.</p>
+<h2 id="section4">Paragraphs and headers<a class="subhead-anchor" href="#section4">#section4</a></h2>
+<p>I’ll start by resetting the margin and padding on everything to zero so we don’t have to worry about default browser styles. In practice, you’ll probably want to use something a little more precise, but for the purposes of this example, a good old star selector will do just fine.</p>
+<pre id="snippet1"><code>* { 
+  margin: 0; 
+  padding: 0;
+}</code></pre>
+<p>We want space between paragraphs, but the default top and bottom margins of 1em (which works out in this case to 12 pixels) won’t work with our 18 pixel grid, so we’ll set the bottom margin on paragraphs to 18 pixels. </p>
+<pre id="snippet2"><code>p { 
+  margin-bottom: 18px; 
+}</code></pre>
+<p>As we set the font size for headers, we also need to set appropriate line-heights in multiples of 18, as well as adding the 18 pixel bottom margin.</p>
+<pre id="snippet3"><code>h1 { 
+  font-size: 24px; 
+  line-height: 36px;
+  margin-bottom: 18px; 
+}
+h2 { 
+  font-size: 18px; 
+  line-height: 18px; 
+  margin-bottom: 18px;
+}
+h3 { 
+  font-size: 12px; 
+  line-height: 18px; 
+}</code></pre>
+<p>The pattern is pretty simple. Any time you add vertical space with a margin or padding, you need to add it in units of 18 pixels to maintain the baseline grid. You don’t always have to add it in one place, but you need to add it in pairs that add up to 18 pixels. For instance, you could set a top margin of 12 pixels and a bottom margin of 6 pixels.</p>
+<h2 id="section5">Lists<a class="subhead-anchor" href="#section5">#section5</a></h2>
+<p>Lists are a little bit tougher. We’re used to adding a little padding between each list item and before or after a nested list. Depending on your grid size, you may have to choose between adding a lot of extra space (adding a full grid line) or adding none at all and letting list items fall on the regular grid lines.</p>
+<p>Since the 18-pixel line-height we started with is pretty generous, the “none at all” option works pretty well here. I’ll just add the bottom margin of 18 pixels.</p>
+<pre id="snippet4"><code>ul, 
+ol { 
+  margin-bottom: 18px; 
+}</code></pre>
+<p>As for nested lists, it’s possible to add half of your line-height (in this case, 9 pixels) of margin above and below nested lists. Adding half a line to the top and another half to the bottom means the contents of the list will be “off the grid,” but the grid will get back on track once the list ends. It’s a compromise, but sometimes worth it for designs in which you need to accommodate especially long or complicated nested lists.</p>
+<h2 id="section6">Floats and sidebars<a class="subhead-anchor" href="#section6">#section6</a></h2>
+<p>Here’s where a little discipline comes in. Images and other elements floated within your text need to be sized vertically in multiples of your grid increment: in this case, multiples of 18. If they’re sized correctly, you can add margins around them that add up vertically to a multiple of 18, and the text will always break in the right place, directly under your image.</p>
+<pre id="snippet5"><code>.left { 
+  float: left; 
+  margin: 0 18px 18px 0; 
+}
+.right { 
+  float: right; 
+  margin: 0 0 18px 18px; 
+}</code></pre>
+<p>Other floated elements like callout boxes are a little bit more complicated, since it’s harder to predict their height based on the content inside. As long as all text and images inside the float follow the 18-pixel rules, and you always add vertical padding and margins in groups that add up to 18, everything should line up no matter what you put inside.</p>
+<pre id="snippet6"><code>.callout {
+  border: 1px solid #ddd;
+  padding: 8px 10px;
+  margin-bottom: 18px; 
+}</code></pre>
+<p>Notice that I added 8 pixels of padding to the top and bottom of the floated element, since the border width already accounted for 2 pixels of added height (8 + 8 + 1 + 1 = 18).</p>
+<p>I’m also going to suck out the bottom margin on the last element in the callout so we don’t end up with too much extra space inside. This isn’t a critical layout feature (the grid is still intact without it), so I’ll go ahead and use the <code>:last-child</code> pseudo class since it doesn’t require me to add any extra markup. IE6 won’t get it, but it won’t break the layout.</p>
+<pre id="snippet7"><code>.callout :last-child { 
+  margin-bottom: 0; 
+}</code></pre>
+<p>The important thing to remember with callouts and sidebars is to keep the line-height the same even if you make the text smaller. You might be tempted to tighten it up, but even for 11- or 10-pixel font sizes, 18 pixels is still a very readable line-height.</p>
+<h2 id="section7">All your baseline are belong to us<a class="subhead-anchor" href="#section7">#section7</a></h2>
+<p>You can see it all put together in this <a href="https://alistapart.github.io/code-samples/settingtypeontheweb/example.html">example</a>. If you don’t believe me, put your rulers away and check it out with the <a href="https://alistapart.github.io/code-samples/settingtypeontheweb/example_grid.html">background grid</a> visible.</p>
+<p>You can start to see why baseline grids aren’t used very often on the web. It’s pretty tough to keep up with it—especially as your layouts get more complicated—and we’ve only touched the surface of some of the relatively manageable challenges. Just as in print, baseline grids are not always the right choice for every layout, and sometimes you need to make exceptions or exclude certain elements from the grid to make a layout work.</p>
+<p>But it’s definitely possible, and something that’s worth experimenting with, especially in combination with a horizontal or column grid. A nice balanced baseline grid—even just within the main content area—can add polish and readability as we move typesetting on the web to the next generation with CSS3 and beyond.</p>
+<h2 id="section8">Don’t fear the pixel<a class="subhead-anchor" href="#section8">#section8</a></h2>
+<p>One final note on font sizing: I’m using pixels instead of ems in this example for one reason: it makes everything simpler. With pixels, I can set one base line-height for the entire document and I don’t have to recalculate it whenever I use a smaller font size. When designing a practical system like this, it’s important that it’s relatively easy (for yourself and others) to use and maintain.</p>
+<p>You <em>can</em> use relative sizes, but it quickly becomes a lot more difficult to maintain as the math becomes more complicated. It’s easy to get 12 out of 18 (just set the line-height to 1.5em), but when you want to adjust the text size but keep the same line-height, the fractions start to get messy, and predicting how browsers are going to round your values makes it hard to be exact. It’s certainly possible however, and if you’re interested in trying something similar with relative text sizes, I’d recommend checking out Richard Rutter’s excellent <a href="http://24ways.org/">24 ways</a> article, <a href="http://24ways.org/2006/compose-to-a-vertical-rhythm" title="Richard Rutter: Compost to a Vertical Rhythm">Compose to a Vertical Rhythm</a>.</p>
+<p>In the end, it’s a tradeoff. Most browsers will scale pixel-based line-heights proportionally along with the text. Of course, the margins don’t scale, and neither do the images. But is it worth making the system more complicated just to make the margins scale if the images don’t? It depends on the situation. In the end, it’s up to you.</p>
+<p>At some point as designers we have to strike a balance between creating pixel-perfect layouts and infinitely flexible ones. When you get down to it, resizable text is primarily an accessibility feature, not a design feature. Ideally it’s something that should be provided by the browser, no matter how the page is built, and in modern browsers it is. As long as all your content is readable and accessible at all sizes, it’s not necessarily true that the design must maintain integrity as you scale.</p>
+		<div class="ala-single-sidebar-wrapper sidebar-related">
+			<aside id="related" class="ala-single-sidebar-related">
+									<section class="ala-sb-rel__latest">
+						<h3 class="ala-sb-rel__latest__title">
+							Recently by Wilson Miner						</h3>
+						<article>
+							<h3 class="ala-sb-rel__latest__entry-title">
+								<a href="https://alistapart.com/article/accessibledatavisualization/">Accessible Data Visualization with Web Standards								</a></h3>
+							<div class="ala-sb-rel__latest__entry-content">When designing interfaces for browsing data-driven sites, creating navigation elements that are also visualization tools helps the user make better decisions. Wilson Miner demonstrates three techniques for incorporating data visualization into standards-based navigation patterns.</php></div>
+						</article>
+					</section>
+										<section class="ala-sb-rel__category">
+						<h3 class="ala-sb-rel__cat__title">
+							Further reading about							<a href="https://alistapart.com/blog/topic/html/">HTML</a>
+						</h3>
+													<article>
+								<h3 class="ala-sb-rel__cat__entry-title">
+									<a href="https://alistapart.com/article/conversations-with-robots/">Conversations with Robots: Voice, Smart Agents &#038; the Case for Structured Content									</a></h3>
+								<div class="ala-sb-rel__cat__entry-content">Voice user interfaces, smart software agents, and AI-powered search are changing the way users—and computers—interact with content. Whether or not you’re building services for these emerging technologies, structured content is now necessary to ensure the accuracy and integrity of your content across the evolving digital landscape.</div>
+							</article>
+														<article>
+								<h3 class="ala-sb-rel__cat__entry-title">
+									<a href="https://alistapart.com/article/tags-to-dom/">Tags to DOM									</a></h3>
+								<div class="ala-sb-rel__cat__entry-content">In the second installment of A List Apart’s four-part “From URL to Interactive” series, Travis Leithead, former editor of W3C’s HTML spec, walks us through the process of parsing HTML: from how browsers create trees to how the DOM responds to events. Equipped with this knowledge, you’ll be able to make smarter DOM decisions, reduce time to interactive, and eliminate unintended reflows.</div>
+							</article>
+												</section>
+								</aside>
+		</div>
+			</div><!-- .entry-content -->
+	</article><!-- #post-14895 -->
+
+				<footer class="ala-author">
+					<div class="ala-author__content clear">
+						<a name="panelist0"></a>
+													<h4 class="ala-author__about">About the Author</h4>
+													<div class="ala-author__avatar">
+							<img alt='' src='https://secure.gravatar.com/avatar/a8b27a7d86bf26c0830e9e24c4e60087?s=150&#038;d=mm&#038;r=g' class='avatar avatar-150 photo' height='150' width='150' loading='lazy' />						</div>
+
+						<h3 class="ala-author__name">Wilson Miner</h3>
+						<div class="ala-author__description"> Wilson Miner is the designer and cofounder of <a href="http://www.everyblock.com">EveryBlock</a>. He currently lives in San Francisco, where his wife tells him he spends way too much time indoors. He writes occasionally at
+<a href="http://www.wilsonminer.com">wilsonminer.com</a>.</div>
+					</div>
+											<aside class="ala-author__more">
+							<h3 class="ala-author__more_title">More from this author</h3>
+															<h4 class="ala-author__article">
+									<a href="https://alistapart.com/article/accessibledatavisualization/">Accessible Data Visualization with Web Standards									</a>
+								</h4>
+														</aside>
+										</footer>
+									<aside class="widget-area pre-footer-widget-area pre-footer-single">
+						<section id="custom_html-4" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="pre-footer-email-signup">
+	<strong>Get our latest articles in your inbox.</strong> <a href="https://alistapart.com/email-signup">Sign up for email alerts</a>.
+</div>
+</div></section>					</aside><!-- .pre-footer-widget-area -->
+					
+					<div class="comment-area-wrap two-column-layout">
+						
+<div id="comments" class="comments-area column-content">
+
+			<h2 class="comments-title">
+			51 Reader Comments		</h2><!-- .comments-title -->
+
+		
+		<ol class="comment-list">
+					<li id="comment-11221" class="comment even thread-even depth-1">
+			<article id="div-comment-11221" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/e711e151e517ae1b897898928cc7981c?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/e711e151e517ae1b897898928cc7981c?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://jeffcroft.com' rel='external nofollow ugc' class='url'>Jeff Croft</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11221">
+							<time datetime="2007-04-10T08:12:34-04:00">
+								April 10, 2007 at 8:12 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Great article, Wilson. Love it.</p>
+<p>I will add one point: if you take the time to get all this working one, you should be able to reuse it over and over again. Yes, getting the baseline grid right on the web is a bit tricker than it should be, but once you&#8217;d done it, it&#8217;s pretty easy to maintain.</p>
+<p>Consider building a CSS typography framework that you can reuse from project to project. We&#8217;ve recently done this at my day job, and it&#8217;s been really, really handy. Every project overrides certain aspects of the framework, but having a great starting point that already establishes a nice baseline grid is a huge time saver.</p>
+<p>Great work, my friend.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11222" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-11222" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/d0c5bf9e21396ca511fee1f2b63bf47d?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d0c5bf9e21396ca511fee1f2b63bf47d?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://warmrobot.com' rel='external nofollow ugc' class='url'>Igor Frolov</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11222">
+							<time datetime="2007-04-10T10:06:03-04:00">
+								April 10, 2007 at 10:06 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Thank you for another few reasons to use pixels instead of EMs or percents. It is very interesting question: should we use pixels or not.</p>
+<p>My opinion: using EM &#8211; it is not so complicated as it seems. You can compose vertical rythm with assimetric margins (real beaty!) and it will work even in IE6 (with JS of course). Calculating &#8211; it is not real problem for real typography fanatic 🙂<br />
+Please check this test page:<br />
+<a href="http://warmrobot.com/lab/vertical_rythm/test7.html" rel="nofollow ugc">http://warmrobot.com/lab/vertical_rythm/test7.html</a><br />
+But one BIG PROBLEM: round-up errors in&#8230; Opera. Even in the last version. Test pages for Opera:<br />
+<a href="http://www.brunildo.org/test/emarg.pl" rel="nofollow ugc">http://www.brunildo.org/test/emarg.pl</a><br />
+<a href="http://steve.pugh.net/articles/opera-bug-compfntsize-rounding.html" rel="nofollow ugc">http://steve.pugh.net/articles/opera-bug-compfntsize-rounding.html</a><br />
+So, this is the only reason why I think about using pixels in the future works.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11223" class="comment even thread-even depth-1">
+			<article id="div-comment-11223" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/1adc69408bf2dfabff0e5811711a4cbb?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/1adc69408bf2dfabff0e5811711a4cbb?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://www.rickmann-design.co.uk' rel='external nofollow ugc' class='url'>Andrew Rickmann</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11223">
+							<time datetime="2007-04-10T10:51:27-04:00">
+								April 10, 2007 at 10:51 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>I have used EMs on my site and it can get quite complicated; however, if you do most of the maths before hand it doesn&#8217;t have to be. I.e. know your base font size, margins and padding with borders and without, etc.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11224" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-11224" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/9de3faa5a67985526f121ecf8abd8e8f?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/9de3faa5a67985526f121ecf8abd8e8f?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://dorem.info' rel='external nofollow ugc' class='url'>JÃ©rÃ©mie Bouillon</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11224">
+							<time datetime="2007-04-10T11:37:04-04:00">
+								April 10, 2007 at 11:37 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>On some project, it might a good thing not to clear out the grid. Meaning, keep—some of—it visible.</p>
+<p>Having a thin, barely visible but there, line under each line of a long and complex text help some people to read it, and to do so faster and more easily. It might even be an Accessibility improvement.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11225" class="comment even thread-even depth-1">
+			<article id="div-comment-11225" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/705b835ca26c8f73a1b89659c38e7f02?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/705b835ca26c8f73a1b89659c38e7f02?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://www.thewatchmakerproject.com/' rel='external nofollow ugc' class='url'>Matthew Pennell</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11225">
+							<time datetime="2007-04-10T15:02:50-04:00">
+								April 10, 2007 at 3:02 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Steve Marshall has used the idea of a baseline grid to good effect on a &#8220;recent redesign of his site&#8221;:<a href="http://nascentguruism.com/?show=baselines" rel="nofollow ugc">http://nascentguruism.com/?show=baselines</a> which also includes optional visible baseline and layout grids.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11226" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-11226" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo avatar-default' height='120' width='120' loading='lazy'/>						<b class="fn">Peter Brown</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11226">
+							<time datetime="2007-04-10T15:47:44-04:00">
+								April 10, 2007 at 3:47 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Sidebars shouldn&#8217;t really be set on the same line height as body text. They should be set with the same &#8216;color&#8217;, that is their line height should be calculated using the same multiplier as body text. Then the first line of the sidebar should be aligned to the baseline grid with the rest hanging. How easy this is to do in html I&#8217;m not sure.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11227" class="comment even thread-even depth-1">
+			<article id="div-comment-11227" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/d0c5bf9e21396ca511fee1f2b63bf47d?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d0c5bf9e21396ca511fee1f2b63bf47d?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://warmrobot.com' rel='external nofollow ugc' class='url'>Igor Frolov</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11227">
+							<time datetime="2007-04-10T17:19:24-04:00">
+								April 10, 2007 at 5:19 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Perfect example of poor supporting of CSS by IE6. There is no vertical rythm in IE6!</p>
+<p>Of course, we can &#8220;fix it&#8221;:<a href="http://warmrobot.com/lab/vertical_rythm/test7.html" rel="nofollow ugc">http://warmrobot.com/lab/vertical_rythm/test7.html</a> by JS. But there still problem with Opera and round-up errors.</p>
+<p>I don&#8217;t want to use em, but I have to, if I think about IE6 and IE7</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11228" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-11228" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/13edf69217852930337ac59c1691cb99?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/13edf69217852930337ac59c1691cb99?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn">Matt Hobbs</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11228">
+							<time datetime="2007-04-10T17:25:45-04:00">
+								April 10, 2007 at 5:25 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Speaking of EM, great little site for pixel to em sizes. Really handy if you know your base font size.</p>
+<p><a href="http://riddle.pl/emcalc/" rel="nofollow ugc">http://riddle.pl/emcalc/</a></p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11229" class="comment even thread-even depth-1">
+			<article id="div-comment-11229" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/61d9a0d2e402db12d69b4d0d68b4eb65?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/61d9a0d2e402db12d69b4d0d68b4eb65?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://www.myspace.com/andiberg' rel='external nofollow ugc' class='url'>Handy Andy</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11229">
+							<time datetime="2007-04-10T18:19:25-04:00">
+								April 10, 2007 at 6:19 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Peter is totally right saying the sidebar does not have to be vertical aligned to the main text. If you do so you are implementing a connection that is not there. Things are different htough in a multi column layout with equal columns, e.g. the main text is in columns (not readable in the web, but it&#8217;s just an example). There between equals the alignment is good, as you will also have everything else the same (text height and so on). But a sidebar can have different text shapes and therefore should be unaligned.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11230" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-11230" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/1e26fd486cb8a2d843e0085bd1382f2b?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/1e26fd486cb8a2d843e0085bd1382f2b?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://www.markboulton.co.uk/' rel='external nofollow ugc' class='url'>Mark Boulton</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11230">
+							<time datetime="2007-04-10T18:37:07-04:00">
+								April 10, 2007 at 6:37 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Peter and Handy Andy have a point, but it&#8217;s not always the case. </p>
+<p>If the copy in a sidebar is disconnected from the flow of text, then there is good reason, if the type was smaller, then you probably shouldn&#8217;t align it to the baseline grid. However, if the copy in the sidebar were a caption to an image which is in the main content area, then aligning to the baseline grid is probably the way to go in order for that copy to feel like it belongs to the main content. It depends on the implementation of columns within the grid.</p>
+<p>You both have a good point, but it&#8217;s not quite as cut and dry as you suggest.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11231" class="comment even thread-even depth-1">
+			<article id="div-comment-11231" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/f8aa0398b5d8bd59b8f3f0b676d22f28?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/f8aa0398b5d8bd59b8f3f0b676d22f28?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://www.danielmall.com' rel='external nofollow ugc' class='url'>Dan Mall</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11231">
+							<time datetime="2007-04-10T19:21:59-04:00">
+								April 10, 2007 at 7:21 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>bq. One final note on font sizing: I&#8217;m using pixels instead of ems in this example for one reason: it makes everything simpler.</p>
+<p>True, but—you knew it was coming—where does that leave Internet Explorer?</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11232" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-11232" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/a5cd05d1d80a33931a184500aa919500?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/a5cd05d1d80a33931a184500aa919500?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://www.eltiempo.com' rel='external nofollow ugc' class='url'>matias jaramillo</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11232">
+							<time datetime="2007-04-10T19:40:46-04:00">
+								April 10, 2007 at 7:40 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Great article, </p>
+<p>but I like to use the reset.css distributed by Yahoo! to handle fonts and default values for certain html tags.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11233" class="comment even thread-even depth-1">
+			<article id="div-comment-11233" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/e711e151e517ae1b897898928cc7981c?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/e711e151e517ae1b897898928cc7981c?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://jeffcroft.com' rel='external nofollow ugc' class='url'>Jeff Croft</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11233">
+							<time datetime="2007-04-10T19:44:32-04:00">
+								April 10, 2007 at 7:44 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>It leaves the miniscule percentage of IE6 users who really need to resezie their text to either upgrade to IE7 or turn on the &#8220;Ignore font sizes&#8230;&#8221; option in their browser so IE6 will resize text sized in pixels. That IE6 can&#8217;t resize text set in pixels is a myth. I can, it jus requires you to change a setting in the options. Personally, I think if you have this unique need to resize text, then it&#8217;s your responsibility to either use a browser that supports it by default or take the time to set your up to deal with it.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11234" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-11234" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo avatar-default' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://www.meryl.net' rel='external nofollow ugc' class='url'>Meryl K. Evans</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11234">
+							<time datetime="2007-04-10T20:19:55-04:00">
+								April 10, 2007 at 8:19 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Come on now, Jeff. That&#8217;s the idealist in you speaking 😀</p>
+<p>Unfortunately, most of web design needs to accommodate realists. We comprise not only people who use the web, but people who &#8220;get&#8221; the web. Screwing with our settings is easy and commonplace for us. The staunch majority of web users likely don&#8217;t know about settings like that, or can&#8217;t find them (due to awesome MS UI design). The plain fact remains that we are designing for realistic scenarios and not always ideal ones. We can&#8217;t always take the stance of withholding information or capabilities until users meet our requirements. Remember the days of separate site versions for IE and Netscape? We now have many capabilities to make these decisions seamless, or completely agnostic, for our visitors. Let&#8217;s make a kinder, gentler web! Wanna hold hands?</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11235" class="comment even thread-even depth-1">
+			<article id="div-comment-11235" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/e711e151e517ae1b897898928cc7981c?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/e711e151e517ae1b897898928cc7981c?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://jeffcroft.com' rel='external nofollow ugc' class='url'>Jeff Croft</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11235">
+							<time datetime="2007-04-10T20:28:56-04:00">
+								April 10, 2007 at 8:28 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Let&#8217;s talk about the real world for a second.</p>
+<p>I have neck and back problems, myself. Because of that, I have to buy a decent chair and take the time to configure it for the optimal support. If I don&#8217;t, I&#8217;ll end up in pain when I&#8217;m reading a book at my desk. If I choose to sit in a crappy chair, or I choose not to configure my chair the way that is best for me, or I simply don&#8217;t learn how my chair works — whose fault is that?</p>
+<p>I&#8217;d say it&#8217;s my fault. You can maybe make an argument that it&#8217;s the chair manufacturer&#8217;s fault, because they didn&#8217;t make it easy enough for me to use my chair properly. But I don&#8217;t see any way in hell you can blame it on the book I&#8217;m reading. Do you? </p>
+<p>But anyone who says the web designer is at fault for a user not being able to resize text set in pixels in Internet Explorer is basically blaming the book, rather than the chair or the person sitting in it.</p>
+<p>The web designer has some degree of responsibility to ensure their site is accessible to the greatest amount of people possible. But, so does the browser maker and the hardware maker. And, most importantly, so does the user bear some responsibility for understanding how to use their tools. </p>
+<p>I&#8217;m sort of playing devil&#8217;s advocate here, and not necessarily saying I believe all of this explicitly &#8212; but it&#8217;s worth talking about. Doesn&#8217;t the user, especially one with unique needs, bear some responsibility for knowing how to use their tools? </p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11236" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-11236" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo avatar-default' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://www.meryl.net' rel='external nofollow ugc' class='url'>Meryl K. Evans</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11236">
+							<time datetime="2007-04-10T20:34:30-04:00">
+								April 10, 2007 at 8:34 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Sorry man, still not sold. We aren&#8217;t necessarily even talking about dire needs here, like pain. There is something still inherently technical for people about the internet, or computers, that they will not or choose not to overcome. I often think of some of my professors at school in this position; crazy smart people that are just set in their ways. There are tons of people, not even among the disabled or special needs areas, that use the internet we thrust upon them. It&#8217;s just not a fair comparison to make (chair-to-internet) because the barrier to entry is considerably more technical.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11237" class="comment even thread-even depth-1">
+			<article id="div-comment-11237" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/e711e151e517ae1b897898928cc7981c?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/e711e151e517ae1b897898928cc7981c?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://jeffcroft.com' rel='external nofollow ugc' class='url'>Jeff Croft</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11237">
+							<time datetime="2007-04-10T20:38:22-04:00">
+								April 10, 2007 at 8:38 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>&#8220;It&#8217;s just not a fair comparison to make (chair-to-internet) because the barrier to entry is considerably more technical.&#8221;</p>
+<p>Apparently you haven&#8217;t seen all the levers and dials on my Aeron chair. 🙂</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11238" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-11238" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo avatar-default' height='120' width='120' loading='lazy'/>						<b class="fn">Jan Quickels</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11238">
+							<time datetime="2007-04-10T20:40:28-04:00">
+								April 10, 2007 at 8:40 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Great article,</p>
+<p>encouraged by reading this and some other sources related to web typography in the last few weeks I created a little tool to calculate ems, px and the margins.</p>
+<p><a href="http://dev.jan-quickels.de/temp/typography/" rel="nofollow ugc">http://dev.jan-quickels.de/temp/typography/</a></p>
+<p>It isnÂ´t finally ready, but it works well if you already selected your set of font sizes&#8211;just give it a try.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11239" class="comment even thread-even depth-1">
+			<article id="div-comment-11239" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/e309664a2a492f4467bf2b092ddae3a7?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/e309664a2a492f4467bf2b092ddae3a7?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://www.okupski.name/' rel='external nofollow ugc' class='url'>Cezary Okupski</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11239">
+							<time datetime="2007-04-10T21:07:58-04:00">
+								April 10, 2007 at 9:07 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>The author justifying pixels instead of ems seems to be unaware of the &#8220;unitless line heights possibility&#8221;:<a href="http://meyerweb.com/eric/thoughts/2006/02/08/unitless-line-heights/" rel="nofollow ugc">http://meyerweb.com/eric/thoughts/2006/02/08/unitless-line-heights/</a></p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11240" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-11240" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/e711e151e517ae1b897898928cc7981c?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/e711e151e517ae1b897898928cc7981c?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://jeffcroft.com' rel='external nofollow ugc' class='url'>Jeff Croft</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11240">
+							<time datetime="2007-04-10T21:47:40-04:00">
+								April 10, 2007 at 9:47 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Having worked with Wilson for the better part of a year, and as someone who has to maintain a lot of the CSS he wrote, I can assure you he knows about unitless line lengths.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11241" class="comment even thread-even depth-1">
+			<article id="div-comment-11241" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/a9d024f5032b8de04d7c74528beb77ab?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/a9d024f5032b8de04d7c74528beb77ab?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://topfunky.com' rel='external nofollow ugc' class='url'>Geoffrey Grosenbach</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11241">
+							<time datetime="2007-04-10T21:57:23-04:00">
+								April 10, 2007 at 9:57 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>I wrote a javascript-powered baseline calculator that uses ems and does the math for you:</p>
+<p><a href="http://topfunky.com/baseline-rhythm-calculator/" rel="nofollow ugc">http://topfunky.com/baseline-rhythm-calculator/</a></p>
+<p>In use here:</p>
+<p><a href="http://peepcode.com" rel="nofollow ugc">http://peepcode.com</a></p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11242" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-11242" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/a8b27a7d86bf26c0830e9e24c4e60087?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/a8b27a7d86bf26c0830e9e24c4e60087?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://wilsonminer.com' rel='external nofollow ugc' class='url'>Wilson Miner</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11242">
+							<time datetime="2007-04-10T21:59:23-04:00">
+								April 10, 2007 at 9:59 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Dan, you&#8217;re right, using pixels again does beg the question: what about Internet Explorer? Obviously that question is out of the scope of the article, but certainly not the discussion. I&#8217;ve recorded some of my thoughts on it &#8220;here&#8221;:<a href="http://www.wilsonminer.com/posts/2007/mar/16/problem-pixels/" rel="nofollow ugc">http://www.wilsonminer.com/posts/2007/mar/16/problem-pixels/</a>, but I don&#8217;t think those that relate to IE are fleshed-out enough to warrant a practical recommendation. The practical outcome is that we can&#8217;t ignore IE6 yet, and IE7 hasn&#8217;t fully solved the problem yet.</p>
+<p>I do think it&#8217;s important to frame the discussion around this as an accessibility problem with a browser, and what we as designers have a responsibility to do to work around that problem so our users don&#8217;t have to.</p>
+<p>A lot of the response I&#8217;ve seen to weighing the merits of using pixels again boils down to something along the lines of _Didn&#8217;t we solve this problem already? Use ems._ I see the point, but I&#8217;m not sure I buy it. The problem is solved the same way the problem with IE5&#8217;s box model was solved with Tantek&#8217;s hack. Which is to say it wasn&#8217;t really a permanent solution. Richard&#8217;s &#8220;62.5% technique&#8221;:<a href="http://clagnut.com/blog/348/" rel="nofollow ugc">http://clagnut.com/blog/348/</a>, like Tantek&#8217;s box model hack, is a clever workaround for a broken browser&#8211;it&#8217;s a (very good) hack.</p>
+<p>There&#8217;s nothing wrong with a hack, but it&#8217;s not ideal and it&#8217;s not permanent. It&#8217;s what we can do with the resources at hand. With the perfect concoction of unusual percentages and fractions, we can almost achieve something as simple and basic as sizing body text at 12 point, headers at 18 point and sidebars at 11 point.</p>
+<p>You might say I&#8217;m overstating the complexity. It&#8217;s not that bad, really. Just keep a calculator handy, or use one of the tools available and deal with it. But this is baby games. We&#8217;re not even out of the gates and already it&#8217;s this complicated. We&#8217;re not even doing anything advanced here. We&#8217;re sizing text. Think what we could be devoting all this ingenuity and clever hackery to accomplishing if IE just worked right.</p>
+<p>So you can say that it&#8217;s not really that complicated, and that you don&#8217;t see any real benefit to using pixels and I&#8217;m not going to argue with you. Every project has different requirements and different constraints. Ems are a great tool for dealing with relative sizing, but I honestly don&#8217;t think it&#8217;s sustainable to use them as a universal measure. </p>
+<p>The hacks work for now, and it&#8217;s our responsibility as designers to do whatever we can to build accessibility into our sites. But the root problem is in one browser, and the browser maker also has a responsibility to build accessibility into the browser. Microsoft says they want to build a better browser, and we&#8217;ve seen them follow through somewhat by clearing up some of the most glaring rendering problems and deficiencies. But there&#8217;s a lot left to fix.</p>
+<p>Incidentally Dan, I like your technique of using pixels for browsers that can handle them responsibly, and giving IE a relative font size so users can still resize the text. I just wish it didn&#8217;t have to come to maintaining two separate type scales, especially when the main benefit I get out of using pixels in the first place is simplicity.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11243" class="comment even thread-even depth-1">
+			<article id="div-comment-11243" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/a8b27a7d86bf26c0830e9e24c4e60087?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/a8b27a7d86bf26c0830e9e24c4e60087?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://wilsonminer.com' rel='external nofollow ugc' class='url'>Wilson Miner</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11243">
+							<time datetime="2007-04-10T22:03:00-04:00">
+								April 10, 2007 at 10:03 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>I am familiar with unitless line-heights and use them a lot. But since they adapt relative to the size of the text they don&#8217;t really solve the problem of maintaining a consistent line-height as the text size changes. For example, a line-height value of 1.5 with no unit will calculate to an 18px line-height for 12px text, and a 15px line-height for 10px text.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11244" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-11244" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/139a52b7c01328cc01a1ed1f2f5f4785?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/139a52b7c01328cc01a1ed1f2f5f4785?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn">Michelangelo Iaffaldano</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11244">
+							<time datetime="2007-04-10T22:09:42-04:00">
+								April 10, 2007 at 10:09 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Mandy, the history of the &#8220;origin of the baseline&#8221;:<a href="http://www.alistapart.com/comments/settingtypeontheweb?page=1#10" rel="nofollow ugc">http://www.alistapart.com/comments/settingtypeontheweb?page=1#10</a> is interesting but it does not account for its importance in modern graphic design. Just like the convention of paragraph indentation survives the practice of hand-painting initials (or printing red pilcrows, depending who you ask), the baseline grid found a use as a structuring device, even for cases when paper transparency is not an issue.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11245" class="comment even thread-even depth-1">
+			<article id="div-comment-11245" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/1dd7e118ec01d9bd83f0cee0beecfe11?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/1dd7e118ec01d9bd83f0cee0beecfe11?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://www.loveandwartx.com' rel='external nofollow ugc' class='url'>amber simmons</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11245">
+							<time datetime="2007-04-10T22:19:50-04:00">
+								April 10, 2007 at 10:19 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Nothing to add except to comment that I really loved the article (and many of the comments. Loved the history of the baseline). Got me thinking about typography in a new way, which I always appreciate. Thanks.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11246" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-11246" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/06fcc2d3a0ca49b9dfef14e064170cba?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/06fcc2d3a0ca49b9dfef14e064170cba?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://jakobj.dk' rel='external nofollow ugc' class='url'>Jakob Jensen</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11246">
+							<time datetime="2007-04-10T22:49:50-04:00">
+								April 10, 2007 at 10:49 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>I do not know if it is just me(Firefox2@Ubuntu), but the lines in the callout does not line up with the basegrid. Should there not be the following in the embedded CSS:</p>
+<p>.callout img {<br />
+   padding-bottom:10px;<br />
+}</p>
+<p>Nice article though!</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11247" class="comment even thread-even depth-1">
+			<article id="div-comment-11247" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/dfaaeb0113b62e92cf6d1ece89933503?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/dfaaeb0113b62e92cf6d1ece89933503?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://emological.com' rel='external nofollow ugc' class='url'>John Lascurettes</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11247">
+							<time datetime="2007-04-10T22:55:42-04:00">
+								April 10, 2007 at 10:55 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>When speaking of &#8220;average users&#8221;? using IE as is, IE&#8217;s inability to scale pixels is not akin to our sites being the book and the browser an uncomfortable chair that the user deliberately chose and choses to leave as is. Metaphorically, I think it&#8217;s more like we&#8217;re building drive-through windows that can only accommodate the shortest, most-eco-friendly cars, even though most of the public drives gas-guzzling SUVs that cannot match up to the drive-through window. Sure, they&#8217;re not responsible in their actions; but they don&#8217;t care (or more-likely aren&#8217;t aware) and will pass right by our (to them) ugly, inaccessible window.</p>
+<p>If we want to make a difference or a paycheck or otherwise be heard, we should make things pleasant to that majority as well. This includes drawing them in and telling them to trade in their &#8220;SUVs.&#8221;?</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11248" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-11248" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/e711e151e517ae1b897898928cc7981c?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/e711e151e517ae1b897898928cc7981c?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://jeffcroft.com' rel='external nofollow ugc' class='url'>Jeff Croft</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11248">
+							<time datetime="2007-04-10T23:28:42-04:00">
+								April 10, 2007 at 11:28 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>So you&#8217;re saying that &#8220;most of the public&#8221; needs to resize their text in IE6 and can&#8217;t? I disagree. Yes, a lot of people still use IE6 (about 35%, according to the stats of our newspaper sites), but very, very few of those actually need to resize text.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11249" class="comment even thread-even depth-1">
+			<article id="div-comment-11249" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/f8aa0398b5d8bd59b8f3f0b676d22f28?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/f8aa0398b5d8bd59b8f3f0b676d22f28?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://www.danielmall.com' rel='external nofollow ugc' class='url'>Dan Mall</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11249">
+							<time datetime="2007-04-10T23:50:25-04:00">
+								April 10, 2007 at 11:50 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>First of all, I apologize for turning this into a &#8220;how should I size text?&#8221; thread. While it&#8217;s related to the article, it&#8217;s not really the main premise. That being said, I think there is definitely a great discussion happening.</p>
+<p>&#8220;Wilson&#8221;:<a href="http://alistapart.com/comments/settingtypeontheweb?page=3#23" rel="nofollow ugc">http://alistapart.com/comments/settingtypeontheweb?page=3#23</a>: </p>
+<p>bq. Every project has different requirements and different constraints. Ems are a great tool for dealing with relative sizing, but I honestly don&#8217;t think it&#8217;s sustainable to use them as a universal measure.</p>
+<p>Right on. I agree that sizing text in pixels _should_ be the way to go. However, the web is about the people that use it. Although it _is_ the responsibility of the browser makers, the fact is that we should accomodate the browsers&#8217; shortcomings for the greater good of making web sites as usable as they can be to people of various capacities. </p>
+<p>All that isn&#8217;t to say that I disagree with you; I totally support your point and think that it can&#8217;t be emphasized enough.</p>
+<p>bq. Incidentally Dan, I like your technique of using pixels for browsers that can handle them responsibly, and giving IE a relative font size so users can still resize the text.</p>
+<p>Aw, shucks.</p>
+<p>bq. I just wish it didn&#8217;t have to come to maintaining two separate type scales, especially when the main benefit I get out of using pixels in the first place is simplicity.</p>
+<p>Too true. However, until a version of IE supports scaling pixels (and not this wannabe page zoom thing), it&#8217;s a fallback method that will have to stay.</p>
+<p>&#8220;Jeff&#8221;:<a href="http://alistapart.com/comments/settingtypeontheweb?page=3#29" rel="nofollow ugc">http://alistapart.com/comments/settingtypeontheweb?page=3#29</a>:</p>
+<p>bq. Yes, a lot of people still use IE6&#8243;¦ but very, very few of those actually need to resize text.</p>
+<p>Really? I&#8217;d love to see some stats on that&#8221;¦ 🙂</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11250" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-11250" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/dfaaeb0113b62e92cf6d1ece89933503?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/dfaaeb0113b62e92cf6d1ece89933503?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://emological.com' rel='external nofollow ugc' class='url'>John Lascurettes</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11250">
+							<time datetime="2007-04-10T23:53:51-04:00">
+								April 10, 2007 at 11:53 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>I certainly don&#8217;t have the luxury of IE&lt;7 users representing anything less than the majority of users for my employer's site. Even if it was only 35%, that could be an awful lot of users to turn away just because they are unable to easily customize the display.</p>
+<p>I hear what you're saying though when it comes to most of them not wanting or needing to change the font-size. You're absolutely right there. To back you up even further: for those that do want to scale using IE 6 or below, odds say that the majority of them have no clue how to do that. Even when the font is scalable (with ems and the like), many aren't aware that changing "View > Text Size&#8221; will have any effect (especially if they&#8217;ve tried it on the average site that uses pixels). </p>
+<p>So you&#8217;re right in that there&#8217;s less need than usually stated to support text scalability in IE&lt;7—but I still find it lazy (personally) to not put forth a little effort that could benefit those users and earn their undying affection and loyalty. </p>
+<p>Disclaimer: My views are for commercial or public-need sites. For personal sites, I'm getting more and more of the view that I want to be deliberately exclusive of IE including 7. I agree that browser-makers own some of the responsibility and IE 7 with it's hasLayout component is still doing things that are holding back the status quo of the Web.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11251" class="comment even thread-even depth-1">
+			<article id="div-comment-11251" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/e711e151e517ae1b897898928cc7981c?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/e711e151e517ae1b897898928cc7981c?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://jeffcroft.com' rel='external nofollow ugc' class='url'>Jeff Croft</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11251">
+							<time datetime="2007-04-11T01:31:40-04:00">
+								April 11, 2007 at 1:31 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>bq. Really? I&#8217;d love to see some stats on that&#8221;¦ 🙂</p>
+<p>Heh. I wish. I admit that I&#8217;m just making an edcated guess. We have no way of now how many of those IE6 users actually need to resize their text. But, it&#8217;s safe to assume it&#8217;s a pretty small number, isn&#8217;t it? If we, as good designers, are choosing reasonable font sizes to begin with, then it ought to only be people with low vision and no glasses to accomodate for it that really *need* to resize text, right?</p>
+<p>I have no supporting stats, but I can&#8217;t see how this could possibly be a very big number.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11252" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-11252" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/e711e151e517ae1b897898928cc7981c?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/e711e151e517ae1b897898928cc7981c?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://jeffcroft.com' rel='external nofollow ugc' class='url'>Jeff Croft</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11252">
+							<time datetime="2007-04-11T01:41:04-04:00">
+								April 11, 2007 at 1:41 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>John, I basically agree with everything yo&#8217;ve said. The bototm line on text resizing is that it boils down to the same thing every design decision does: know your audience, know your product, and know it&#8217;s goals. Not every site *needs* perfect text resizing. Not every site has only about 35% of it&#8217;s users on IE6 (although, our newspaper sites serve a very general audience, so I&#8217;d expect that&#8217;s a typical-ish number). And so forth. </p>
+<p>To prove that I believe that it depends on the siuation, i&#8217;d point to BoomerGirl.com, a site I recently designed using all ems (both for type and layout) to ensure great text resizability. Why? Because that site is aimed at an older user, who is more likely to have low vision.</p>
+<p>&#8220;Lazy&#8221; is a pretty touchy word to use, though. It&#8217;s not about personal work eithic, it&#8217;s about business decisions. If I decide that text resizability it&#8217;s a priority, it&#8217;s because the extra time put into making it happen doesn&#8217;t warrant the benefit. There are only so many resources to go around, and if it&#8217;s determined by the project manager than there&#8217;s a minimal need for text resizing, and a very large need for some whizzy flash widget that is going to directly bring in dollars, then the flash widget will oten win. This is pure business. It&#8217;s not personal, it&#8217;s not lazy, it&#8217;s not insensitive. It&#8217;s just about business. For that reason, I&#8217;d avoid calling any web designer &#8220;lazy&#8221; when you don&#8217;t know what the limitations and demands they were working under was.</p>
+<p>But, overall, I agree with you. 🙂</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11253" class="comment even thread-even depth-1">
+			<article id="div-comment-11253" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/e711e151e517ae1b897898928cc7981c?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/e711e151e517ae1b897898928cc7981c?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://jeffcroft.com' rel='external nofollow ugc' class='url'>Jeff Croft</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11253">
+							<time datetime="2007-04-11T03:52:38-04:00">
+								April 11, 2007 at 3:52 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Kevin&#8217;s illustration for this piece is freaking awesome. Great work, Cornell.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11254" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-11254" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/eb41505c25c812090e4f314cd2356f84?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/eb41505c25c812090e4f314cd2356f84?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn">Kris Hull</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11254">
+							<time datetime="2007-04-11T04:36:21-04:00">
+								April 11, 2007 at 4:36 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>I sort of hate to admit it, but I like the way IE handles text sizing. Since IE will resize text set in EMs and not in PX, it allows the savvy designer to make some text on the page resizable by the user, and force other text to remain fixed.</p>
+<p>This allows you to let the user scale up the body copy to a more readable size without blowing out your navigation or causing fragile UI elements to look broken. If a user absolutely has to resize all the text on the screen they can do that (as mentioned in comment #14).</p>
+<p>Because it is much easier to set fonts in pixels, it would be ideal if IE would allow fonts set in pixels to be resized AND there were also a CSS property that would dis-allow font resizing when and where the designer desires it.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11255" class="comment even thread-even depth-1">
+			<article id="div-comment-11255" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/4a53ddda0a04b71e88edd5da49031e13?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/4a53ddda0a04b71e88edd5da49031e13?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://www.joncalex.com' rel='external nofollow ugc' class='url'>Matthew Hunt</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11255">
+							<time datetime="2007-04-11T09:15:01-04:00">
+								April 11, 2007 at 9:15 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Great article. It helped me a lot. Designing in pixels helps maintain the baseline grid. As a matter of which measuring unit to use for font-size, it is what works well for the design. Accessibility can be achieved in many ways. Every project does not have to be px the same goes for ems. I agree with Jeff Croft. Good lesson Wilson, Thanks.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11256" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-11256" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/315bcce23471921f6a3f320319019fb0?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/315bcce23471921f6a3f320319019fb0?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn">Szabolcs sinka</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11256">
+							<time datetime="2007-04-11T13:04:37-04:00">
+								April 11, 2007 at 1:04 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>I think giving the text sizes in pixels is just OK. Anyway when designing a layout for the web i design in pixels (photoshop, fireworks), i set up rules in pixels.</p>
+<p>Unless i design something really basic that does not get messed up when scaling, i think using pixels for text sizing is just better (and easier) to get closer to that layout i designed in photoshop. If you don&#8217;t use stylsheets you don&#8217;t use font sizes, so it doesn&#8217;t matter if you gave them in ems or pxs.</p>
+<p>I think in some way a layout is about pixelperfection, when designing you have to make decisions, it is all about decisions. You put down exact sizes, spaces etc. and you design to see exactly the same &#8211; as much as possible &#8211;  result in the browser. So why not use pixels?</p>
+<p>But maybe i am not right.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11257" class="comment even thread-even depth-1">
+			<article id="div-comment-11257" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/d4176f6bb8693964fe2de1a597c74a88?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/d4176f6bb8693964fe2de1a597c74a88?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://milianw.de' rel='external nofollow ugc' class='url'>Milian Wolff</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11257">
+							<time datetime="2007-04-11T20:50:25-04:00">
+								April 11, 2007 at 8:50 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Hey, thanks for the great article. It inspired me to write &#8220;TypoGridder&#8221;, it&#8217;s a little javascript you can use on your sites to display a grid overlay.</p>
+<p>Have a look on: <a href="http://milianw.de/projects/typogridder" rel="nofollow ugc">http://milianw.de/projects/typogridder</a></p>
+<p>Also note that I wrote a bookmarklet version (see link above).</p>
+<p>Hope it helps the one or the other of you.</p>
+<p>Greatings</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11258" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-11258" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/eab88934d506808a1838d4e28dec0f72?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/eab88934d506808a1838d4e28dec0f72?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://squaredeye.com' rel='external nofollow ugc' class='url'>matthew Smith</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11258">
+							<time datetime="2007-04-13T17:02:50-04:00">
+								April 13, 2007 at 5:02 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Is it fair to suggest that for some sites its reasonable that anything less than modern will not have the same quality of typographical rhythms as those that are modern? At what point does settiing our type to the grid become a point of usability (readability) that might appeal to accessability (I&#8217;m going bility bility bility crazy!). Progressive enhancement right? I&#8217;m still working out where to draw the line on these things &#8211; which of course is always dependent on a myriad of other factors, but nonetheless, what thinks you folks?</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11259" class="comment even thread-even depth-1">
+			<article id="div-comment-11259" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/dfaaeb0113b62e92cf6d1ece89933503?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/dfaaeb0113b62e92cf6d1ece89933503?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://emological.com' rel='external nofollow ugc' class='url'>John Lascurettes</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11259">
+							<time datetime="2007-04-13T20:14:21-04:00">
+								April 13, 2007 at 8:14 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Matthew, I think your question is a good one. For those that are in IE-mac or IE-5.5 or lower, I think they are used to a less than stellar experience online (not that they are necessarily even aware of it). The extra mile of adjusting the baseline can be appreciated by those with more modern browsers, and for the time-being also for the 800-pound (but shrinking) gorilla, IE6. For older browser users, I think they&#8217;re happy if a site doesn&#8217;t have a broken layout; but they&#8217;re certainly used to many visual quirks and shortcoming in their browsers. A baseline grid is probably the last thing to worry about in those browsers to get perfect.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11260" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-11260" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/5c00a3f0fa37c2c1dd16312f6f87eb7a?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/5c00a3f0fa37c2c1dd16312f6f87eb7a?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://www.fuelledoncoffee.com' rel='external nofollow ugc' class='url'>Rob Swan</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11260">
+							<time datetime="2007-04-20T14:50:30-04:00">
+								April 20, 2007 at 2:50 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>I find that typographers look at me with a certain kind of hatred.</p>
+<p>I annoy them be telling them they can&#8217;t use the Font they want to and that because of flexible font sizes the can&#8217;t position every word exactly where they want it. I now _finally_ have something I can offer them as a token of peace 🙂 </p>
+<p>Thanks for a good read Wilson, and an eminently useful technique. Good stuff.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11261" class="comment even thread-even depth-1">
+			<article id="div-comment-11261" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/bc7e893b6d4605000478c871b7ce8862?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/bc7e893b6d4605000478c871b7ce8862?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://darwinweb.net/' rel='external nofollow ugc' class='url'>Gabe da Silveira</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11261">
+							<time datetime="2007-05-08T09:24:42-04:00">
+								May 8, 2007 at 9:24 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>I&#8217;ve been out of the web design loop for a while, having been mired in programming work, but I&#8217;m surprised how much debate can flare up over the simple use of @px@ units.  Wilson predicted it and took measures to head it off right in the article, but still people obsess over it.</p>
+<p>I&#8217;ll be honest here.  I use px quite a bit.  I&#8217;m lazy, I admit it.  There are a lot of CSS techniques I want to develop and work with, but in the world of client work most of these ideas go on the extremely long list of nice-to-haves.  Even clueful clients are not likely to be impressed by immaculate code.  They would rather have their project done a week sooner and $1000 cheaper.</p>
+<p>So even though @em@ over a bit clearer advantage than other types of pedantry (think @b@ vs @strong@), I&#8217;m not interested in using it as some kind of litmus test.  This article was interesting to me because it&#8217;s a novel idea (on the web anyway).  I welcome discussion of the merits of the article, but I could do without the endless debates over a tangential issue.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11262" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-11262" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/7dc6870b37fb6d2436e0a3af29e8a1ee?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/7dc6870b37fb6d2436e0a3af29e8a1ee?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn">bill hibbert</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11262">
+							<time datetime="2007-05-17T20:24:09-04:00">
+								May 17, 2007 at 8:24 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>I&#8217;m a very occasional css user (thank God) and tried to use this design for a banal little site I&#8217;m working on. I have a list that wraps round a callout box and it won&#8217;t align in IE. If anybody&#8217;s got a solution to this I&#8217;d be pleased to hear it, but meanwhile can someone tell my why CSS has to be so hard? Every time I come back to it I seem to waste a day trying to do something that any reasonable person would consider trivial&#8230;</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11263" class="comment even thread-even depth-1">
+			<article id="div-comment-11263" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo avatar-default' height='120' width='120' loading='lazy'/>						<b class="fn">Charles Belov</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11263">
+							<time datetime="2007-05-22T23:28:01-04:00">
+								May 22, 2007 at 11:28 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>1. That person you&#8217;re shutting out of your site is one of the biggest taggers on del.icio.us, and their personal blog has a high Google page rank.  Wouldn&#8217;t you like a link from them?<br />
+2. Your competition doesn&#8217;t use px on their site.</p>
+<p>Actually, I note the example page in this article with the grid showing doesn&#8217;t line up on the grid once you get a certain part of the way down the page.  Firefox 2.0.0.3, default font Verdana 16, minimum font Verdana 14.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11264" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-11264" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo avatar-default' height='120' width='120' loading='lazy'/>						<b class="fn">Florian Kriener</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11264">
+							<time datetime="2007-06-14T11:46:06-04:00">
+								June 14, 2007 at 11:46 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>I wrote some &#8220;Javascript&#8221;:<a href="http://societe-electronique.de/javascripts/theme/setting_type_on_the_web_to_a_baseline_grid.js" rel="nofollow ugc">http://societe-electronique.de/javascripts/theme/setting_type_on_the_web_to_a_baseline_grid.js</a> to auto-adjust image padding to fit the image to the grid. Adding some background and border; viola. (No example though; that blog is to new..)</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11265" class="comment even thread-even depth-1">
+			<article id="div-comment-11265" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo avatar-default' height='120' width='120' loading='lazy'/>						<b class="fn">Steve Dill</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11265">
+							<time datetime="2007-11-03T19:48:58-04:00">
+								November 3, 2007 at 7:48 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>I have been working with a baseline grid ever since I read this article. I have found a few things I don&#8217;t care about, and have had some problems finding a work-a-round, but all that aside, I like the way it looks on a page, and have kept it.</p>
+<p>I&#8217;m still new to the EM world, so I have been using pixels for a long time now.  </p>
+<p>One question&#8230; why can&#8217;t font sizes in px be resized? And why can&#8217;t the line-height be adjusted upon resizing on of the text?</p>
+<p>I don&#8217;t have IE6 installed these days, so I have no idea of the problems px fonts cause. I guess I should up my reading knowledge!</p>
+<p>Anyways, great work. It was a good read!</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11266" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-11266" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/e0bf9d12cf84a30972eeb1e1c78d7e69?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/e0bf9d12cf84a30972eeb1e1c78d7e69?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://www.natural-life.ca' rel='external nofollow ugc' class='url'>Louis Lazaris</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11266">
+							<time datetime="2008-02-22T07:05:24-05:00">
+								February 22, 2008 at 7:05 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Nice article, but thought I&#8217;d mention that there&#8217;s a small but almost humorous spelling error in the title tag for the link to &#8220;Compose to a Vertical Rhythm&#8221;. The title tag says &#8220;Compost to a Vertical Rhythm&#8221;. I hope the author of that article is not offended. :o)</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11267" class="comment even thread-even depth-1">
+			<article id="div-comment-11267" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/43fe0787300d88fcf59e77aedefb9957?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/43fe0787300d88fcf59e77aedefb9957?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://www.korbinianpolk.com' rel='external nofollow ugc' class='url'>korbinian polk</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11267">
+							<time datetime="2009-03-24T20:34:28-04:00">
+								March 24, 2009 at 8:34 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>i am trying to set up a baseline grid for myself. i have to say it&#8217;s pretty easy if you take only block elements like headings and paragraphs into account, and if you don&#8217;t care if at some font-size/font-family combinations you won&#8217;t get a pixel-precise baseline grid. what really gives me headaches are forms and tables. is there any example of anybody doing this pixel-perfect?</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11268" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-11268" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/aee29d5db583115e19c3cb6a414fcbf6?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/aee29d5db583115e19c3cb6a414fcbf6?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://www.mortgagesbuytolet.com' rel='external nofollow ugc' class='url'>kareng</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11268">
+							<time datetime="2010-02-20T13:38:27-05:00">
+								February 20, 2010 at 1:38 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>I do agree with Mandy, the sidebar type should be set to a leading that is appropriate to it&#8217;s size and face and this can vary on each page, not the size and face of the paragraph it sits next to. This is a common mistake I have seen.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11269" class="comment even thread-even depth-1">
+			<article id="div-comment-11269" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/bda7008056d4a2175ff046fde7fc0d72?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/bda7008056d4a2175ff046fde7fc0d72?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://www.smullindesign.com' rel='external nofollow ugc' class='url'>smullindesign</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11269">
+							<time datetime="2010-03-04T23:41:45-05:00">
+								March 4, 2010 at 11:41 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>You could add the gridbg.gif to all your pages, or make custom ones if your baseline is not always 18px&#8211;OR you could try this handy JavaScript bookmark link (follow url below to find it) and have it dynamically overlay grids for you on top of any page you visit:</p>
+<p><a href="http://github.com/mikesmullin/Text-Gridder" rel="nofollow ugc">http://github.com/mikesmullin/Text-Gridder</a></p>
+<p>Enjoy! 🙂</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11270" class="comment odd alt thread-odd thread-alt depth-1">
+			<article id="div-comment-11270" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/13386587788365dc45a0ccc9d3e9595c?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/13386587788365dc45a0ccc9d3e9595c?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn"><a href='http://www.sccc.premiumdw.com/' rel='external nofollow ugc' class='url'>msinkula</a></b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11270">
+							<time datetime="2011-02-19T02:19:32-05:00">
+								February 19, 2011 at 2:19 am							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>As much as the choice of type is important, the appropriate use of typographic measurements and white-space is an important tool of the trade when &#8220;setting type for the web&#8221;:<a href="http://www.sccc.premiumdw.com/web112/setting-type-for-the-web/" rel="nofollow ugc">http://www.sccc.premiumdw.com/web112/setting-type-for-the-web/</a>.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		<li id="comment-11271" class="comment even thread-even depth-1">
+			<article id="div-comment-11271" class="comment-body">
+				<footer class="comment-meta">
+					<div class="comment-author vcard">
+						<img alt='' src='https://secure.gravatar.com/avatar/69e24302ff196afd5349051ff337bf64?s=120&#038;d=mm&#038;r=g' srcset='https://secure.gravatar.com/avatar/69e24302ff196afd5349051ff337bf64?s=240&#038;d=mm&#038;r=g 2x' class='avatar avatar-120 photo' height='120' width='120' loading='lazy'/>						<b class="fn">lousmith</b> <span class="says">says:</span>					</div><!-- .comment-author -->
+
+					<div class="comment-metadata">
+						<a href="https://alistapart.com/article/settingtypeontheweb/#comment-11271">
+							<time datetime="2011-08-28T18:26:32-04:00">
+								August 28, 2011 at 6:26 pm							</time>
+						</a>
+											</div><!-- .comment-metadata -->
+
+									</footer><!-- .comment-meta -->
+
+				<div class="comment-content">
+					<p>Thanks for bringing a favorite print topic of mine to the web design table! </p>
+<p>To help with the calculation of baselines, and picture heights, I use InDesign to do my early mockups. It might seem unheard of in the web world, but I have found that it helps me test the look and feel of my grids in advance before committing to a single grid, and the time and investment needed to calculate each individual piece of the site.</p>
+<p>And once I&#8217;m in the implementation phase, I always keep a post-it note full of grid multiples (18, 36, 54, &#8230; and way up) on my screen for resizing pictures, and setting CSS info on the fly.</p>
+				</div><!-- .comment-content -->
+
+							</article><!-- .comment-body -->
+		</li><!-- #comment-## -->
+		</ol><!-- .comment-list -->
+
+				<div class="comments-off">
+			<h3 class="comments-off-title"> Got something to say?</h3>
+			<p class="no-comments">We have turned off comments, but you can see what folks had to say before we did so.</p>
+		</div>
+		
+</div><!-- #comments -->
+	<div class="column-sidebar ala-posts">
+		<h2 class="section-title">More from ALA</h2>
+				<article id="post-7172436" class="home-post-content post-7172436 article type-article status-publish has-post-thumbnail hentry category-industry category-industry-business">
+
+				<header class="entry-header">
+					<h4 class="home-post-title"><a href="https://alistapart.com/article/webwaste/" rel="bookmark">Webwaste</a></h4>					<div class="entry-meta">
+						<span class="byline"> by <span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"><a class="url fn n" href="https://alistapart.com/author/gmcgovern/" itemprop="url"> <span itemprop="name">Gerry McGovern</span></a></span></span>					</div><!-- .entry-meta -->
+				</header><!-- .entry-header -->
+
+				<div class="entry-content">
+					In this excerpt from World Wide Waste, Gerry McGovern examines the environmental impact of bloated websites and unnecessary assets.				</div><!-- .entry-content -->
+				<footer class="footer-meta entry-meta">
+					<span class="cat-links"><a href="https://alistapart.com/blog/topic/industry/" rel="category tag">Industry</a></span><span class="posted-on"><time class="entry-date published" datetime="2020-07-09T10:30:00-04:00">July 09, 2020</time><time class="updated" datetime="2020-07-07T16:01:48-04:00">July 07, 2020</time></span>				</footer><!-- .entry-meta -->
+
+
+			</article><!-- #post-## -->
+
+						<article id="post-7172433" class="home-post-content post-7172433 article type-article status-publish has-post-thumbnail hentry category-career category-creativity">
+
+				<header class="entry-header">
+					<h4 class="home-post-title"><a href="https://alistapart.com/article/creative-culture-excerpt/" rel="bookmark">Connecting the Dots</a></h4>					<div class="entry-meta">
+						<span class="byline"> by <span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"><a class="url fn n" href="https://alistapart.com/author/justindauer/" itemprop="url"> <span itemprop="name">Justin Dauer</span></a></span></span>					</div><!-- .entry-meta -->
+				</header><!-- .entry-header -->
+
+				<div class="entry-content">
+					In this excerpt from Creative Culture, Justin Dauer walks us through many ways in which an organizations’ culture and the design work that it does play off of one another.				</div><!-- .entry-content -->
+				<footer class="footer-meta entry-meta">
+					<span class="cat-links"><a href="https://alistapart.com/blog/topic/career/" rel="category tag">Career</a></span><span class="posted-on"><time class="entry-date published" datetime="2020-07-02T10:00:00-04:00">July 02, 2020</time><time class="updated" datetime="2020-07-02T20:14:40-04:00">July 02, 2020</time></span>				</footer><!-- .entry-meta -->
+
+
+			</article><!-- #post-## -->
+
+						<article id="post-7172417" class="home-post-content post-7172417 article type-article status-publish has-post-thumbnail hentry category-interaction-design category-user-experience">
+
+				<header class="entry-header">
+					<h4 class="home-post-title"><a href="https://alistapart.com/article/engaged-excerpt/" rel="bookmark">Mr. Roboto: Connecting with Technology</a></h4>					<div class="entry-meta">
+						<span class="byline"> by <span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"><a class="url fn n" href="https://alistapart.com/author/amy-bucher/" itemprop="url"> <span itemprop="name">Amy Bucher</span></a></span></span>					</div><!-- .entry-meta -->
+				</header><!-- .entry-header -->
+
+				<div class="entry-content">
+					Amy Bucher shares insights into using personalization to create meaningful user experiences.				</div><!-- .entry-content -->
+				<footer class="footer-meta entry-meta">
+					<span class="cat-links"><a href="https://alistapart.com/blog/topic/interaction-design/" rel="category tag">Interaction Design</a></span><span class="posted-on"><time class="entry-date published" datetime="2020-06-25T10:00:00-04:00">June 25, 2020</time><time class="updated" datetime="2020-06-25T08:13:23-04:00">June 25, 2020</time></span>				</footer><!-- .entry-meta -->
+
+
+			</article><!-- #post-## -->
+
+						<article id="post-7172382" class="home-post-content post-7172382 article type-article status-publish hentry category-accessibility category-design category-user-experience">
+
+				<header class="entry-header">
+					<h4 class="home-post-title"><a href="https://alistapart.com/article/a-designers-life-with-color-vision-deficiency/" rel="bookmark">Color Craft &amp; Counterpoint: A Designer&#8217;s Life with Color Vision Deficiency</a></h4>					<div class="entry-meta">
+						<span class="byline"> by <span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"><a class="url fn n" href="https://alistapart.com/author/noah-glushien/" itemprop="url"> <span itemprop="name">Noah Glushien</span></a></span></span>					</div><!-- .entry-meta -->
+				</header><!-- .entry-header -->
+
+				<div class="entry-content">
+					Noah Glushien shares the ins and outs of creating a successful career in web, despite being color blind.				</div><!-- .entry-content -->
+				<footer class="footer-meta entry-meta">
+					<span class="cat-links"><a href="https://alistapart.com/blog/topic/accessibility/" rel="category tag">Accessibility</a></span><span class="posted-on"><time class="entry-date published" datetime="2020-06-11T10:31:12-04:00">June 11, 2020</time><time class="updated" datetime="2020-06-11T11:33:27-04:00">June 11, 2020</time></span>				</footer><!-- .entry-meta -->
+
+
+			</article><!-- #post-## -->
+
+						<article id="post-7172403" class="home-post-content post-7172403 article type-article status-publish hentry category-accessibility category-industry category-industry-business">
+
+				<header class="entry-header">
+					<h4 class="home-post-title"><a href="https://alistapart.com/article/building-the-woke-web/" rel="bookmark">Building the Woke Web: Web Accessibility, Inclusion &amp; Social Justice</a></h4>					<div class="entry-meta">
+						<span class="byline"> by <span class="author vcard" itemprop="author" itemscope itemtype="http://schema.org/Person"><a class="url fn n" href="https://alistapart.com/author/olu-niyiawosusi/" itemprop="url"> <span itemprop="name">Olu Niyiawosusi</span></a></span></span>					</div><!-- .entry-meta -->
+				</header><!-- .entry-header -->
+
+				<div class="entry-content">
+					Building a more inclusive internet goes far beyond making our code more accessible. Olu offers a thoughtful approach to a more welcoming web.				</div><!-- .entry-content -->
+				<footer class="footer-meta entry-meta">
+					<span class="cat-links"><a href="https://alistapart.com/blog/topic/accessibility/" rel="category tag">Accessibility</a></span><span class="posted-on"><time class="entry-date published" datetime="2020-06-11T10:30:00-04:00">June 11, 2020</time><time class="updated" datetime="2020-06-11T21:34:47-04:00">June 11, 2020</time></span>				</footer><!-- .entry-meta -->
+
+
+			</article><!-- #post-## -->
+
+			
+	
+</div><!-- .home-post-wrap clear -->
+
+					</div>
+					
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+</div><!-- #content -->
+
+	<div class="widget-area header-widget">
+		<section id="custom_html-5" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="banner">
+	<a href="https://link.chtbl.com/wireframe?sid=podcast.alistapart">
+	<img class="banner-logo" src="assets/a6bea7cea5f159dbec58f8f24c3f481d.jpg" alt="Wireframe podcast banner">
+	<p>Wireframe is a podcast all about how UX can help technology fit into our lives.</p>
+	</a>
+</div></div></section>	</div><!-- .header-widget -->
+	
+<footer id="colophon" class="site-footer" itemscope itemtype="https://schema.org/WebPage">
+	<nav class="footer-navigation footer navigation-top"  itemscope itemtype="http://schema.org/SiteNavigationElement">
+		<div class="menu-footer-pages-container"><ul id="footer-top-left-menu" class="footer-top-left-menu"><li id="menu-item-6000544" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6000544"><a href="https://alistapart.com/about/" itemprop="url">About</a></li>
+<li id="menu-item-6000545" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6000545"><a href="https://alistapart.com/authors/" itemprop="url">Authors</a></li>
+<li id="menu-item-6000546" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6000546"><a href="https://alistapart.com/about/masthead/" itemprop="url">Masthead</a></li>
+<li id="menu-item-6000547" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6000547"><a href="https://alistapart.com/about/style-guide/" itemprop="url">Style Guide</a></li>
+<li id="menu-item-6000548" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6000548"><a href="https://alistapart.com/contact/" itemprop="url">Contact</a></li>
+<li id="menu-item-6000549" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6000549"><a href="https://alistapart.com/about/sponsor/" itemprop="url">Sponsorships</a></li>
+</ul></div><div class="menu-footer-social-container"><ul id="footer-top-right-menu" class="footer-top-right-menu"><li id="menu-item-6000550" class="footer-menu-title menu-item menu-item-type-custom menu-item-object-custom menu-item-6000550"><a itemprop="url">Follow us:</a></li>
+<li id="menu-item-7171602" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-7171602"><a href="https://alistapart.com/about/rss-feed/" itemprop="url">RSS</a></li>
+<li id="menu-item-6000552" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6000552"><a href="https://alistapart.com/email-signup/" itemprop="url">Email</a></li>
+<li id="menu-item-6000553" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6000553"><a href="https://www.facebook.com/alistapart" itemprop="url">Facebook</a></li>
+<li id="menu-item-6000554" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6000554"><a href="https://www.twitter.com/alistapart" itemprop="url">Twitter</a></li>
+</ul></div>	</nav>
+			<div class="widget-area footer-widget-area-wrap">
+			<div class="widget-area footer-widget-area">
+				<section id="custom_html-7" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="footer-promo">
+	<a href="https://abookapart.com">
+							<img src="assets/fc29d02109682122a3c4f53b165cc399.jpg" alt="A Book Apart. Brief books for people who design, write, and code.">
+		<div class="footer-promo-copy">
+				<p class="promo-title">A Book Apart</p>
+				<p>Brief books for people who design, write, and code.</p>
+				<p>Bundle books and save!</p>
+				<p class="arrow">Shop now</p>
+						</div>
+			</a>
+</div>
+
+</div></section><section id="custom_html-8" class="widget_text widget widget_custom_html"><div class="textwidget custom-html-widget"><div class="footer-promo">
+		<a href="https://aneventapart.com">
+			<img src="assets/bab083d704cecc192a24e32877c67615.png" alt="An Event Apart. Three days of design, code, and content for people who make websites.">
+			<div class="footer-promo-copy">
+					<p class="promo-title">An Event Apart</p>
+						<p>Three days of design, code, and content for people who make websites.</p>
+							<p class="arrow">See  this year’s schedule</p>
+			</div>
+						</a>
+</div></div></section>			</div>
+		</div>
+
+		
+	<div class="site-info-wrap">
+		<div class="site-info">
+			ISSN 1534-0295 &middot; Copyright &copy; <span itemprop="copyrightYear"> 1998–2020</span> <span itemprop="copyrightHolder"> A List Apart &amp; Our Authors</span>			<span class="sep"> | </span>
+			<a href="https://wordpress.com/">
+				Proudly powered by WordPress			</a>
+		</div><!-- .site-info -->
+	</div><!-- .site-info-wrap -->
+
+	<nav class="footer-navigation footer navigation-bottom">
+		<ul id="footer-bottom-left-menu" class="footer-bottom-left-menu"><li id="menu-item-6000555" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6000555"><a href="https://alistapart.com/about/copyright/" itemprop="url">Permissions &#038; Copyright</a></li>
+<li id="menu-item-6000556" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-privacy-policy menu-item-6000556"><a href="https://alistapart.com/about/privacy-policy/" itemprop="url">Privacy Policy</a></li>
+<li id="menu-item-6000558" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-6000558"><a href="https://webtype.com/" itemprop="url">Fonts by Webtype</a></li>
+</ul><ul id="footer-bottom-right-menu" class="footer-bottom-right-menu"><li id="menu-item-6000559" class="aea menu-item menu-item-type-custom menu-item-object-custom menu-item-6000559"><a href="http://aneventapart.com/" itemprop="url"><span class="screen-reader-text">An Event Apart</span></a></li>
+<li id="menu-item-6000560" class="aba menu-item menu-item-type-custom menu-item-object-custom menu-item-6000560"><a href="http://abookapart.com/" itemprop="url"><span class="screen-reader-text">A Book Apart</span></a></li>
+</ul>	</nav>
+</footer><!-- #colophon -->
+</div><!-- #page -->
+	<div style="display:none">
+	<div class="grofile-hash-map-a8b27a7d86bf26c0830e9e24c4e60087">
+	</div>
+	<div class="grofile-hash-map-e711e151e517ae1b897898928cc7981c">
+	</div>
+	<div class="grofile-hash-map-d0c5bf9e21396ca511fee1f2b63bf47d">
+	</div>
+	<div class="grofile-hash-map-1adc69408bf2dfabff0e5811711a4cbb">
+	</div>
+	<div class="grofile-hash-map-9de3faa5a67985526f121ecf8abd8e8f">
+	</div>
+	<div class="grofile-hash-map-705b835ca26c8f73a1b89659c38e7f02">
+	</div>
+	<div class="grofile-hash-map-13edf69217852930337ac59c1691cb99">
+	</div>
+	<div class="grofile-hash-map-61d9a0d2e402db12d69b4d0d68b4eb65">
+	</div>
+	<div class="grofile-hash-map-1e26fd486cb8a2d843e0085bd1382f2b">
+	</div>
+	<div class="grofile-hash-map-f8aa0398b5d8bd59b8f3f0b676d22f28">
+	</div>
+	<div class="grofile-hash-map-a5cd05d1d80a33931a184500aa919500">
+	</div>
+	<div class="grofile-hash-map-e309664a2a492f4467bf2b092ddae3a7">
+	</div>
+	<div class="grofile-hash-map-a9d024f5032b8de04d7c74528beb77ab">
+	</div>
+	<div class="grofile-hash-map-139a52b7c01328cc01a1ed1f2f5f4785">
+	</div>
+	<div class="grofile-hash-map-1dd7e118ec01d9bd83f0cee0beecfe11">
+	</div>
+	<div class="grofile-hash-map-06fcc2d3a0ca49b9dfef14e064170cba">
+	</div>
+	<div class="grofile-hash-map-dfaaeb0113b62e92cf6d1ece89933503">
+	</div>
+	<div class="grofile-hash-map-7a98caaa0af0112d26f74c939fc6a3c2">
+	</div>
+	<div class="grofile-hash-map-4a53ddda0a04b71e88edd5da49031e13">
+	</div>
+	<div class="grofile-hash-map-315bcce23471921f6a3f320319019fb0">
+	</div>
+	<div class="grofile-hash-map-d4176f6bb8693964fe2de1a597c74a88">
+	</div>
+	<div class="grofile-hash-map-eab88934d506808a1838d4e28dec0f72">
+	</div>
+	<div class="grofile-hash-map-5c00a3f0fa37c2c1dd16312f6f87eb7a">
+	</div>
+	<div class="grofile-hash-map-bc7e893b6d4605000478c871b7ce8862">
+	</div>
+	<div class="grofile-hash-map-7dc6870b37fb6d2436e0a3af29e8a1ee">
+	</div>
+	<div class="grofile-hash-map-e0bf9d12cf84a30972eeb1e1c78d7e69">
+	</div>
+	<div class="grofile-hash-map-43fe0787300d88fcf59e77aedefb9957">
+	</div>
+	<div class="grofile-hash-map-aee29d5db583115e19c3cb6a414fcbf6">
+	</div>
+	<div class="grofile-hash-map-bda7008056d4a2175ff046fde7fc0d72">
+	</div>
+	<div class="grofile-hash-map-13386587788365dc45a0ccc9d3e9595c">
+	</div>
+	<div class="grofile-hash-map-69e24302ff196afd5349051ff337bf64">
+	</div>
+	</div>
+	<!-- Google Analytics -->
+<script>
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m) 
+	})(window,document,'script','//www.google-analytics.com/analytics.js','ga');  
+
+	ga('create', 'UA-11757054-1', 'auto'); 
+	ga('send', 'pageview');  
+</script>
+<!-- End Google Analytics -->
+	
+	<script type="text/javascript">
+		window.WPCOM_sharing_counts = {"https:\/\/alistapart.com\/article\/settingtypeontheweb\/":14895};
+	</script>
+				<script type='text/javascript' src='assets/4aa5a2d901f4b129e38536c0738d9d2e.js'></script>
+<script src='assets/fd23e8b74f84c0c7aef38d4d0ab0d01d.js' id='grofiles-cards-js'></script>
+<script id='wpgroho-js-extra'>
+var WPGroHo = {"my_hash":""};
+</script>
+<script type='text/javascript' src='assets/3c863b106c61c3fcc0e2ccf045d9cfcd'></script>
+<script id='sharing-js-js-extra'>
+var sharing_js_options = {"lang":"en","counts":"1","is_stats_active":"1"};
+</script>
+<script src='assets/296c7f1d0e4b532f74b59faa1bc19ead.1' id='sharing-js-js'></script>
+<script id='sharing-js-js-after'>
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-facebook', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
+				return false;
+			});
+var windowOpen;
+			jQuery( document.body ).on( 'click', 'a.share-twitter', function() {
+				// If there's another sharing window open, close it.
+				if ( 'undefined' !== typeof windowOpen ) {
+					windowOpen.close();
+				}
+				windowOpen = window.open( jQuery( this ).attr( 'href' ), 'wpcomtwitter', 'menubar=1,resizable=1,width=600,height=350' );
+				return false;
+			});
+</script>
+<script type='text/javascript' src='assets/6e532d876e58b3b2b14f6e6f5380096b.js' async='async' defer='defer'></script>
+<script type='text/javascript'>
+	_stq = window._stq || [];
+	_stq.push([ 'view', {v:'ext',j:'1:8.7.1',blog:'158094726',post:'14895',tz:'-4',srv:'alistapart.com'} ]);
+	_stq.push([ 'clickTrackerInit', '158094726', '14895' ]);
+</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"949ceaf672","applicationID":"156780203","transactionName":"MQZWYhAFXhdYAUBfWwhMdVUWDV8KFhFdWFMKBg==","queueTime":0,"applicationTime":351,"atts":"HUFBFFgfTUgbAxYMTxse","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<div style="position:fixed;top:0;left:0;width:100%;height:45px;z-index:2147483647;background-color:rgba(253,147,38,0.90) !important;color:black !important;text-align:right !important;font:normal 12px/45px Arial, sans-serif !important;border-radius:0 !important;margin:0 !important;max-width:100% !important;background-repeat: no-repeat !important;background-position: 15px center !important;
+background-image: url(data:image/png;base64,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);
+"><span style="padding-right:15px;">You are viewing a snapshot of <a style='font-weight:bold !important; color:white !important' href='http://www.alistapart.com/articles/settingtypeontheweb'>http://www.alistapart.com/articles/settingtypeontheweb</a> created on 2020/08/12</span></div></body>
+</html>

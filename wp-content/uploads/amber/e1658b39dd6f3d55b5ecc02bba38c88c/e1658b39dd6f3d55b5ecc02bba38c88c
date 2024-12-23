@@ -1,0 +1,909 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+  <title>The casino experience - Signal vs. Noise (by 37signals)</title>
+  <link rel="Stylesheet" href="assets/f41514328193c339732a2c25db9d55c6.css" type="text/css" media="screen">
+  <link rel="Stylesheet" href="assets/f41514328193c339732a2c25db9d55c6.css" type="text/css" media="print">
+</head>
+
+<body class="perma">
+
+<div id="Container">
+
+  
+  <div id="Content">
+
+  <div class="post">
+  <div class="post_header">
+    <h2>The casino experience <span class="nobreak"><span class="author">Matt</span> <span class="date">04 Oct 2006</span></span>
+</h2>
+<h3>
+<a href="#comments">43 comments</a>
+
+Latest by 
+Andrey Kovalenko
+    
+    </h3>
+    </div>
+
+    <p><img src="assets/5d166a3afc611c8e0f6297dc2360b346.png" width="156" height="419" alt="casino" style="margin: 0 10px 5px 0" align="left">From a design/experience perspective, casinos are fascinating places:</p>
+
+<p>1) There are no windows. Gamblers have no idea whether it&#8217;s light or dark or sunny or rainy outside. </p>
+
+<p>2) There are no clocks. Dealers are forbidden from wearing watches. Time becomes meaningless.</p>
+
+<p>3) There&#8217;s intentionally poor navigation. They are built like mazes meaning it&#8217;s usually tough to find a way out.</p>
+
+<p>4) There&#8217;s a constant barrage of noises. Slot machines spin, games ding and dong, coins hit metal, there&#8217;s the pitter patter of the people running the games, etc. Many of these sounds, like the ringing of the slots, is there <a href="http://www.ildado.com/article15.html">to give you a false sense of hope</a> (&#8220;If all of those bells are ringing, somebody must be winning!&#8221;). </p>
+
+<p>5) <a href="http://www.homepokergames.com/slottips.php">Loose slot machines</a> &#8212; ones that pay out more often &#8212; are placed near highly trafficked areas (e.g. the aisles, change booth, restaurants, etc.) so more people witness winners.</p>
+
+<p>6) There&#8217;s <a href="http://pilarski.casinocitytimes.com/articles/5795.html">constant research</a> on all aspects of the sensory experience: scents, colors, interior design, and the angles of lights (e.g. light that hits people&#8217;s foreheads is a no-no because it apparently drains gamblers of energy).</p>
+
+<p>7) The attire (or lack thereof) of everyone who works there contributes to the atmosphere (e.g. dealers in uniforms, pit bosses in suits, servers in skimpy outfits, etc.)</p>
+
+<p>8) Free booze is delivered to gamblers without them having to get up.</p>
+
+<p>9) It&#8217;s not a passive experience. Gamblers are made to feel like they influence the process. And when a gambler feels they can affect the outcome &#8212; by throwing the die, choosing a roulette number, or deciding when to split at blackjack &#8212; <a href="http://news.bbc.co.uk/1/hi/magazine/5013038.stm">a feeling of control develops that keeps them gambling longer</a>.</p>
+
+<p><img src="assets/28acbbcff28098620c6bd5b4bc5a8215.jpg" width="90" height="300" alt="floor" style="margin: 0 0 5px 10px" align="right">10) There&#8217;s a constant rhythm. Everything happens at regular intervals. Dice are rolled. Cards are dealt. Wheels are spun. Bets are placed. And then it happens again. (Interesting note: Casinos have slowly phased out deck shuffling by installing automatic shufflers. Gamblers used to get a break while dealers reshuffled. Now it&#8217;s a constant flow of cards <a href="http://info.detnews.com/casino/newdetails.cfm?column=grochowski&amp;myrec=55">which increases the number of hands per hour</a> &#8212; and that means more money for the house.)</p>
+
+<p>11) There are players cards which get frequent gamblers free nights, food, and room upgrades.</p>
+
+<p>12) There&#8217;s a palpable energy in the room. Money&#8217;s on the line. It&#8217;s a big night out. People are paying attention. Everyone&#8217;s engaged.</p>
+
+<p>13) <a href="http://news.bbc.co.uk/1/hi/magazine/5013038.stm">Some say</a> casinos are pumped full of oxygen so gamblers feel more awake and energetic. (Others say this is just <a href="http://pilarski.casinocitytimes.com/articles/5795.html">a myth</a> that, if true, would result in a tremendous fire hazard.) </p>
+
+<p>14) The funnel pours one way. There are thousands of places to hand over money to the casino. Every craps table, blackjack table, roulette wheel, and slot machine will take your cash. Yet there&#8217;s only one place to get paid out in bills: the cashier window. And to get there, you&#8217;ve got to pass all those other places that want to take your money.</p>
+
+<p>The result: a completely immersive and compelling customer experience. It&#8217;s no wonder some people <a href="http://www.safety-council.org/info/community/gambling.html">don&#8217;t know when to stop</a>.</p>
+
+
+    <div id="a001425more"><div id="more">
+      
+
+    </div></div>
+  </div>
+
+
+<!-- Google ad -->			
+
+<div class="comments" id="comments">
+<div class="commentsbg">
+<h2>43 comments so far 
+          <span class="jumptolatest">(<a href="#c41061">Jump to latest</a>)</span>
+    
+        </h2>
+
+  
+  <div id="c40873" class="comment
+    
+  ">
+  <h3>
+<span class="author">
+    
+          <a href="http://www.kapowaz.net/" rel="nofollow">Ben Darlow</a>
+    
+  </span> <span class="date">04 Oct 06</span>
+</h3>
+  <p>Compare this to Ikea; you have to follow a single route around the shop which takes you on a winding path through a massive, convoluted showroom (there are shortcuts, but they&#8217;re very well hidden). After you&#8217;ve been through the showroom, they have a cafe/restaurant. Get refreshed, have a drink or something to eat. Then get ready for the next round: the marketplace. The next level of Ikea then barrages you with a combination of goods that are conspicuously cheap, but that you may not actually need along with the rather more expensive items that you really came for. Then there&#8217;s the absence of pricing information on the actual items: only the shelves carry prices, so once you have an item in your trolley you only have your short-term memory to remind you how much pointless stuff you&#8217;ve accumulated - up until the point of checkout when you&#8217;re ambushed by a total some 20% more than you expected. And cheap hotdogs. Gotta have hotdogs after walking around Ikea for 3 hours&#8230;</p>
+  </div>
+  
+  
+  
+  
+  
+  <div id="c40877" class="comment
+    
+  ">
+  <h3>
+<span class="author">
+    
+          <a href="http://www.simplisticcomplexity.com" rel="nofollow">Jon Maddox</a>
+    
+  </span> <span class="date">04 Oct 06</span>
+</h3>
+  <p>One of my favorites is the bathrooms. The typical layout allows the user to enter the bathroom from one entrance, and exit on the other side, placing them smack dab in the middle of the casino. And practically clueless where the entrance was.</p>
+  </div>
+  
+  <div id="c40878" class="comment
+    
+  ">
+  <h3>
+<span class="author">
+    
+          <a href="http://www.simplisticcomplexity.com" rel="nofollow">Jon Maddox</a>
+    
+  </span> <span class="date">04 Oct 06</span>
+</h3>
+  <p>One of my favorites is the bathrooms. The typical layout allows the user to enter the bathroom from one entrance, and exit on the other side, placing them smack dab in the middle of the casino. And practically clueless where the entrance was.</p>
+  </div>
+  
+  <div id="c40879" class="comment
+    
+  ">
+  <h3>
+<span class="author">
+    
+          Dez
+    
+  </span> <span class="date">04 Oct 06</span>
+</h3>
+  <p>Star City in Sydney is an interesting mix of casino design and tailoring your content to your consumers&#8230; and in doing so, is very foreign to Americans used to Vegas..</p>
+
+<p>While there&#8217;s still no natural light&#8230;</p>
+
+<p>- Exit signs and Clocks are everywhere. </p>
+
+<p>- Cash Bar throughout, no real roving servers.</p>
+
+<p>- Complete void of noise / excitement. No sounds from the slots, no real screaming from the floor&#8230;. Feels like people game there because they can, not because it&#8217;s the place to be on a Friday night. </p>
+
+<p>Now the exit signs and cash bar are probably due to laws, etc.. but the lack of excitement was really different. From what I was told it&#8217;s because they get an older crowd who are more bent on studying the numbers and playing rather then the perceived throwing your money away style of Vegas&#8230;</p>
+
+<p>And only 1 craps table.. sad&#8230;<br>
+</p>
+  </div>
+  
+  <div id="c40881" class="comment
+    
+  ">
+  <h3>
+<span class="author">
+    
+          Joe Ruby
+    
+  </span> <span class="date">04 Oct 06</span>
+</h3>
+  <p><i>Some say casinos are pumped full of oxygen so gamblers feel more awake and energetic. (Others say this is just a myth that, if true, would result in a tremendous fire hazard.)</i></p>
+
+<p>Myth. Never seen all the smokers in casinos? Plus I think it&#8217;d take a huge amount of oxygen to actually become dangerous, but it&#8217;d all waft out the doors before reaching those levels.</p>
+  </div>
+  
+  <div id="c40884" class="comment
+    
+  ">
+  <h3>
+<span class="author">
+    
+          Ryan Turner
+    
+  </span> <span class="date">04 Oct 06</span>
+</h3>
+  <p>Fascinating conversation. </p>
+
+<p>I was struck once on a trip through (not to) Las Vegas that the experience of the strip is a lot like the experience of Disneyland&#8212;everything&#8217;s a fake version of something else: You can go to ancient Egypt, voyage with pirates, etc. </p>
+
+<p>My theory is that the effect is the same in both places: You&#8217;re transported into a transparently-artificial simularcum experience, where your hard-earned money takes on the same quality of pretendedness as everything else, making it easier to part with $100 at the blackjack table or $7 for a cotton candy. </p>
+  </div>
+  
+  <div id="c40891" class="comment
+    
+  ">
+  <h3>
+<span class="author">
+    
+          Avi
+    
+  </span> <span class="date">04 Oct 06</span>
+</h3>
+  <p>I&#8217;m convinced that the reason you guys are capable of developing such amazing software (forget about Rails, cause I think only divine inspiration could create that genius) is your ability to analyze experience as thoroughly as a casino.  I dub 37Signals, the casino of web2.0 (obviously in methodology, not function).</p>
+  </div>
+  
+  <div id="c40892" class="comment
+    
+  ">
+  <h3>
+<span class="author">
+    
+          <a href="http://www.joerockhead.com" rel="nofollow">SP</a>
+    
+  </span> <span class="date">04 Oct 06</span>
+</h3>
+  <p><i>&#8230;coins hit metal&#8230;</i></p>
+
+<p>Not so much anymore. On my last trip to Vegas (my first visit in quite awhile) there were no coins to be seen or heard anywhere. It was all done with debit card-type things. I was kinda bummed&#8230; I always liked the sound of coins dropping.</p>
+  </div>
+  
+  
+  
+  <div id="c40899" class="comment
+    
+  ">
+  <h3>
+<span class="author">
+    
+          Joe Ruby
+    
+  </span> <span class="date">04 Oct 06</span>
+</h3>
+  <p>re: oxygen</p>
+
+<p>If anything, you&#8217;d think the casinos would want to pipe in gas that&#8217;d make patrons <i>less alert and energetic (and more willing to take leave of their senses, like alcohol does) &#8212; say carbon monoxide or nitrous oxide perhaps! ;P</i></p>
+  </div>
+  
+  <div id="c40904" class="comment
+    
+  ">
+  <h3>
+<span class="author">
+    
+          <a href="http://www.pet-comfort-products.com" rel="nofollow">John S. Rhodes</a>
+    
+  </span> <span class="date">04 Oct 06</span>
+</h3>
+  <p>I&#8217;m interested in casino design but also casino designers. Who are these people? How are they trained? How do they think? What do they know? How much of their experience really overlaps or translates to web design? Do they focus on people, product, and process? I could go on and on. </p>
+  </div>
+  
+  
+  
+  <div id="c40911" class="comment
+    
+  ">
+  <h3>
+<span class="author">
+    
+          <a href="http://www.ratevegas.com/blog/" rel="nofollow">Hunter</a>
+    
+  </span> <span class="date">04 Oct 06</span>
+</h3>
+  <p>BTW, great topic.</p>
+
+<p>I could go on for hours and hours on some of the nuances in these places. It&#8217;s truly amazing.</p>
+
+<p>Friends ask me why I like Vegas so much. They assume its the gambling but while I do sometimes play, that&#8217;s not it at all.</p>
+
+<p>No other place on earth can economically sustain these mega-resorts and they are some of the most interesting buildings every built.</p>
+
+<p>I toured the back of house at Bellagio - truly amazing mini-city underground.</p>
+  </div>
+  
+  <div id="c40912" class="comment
+    
+  ">
+  <h3>
+<span class="author">
+    
+          Joe Ruby
+    
+  </span> <span class="date">04 Oct 06</span>
+</h3>
+  <p><i>Most don’t have clocks around but I think that’s more of a design aesthetic thing - have you seen a clock that would look good in the heavily themed ancient Rome of Caesars Palace?</i></p>
+
+<p>Totally disagree with that. Slot machines don&#8217;t fit the theme of Rome or Caesars Palace. It&#8217;d be easily possible to design a clock that fits in with that theme (and surely has been done). Casinos don&#8217;t have clocks so you can&#8217;t keep track of how much time you&#8217;re wasting.</p>
+  </div>
+  
+  
+  
+  <div id="c40916" class="comment
+    
+  ">
+  <h3>
+<span class="author">
+    
+          Hunter 
+    
+  </span> <span class="date">04 Oct 06</span>
+</h3>
+  <p>Joe - I&#8217;m not sure how much research you&#8217;ve done to back up your assertion but most casino designers today would disagree with you. In all the interviews we&#8217;ve done, these guys laugh at the idea of &#8216;fooling&#8217; customers by not including clocks. They just don&#8217;t worry about this type of thing that much anymore (whether they did in the past is somewhat of an open question depending on who you ask).</p>
+
+<p>Michael&#8217;s right about the Friedman book - that&#8217;s the book I was referring to in the post above, &#8216;Designing Casinos to Dominate The Competition&#8217;. Expensive book but very cool.</p>
+
+<p>The other interesting thing to note is the shift in the revenue mix. As recent as 10 years ago, the revenue mix was about 90% gaming, 10% other stuff (hotel, food, shows).</p>
+
+<p>These days it is about 50/50 at most major Strip properties. Where rooms, food and shows used to be loss leaders that weren&#8217;t expecting to make money, they are now huge revenue generators (have you noticed a sharp rise in room rates?) that equal and are set to surpass gambling as the main source of income. This diversification of revenue is one of the very interesting changes in the industry in recent history.</p>
+
+<p>Hunter</p>
+  </div>
+  
+  <div id="c40917" class="comment
+    
+  ">
+  <h3>
+<span class="author">
+    
+          Joe Ruby
+    
+  </span> <span class="date">04 Oct 06</span>
+</h3>
+  <p>Hunter: I <i>have</i> read interviews with casino designers in which they stated the reason there aren&#8217;t any clocks is to minimize patrons noticing the passage of time.</p>
+
+<p>I think the designers would laugh at the notice that they couldn&#8217;t design a clock that fit a certain theme! You gotta admit that&#8217;s an extraordinarily weak reason for clocks not being in casinos.</p>
+  </div>
+  
+  <div id="c40919" class="comment
+    
+  ">
+  <h3>
+<span class="author">
+    
+          Joe Ruby
+    
+  </span> <span class="date">04 Oct 06</span>
+</h3>
+  <p>^ /notice/notion/</p>
+  </div>
+  
+  <div id="c40922" class="comment
+    
+  ">
+  <h3>
+<span class="author">
+    
+          Hunter 
+    
+  </span> <span class="date">04 Oct 06</span>
+</h3>
+  <p>Joe,</p>
+
+<p>I certainly don&#8217;t think that&#8217;s the only reason they aren&#8217;t there - looking back I can see how maybe it sounds that way and of course that wouldn&#8217;t be the only reason to not include one&#8230; Still, I am thinking of the floor at Bellagio and wondering where a clock would add to the design aesthetic and I can&#8217;t really think of one but that&#8217;s beside the point&#8230; There is really no fear of time being displayed in casinos these days and that&#8217;s straight out of Wynn&#8217;s mouth from the audio interview posted on my site.</p>
+
+<p>Different designers have different motivations and the overall point of my post was to emphasize how priorities in casino design have radically shifted over time. Two major shifts in the past 15 years (heavily into themes as one and now away from themes as a second). What I was getting at was that the stuff in the original post reflect the rules of casino design in the past. It&#8217;s really a whole new ball game these days.</p>
+
+<p>What designers or designs do you most admire or have interest in?</p>
+  </div>
+  
+  <div id="c40927" class="comment
+    
+  ">
+  <h3>
+<span class="author">
+    
+          <a href="http://morningglass.org/" rel="nofollow">Robert</a>
+    
+  </span> <span class="date">04 Oct 06</span>
+</h3>
+  <p>I&#8217;m not sure about a fear of patrons knowing the time in casinos, but as of last week, the Bellagio casino had no clocks, and the only natural light was near the entrances/exits (like near the mall). It was better lit and felt less stuffy then Caesar&#8217;s Palace, but the post&#8217;s observations still fit. </p>
+  </div>
+  
+  <div id="c40928" class="comment
+    
+  ">
+  <h3>
+<span class="author">
+    
+          <a href="http://www.lowerdown.com" rel="nofollow">Dave</a>
+    
+  </span> <span class="date">04 Oct 06</span>
+</h3>
+  <p>Great post! A truely great read!</p>
+  </div>
+  
+  <div id="c40930" class="comment
+    
+  ">
+  <h3>
+<span class="author">
+    
+          <a href="http://www.ratevegas.com/blog/" rel="nofollow">Hunter</a>
+    
+  </span> <span class="date">04 Oct 06</span>
+</h3>
+  <p>Bellagio has skylights in the conservatory and the Via Bellagio shops, as well as windows overlooking the lake via the Fontana Lounge.</p>
+
+<p>Wynn Las Vegas expands on the light factor significantly but Encore, the WLV expansion, will really be the place to use skylights all over the place. From the plans that we saw, a huge garden sits next to the casino. It is under construction now and should be pretty interesting.</p>
+
+<p>Bellagio was the last of the resorts built in that style. We&#8217;re now seeing a new class of design come about. Very exciting stuff.</p>
+
+<p>Interesting note on Caesars Palace - they purposefully removed the apostrophe from the name because they wanted &#8216;everyone to feel like a Caesar&#8217;, thus no possessive apostrophe.</p>
+  </div>
+  
+  <div id="c40931" class="comment
+    
+  ">
+  <h3>
+<span class="author">
+    
+          <a href="http://www.door64.com" rel="nofollow">Matt</a>
+    
+  </span> <span class="date">04 Oct 06</span>
+</h3>
+  <p>I had heard that the bells and other sounds in a casino were purposefully &#8220;tuned&#8221; (selected) to a certain musical key&#8230;such that it not a bunch of random sounds, but rather more pleasing to the ears.</p>
+  </div>
+  
+  <div id="c40934" class="comment
+    
+  ">
+  <h3>
+<span class="author">
+    
+          Hunter
+    
+  </span> <span class="date">04 Oct 06</span>
+</h3>
+  <p>Oh yeah, the audio stuff is very well planned out.</p>
+
+<p>Even now that Ticket-In Ticket-Out (TITO) slots have replaced coins, the machines still make the noise of the coins going into the hopper.</p>
+
+<p>Even when they still used coins, the hopper was coated in a special type of metal to make a certain noise.</p>
+
+<p>All very, very deliberate.</p>
+  </div>
+  
+  
+  
+  <div id="c40936" class="comment
+    
+  ">
+  <h3>
+<span class="author">
+    
+          George
+    
+  </span> <span class="date">04 Oct 06</span>
+</h3>
+  <p>Don&#8217;t know what casino you go to, but the one I work at don&#8217;t forbid the workers from wearing a watch. That would be stupid, how would workers know when their break is over? </p>
+  </div>
+  
+  <div id="c40949" class="comment
+    
+  ">
+  <h3>
+<span class="author">
+    
+          Joe Ruby
+    
+  </span> <span class="date">04 Oct 06</span>
+</h3>
+  <p><i>Bellagio has skylights in the conservatory and the Via Bellagio shops, as well as windows overlooking the lake via the Fontana Lounge.</i></p>
+
+<p>So? None of those areas would be considered part of the casino(s).</p>
+  </div>
+  
+  <div id="c40952" class="comment
+    
+  ">
+  <h3>
+<span class="author">
+    
+          <a href="http://www.design2please.com" rel="nofollow">Anindya</a>
+    
+  </span> <span class="date">05 Oct 06</span>
+</h3>
+  <p>Great post. Thanks Matt!</p>
+  </div>
+  
+  <div id="c40954" class="comment
+    
+  ">
+  <h3>
+<span class="author">
+    
+          <a href="http://www.schmoes.info/asian.html" rel="nofollow">asian pics</a>
+    
+  </span> <span class="date">05 Oct 06</span>
+</h3>
+  <p>Very interesting article, thanks.</p>
+  </div>
+  
+  
+  
+  <div id="c40966" class="comment
+    
+  ">
+  <h3>
+<span class="author">
+    
+          Rick
+    
+  </span> <span class="date">05 Oct 06</span>
+</h3>
+  <p>Joe: don&#8217;t listen to &#8220;Hunter&#8221;&#8230; he runs a website that paints Vegas in a favorable light, OF COURSE he&#8217;ll try to play down some of the dirty tricks casinos use to take your money.</p>
+
+<p>You&#8217;ve already caught him in a couple of lies already. <br>
+Don&#8217;t listen to his disinformation. </p>
+  </div>
+  
+  <div id="c40970" class="comment
+    
+  ">
+  <h3>
+<span class="author">
+    
+          <a href="http://evanrose.com" rel="nofollow">Evan</a>
+    
+  </span> <span class="date">05 Oct 06</span>
+</h3>
+  <p>I was going to say something about watches, but George beat me to it.  Every last dealer I dealt with on a recent trip to Las Vegas wore a watch and they&#8217;re perfectly happy to tell you the time if you ask.  There may be a lot of natural light in and around the entrances to the casino, you are absolutely right that there is none at the gaming tables.  Another interesting facet of Casino design that I&#8217;m surprised that you didn&#8217;t touch on is the design of the carpeting.  It&#8217;s hideous in most cases, but it&#8217;s designed rather like an Ikea is, to inspire you to make your way through the casino to the tables.  Interesting stuff, all of this, and stuff I&#8217;ve thought a lot about as I&#8217;ve spent more than my fair share of time sitting at blackjack tables.  </p>
+  </div>
+  
+  <div id="c40980" class="comment
+    
+  ">
+  <h3>
+<span class="author">
+    
+          <a href="http://verabass.blogspot.com" rel="nofollow">VeraBass</a>
+    
+  </span> <span class="date">05 Oct 06</span>
+</h3>
+  <p>Excellent post and discussion as well.</p>
+
+<p>My business background was commercial real estate development for a couple of decades (Steve Winn is one of the smartest developers out there), and I&#8217;ve only been doing business on the web in recent years.</p>
+
+<p>The analogies between real estate development and web development are endless and many basic theories barely explored. Like most analogies, they are valid up to a certain point only but that doesn&#8217;t make them any less valid.</p>
+
+<p>One of the first things I learned about commercial real estate development back in the late 70s, and retail/entertainment/destination development specifically, was the old and basic maxim &#8216;Make it easy to get in and hard to get out&#8217;.</p>
+
+<p>It isn&#8217;t possible to apply this theory of directing traffic flow directly to web development without adding &#8230;&#8217;provide so many enticing and easy options at all times on every level that the hours will melt away unnoticed&#8217;. So making it hard to get out becomes about keeping and deepening the users attention and invovlement. Just capturing it initially isn&#8217;t sufficient.</p>
+
+<p>This is where the casino analogy in particular is brilliant. Applying it to 2.0 or 3.0 (or whatever) web development theory means, I believe, constantly offering the user a multi level experience with no empty dead ends, just an endlessly wonderful journey with personalized options at every turn.</p>
+
+<p>As I write this, it just occured to me also, that going back much further in history, the study of famous and extensive mazes might be an interesting place to uncover a few further sociological and psychological analogies.</p>
+
+<p>Vera</p>
+  </div>
+  
+  <div id="c40983" class="comment
+    
+  ">
+  <h3>
+<span class="author">
+    
+          Hunter
+    
+  </span> <span class="date">05 Oct 06</span>
+</h3>
+  <p>Geez Rick, I&#8217;m just trying to participate in the discussion. Casinos don&#8217;t need my help as a booster - they do just fine without me shilling for them. A bit vicious and mean spirited don&#8217;t you think? Yes, I have a Vegas Web site, I made no attempt at all to hide that fact. As far as income derived from it, I&#8217;d be better off working at 7-11 given the amount of time I&#8217;ve put into it in 7 years. It&#8217;s a HOBBY - something that I do for FUN because the place is INTERESTING.</p>
+
+<p>And when it comes to opinions, how can there be &#8216;lies&#8217;? Anyway, I still think it was an interesting topic even if it degenerated. Thanks Matt for bringing it up.</p>
+  </div>
+  
+  <div id="c41018" class="comment
+    
+  ">
+  <h3>
+<span class="author">
+    
+          Former Student of Thomas Powell
+    
+  </span> <span class="date">05 Oct 06</span>
+</h3>
+  <p>Nice article but I had heard this before as it is the same idea dubbed the &#8220;Las Vegas approach of Web design&#8221; from Web Design The Complete Reference 1st and 2nd editions from 6+ years ago.  I went to look (page 62-63 if you want to see it in the 2nd edition) and it even has many of the same mentions. Not that it isn&#8217;t kind of an obvious idea that likely came up independently but it has been widely published in that book.</p>
+  </div>
+  
+  <div id="c41041" class="comment
+    
+  ">
+  <h3>
+<span class="author">
+    
+          <a href="http://verabass.blogspot.com" rel="nofollow">VeraBass</a>
+    
+  </span> <span class="date">05 Oct 06</span>
+</h3>
+  <p>My original take on this post/article was not that it was intended only as a duscussion on casino design. I read it as proposing the idea of using obervation of casino design and user behavior in them to obtain another valuable perspective on design and resultant behavior in any venue. That reading may very well be limited to my type of pov.</p>
+
+<p>The comment that this is an old idea surprises me. It&#8217;s not as though anyone has created much that is truly comparable in depth on the web yet. Perhaps it is trying to create a direct equivalent that is an old and passe idea. Maybe it was discarded by some or many because attempts to create a direct equivalent didn&#8217;t work. I don&#8217;t see how that obviates using successfully designed user experiences to learn new things and apply them.</p>
+
+<p>The things that motivate or turn people away in any physical or virtual application, new or old, can inform different  people in different ways when innovation and creation is the task at hand. Most things that we herald as new contain multiple elements and few of those are truly &#8216;new&#8217;.</p>
+
+<p>Really new things often fail dismally their first few times out, whether due to timing, execution, or a combination thereof. Early development of cable television is a good place to find examples of this.</p>
+
+<p>Vera</p>
+  </div>
+  
+  <div id="c41054" class="comment
+    
+  ">
+  <h3>
+<span class="author">
+    
+          Rick
+    
+  </span> <span class="date">05 Oct 06</span>
+</h3>
+  <p>&#8220;A bit vicious and mean spirited don’t you think?&#8221;</p>
+
+<p>No need to get hurt&#8230; it&#8217;s not my intention to be &#8220;vicious&#8221; or to hurt your feelings. Thing is, again, your site paints Vegas in  a good light and you come here saying how some of these &#8220;myths&#8221; are part of &#8220;casino design 1.0&#8221;, when clearly they are still being used to this day.</p>
+
+<p>And these are just SOME of the things we know about. How many more dirty psychological tricks are they using on us that we haven&#8217;t discovered yet? God only knows about the ones the&#8217;ve experimented with and either backfired or were found to be too unsafe.</p>
+  </div>
+  
+  <div id="c41055" class="comment
+    
+  ">
+  <h3>
+<span class="author">
+    
+          Joe Ruby
+    
+  </span> <span class="date">05 Oct 06</span>
+</h3>
+  <p>Heh.</p>
+
+<p>15) If a patron is winning too much, &#8220;escort&#8221; them into the back, break their kneecaps, then drive them out and leave them in the desert.</p>
+  </div>
+  
+  <div id="c41057" class="comment
+    
+  ">
+  <h3>
+<span class="author">
+    
+          Suku
+    
+  </span> <span class="date">06 Oct 06</span>
+</h3>
+  <p>Too much oxygen causes explosion? Who said that? Oxygen aids flame/explosion but not flammable or explosive by it self. So, if there is a fire hazard having lot of oxygen can be risky. And then which building/casion makes their place to have potential fire hazard? More oxygen will only make burn the cigarette faster, I am not sure about its effect on humanbeings. </p>
+  </div>
+  
+  <div id="c41058" class="comment
+    
+  ">
+  <h3>
+<span class="author">
+    
+          Suku
+    
+  </span> <span class="date">06 Oct 06</span>
+</h3>
+  <p>Too much oxygen causes explosion? Who said that? Oxygen aids flame/explosion but not flammable or explosive by it self. So, if there is a fire hazard having lot of oxygen can be risky. And then which building/casion makes their place to have potential fire hazard? More oxygen will only make burn the cigarette faster, I am not sure about its effect on humanbeings. </p>
+  </div>
+  
+  <div id="c41061" class="comment
+    
+  ">
+  <h3>
+<span class="author">
+    
+          <a href="http://www.design-agency.com" rel="nofollow">Andrey Kovalenko</a>
+    
+  </span> <span class="date">06 Oct 06</span>
+</h3>
+  <p>Not related to the discussion, but funny memory nevertheless. First time when i had heard the name &#8216;37 signals&#8217;, i was sure that whoever come up with the name did spent some time playing Roulette (well European type). :) </p>
+  </div>
+
+</div>
+
+
+
+<div class="postacomment">
+<h2>Post a comment</h2>
+
+<form method="post" action="https://37signals.com/cgi-bin/mt/mt-comments.cgi" name="comments_form" xxxonsubmit="document.getElementById('submit_button').disabled = 'true'">
+
+<script language="JavaScript" type="text/javascript">
+<!-- 
+function keystrokes(form) {
+    form.strokes.value = 1;
+}
+//-->
+</script>
+<input type="hidden" name="strokes" value="0">
+
+<input type="hidden" name="static" value="1">
+<input type="hidden" name="entry_id" value="1425">
+
+<dl>
+  <dt class="inline"><label for="author"><strong>Name</strong></label></dt>
+  <dd class="inline"><input tabindex="1" id="author" name="author"></dd>
+
+  <dt class="inline"><label for="email">Email</label></dt>
+  <dd class="inline"><input tabindex="2" id="email" name="email"></dd>
+
+  <dt class="inline"><label for="url">URL</label></dt>
+  <dd class="inline"><input tabindex="3" type="text" name="url" id="url"></dd>
+
+  <dt class="textarealabel">
+<label for="text"><strong>Comments</strong></label>   <span>(Basic HTML is allowed)</span>
+</dt>
+  <dd>
+<textarea tabindex="4" id="text" name="text" cols="24" rows="10" onkeypress="keystrokes(this.form)"></textarea><p style="font-size: 10px;"><strong>NOTE:</strong> We'd rather not moderate, but off-topic, blatantly inflammatory, or otherwise inappropriate or vapid comments may be removed. Repeat offenders will be banned from commenting. Let's add value. Thank you.</p>
+</dd>
+
+  <dd id="submit">
+    <!-- input type="submit" name="preview" tabindex="5" value="Preview" / -->
+    <input id="submit_button" style="font-weight: bold;" type="submit" name="post" tabindex="6" value="Post this Comment" onclick="keystrokes(this.form)">
+  </dd>
+</dl>
+</form>
+
+</div>
+
+
+
+
+
+</div>
+
+
+  </div>
+  <div id="Sidebar">
+
+    
+  </div>
+
+  </div>
+
+<script type="text/javascript"><!--
+if(!mmposts){var mmposts=[];}mmposts[mmposts.length]="1425";
+//--></script>
+<!-- mmp mmid:1425 mmdate:20061004T110217 mmurl:https://37signals.com/svn/archives2/the_casino_experience.php mmtitle:The casino experience -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="40873";
+//--></script>
+<!-- mmc mmid:40873 mmdate:20061004T114610 mmauthor:Ben Darlow -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="40874";
+//--></script>
+<!-- mmc mmid:40874 mmdate:20061004T114804 mmauthor:Andrew -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="40875";
+//--></script>
+<!-- mmc mmid:40875 mmdate:20061004T120400 mmauthor:Hunter -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="40877";
+//--></script>
+<!-- mmc mmid:40877 mmdate:20061004T121521 mmauthor:Jon Maddox -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="40878";
+//--></script>
+<!-- mmc mmid:40878 mmdate:20061004T121521 mmauthor:Jon Maddox -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="40879";
+//--></script>
+<!-- mmc mmid:40879 mmdate:20061004T121831 mmauthor:Dez -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="40881";
+//--></script>
+<!-- mmc mmid:40881 mmdate:20061004T123653 mmauthor:Joe Ruby -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="40884";
+//--></script>
+<!-- mmc mmid:40884 mmdate:20061004T124609 mmauthor:Ryan Turner -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="40891";
+//--></script>
+<!-- mmc mmid:40891 mmdate:20061004T145545 mmauthor:Avi -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="40892";
+//--></script>
+<!-- mmc mmid:40892 mmdate:20061004T150337 mmauthor:SP -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="40893";
+//--></script>
+<!-- mmc mmid:40893 mmdate:20061004T150500 mmauthor:ML -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="40899";
+//--></script>
+<!-- mmc mmid:40899 mmdate:20061004T151358 mmauthor:Joe Ruby -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="40904";
+//--></script>
+<!-- mmc mmid:40904 mmdate:20061004T153553 mmauthor:John S. Rhodes -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="40909";
+//--></script>
+<!-- mmc mmid:40909 mmdate:20061004T165024 mmauthor:Hunter -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="40911";
+//--></script>
+<!-- mmc mmid:40911 mmdate:20061004T170356 mmauthor:Hunter -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="40912";
+//--></script>
+<!-- mmc mmid:40912 mmdate:20061004T170751 mmauthor:Joe Ruby -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="40914";
+//--></script>
+<!-- mmc mmid:40914 mmdate:20061004T171321 mmauthor:Michael Koziarski -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="40916";
+//--></script>
+<!-- mmc mmid:40916 mmdate:20061004T172826 mmauthor:Hunter  -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="40917";
+//--></script>
+<!-- mmc mmid:40917 mmdate:20061004T175957 mmauthor:Joe Ruby -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="40919";
+//--></script>
+<!-- mmc mmid:40919 mmdate:20061004T180829 mmauthor:Joe Ruby -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="40922";
+//--></script>
+<!-- mmc mmid:40922 mmdate:20061004T183749 mmauthor:Hunter  -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="40927";
+//--></script>
+<!-- mmc mmid:40927 mmdate:20061004T202044 mmauthor:Robert -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="40928";
+//--></script>
+<!-- mmc mmid:40928 mmdate:20061004T202249 mmauthor:Dave -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="40930";
+//--></script>
+<!-- mmc mmid:40930 mmdate:20061004T202635 mmauthor:Hunter -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="40931";
+//--></script>
+<!-- mmc mmid:40931 mmdate:20061004T203207 mmauthor:Matt -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="40934";
+//--></script>
+<!-- mmc mmid:40934 mmdate:20061004T211443 mmauthor:Hunter -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="40935";
+//--></script>
+<!-- mmc mmid:40935 mmdate:20061004T212839 mmauthor:stephan.com -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="40936";
+//--></script>
+<!-- mmc mmid:40936 mmdate:20061004T213155 mmauthor:George -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="40949";
+//--></script>
+<!-- mmc mmid:40949 mmdate:20061004T235349 mmauthor:Joe Ruby -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="40952";
+//--></script>
+<!-- mmc mmid:40952 mmdate:20061005T015444 mmauthor:Anindya -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="40954";
+//--></script>
+<!-- mmc mmid:40954 mmdate:20061005T024237 mmauthor:asian pics -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="40955";
+//--></script>
+<!-- mmc mmid:40955 mmdate:20061005T024355 mmauthor:asian pics -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="40966";
+//--></script>
+<!-- mmc mmid:40966 mmdate:20061005T053922 mmauthor:Rick -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="40970";
+//--></script>
+<!-- mmc mmid:40970 mmdate:20061005T073357 mmauthor:Evan -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="40980";
+//--></script>
+<!-- mmc mmid:40980 mmdate:20061005T093853 mmauthor:VeraBass -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="40983";
+//--></script>
+<!-- mmc mmid:40983 mmdate:20061005T101314 mmauthor:Hunter -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="41018";
+//--></script>
+<!-- mmc mmid:41018 mmdate:20061005T142538 mmauthor:Former Student of Thomas Powell -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="41041";
+//--></script>
+<!-- mmc mmid:41041 mmdate:20061005T183049 mmauthor:VeraBass -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="41054";
+//--></script>
+<!-- mmc mmid:41054 mmdate:20061005T225919 mmauthor:Rick -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="41055";
+//--></script>
+<!-- mmc mmid:41055 mmdate:20061005T234601 mmauthor:Joe Ruby -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="41057";
+//--></script>
+<!-- mmc mmid:41057 mmdate:20061006T004152 mmauthor:Suku -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="41058";
+//--></script>
+<!-- mmc mmid:41058 mmdate:20061006T004222 mmauthor:Suku -->
+<script type="text/javascript"><!--
+if(!mmcomments){var mmcomments=[];}mmcomments[mmcomments.length]="41061";
+//--></script>
+<!-- mmc mmid:41061 mmdate:20061006T023433 mmauthor:Andrey Kovalenko -->
+
+<script type="text/javascript" src="http://tracker.measuremap.com/a/90"></script>
+<script src="assets/c08940a9d2185b40d51d2dea0844795e.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-158520-1";
+urchinTracker();
+</script>
+
+<div style="position:fixed;top:0;left:0;width:100%;height:45px;z-index:2147483647;background-color:rgba(253,147,38,0.90) !important;color:black !important;text-align:right !important;font:normal 12px/45px Arial, sans-serif !important;border-radius:0 !important;margin:0 !important;max-width:100% !important;background-repeat: no-repeat !important;background-position: 15px center !important;
+background-image: url(data:image/png;base64,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);
+"><span style="padding-right:15px;">You are viewing a snapshot of <a style='font-weight:bold !important; color:white !important' href='http://37signals.com/svn/archives2/the_casino_experience.php'>http://37signals.com/svn/archives2/the_casino_experience.php</a> created on 2020/08/13</span></div></body>
+</html>

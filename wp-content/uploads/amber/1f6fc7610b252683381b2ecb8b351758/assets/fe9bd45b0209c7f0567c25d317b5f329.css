@@ -1,0 +1,123 @@
+/* contact and top50 */
+
+#contact,
+#top50 {
+  border-collapse: collapse;
+  font-size: smaller
+}
+
+#top50 {
+  margin-top: 1.5em
+}
+
+#contact td,
+#contact th,
+#top50 td, #top50 th {
+  padding: 0.125em 0.2em
+}
+
+#contact th,
+#top50 th {
+  background: #f90;
+  color: #fff;
+  text-align: left
+}
+
+#top50 th del {
+  display: none
+}
+
+#top50 td {
+  padding-left: 1.2em;
+  text-align: right
+}
+
+.top50r {
+}
+
+#top50 .top50l {
+  text-align: left
+}
+
+.contact-row0 td {
+  background: #ddd;
+  color: inherit
+}
+
+.contact-row1 td {
+  background: #eee;
+  color: inherit
+}
+
+.contact-row0 .as-above {
+  background: inherit;
+  color: inherit
+}
+
+.contact-row1 .as-above {
+  background: inherit;
+  color: inherit
+}
+
+.contact-contrib {
+  border-bottom: #f90 2px dashed;
+  font-style: italic
+}
+
+.contact-contrib a,
+.contact-contrib :link {
+  background: inherit;
+  color: blue
+}
+
+/* contact */
+
+.mozdev-start-new-project {
+  margin-top: 1em
+}
+
+.mozdev-searchbutton {
+  background-color: #900;
+  border: #000 1px solid;
+  color: #fff;
+  padding: 0
+}
+
+.row-bg-0 {
+  background-color: #FFF
+}
+
+.row-bg-1 {
+  background-color: #FED
+}
+
+/* project movement */
+.top50-move {
+}
+
+#top50 td.top50-move-new, .top50-move-new {
+	color: #F98;
+	font-style: italic;
+	font-weight: bold
+}
+
+#top50 td.top50-move-positive, .top50-move-positive {
+	color: #080
+}
+
+#top50 td.top50-move-negative, .top50-move-negative {
+	color: #800
+}
+
+#top50 th.stats {
+}
+
+#top50 th.primary {
+}
+
+#top50 td.stats {
+}
+
+#top50 td.primary {
+	background-color: #FFFFE0;
+}

@@ -1,0 +1,78 @@
+/*
+H1 {
+  border-width: 2pt;
+  border-color: red;
+  padding: 2px;
+  border-style: ridge;
+  font-size: 24pt;
+  font-weight: bold;
+  color: red;
+  text-align: center;
+  background-color: #FFFF60;
+}
+
+H2 {
+  border-width: 2pt;
+  border-color: blue;
+  padding: 2px;
+  border-style: ridge;
+  font-size: 20pt;
+  font-weight: bold;
+  color: blue;
+  text-align: left;
+  background-color: #FFFF60;
+}
+*/
+
+BODY { 
+/*  font-size: 10pt; */
+  font-family: Verdana, "Trebuchet MS", Tahoma, Arial, Helvetica, sans-serif;
+  background-color: white;
+  color: black;
+}
+
+/*
+TR TH {
+  font-family: Verdana, "Trebuchet MS", Tahoma, Arial, Helvetica, sans-serif;
+}
+
+TR TD {
+  font-family: Verdana, "Trebuchet MS", Tahoma, Arial, Helvetica, sans-serif;
+}
+*/
+
+ADDRESS {
+  font-family: Verdana, "Trebuchet MS", Tahoma, Arial, Helvetica, sans-serif;
+  text-align: center;
+}
+
+P.imagewrap {
+  clear: both;
+}
+
+P.centered {
+  text-align: center;
+}
+
+.clr {
+  clear: both;
+}
+
+IMG.noborder {
+  border-style: none;
+}
+
+/*/*/
+
+IMG.wrapleft {
+  float: left;
+  margin-right: 3px;
+  margin-bottom: 3px;
+}
+
+IMG.wrapright {
+  float: right;
+  margin-left: 3px;
+  margin-bottom: 3px;
+}
+

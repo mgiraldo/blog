@@ -1,0 +1,4048 @@
+<!DOCTYPE html>
+<html class='v2 detail-page' dir='ltr' itemscope='' itemtype='http://schema.org/Blog' lang='en' xmlns='http://www.w3.org/1999/xhtml' xmlns:b='http://www.google.com/2005/gml/b' xmlns:data='http://www.google.com/2005/gml/data' xmlns:expr='http://www.google.com/2005/gml/expr'>
+<head>
+<link href='assets/222fb831a6883cc25452867572b997e1.css' rel='stylesheet' type='text/css'/>
+<title>
+Official Google Blog: A world in motion
+</title>
+<meta content='width=device-width, height=device-height, minimum-scale=1.0, initial-scale=1.0, user-scalable=0' name='viewport'/>
+<meta content='IE=Edge' http-equiv='X-UA-Compatible'/>
+<meta content='article' property='og:type'/>
+<meta content='A world in motion' property='og:title'/>
+<meta content='http://2.bp.blogspot.com/-7bZ5EziliZQ/VynIS9F7OAI/AAAAAAAASQ0/BJFntXCAntstZe6hQuo5KTrhi5Dyz9yHgCK4B/s1600/googlelogo_color_200x200.png' property='og:image'/>
+<meta content='en_US' property='og:locale'/>
+<meta content='https://googleblog.blogspot.com/2007/03/world-in-motion.html' property='og:url'/>
+<meta content='Official Google Blog' property='og:site_name'/>
+<!-- Twitter Card properties -->
+<meta content='Official Google Blog' property='twitter:site'/>
+<meta content='A world in motion' property='twitter:title'/>
+<meta content='summary' name='twitter:card'/>
+<meta content='@google' name='twitter:creator'/>
+<link href='assets/5a523bd0607e55c0ed0368751da0045c.css' rel='stylesheet' type='text/css'/>
+<link href='assets/2a30df347f5a86802e36e8f9edd953bd.css' rel='stylesheet'/>
+<script src='assets/e9cf29fffee32671775f3a96926272c8.js' type='text/javascript'></script>
+<!-- End -->
+<style id='page-skin-1' type='text/css'><!--
+/*
+<Group description="Header Color" selector="header">
+<Variable name="header.background.color" description="Header Background"
+type="color" default="#ffffff"/>
+</Group>
+*/
+.header-outer {
+border-bottom: 1px solid #e0e0e0;
+background: #ffffff;
+}
+html, .Label h2, #sidebar .rss a, .BlogArchive h2, .FollowByEmail h2.title, .widget .post h2 {
+font-family: Roboto, sans-serif;
+}
+.plusfollowers h2.title, .post h2.title, .widget h2.title {
+font-family: Roboto, sans-serif;
+}
+.widget-item-control {
+height: 100%;
+}
+.widget.Header, #header {
+position: relative;
+height: 100%;
+width: 100%;
+}
+}
+.widget.Header .header-logo1 {
+float: left;
+margin-right: 15px;
+padding-right: 15px;
+border-right: 1px solid #ddd;
+}
+.widget.Header .header-title h2 {
+font-size: 24px;
+font-family: Roboto, sans-serif;
+font-weight: normal;
+line-height: 32px;
+margin-bottom: 7px;
+}
+.header-inner {
+background-repeat: no-repeat;
+background-position: right 0px;
+}
+.post-author,
+.byline-author {
+font-size: 14px;
+font-weight: normal;
+color: #757575;
+color: rgba(0,0,0,.54);
+}
+.post-content .img-border {
+border: 1px solid rgb(235, 235, 235);
+padding: 4px;
+}
+.header-title a {
+text-decoration: none !important;
+}
+pre {
+border: 1px solid #bbbbbb;
+margin-top: 1em 0 0 0;
+padding: 0.99em;
+overflow-x: auto;
+overflow-y: auto;
+}
+pre, code {
+font-size: 9pt;
+background-color: #fafafa;
+line-height: 125%;
+font-family: monospace;
+}
+pre, code {
+color: #060;
+font: 13px/1.54 "courier new",courier,monospace;
+}
+.header-left .header-logo1 {
+width: 128px !important;
+}
+.header-desc {
+line-height: 20px;
+margin-bottom: 4px;
+max-width: 260px;
+}
+.fb-custom img, .twitter-custom img, .gplus-share img {
+cursor: pointer;
+opacity: 0.54;
+}
+.fb-custom img:hover, .twitter-custom img:hover, .gplus-share img:hover {
+opacity: 0.87;
+}
+.fb-like {
+width: 80px;
+}
+.post .share {
+float: right;
+}
+#twitter-share{
+border: #CCC solid 1px;
+border-radius: 3px;
+background-image: -webkit-linear-gradient(top,#ffffff,#dedede);
+}
+.twitter-follow {
+background: url(assets/80fd7d0d6a1224c341011ec63fb9210f.png) no-repeat left center;
+padding-left: 18px;
+font: normal normal normal 11px/18px 'Helvetica Neue',Arial,sans-serif;
+font-weight: bold;
+text-shadow: 0 1px 0 rgba(255,255,255,.5);
+cursor: pointer;
+margin-bottom: 10px;
+}
+.twitter-fb {
+padding-top: 2px;
+}
+.fb-follow-button  {
+background: -webkit-linear-gradient(#4c69ba, #3b55a0);
+background: -moz-linear-gradient(#4c69ba, #3b55a0);
+background: linear-gradient(#4c69ba, #3b55a0);
+border-radius: 2px;
+height: 18px;
+padding: 4px 0 0 3px;
+width: 57px;
+border: #4c69ba solid 1px;
+}
+.fb-follow-button a {
+text-decoration: none !important;
+text-shadow: 0 -1px 0 #354c8c;
+text-align: center;
+white-space: nowrap;
+font-size: 11px;
+color: white;
+vertical-align: top;
+}
+.fb-follow-button a:visited {
+color: white;
+}
+.fb-follow {
+padding: 0px 5px 3px 0px;
+width: 14px;
+vertical-align: bottom;
+}
+.gplus-wrapper {
+margin-top: 3px;
+display: inline-block;
+vertical-align: top;
+}
+.twitter-custom, .gplus-share {
+margin-right: 12px;
+}
+.fb-follow-button{
+margin: 10px auto;
+}
+/** CUSTOM CODE **/
+
+--></style>
+<style id='template-skin-1' type='text/css'><!--
+.header-outer {
+clear: both;
+}
+.header-inner {
+margin: auto;
+padding: 0px;
+}
+.footer-outer {
+background: #f5f5f5;
+clear: both;
+margin: 0;
+}
+.footer-inner {
+margin: auto;
+padding: 0px;
+}
+.footer-inner-2 {
+/* Account for right hand column elasticity. */
+max-width: calc(100% - 248px);
+}
+.google-footer-outer {
+clear: both;
+}
+.cols-wrapper, .google-footer-outer, .footer-inner, .header-inner {
+max-width: 978px;
+margin-left: auto;
+margin-right: auto;
+}
+.cols-wrapper {
+margin: auto;
+clear: both;
+margin-top: 60px;
+margin-bottom: 60px;
+overflow: hidden;
+}
+.col-main-wrapper {
+float: left;
+width: 100%;
+}
+.col-main {
+margin-right: 278px;
+max-width: 660px;
+}
+.col-right {
+float: right;
+width: 248px;
+margin-left: -278px;
+}
+/* Tweaks for layout mode. */
+body#layout .google-footer-outer {
+display: none;
+}
+body#layout .header-outer, body#layout .footer-outer {
+background: none;
+}
+body#layout .header-inner {
+height: initial;
+}
+body#layout .cols-wrapper {
+margin-top: initial;
+margin-bottom: initial;
+}
+--></style>
+<!-- start all head -->
+<meta content='text/html; charset=UTF-8' http-equiv='Content-Type'/>
+<meta content='blogger' name='generator'/>
+<link href='https://googleblog.blogspot.com/favicon.ico' rel='icon' type='image/x-icon'/>
+<link href='https://googleblog.blogspot.com/2007/03/world-in-motion.html' rel='canonical'/>
+<link rel="alternate" type="application/atom+xml" title="Official Google Blog - Atom" href="https://googleblog.blogspot.com/feeds/posts/default" />
+<link rel="alternate" type="application/rss+xml" title="Official Google Blog - RSS" href="https://googleblog.blogspot.com/feeds/posts/default?alt=rss" />
+<link rel="service.post" type="application/atom+xml" title="Official Google Blog - Atom" href="https://www.blogger.com/feeds/10861780/posts/default" />
+
+<link rel="alternate" type="application/atom+xml" title="Official Google Blog - Atom" href="https://googleblog.blogspot.com/feeds/5645244419441134185/comments/default" />
+<!--[if IE]><script type="text/javascript" src="https://www.blogger.com/static/v1/jsbin/2800260367-ieretrofit.js"></script>
+<![endif]-->
+<meta content='https://googleblog.blogspot.com/2007/03/world-in-motion.html' property='og:url'/>
+<meta content='A world in motion' property='og:title'/>
+<meta content='Insights from Googlers into our products, technology, and the Google culture' property='og:description'/>
+<!--[if IE]> <script> (function() { var html5 = ("abbr,article,aside,audio,canvas,datalist,details," + "figure,footer,header,hgroup,mark,menu,meter,nav,output," + "progress,section,time,video").split(','); for (var i = 0; i < html5.length; i++) { document.createElement(html5[i]); } try { document.execCommand('BackgroundImageCache', false, true); } catch(e) {} })(); </script> <![endif]-->
+<!-- end all head -->
+<base target='_self'/>
+<style>
+      html {
+        font-family: Roboto, sans-serif;
+        -moz-osx-font-smoothing: grayscale;
+        -webkit-font-smoothing: antialiased;
+      }
+      body {
+        padding: 0;
+        /* This ensures that the scroll bar is always present, which is needed */
+        /* because content render happens after page load; otherwise the header */
+        /* would "bounce" in-between states. */
+        min-height: 150%;
+      }
+    .butter-bar {
+          background-color: #fafafa;
+          font-size: 16px;
+          
+          margin-bottom: 0;
+         padding: 15px !important;
+         text-align: center;
+      }
+      h2 {
+        font-size: 16px;
+      }
+      h1, h2, h3, h4, h5 {
+        line-height: 2em;
+      }
+      html, h4, h5, h6 {
+        font-size: 14px;
+      }
+      a, a:visited {
+        color: #4184F3;
+        text-decoration: none;
+      }
+      a:focus, a:hover, a:active {
+        text-decoration: none;
+      }
+      .Header {
+        margin-top: 15px;
+      }
+      .Header h1 {
+        font-size: 32px;
+        font-weight: 300;
+        line-height: 32px;
+        height: 42px;
+      }
+      .header-inner .Header .titlewrapper {
+        padding: 0;
+        margin-top: 30px;
+      }
+      .header-inner .Header .descriptionwrapper {
+        padding: 0;
+        margin: 0;
+      }
+      .cols-wrapper {
+        margin-top: 56px;
+      }
+      .header-outer, .cols-wrapper, .footer-outer, .google-footer-outer {
+        padding: 0 60px;
+      }
+      .header-inner {
+        height: 256px;
+        position: relative;
+      }
+      html, .header-inner a {
+        color: #212121;
+        color: rgba(0,0,0,.87);
+      }
+      .header-inner .google-logo {
+        position: absolute;
+        background-size: contain;
+        z-index: 1;
+      }
+      .header-left {
+        position: absolute;
+        left: 330px;
+        top: 92px;
+      }
+      .google-logo {
+        top: 94px;
+      }
+      #google-footer {
+        position: relative;
+        font-size: 13px;
+        list-style: none;
+        text-align: right;
+      }
+      #google-footer a {
+        color: #444;
+      }
+      #google-footer ul {
+        margin: 0;
+        padding: 0;
+        height: 144px;
+        line-height: 144px;
+      }
+      #google-footer ul li {
+        display: inline;
+      }
+      #google-footer ul li:before {
+        color: #999;
+        content: "\00b7";
+        font-weight: bold;
+        margin: 5px;
+      }
+      #google-footer ul li:first-child:before {
+        content: '';
+      }
+      #google-footer .google-logo-dark {
+        left: 0;
+        margin-top: -16px;
+        position: absolute;
+        top: 50%;
+      }
+      /** Sitemap links. **/
+      .footer-inner-2 {
+        font-size: 14px;
+        padding-top: 42px;
+        padding-bottom: 74px;
+      }
+      .footer-inner-2 .HTML h2 {
+        color: #212121;
+        color: rgba(0,0,0,.87);
+        font-size: 14px;
+        font-weight: 500;
+        padding-left: 0;
+        margin: 10px 0;
+      }
+      .footer-inner-2 .HTML ul {
+        font-weight: normal;
+        list-style: none;
+        padding-left: 0;
+      }
+      .footer-inner-2 .HTML li {
+        line-height: 24px;
+        padding: 0;
+      }
+      .footer-inner-2 li a {
+        color: rgba(65,132,243,.87);
+      }
+      /** Archive widget. **/
+      .BlogArchive {
+        font-size: 13px;
+        font-weight: normal;
+      }
+      .BlogArchive .widget-content {
+        display: none;
+      }
+      .BlogArchive h2, .Label h2 {
+        color: #4184F3;
+        text-decoration: none;
+      }
+      .BlogArchive .hierarchy li {
+        display: inline-block;
+      }
+      /* Specificity needed here to override widget CSS defaults. */
+      .BlogArchive #ArchiveList ul li, .BlogArchive #ArchiveList ul ul li {
+        margin: 0;
+        padding-left: 0;
+        text-indent: 0;
+      }
+      .BlogArchive .intervalToggle {
+        cursor: pointer;
+      }
+      .BlogArchive .expanded .intervalToggle .new-toggle {
+        -ms-transform: rotate(180deg);
+        transform: rotate(180deg);
+      }
+      .BlogArchive .new-toggle {
+        float: right;
+        padding-top: 3px;
+        opacity: 0.87;
+      }
+      #ArchiveList {
+        text-transform: uppercase;
+      }
+      #ArchiveList .expanded > ul:last-child {
+        margin-bottom: 16px;
+      }
+      #ArchiveList .archivedate {
+        width: 100%;
+      }
+      /* Months */
+      .BlogArchive .items {
+        max-width: 150px;
+        margin-left: -4px;
+      }
+      .BlogArchive .expanded .items {
+        margin-bottom: 10px;
+        overflow: hidden;
+      }
+      .BlogArchive .items > ul {
+        float: left;
+        height: 32px;
+      }
+      .BlogArchive .items a {
+        padding: 0 4px;
+      }
+      .Label {
+        font-size: 13px;
+        font-weight: normal;
+      }
+      .sidebar-icon {
+        display: inline-block;
+        width: 24px;
+        height: 24px;
+        vertical-align: middle;
+        margin-right: 12px;
+        margin-top: -1px
+      }
+      .Label a {
+        margin-right: 4px;
+      }
+      .Label .widget-content {
+        display: none;
+      }
+      .FollowByEmail {
+        font-size: 13px;
+        font-weight: normal;
+      }
+      .FollowByEmail h2 {
+        background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAALCAYAAACZIGYHAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAUBJREFUeNrMkSGLAlEUhb+ZB4JFi8mx2cz+ApvhRUGTcUCrNqNJDYIi+DO0GUwmQXDK2DSIoGgZcSaIjDrzwrK4ssvChj1w0733O+fdp+m6PozH4yQSCfb7Pa7r8pOi0SjJZBLP8zgej4gAIMvlMuPxmADIYrHger1+C6lUKmo+NJ/NZojb7SZDWiwWo1qtks1msW2bw+HwZdkwDHq9HvV6nel0SqvVYrvdIh6Ph3Qch+VyqRYLhQJSSjRNw7IsfN9XgGKxSLfbJZfL0e/3aTabrFYr7vc7IujLcOh8PqunrNdr0uk0pVKJVCpFJBJRgEajweVyod1uMxgM2O12BAGUgRbU8DV2JpOhVquRz+cRQii3+XxOp9NRN3jVR5LPOp1OjEYjlSL8hclkgmmabDabt4d+m+S30vkD/R/IU4ABAPTZgnZdmG/PAAAAAElFTkSuQmCC");
+        background-repeat: no-repeat;
+        background-position: 0 50%;
+        text-indent: 30px;
+      }
+      .FollowByEmail .widget-content {
+        display: none;
+      }
+      .searchBox input {
+        border: 1px solid #eee;
+        color: #212121;
+        color: rgba(0,0,0,.87);
+        font-size: 14px;
+        padding: 8px 8px 8px 40px;
+        width: 164px;
+        font-family: Roboto, sans-serif;
+        background: url("assets/f1a90146c5dba16bd01c9fea2d740f7e.png") 8px center no-repeat;
+      }
+      .searchBox ::-webkit-input-placeholder { /* WebKit, Blink, Edge */
+        color:    rgba(0,0,0,.54);
+      }
+      .searchBox :-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+        color:    #000;
+        opacity:  0.54;
+      }
+      .searchBox ::-moz-placeholder { /* Mozilla Firefox 19+ */
+        color:    #000;
+        opacity:  0.54;
+      }
+      .searchBox :-ms-input-placeholder { /* Internet Explorer 10-11 */
+        color:    #757575;
+      }
+      .widget-item-control {
+        margin-top: 0px;
+      }
+      .section {
+        margin: 0;
+        padding: 0;
+      }
+      #sidebar-top {
+        border: 1px solid #eee;
+      }
+      #sidebar-top > div {
+        margin: 16px 0;
+      }
+      .widget ul {
+        line-height: 1.6;
+      }
+      /*main post*/
+      .post {
+        margin-bottom:30px;
+      }
+      #main .post .title {
+        margin: 0;
+      }
+      #main .post .title a {
+        color: #212121;
+        color: rgba(0,0,0,.87);
+        font-weight: normal;
+        font-size: 24px;
+      }
+      #main .post .title a:hover {
+        text-decoration:none;
+        color:#4184F3;
+      }
+      .message,  #main .post .post-header {
+        margin: 0;
+        padding: 0;
+      }
+      #main .post .post-header .caption, #main .post .post-header .labels-caption,  #main .post .post-footer .caption, #main .post .post-footer .labels-caption {
+        color: #444;
+        font-weight: 500;
+      }
+      #main .tr-caption-container td {
+        text-align: left;
+      }
+      #main .post .tr-caption {
+        color: #757575;
+        color: rgba(0,0,0,.54);
+        display: block;
+        max-width: 560px;
+        padding-bottom: 20px;
+      }
+      #main .post .tr-caption-container {
+        line-height: 24px;
+        margin: -1px 0 0 0 !important;
+        padding: 4px 0;
+        text-align: left;
+      }
+      #main .post .post-header .published{
+        font-size:11px;
+        font-weight:bold;
+      }
+      .post-header .publishdate {
+        font-size: 17px;
+        font-weight:normal;
+        color: #757575;
+        color: rgba(0,0,0,.54);
+      }
+      #main .post .post-footer{
+        font-size:12px;
+        padding-bottom: 21px;
+      }
+      .label-footer {
+        margin-bottom: 12px;
+        margin-top: 12px;
+      }
+      .comment-img {
+        margin-right: 16px;
+        opacity: 0.54;
+        vertical-align: middle;
+      }
+      #main .post .post-header .published {
+        margin-bottom: 40px;
+        margin-top: -2px;
+      }
+      .post .post-content {
+        color: #212121;
+        color: rgba(0,0,0,.87);
+        font-size: 17px;
+        margin: 25px 0 36px 0;
+        line-height: 32px;
+        word-wrap: break-word;
+      }
+      .post-body .post-content ul, .post-body .post-content ol {
+        margin: 16px 0;
+        padding: 0 48px;
+      }
+      .post-summary {
+        display: none;
+      }
+      /* Another old-style caption. */
+      .post-content div i, .post-content div + i {
+        font-size: 14px;
+        font-style: normal;
+        color: #757575;
+        color: rgba(0,0,0,.54);
+        display: block;
+        line-height: 24px;
+        margin-bottom: 16px;
+        text-align: left;
+      }
+      /* Another old-style caption (with link) */
+      .post-content a > i {
+        color: #4184F3 !important;
+      }
+      /* Old-style captions for images. */
+      .post-content .separator + div:not(.separator) {
+        margin-top: -16px;
+      }
+      /* Capture section headers. */
+      .post-content br + br + b, .post-content .space + .space + b, .post-content .separator + b {
+        display: inline-block;
+        margin-bottom: 8px;
+        margin-top: 24px;
+      }
+      .post-content li {
+        line-height: 32px;
+      }
+      /* Override all post images/videos to left align. */
+      .post-content .separator, .post-content > div {
+        text-align: left;
+      }
+      .post-content .separator > a, .post-content .separator > span {
+        margin-left: 0 !important;
+      }
+      .post-content img {
+        max-width: 100%;
+        height: auto;
+        width: auto;
+      }
+      .post-content .tr-caption-container img {
+        margin-bottom: 12px;
+      }
+      .post-content iframe, .post-content embed {
+        max-width: 100%;
+      }
+      .post-content .carousel-container {
+        margin-bottom: 48px;
+      }
+      #main .post-content b {
+        font-weight: 500;
+      }
+      /* These are the main paragraph spacing tweaks. */
+      #main .post-content br {
+        content: ' ';
+        display: block;
+        padding: 4px;
+      }
+      .post-content .space {
+        display: block;
+        height: 8px;
+      }
+      .post-content iframe + .space, .post-content iframe + br {
+        padding: 0 !important;
+      }
+      #main .post .jump-link {
+        margin-bottom:10px;
+      }
+      .post-content img, .post-content iframe {
+        margin: 30px 0 20px 0;
+      }
+      .post-content > img:first-child, .post-content > iframe:first-child {
+        margin-top: 0;
+      }
+      .col-right .section {
+        padding: 0 16px;
+      }
+      #aside {
+        background:#fff;
+        border:1px solid #eee;
+        border-top: 0;
+      }
+      #aside .widget {
+        margin:0;
+      }
+      #aside .widget h2, #ArchiveList .toggle + a.post-count-link {
+        color: #212121;
+        color: rgba(0,0,0,.87);
+        font-weight: 400 !important;
+        margin: 0;
+      }
+      #ArchiveList .toggle {
+        float: right;
+      }
+      #ArchiveList .toggle .material-icons {
+        padding-top: 4px;
+      }
+      #sidebar .tab {
+        cursor: pointer;
+      }
+      #sidebar .tab .arrow {
+        display: inline-block;
+        float: right;
+      }
+      #sidebar .tab .icon {
+        display: inline-block;
+        vertical-align: top;
+        height: 24px;
+        width: 24px;
+        margin-right: 13px;
+        margin-left: -1px;
+        margin-top: 1px;
+        color: #757575;
+        color: rgba(0,0,0,.54);
+      }
+      #sidebar .widget-content > :first-child {
+        padding-top: 8px;
+      }
+      #sidebar .active .tab .arrow {
+        -ms-transform: rotate(180deg);
+        transform: rotate(180deg);
+      }
+      #sidebar .arrow {
+        color: #757575;
+        color: rgba(0,0,0,.54);
+      }
+      #sidebar .widget h2 {
+        font-size: 14px;
+        line-height: 24px;
+        display: inline-block;
+      }
+      #sidebar .widget .BlogArchive {
+        padding-bottom: 8px;
+      }
+      #sidebar .widget {
+        border-bottom: 1px solid #eee;
+        box-shadow: 0px 1px 0 white;
+        margin-bottom: 0;
+        padding: 14px 0;
+        min-height: 20px;
+      }
+      #sidebar .widget:last-child {
+        border-bottom: none;
+        box-shadow: none;
+        margin-bottom: 0;
+      }
+      #sidebar ul {
+        margin: 0;
+        padding: 0;
+      }
+      #sidebar ul li {
+        list-style:none;
+        padding:0;
+      }
+      #sidebar ul li a {
+        line-height: 32px;
+      }
+      #sidebar .archive {
+        background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAYCAYAAADzoH0MAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAE1JREFUeNpiNDY23s9AAWBioBCwYBM8c+YMVsUmJibEGYBNMS5DaeMFfDYSZQA2v9I3FrB5AZeriI4FmnrBccCT8mhmGs1MwyAzAQQYAKEWG9zm9QFEAAAAAElFTkSuQmCC");
+        height: 24px;
+        line-height: 24px;
+        padding-left: 30px;
+      }
+      #sidebar .labels {
+        background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAARCAYAAAA7bUf6AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAUxJREFUeNpiNDY23s9AAMycOfM7UF05kHkZmzwTMkdSUhKrIcXFxZy3bt3qBjIN8RrS09PDsHnzZjCNDr58+cKQlpbGDjSoHcg1w2oIyAUODg5gARCNzUVIBrUCuVYYhjx//pzhwIEDYAEQDeJjA1CDWIAGNQK59jBxRuSABbkAlwHIgIeHh2HWrFn/1NTU2oDcvSgBS4wBSC5iArqoCsj1YGIgEyAZVMoEchqlBjEB/cZAiUHg2AEGznpKDAImxOeM////B4VLKtBvEUCngZ1ILKivr3/u6+ubBzJAGZQ9gC5aQoqLgAY8BhkAZL4BuQQkxgXE34A4BuiiZEIuAhrwEGhAEZD5DpzYoIaA2UAM4kQADUrHZRDUgAIg8wO2XAwzbQXQa5OweQ1owB10AyA6gS7BgX1u3ry5397eHow3bdo0EyjGi00tQIABANPgyAH1q1eaAAAAAElFTkSuQmCC");
+        height: 20px;
+        line-height: 20px;
+        padding-left: 30px;
+      }
+      #sidebar .rss a {
+        background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABIAAAASCAYAAABWzo5XAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAX5JREFUeNqsVDGSgkAQHL2rIiIikohIc/EBRkbwAIwuwgfwAXiAD9AHSI7kEkECRCb6AIyINDLx7K0aa6kT7uq0q7YYtnZ7umdnt7darXbr9Zpegeu61DNNc0dvwCcH4/GYJpMJnc9nOhwOVJbl/4hAAokMECZJQtvt9k+kH7qufyEYDAakqqqYxFdRFBqNRmTbNg2HQ0rTlK7XayvR0xqBdDqdkuM4dE/0ULhYLOh4PHYrknG5XGi/31MYhuL/nkwonM1mlGUZ1XXdrsiyLGEDhY7juJEZ1u5tIixDGdYhmYw+B7CAzPP5nDabjdgIAgCksMX1832/3drtdqPT6SQWapomiGEFNkDEdpDMMAzK81ys/7XYy+XyoQgq2WoURSIJ2iIIgp/WZCCTvFm2wgeAU31aI3Q2GhIDMeB53qPYPIcm5VrxXIOIOxsDMStjVawAc1VViRgN22lNBiuQN3GR+SY07hpOoStmFQAKXRRFY93bnpG+fONfedi+BRgAbkS8Fxp7QQIAAAAASUVORK5CYII=");
+      }
+      #sidebar .subscription a {
+        background-image: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABEAAAALCAYAAACZIGYHAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAUBJREFUeNrMkSGLAlEUhb+ZB4JFi8mx2cz+ApvhRUGTcUCrNqNJDYIi+DO0GUwmQXDK2DSIoGgZcSaIjDrzwrK4ssvChj1w0733O+fdp+m6PozH4yQSCfb7Pa7r8pOi0SjJZBLP8zgej4gAIMvlMuPxmADIYrHger1+C6lUKmo+NJ/NZojb7SZDWiwWo1qtks1msW2bw+HwZdkwDHq9HvV6nel0SqvVYrvdIh6Ph3Qch+VyqRYLhQJSSjRNw7IsfN9XgGKxSLfbJZfL0e/3aTabrFYr7vc7IujLcOh8PqunrNdr0uk0pVKJVCpFJBJRgEajweVyod1uMxgM2O12BAGUgRbU8DV2JpOhVquRz+cRQii3+XxOp9NRN3jVR5LPOp1OjEYjlSL8hclkgmmabDabt4d+m+S30vkD/R/IU4ABAPTZgnZdmG/PAAAAAElFTkSuQmCC");
+      }
+      #sidebar-bottom {
+        background: #f5f5f5;
+        border-top:1px solid #eee;
+      }
+      #sidebar-bottom .widget {
+        border-bottom: 1px solid #e0e0e0;
+        padding: 15px 0;
+        text-align: center;
+      }
+      #sidebar-bottom > div:last-child {
+        border-bottom: 0;
+      }
+      #sidebar-bottom .text {
+        line-height: 20px;
+      }
+      /* Home, forward, and backward pagination. */
+      .blog-pager {
+        border-top : 1px #e0e0e0 solid;
+        padding-top: 10px;
+        margin-top: 15px;
+        text-align: right !important;
+      }
+      #blog-pager {
+        margin-botom: 0;
+        margin-top: -14px;
+        padding: 16px 0 0 0;
+      }
+      #blog-pager a {
+        display: inline-block;
+      }
+      .blog-pager i.disabled {
+        opacity: 0.2 !important;
+      }
+      .blog-pager i {
+        color: black;
+        margin-left: 16px;
+        opacity: 0.54;
+      }
+      .blog-pager i:hover, .blog-pager i:active {
+        opacity: 0.87;
+      }
+      #blog-pager-older-link, #blog-pager-newer-link {
+        float: none;
+      }
+      .gplus-profile {
+        background-color: #fafafa;
+        border: 1px solid #eee;
+        overflow: hidden;
+        width: 212px;
+      }
+      .gplus-profile-inner {
+        margin-left: -1px;
+        margin-top: -1px;
+      }
+      /* Sidebar follow buttons. */
+      .followgooglewrapper {
+        padding: 12px 0 0 0;
+      }
+      .loading {
+        visibility: hidden;
+      }
+      .detail-page .post-footer .cmt_iframe_holder {
+        padding-top: 40px !important;
+      }
+      /** Desktop **/
+      @media (max-width: 900px) {
+        .col-right {
+          display: none;
+        }
+        .col-main {
+          margin-right: 0;
+          min-width: initial;
+        }
+        .footer-outer {
+          display: none;
+        }
+        .cols-wrapper {
+          min-width: initial;
+        }
+        .google-footer-outer {
+          background-color: #f5f5f5;
+        }
+      }
+      /** Tablet **/
+      @media (max-width: 712px) {
+        .header-outer, .cols-wrapper, .footer-outer, .google-footer-outer {
+          padding: 0 40px;
+        }
+      }
+      /* An extra breakpoint to scale down the logo. */
+      @media (max-width: 600px) {
+        .header-inner .google-logo {
+          top: 32px;
+          margin-top: 0;
+        }
+        .header-inner .google-logo img {
+          height: 56px;
+          width: auto;
+          /*
+          height: auto;
+          width: 188px;
+          */
+          /* Override any optical adjustments at desktop size. */
+          top: 0 !important;
+        }
+        .header-left {
+          left: 0;
+          top: inherit;
+          bottom: 24px;
+        }
+      }
+      /** Mobile/small desktop window; also landscape. **/
+      @media (max-width: 480px), (max-height: 480px) {
+        .header-outer, .cols-wrapper, .footer-outer, .google-footer-outer {
+          padding: 0 16px;
+        }
+        .cols-wrapper {
+          margin-top: 0;
+        }
+        .post-header .publishdate, .post .post-content {
+          font-size: 16px;
+        }
+        .post .post-content {
+          line-height: 28px;
+          margin-bottom: 30px;
+        }
+        .post {
+          margin-top: 30px;
+        }
+        .byline-author {
+          display: block;
+          font-size: 12px;
+          line-height: 24px;
+          margin-top: 6px;
+        }
+        #main .post .title a {
+          font-weight: 500;
+          color: #4c4c4c;
+          color: rgba(0,0,0,.70);
+        }
+        #main .post .post-header {
+          padding-bottom: 12px;
+        }
+        #main .post .post-header .published {
+          margin-bottom: -8px;
+          margin-top: 3px;
+        }
+        .post .read-more {
+          display: block;
+          margin-top: 14px;
+        }
+        .post .tr-caption {
+          font-size: 12px;
+        }
+        #main .post .title a {
+          font-size: 20px;
+          line-height: 30px;
+        }
+        .post-content iframe {
+          /* iframe won't keep aspect ratio when scaled down. */
+          max-height: 240px;
+        }
+        .post-content .separator img, .post-content .tr-caption-container img, .post-content iframe {
+          margin-left: -16px;
+          max-width: inherit;
+          width: calc(100% + 32px);
+        }
+        .post-content table, .post-content td {
+          width: 100%;
+        }
+        #blog-pager {
+          margin: 0;
+          padding: 16px 0;
+        }
+        /** List page tweaks. **/
+        .list-page .post-original {
+          display: none;
+        }
+        .list-page .post-summary {
+          display: block;
+        }
+        .list-page .comment-container {
+          display: none;
+        } 
+        .list-page #blog-pager {
+          padding-top: 0;
+          border: 0;
+          margin-top: -8px;
+        }
+        .list-page .label-footer {
+          display: none;
+        }
+        .list-page #main .post .post-footer {
+          border-bottom: 1px solid #eee;
+          margin: -16px 0 0 0;
+          padding: 0 0 20px 0;
+        }
+        .list-page .post .share {
+          display: none;
+        }
+        /** Detail page tweaks. **/
+        .detail-page .post-footer .cmt_iframe_holder {
+          padding-top: 32px !important;
+        }
+        .detail-page .label-footer {
+          margin-bottom: 0;
+        }
+        .detail-page #main .post .post-footer {
+          padding-bottom: 0;
+        }
+        .detail-page #comments {
+          display: none;
+        }
+      }
+      [data-about-pullquote], [data-is-preview], [data-about-syndication] {
+        display: none;
+      }
+    </style>
+<noscript>
+<style>
+        .loading { visibility: visible }</style>
+</noscript>
+<script type='text/javascript'>
+        (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+        })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+        ga('create', 'UA-18015-1', 'auto', 'blogger');
+        ga('blogger.send', 'pageview');
+      </script>
+<link href='assets/ab80b86b47b57891e047201683b57725.css' media='none' onload='if(media!=&#39;all&#39;)media=&#39;all&#39;' rel='stylesheet'/><noscript><link href='assets/ab80b86b47b57891e047201683b57725.css' rel='stylesheet'/></noscript>
+
+</head>
+<body>
+<script type='text/javascript'>
+      //<![CDATA[
+      var axel = Math.random() + "";
+      var a = axel * 10000000000000;
+      document.write('<iframe src="https://2542116.fls.doubleclick.net/activityi;src=2542116;type=gblog;cat=googl0;ord=ord=' + a + '?" width="1" height="1" frameborder="0" style="display:none"></iframe>');
+      //]]>
+    </script>
+<noscript>
+<img alt='' height='1' src='assets/cb8d57598e2001a4f26e7a01f45ea030' width='1'/>
+</noscript>
+<!-- Header -->
+<div class='butter-bar'>
+       Hey&#8212;we've moved. Visit <a href='https://www.blog.google/' target='_blank'>The Keyword</a> for all the latest news and stories from Google
+      </div>
+<div class='header-outer'>
+<div class='header-inner'>
+<a class='google-logo' href='https://googleblog.blogspot.com/'>
+<img height='96' src='assets/c1a9e1154ef2d3650e3f1348e989da6e.png' width='284'/>
+</a>
+<div class='section' id='header'><div class='widget Header' data-version='1' id='Header1'>
+<div class='header-left'>
+<div class='header-title'>
+<a href='/.'>
+<h2>
+                      Official Blog
+                    </h2>
+</a>
+</div>
+<div class='header-desc'>
+Insights from Googlers into our products, technology, and the Google culture
+</div>
+</div>
+</div></div>
+</div>
+</div>
+<!-- all content wrapper start -->
+<div class='cols-wrapper loading'>
+<div class='col-main-wrapper'>
+<div class='col-main'>
+<div class='section' id='main'><div class='widget Blog' data-version='1' id='Blog1'>
+<div class='post' data-id='5645244419441134185' itemscope='' itemtype='http://schema.org/BlogPosting'>
+<h2 class='title' itemprop='name'>
+<a href='https://googleblog.blogspot.com/2007/03/world-in-motion.html' itemprop='url' title='A world in motion'>
+A world in motion
+</a>
+</h2>
+<div class='post-header'>
+<div class='published'>
+<span class='publishdate' itemprop='datePublished'>
+March 16, 2007
+</span>
+</div>
+</div>
+<div class='post-body'>
+<div class='post-content' itemprop='articleBody'>
+<script type='text/template'>
+                          <span class="byline-author">Posted by Marissa Mayer, VP Search Products & User Experience</span><br /><br />Mark Twain said, "Facts are stubborn, but statistics are more pliable." We're pretty sure Twain's definition of pliable is different from ours. Building flexibility into search, email, and other Google products is critically important as we seek to organize the world's information, and it's only natural that we should continue to look for ways to make the use of such statistics more "pliable" as well.<br /><br /><div style="direction: ltr;"><span>In this regard, we are excited to announce that we have  acquired</span> Gapminder's Trendalyzer software, and we welcome the  Trendalyzer team to Google. Trendalyzer generates moving graphics and other  novel<span> effects in the display of facts, figures, and  statistics in presentations.</span> In its nimble hands, Trendalyzer views development data&#8212;such as regional income distribution or trends in global health&#8212;as <a href="http://tools.google.com/gapminder/">literally a world of opportunity</a>. Like Google, Gapminder strives to make information more useful, and Trendalyzer will improve any function or application in which data might be better visualized.<br /></div><br />Gathering data and creating useful statistics is an arduous job that often goes unrecognized.  We hope to provide the resources necessary to bring such work to its deserved wider audience by improving and expanding Trendalyzer and making it freely available to any and all users capable of thinking outside the X and Y axes.<br /><br />That's our definition of "pliable." Please stay tuned, and we'll tell you more as soon as we can.
+                          <span itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+                            <meta content='https://plus.google.com/116899029375914044550' itemprop='url'/>
+                          </span>
+                        </script>
+<noscript>
+<span class="byline-author">Posted by Marissa Mayer, VP Search Products & User Experience</span><br /><br />Mark Twain said, "Facts are stubborn, but statistics are more pliable." We're pretty sure Twain's definition of pliable is different from ours. Building flexibility into search, email, and other Google products is critically important as we seek to organize the world's information, and it's only natural that we should continue to look for ways to make the use of such statistics more "pliable" as well.<br /><br /><div style="direction: ltr;"><span>In this regard, we are excited to announce that we have  acquired</span> Gapminder's Trendalyzer software, and we welcome the  Trendalyzer team to Google. Trendalyzer generates moving graphics and other  novel<span> effects in the display of facts, figures, and  statistics in presentations.</span> In its nimble hands, Trendalyzer views development data&#8212;such as regional income distribution or trends in global health&#8212;as <a href="http://tools.google.com/gapminder/">literally a world of opportunity</a>. Like Google, Gapminder strives to make information more useful, and Trendalyzer will improve any function or application in which data might be better visualized.<br /></div><br />Gathering data and creating useful statistics is an arduous job that often goes unrecognized.  We hope to provide the resources necessary to bring such work to its deserved wider audience by improving and expanding Trendalyzer and making it freely available to any and all users capable of thinking outside the X and Y axes.<br /><br />That's our definition of "pliable." Please stay tuned, and we'll tell you more as soon as we can.
+<span itemprop='author' itemscope='itemscope' itemtype='http://schema.org/Person'>
+<meta content='https://plus.google.com/116899029375914044550' itemprop='url'/>
+</span>
+</noscript>
+</div>
+</div>
+<div class='share'>
+<span class='gplus-share social-wrapper' data-href='https://plus.google.com/share?url=https://googleblog.blogspot.com/2007/03/world-in-motion.html'>
+<img alt='Share on Google+' height='24' src='assets/375c175aa543ca04209be521437048cc.png' width='24'/>
+</span>
+<span class='twitter-custom social-wrapper' data-href='http://twitter.com/share?text=Official Google Blog:A world in motion&url=https://googleblog.blogspot.com/2007/03/world-in-motion.html&via=google'>
+<img alt='Share on Twitter' height='24' src='assets/a4381bbc7f0d4369bfbed84444c49772.png' width='24'/>
+</span>
+<span class='fb-custom social-wrapper' data-href='https://www.facebook.com/sharer.php?u=https://googleblog.blogspot.com/2007/03/world-in-motion.html'>
+<img alt='Share on Facebook' height='24' src='assets/198855dabb1571e498f6125318f3dc8f.png' width='24'/>
+</span>
+</div>
+<div class='post-footer'>
+<div class='cmt_iframe_holder' data-href='https://googleblog.blogspot.com/2007/03/world-in-motion.html' data-viewtype='FILTERED_POSTMOD'></div>
+<a href='https://plus.google.com/112374322230920073195' rel='author' style='display:none;'>
+                        Google
+                      </a>
+<div class='label-footer'>
+<span class='labels-caption'>
+Labels:
+</span>
+<span class='labels'>
+<a class='label' href='https://googleblog.blogspot.com/search/label/apps' rel='tag'>
+apps
+</a>
+</span>
+</div>
+</div>
+<div class='comments' id='comments'>
+<a name='comments'></a>
+<div id='backlinks-container'>
+<div id='Blog1_backlinks-container'>
+<a name='links'></a>
+<h4>
+<!--Can't find substitution for tag [post.backlinksLabel]-->
+</h4>
+<p class='comment-footer'>
+<a class='comment-link' href='' id='Blog1_backlinks-create-link' target='_blank'>
+<!--Can't find substitution for tag [post.createLinkLabel]-->
+</a>
+</p>
+</div>
+</div>
+</div>
+</div>
+<div class='blog-pager' id='blog-pager'>
+<a class='home-link' href='https://googleblog.blogspot.com/'>
+<i class='material-icons'>
+                      &#59530;
+                    </i>
+</a>
+<span id='blog-pager-newer-link'>
+<a class='blog-pager-newer-link' href='https://googleblog.blogspot.com/2007/03/let-passion-continue-were-acquiring.html' id='Blog1_blog-pager-newer-link' title='Newer Post'>
+<i class='material-icons'>
+                          &#58820;
+                        </i>
+</a>
+</span>
+<span id='blog-pager-older-link'>
+<a class='blog-pager-older-link' href='https://googleblog.blogspot.com/2007/03/webmasters-google-sprechen-deutsch.html' id='Blog1_blog-pager-older-link' title='Older Post'>
+<i class='material-icons'>
+                          &#58824;
+                        </i>
+</a>
+</span>
+</div>
+<div class='clear'></div>
+</div></div>
+</div>
+</div>
+<div class='col-right'>
+<div class='section' id='sidebar-top'><div class='widget HTML' data-version='1' id='HTML8'>
+<div class='widget-content'>
+<div class='searchBox'><input type='text' title='Search This Blog' placeholder='Search blog ...' /></div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=10861780&widgetType=HTML&widgetId=HTML8&action=editWidget&sectionId=sidebar-top' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML8"));' rel='nofollow' target='configHTML8' title='Edit'>
+<img alt='' height='18' src='assets/b3722c57a3076542378fd7ababeb6465.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+<div id='aside'>
+<div class='section' id='sidebar'><div class='widget Label' data-version='1' id='Label1'>
+<div class='tab'>
+<img class='sidebar-icon' src='data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAYpJREFUeNrs2aFuwzAQBmAvKRkMKRjZA4QMDJaWFgyMjuzFRg37DIUlA3uFkoGQSaWzJU+tpri5O9+l/zSfdFJlpe59yTmyVedq1PjfcZMZ70NuQnaF8w8htyE/rABtpviXkLcK88c5HhLkMBfgVan43zfFBNGMjHVGT/s55KP2pAvidbGHd+nzKt1RKSLG3rKF1iPFv6UWiPke8i7kEqGdGsI1O+LYVdqJAjgirwkKYD0ytkJBUNbAMvX8V3q9PhUsYvU1sWD8SO/sQvx2ahxOiNoJCSBCoAHYCEQAC4EKICOQASQEOmAS8RcAFxFN5hiIiugpgC3wk9hQAHH/70EBHXUN7IER5EWMiBgo2+nzOKQv9SCAeEM/OQAkhE/ncccFICB87qzQMia5FsJfOui0zMnmRvipU1ormHQuxGTxUsAcCFLxJQBLBLn4UoAFglW8BkATwS5eC6CBEBWvCShBiIvXBkgQRcVbADiI4uKtABSESvGWgB9EzHt3+tNwyO0qa9SoIYtvAQYAqDJhaWWeMecAAAAASUVORK5CYII='/>
+<h2>
+Labels
+</h2>
+<i class='material-icons arrow'>
+                      &#58821;
+                    </i>
+</div>
+<div class='widget-content list-label-widget-content'>
+<ul>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/accessibility'>
+accessibility
+</a>
+<span dir='ltr'>
+41
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/acquisition'>
+acquisition
+</a>
+<span dir='ltr'>
+26
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/ads'>
+ads
+</a>
+<span dir='ltr'>
+131
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/Africa'>
+Africa
+</a>
+<span dir='ltr'>
+19
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/Android'>
+Android
+</a>
+<span dir='ltr'>
+59
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/apps'>
+apps
+</a>
+<span dir='ltr'>
+419
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/April%201'>
+April 1
+</a>
+<span dir='ltr'>
+4
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/Asia'>
+Asia
+</a>
+<span dir='ltr'>
+39
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/books%20%2B%20book%20search'>
+books + book search
+</a>
+<span dir='ltr'>
+48
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/commerce'>
+commerce
+</a>
+<span dir='ltr'>
+12
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/computing%20history'>
+computing history
+</a>
+<span dir='ltr'>
+7
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/crisis%20response'>
+crisis response
+</a>
+<span dir='ltr'>
+33
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/culture'>
+culture
+</a>
+<span dir='ltr'>
+12
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/developers'>
+developers
+</a>
+<span dir='ltr'>
+120
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/diversity'>
+diversity
+</a>
+<span dir='ltr'>
+35
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/doodles'>
+doodles
+</a>
+<span dir='ltr'>
+68
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/education%20and%20research'>
+education and research
+</a>
+<span dir='ltr'>
+144
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/entrepreneurs%20at%20Google'>
+entrepreneurs at Google
+</a>
+<span dir='ltr'>
+14
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/Europe'>
+Europe
+</a>
+<span dir='ltr'>
+46
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/faster%20web'>
+faster web
+</a>
+<span dir='ltr'>
+16
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/free%20expression'>
+free expression
+</a>
+<span dir='ltr'>
+61
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/google.org'>
+google.org
+</a>
+<span dir='ltr'>
+73
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/googleplus'>
+googleplus
+</a>
+<span dir='ltr'>
+50
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/googlers%20and%20culture'>
+googlers and culture
+</a>
+<span dir='ltr'>
+202
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/green'>
+green
+</a>
+<span dir='ltr'>
+102
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/Latin%20America'>
+Latin America
+</a>
+<span dir='ltr'>
+18
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/maps%20and%20earth'>
+maps and earth
+</a>
+<span dir='ltr'>
+194
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/mobile'>
+mobile
+</a>
+<span dir='ltr'>
+125
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/online%20safety'>
+online safety
+</a>
+<span dir='ltr'>
+19
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/open%20source'>
+open source
+</a>
+<span dir='ltr'>
+19
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/photos'>
+photos
+</a>
+<span dir='ltr'>
+39
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/policy%20and%20issues'>
+policy and issues
+</a>
+<span dir='ltr'>
+139
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/politics'>
+politics
+</a>
+<span dir='ltr'>
+71
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/privacy'>
+privacy
+</a>
+<span dir='ltr'>
+66
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/recruiting%20and%20hiring'>
+recruiting and hiring
+</a>
+<span dir='ltr'>
+32
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/scholarships'>
+scholarships
+</a>
+<span dir='ltr'>
+31
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/search'>
+search
+</a>
+<span dir='ltr'>
+505
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/search%20quality'>
+search quality
+</a>
+<span dir='ltr'>
+24
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/search%20trends'>
+search trends
+</a>
+<span dir='ltr'>
+118
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/security'>
+security
+</a>
+<span dir='ltr'>
+36
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/small%20business'>
+small business
+</a>
+<span dir='ltr'>
+31
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/user%20experience%20and%20usability'>
+user experience and usability
+</a>
+<span dir='ltr'>
+41
+</span>
+</li>
+<li>
+<a dir='ltr' href='https://googleblog.blogspot.com/search/label/youtube%20and%20video'>
+youtube and video
+</a>
+<span dir='ltr'>
+140
+</span>
+</li>
+</ul>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=10861780&widgetType=Label&widgetId=Label1&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("Label1"));' rel='nofollow' target='configLabel1' title='Edit'>
+<img alt='' height='18' src='assets/b3722c57a3076542378fd7ababeb6465.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget BlogArchive' data-version='1' id='BlogArchive1'>
+<div class='tab'>
+<i class='material-icons icon'>
+                      &#58055;
+                    </i>
+<h2>
+Archive
+</h2>
+<i class='material-icons arrow'>
+                      &#58821;
+                    </i>
+</div>
+<div class='widget-content'>
+<div id='ArchiveList'>
+<div id='BlogArchive1_ArchiveList'>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class='intervalToggle'>
+<span class='new-toggle' href='javascript:void(0)'>
+<i class='material-icons arrow'>
+                    &#58821;
+                  </i>
+</span>
+<a class='toggle' href='javascript:void(0)' style='display: none'>
+<span class='zippy'>
+<i class='material-icons'>
+                        &#58821;
+                      </i>
+                      &#160;
+                    
+</span>
+</a>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2016/'>
+2016
+</a>
+</div>
+<div class='items'>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2016/11/'>
+Nov
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2016/10/'>
+Oct
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2016/09/'>
+Sep
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2016/08/'>
+Aug
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2016/07/'>
+Jul
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2016/06/'>
+Jun
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2016/05/'>
+May
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2016/04/'>
+Apr
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2016/03/'>
+Mar
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2016/02/'>
+Feb
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2016/01/'>
+Jan
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class='intervalToggle'>
+<span class='new-toggle' href='javascript:void(0)'>
+<i class='material-icons arrow'>
+                    &#58821;
+                  </i>
+</span>
+<a class='toggle' href='javascript:void(0)' style='display: none'>
+<span class='zippy'>
+<i class='material-icons'>
+                        &#58821;
+                      </i>
+                      &#160;
+                    
+</span>
+</a>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2015/'>
+2015
+</a>
+</div>
+<div class='items'>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2015/12/'>
+Dec
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2015/11/'>
+Nov
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2015/10/'>
+Oct
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2015/09/'>
+Sep
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2015/08/'>
+Aug
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2015/07/'>
+Jul
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2015/06/'>
+Jun
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2015/05/'>
+May
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2015/04/'>
+Apr
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2015/03/'>
+Mar
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2015/02/'>
+Feb
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2015/01/'>
+Jan
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class='intervalToggle'>
+<span class='new-toggle' href='javascript:void(0)'>
+<i class='material-icons arrow'>
+                    &#58821;
+                  </i>
+</span>
+<a class='toggle' href='javascript:void(0)' style='display: none'>
+<span class='zippy'>
+<i class='material-icons'>
+                        &#58821;
+                      </i>
+                      &#160;
+                    
+</span>
+</a>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2014/'>
+2014
+</a>
+</div>
+<div class='items'>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2014/12/'>
+Dec
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2014/11/'>
+Nov
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2014/10/'>
+Oct
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2014/09/'>
+Sep
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2014/08/'>
+Aug
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2014/07/'>
+Jul
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2014/06/'>
+Jun
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2014/05/'>
+May
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2014/04/'>
+Apr
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2014/03/'>
+Mar
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2014/02/'>
+Feb
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2014/01/'>
+Jan
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class='intervalToggle'>
+<span class='new-toggle' href='javascript:void(0)'>
+<i class='material-icons arrow'>
+                    &#58821;
+                  </i>
+</span>
+<a class='toggle' href='javascript:void(0)' style='display: none'>
+<span class='zippy'>
+<i class='material-icons'>
+                        &#58821;
+                      </i>
+                      &#160;
+                    
+</span>
+</a>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2013/'>
+2013
+</a>
+</div>
+<div class='items'>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2013/12/'>
+Dec
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2013/11/'>
+Nov
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2013/10/'>
+Oct
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2013/09/'>
+Sep
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2013/08/'>
+Aug
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2013/07/'>
+Jul
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2013/06/'>
+Jun
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2013/05/'>
+May
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2013/04/'>
+Apr
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2013/03/'>
+Mar
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2013/02/'>
+Feb
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2013/01/'>
+Jan
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class='intervalToggle'>
+<span class='new-toggle' href='javascript:void(0)'>
+<i class='material-icons arrow'>
+                    &#58821;
+                  </i>
+</span>
+<a class='toggle' href='javascript:void(0)' style='display: none'>
+<span class='zippy'>
+<i class='material-icons'>
+                        &#58821;
+                      </i>
+                      &#160;
+                    
+</span>
+</a>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2012/'>
+2012
+</a>
+</div>
+<div class='items'>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2012/12/'>
+Dec
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2012/11/'>
+Nov
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2012/10/'>
+Oct
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2012/09/'>
+Sep
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2012/08/'>
+Aug
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2012/07/'>
+Jul
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2012/06/'>
+Jun
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2012/05/'>
+May
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2012/04/'>
+Apr
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2012/03/'>
+Mar
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2012/02/'>
+Feb
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2012/01/'>
+Jan
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class='intervalToggle'>
+<span class='new-toggle' href='javascript:void(0)'>
+<i class='material-icons arrow'>
+                    &#58821;
+                  </i>
+</span>
+<a class='toggle' href='javascript:void(0)' style='display: none'>
+<span class='zippy'>
+<i class='material-icons'>
+                        &#58821;
+                      </i>
+                      &#160;
+                    
+</span>
+</a>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2011/'>
+2011
+</a>
+</div>
+<div class='items'>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2011/12/'>
+Dec
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2011/11/'>
+Nov
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2011/10/'>
+Oct
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2011/09/'>
+Sep
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2011/08/'>
+Aug
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2011/07/'>
+Jul
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2011/06/'>
+Jun
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2011/05/'>
+May
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2011/04/'>
+Apr
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2011/03/'>
+Mar
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2011/02/'>
+Feb
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2011/01/'>
+Jan
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class='intervalToggle'>
+<span class='new-toggle' href='javascript:void(0)'>
+<i class='material-icons arrow'>
+                    &#58821;
+                  </i>
+</span>
+<a class='toggle' href='javascript:void(0)' style='display: none'>
+<span class='zippy'>
+<i class='material-icons'>
+                        &#58821;
+                      </i>
+                      &#160;
+                    
+</span>
+</a>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2010/'>
+2010
+</a>
+</div>
+<div class='items'>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2010/12/'>
+Dec
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2010/11/'>
+Nov
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2010/10/'>
+Oct
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2010/09/'>
+Sep
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2010/08/'>
+Aug
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2010/07/'>
+Jul
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2010/06/'>
+Jun
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2010/05/'>
+May
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2010/04/'>
+Apr
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2010/03/'>
+Mar
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2010/02/'>
+Feb
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2010/01/'>
+Jan
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class='intervalToggle'>
+<span class='new-toggle' href='javascript:void(0)'>
+<i class='material-icons arrow'>
+                    &#58821;
+                  </i>
+</span>
+<a class='toggle' href='javascript:void(0)' style='display: none'>
+<span class='zippy'>
+<i class='material-icons'>
+                        &#58821;
+                      </i>
+                      &#160;
+                    
+</span>
+</a>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2009/'>
+2009
+</a>
+</div>
+<div class='items'>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2009/12/'>
+Dec
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2009/11/'>
+Nov
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2009/10/'>
+Oct
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2009/09/'>
+Sep
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2009/08/'>
+Aug
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2009/07/'>
+Jul
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2009/06/'>
+Jun
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2009/05/'>
+May
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2009/04/'>
+Apr
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2009/03/'>
+Mar
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2009/02/'>
+Feb
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2009/01/'>
+Jan
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class='intervalToggle'>
+<span class='new-toggle' href='javascript:void(0)'>
+<i class='material-icons arrow'>
+                    &#58821;
+                  </i>
+</span>
+<a class='toggle' href='javascript:void(0)' style='display: none'>
+<span class='zippy'>
+<i class='material-icons'>
+                        &#58821;
+                      </i>
+                      &#160;
+                    
+</span>
+</a>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2008/'>
+2008
+</a>
+</div>
+<div class='items'>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2008/12/'>
+Dec
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2008/11/'>
+Nov
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2008/10/'>
+Oct
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2008/09/'>
+Sep
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2008/08/'>
+Aug
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2008/07/'>
+Jul
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2008/06/'>
+Jun
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2008/05/'>
+May
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2008/04/'>
+Apr
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2008/03/'>
+Mar
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2008/02/'>
+Feb
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2008/01/'>
+Jan
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<div class='intervalToggle'>
+<span class='new-toggle' href='javascript:void(0)'>
+<i class='material-icons arrow'>
+                    &#58821;
+                  </i>
+</span>
+<a class='toggle' href='javascript:void(0)' style='display: none'>
+<span class='zippy toggle-open'>
+<i class='material-icons'>
+                        &#58823;
+                      </i>
+                      &#160;
+                      
+</span>
+</a>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2007/'>
+2007
+</a>
+</div>
+<div class='items'>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2007/12/'>
+Dec
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2007/11/'>
+Nov
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2007/10/'>
+Oct
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2007/09/'>
+Sep
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2007/08/'>
+Aug
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2007/07/'>
+Jul
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2007/06/'>
+Jun
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2007/05/'>
+May
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2007/04/'>
+Apr
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate expanded'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2007/03/'>
+Mar
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2007/02/'>
+Feb
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2007/01/'>
+Jan
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class='intervalToggle'>
+<span class='new-toggle' href='javascript:void(0)'>
+<i class='material-icons arrow'>
+                    &#58821;
+                  </i>
+</span>
+<a class='toggle' href='javascript:void(0)' style='display: none'>
+<span class='zippy'>
+<i class='material-icons'>
+                        &#58821;
+                      </i>
+                      &#160;
+                    
+</span>
+</a>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2006/'>
+2006
+</a>
+</div>
+<div class='items'>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2006/12/'>
+Dec
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2006/11/'>
+Nov
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2006/10/'>
+Oct
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2006/09/'>
+Sep
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2006/08/'>
+Aug
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2006/07/'>
+Jul
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2006/06/'>
+Jun
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2006/05/'>
+May
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2006/04/'>
+Apr
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2006/03/'>
+Mar
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2006/02/'>
+Feb
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2006/01/'>
+Jan
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class='intervalToggle'>
+<span class='new-toggle' href='javascript:void(0)'>
+<i class='material-icons arrow'>
+                    &#58821;
+                  </i>
+</span>
+<a class='toggle' href='javascript:void(0)' style='display: none'>
+<span class='zippy'>
+<i class='material-icons'>
+                        &#58821;
+                      </i>
+                      &#160;
+                    
+</span>
+</a>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2005/'>
+2005
+</a>
+</div>
+<div class='items'>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2005/12/'>
+Dec
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2005/11/'>
+Nov
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2005/10/'>
+Oct
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2005/09/'>
+Sep
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2005/08/'>
+Aug
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2005/07/'>
+Jul
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2005/06/'>
+Jun
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2005/05/'>
+May
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2005/04/'>
+Apr
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2005/03/'>
+Mar
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2005/02/'>
+Feb
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2005/01/'>
+Jan
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class='intervalToggle'>
+<span class='new-toggle' href='javascript:void(0)'>
+<i class='material-icons arrow'>
+                    &#58821;
+                  </i>
+</span>
+<a class='toggle' href='javascript:void(0)' style='display: none'>
+<span class='zippy'>
+<i class='material-icons'>
+                        &#58821;
+                      </i>
+                      &#160;
+                    
+</span>
+</a>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2004/'>
+2004
+</a>
+</div>
+<div class='items'>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2004/12/'>
+Dec
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2004/11/'>
+Nov
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2004/10/'>
+Oct
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2004/09/'>
+Sep
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2004/08/'>
+Aug
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2004/07/'>
+Jul
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2004/06/'>
+Jun
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2004/05/'>
+May
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+<ul class='hierarchy'>
+<li class='archivedate collapsed'>
+<div class=''>
+<a class='post-count-link' href='https://googleblog.blogspot.com/2004/04/'>
+Apr
+</a>
+</div>
+<div class='items'>
+</div>
+</li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=10861780&widgetType=BlogArchive&widgetId=BlogArchive1&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("BlogArchive1"));' rel='nofollow' target='configBlogArchive1' title='Edit'>
+<img alt='' height='18' src='assets/b3722c57a3076542378fd7ababeb6465.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div>
+</div><div class='widget HTML' data-version='1' id='HTML6'>
+<div class='widget-content'>
+<a href="http://googleblog.blogspot.com/atom.xml">
+<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADAAAAAwCAYAAABXAvmHAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAihJREFUeNrsWa9Pw0AU7viRMDFRBAkzJDMIBIhJJhCzk7NILIqMv4AEhdz+BCY3OYssAlGBoAJREpZwAlHEBO8lr8nSvNeVbu1dyX3JlzTrXfa+u/e9d7c5joWFhYVO1Fa8PwH2gK6m+BRwAvSlAdsrgr8E1jUuMH73GTAEzrkBWymTewZlihhLmgDXIAFuHgGVQOUF7OSYM1p6PgTuA1vAZlUEvAnPdapcMY0VICECekQ0XRfYrqoHsAGNgXfAoMomRiFDEhOZkkL3S88hMaB2LwXp0bj+ps2edpToZpjfoIDQtBeU+xjoDzP2G/gCPKZ5f8WsCAFJoJgOCcFdWSTeL9YQMSvTA1h9BkI5jaiXhLpSCL/8mVZY0UpyJ9ZdOkniu1dmJ96BpzQu9w6s28gcOq9j6pwLdR8/36NK5CQKwJSMrb2MhhSglBpt4UjsrdsnNu0B3J0HCozbCc4TjyY2srEgos/4RQljCzNxl4ireQD8FOq+T+W0mTB2g7njhlR+Sy2jsXFvU658U8YTbeaGpdIu7mWkEAq5ZtIjIhFZdtfX7QHckSvB2B6zC3VdAkZk0kAQwaXTk/CzTXK3wjIExCs6ZJpTnE4uY1KV+KzFzA3KTiFPENHJkOPcsfpLhwe4btoSuvUqAR+6TOxlCE6ZfKUsJLgsqGW8OpqAGx2X+sLxrwUog+JUeQRMDBIwyXOcnlPtPnL0/UsT/8LnOxYWFhZG4leAAQAAQHEaYuzHbAAAAABJRU5ErkJggg==" class="sidebar-icon" />
+<h2>Feed</h2>
+</a>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=10861780&widgetType=HTML&widgetId=HTML6&action=editWidget&sectionId=sidebar' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML6"));' rel='nofollow' target='configHTML6' title='Edit'>
+<img alt='' height='18' src='assets/b3722c57a3076542378fd7ababeb6465.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+<div class='section' id='sidebar-bottom'><div class='widget HTML' data-version='1' id='HTML5'>
+<div class='widget-content'>
+<div class="followgooglewrapper">
+<a href="https://plus.google.com/+google" rel="publisher" style="text-decoration:none;display:inline-block;color:#333;text-align:center; font:13px/16px arial,sans-serif;white-space:nowrap;">
+<span style="display:inline-block;font-weight:bold;vertical-align:top;margin-right:5px; margin-top:0px;">Google</span><span style="display:inline-block;vertical-align:top;margin-right:13px; margin-top:0px;">on</span>
+<img src="assets/5ad9d5def873b93bdb7634456ba1a92b.png" alt="Google+" style="border:0;width:16px;height:16px;"/></a>
+</div>
+
+<div class='followgooglewrapper'>
+  <script src="assets/f01762a233ddeaa5f68236eaf27890ef.js"></script>
+<div class="g-ytsubscribe" data-channel="Google" data-layout="default"></div>
+</div>
+
+		  
+<div class="share followgooglewrapper">
+<button data-href="https://twitter.com/intent/follow?original_referer=http://googleblog.blogspot.com/&amp;screen_name=google" onclick='sharingPopup(this);' id='twitter-share'><span class="twitter-follow">Follow @google</span></button>
+<script>     
+      function sharingPopup (button) {
+      var url = button.getAttribute("data-href");
+	    window.open(
+ url,'popUpWindow','height=500,width=500,left=10,top=10,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes');
+          }
+    </script>
+</div>
+
+<!-- Facebook -->
+<div class="fb-follow-button">
+     <a href="https://www.facebook.com/google" target="_blank"><img class="fb-follow" src="assets/42fa588fd2669cb7ce9038c1d7229b5b.png">Follow</a>
+</div>
+
+<!-- Instagram -->
+<style>.ig-b- { display: inline-block; }
+.ig-b- img { visibility: hidden; }
+.ig-b-:hover { background-position: 0 -60px; } .ig-b-:active { background-position: 0 -120px; }
+.ig-b-v-24 { width: 137px; height: 24px; background: url(assets/c55846b300ac7f0ee2fa32b27b7d1799.png) no-repeat 0 0; }
+@media only screen and (-webkit-min-device-pixel-ratio: 2), only screen and (min--moz-device-pixel-ratio: 2), only screen and (-o-min-device-pixel-ratio: 2 / 1), only screen and (min-device-pixel-ratio: 2), only screen and (min-resolution: 192dpi), only screen and (min-resolution: 2dppx) {
+.ig-b-v-24 { background-image: url(assets/8a227e0db00bf43a84007ce63dc5f59e.png); background-size: 160px 178px; } }</style>
+<div class="followgooglewrapper">
+<a href="http://instagram.com/google?ref=badge" class="ig-b- ig-b-v-24" target="_blank"><img src="assets/47f5c9e1dc0c9dd57814a250351ddbeb.png" alt="Instagram" /></a>
+</div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=10861780&widgetType=HTML&widgetId=HTML5&action=editWidget&sectionId=sidebar-bottom' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML5"));' rel='nofollow' target='configHTML5' title='Edit'>
+<img alt='' height='18' src='assets/b3722c57a3076542378fd7ababeb6465.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div><div class='widget HTML' data-version='1' id='HTML1'>
+<div class='widget-content'>
+<div class="text">
+Give us feedback in our <br /> <a href="http://support.google.com/bin/static.py?hl=en&page=portal_groups.cs">Product Forums</a>.
+</div>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=10861780&widgetType=HTML&widgetId=HTML1&action=editWidget&sectionId=sidebar-bottom' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML1"));' rel='nofollow' target='configHTML1' title='Edit'>
+<img alt='' height='18' src='assets/b3722c57a3076542378fd7ababeb6465.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+</div>
+</div>
+<div style='clear:both;'></div>
+</div>
+<!-- Footer -->
+<div class='footer-outer loading'>
+<div class='footer-inner'>
+<div class='footer-inner-2'>
+<div style='width:33%;float:left;'>
+<div class='section' id='footer-1'><div class='widget HTML' data-version='1' id='HTML2'>
+<h2 class='title'>
+Company-wide
+</h2>
+<div class='widget-content'>
+<ul>
+<li>
+<a href="//googlepublicpolicy.blogspot.com/" title="Public Policy">Public Policy Blog</a>
+</li>
+<li>
+<a href="//googleresearch.blogspot.com/" title="Research">Research Blog</a>
+</li>
+<li>
+<a href="//googleforstudents.blogspot.com/" title="Student">Student Blog</a>
+</li>
+</ul>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=10861780&widgetType=HTML&widgetId=HTML2&action=editWidget&sectionId=footer-1' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML2"));' rel='nofollow' target='configHTML2' title='Edit'>
+<img alt='' height='18' src='assets/b3722c57a3076542378fd7ababeb6465.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+</div>
+<div style='width:33%;float:left;'>
+<div class='section' id='footer-2'><div class='widget HTML' data-version='1' id='HTML3'>
+<h2 class='title'>
+Products
+</h2>
+<div class='widget-content'>
+<ul>
+<li>
+<a href="//officialandroid.blogspot.com/" title="Android">Official Android Blog</a>
+</li>
+<li>
+<a href="//chrome.blogspot.com/" title="Chrome">Chrome Blog</a>
+</li>
+<li>
+<a href="//google-latlong.blogspot.com/" title="Lat Long">Lat Long Blog</a>
+</li>
+</ul>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=10861780&widgetType=HTML&widgetId=HTML3&action=editWidget&sectionId=footer-2' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML3"));' rel='nofollow' target='configHTML3' title='Edit'>
+<img alt='' height='18' src='assets/b3722c57a3076542378fd7ababeb6465.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+</div>
+<div style='width:33%;float:left;'>
+<div class='section' id='footer-3'><div class='widget HTML' data-version='1' id='HTML4'>
+<h2 class='title'>
+Developers
+</h2>
+<div class='widget-content'>
+<ul>
+<li>
+<a href="//googledevelopers.blogspot.com/" title="Developers">Developers Blog</a>
+</li>
+<li>
+<a href="//googleadsdeveloper.blogspot.com/" title="Ads Developer">Ads Developer Blog</a>
+</li>
+<li>
+<a href="//android-developers.blogspot.com/" title="Android">Android Developers Blog</a>
+</li>
+</ul>
+</div>
+<div class='clear'></div>
+<span class='widget-item-control'>
+<span class='item-control blog-admin'>
+<a class='quickedit' href='//www.blogger.com/rearrange?blogID=10861780&widgetType=HTML&widgetId=HTML4&action=editWidget&sectionId=footer-3' onclick='return _WidgetManager._PopupConfig(document.getElementById("HTML4"));' rel='nofollow' target='configHTML4' title='Edit'>
+<img alt='' height='18' src='assets/b3722c57a3076542378fd7ababeb6465.png' width='18'/>
+</a>
+</span>
+</span>
+<div class='clear'></div>
+</div></div>
+</div>
+<div style='clear:both;'></div>
+</div>
+</div>
+</div>
+<div class='google-footer-outer loading'>
+<div id='google-footer'>
+<a href='//www.google.com/'>
+<img class='google-logo-dark' height='36' src='data:image/png;base64,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' style='margin-top: -16px;' width='92'/>
+</a>
+<ul>
+<li>
+<a href='//www.google.com/'>
+              Google
+            </a>
+</li>
+<li>
+<a href='//www.google.com/policies/privacy/'>
+              Privacy
+            </a>
+</li>
+<li>
+<a href='//www.google.com/policies/terms/'>
+              Terms
+            </a>
+</li>
+</ul>
+</div>
+</div>
+<script type='text/javascript'>
+      //<![CDATA[
+      // Social sharing popups.
+      var postEl = document.getElementsByClassName('social-wrapper');
+      var postCount = postEl.length;
+      for(i=0; i<postCount;i++){
+        postEl[i].addEventListener("click", function(event){
+          var postUrl = this.getAttribute("data-href");
+          window.open(
+            postUrl,'popUpWindow','height=500,width=500,left=10,top=10,resizable=yes,scrollbars=yes,toolbar=yes,menubar=no,location=no,directories=no,status=yes');
+        });}
+      //]]>
+    </script>
+<script type='text/javascript'>
+      //<![CDATA[
+      var BreakpointHandler = function() {
+        this.initted = false;
+        this.isHomePage = false;
+        this.isMobile = false;
+      };
+      BreakpointHandler.prototype.finalizeSummary = function(summaryHtml, lastNode) {
+        // Use $.trim for IE8 compatibility
+        summaryHtml = $.trim(summaryHtml).replace(/(<br>|\s)+$/,'');
+        if (lastNode.nodeType == 3) {
+          var lastChar = summaryHtml.slice(-1);
+          if (!lastChar.match(/[.”"?]/)) {
+            if (!lastChar.match(/[A-Za-z]/)) {
+              summaryHtml = summaryHtml.slice(0, -1);
+            }
+            summaryHtml += ' ...';
+          }
+        } else if (lastNode.nodeType == 1 && (lastNode.nodeName == 'I' || lastNode.nodeName == 'A')) {
+          summaryHtml += ' ...';
+        }
+        return summaryHtml;
+      };
+      BreakpointHandler.prototype.generateSummaryFromContent = function(content, numWords) {
+        var seenWords = 0;
+        var summaryHtml = '';
+        for (var i=0; i < content.childNodes.length; i++) {
+          var node = content.childNodes[i];
+          var nodeText;
+          if (node.nodeType == 1) {
+            if (node.hasAttribute('data-about-pullquote')) {
+              continue;
+            }
+            nodeText = node.textContent;
+            if (nodeText === undefined) {
+              // innerText for IE8
+              nodeText = node.innerText;
+            }
+            if (node.nodeName == 'DIV' || node.nodeName == 'B') {
+              // Don't end early if we haven't seen enough words.
+              if (seenWords < 10) {
+                continue;
+              }
+              if (i > 0) {
+                summaryHtml = this.finalizeSummary(summaryHtml, content.childNodes[i-1]);
+              }
+              break;
+            }
+            summaryHtml += node.outerHTML;
+          } else if (node.nodeType == 3) {
+            nodeText = node.nodeValue;
+            summaryHtml += nodeText + ' ';
+          }
+          var words = nodeText.match(/\S+\s*/g);
+          if (!words) {
+            continue;
+          }
+          var remain = numWords - seenWords;
+          if (words.length >= remain) {
+            summaryHtml = this.finalizeSummary(summaryHtml, node);
+            break;
+          }
+          seenWords += words.length;
+        }
+        return summaryHtml;
+      };
+      BreakpointHandler.prototype.detect = function() {
+        var match,
+            pl     = /\+/g,
+            search = /([^&=]+)=?([^&]*)/g,
+            decode = function (s) { return decodeURIComponent(s.replace(pl, " ")); },
+            query  = window.location.search.substring(1);
+        var urlParams = {};
+        while (match = search.exec(query))
+          urlParams[decode(match[1])] = decode(match[2]);
+        this.isListPage = $('html').hasClass('list-page');
+        this.isMobile = urlParams['m'] === '1';
+        this.isHomePage = window.location.pathname == '/';
+      };
+      BreakpointHandler.prototype.initContent = function() {
+        var self = this;
+        $('.post').each(function(index) {
+          var body = $(this).children('.post-body')[0];
+          var content = $(body).children('.post-content')[0];
+          $(content).addClass('post-original');
+
+          var data = $(content).children('script').html();
+          data = self.rewriteForSSL(data);
+
+          // If exists, extract specified editor's preview.
+          var match = data.match(/([\s\S]+?)<div data-is-preview.+?>([\s\S]+)<\/div>/m);
+
+          if (match) {
+            data = match[1];
+          }
+
+          // Prevent big images from loading when they aren't needed.
+          // This must be done as a pre-injection step, since image loading can't be
+          // canceled once embedded into the DOM.
+          if (self.isListPage && self.isMobile) {
+            data = data.replace(/<(img|iframe) .+?>/g, '');
+          }
+
+          // Insert template to be rendered as nodes.
+          content.innerHTML = data;
+
+          if (self.isListPage) {
+            var summary = document.createElement('div');
+            $(summary).addClass('post-content');
+            $(summary).addClass('post-summary');
+            body.insertBefore(summary, content);
+            if (match) {
+              // Use provided summary.
+              summary.innerHTML = match[2];
+            } else {
+              // Generate a summary.
+              // Summary generation relies on DOM, so it must occur after content is
+              // inserted into the page.
+              summary.innerHTML = self.generateSummaryFromContent(content, 30);
+            }
+
+            // Add read more link to summary.
+            var titleAnchor = $(this).find('.title a')[0];
+            var link = titleAnchor.cloneNode(true);
+            link.innerHTML = 'Read More';
+            $(link).addClass('read-more');
+            summary.appendChild(link);
+          }
+        });
+        // Firefox does not allow for proper styling of BR.
+        if (navigator.userAgent.indexOf('Firefox') > -1) {
+          $('.post-content br').replaceWith('<span class="space"></span>');
+        }
+        $('.loading').removeClass('loading');
+      };
+      BreakpointHandler.prototype.process = function() {
+        if (!this.initted) {
+          var makeInsecureImageRegex = function(hosts) {
+            var whitelist = hosts.join('|').replace(/\./g,'\\.');
+            // Normal image tags, plus input images (yes, this is possible!)
+            return new RegExp('(<(img|input)[^>]+?src=("|\'))http:\/\/(' + whitelist +')', 'g');
+          };
+          this.sslImageRegex = makeInsecureImageRegex(BreakpointHandler.KNOWN_HTTPS_HOSTS);
+          this.sslImageCurrentDomainRegex = makeInsecureImageRegex([window.location.hostname]);
+          this.detect();
+          this.initContent();
+          this.initted = true;
+        }
+      };
+      BreakpointHandler.KNOWN_HTTPS_HOSTS = [
+        "www.google.org",
+        "www.google.com",
+        "services.google.com",
+
+        "blogger.com",
+        "draft.blogger.com",
+        "www.blogger.com",
+        "photos1.blogger.com",
+        "photos2.blogger.com",
+        "photos3.blogger.com",
+
+        "blogblog.com",
+        "img1.blogblog.com",
+        "img2.blogblog.com",
+        "www.blogblog.com",
+        "www1.blogblog.com",
+        "www2.blogblog.com",
+
+        "0.bp.blogspot.com",
+        "1.bp.blogspot.com",
+        "2.bp.blogspot.com",
+        "3.bp.blogspot.com",
+        "4.bp.blogspot.com",
+
+        "lh3.googleusercontent.com",
+        "lh4.googleusercontent.com",
+        "lh5.googleusercontent.com",
+        "lh6.googleusercontent.com",
+        "themes.googleusercontent.com",
+      ];
+      BreakpointHandler.prototype.rewriteForSSL = function(html) {
+        // Handle HTTP -> HTTPS source replacement of images, movies, and other embedded content.
+        return html.replace(this.sslImageRegex, '$1https://$4')
+            .replace(this.sslImageCurrentDomainRegex, '$1//$4')
+            .replace(/(<(embed|iframe)[^>]+?src=("|'))http:\/\/([^"']*?(youtube|picasaweb\.google)\.com)/g, '$1https://$4')
+            // Slideshow SWF takes a image host, so we need to rewrite that parameter.
+            .replace(/(<embed[^>]+?feed=http(?=[^s]))/g, '$1s');
+      };
+      $(document).ready(function() {
+        var handler = new BreakpointHandler();
+        handler.process();
+        // Top-level navigation.
+        $(".BlogArchive .tab").click(function(ev) {
+          ev.preventDefault();
+          $(this).parent().toggleClass('active');
+          $(this).siblings().slideToggle(300);
+        });
+        $(".Label .tab").click(function(ev) {
+          ev.preventDefault();
+          $(this).parent().toggleClass('active');
+          $(this).siblings().slideToggle(300);
+        });
+        // Blog archive year expansion.
+        $('.BlogArchive .intervalToggle').click(function(ev) {
+          ev.preventDefault();
+          if ($(this).parent().hasClass('collapsed')) {
+            $(this).parent().removeClass('collapsed');
+            $(this).parent().addClass('expanded');
+          } else {
+            $(this).parent().removeClass('expanded');
+            $(this).parent().addClass('collapsed');
+          }
+        });
+        // Reverse order of months.
+        $('.BlogArchive .intervalToggle + div').each(function(_, items) {
+          var year = $(this);
+          year.children().each(function(_, month) {
+            year.prepend(month);
+          });
+        });
+        // Set anchors to open in new tab.
+        $('.post-content img').parent().each(function(_, node) {
+          if (node.nodeName == 'A') {
+            $(this).attr('target', '_blank');
+          }
+        });
+        // Process search requests.
+        $('.searchBox input').on("keypress", function(ev) {
+          if (ev.which == 13) {
+            window.location.href = 'https://www.google.com/search?q=site%3A' + window.location.hostname + '%20' + encodeURIComponent ($(this).val());
+          }
+        });
+      });
+      //]]>
+    </script>
+<script>
+    //<![CDATA[
+function DeviceMotionSender(){if(!this.isIOS_()){return}window.addEventListener("devicemotion",this.onDeviceMotion_.bind(this),false);this.iframes=document.querySelectorAll("iframe.vrview")}DeviceMotionSender.prototype.onDeviceMotion_=function(e){var message={type:"DeviceMotion",deviceMotionEvent:this.cloneDeviceMotionEvent_(e)};for(var i=0;i<this.iframes.length;i++){var iframe=this.iframes[i];var iframeWindow=iframe.contentWindow;if(this.isCrossDomainIframe_(iframe)){iframeWindow.postMessage(message,"*")}}};DeviceMotionSender.prototype.cloneDeviceMotionEvent_=function(e){return{acceleration:{x:e.acceleration.x,y:e.acceleration.y,z:e.acceleration.z},accelerationIncludingGravity:{x:e.accelerationIncludingGravity.x,y:e.accelerationIncludingGravity.y,z:e.accelerationIncludingGravity.z},rotationRate:{alpha:e.rotationRate.alpha,beta:e.rotationRate.beta,gamma:e.rotationRate.gamma},interval:e.interval}};DeviceMotionSender.prototype.isIOS_=function(){return/iPad|iPhone|iPod/.test(navigator.userAgent)&&!window.MSStream};DeviceMotionSender.prototype.isCrossDomainIframe_=function(iframe){var html=null;try{var doc=iframe.contentDocument||iframe.contentWindow.document;html=doc.body.innerHTML}catch(err){}return html===null};var dms=new DeviceMotionSender;
+  //]]>
+    </script>
+
+<script type="text/javascript" src="assets/b23a2ce0094cbd6dce435654c271be99.js"></script><script type="text/javascript" src="assets/ff812265be73ab04d908efd0f672ddf1.js" defer="true"></script>
+
+<script type="text/javascript" src="assets/e2c26532af9b7802752ebeef6fd02708.js"></script>
+<script type='text/javascript'>
+window['__wavt'] = 'AOuZoY5feJM1yIxp8UwGCq5azlbVmMvcHQ:1597285319989';_WidgetManager._Init('//www.blogger.com/rearrange?blogID\x3d10861780','//googleblog.blogspot.com/2007/03/world-in-motion.html','10861780');
+_WidgetManager._SetDataContext([{'name': 'blog', 'data': {'blogId': '10861780', 'title': 'Official Google Blog', 'url': 'https://googleblog.blogspot.com/2007/03/world-in-motion.html', 'canonicalUrl': 'https://googleblog.blogspot.com/2007/03/world-in-motion.html', 'homepageUrl': 'https://googleblog.blogspot.com/', 'searchUrl': 'https://googleblog.blogspot.com/search', 'canonicalHomepageUrl': 'https://googleblog.blogspot.com/', 'blogspotFaviconUrl': 'https://googleblog.blogspot.com/favicon.ico', 'bloggerUrl': 'https://www.blogger.com', 'hasCustomDomain': false, 'httpsEnabled': true, 'enabledCommentProfileImages': true, 'gPlusViewType': 'FILTERED_POSTMOD', 'adultContent': false, 'analyticsAccountNumber': 'UA-18015-1', 'encoding': 'UTF-8', 'locale': 'en', 'localeUnderscoreDelimited': 'en', 'languageDirection': 'ltr', 'isPrivate': false, 'isMobile': false, 'isMobileRequest': false, 'mobileClass': '', 'isPrivateBlog': false, 'isDynamicViewsAvailable': true, 'feedLinks': '\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Official Google Blog - Atom\x22 href\x3d\x22https://googleblog.blogspot.com/feeds/posts/default\x22 /\x3e\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/rss+xml\x22 title\x3d\x22Official Google Blog - RSS\x22 href\x3d\x22https://googleblog.blogspot.com/feeds/posts/default?alt\x3drss\x22 /\x3e\n\x3clink rel\x3d\x22service.post\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Official Google Blog - Atom\x22 href\x3d\x22https://www.blogger.com/feeds/10861780/posts/default\x22 /\x3e\n\n\x3clink rel\x3d\x22alternate\x22 type\x3d\x22application/atom+xml\x22 title\x3d\x22Official Google Blog - Atom\x22 href\x3d\x22https://googleblog.blogspot.com/feeds/5645244419441134185/comments/default\x22 /\x3e\n', 'meTag': '', 'adsenseHostId': 'ca-host-pub-1556223355139109', 'adsenseHasAds': false, 'ieCssRetrofitLinks': '\x3c!--[if IE]\x3e\x3cscript type\x3d\x22text/javascript\x22 src\x3d\x22https://www.blogger.com/static/v1/jsbin/2800260367-ieretrofit.js\x22\x3e\x3c/script\x3e\n\x3c![endif]--\x3e', 'view': '', 'dynamicViewsCommentsSrc': '//www.blogblog.com/dynamicviews/4224c15c4e7c9321/js/comments.js', 'dynamicViewsScriptSrc': '//www.blogblog.com/dynamicviews/c126649185553211', 'plusOneApiSrc': 'assets/f01762a233ddeaa5f68236eaf27890ef.js', 'disableGComments': true, 'sharing': {'platforms': [{'name': 'Get link', 'key': 'link', 'shareMessage': 'Get link', 'target': ''}, {'name': 'Facebook', 'key': 'facebook', 'shareMessage': 'Share to Facebook', 'target': 'facebook'}, {'name': 'BlogThis!', 'key': 'blogThis', 'shareMessage': 'BlogThis!', 'target': 'blog'}, {'name': 'Twitter', 'key': 'twitter', 'shareMessage': 'Share to Twitter', 'target': 'twitter'}, {'name': 'Pinterest', 'key': 'pinterest', 'shareMessage': 'Share to Pinterest', 'target': 'pinterest'}, {'name': 'Email', 'key': 'email', 'shareMessage': 'Email', 'target': 'email'}], 'disableGooglePlus': true, 'googlePlusShareButtonWidth': 300, 'googlePlusBootstrap': '\x3cscript type\x3d\x22text/javascript\x22\x3ewindow.___gcfg \x3d {\x27lang\x27: \x27en\x27};\x3c/script\x3e'}, 'hasCustomJumpLinkMessage': true, 'jumpLinkMessage': 'Read more', 'pageType': 'item', 'postId': '5645244419441134185', 'pageName': 'A world in motion', 'pageTitle': 'Official Google Blog: A world in motion', 'metaDescription': ''}}, {'name': 'features', 'data': {'sharing_get_link_dialog': 'true', 'sharing_native': 'false'}}, {'name': 'messages', 'data': {'edit': 'Edit', 'linkCopiedToClipboard': 'Link copied to clipboard!', 'ok': 'Ok', 'postLink': 'Post Link'}}, {'name': 'template', 'data': {'name': 'custom', 'localizedName': 'Custom', 'isResponsive': false, 'isAlternateRendering': false, 'isCustom': true}}, {'name': 'view', 'data': {'classic': {'name': 'classic', 'url': '?view\x3dclassic'}, 'flipcard': {'name': 'flipcard', 'url': '?view\x3dflipcard'}, 'magazine': {'name': 'magazine', 'url': '?view\x3dmagazine'}, 'mosaic': {'name': 'mosaic', 'url': '?view\x3dmosaic'}, 'sidebar': {'name': 'sidebar', 'url': '?view\x3dsidebar'}, 'snapshot': {'name': 'snapshot', 'url': '?view\x3dsnapshot'}, 'timeslide': {'name': 'timeslide', 'url': '?view\x3dtimeslide'}, 'isMobile': false, 'title': 'A world in motion', 'description': 'Insights from Googlers into our products, technology, and the Google culture', 'url': 'https://googleblog.blogspot.com/2007/03/world-in-motion.html', 'type': 'item', 'isSingleItem': true, 'isMultipleItems': false, 'isError': false, 'isPage': false, 'isPost': true, 'isHomepage': false, 'isArchive': false, 'isLabelSearch': false, 'postId': 5645244419441134185}}]);
+_WidgetManager._RegisterWidget('_HeaderView', new _WidgetInfo('Header1', 'header', document.getElementById('Header1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogView', new _WidgetInfo('Blog1', 'main', document.getElementById('Blog1'), {'cmtInteractionsEnabled': false, 'showBacklinks': true, 'postId': '5645244419441134185'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML8', 'sidebar-top', document.getElementById('HTML8'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_LabelView', new _WidgetInfo('Label1', 'sidebar', document.getElementById('Label1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_BlogArchiveView', new _WidgetInfo('BlogArchive1', 'sidebar', document.getElementById('BlogArchive1'), {'languageDirection': 'ltr', 'loadingMessage': 'Loading\x26hellip;'}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML6', 'sidebar', document.getElementById('HTML6'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML5', 'sidebar-bottom', document.getElementById('HTML5'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML1', 'sidebar-bottom', document.getElementById('HTML1'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML2', 'footer-1', document.getElementById('HTML2'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML3', 'footer-2', document.getElementById('HTML3'), {}, 'displayModeFull'));
+_WidgetManager._RegisterWidget('_HTMLView', new _WidgetInfo('HTML4', 'footer-3', document.getElementById('HTML4'), {}, 'displayModeFull'));
+</script>
+
+<div style="position:fixed;top:0;left:0;width:100%;height:45px;z-index:2147483647;background-color:rgba(253,147,38,0.90) !important;color:black !important;text-align:right !important;font:normal 12px/45px Arial, sans-serif !important;border-radius:0 !important;margin:0 !important;max-width:100% !important;background-repeat: no-repeat !important;background-position: 15px center !important;
+background-image: url(data:image/png;base64,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);
+"><span style="padding-right:15px;">You are viewing a snapshot of <a style='font-weight:bold !important; color:white !important' href='http://googleblog.blogspot.com/2007/03/world-in-motion.html'>http://googleblog.blogspot.com/2007/03/world-in-motion.html</a> created on 2020/08/13</span></div></body>
+</html>

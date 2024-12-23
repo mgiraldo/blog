@@ -1,0 +1,72 @@
+@font-face {
+  font-family: 'Inconsolata';
+  font-style: normal;
+  font-weight: 400;
+  font-stretch: normal;
+  font-display: fallback;
+  src: url(../assets/6d71b5bd032ea56ded4e09c33b79e546.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Inconsolata';
+  font-style: normal;
+  font-weight: 700;
+  font-stretch: normal;
+  font-display: fallback;
+  src: url(../assets/a441a1e31df0bfb5b507c5f21e05fab2.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: italic;
+  font-weight: 400;
+  font-display: fallback;
+  src: local('Noto Sans Italic'), local('NotoSans-Italic'), url(../assets/5114ec8ecb2d079ad820c47287062a2e.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: italic;
+  font-weight: 700;
+  font-display: fallback;
+  src: local('Noto Sans Bold Italic'), local('NotoSans-BoldItalic'), url(../assets/f8eb22c9d281570e8178bb4c4a1cb35e.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 400;
+  font-display: fallback;
+  src: local('Noto Sans'), local('NotoSans'), url(../assets/cbb76cbfeb4d63ff9b8a851fbba27c53.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Sans';
+  font-style: normal;
+  font-weight: 700;
+  font-display: fallback;
+  src: local('Noto Sans Bold'), local('NotoSans-Bold'), url(../assets/344587ab77014a6ff471bd78d4a72a35.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: italic;
+  font-weight: 400;
+  font-display: fallback;
+  src: local('Noto Serif Italic'), local('NotoSerif-Italic'), url(../assets/5c5398ecfe8d22f326cd8e4841281b90.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: italic;
+  font-weight: 700;
+  font-display: fallback;
+  src: local('Noto Serif Bold Italic'), local('NotoSerif-BoldItalic'), url(../assets/3b656bae13435d155e8ac2f854351e70.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: normal;
+  font-weight: 400;
+  font-display: fallback;
+  src: local('Noto Serif'), local('NotoSerif'), url(../assets/c81c99c1acd81a497e29754d268ca206.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Noto Serif';
+  font-style: normal;
+  font-weight: 700;
+  font-display: fallback;
+  src: local('Noto Serif Bold'), local('NotoSerif-Bold'), url(../assets/8790243cbfdb98706e7b49533def43b8.ttf) format('truetype');
+}

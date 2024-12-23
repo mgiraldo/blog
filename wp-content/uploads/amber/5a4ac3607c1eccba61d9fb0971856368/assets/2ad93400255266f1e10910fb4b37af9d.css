@@ -1,0 +1,36 @@
+@font-face {
+  font-family: 'Noto Serif SC';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Noto Serif SC Light'), local('NotoSerifSC-Light'), url(../assets/0c9299585d973f734d3cfa3c36784e89.otf) format('opentype');
+}
+@font-face {
+  font-family: 'Noto Serif SC';
+  font-style: normal;
+  font-weight: 600;
+  src: local('Noto Serif SC SemiBold'), local('NotoSerifSC-SemiBold'), url(../assets/34e42440bf4761ff423ea353bc6bfd70.otf) format('opentype');
+}
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: italic;
+  font-weight: 700;
+  src: url(../assets/03f7f7d8f2a9517ba0950bee657211a4.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 400;
+  src: url(../assets/d268aa212d3324cf4b9495f98456cb07.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Playfair Display';
+  font-style: normal;
+  font-weight: 700;
+  src: url(../assets/4f330a895cd6e8e50616dc62c0ffd148.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Poppins';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Poppins Regular'), local('Poppins-Regular'), url(https://fonts.gstatic.com/s/poppins/v12/pxiEyp8kv8JHgFVrJJfedw.ttf) format('truetype');
+}

@@ -1,0 +1,3446 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
+
+
+
+<script type="text/JavaScript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+
+function MM_preloadImages() { //v3.0
+  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+    var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+    if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+}
+
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_swapImage() { //v3.0
+  var i,j=0,x,a=MM_swapImage.arguments; document.MM_sr=new Array; for(i=0;i<(a.length-2);i+=3)
+   if ((x=MM_findObj(a[i]))!=null){document.MM_sr[j++]=x; if(!x.oSrc) x.oSrc=x.src; x.src=a[i+2];}
+}
+//-->
+</script>
+
+
+<HTML>
+
+<HEAD><script type="text/javascript" src="assets/0d1097f666ef2735a9e018ad34d9b545.js"></script>
+<script type="text/javascript" src="/CFIDE/scripts/masks.js"></script>
+
+
+<meta name="keywords" content="visual complexity, visualization, network, complex networks, art, Biology, 
+Social Networks, Internet, World Wide Web, transportation networks, knowledge networks, information visualization, business networks, 
+food networks, pattern recognition, computer systems, business networks, data visualization, infovis, infoviz, dataviz, design, parsons, thesis, MFA, Manuel Lima">
+
+<meta name="description" content="VisualComplexity.com is a unified resource space for anyone interested in the visualization of complex networks. The project's main goal is to leverage a critical understanding of different visualization methods, across a series of disciplines, as diverse as Biology, Social Networks or the World Wide Web.">
+
+<meta name="author" content="Manuel Lima">
+
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+
+
+<link rel="shortcut icon" href="favicon.ico">
+
+<link rel="stylesheet" type="text/css" href="assets/54b7647151bed6a01b4f924c48a1ee1b.css" />
+
+
+
+
+<TITLE>visualcomplexity.com | A visual exploration on mapping complex networks</TITLE>
+
+
+
+<script language=javascript type='text/javascript'> 
+function hideDiv(pass) { 
+var divs = document.getElementsByTagName('div'); 
+for(i=0;i<divs.length;i++){ 
+if(divs[i].id.match(pass)){//if they are 'see' divs 
+if (document.getElementById) // DOM3 = IE5, NS6 
+divs[i].style.display="none";// show/hide 
+else 
+if (document.layers) // Netscape 4 
+document.layers[divs[i]].display = 'none'; 
+else // IE 4 
+document.all.hideShow.divs[i].display = 'none'; 
+} 
+} 
+}
+
+function showDiv(pass) { 
+var divs = document.getElementsByTagName('div'); 
+for(i=0;i<divs.length;i++){ 
+if(divs[i].id.match(pass)){ 
+if (document.getElementById) 
+divs[i].style.display="block"; 
+else 
+if (document.layers) // Netscape 4 
+document.layers[divs[i]].display = 'block'; 
+else // IE 4 
+document.all.hideShow.divs[i].display = 'block'; 
+} 
+} 
+} 
+</script>
+
+<script type="text/javascript">
+	if (window.ColdFusion) ColdFusion.required['input']=true;
+</script>
+<script type="text/javascript">
+<!--
+    _CF_checkCFForm_1 = function(_CF_this)
+    {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
+
+        //form element input required check
+        if( _CF_hasValue(_CF_this['input'], "TEXT", false ) )
+        {
+            //form element input  custom validation check
+            if (!handleValidation(_CF_this, _CF_this['input'], _CF_this['input'].value))
+            {
+                _CF_onError(_CF_this, "input", _CF_this['input'].value, "You have to input at least 3 characters to proceed with your search.");
+                _CF_error_exists = true;
+            }
+
+        }else {
+            _CF_onError(_CF_this, "input", _CF_this['input'].value, "You have to input at least 3 characters to proceed with your search.");
+            _CF_error_exists = true;
+        }
+
+
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
+
+            }
+            return false;
+        }else {
+            return true;
+        }
+    }
+//-->
+</script>
+
+<script type="text/javascript">
+	if (window.ColdFusion) ColdFusion.required['Name']=true;
+</script>
+
+<script type="text/javascript">
+	if (window.ColdFusion) ColdFusion.required['FromAddress']=true;
+</script>
+
+<script type="text/javascript">
+	if (window.ColdFusion) ColdFusion.required['URL']=true;
+</script>
+
+<script type="text/javascript">
+	if (window.ColdFusion) ColdFusion.required['secret']=true;
+</script>
+<script type="text/javascript">
+<!--
+    _CF_checkCFForm_2 = function(_CF_this)
+    {
+        //reset on submit
+        _CF_error_exists = false;
+        _CF_error_messages = new Array();
+        _CF_error_fields = new Object();
+        _CF_FirstErrorField = null;
+
+        //form element Name required check
+        if( !_CF_hasValue(_CF_this['Name'], "TEXT", false ) )
+        {
+            _CF_onError(_CF_this, "Name", _CF_this['Name'].value, "You forgot to write your name!");
+            _CF_error_exists = true;
+        }
+
+        //form element FromAddress required check
+        if( !_CF_hasValue(_CF_this['FromAddress'], "TEXT", false ) )
+        {
+            _CF_onError(_CF_this, "FromAddress", _CF_this['FromAddress'].value, "You forgot to write your e-mail!");
+            _CF_error_exists = true;
+        }
+
+        //form element URL required check
+        if( !_CF_hasValue(_CF_this['URL'], "TEXT", false ) )
+        {
+            _CF_onError(_CF_this, "URL", _CF_this['URL'].value, "Please provide a URL for reference.");
+            _CF_error_exists = true;
+        }
+
+        //form element secret required check
+        if( !_CF_hasValue(_CF_this['secret'], "TEXT", false ) )
+        {
+            _CF_onError(_CF_this, "secret", _CF_this['secret'].value, "Please provide the right number.");
+            _CF_error_exists = true;
+        }
+
+
+        //display error messages and return success
+        if( _CF_error_exists )
+        {
+            if( _CF_error_messages.length > 0 )
+            {
+                // show alert() message
+                _CF_onErrorAlert(_CF_error_messages);
+                // set focus to first form error, if the field supports js focus().
+                if( _CF_this[_CF_FirstErrorField].type == "text" )
+                { _CF_this[_CF_FirstErrorField].focus(); }
+
+            }
+            return false;
+        }else {
+            return true;
+        }
+    }
+//-->
+</script>
+</HEAD>
+
+<BODY>
+
+
+
+  
+
+  
+
+
+
+  
+
+<div id="book_banner" style="display: block; float:inherit; width:100%; border:none">
+
+<table width="100%" height="60" border="0" cellspacing="0" cellpadding="0" bgcolor="#FFF9E3">
+  <tr>
+    <td align="center">
+    
+    <table width="950" height="60" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="350" align="right" valign="middle" class="Dark_Grey_12"><strong>The Book of Trees is now available!</strong> </strong></strong>&nbsp;</td>
+    <td width="100" align="center" valign="absmiddle" class="bodytext"><img src="assets/4905ef8c086ce1af704e8671eb15492c.jpg" width="81" height="60" vspace="0" border="0" /></td>
+    <td width="130" align="center" valign="absmiddle" class="bodytext"><a href="http://www.amazon.com/The-Book-Trees-Visualizing-Knowledge/dp/1616892188/visualcompl0f-20/" target="_blank"><img src="assets/2ffa6c2123c172910319c32359431b2b.png" width="116" height="22" hspace="0" border="0" /></a>&nbsp;</td>
+    <td width="270" align="left" valign="middle" class="bodytext">&nbsp;<a href="http://www.bookoftrees.info/">See other retailers</a></td>
+    <td width="100" align="right" class="bodytext"></td>
+  </tr>
+</table>
+    
+    </td>
+  </tr>
+</table>
+
+</div>
+
+  
+  
+
+
+
+<table width="100%" height="35" border="0" cellspacing="0" cellpadding="0" bgcolor="#000000">
+  <tr>
+    <td align="center">
+    
+    <table width="950" height="35" border="0" cellspacing="0" cellpadding="0">
+  <tr>
+    <td width="500"><span class="TopLinks"><a class="TopLinks" href="http://www.visualcomplexity.com/vc/">Home</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="TopLinks" href="http://www.visualcomplexity.com/vc/about.cfm">About</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="TopLinks" href="http://www.visualcomplexity.com/vc/book/">VC Book</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="TopLinks" href="http://www.visualcomplexity.com/vc/stats.cfm">Stats</a> &nbsp;&nbsp;&nbsp;&nbsp;<a class="TopLinks" href="http://www.visualcomplexity.com/vc/blog/">Blog</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="TopLinks" href="http://www.visualcomplexity.com/vc/books.cfm">Books</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="TopLinks" href="http://www.visualcomplexity.com/vc/links.cfm">Links</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a class="TopLinks" href="http://www.visualcomplexity.com/vc/contact.cfm">Contact</a></span></td>
+    <td width="50">&nbsp;</td>
+    <td width="400" align="right" class="TopLinks">Subscribe to latest projects: <a href="http://feedproxy.google.com/visualcomplexity" target="_blank"><img src="assets/ba989f6e04b096b56c7947e3bab6e346.png" alt="" width="16" height="16" align="absmiddle" /></a> <a href="http://feedburner.google.com/fb/a/mailverify?uri=visualcomplexity&amp;loc=en_US" target="_blank"><img src="assets/ca596d960ac1f942214f31c8302128f4.png" width="25" height="18" align="absmiddle" /></a> &nbsp;&nbsp;&nbsp;Follow on: <a href="http://twitter.com/mslima" target="_blank"><img src="assets/fcef0afe26d8d8b0e4350b6b5cb06c0b.png" alt="" width="16" height="16" align="absmiddle" /></a> <a href="http://www.facebook.com/pages/VisualComplexitycom/110681305628217" target="_blank"><img src="assets/0bcc1cdff194c5c108df6f3c699662db.png" alt="" width="16" height="16" align="absmiddle" /></a> <a href="http://www.linkedin.com/groups?home=&gid=1170047" target="_blank"><img src="assets/bc164a6240dff5f79edebf144bba0e81.png" alt="" width="16" height="16" align="absmiddle" /></a></td>
+  </tr>
+</table>
+    
+    </td>
+  </tr>
+</table>
+
+<div class="shadow2"></div>
+
+
+
+
+<TABLE width="950" height="90" border="0" ALIGN="center" cellpadding="0" cellspacing="0" BGCOLOR="#FFFFFF" valign="top">
+
+  <tr>
+    <TD height="15" colspan="4" ALIGN="left" BGCOLOR="#FFFFFF"></TD>
+  </tr>
+  
+  <tr>
+    
+    <TD width="200" height="60" ALIGN="left" valign="top" BGCOLOR="#FFFFFF"><a href="http://www.visualcomplexity.com"><img src="assets/5ebce1ae7499c5c21efe85ae0a89268b.png" width="140" border="0" height="60" /></a></TD>
+    
+    <TD width="400" ALIGN="left" valign="middle" BGCOLOR="#FFFFFF" class="bodytext">
+    
+    Search the VC database:
+      
+  
+      
+  <form name="CFForm_1" id="CFForm_1" action="http://www.visualcomplexity.com/vc/input_search.cfm" method="post" onsubmit="return _CF_checkCFForm_1(this)">
+    
+    <input name="input" id="input"  type="text" maxlength="100"  class="bodytext"  size="38"  />
+    <input type = "hidden" name = "date" value = "{ts '2020-08-12 03:21:51'}">
+    <input type = "hidden" name = "ip" value = "64.13.192.22">
+    <input type="submit" value="GO">
+  </form>
+
+      
+      <script>
+	
+	function handleValidation (form, ctrl, value) {
+		if (value.length < 3) 
+		{ return (false); } 
+		else
+		{ return (true); } 
+	    }
+    </script>
+    
+    </TD>
+    
+    <TD width="10" ALIGN="left" BGCOLOR="#FFFFFF"></TD>
+    
+    
+    <TD width="340" ALIGN="left" valign="middle" BGCOLOR="#FFFFFF" class="style4">
+    
+
+      <script type="text/javascript"><!--
+google_ad_client = "pub-0367363802681955";
+google_ad_width = 234;
+google_ad_height = 60;
+google_ad_format = "234x60_as";
+google_ad_type = "text";
+google_ad_channel ="";
+google_color_border = "E5E5E5";
+google_color_bg = "FFFFFF";
+google_color_link = "666666";
+google_color_text = "666666";
+google_color_url = "999999";
+//--></script>
+  <script type="text/javascript"
+  src="assets/b451e1a8d3333f324ffeb1bc2d85702b.js">
+</script>
+
+
+
+      
+    </TD>
+  </tr>
+ 
+  
+  <tr><TD height="15" colspan="5" ALIGN="left" BGCOLOR="#FFFFFF"></TD></tr>
+  
+</table>
+
+
+
+
+
+<TABLE width="950" height="2" border="0" ALIGN="center" valign="top" cellpadding="0" cellspacing="0" BGCOLOR="#181800">
+<tr><TD height="2" ALIGN="left" valign="middle" bgcolor="#181800"></TD></tr>
+</TABLE>
+
+
+ 
+
+  <TABLE width="950" height="40" border="0" ALIGN="center" valign="top" cellpadding="0" cellspacing="0" BGCOLOR="#e5e5e5">
+
+<tr>
+  <TD height="40" width="10" ALIGN="left" valign="middle"> </TD>
+  <TD width="400" height="40" ALIGN="left" valign="middle" class="Light_Grey_12">
+  
+  Latest Projects:
+   </TD><TD width="140" height="40" ALIGN="right" valign="top"></TD>
+  
+  <TD width="20" height="40" ALIGN="right" valign="top"></TD>
+  
+  <TD width="40" height="40" ALIGN="right" valign="top">
+  
+
+  
+  </TD>
+  
+  <TD width="40" height="40" ALIGN="right" valign="top">
+  
+  <div id="Images_small_bt1" style="display: none; float:right; width:40px; border:none">
+  <a href="javascript:showDiv('Images_small');hideDiv('Images_big');hideDiv('Text');showDiv('textbt1');hideDiv('textbt2');showDiv('Images_small_bt2');hideDiv('Images_small_bt1');showDiv('Images_big_bt1');hideDiv('Images_big_bt2');">
+  <img src="http://www.visualcomplexity.com/vc/nav_images/index_greybar_bt_images_small_1.gif" alt="Images Small" width="40" height="40" border="0"></a></div>
+  <div id="Images_small_bt2" style="display: block; float:right; width:40px; border:none">
+  <img src="http://www.visualcomplexity.com/vc/nav_images/index_greybar_bt_images_small_2.gif" alt="Images Small" width="40" height="40" border="0">  </div>  
+  
+  </TD>
+  
+  <TD width="40" height="40" ALIGN="right" valign="top">
+  
+  <div id="Images_big_bt1" style="display: block; float:right; width:40px; border:none">
+  <a href="javascript:hideDiv('Images_small');showDiv('Images_big');hideDiv('Text');showDiv('textbt1');hideDiv('textbt2');showDiv('Images_small_bt1');hideDiv('Images_small_bt2');showDiv('Images_big_bt2');hideDiv('Images_big_bt1');">
+  <img src="http://www.visualcomplexity.com/vc/nav_images/index_greybar_bt_images_big_1.gif" alt="Images Big" width="40" height="40" border="0"></a></div>
+  <div id="Images_big_bt2" style="display: none; float:right; width:40px; border:none">
+  <img src="assets/3abcd4f01491b73c439b1efc5b9ec497.gif" alt="Images Big" width="40" height="40" border="0">  </div>  
+  
+  </TD>
+  
+  <TD width="10" height="40" ALIGN="left" valign="top"></TD>
+  <TD height="40" ALIGN="center" valign="middle" class="BodyText">  
+  
+
+      Indexing <strong>1000</strong> projects
+
+  
+  </TD>
+  </tr>
+</table>
+
+
+
+
+
+
+
+<TABLE width="970" height="0" border="0" ALIGN="center" cellpadding="0" cellspacing="0" BGCOLOR="#FFFFFF" valign="top">
+<tr>
+   <TD width="710" height="0" align="left" valign="top" id="imagelink">
+   
+
+
+
+
+
+
+
+
+
+<span class="img">
+
+
+<div id="Images_small" style="display: block; float:left; width:710px;">
+<table ALIGN="left" valign="top" width="710" height="110" cellpadding="0" cellspacing="10" border="0">
+
+<tr>
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=1000&index=1000&domain=">
+
+<img src="assets/94a10166ceee9b3ba7ab6558c7875e71.jpg" alt="Seven Bridges of Königsberg" title="Seven Bridges of Königsberg" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=999&index=999&domain=">
+
+<img src="assets/f7ab68d3b47dde8efcdf5a169a594e6d.jpg" alt="Experimental music notation" title="Experimental music notation" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=998&index=998&domain=">
+
+<img src="assets/eb61217e16d79a3329fe199b0f2f6bbc.jpg" alt="Neurovis" title="Neurovis" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=997&index=997&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/997_thumb.jpg" alt="Network Visualizations" title="Network Visualizations" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=996&index=996&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/996_thumb.jpg" alt="Linked Jazz" title="Linked Jazz" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=995&index=995&domain=">
+
+<img src="assets/7ddfd08475b8ccea47711804353f1fbf.jpg" alt="Visualizing the Networks of Bicycling Groups for, of, and by Women in Philadelphia and New York City" title="Visualizing the Networks of Bicycling Groups for, of, and by Women in Philadelphia and New York City" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=994&index=994&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/994_thumb.jpg" alt="Financial Network Visualization: clustering by Estimize analyst coverage" title="Financial Network Visualization: clustering by Estimize analyst coverage" width="90" height="90"></A>
+</td>
+
+
+</tr>
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=993&index=993&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/993_thumb.jpg" alt="Watson News Explorer" title="Watson News Explorer" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=992&index=992&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/992_thumb.jpg" alt="Madrid Subway Complaints by Station" title="Madrid Subway Complaints by Station" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=991&index=991&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/991_thumb.jpg" alt="Dystopia & Utopia & Science Fiction" title="Dystopia & Utopia & Science Fiction" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=990&index=990&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/990_thumb.jpg" alt="Phantom Terrains" title="Phantom Terrains" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=989&index=989&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/989_thumb.jpg" alt="Translating worlds" title="Translating worlds" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=988&index=988&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/988_thumb.jpg" alt="Visualizing Coral Bleaching" title="Visualizing Coral Bleaching" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=987&index=987&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/987_thumb.jpg" alt="Pen Plotter" title="Pen Plotter" width="90" height="90"></A>
+</td>
+
+
+</tr>
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=986&index=986&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/986_thumb.jpg" alt="Creating Civilizations" title="Creating Civilizations" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=985&index=985&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/985_thumb.jpg" alt="Phone-Call Cartography" title="Phone-Call Cartography" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=984&index=984&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/984_thumb.jpg" alt="How Data Saved Music" title="How Data Saved Music" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=983&index=983&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/983_thumb.jpg" alt="Satellites network" title="Satellites network" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=982&index=982&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/982_thumb.jpg" alt="The S.O.S. (1942) Fortune Magazine" title="The S.O.S. (1942) Fortune Magazine" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=981&index=981&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/981_thumb.jpg" alt="New Town Tracer" title="New Town Tracer" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=980&index=980&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/980_thumb.jpg" alt="Mapping Where People Run" title="Mapping Where People Run" width="90" height="90"></A>
+</td>
+
+
+</tr>
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=979&index=979&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/979_thumb.jpg" alt="The Interconnected Web of Tech Companies" title="The Interconnected Web of Tech Companies" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=978&index=978&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/978_thumb.jpg" alt="Untangling the webs of immigration lobbying" title="Untangling the webs of immigration lobbying" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=977&index=977&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/977_thumb.jpg" alt="PrettyMaps" title="PrettyMaps" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=976&index=976&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/976_thumb.jpg" alt="The Architecture of Radio" title="The Architecture of Radio" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=975&index=975&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/975_thumb.jpg" alt="Game of Angels" title="Game of Angels" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=974&index=974&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/974_thumb.jpg" alt="BeerViz" title="BeerViz" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=973&index=973&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/973_thumb.jpg" alt="Growth in civic tech " title="Growth in civic tech " width="90" height="90"></A>
+</td>
+
+
+</tr>
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=972&index=972&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/972_thumb.jpg" alt="redditviz - reddit interest network" title="redditviz - reddit interest network" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=971&index=971&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/971_thumb.jpg" alt="The Clubs that Connect the World Cup" title="The Clubs that Connect the World Cup" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=970&index=970&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/970_thumb.jpg" alt="DeepDream" title="DeepDream" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=969&index=969&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/969_thumb.jpg" alt="Visualizing Neuroscience Publications Keyword Network" title="Visualizing Neuroscience Publications Keyword Network" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=968&index=968&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/968_thumb.jpg" alt="The Synapse" title="The Synapse" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=967&index=967&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/967_thumb.jpg" alt="The Library Project" title="The Library Project" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=966&index=966&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/966_thumb.jpg" alt="Archives & Manuscripts (NYPL Labs) " title="Archives & Manuscripts (NYPL Labs) " width="90" height="90"></A>
+</td>
+
+
+</tr>
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=965&index=965&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/965_thumb.jpg" alt="Clamping down on review fraud" title="Clamping down on review fraud" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=964&index=964&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/964_thumb.jpg" alt="Disney Strategy Chart" title="Disney Strategy Chart" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=963&index=963&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/963_thumb.jpg" alt="The Historic Development of Network Visualization" title="The Historic Development of Network Visualization" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=962&index=962&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/962_thumb.jpg" alt="London 24" title="London 24" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=961&index=961&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/961_thumb.jpg" alt="Track Tag Love" title="Track Tag Love" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=960&index=960&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/960_thumb.jpg" alt="Mapping Twitter Topic Networks: From Polarized Crowds to Community Clusters" title="Mapping Twitter Topic Networks: From Polarized Crowds to Community Clusters" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=959&index=959&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/959_thumb.jpg" alt="Mapping Silicon Valley's Own Private Highway" title="Mapping Silicon Valley's Own Private Highway" width="90" height="90"></A>
+</td>
+
+
+</tr>
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=958&index=958&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/958_thumb.jpg" alt="Code Galaxies" title="Code Galaxies" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=957&index=957&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/957_thumb.jpg" alt="Stellar Navigation using Network Analysis" title="Stellar Navigation using Network Analysis" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=956&index=956&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/956_thumb.jpg" alt="KeyLines" title="KeyLines" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=955&index=955&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/955_thumb.jpg" alt="The Bit Coin Big Bang" title="The Bit Coin Big Bang" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=954&index=954&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/954_thumb.jpg" alt="Marvel Uberframework" title="Marvel Uberframework" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=953&index=953&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/953_thumb.jpg" alt="Neural Network Visualization in WebGL" title="Neural Network Visualization in WebGL" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=952&index=952&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/952_thumb.jpg" alt="100 Students start college. Who graduates? " title="100 Students start college. Who graduates? " width="90" height="90"></A>
+</td>
+
+
+</tr>
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=951&index=951&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/951_thumb.jpg" alt="Axis of Additives" title="Axis of Additives" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=950&index=950&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/950_thumb.jpg" alt="Visualizing Shipments from Coal Mines to US Power Plants" title="Visualizing Shipments from Coal Mines to US Power Plants" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=949&index=949&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/949_thumb.jpg" alt="Inside the $400-million political network backed by the Kochs" title="Inside the $400-million political network backed by the Kochs" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=948&index=948&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/948_thumb.jpg" alt="Clog in the Pipes" title="Clog in the Pipes" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=947&index=947&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/947_thumb.jpg" alt="Infrastructure Studies" title="Infrastructure Studies" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=946&index=946&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/946_thumb.jpg" alt="NetGestalt: integrating multidimensional -omics data over biological networks" title="NetGestalt: integrating multidimensional -omics data over biological networks" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=945&index=945&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/945_thumb.jpg" alt="Art and Science: Network Visualization Program" title="Art and Science: Network Visualization Program" width="90" height="90"></A>
+</td>
+
+
+</tr>
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=944&index=944&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/944_thumb.jpg" alt="Viral Texts" title="Viral Texts" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=943&index=943&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/943_thumb.jpg" alt="Mapping Media Geographic Networks: The News Co-occurrence Globe" title="Mapping Media Geographic Networks: The News Co-occurrence Globe" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=942&index=942&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/942_thumb.jpg" alt="Braindance" title="Braindance" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=941&index=941&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/941_thumb.jpg" alt="Landscape Architect's Network Data is Dense, Interconnected" title="Landscape Architect's Network Data is Dense, Interconnected" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=940&index=940&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/940_thumb.jpg" alt="SpaTo Visual Explorer" title="SpaTo Visual Explorer" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=939&index=939&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/939_thumb.jpg" alt="Vorograph" title="Vorograph" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=938&index=938&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/938_thumb.jpg" alt="Norse Attack Map" title="Norse Attack Map" width="90" height="90"></A>
+</td>
+
+
+</tr>
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=937&index=937&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/937_thumb.jpg" alt="NJ Hotels Near NYC" title="NJ Hotels Near NYC" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=936&index=936&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/936_thumb.jpg" alt="The Obsessively Detailed Map of American Literature's Most Epic Road Trips" title="The Obsessively Detailed Map of American Literature's Most Epic Road Trips" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=935&index=935&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/935_thumb.jpg" alt="Porn Data: Visualizing Fetish Space" title="Porn Data: Visualizing Fetish Space" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=934&index=934&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/934_thumb.jpg" alt="Airbnb Locations" title="Airbnb Locations" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=933&index=933&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/933_thumb.jpg" alt="Genetic Interaction Network of yeast Saccharomyces cerevisiae" title="Genetic Interaction Network of yeast Saccharomyces cerevisiae" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=932&index=932&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/932_thumb.jpg" alt="Sound Sculptures " title="Sound Sculptures " width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=931&index=931&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/931_thumb.jpg" alt="The Geography of Tweets" title="The Geography of Tweets" width="90" height="90"></A>
+</td>
+
+
+</tr>
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=930&index=930&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/930_thumb.jpg" alt="Illustris" title="Illustris" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=929&index=929&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/929_thumb.jpg" alt="Unchartered Cartography" title="Unchartered Cartography" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=928&index=928&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/928_thumb.jpg" alt="Who's Connected to whom in Hadoop World" title="Who's Connected to whom in Hadoop World" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=927&index=927&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/927_thumb.jpg" alt="Flight Visualizations over 24hr Periods" title="Flight Visualizations over 24hr Periods" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=926&index=926&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/926_thumb.jpg" alt="Universe of Emotions" title="Universe of Emotions" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=925&index=925&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/925_thumb.jpg" alt="Chorus" title="Chorus" width="90" height="90"></A>
+</td>
+
+
+<td width="90" height="90" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=924&index=924&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/924_thumb.jpg" alt="Mapping the Internet" title="Mapping the Internet" width="90" height="90"></A>
+</td>
+
+
+</tr>
+
+
+
+</table>
+</div>
+
+
+<div id="Images_big" style="display: none; float:left; width:710px;">
+
+<table ALIGN="left" valign="top" width="710" height="110" cellpadding="0" cellspacing="10" border="0">
+
+<tr>
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=1000&index=1000&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/1000_big01.jpg" alt="Seven Bridges of Königsberg" title="Seven Bridges of Königsberg" width="223" height="167"><br><span class="bodytext">Seven Bridges of Königsberg</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=999&index=999&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/999_big01.jpg" alt="Experimental music notation" title="Experimental music notation" width="223" height="167"><br><span class="bodytext">Experimental music notation</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=998&index=998&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/998_big01.jpg" alt="Neurovis" title="Neurovis" width="223" height="167"><br><span class="bodytext">Neurovis</span></A>
+</td>
+
+
+</tr>
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=997&index=997&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/997_big01.jpg" alt="Network Visualizations" title="Network Visualizations" width="223" height="167"><br><span class="bodytext">Network Visualizations</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=996&index=996&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/996_big01.jpg" alt="Linked Jazz" title="Linked Jazz" width="223" height="167"><br><span class="bodytext">Linked Jazz</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=995&index=995&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/995_big01.jpg" alt="Visualizing the Networks of Bicycling Groups for, of, and by Women in Philadelphia and New York City" title="Visualizing the Networks of Bicycling Groups for, of, and by Women in Philadelphia and New York City" width="223" height="167"><br><span class="bodytext">Visualizing the Networks of Bicycling Groups for, of, and by Women in Philadelphia and New York City</span></A>
+</td>
+
+
+</tr>
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=994&index=994&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/994_big01.jpg" alt="Financial Network Visualization: clustering by Estimize analyst coverage" title="Financial Network Visualization: clustering by Estimize analyst coverage" width="223" height="167"><br><span class="bodytext">Financial Network Visualization: clustering by Estimize analyst coverage</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=993&index=993&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/993_big01.jpg" alt="Watson News Explorer" title="Watson News Explorer" width="223" height="167"><br><span class="bodytext">Watson News Explorer</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=992&index=992&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/992_big01.jpg" alt="Madrid Subway Complaints by Station" title="Madrid Subway Complaints by Station" width="223" height="167"><br><span class="bodytext">Madrid Subway Complaints by Station</span></A>
+</td>
+
+
+</tr>
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=991&index=991&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/991_big01.jpg" alt="Dystopia & Utopia & Science Fiction" title="Dystopia & Utopia & Science Fiction" width="223" height="167"><br><span class="bodytext">Dystopia & Utopia & Science Fiction</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=990&index=990&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/990_big01.jpg" alt="Phantom Terrains" title="Phantom Terrains" width="223" height="167"><br><span class="bodytext">Phantom Terrains</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=989&index=989&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/989_big01.jpg" alt="Translating worlds" title="Translating worlds" width="223" height="167"><br><span class="bodytext">Translating worlds</span></A>
+</td>
+
+
+</tr>
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=988&index=988&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/988_big01.jpg" alt="Visualizing Coral Bleaching" title="Visualizing Coral Bleaching" width="223" height="167"><br><span class="bodytext">Visualizing Coral Bleaching</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=987&index=987&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/987_big01.jpg" alt="Pen Plotter" title="Pen Plotter" width="223" height="167"><br><span class="bodytext">Pen Plotter</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=986&index=986&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/986_big01.jpg" alt="Creating Civilizations" title="Creating Civilizations" width="223" height="167"><br><span class="bodytext">Creating Civilizations</span></A>
+</td>
+
+
+</tr>
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=985&index=985&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/985_big01.jpg" alt="Phone-Call Cartography" title="Phone-Call Cartography" width="223" height="167"><br><span class="bodytext">Phone-Call Cartography</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=984&index=984&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/984_big01.jpg" alt="How Data Saved Music" title="How Data Saved Music" width="223" height="167"><br><span class="bodytext">How Data Saved Music</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=983&index=983&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/983_big01.jpg" alt="Satellites network" title="Satellites network" width="223" height="167"><br><span class="bodytext">Satellites network</span></A>
+</td>
+
+
+</tr>
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=982&index=982&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/982_big01.jpg" alt="The S.O.S. (1942) Fortune Magazine" title="The S.O.S. (1942) Fortune Magazine" width="223" height="167"><br><span class="bodytext">The S.O.S. (1942) Fortune Magazine</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=981&index=981&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/981_big01.jpg" alt="New Town Tracer" title="New Town Tracer" width="223" height="167"><br><span class="bodytext">New Town Tracer</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=980&index=980&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/980_big01.jpg" alt="Mapping Where People Run" title="Mapping Where People Run" width="223" height="167"><br><span class="bodytext">Mapping Where People Run</span></A>
+</td>
+
+
+</tr>
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=979&index=979&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/979_big01.jpg" alt="The Interconnected Web of Tech Companies" title="The Interconnected Web of Tech Companies" width="223" height="167"><br><span class="bodytext">The Interconnected Web of Tech Companies</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=978&index=978&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/978_big01.jpg" alt="Untangling the webs of immigration lobbying" title="Untangling the webs of immigration lobbying" width="223" height="167"><br><span class="bodytext">Untangling the webs of immigration lobbying</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=977&index=977&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/977_big01.jpg" alt="PrettyMaps" title="PrettyMaps" width="223" height="167"><br><span class="bodytext">PrettyMaps</span></A>
+</td>
+
+
+</tr>
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=976&index=976&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/976_big01.jpg" alt="The Architecture of Radio" title="The Architecture of Radio" width="223" height="167"><br><span class="bodytext">The Architecture of Radio</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=975&index=975&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/975_big01.jpg" alt="Game of Angels" title="Game of Angels" width="223" height="167"><br><span class="bodytext">Game of Angels</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=974&index=974&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/974_big01.jpg" alt="BeerViz" title="BeerViz" width="223" height="167"><br><span class="bodytext">BeerViz</span></A>
+</td>
+
+
+</tr>
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=973&index=973&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/973_big01.jpg" alt="Growth in civic tech " title="Growth in civic tech " width="223" height="167"><br><span class="bodytext">Growth in civic tech </span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=972&index=972&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/972_big01.jpg" alt="redditviz - reddit interest network" title="redditviz - reddit interest network" width="223" height="167"><br><span class="bodytext">redditviz - reddit interest network</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=971&index=971&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/971_big01.jpg" alt="The Clubs that Connect the World Cup" title="The Clubs that Connect the World Cup" width="223" height="167"><br><span class="bodytext">The Clubs that Connect the World Cup</span></A>
+</td>
+
+
+</tr>
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=970&index=970&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/970_big01.jpg" alt="DeepDream" title="DeepDream" width="223" height="167"><br><span class="bodytext">DeepDream</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=969&index=969&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/969_big01.jpg" alt="Visualizing Neuroscience Publications Keyword Network" title="Visualizing Neuroscience Publications Keyword Network" width="223" height="167"><br><span class="bodytext">Visualizing Neuroscience Publications Keyword Network</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=968&index=968&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/968_big01.jpg" alt="The Synapse" title="The Synapse" width="223" height="167"><br><span class="bodytext">The Synapse</span></A>
+</td>
+
+
+</tr>
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=967&index=967&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/967_big01.jpg" alt="The Library Project" title="The Library Project" width="223" height="167"><br><span class="bodytext">The Library Project</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=966&index=966&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/966_big01.jpg" alt="Archives & Manuscripts (NYPL Labs) " title="Archives & Manuscripts (NYPL Labs) " width="223" height="167"><br><span class="bodytext">Archives & Manuscripts (NYPL Labs) </span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=965&index=965&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/965_big01.jpg" alt="Clamping down on review fraud" title="Clamping down on review fraud" width="223" height="167"><br><span class="bodytext">Clamping down on review fraud</span></A>
+</td>
+
+
+</tr>
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=964&index=964&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/964_big01.jpg" alt="Disney Strategy Chart" title="Disney Strategy Chart" width="223" height="167"><br><span class="bodytext">Disney Strategy Chart</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=963&index=963&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/963_big01.jpg" alt="The Historic Development of Network Visualization" title="The Historic Development of Network Visualization" width="223" height="167"><br><span class="bodytext">The Historic Development of Network Visualization</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=962&index=962&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/962_big01.jpg" alt="London 24" title="London 24" width="223" height="167"><br><span class="bodytext">London 24</span></A>
+</td>
+
+
+</tr>
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=961&index=961&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/961_big01.jpg" alt="Track Tag Love" title="Track Tag Love" width="223" height="167"><br><span class="bodytext">Track Tag Love</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=960&index=960&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/960_big01.jpg" alt="Mapping Twitter Topic Networks: From Polarized Crowds to Community Clusters" title="Mapping Twitter Topic Networks: From Polarized Crowds to Community Clusters" width="223" height="167"><br><span class="bodytext">Mapping Twitter Topic Networks: From Polarized Crowds to Community Clusters</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=959&index=959&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/959_big01.jpg" alt="Mapping Silicon Valley's Own Private Highway" title="Mapping Silicon Valley's Own Private Highway" width="223" height="167"><br><span class="bodytext">Mapping Silicon Valley's Own Private Highway</span></A>
+</td>
+
+
+</tr>
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=958&index=958&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/958_big01.jpg" alt="Code Galaxies" title="Code Galaxies" width="223" height="167"><br><span class="bodytext">Code Galaxies</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=957&index=957&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/957_big01.jpg" alt="Stellar Navigation using Network Analysis" title="Stellar Navigation using Network Analysis" width="223" height="167"><br><span class="bodytext">Stellar Navigation using Network Analysis</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=956&index=956&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/956_big01.jpg" alt="KeyLines" title="KeyLines" width="223" height="167"><br><span class="bodytext">KeyLines</span></A>
+</td>
+
+
+</tr>
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=955&index=955&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/955_big01.jpg" alt="The Bit Coin Big Bang" title="The Bit Coin Big Bang" width="223" height="167"><br><span class="bodytext">The Bit Coin Big Bang</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=954&index=954&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/954_big01.jpg" alt="Marvel Uberframework" title="Marvel Uberframework" width="223" height="167"><br><span class="bodytext">Marvel Uberframework</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=953&index=953&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/953_big01.jpg" alt="Neural Network Visualization in WebGL" title="Neural Network Visualization in WebGL" width="223" height="167"><br><span class="bodytext">Neural Network Visualization in WebGL</span></A>
+</td>
+
+
+</tr>
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=952&index=952&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/952_big01.jpg" alt="100 Students start college. Who graduates? " title="100 Students start college. Who graduates? " width="223" height="167"><br><span class="bodytext">100 Students start college. Who graduates? </span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=951&index=951&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/951_big01.jpg" alt="Axis of Additives" title="Axis of Additives" width="223" height="167"><br><span class="bodytext">Axis of Additives</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=950&index=950&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/950_big01.jpg" alt="Visualizing Shipments from Coal Mines to US Power Plants" title="Visualizing Shipments from Coal Mines to US Power Plants" width="223" height="167"><br><span class="bodytext">Visualizing Shipments from Coal Mines to US Power Plants</span></A>
+</td>
+
+
+</tr>
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=949&index=949&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/949_big01.jpg" alt="Inside the $400-million political network backed by the Kochs" title="Inside the $400-million political network backed by the Kochs" width="223" height="167"><br><span class="bodytext">Inside the $400-million political network backed by the Kochs</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=948&index=948&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/948_big01.jpg" alt="Clog in the Pipes" title="Clog in the Pipes" width="223" height="167"><br><span class="bodytext">Clog in the Pipes</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=947&index=947&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/947_big01.jpg" alt="Infrastructure Studies" title="Infrastructure Studies" width="223" height="167"><br><span class="bodytext">Infrastructure Studies</span></A>
+</td>
+
+
+</tr>
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=946&index=946&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/946_big01.jpg" alt="NetGestalt: integrating multidimensional -omics data over biological networks" title="NetGestalt: integrating multidimensional -omics data over biological networks" width="223" height="167"><br><span class="bodytext">NetGestalt: integrating multidimensional -omics data over biological networks</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=945&index=945&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/945_big01.jpg" alt="Art and Science: Network Visualization Program" title="Art and Science: Network Visualization Program" width="223" height="167"><br><span class="bodytext">Art and Science: Network Visualization Program</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=944&index=944&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/944_big01.jpg" alt="Viral Texts" title="Viral Texts" width="223" height="167"><br><span class="bodytext">Viral Texts</span></A>
+</td>
+
+
+</tr>
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=943&index=943&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/943_big01.jpg" alt="Mapping Media Geographic Networks: The News Co-occurrence Globe" title="Mapping Media Geographic Networks: The News Co-occurrence Globe" width="223" height="167"><br><span class="bodytext">Mapping Media Geographic Networks: The News Co-occurrence Globe</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=942&index=942&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/942_big01.jpg" alt="Braindance" title="Braindance" width="223" height="167"><br><span class="bodytext">Braindance</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=941&index=941&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/941_big01.jpg" alt="Landscape Architect's Network Data is Dense, Interconnected" title="Landscape Architect's Network Data is Dense, Interconnected" width="223" height="167"><br><span class="bodytext">Landscape Architect's Network Data is Dense, Interconnected</span></A>
+</td>
+
+
+</tr>
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=940&index=940&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/940_big01.jpg" alt="SpaTo Visual Explorer" title="SpaTo Visual Explorer" width="223" height="167"><br><span class="bodytext">SpaTo Visual Explorer</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=939&index=939&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/939_big01.jpg" alt="Vorograph" title="Vorograph" width="223" height="167"><br><span class="bodytext">Vorograph</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=938&index=938&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/938_big01.jpg" alt="Norse Attack Map" title="Norse Attack Map" width="223" height="167"><br><span class="bodytext">Norse Attack Map</span></A>
+</td>
+
+
+</tr>
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=937&index=937&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/937_big01.jpg" alt="NJ Hotels Near NYC" title="NJ Hotels Near NYC" width="223" height="167"><br><span class="bodytext">NJ Hotels Near NYC</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=936&index=936&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/936_big01.jpg" alt="The Obsessively Detailed Map of American Literature's Most Epic Road Trips" title="The Obsessively Detailed Map of American Literature's Most Epic Road Trips" width="223" height="167"><br><span class="bodytext">The Obsessively Detailed Map of American Literature's Most Epic Road Trips</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=935&index=935&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/935_big01.jpg" alt="Porn Data: Visualizing Fetish Space" title="Porn Data: Visualizing Fetish Space" width="223" height="167"><br><span class="bodytext">Porn Data: Visualizing Fetish Space</span></A>
+</td>
+
+
+</tr>
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=934&index=934&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/934_big01.jpg" alt="Airbnb Locations" title="Airbnb Locations" width="223" height="167"><br><span class="bodytext">Airbnb Locations</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=933&index=933&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/933_big01.jpg" alt="Genetic Interaction Network of yeast Saccharomyces cerevisiae" title="Genetic Interaction Network of yeast Saccharomyces cerevisiae" width="223" height="167"><br><span class="bodytext">Genetic Interaction Network of yeast Saccharomyces cerevisiae</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=932&index=932&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/932_big01.jpg" alt="Sound Sculptures " title="Sound Sculptures " width="223" height="167"><br><span class="bodytext">Sound Sculptures </span></A>
+</td>
+
+
+</tr>
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=931&index=931&domain=">
+
+<img src="assets/6d5cfe33836454bfbdabf350e7c7a3fb.jpg" alt="The Geography of Tweets" title="The Geography of Tweets" width="223" height="167"><br><span class="bodytext">The Geography of Tweets</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=930&index=930&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/930_big01.jpg" alt="Illustris" title="Illustris" width="223" height="167"><br><span class="bodytext">Illustris</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=929&index=929&domain=">
+
+<img src="assets/2fd8863a1b7048100f9ac087576263c4.jpg" alt="Unchartered Cartography" title="Unchartered Cartography" width="223" height="167"><br><span class="bodytext">Unchartered Cartography</span></A>
+</td>
+
+
+</tr>
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=928&index=928&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/928_big01.jpg" alt="Who's Connected to whom in Hadoop World" title="Who's Connected to whom in Hadoop World" width="223" height="167"><br><span class="bodytext">Who's Connected to whom in Hadoop World</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=927&index=927&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/927_big01.jpg" alt="Flight Visualizations over 24hr Periods" title="Flight Visualizations over 24hr Periods" width="223" height="167"><br><span class="bodytext">Flight Visualizations over 24hr Periods</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=926&index=926&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/926_big01.jpg" alt="Universe of Emotions" title="Universe of Emotions" width="223" height="167"><br><span class="bodytext">Universe of Emotions</span></A>
+</td>
+
+
+</tr>
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=925&index=925&domain=">
+
+<img src="http://www.visualcomplexity.com/vc/images/925_big01.jpg" alt="Chorus" title="Chorus" width="223" height="167"><br><span class="bodytext">Chorus</span></A>
+</td>
+
+
+<td width="223" height="167" ALIGN="left" valign="top">
+
+<A HREF="project_details.cfm?id=924&index=924&domain=">
+
+<img src="assets/f25db26a65dd0c8915e096ee9091b6cb.jpg" alt="Mapping the Internet" title="Mapping the Internet" width="223" height="167"><br><span class="bodytext">Mapping the Internet</span></A>
+</td>
+
+
+
+
+</table>
+
+</div>
+
+</span>
+
+
+<div id="Text" style="display: none; float:left; width:710px;">
+<table ALIGN="left" valign="top" width="710" height="50" cellpadding="0" cellspacing="10" border="0">
+
+<tr>
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=1000&index=1000&domain=">
+Seven Bridges of Königsberg</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=999&index=999&domain=">
+Experimental music notation</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=998&index=998&domain=">
+Neurovis</A></span>
+</td>
+
+
+</tr>
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=997&index=997&domain=">
+Network Visualizations</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=996&index=996&domain=">
+Linked Jazz</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=995&index=995&domain=">
+Visualizing the Networks of Bicycling Groups for, of, and by Women in Philadelphia and New York City</A></span>
+</td>
+
+
+</tr>
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=994&index=994&domain=">
+Financial Network Visualization: clustering by Estimize analyst coverage</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=993&index=993&domain=">
+Watson News Explorer</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=992&index=992&domain=">
+Madrid Subway Complaints by Station</A></span>
+</td>
+
+
+</tr>
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=991&index=991&domain=">
+Dystopia & Utopia & Science Fiction</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=990&index=990&domain=">
+Phantom Terrains</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=989&index=989&domain=">
+Translating worlds</A></span>
+</td>
+
+
+</tr>
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=988&index=988&domain=">
+Visualizing Coral Bleaching</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=987&index=987&domain=">
+Pen Plotter</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=986&index=986&domain=">
+Creating Civilizations</A></span>
+</td>
+
+
+</tr>
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=985&index=985&domain=">
+Phone-Call Cartography</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=984&index=984&domain=">
+How Data Saved Music</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=983&index=983&domain=">
+Satellites network</A></span>
+</td>
+
+
+</tr>
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=982&index=982&domain=">
+The S.O.S. (1942) Fortune Magazine</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=981&index=981&domain=">
+New Town Tracer</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=980&index=980&domain=">
+Mapping Where People Run</A></span>
+</td>
+
+
+</tr>
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=979&index=979&domain=">
+The Interconnected Web of Tech Companies</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=978&index=978&domain=">
+Untangling the webs of immigration lobbying</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=977&index=977&domain=">
+PrettyMaps</A></span>
+</td>
+
+
+</tr>
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=976&index=976&domain=">
+The Architecture of Radio</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=975&index=975&domain=">
+Game of Angels</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=974&index=974&domain=">
+BeerViz</A></span>
+</td>
+
+
+</tr>
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=973&index=973&domain=">
+Growth in civic tech </A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=972&index=972&domain=">
+redditviz - reddit interest network</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=971&index=971&domain=">
+The Clubs that Connect the World Cup</A></span>
+</td>
+
+
+</tr>
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=970&index=970&domain=">
+DeepDream</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=969&index=969&domain=">
+Visualizing Neuroscience Publications Keyword Network</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=968&index=968&domain=">
+The Synapse</A></span>
+</td>
+
+
+</tr>
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=967&index=967&domain=">
+The Library Project</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=966&index=966&domain=">
+Archives & Manuscripts (NYPL Labs) </A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=965&index=965&domain=">
+Clamping down on review fraud</A></span>
+</td>
+
+
+</tr>
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=964&index=964&domain=">
+Disney Strategy Chart</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=963&index=963&domain=">
+The Historic Development of Network Visualization</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=962&index=962&domain=">
+London 24</A></span>
+</td>
+
+
+</tr>
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=961&index=961&domain=">
+Track Tag Love</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=960&index=960&domain=">
+Mapping Twitter Topic Networks: From Polarized Crowds to Community Clusters</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=959&index=959&domain=">
+Mapping Silicon Valley's Own Private Highway</A></span>
+</td>
+
+
+</tr>
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=958&index=958&domain=">
+Code Galaxies</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=957&index=957&domain=">
+Stellar Navigation using Network Analysis</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=956&index=956&domain=">
+KeyLines</A></span>
+</td>
+
+
+</tr>
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=955&index=955&domain=">
+The Bit Coin Big Bang</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=954&index=954&domain=">
+Marvel Uberframework</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=953&index=953&domain=">
+Neural Network Visualization in WebGL</A></span>
+</td>
+
+
+</tr>
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=952&index=952&domain=">
+100 Students start college. Who graduates? </A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=951&index=951&domain=">
+Axis of Additives</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=950&index=950&domain=">
+Visualizing Shipments from Coal Mines to US Power Plants</A></span>
+</td>
+
+
+</tr>
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=949&index=949&domain=">
+Inside the $400-million political network backed by the Kochs</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=948&index=948&domain=">
+Clog in the Pipes</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=947&index=947&domain=">
+Infrastructure Studies</A></span>
+</td>
+
+
+</tr>
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=946&index=946&domain=">
+NetGestalt: integrating multidimensional -omics data over biological networks</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=945&index=945&domain=">
+Art and Science: Network Visualization Program</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=944&index=944&domain=">
+Viral Texts</A></span>
+</td>
+
+
+</tr>
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=943&index=943&domain=">
+Mapping Media Geographic Networks: The News Co-occurrence Globe</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=942&index=942&domain=">
+Braindance</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=941&index=941&domain=">
+Landscape Architect's Network Data is Dense, Interconnected</A></span>
+</td>
+
+
+</tr>
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=940&index=940&domain=">
+SpaTo Visual Explorer</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=939&index=939&domain=">
+Vorograph</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=938&index=938&domain=">
+Norse Attack Map</A></span>
+</td>
+
+
+</tr>
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=937&index=937&domain=">
+NJ Hotels Near NYC</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=936&index=936&domain=">
+The Obsessively Detailed Map of American Literature's Most Epic Road Trips</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=935&index=935&domain=">
+Porn Data: Visualizing Fetish Space</A></span>
+</td>
+
+
+</tr>
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=934&index=934&domain=">
+Airbnb Locations</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=933&index=933&domain=">
+Genetic Interaction Network of yeast Saccharomyces cerevisiae</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=932&index=932&domain=">
+Sound Sculptures </A></span>
+</td>
+
+
+</tr>
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=931&index=931&domain=">
+The Geography of Tweets</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=930&index=930&domain=">
+Illustris</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=929&index=929&domain=">
+Unchartered Cartography</A></span>
+</td>
+
+
+</tr>
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=928&index=928&domain=">
+Who's Connected to whom in Hadoop World</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=927&index=927&domain=">
+Flight Visualizations over 24hr Periods</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=926&index=926&domain=">
+Universe of Emotions</A></span>
+</td>
+
+
+</tr>
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=925&index=925&domain=">
+Chorus</A></span>
+</td>
+
+
+
+<td width="12" height="11" ALIGN="left" valign="top">
+<img src="assets/9a08ef0cc91a849fcd7c021a5fd67c3e.gif">
+<td width="214" height="11" ALIGN="left" valign="top">
+<span class="textTableIndex">
+
+<A HREF="project_details.cfm?id=924&index=924&domain=">
+Mapping the Internet</A></span>
+</td>
+
+
+
+
+</table>
+</div>
+
+
+
+<table width="710" height="5" ALIGN="left" valign="top" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="10" height="5"></td>
+<td width="690" BGCOLOR="#333333"></td>
+<td width="10"></td>
+</tr>
+</table>
+
+
+<br>
+
+
+<table width="710" ALIGN="left" valign="top" cellpadding="0" cellspacing="10" border="0">
+<tr>
+<td width="210" valign="top">
+
+<table width="210" ALIGN="left" valign="top" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td valign="top" class="Dark_Grey_12">Most Visited Projects:</td>
+</tr>
+<tr>
+<td height="5" valign="top"></td>
+</tr>
+<tr>
+<td height="5" valign="top" BGCOLOR="#e5e5e5"></td>
+</tr>
+<tr>
+<td height="10" valign="top"></td>
+</tr>
+<tr>
+<td height="5" valign="top" class="smallTextGrey">1. <A HREF="http://www.visualcomplexity.com/vc/project_details.cfm?id=100&index=100&domain=" target="_self">Visualizing Network Data</A><br>2. <A HREF="http://www.visualcomplexity.com/vc/project_details.cfm?id=1&index=1&domain=" target="_self">Yeast Protein Interaction Network</A><br>3. <A HREF="http://www.visualcomplexity.com/vc/project_details.cfm?id=1000&index=1000&domain=" target="_self">Seven Bridges of Königsberg</A><br>4. <A HREF="http://www.visualcomplexity.com/vc/project_details.cfm?id=990&index=990&domain=" target="_self">Phantom Terrains</A><br>5. <A HREF="http://www.visualcomplexity.com/vc/project_details.cfm?id=985&index=985&domain=" target="_self">Phone-Call Cartography</A><br>6. <A HREF="http://www.visualcomplexity.com/vc/project_details.cfm?id=988&index=988&domain=" target="_self">Visualizing Coral Bleaching</A><br>7. <A HREF="http://www.visualcomplexity.com/vc/project_details.cfm?id=992&index=992&domain=" target="_self">Madrid Subway Complaints by Station</A><br>8. <A HREF="http://www.visualcomplexity.com/vc/project_details.cfm?id=998&index=998&domain=" target="_self">Neurovis</A><br>9. <A HREF="http://www.visualcomplexity.com/vc/project_details.cfm?id=999&index=999&domain=" target="_self">Experimental music notation</A><br>10. <A HREF="http://www.visualcomplexity.com/vc/project_details.cfm?id=982&index=982&domain=" target="_self">The S.O.S. (1942) Fortune Magazine</A><br></td>
+</tr>
+</table>
+
+</td>
+
+<td width="10"></td>
+
+<td width="210" valign="top">
+
+<table width="210" ALIGN="left" valign="top" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td valign="top" class="Dark_Grey_12">Most Commented Projects:</td>
+</tr>
+<tr>
+<td height="5" valign="top"></td>
+</tr>
+<tr>
+<td height="5" valign="top" BGCOLOR="#e5e5e5"></td>
+</tr>
+<tr>
+<td height="10" valign="top"></td>
+</tr>
+<tr>
+<td height="5" valign="top" class="smallTextGrey">1. <A HREF="http://www.visualcomplexity.com/vc/project_details.cfm?id=267&index=267&domain=" target="_self">NYC Subway Map Redesign</A><br>2. <A HREF="http://www.visualcomplexity.com/vc/project_details.cfm?id=392&index=392&domain=" target="_self">Windows vs Linux Server</A><br>3. <A HREF="http://www.visualcomplexity.com/vc/project_details.cfm?id=480&index=480&domain=" target="_self">I Wish...</A><br>4. <A HREF="http://www.visualcomplexity.com/vc/project_details.cfm?id=550&index=550&domain=" target="_self">Oil Money</A><br>5. <A HREF="http://www.visualcomplexity.com/vc/project_details.cfm?id=454&index=454&domain=" target="_self">Data visualisation of a social network</A><br>6. <A HREF="http://www.visualcomplexity.com/vc/project_details.cfm?id=547&index=547&domain=" target="_self">Web Trend Map v3.0</A><br>7. <A HREF="http://www.visualcomplexity.com/vc/project_details.cfm?id=329&index=329&domain=" target="_self">Musicovery</A><br>8. <A HREF="http://www.visualcomplexity.com/vc/project_details.cfm?id=548&index=548&domain=" target="_self">Hospital System - From client to Patient</A><br>9. <A HREF="http://www.visualcomplexity.com/vc/project_details.cfm?id=307&index=307&domain=" target="_self">Neuronal Network</A><br>10. <A HREF="http://www.visualcomplexity.com/vc/project_details.cfm?id=554&index=554&domain=" target="_self">Visualizing the Processing Flickr group</A><br></td>
+</tr>
+</table>
+
+</td>
+<td width="10"></td>
+
+<td width="210" valign="top">
+
+<table width="210" ALIGN="left" valign="top" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td valign="top" class="Dark_Grey_12">Popular Searches:</td>
+</tr>
+<tr>
+<td height="5" valign="top"></td>
+</tr>
+<tr>
+<td height="5" valign="top" BGCOLOR="#e5e5e5"></td>
+</tr>
+<tr>
+<td height="10" valign="top"></td>
+</tr>
+<tr>
+<td height="5" valign="top" class="smallTextGrey">1. <A HREF="http://www.visualcomplexity.com/vc/search.cfm?input=map" target="_self">map</A><br>2. <A HREF="http://www.visualcomplexity.com/vc/search.cfm?input=facebook" target="_self">facebook</A><br>3. <A HREF="http://www.visualcomplexity.com/vc/search.cfm?input=timeline" target="_self">timeline</A><br>4. <A HREF="http://www.visualcomplexity.com/vc/search.cfm?input=architecture" target="_self">architecture</A><br>5. <A HREF="http://www.visualcomplexity.com/vc/search.cfm?input=music " target="_self">music </A><br>6. <A HREF="http://www.visualcomplexity.com/vc/search.cfm?input=time" target="_self">time</A><br>7. <A HREF="http://www.visualcomplexity.com/vc/search.cfm?input=twitter" target="_self">twitter</A><br>8. <A HREF="http://www.visualcomplexity.com/vc/search.cfm?input=network" target="_self">network</A><br>9. <A HREF="http://www.visualcomplexity.com/vc/search.cfm?input=tree" target="_self">tree</A><br>10. <A HREF="http://www.visualcomplexity.com/vc/search.cfm?input=internet" target="_self">internet</A><br></td>
+</tr>
+</table>
+
+</td>
+</tr>
+</table>
+
+
+<br>
+
+
+<table width="710" height="75" ALIGN="left" valign="top" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td width="10"></td>
+<td width="690">
+
+
+<table width="690" height="75" ALIGN="left" valign="top" cellpadding="0" cellspacing="0" border="0">
+<tr>
+<td height="2" ALIGN="left" valign="top" BGCOLOR="#e5e5e5"></td>
+</tr>
+<tr>
+<td height="10" ALIGN="left" valign="top" BGCOLOR="#ffffff"></td>
+</tr>
+<tr>
+<td width="710" height="60" ALIGN="left" valign="top" BGCOLOR="#FFFFFF">
+<script type="text/javascript"><!--
+google_ad_client = "pub-0367363802681955";
+google_ad_width = 468;
+google_ad_height = 60;
+google_ad_format = "468x60_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "E5E5E5";
+google_color_bg = "FFFFFF";
+google_color_link = "666666";
+google_color_text = "666666";
+google_color_url = "999999";
+//--></script>
+<script type="text/javascript"
+  src="assets/b451e1a8d3333f324ffeb1bc2d85702b.js">
+</script>
+
+</td>
+</tr>
+<tr>
+<td height="5" ALIGN="left" valign="top" BGCOLOR="#FFFFFF"></td>
+</tr>
+</table>
+
+</td>
+<td width="10"></td>
+</tr>
+</table>
+
+
+
+</TD> 
+
+
+
+
+
+
+   <TD width= "250" height="0" align="left" valign="top" BGCOLOR="#FFFFFF">
+   
+   <table width= "250" height="400" align="left" valign="top" border="0" cellspacing="0" cellpadding="0" BGCOLOR="#FFFFFF">
+    
+     <tr>
+       <td width= "250" height="10" colspan="2" align="left" valign="top" BGCOLOR="#FFFFFF"></td>
+     </tr>
+     <tr>
+       <td width= "100" height="35" align="left" valign="middle" BGCOLOR="#303030"><span class="TitlesSideBar">Filter by:</span></td>
+       <td width= "150" align="right" valign="middle" BGCOLOR="#303030"><span class="FilterPullDown">
+	   
+
+ <SELECT NAME="goto" onChange="document.location.href =this[this.selectedIndex].value">
+ 
+  
+  <OPTION VALUE="javascript:showDiv('bydomain');hideDiv('byyear');hideDiv('byauthor');hideDiv('bymethod');hideDiv('bytrend')">SUBJECT</OPTION>
+  <OPTION VALUE="javascript:hideDiv('bydomain');hideDiv('byyear');hideDiv('byauthor');showDiv('bymethod');hideDiv('bytrend')">method</OPTION>
+  <OPTION VALUE="javascript:hideDiv('bydomain');hideDiv('byyear');hideDiv('byauthor');hideDiv('bymethod');showDiv('bytrend')">trend</OPTION>
+  <OPTION VALUE="javascript:hideDiv('bydomain');showDiv('byyear');hideDiv('byauthor');hideDiv('bymethod');hideDiv('bytrend')">year</OPTION>
+  <OPTION VALUE="javascript:hideDiv('bydomain');hideDiv('byyear');showDiv('byauthor');hideDiv('bymethod');hideDiv('bytrend')">top authors</OPTION>
+  
+
+  </SELECT>
+  
+  
+
+	   
+       </span></td>
+     </tr>
+     <tr>
+       <td width="250" height="10" colspan="2" align="left" valign="top" background="nav_images/index_sidebar_arrow_title.gif" BGCOLOR="#F0F6FC"></td>
+     </tr>
+     
+	 <tr>
+       <td height="100" colspan="2" align="left" valign="top" BGCOLOR="#F0F6FC">
+	   
+	   	     <div id="bydomain" style="display: block; float:left; width:230px;">
+	         <table width= "230" height="100" align="left" valign="top" border="0" cellspacing="0" cellpadding="0">
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?domain=Art" target="_self" class="FilterByLinks">Art</A><span class="blueTextBrackets"> (74)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?domain=Biology" target="_self" class="FilterByLinks">Biology</A><span class="blueTextBrackets"> (60)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?domain=Business%20Networks" target="_self" class="FilterByLinks">Business Networks</A><span class="blueTextBrackets"> (50)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?domain=Computer%20Systems" target="_self" class="FilterByLinks">Computer Systems</A><span class="blueTextBrackets"> (39)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?domain=Food%20Webs" target="_self" class="FilterByLinks">Food Webs</A><span class="blueTextBrackets"> (16)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?domain=Internet" target="_self" class="FilterByLinks">Internet</A><span class="blueTextBrackets"> (35)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?domain=Knowledge%20Networks" target="_self" class="FilterByLinks">Knowledge Networks</A><span class="blueTextBrackets"> (141)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?domain=Multi%2DDomain%20Representation" target="_self" class="FilterByLinks">Multi-Domain Representation</A><span class="blueTextBrackets"> (70)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?domain=Music" target="_self" class="FilterByLinks">Music</A><span class="blueTextBrackets"> (47)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?domain=Others" target="_self" class="FilterByLinks">Others</A><span class="blueTextBrackets"> (77)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?domain=Pattern%20Recognition" target="_self" class="FilterByLinks">Pattern Recognition</A><span class="blueTextBrackets"> (53)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?domain=Political%20Networks" target="_self" class="FilterByLinks">Political Networks</A><span class="blueTextBrackets"> (34)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?domain=Semantic%20Networks" target="_self" class="FilterByLinks">Semantic Networks</A><span class="blueTextBrackets"> (44)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?domain=Social%20Networks" target="_self" class="FilterByLinks">Social Networks</A><span class="blueTextBrackets"> (135)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?domain=Transportation%20Networks" target="_self" class="FilterByLinks">Transportation Networks</A><span class="blueTextBrackets"> (70)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?domain=World%20Wide%20Web" target="_self" class="FilterByLinks">World Wide Web</A><span class="blueTextBrackets"> (55)</span></td></tr>
+             
+             </table>
+		     </div>
+             
+              <div id="bymethod" style="display: none; float:left; width:230px;">
+	         <table width= "230" height="100" align="left" valign="top" border="0" cellspacing="0" cellpadding="0">
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?method=Arc%20Diagrams" target="_self" class="FilterByLinks">Arc Diagrams</A><span class="blueTextBrackets"> (12)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?method=Area%20Grouping" target="_self" class="FilterByLinks">Area Grouping</A><span class="blueTextBrackets"> (8)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?method=Circular%20Ties" target="_self" class="FilterByLinks">Circular Ties</A><span class="blueTextBrackets"> (9)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?method=Data%20Flow" target="_self" class="FilterByLinks">Data Flow</A><span class="blueTextBrackets"> (4)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?method=Elliptical%20Implosion" target="_self" class="FilterByLinks">Elliptical Implosion</A><span class="blueTextBrackets"> (6)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?method=Globes" target="_self" class="FilterByLinks">Globes</A><span class="blueTextBrackets"> (23)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?method=Radial%20%28Others%29" target="_self" class="FilterByLinks">Radial (Others)</A><span class="blueTextBrackets"> (11)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?method=Radial%20Centralized%20Networks" target="_self" class="FilterByLinks">Radial Centralized Networks</A><span class="blueTextBrackets"> (8)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?method=Radial%20Convergence" target="_self" class="FilterByLinks">Radial Convergence</A><span class="blueTextBrackets"> (56)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?method=Radial%20Implosion" target="_self" class="FilterByLinks">Radial Implosion</A><span class="blueTextBrackets"> (20)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?method=Radial%20Segmented%20Networks" target="_self" class="FilterByLinks">Radial Segmented Networks</A><span class="blueTextBrackets"> (13)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?method=Radial%20Trees" target="_self" class="FilterByLinks">Radial Trees</A><span class="blueTextBrackets"> (20)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?method=Tree" target="_self" class="FilterByLinks">Tree</A><span class="blueTextBrackets"> (5)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?method=US%20Map" target="_self" class="FilterByLinks">US Map</A><span class="blueTextBrackets"> (9)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?method=World%20Map" target="_self" class="FilterByLinks">World Map</A><span class="blueTextBrackets"> (12)</span></td></tr>
+             
+             </table>
+		     </div>
+             
+              <div id="bytrend" style="display: none; float:left; width:230px;">
+	         <table width= "230" height="100" align="left" valign="top" border="0" cellspacing="0" cellpadding="0">
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?trend=Twitter" target="_self" class="FilterByLinks">Twitter</A><span class="blueTextBrackets"> (19)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?trend=Blogosphere" target="_self" class="FilterByLinks">Blogosphere</A><span class="blueTextBrackets"> (14)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?trend=del%2Eicio%2Eus" target="_self" class="FilterByLinks">del.icio.us</A><span class="blueTextBrackets"> (14)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?trend=Flickr" target="_self" class="FilterByLinks">Flickr</A><span class="blueTextBrackets"> (13)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?trend=Literature" target="_self" class="FilterByLinks">Literature</A><span class="blueTextBrackets"> (13)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?trend=Protein%20Interactions" target="_self" class="FilterByLinks">Protein Interactions</A><span class="blueTextBrackets"> (13)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?trend=Co%2DCitations" target="_self" class="FilterByLinks">Co-Citations</A><span class="blueTextBrackets"> (12)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?trend=GPS" target="_self" class="FilterByLinks">GPS</A><span class="blueTextBrackets"> (12)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?trend=Brain" target="_self" class="FilterByLinks">Brain</A><span class="blueTextBrackets"> (11)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?trend=News" target="_self" class="FilterByLinks">News</A><span class="blueTextBrackets"> (10)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?trend=Facebook" target="_self" class="FilterByLinks">Facebook</A><span class="blueTextBrackets"> (8)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?trend=Last%2Efm" target="_self" class="FilterByLinks">Last.fm</A><span class="blueTextBrackets"> (8)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?trend=Travel%20Time" target="_self" class="FilterByLinks">Travel Time</A><span class="blueTextBrackets"> (8)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?trend=Donations" target="_self" class="FilterByLinks">Donations</A><span class="blueTextBrackets"> (7)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?trend=Email" target="_self" class="FilterByLinks">Email</A><span class="blueTextBrackets"> (7)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?trend=Co%2DAuthorship" target="_self" class="FilterByLinks">Co-Authorship</A><span class="blueTextBrackets"> (6)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?trend=Wikipedia" target="_self" class="FilterByLinks">Wikipedia</A><span class="blueTextBrackets"> (6)</span></td></tr>
+             
+             <tr><td width= "230" height="20" align="left" valign="bottom"><A HREF="index.cfm?trend=Terrorism" target="_self" class="FilterByLinks">Terrorism</A><span class="blueTextBrackets"> (5)</span></td></tr>
+             
+             </table>
+		     </div>
+			 
+			 
+<div id="byyear" style="display: none; float:left; width:230px;">
+<table width= "250" height="260" align="left" valign="top" border="0" cellspacing="0" cellpadding="0">
+<tr><td width= "80" height="260" align="left" valign="bottom">
+
+<table width= "80" height="260" align="left" valign="top" border="0" cellspacing="0" cellpadding="0">
+
+<tr><td width= "80" height="20" align="left" valign="bottom"><A HREF="index.cfm?year=2015" target="_self" class="FilterByLinks">2015</A><span class="blueTextBrackets"> (29)</span></td></tr>
+
+<tr><td width= "80" height="20" align="left" valign="bottom"><A HREF="index.cfm?year=2014" target="_self" class="FilterByLinks">2014</A><span class="blueTextBrackets"> (54)</span></td></tr>
+
+<tr><td width= "80" height="20" align="left" valign="bottom"><A HREF="index.cfm?year=2013" target="_self" class="FilterByLinks">2013</A><span class="blueTextBrackets"> (53)</span></td></tr>
+
+<tr><td width= "80" height="20" align="left" valign="bottom"><A HREF="index.cfm?year=2012" target="_self" class="FilterByLinks">2012</A><span class="blueTextBrackets"> (30)</span></td></tr>
+
+<tr><td width= "80" height="20" align="left" valign="bottom"><A HREF="index.cfm?year=2011" target="_self" class="FilterByLinks">2011</A><span class="blueTextBrackets"> (46)</span></td></tr>
+
+<tr><td width= "80" height="20" align="left" valign="bottom"><A HREF="index.cfm?year=2010" target="_self" class="FilterByLinks">2010</A><span class="blueTextBrackets"> (36)</span></td></tr>
+
+<tr><td width= "80" height="20" align="left" valign="bottom"><A HREF="index.cfm?year=2009" target="_self" class="FilterByLinks">2009</A><span class="blueTextBrackets"> (56)</span></td></tr>
+
+<tr><td width= "80" height="20" align="left" valign="bottom"><A HREF="index.cfm?year=2008" target="_self" class="FilterByLinks">2008</A><span class="blueTextBrackets"> (76)</span></td></tr>
+
+<tr><td width= "80" height="20" align="left" valign="bottom"><A HREF="index.cfm?year=2007" target="_self" class="FilterByLinks">2007</A><span class="blueTextBrackets"> (103)</span></td></tr>
+
+<tr><td width= "80" height="20" align="left" valign="bottom"><A HREF="index.cfm?year=2006" target="_self" class="FilterByLinks">2006</A><span class="blueTextBrackets"> (130)</span></td></tr>
+
+<tr><td width= "80" height="20" align="left" valign="bottom"><A HREF="index.cfm?year=2005" target="_self" class="FilterByLinks">2005</A><span class="blueTextBrackets"> (107)</span></td></tr>
+
+<tr><td width= "80" height="20" align="left" valign="bottom"><A HREF="index.cfm?year=2004" target="_self" class="FilterByLinks">2004</A><span class="blueTextBrackets"> (56)</span></td></tr>
+
+<tr><td width= "80" height="20" align="left" valign="bottom"><A HREF="index.cfm?year=2003" target="_self" class="FilterByLinks">2003</A><span class="blueTextBrackets"> (31)</span></td></tr>
+
+<tr><td width= "80" height="20" align="left" valign="bottom"><A HREF="index.cfm?year=2002" target="_self" class="FilterByLinks">2002</A><span class="blueTextBrackets"> (31)</span></td></tr>
+
+<tr><td width= "80" height="20" align="left" valign="bottom"><A HREF="index.cfm?year=2001" target="_self" class="FilterByLinks">2001</A><span class="blueTextBrackets"> (21)</span></td></tr>
+
+<tr><td width= "80" height="20" align="left" valign="bottom"><A HREF="index.cfm?year=2000" target="_self" class="FilterByLinks">2000</A><span class="blueTextBrackets"> (10)</span></td></tr>
+
+<tr><td width= "80" height="20" align="left" valign="bottom"><A HREF="index.cfm?year=1999" target="_self" class="FilterByLinks">1999</A><span class="blueTextBrackets"> (13)</span></td></tr>
+
+<tr><td width= "80" height="20" align="left" valign="bottom"><A HREF="index.cfm?year=1998" target="_self" class="FilterByLinks">1998</A><span class="blueTextBrackets"> (7)</span></td></tr>
+
+</table>
+</td>
+
+<td width= "10" align="left" valign="bottom"></td>
+
+<td width= "160" align="left" valign="bottom">
+<table width= "160" height="260" align="left" valign="top" border="0" cellspacing="0" cellpadding="0">
+
+<tr><td width= "160" height="20" align="left" valign="bottom"><A HREF="index.cfm?year=1997" target="_self" class="FilterByLinks">1997</A><span class="blueTextBrackets"> (3)</span></td></tr>
+
+<tr><td width= "160" height="20" align="left" valign="bottom"><A HREF="index.cfm?year=1996" target="_self" class="FilterByLinks">1996</A><span class="blueTextBrackets"> (5)</span></td></tr>
+
+<tr><td width= "160" height="20" align="left" valign="bottom"><A HREF="index.cfm?year=1995" target="_self" class="FilterByLinks">1995</A><span class="blueTextBrackets"> (6)</span></td></tr>
+
+<tr><td width= "160" height="20" align="left" valign="bottom"><A HREF="index.cfm?year=1994" target="_self" class="FilterByLinks">1994</A><span class="blueTextBrackets"> (1)</span></td></tr>
+
+<tr><td width= "160" height="20" align="left" valign="bottom"><A HREF="index.cfm?year=1993" target="_self" class="FilterByLinks">1993</A><span class="blueTextBrackets"> (1)</span></td></tr>
+
+<tr><td width= "160" height="20" align="left" valign="bottom"><A HREF="index.cfm?year=1992" target="_self" class="FilterByLinks">1992</A><span class="blueTextBrackets"> (1)</span></td></tr>
+
+<tr><td width= "160" height="20" align="left" valign="bottom"><A HREF="index.cfm?year=1990" target="_self" class="FilterByLinks">1990</A><span class="blueTextBrackets"> (1)</span></td></tr>
+
+<tr><td width= "160" height="20" align="left" valign="bottom"><A HREF="index.cfm?year=1989" target="_self" class="FilterByLinks">1989</A><span class="blueTextBrackets"> (1)</span></td></tr>
+
+<tr><td width= "160" height="20" align="left" valign="bottom"><A HREF="index.cfm?year=1985" target="_self" class="FilterByLinks">1985</A><span class="blueTextBrackets"> (1)</span></td></tr>
+
+<tr><td width= "160" height="20" align="left" valign="bottom"><A HREF="index.cfm?year=1982" target="_self" class="FilterByLinks">1982</A><span class="blueTextBrackets"> (1)</span></td></tr>
+
+<tr><td width= "160" height="20" align="left" valign="bottom"><A HREF="index.cfm?year=1977" target="_self" class="FilterByLinks">1977</A><span class="blueTextBrackets"> (1)</span></td></tr>
+
+<tr><td width= "160" height="20" align="left" valign="bottom"><A HREF="index.cfm?year=1972" target="_self" class="FilterByLinks">1972</A><span class="blueTextBrackets"> (1)</span></td></tr>
+
+<tr><td width= "160" height="20" align="left" valign="bottom"><A HREF="index.cfm?year=1958" target="_self" class="FilterByLinks">1958</A><span class="blueTextBrackets"> (1)</span></td></tr>
+
+<tr><td width= "160" height="20" align="left" valign="bottom"><A HREF="index.cfm?year=1957" target="_self" class="FilterByLinks">1957</A><span class="blueTextBrackets"> (1)</span></td></tr>
+
+<tr><td width= "160" height="20" align="left" valign="bottom"><A HREF="index.cfm?year=1951" target="_self" class="FilterByLinks">1951</A><span class="blueTextBrackets"> (1)</span></td></tr>
+
+<tr><td width= "160" height="20" align="left" valign="bottom"><A HREF="index.cfm?year=1950" target="_self" class="FilterByLinks">1950</A><span class="blueTextBrackets"> (1)</span></td></tr>
+
+<tr><td width= "160" height="20" align="left" valign="bottom"><A HREF="index.cfm?year=1942" target="_self" class="FilterByLinks">1942</A><span class="blueTextBrackets"> (1)</span></td></tr>
+
+<tr><td width= "160" height="20" align="left" valign="bottom"><A HREF="index.cfm?year=1940" target="_self" class="FilterByLinks">1940</A><span class="blueTextBrackets"> (1)</span></td></tr>
+
+
+
+
+</table>
+  
+</td>
+</tr>
+</table>
+
+</div>
+
+
+			 
+			 <div id="byauthor" style="display: none; float:left; width:230px;">
+			 
+		   
+		   <table width= "250" height="260" align="left" valign="top" border="0" cellspacing="0" cellpadding="0">
+           <tr><td height="20" align="left" valign="bottom">
+		   <A HREF="index.cfm?author=Santiago%20Ortiz" target="_self" class="FilterByLinks">Santiago Ortiz</A><span class="blueTextBrackets"> (10)</span></td></tr>
+		   <tr><td height="20" align="left" valign="bottom">
+		   <A HREF="index.cfm?author=Moritz%20Stefaner" target="_self" class="FilterByLinks">Moritz Stefaner</A><span class="blueTextBrackets">  (8)</span></td></tr>
+		   <tr><td height="20" align="left" valign="bottom">
+		   <A HREF="index.cfm?author=Ben%20Fry" target="_self" class="FilterByLinks">Ben Fry</A><span class="blueTextBrackets"> (7)</span></td></tr>
+		   <tr><td height="20" align="left" valign="bottom">
+		   <A HREF="index.cfm?author=Valdis%20Krebs" target="_self" class="FilterByLinks">Valdis Krebs</A><span class="blueTextBrackets"> (7)</span></td></tr>
+		   <tr><td height="20" align="left" valign="bottom">
+		   <A HREF="index.cfm?author=W%2E%20Bradford%20Paley" target="_self" class="FilterByLinks">W. Bradford Paley</A><span class="blueTextBrackets"> (6)</span></td></tr>
+		   <tr><td height="20" align="left" valign="bottom">
+		   <A HREF="index.cfm?author=Martin%20Wattenberg" target="_self" class="FilterByLinks">Martin Wattenberg</A><span class="blueTextBrackets"> (6)</span></td></tr>
+		   <tr><td height="20" align="left" valign="bottom">
+		   <A HREF="index.cfm?author=Stephen%20G%2E%20Eick" target="_self" class="FilterByLinks">Stephen G. Eick</A><span class="blueTextBrackets"> (5)</span></td></tr>
+		   <tr><td height="20" align="left" valign="bottom">
+		   <A HREF="index.cfm?author=Jan%20Willem%20Tulp" target="_self" class="FilterByLinks">Jan Willem Tulp</A><span class="blueTextBrackets"> (5)</span></td></tr>
+		   <tr><td height="20" align="left" valign="bottom">
+		   <A HREF="index.cfm?author=Burak%20Arikan" target="_self" class="FilterByLinks">Burak Arikan</A><span class="blueTextBrackets"> (5)</span></td></tr>
+		   <tr><td height="20" align="left" valign="bottom">
+		   <A HREF="index.cfm?author=Chris%20Harrison" target="_self" class="FilterByLinks">Chris Harrison</A><span class="blueTextBrackets"> (4)</span></td></tr>
+		   <tr><td height="20" align="left" valign="bottom">
+		   <A HREF="index.cfm?author=Graham%20J%2E%20Wills" target="_self" class="FilterByLinks">Graham J. Wills</A><span class="blueTextBrackets"> (4)</span></td></tr>
+		   <tr><td height="20" align="left" valign="bottom">
+		   <A HREF="index.cfm?author=Jeffrey%20Heer" target="_self" class="FilterByLinks">Jeffrey Heer</A><span class="blueTextBrackets"> (4)</span></td></tr>
+		   <tr><td height="20" align="left" valign="bottom">
+		   <A HREF="index.cfm?author=Marcos%20Weskamp" target="_self" class="FilterByLinks">Marcos Weskamp</A><span class="blueTextBrackets"> (4)</span></td></tr>
+		   <tr><td height="20" align="left" valign="bottom">
+		   <A HREF="index.cfm?author=Aaron%20Siegel" target="_self" class="FilterByLinks">Aaron Siegel</A><span class="blueTextBrackets"> (3)</span></td></tr>
+           </table>
+		   
+			 
+		   </div>
+		   
+        </td>
+      </tr>
+	   
+	   
+	 <tr>
+       <td height="10" colspan="2" align="left" valign="top" BGCOLOR="#F0F6FC"></td></tr>
+       <tr><td height="12" colspan="2" align="left" valign="top" BGCOLOR="#e5e5e5"></td></tr>
+       <tr><td height="10" colspan="2" align="left" valign="top" BGCOLOR="#e5e5e5"><A HREF="http://www.visualcomplexity.com/vc/index.cfm?all=yes" target="_self" class="FilterByLinks">See All</A><span class="blueTextBrackets"> (1000)</span></td></tr>
+       <tr><td height="15" colspan="2" align="left" valign="top" BGCOLOR="#e5e5e5" background="nav_images/index_sidebar_bottom_filter.png"></td></tr>
+     </tr>
+     
+     
+
+
+<tr>
+<td height="10" colspan="2" align="left" valign="top" BGCOLOR="#FFFFFF"></td>
+</tr>
+
+    
+        <tr>
+       <td height="120" colspan="2" align="left" valign="top"><a href="http://www.visualcomplexity.com/vc/book/"><img src="assets/1e186cb556fc511ee500f5779b277555.png" border="0"></a></td>
+     </tr> 
+
+
+<tr>
+<td height="10" colspan="2" align="left" valign="top" BGCOLOR="#FFFFFF"></td>
+</tr>
+
+    
+        <tr>
+       <td height="120" colspan="2" align="left" valign="top"><a href="http://astore.amazon.com/visualcompl0f-20?_encoding=UTF8&node=3"><img src="assets/a4157bad69d301a5005ca27e2c28b948.png" border="0"></a></td>
+     </tr> 
+
+
+<tr>
+<td height="10" colspan="2" align="left" valign="top" BGCOLOR="#FFFFFF"></td>
+</tr>
+
+    
+        <tr>
+       <td height="120" colspan="2" align="left" valign="top">
+
+<script type="text/javascript"><!--
+google_ad_client = "pub-0367363802681955";
+google_ad_width = 250;
+google_ad_height = 250;
+google_ad_format = "250x250_as";
+google_ad_type = "text";
+google_ad_channel = "";
+google_color_border = "E5E5E5";
+google_color_bg = "FFFFFF";
+google_color_link = "666666";
+google_color_text = "666666";
+google_color_url = "999999";
+//-->
+</script>
+<script type="text/javascript"
+  src="assets/b451e1a8d3333f324ffeb1bc2d85702b.js">
+</script>
+       
+       </td>
+     </tr> 
+
+
+
+<tr>
+<td height="10" colspan="2" align="left" valign="top" BGCOLOR="#FFFFFF"></td>
+</tr>
+
+	 
+
+	 <tr>
+       <td width= "250" height="0" colspan="2" align="left" valign="top" BGCOLOR="#FFFFFF">
+	   
+	      <table width= "250" height="50" align="left" valign="top" border="0" BGCOLOR="#FFFFFF" cellspacing="0" cellpadding="0">
+     <tr>
+       <td height="35" colspan="2" align="left" valign="middle" BGCOLOR="#666666"><span class="TitlesSideBar">Suggest a Project:</span></td>
+     </tr>
+     <tr>
+       <td height="10" colspan="2" align="left" valign="top" BGCOLOR="#F1F1F1"></td>
+     </tr>
+
+
+
+
+
+  
+  <form name="CFForm_2" id="CFForm_2" action="error_message.cfm" method="post" onsubmit="return _CF_checkCFForm_2(this)">
+    
+        
+      <TR>
+        <TD colspan="2" height="40" valign="top" BGCOLOR="#F1F1F1">
+		<span class="SuggestPanel">&nbsp;Your Name:</span><br><span class="SuggestPanel">
+          <input name="Name" id="Name"  type="text" size="28"  />        
+            </span></TD>
+      </TR>
+	  
+	  <TR>
+        <TD colspan="2" height="40" valign="top" BGCOLOR="#F1F1F1">
+		<span class="SuggestPanel">&nbsp;Your E-mail:</span><br><span class="SuggestPanel">
+		
+          <input name="FromAddress" id="FromAddress"  type="text" size="28"  />        
+            </span></TD>
+      </TR>
+      
+      <TR>
+        <TD colspan="2" height="40" valign="top" BGCOLOR="#F1F1F1">
+		<span class="SuggestPanel">&nbsp;Project URL:</span><br><span class="SuggestPanel">
+          <input name="URL" id="URL"  type="text" size="28"  />
+            </span></TD>
+      </TR>
+      
+      <TR>
+        <TD colspan="2" height="22" valign="top" BGCOLOR="#F1F1F1">
+		<span class="SuggestPanel">&nbsp;Project Description:</span><br><span class="SuggestPanel">
+		    <TEXTAREA
+            NAME="ProjectDescription"
+            COLS="27" 
+            ROWS="5" class="bodytext">Please provide a description of the project.
+			</TEXTAREA>			
+            </span></TD>
+      </TR>
+      
+      <TR>
+        <TD height="35" colspan="2" valign="middle" BGCOLOR="#F1F1F1"><span class="SuggestPanel">
+		<img src="nav_images/secret.png" border="0" align="absmiddle"> How Many?</span>
+		<input name="secret" id="secret"  type="text" maxlength="3"  size="3"  />
+		<INPUT
+  TYPE="Submit"
+  VALUE="Submit">		</TD>
+      </TR>
+  </form>
+
+	   </table>
+	   </td>
+     </tr>
+     
+     <tr>
+       <td height="15" colspan="2" align="left" valign="top" background="nav_images/index_sidebar_bottom_suggest.gif"></td>
+     </tr>   
+
+	 
+<tr>
+<td height="15" colspan="2" align="left" valign="top" BGCOLOR="#FFFFFF"></td>
+</tr>
+
+
+	 <tr>
+       <td height="25" colspan="2" align="left" valign="top" BGCOLOR="#FFFFFF" class="Light_Grey_12">
+	   Other Stuff	   </td>
+  <tr>
+<td height="80" colspan="2" align="left" valign="top" BGCOLOR="#FFFFFF" class="bodytext">
+<a href="http://www.makeawebsiteguru.com/" title="makeawebsiteguru.com" target="_blank">makeawebsiteguru.com</a><br>
+<a href="http://www.greengeeks.com/scripts/drupal-hosting.php"title="Drupal Hosting" target="_blank">Drupal Hosting</a>
+</td>
+</tr>
+        </tr>
+		
+<td height="5" colspan="2" align="left" valign="top" BGCOLOR="#FFFFFF"></td>
+</tr>
+  
+ 
+	
+
+  
+<tr>
+<td height="10" colspan="2" align="left" valign="top" BGCOLOR="#FFFFFF"></td>
+</tr>
+	 
+ 
+</table></TD>
+
+<td width="10" height="10" align="left" valign="top" BGCOLOR="#FFFFFF"></td>
+     
+</tr>
+</table>
+
+
+
+
+  
+
+<table width="950" align="center" height="62" border="0" cellspacing="0" cellpadding="0">
+<tr>
+    <td height="10"></td>
+  </tr>
+  <tr>
+    <td height="2" bgcolor="#000000"></td>
+  </tr>
+    <tr>
+    <td height="40" valign="middle" align="center" class="bodytext">Manuel Lima | VisualComplexity.com</td>
+  </tr>
+   <tr>
+    <td height="10"></td>
+  </tr>
+</table>
+    
+
+
+
+<br><br>
+
+<!-- Start of StatCounter Code -->
+<script type="text/javascript" language="javascript">
+var sc_project=955404; 
+var sc_invisible=1; 
+var sc_partition=7; 
+var sc_security="f6780add"; 
+</script>
+<script type="text/javascript" language="javascript" src="assets/d313e1503972984d8582c97593c4a08c.js"></script><noscript><a href="http://www.statcounter.com/" target="_blank"><img  src="assets/a01eae1e85f9ebb8a13a0bb23c8e15bb.php" alt="free html hit counter" border="0"></a> </noscript>
+<!-- End of StatCounter Code -->
+
+
+<script src="assets/c08940a9d2185b40d51d2dea0844795e.js" type="text/javascript">
+</script>
+<script type="text/javascript">
+_uacct = "UA-1827765-1";
+urchinTracker();
+</script>
+
+
+<div style="position:fixed;top:0;left:0;width:100%;height:45px;z-index:2147483647;background-color:rgba(253,147,38,0.90) !important;color:black !important;text-align:right !important;font:normal 12px/45px Arial, sans-serif !important;border-radius:0 !important;margin:0 !important;max-width:100% !important;background-repeat: no-repeat !important;background-position: 15px center !important;
+background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHwAAAAYCAYAAAA4e5nyAAAKQWlDQ1BJQ0MgUHJvZmlsZQAASA2dlndUU9kWh8+9N73QEiIgJfQaegkg0jtIFQRRiUmAUAKGhCZ2RAVGFBEpVmRUwAFHhyJjRRQLg4Ji1wnyEFDGwVFEReXdjGsJ7601896a/cdZ39nnt9fZZ+9917oAUPyCBMJ0WAGANKFYFO7rwVwSE8vE9wIYEAEOWAHA4WZmBEf4RALU/L09mZmoSMaz9u4ugGS72yy/UCZz1v9/kSI3QyQGAApF1TY8fiYX5QKUU7PFGTL/BMr0lSkyhjEyFqEJoqwi48SvbPan5iu7yZiXJuShGlnOGbw0noy7UN6aJeGjjAShXJgl4GejfAdlvVRJmgDl9yjT0/icTAAwFJlfzOcmoWyJMkUUGe6J8gIACJTEObxyDov5OWieAHimZ+SKBIlJYqYR15hp5ejIZvrxs1P5YjErlMNN4Yh4TM/0tAyOMBeAr2+WRQElWW2ZaJHtrRzt7VnW5mj5v9nfHn5T/T3IevtV8Sbsz55BjJ5Z32zsrC+9FgD2JFqbHbO+lVUAtG0GQOXhrE/vIADyBQC03pzzHoZsXpLE4gwnC4vs7GxzAZ9rLivoN/ufgm/Kv4Y595nL7vtWO6YXP4EjSRUzZUXlpqemS0TMzAwOl89k/fcQ/+PAOWnNycMsnJ/AF/GF6FVR6JQJhIlou4U8gViQLmQKhH/V4X8YNicHGX6daxRodV8AfYU5ULhJB8hvPQBDIwMkbj96An3rWxAxCsi+vGitka9zjzJ6/uf6Hwtcim7hTEEiU+b2DI9kciWiLBmj34RswQISkAd0oAo0gS4wAixgDRyAM3AD3iAAhIBIEAOWAy5IAmlABLJBPtgACkEx2AF2g2pwANSBetAEToI2cAZcBFfADXALDIBHQAqGwUswAd6BaQiC8BAVokGqkBakD5lC1hAbWgh5Q0FQOBQDxUOJkBCSQPnQJqgYKoOqoUNQPfQjdBq6CF2D+qAH0CA0Bv0BfYQRmALTYQ3YALaA2bA7HAhHwsvgRHgVnAcXwNvhSrgWPg63whfhG/AALIVfwpMIQMgIA9FGWAgb8URCkFgkAREha5EipAKpRZqQDqQbuY1IkXHkAwaHoWGYGBbGGeOHWYzhYlZh1mJKMNWYY5hWTBfmNmYQM4H5gqVi1bGmWCesP3YJNhGbjS3EVmCPYFuwl7ED2GHsOxwOx8AZ4hxwfrgYXDJuNa4Etw/XjLuA68MN4SbxeLwq3hTvgg/Bc/BifCG+Cn8cfx7fjx/GvyeQCVoEa4IPIZYgJGwkVBAaCOcI/YQRwjRRgahPdCKGEHnEXGIpsY7YQbxJHCZOkxRJhiQXUiQpmbSBVElqIl0mPSa9IZPJOmRHchhZQF5PriSfIF8lD5I/UJQoJhRPShxFQtlOOUq5QHlAeUOlUg2obtRYqpi6nVpPvUR9Sn0vR5Mzl/OX48mtk6uRa5Xrl3slT5TXl3eXXy6fJ18hf0r+pvy4AlHBQMFTgaOwVqFG4bTCPYVJRZqilWKIYppiiWKD4jXFUSW8koGStxJPqUDpsNIlpSEaQtOledK4tE20Otpl2jAdRzek+9OT6cX0H+i99AllJWVb5SjlHOUa5bPKUgbCMGD4M1IZpYyTjLuMj/M05rnP48/bNq9pXv+8KZX5Km4qfJUilWaVAZWPqkxVb9UU1Z2qbapP1DBqJmphatlq+9Uuq43Pp893ns+dXzT/5PyH6rC6iXq4+mr1w+o96pMamhq+GhkaVRqXNMY1GZpumsma5ZrnNMe0aFoLtQRa5VrntV4wlZnuzFRmJbOLOaGtru2nLdE+pN2rPa1jqLNYZ6NOs84TXZIuWzdBt1y3U3dCT0svWC9fr1HvoT5Rn62fpL9Hv1t/ysDQINpgi0GbwaihiqG/YZ5ho+FjI6qRq9Eqo1qjO8Y4Y7ZxivE+41smsImdSZJJjclNU9jU3lRgus+0zwxr5mgmNKs1u8eisNxZWaxG1qA5wzzIfKN5m/krCz2LWIudFt0WXyztLFMt6ywfWSlZBVhttOqw+sPaxJprXWN9x4Zq42Ozzqbd5rWtqS3fdr/tfTuaXbDdFrtOu8/2DvYi+yb7MQc9h3iHvQ732HR2KLuEfdUR6+jhuM7xjOMHJ3snsdNJp9+dWc4pzg3OowsMF/AX1C0YctFx4bgccpEuZC6MX3hwodRV25XjWuv6zE3Xjed2xG3E3dg92f24+ysPSw+RR4vHlKeT5xrPC16Il69XkVevt5L3Yu9q76c+Oj6JPo0+E752vqt9L/hh/QL9dvrd89fw5/rX+08EOASsCegKpARGBFYHPgsyCRIFdQTDwQHBu4IfL9JfJFzUFgJC/EN2hTwJNQxdFfpzGC4sNKwm7Hm4VXh+eHcELWJFREPEu0iPyNLIR4uNFksWd0bJR8VF1UdNRXtFl0VLl1gsWbPkRoxajCCmPRYfGxV7JHZyqffS3UuH4+ziCuPuLjNclrPs2nK15anLz66QX8FZcSoeGx8d3xD/iRPCqeVMrvRfuXflBNeTu4f7kufGK+eN8V34ZfyRBJeEsoTRRJfEXYljSa5JFUnjAk9BteB1sl/ygeSplJCUoykzqdGpzWmEtPi000IlYYqwK10zPSe9L8M0ozBDuspp1e5VE6JA0ZFMKHNZZruYjv5M9UiMJJslg1kLs2qy3mdHZZ/KUcwR5vTkmuRuyx3J88n7fjVmNXd1Z752/ob8wTXuaw6thdauXNu5Tnddwbrh9b7rj20gbUjZ8MtGy41lG99uit7UUaBRsL5gaLPv5sZCuUJR4b0tzlsObMVsFWzt3WazrWrblyJe0fViy+KK4k8l3JLr31l9V/ndzPaE7b2l9qX7d+B2CHfc3em681iZYlle2dCu4F2t5czyovK3u1fsvlZhW3FgD2mPZI+0MqiyvUqvakfVp+qk6oEaj5rmvep7t+2d2sfb17/fbX/TAY0DxQc+HhQcvH/I91BrrUFtxWHc4azDz+ui6rq/Z39ff0TtSPGRz0eFR6XHwo911TvU1zeoN5Q2wo2SxrHjccdv/eD1Q3sTq+lQM6O5+AQ4ITnx4sf4H++eDDzZeYp9qukn/Z/2ttBailqh1tzWibakNml7THvf6YDTnR3OHS0/m/989Iz2mZqzymdLz5HOFZybOZ93fvJCxoXxi4kXhzpXdD66tOTSna6wrt7LgZevXvG5cqnbvfv8VZerZ645XTt9nX297Yb9jdYeu56WX+x+aem172296XCz/ZbjrY6+BX3n+l37L972un3ljv+dGwOLBvruLr57/17cPel93v3RB6kPXj/Mejj9aP1j7OOiJwpPKp6qP6391fjXZqm99Oyg12DPs4hnj4a4Qy//lfmvT8MFz6nPK0a0RupHrUfPjPmM3Xqx9MXwy4yX0+OFvyn+tveV0auffnf7vWdiycTwa9HrmT9K3qi+OfrW9m3nZOjk03dp76anit6rvj/2gf2h+2P0x5Hp7E/4T5WfjT93fAn88ngmbWbm3/eE8/syOll+AAAACXBIWXMAAC4jAAAuIwF4pT92AAACL2lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS40LjAiPgogICA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPgogICAgICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIgogICAgICAgICAgICB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iCiAgICAgICAgICAgIHhtbG5zOnRpZmY9Imh0dHA6Ly9ucy5hZG9iZS5jb20vdGlmZi8xLjAvIj4KICAgICAgICAgPHhtcDpDcmVhdG9yVG9vbD5BZG9iZSBJbWFnZVJlYWR5PC94bXA6Q3JlYXRvclRvb2w+CiAgICAgICAgIDx0aWZmOllSZXNvbHV0aW9uPjMwMDwvdGlmZjpZUmVzb2x1dGlvbj4KICAgICAgICAgPHRpZmY6T3JpZW50YXRpb24+MTwvdGlmZjpPcmllbnRhdGlvbj4KICAgICAgICAgPHRpZmY6WFJlc29sdXRpb24+MzAwPC90aWZmOlhSZXNvbHV0aW9uPgogICAgICA8L3JkZjpEZXNjcmlwdGlvbj4KICAgPC9yZGY6UkRGPgo8L3g6eG1wbWV0YT4KsBaN+QAADtFJREFUaAWdmQew3UUVh18qoSX0BAMISaQ6FOldpY1SRBSGamQYBDMKSFPRkSYzDNIE1KEJgqAIBpAiohJw6BB6kwChQ6ihJJCX5vedu+dm3333vjw8M+fu7jm/U/bs/vdf7oCurq4B8HxYWnfQoEET5s+fv/mAAQNWYfwpPIXxtfPmzfs1/XlwELh96OyLbj2wK9K+TjsZ2YVz5879ewPVNZC2aVNkC2sin8GDB28+Z86cxwF/DNc5Lsw+Y44D+CH81me0z1ijsfsEfq+NfWKGoxsJzxs6dOgwarAY/UHUYUZ3d/cL9GfAUubUGC34TT8jsR+JzVxaZa2E6/mDZ8+e/T6Klytl2q84ZMiQzyGPMfE/wdc0xu9W2J45DBw48GQWcX4nRv8wxsvDQ8Dc3AlX5BdVgdpNoFL36DaxxHsSX7sU7eAeqL4HgcX+BPiY/8N+kDbEvoRNt0MH+4gBZp8y349pZ5d+1tCxdXATSBa8lcIPcc4qtrNo57Xh7qKfWBykr8z1vKKfU9q5tJ/CU6jBEVXQgVmcs9gVTQW76WnGzwEcBm8GL8l4fYwn0Z8Nrw9LXr33we4mr4iNYekggg3iSj+Qfuy6kC78xwnMoQBbkcPa9MfDN8J5AtFdKAWWfDfCxxdA/wqeA/cnDws5F14V/i72d9FK2vYi9MOJ0wXvymn0BoChXGmDkK/Aibgd8mOo2Yb0N0RnrdrmAH4k/CS43bFfqmBpmuScvMLzim09NZdF/yr1/grtovgYhq+V6O9CDm6m3dDtyHhOF8X9KoLcldPp74Uid1DXsGHDVkN2V4UJLBN5CsduhiaB2Q3+oMLuXpSxsZrAzp3csb8vPjxSXTQpdI1ux99cmAHk5wkxnxw3Lej+5JAXwEnaUpszOtgOUU6Mw8HNpJtxC7zZrKkfcCcUSWsOMQZzLfy3plXfnTpW1kt7L7xexBy2MIfmXBj8VUHhnSsLFz0TXBb9OxXO3ey9SxJn4Ay+R4X7twDIJOtEQ9jyk5tseey7KdLxtG/A5xVc5tJi1mOYm8JNmhvv4n7aZ/wlif0y9takzr8OlAt+NJiPUOSxbY7mYLso7KY4DYxXZvqv6xBzQn8DfJ14aBE469napo8AFpy3nxvhu4vQ3PQr60t9HPl0R+ggr4C7uOxvUg8r99jwKNToXY6GK2iDOH4upOMx7pEvzmPQY2cgPiaif4i+tB48ClZXT5RhLzKuBfoOzRCOpBNLnEMZLwGbS+uEEfWgiMEEN0I6n5xPoN0bNoeF2Wf8/bEbReyTsFkXXhqOudG2kkVV5/wlW9lY3bDzuZ5mGdhblFTPQVtJP3lMp492bWLCiJ/aXryU8c0hZMznahVc5RsY3Kc76cX4bfzUjsOIBXgm9TiYWvo6TdImCo4+sS6Uk5X6WnB1PhtIE+BIkJgX0x9E0fZTAcWiNLptfzP+Zmjf5b56Iu0c7McXdCd77XIuh9G/mdieLMtxS1i92Ibv0s9Gf+3kqe8ih/ccUGzvs1I7vLLMLRcxwP380bbeSGkWvsjhbQVs4qUFvVO0nRYmExxecDadkkrs4gXrInofljrZqIvJUpRt2CxjWKAzFUIvwV4hRziA9JcxQtDyExuViXlqPV50l+PTTSR1srcO3u83BLsm7CuoRZrOibUJrdQurnPqVOzAM6eoK3PylUpqVwexXuWSuXTidjmkTTtd5rCcIOY1TccPOoC+DK8Du9M9qk1gaBkL3pl+EP3/lq72TljWRludbwW7o16mkaV2E21oyi/4I+EneRq9F1HcJ4l1BrwmhduiwGJz9DBsDJycp5F26+BnkmIW7Dc0q3DMf80x1M4+CsNVfTh2U7kiwhbsE8SOudBvl78ya2CdJGNbN9vwiT9Pp/d5L36CVqpPz4akYZP+3ZRi2nFi0i5bc8gNY1zn6DhkzGsP+rOY18Pe0A+A88nbq2I03IPYnT6NJuYxlDGZHqAyANd8CMTupCLOZNqZmKw0qsQ4uDFsLLh95M/DVxZ5J1+5kOvoB2xemdrfA99S7BNXhrFg9oeDmU3OeZp4/z0DnpJA2py3C6r+OGzyBKtgjS66b8E+pR9blK25Ry5gboXvAOPD3/LwUoV9fvBWICuPB0HapKgdtrfD96Swpd0QnTmc2pQj+I/CwtO5ms6gvxe8H3xNkaf+G03DxsPQ+uC3xeEP4McTS9+NEU+JtFmoyrTZjSKA/wW2s5Dm7UCbLKxPw+54CyDlJmmMGr/hB9x4eAYinx+CGMcHEgYrFVFtn/EngPOEsthBjPeEveIstpR2mdeP0VvM79N64Yynfwh8Av3b1FnLhmnYttYhF/xqsbAfXj6BPy48o4xtjfPT4is3Ti74begeQedJMxJelbhbwadrB7sZMne67G4MJhdlLmyvFswPA82RCfZ6+H04v+408eBeApdFar2iiotomgXAz9vwBUVpQdXlxOLqx++RRZ/yMowmZPi4ENyjRZGT9OvgB8hPLvJYMPrN+OieAnNZ0ecRPRaZi7Z9kWfcXPAj1cN+v/gI9lVQ9itX1uMB+t8u9jbNmPRzwW8g/nPE2Q7sNwvvTpvs9409wa+hAyh95IJfh954bph3S5vxLwSfeWc9uhYHdD+coLr1s97dJLODkWwZK6sxPfokPxXoGPFQXwuei7Sz/sB+MSwWTKgM41i/xaI0Bb0xUQQwD+PrkoLTf8Y4B/mbLfaRmw9rxqfN20CzQMjfxufPil1ulFzwuMLRjYbdJJ4qPst4So2iVptjnx+RzkEm5WLZzwW/BdzNCvpBtX0u+D/Mk3hn07oWvytzWaXyt2AdAEwqQMGvMMFjMd4J3hqDtSoj/1xxF8UCg3sGPh4+BKy3gWmpo30NO+89UnNnNYbN35zwP8HfX6T1hBTlgrnzvdryISoXRUzaLAHG4+9ghZALEzH4U2It7eF8eNM+fV/KHLwFSfqSs5gezTepgLJoueDewz9F7iJ3JDBfh42deWXuOX8X/IbiwNtg5tbattYxc5yU+ePnL/DLVTLmusAO5f5wLuDjKJv3sMooCgrOxAJL+2f0WeiE+uDjbgsMi3N6UeQEE2ebxRtb8H7wfwV+E/YLW7Lj18tYv3n1pn3TF7t6Y/ReqRuUQInJwvjwdmvRxaLRXxKZR/BBRZ65RsscTqGYrxedjXPOBf8Jdh8xzocp46mXjamPuD2AuwCOd3JkkpjID7l1nRjSBXUpwz6bnJcPbfcWpPOxTh7lUs4zBibk35ySBT+IR/jp9J3AbNhjVqf2x8Lbwr5uvQhuvF3YHenrkMl/yGvQnvh5iv5oMDvSau/DkBMUn+TYJ90DbfHpA4mymISyQtro+wNekbak3Rs+Gs7PlT7MaUPouRuBmclr3bOMpYynXtx58B/hleFXYOPvTzMP2z85hsQ1ibzuxedxCNIm8i4AscZImxyrTnlsHHz8AV8HuxnJz38e63mmvXa1f8f9IWN50khuQJ8ZrmGzXsGr2O30XXTXkEouOIZvD0HvHWaxvXdvDTauXIqUV66LXVOMwZ1fsG+iXKEA6gnmpAaD88Hv/NpJH/3F9Ev8wwomd28UFd3l6CymZIyMk7GHgvkIzEmB4If+FGQXlXH4Kf20WQn9PHjXChM4bI/VH/KsQ8Yr0GiifvTGgfWWtFNR6iPzvgHddUWe+DLss4kcsf0XfEdBRk0YXw3PQJanT2D9Wa4AXZx2lJPwHTHp1dLxyq4pxuzmj4tQ27SvcTEpEvLJcymurtOK0sJlIVpbE58JXwnngufJYesp4RWezwLGyCvcK0h/3egvhifQdxNvT38cC3euYyjxdf9V/L4Ce7pI9XzEW8Mopso2FHhiLa+OeJ2+uH2WhW4NY90zr5gDNT1AEDX21iuFfiATmdoYd40rrQZ18NgxHM+rFb1XxaqlX+N0GMHw+SX1tB67ed8KnXIojzBf8+6An4ct2izYxWvH3ciNfS5FG0sBt2CoTxdSGoF8DO09Mer9E/E54n6LalmO1k3I71D4GY7YfI3LvLRu+sbvI7Cfa6Ua49h5y1K22Te33AzeiuYS6wmVUF0Px3UtHfeHMp71ytPOxbf/KTn7zcRXOhe/IWdwMRxHNe14FEn1RCz0ExVuGqBlClDnTiwKD2aXCndpwdSTyf7qBbd7weTClWGvJidnLr4zX1UQcZyyAbbUH0/jaxd5xqkdhQzcdfjwKPdv2EMKoF38kIE5Buw74HLx4kGsyN2kIyofYpq5Kie3Hc0N/C8rXKj8QeeRfkvRWU991Ky/Xn6R5Xyux/5BxlLGjtyRnwu7uVYOLTs9nmwVwv6z9CMUw0PZMF4HeXw1KpjcHF5JYwsuGvS+fvjhITAuQtHXxY+dSJxTwVnETDDb2mVrP20PwdYrLQvtJvDz71vIMlY7f1GE3BzgvY2lDwvaSuGr4L2KxhVAbDJiHoWPD1uNythNsR76fJ65psJlbrkofji5vtL3txv5YXsV/EAxSt/N+ZDni+hzQ8QO9B06F9LW16C7AD5E2+O9m7GvNon9kP5E2D/YfZdOue1FJYFcAIeZxCJiKeSZBRMTL/2+mrT3fVv7UxLMeBJ870L8WYwoCHN7GvxlC8FnvBHGgw8u+HgQwoevZcqtiReFfCdyT8P3YHXWMu00T5/2c8G9wj0BHoUfoX8/fB/9yfDD8EPwC8z3LI2g9NG0V99Qxfxy0bOuaxT/P4/F4P58KwJ3+ubFaEnalbkHrEibC3afr1nc8y7A+TbIPw+709eCN4HHwEk38dCwLwOPEoPbStkfjW/fo85G9kFoFmDKsG2jHyc7ixx8kOqG4yENf8vB1zJ+Fn3GaefE+VjcaeDvZE4v9YHPvGeB/QSbKeCfK3if3I0zDPa0sbi2vj4+RR4+JR/PM8NR9B9CLrZdXuZinLexexF+jf4bMv1XC79E+wZ+HoEno6tJe+M+hs5a1DEyL78WajdKQwFBHO+bkuSlKD0C3J3T4dvh7yUmW2T7wX4DfovWyc+EH2A8ITG0uRMr0YJ4RdiMX4MW0q/9al/7qHWd3NT4ut8ffPrvj136czN0wneSp21r24qvx3W/tsuLtut/szhyWqonQDsAAAAASUVORK5CYII=);
+"><span style="padding-right:15px;">You are viewing a snapshot of <a style='font-weight:bold !important; color:white !important' href='http://www.visualcomplexity.com/'>http://www.visualcomplexity.com/</a> created on 2020/08/12</span></div></body>
+</HTML>
+

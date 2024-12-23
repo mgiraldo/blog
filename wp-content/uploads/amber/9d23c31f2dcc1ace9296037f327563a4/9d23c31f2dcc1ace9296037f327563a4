@@ -1,0 +1,535 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Comma-separated values - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"a6579809-9f65-48d1-954e-898ca757bce2","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Comma-separated_values","wgTitle":"Comma-separated values","wgCurRevisionId":959879356,"wgRevisionId":959879356,"wgArticleId":501906,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: ref=harv","Pages using RFC magic links","Articles with specifically marked weasel-worded phrases from May 2020","All articles with unsourced statements","Articles with unsourced statements from September 2014",
+"All articles with specifically marked weasel-worded phrases","Articles with specifically marked weasel-worded phrases from September 2017","Articles containing potentially dated statements from 2019","All articles containing potentially dated statements","Spreadsheet file formats","Delimiter-separated format","Open formats"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Comma-separated_values","wgRelevantArticleId":501906,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English",
+"wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q935809"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.pygments":"ready","ext.cite.styles":"ready","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.scribunto.logs","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups",
+"ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="assets/17b87bf52b225fabcdf7bd8538fa1a50.css"/>
+<script async="" src="assets/c065145ab1ee4f734095d2092a9278ed.php"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="assets/dab0269550e613a8f8d91320ac5db71f.css"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.1"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Comma-separated_values&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Comma-separated_values&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Comma-separated_values"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Comma-separated_values rootpage-Comma-separated_values skin-vector action-view skin-vector-legacy minerva--history-page-action-enabled">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Comma-separated values</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div role="note" class="hatnote navigation-not-searchable">For the symbol used to separate a number into groups, see <a href="/wiki/Digit_grouping" class="mw-redirect" title="Digit grouping">Digit grouping</a>.</div>
+<table class="infobox" style="width:22em"><caption style="font-size:130%; padding-bottom:0.15em;">Comma-separated values</caption><tbody><tr><td colspan="2" style="text-align:center"><a href="/wiki/File:CsvDelimited001.svg" class="image"><img alt="CsvDelimited001.svg" src="assets/f6a8e9d75be2de314b49c4d61ac6bf35.png" decoding="async" width="64" height="64" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/CsvDelimited001.svg/96px-CsvDelimited001.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/CsvDelimited001.svg/128px-CsvDelimited001.svg.png 2x" data-file-width="113" data-file-height="113" /></a></td></tr><tr><th scope="row" style="line-height:1.2em; padding-right:0.65em;"><a href="/wiki/Filename_extension" title="Filename extension">Filename extension</a></th><td style="line-height:1.35em;"><code class="mw-highlight mw-highlight-lang-text" id="" style="" dir="ltr">.csv</code></td></tr><tr><th scope="row" style="line-height:1.2em; padding-right:0.65em;"><a href="/wiki/Media_type" title="Media type">Internet media&#160;type</a></th><td style="line-height:1.35em;"><code>text/csv</code><sup id="cite_ref-rfc4180_1-0" class="reference"><a href="#cite_note-rfc4180-1">&#91;1&#93;</a></sup></td></tr><tr><th scope="row" style="line-height:1.2em; padding-right:0.65em;">Initial release</th><td style="line-height:1.35em;">Unknown<br />Informational RFC Oct 2005<sup id="cite_ref-rfc4180pg2_2-0" class="reference"><a href="#cite_note-rfc4180pg2-2">&#91;2&#93;</a></sup></td></tr><tr><th scope="row" style="line-height:1.2em; padding-right:0.65em;">Type of format</th><td style="line-height:1.35em;">multi-platform, serial data streams</td></tr><tr><th scope="row" style="line-height:1.2em; padding-right:0.65em;"><a href="/wiki/Digital_container_format" class="mw-redirect" title="Digital container format">Container&#160;for</a></th><td style="line-height:1.35em;"><a href="/wiki/Database" title="Database">database</a> information organized as field separated lists</td></tr><tr><th scope="row" style="line-height:1.2em; padding-right:0.65em;"><a href="/wiki/International_standard" title="International standard">Standard</a></th><td style="line-height:1.35em;"><a class="external mw-magiclink-rfc" rel="nofollow" href="https://tools.ietf.org/html/rfc4180">RFC 4180</a></td></tr></tbody></table>
+<p>A <b>comma-separated values</b> (<b>CSV</b>) <a href="/wiki/Computer_file" title="Computer file">file</a> is a delimited <a href="/wiki/Text_file" title="Text file">text file</a> that uses a <a href="/wiki/Comma" title="Comma">comma</a> to separate values. Each line of the file is a data <a href="/wiki/Record_(computer_science)" title="Record (computer science)">record</a>. Each record consists of one or more <a href="/wiki/Field_(computer_science)" title="Field (computer science)">fields</a>, separated by commas. The use of the comma as a field separator is the source of the name for this <a href="/wiki/File_format" title="File format">file format</a>. A CSV file typically stores <a href="/wiki/Table_(information)" title="Table (information)">tabular</a> data (numbers and text) in <a href="/wiki/Plain_text" title="Plain text">plain text</a>, in which case each line will have the same number of fields.
+</p><p>The CSV file format is not fully standardized. The basic idea of separating fields with a comma is clear, but that idea gets complicated when the field data may also contain commas or even embedded <a href="/wiki/Newline" title="Newline">line breaks</a>. CSV implementations may not handle such field data, or they may use <a href="/wiki/Quotation_mark" title="Quotation mark">quotation marks</a> to surround the field. Quotation does not solve everything: some fields may need embedded quotation marks, so a CSV implementation may include escape characters or escape sequences.
+</p><p>In addition, the term "CSV" also denotes some closely related <a href="/wiki/Delimiter-separated_values" title="Delimiter-separated values">delimiter-separated formats</a> that use different field delimiters, for example, semicolons. These include <a href="/wiki/Tab-separated_values" title="Tab-separated values">tab-separated values</a> and space-separated values. A delimiter that is not present in the field data (such as tab) keeps the format parsing simple. These alternate delimiter-separated files are often even given a .csv <a href="/wiki/Filename_extension" title="Filename extension">extension</a> despite the use of a non-comma field separator. This loose terminology can cause problems in <a href="/wiki/Data_exchange" title="Data exchange">data exchange</a>. Many applications that accept CSV files have options to select the delimiter character and the quotation character. Semicolons are often used in most European countries, such as Italy, France or Spain, instead of commas. Because of that, the term <b>character-separated values</b> is suggested as a wider definition of this file format.<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions" title="Wikipedia:Manual of Style/Words to watch"><span title="The material near this tag may use weasel words or too-vague attribution. (May 2020)">by whom?</span></a></i>&#93;</sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Data_exchange"><span class="tocnumber">1</span> <span class="toctext">Data exchange</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Specification"><span class="tocnumber">2</span> <span class="toctext">Specification</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#History"><span class="tocnumber">3</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#General_functionality"><span class="tocnumber">4</span> <span class="toctext">General functionality</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Standardization"><span class="tocnumber">5</span> <span class="toctext">Standardization</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#OKI_frictionless_tabular_data_package"><span class="tocnumber">5.1</span> <span class="toctext">OKI frictionless tabular data package</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Internet_W3C_tabular_data_standard"><span class="tocnumber">5.2</span> <span class="toctext">Internet W3C tabular data standard</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#RFC_4180_standard"><span class="tocnumber">5.3</span> <span class="toctext">RFC 4180 standard</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Basic_rules"><span class="tocnumber">6</span> <span class="toctext">Basic rules</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Example"><span class="tocnumber">7</span> <span class="toctext">Example</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Application_support"><span class="tocnumber">8</span> <span class="toctext">Application support</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#See_also"><span class="tocnumber">9</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">10</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Further_reading"><span class="tocnumber">11</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Data_exchange">Data exchange</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Comma-separated_values&amp;action=edit&amp;section=1" title="Edit section: Data exchange">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>CSV is a common <a href="/wiki/Data_exchange" title="Data exchange">data exchange</a> format that is widely supported by consumer, business, and scientific applications. Among its most common uses is moving tabular data<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup> between programs that natively operate on incompatible (often <a href="/wiki/Proprietary_format" title="Proprietary format">proprietary</a> or undocumented) formats.<sup id="cite_ref-rfc4180_1-1" class="reference"><a href="#cite_note-rfc4180-1">&#91;1&#93;</a></sup> This works despite lack of adherence to <a class="external mw-magiclink-rfc" rel="nofollow" href="https://tools.ietf.org/html/rfc4180">RFC 4180</a> (or any other standard), because so many programs support variations on the CSV format for data import.
+</p><p>For example, a user may need to transfer information from a database program that stores data in a proprietary format, to a spreadsheet that uses a completely different format. The database program most likely can export its data as "CSV"; the exported CSV file can then be imported by the spreadsheet program.
+</p>
+<h2><span class="mw-headline" id="Specification">Specification</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Comma-separated_values&amp;action=edit&amp;section=2" title="Edit section: Specification">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><style data-mw-deduplicate="TemplateStyles:r951705291">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background-image:url("assets/d4e7cc61232afb2b2b94df937ca19111.png");background-image:linear-gradient(transparent,transparent),url("assets/bd670353c83f78ac9bf7920d3135114a.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background-image:url("assets/6e4cfa7b3160bba14bae3b7c771d6b1e.png");background-image:linear-gradient(transparent,transparent),url("assets/a37b208d8a82dd697fbb820509243556.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background-image:url("assets/0225d20521fa7e24cfc3d4845805124a.png");background-image:linear-gradient(transparent,transparent),url("assets/407b2f7ef21a3c79d854bf0d6e7f538b.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background-image:url("assets/a9fe05a6cf353fa7e0c0643bf92fb39c.png");background-image:linear-gradient(transparent,transparent),url("assets/44712c5455c69cd59c93962ea0465e79.svg");background-repeat:no-repeat;background-size:12px;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style><a href="/wiki/RFC_(identifier)" class="mw-redirect" title="RFC (identifier)">RFC</a>&#160;<a rel="nofollow" class="external text" href="https://tools.ietf.org/html/rfc4180">4180</a> proposes a specification for the CSV format; however, actual practice often does not follow the RFC and the term "CSV" might refer to any file that:<sup id="cite_ref-rfc4180pg2_2-1" class="reference"><a href="#cite_note-rfc4180pg2-2">&#91;2&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<ol><li>is <a href="/wiki/Plain_text" title="Plain text">plain text</a> using a character set such as <a href="/wiki/ASCII" title="ASCII">ASCII</a>, various <a href="/wiki/Unicode" title="Unicode">Unicode</a> character sets (e.g. <a href="/wiki/UTF-8" title="UTF-8">UTF-8</a>), <a href="/wiki/EBCDIC" title="EBCDIC">EBCDIC</a>, or <a href="/wiki/Shift_JIS" title="Shift JIS">Shift JIS</a>,</li>
+<li>consists of <a href="/wiki/Record_(computer_science)" title="Record (computer science)">records</a> (typically one record per line),</li>
+<li>with the records divided into <a href="/wiki/Field_(computer_science)" title="Field (computer science)">fields</a> separated by <a href="/wiki/Delimiter" title="Delimiter">delimiters</a> (typically a single reserved character such as comma, semicolon, or tab; sometimes the delimiter may include optional spaces),</li>
+<li>where every record has the same sequence of fields.</li></ol>
+<p>Within these general constraints, many variations are in use. Therefore, without additional information (such as whether <a class="external mw-magiclink-rfc" rel="nofollow" href="https://tools.ietf.org/html/rfc4180">RFC 4180</a> is honored), a file claimed simply to be in "CSV" format is not fully specified. As a result, many applications supporting CSV files allow users to preview the first few lines of the file and then specify the delimiter character(s), quoting rules, etc. If a particular CSV file's variations fall outside what a particular receiving program supports, it is often feasible to examine and edit the file by hand (i.e., with a <a href="/wiki/Text_editor" title="Text editor">text editor</a>) or write a <a href="/wiki/Scripting_language" title="Scripting language">script</a> or program to produce a conforming format.
+</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Comma-separated_values&amp;action=edit&amp;section=3" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Comma-separated values is a data format that pre-dates personal computers by more than a decade: the <a href="/wiki/IBM" title="IBM">IBM</a> <a href="/wiki/Fortran" title="Fortran">Fortran</a> (level H extended) compiler under <a href="/wiki/OS/360" class="mw-redirect" title="OS/360">OS/360</a> supported them in 1972.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> List-directed ("free form") input/output was defined in <a href="/wiki/Fortran#FORTRAN_77" title="Fortran">FORTRAN 77</a>, approved in 1978. List-directed input used commas or spaces for delimiters, so unquoted character strings could not contain commas or spaces.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p><p>The "comma-separated value" name and "CSV" abbreviation were in use by 1983.<sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> The manual for the <a href="/wiki/Osborne_Computer_Corporation" title="Osborne Computer Corporation">Osborne</a> Executive computer, which bundled the <a href="/wiki/SuperCalc" title="SuperCalc">SuperCalc</a> spreadsheet, documents the CSV quoting convention that allows strings to contain embedded commas, but the manual does not specify a convention for embedding quotation marks within quoted strings.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup>
+</p><p>Comma-separated value lists are easier to type (for example into <a href="/wiki/Punched_card" title="Punched card">punched cards</a>) than fixed-column-aligned data, and were less prone to producing incorrect results if a value was punched one column off from its intended location.
+</p><p>Comma separated files are used for the interchange of database information between machines of two different architectures. The plain-text character of CSV files largely avoids incompatibilities such as <a href="/wiki/Endianness" title="Endianness">byte-order</a> and <a href="/wiki/Word_size" class="mw-redirect" title="Word size">word size</a>. The files are largely human-readable, so it is easier to deal with them in the absence of perfect documentation or communication.<sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup>
+</p><p>The main standardization initiative—transforming "<i><a href="/wiki/De_facto" title="De facto">de facto</a></i> fuzzy definition" into a more precise and <i><a href="/wiki/De_jure" title="De jure">de jure</a></i> one—was in 2005, with RFC4180, defining CSV as a <a href="/wiki/MIME_content_type" class="mw-redirect" title="MIME content type">MIME Content Type</a>. Later, in 2013, some of RFC4180's deficiencies were tackled by a W3C recommendation.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p><p>In 2014 <a href="/wiki/IETF" class="mw-redirect" title="IETF">IETF</a> published RFC7111 describing application of URI fragments to CSV documents. RFC7111 specifies how row, column, and cell ranges can be selected from a CSV document using position indexes.
+</p><p>In 2015 <a href="/wiki/W3C" class="mw-redirect" title="W3C">W3C</a>, in an attempt to enhance CSV with <a href="/wiki/Semantic_Web" title="Semantic Web">formal semantics</a>, publicized the first <i>drafts of recommendations</i> for CSV-metadata standards, that began as <i>recommendations</i> in December of the same year.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="General_functionality">General functionality</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Comma-separated_values&amp;action=edit&amp;section=4" title="Edit section: General functionality">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>CSV formats are best used to represent sets or sequences of <a href="/wiki/Record_(computer_science)" title="Record (computer science)">records</a> in which each record has an identical list of fields. This corresponds to a single <a href="/wiki/Relation_(database)" title="Relation (database)">relation</a> in a <a href="/wiki/Relational_database" title="Relational database">relational database</a>, or to data (though not calculations) in a typical spreadsheet.
+</p><p>The format dates back to the early days of business computing and is widely used to pass data between computers with different internal word sizes, data formatting needs, and so forth. For this reason, CSV files are common on all computer platforms.
+</p><p>CSV is a <a href="/wiki/Delimiter-separated_values" title="Delimiter-separated values">delimited</a> text file that uses a <a href="/wiki/Comma_(punctuation)" class="mw-redirect" title="Comma (punctuation)">comma</a> to separate values (many implementations of CSV import/export tools allow other separators to be used; for example, the use of a "Sep=^" row as the first row in the *.csv file will cause <a href="/wiki/Microsoft_Excel" title="Microsoft Excel">Excel</a> to open the file expecting <a href="/wiki/Caret_(punctuation)" class="mw-redirect" title="Caret (punctuation)">caret</a> "^" to be the separator instead of comma ","). Simple CSV implementations may prohibit field values that contain a comma or other special characters such as <a href="/wiki/Newline" title="Newline">newlines</a>. More sophisticated CSV implementations permit them, often by requiring " (<a href="/wiki/Double_quote" class="mw-redirect" title="Double quote">double quote</a>) characters around values that contain reserved characters (such as commas, double quotes, or less commonly, <a href="/wiki/Newline" title="Newline">newlines</a>). Embedded double quote characters may then be represented by a pair of consecutive double quotes,<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup> or by prefixing a double quote with an <a href="/wiki/Escape_character" title="Escape character">escape character</a> such as a <a href="/wiki/Backslash" title="Backslash">backslash</a> (for example in <a href="/wiki/Sybase" title="Sybase">Sybase</a> Central).
+</p><p>CSV formats are not limited to a particular <a href="/wiki/Character_set" class="mw-redirect" title="Character set">character set</a>.<sup id="cite_ref-rfc4180_1-2" class="reference"><a href="#cite_note-rfc4180-1">&#91;1&#93;</a></sup> They work just as well with <a href="/wiki/Unicode" title="Unicode">Unicode</a> character sets (such as <a href="/wiki/UTF-8" title="UTF-8">UTF-8</a> or <a href="/wiki/UTF-16" title="UTF-16">UTF-16</a>) as with <a href="/wiki/ASCII" title="ASCII">ASCII</a> (although particular programs that support CSV may have their own limitations). CSV files normally will even survive naive translation from one character set to another (unlike nearly all proprietary data formats). CSV does not, however, provide any way to indicate what character set is in use, so that must be communicated separately, or determined at the receiving end (if possible).
+</p><p>Databases that include multiple <a href="/wiki/Relation_(database)" title="Relation (database)">relations</a> cannot be exported as a single CSV file<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2014)">citation needed</span></a></i>&#93;</sup>. Similarly, CSV cannot naturally represent <a href="/wiki/Hierarchical" class="mw-redirect" title="Hierarchical">hierarchical</a> or <a href="/wiki/Object-oriented" class="mw-redirect" title="Object-oriented">object-oriented</a> data. This is because every CSV record is expected to have the same structure. CSV is therefore rarely appropriate for <a href="/wiki/Documents" class="mw-redirect" title="Documents">documents</a> created with <a href="/wiki/HTML" title="HTML">HTML</a>, <a href="/wiki/XML" title="XML">XML</a>, or other markup or word-processing technologies.
+</p><p>Statistical databases in various fields often have a generally relation-like structure, but with some repeatable groups of fields. For example, health databases such as the <a href="/wiki/Demographic_and_Health_Survey" class="mw-redirect" title="Demographic and Health Survey">Demographic and Health Survey</a> typically repeat some questions for each child of a given parent (perhaps up to a fixed maximum number of children). <a href="/wiki/Statistical_analysis" class="mw-redirect" title="Statistical analysis">Statistical analysis</a> systems often include utilities that can "rotate" such data; for example, a "parent" record that includes information about five children can be split into five separate records, each containing (a) the information on one child, and (b) a copy of all the non-child-specific information. CSV can represent either the "vertical" or "horizontal" form of such data.
+</p><p>In a relational database, similar issues are readily handled by creating a separate relation for each such group, and connecting "child" records to the related "parent" records using a <a href="/wiki/Foreign_key" title="Foreign key">foreign key</a> (such as an ID number or name for the parent). In markup languages such as XML, such groups are typically enclosed within a parent element and repeated as necessary (for example, multiple <code>&lt;child&gt;</code> nodes within a single <code>&lt;parent&gt;</code> node). With CSV there is no widely accepted single-file solution.
+</p>
+<h2><span class="mw-headline" id="Standardization">Standardization</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Comma-separated_values&amp;action=edit&amp;section=5" title="Edit section: Standardization">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The name "CSV" indicates the use of the comma to separate data fields. Nevertheless, the term "CSV" is widely used to refer a large family of formats, which differ in many ways. Some implementations allow or require single or double quotation marks around some or all fields; and some reserve the very first record as a header containing a list of field names. The character set being used is undefined: some applications require a Unicode <a href="/wiki/Byte_order_mark" title="Byte order mark">byte order mark</a> (BOM) to enforce <a href="/wiki/Unicode" title="Unicode">Unicode</a> interpretation (sometimes even a <a href="/wiki/UTF-8" title="UTF-8">UTF-8</a> BOM).<sup id="cite_ref-rfc4180_1-3" class="reference"><a href="#cite_note-rfc4180-1">&#91;1&#93;</a></sup> Files that use the tab character instead of comma can be more precisely referred to as "TSV" for <a href="/wiki/Tab-separated_values" title="Tab-separated values">tab-separated values</a>.
+</p><p>Other implementation differences include handling of more commonplace field separators (such as space or semicolon) and newline characters inside text fields. One more subtlety is the interpretation of a blank line: it can equally be the result of writing a record of zero fields, or a record of one field of zero length; thus decoding it is ambiguous.
+</p>
+<h3><span class="mw-headline" id="OKI_frictionless_tabular_data_package">OKI frictionless tabular data package</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Comma-separated_values&amp;action=edit&amp;section=6" title="Edit section: OKI frictionless tabular data package">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2011 <a href="/wiki/Open_Knowledge_International" class="mw-redirect" title="Open Knowledge International">Open Knowledge International</a> (OKI) and various partners created a data protocols working group, which later evolved into the Frictionless Data initiative. One of the main formats they released was the Tabular Data Package. Tabular Data package was heavily based on CSV, using it as the main data transport format and adding basic type and schema metadata (CSV lacks any type information to distinguish the string "1" from the number 1).<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup>
+</p><p>The Frictionless Data Initiative has also provided a standard CSV Dialect Description Format for describing different dialects of CSV, for example specifying the field separator or quoting rules.<sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Internet_W3C_tabular_data_standard">Internet W3C tabular data standard</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Comma-separated_values&amp;action=edit&amp;section=7" title="Edit section: Internet W3C tabular data standard">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2013 the <a href="/wiki/World_Wide_Web_Consortium" title="World Wide Web Consortium">W3C</a> "CSV on the Web" working group began to specify technologies providing a higher interoperability for web applications using CSV or similar formats.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup> The working group completed its work in February 2016, and is officially closed in March 2016 with the release of a set documents and W3C recommendations<sup id="cite_ref-17" class="reference"><a href="#cite_note-17">&#91;17&#93;</a></sup>
+for modeling "Tabular Data",<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> and enhancing CSV with <a href="/wiki/Metadata" title="Metadata">metadata</a> and <a href="/wiki/Semantic_Web" title="Semantic Web">semantics</a>.
+</p>
+<h3><span class="mw-headline" id="RFC_4180_standard">RFC 4180 standard</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Comma-separated_values&amp;action=edit&amp;section=8" title="Edit section: RFC 4180 standard">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The 2005 technical standard <a class="external mw-magiclink-rfc" rel="nofollow" href="https://tools.ietf.org/html/rfc4180">RFC 4180</a> formalizes the CSV file format and defines the <a href="/wiki/MIME_type" class="mw-redirect" title="MIME type">MIME type</a> "text/csv" for handling of text-based fields. However, interpretation of the text of each field is still application-specific. Files that follow the <a class="external mw-magiclink-rfc" rel="nofollow" href="https://tools.ietf.org/html/rfc4180">RFC 4180</a> standard can simplify CSV exchange and should be widely portable. Among its requirements:
+</p>
+<ul><li>MS-DOS-style lines that end with (CR/LF) characters (optional for the last line).</li>
+<li>An optional header record (there is no sure way to detect whether it is present, so care is required when importing).</li>
+<li>Each record <i>should</i> contain the same number of comma-separated fields.</li>
+<li>Any field <i>may</i> be quoted (with double quotes).</li>
+<li>Fields containing a line-break, double-quote or commas <i>should</i> be quoted. (If they are not, the file will likely be impossible to process correctly.)</li>
+<li><i>If</i> double-quotes are used to enclose fields, then a double-quote <i>must</i> be represented by two double-quote characters.</li></ul>
+<p>The format can be processed by most programs that claim to read CSV files. The exceptions are <i>(a)</i> programs may not support line-breaks within quoted fields, <i>(b)</i> programs may confuse the optional header with data or interpret the first data line as an optional header and <i>(c)</i> double quotes in a field may not be parsed correctly automatically.
+</p>
+<h2><span class="mw-headline" id="Basic_rules">Basic rules</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Comma-separated_values&amp;action=edit&amp;section=9" title="Edit section: Basic rules">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Many informal documents exist that describe "CSV" formats.
+<a href="/wiki/IETF" class="mw-redirect" title="IETF">IETF</a> <a class="external mw-magiclink-rfc" rel="nofollow" href="https://tools.ietf.org/html/rfc4180">RFC 4180</a> (summarized above) defines the format for the "text/csv" <a href="/wiki/MIME_type" class="mw-redirect" title="MIME type">MIME type</a> registered with the <a href="/wiki/Internet_Assigned_Numbers_Authority" title="Internet Assigned Numbers Authority">IANA</a>.
+</p><p>Rules typical of these and other "CSV" specifications and implementations are as follows:
+</p>
+<div><ul><li>CSV is a <a href="/wiki/Delimited" class="mw-redirect" title="Delimited">delimited</a> data format that has <a href="/wiki/Field_(computer_science)" title="Field (computer science)">fields/columns</a> separated by the <a href="/wiki/Comma_(punctuation)" class="mw-redirect" title="Comma (punctuation)">comma</a> <a href="/wiki/Grapheme" title="Grapheme">character</a> and <a href="/wiki/Row_(database)" title="Row (database)">records/rows</a> terminated by <a href="/wiki/Newline" title="Newline">newlines</a>.</li><li>A CSV file does not require a specific <a href="/wiki/Character_encoding" title="Character encoding">character encoding</a>, <a href="/wiki/Byte_order" class="mw-redirect" title="Byte order">byte order</a>, or line terminator format (some software do not support all line-end variations).</li><li>A record ends at a line terminator. However, line-terminators can be embedded as data within fields, so software must recognize quoted line-separators (see below) in order to correctly assemble an entire record from perhaps multiple lines.</li><li>All records should have the same number of fields, in the same order.</li><li>Data within fields is interpreted as a sequence of <a href="/wiki/Character_(computing)" title="Character (computing)">characters</a>, not as a sequence of bits or bytes (see <a class="external mw-magiclink-rfc" rel="nofollow" href="https://tools.ietf.org/html/rfc2046">RFC 2046</a>, section 4.1). For example, the numeric quantity 65535 may be represented as the 5 ASCII characters "65535" (or perhaps other forms such as "0xFFFF", "000065535.000E+00", etc.); but not as a sequence of 2 bytes intended to be treated as a single binary integer rather than as two characters (e.g. the numbers 11264–11519 have a comma as their high order byte: <code class="mw-highlight mw-highlight-lang-perl" dir="ltr"><span class="nb">ord</span><span class="p">(</span><span class="s">&#39;,&#39;</span><span class="p">)</span><span class="o">*</span><span class="mi">256</span><span class="o">..</span><span class="nb">ord</span><span class="p">(</span><span class="s">&#39;,&#39;</span><span class="p">)</span><span class="o">*</span><span class="mi">256</span><span class="o">+</span><span class="mi">255</span></code>). If this "plain text" convention is not followed, then the CSV file no longer contains sufficient information to interpret it correctly, the CSV file will not likely survive transmission across differing computer architectures, and will not conform to the <i>text/csv</i> MIME type.</li><li>Adjacent fields must be separated by a single comma. However, "CSV" formats vary greatly in this choice of separator character. In particular, in <a href="/wiki/Locale_(computer_software)" title="Locale (computer software)">locales</a> where the comma is used as a <a href="/wiki/Decimal_separator" title="Decimal separator">decimal separator</a>, semicolon, TAB, or other characters are used instead.
+<pre>1997,Ford,E350</pre></li><li>Any field <i>may</i> be <i>quoted</i> (that is, enclosed within double-quote characters). Some fields <i>must</i> be quoted, as specified in following rules.
+<pre>"1997","Ford","E350"</pre></li><li>Fields with embedded commas or double-quote characters must be quoted.
+<pre>1997,Ford,E350,"Super, luxurious truck"</pre></li><li>Each of the embedded double-quote characters must be represented by a pair of double-quote characters.
+<pre>1997,Ford,E350,"Super, ""luxurious"" truck"</pre></li><li>Fields with embedded line breaks must be quoted (however, many CSV implementations do not support embedded line breaks).
+<pre>1997,Ford,E350,"Go get one now
+they are going fast"
+</pre></li><li>In some CSV implementations<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Avoid_weasel_words" class="mw-redirect" title="Wikipedia:Avoid weasel words"><span title="The material near this tag possibly uses too vague attribution or weasel words. (September 2017)">which?</span></a></i>&#93;</sup>, leading and trailing spaces and tabs are trimmed (ignored). Such trimming is forbidden by <a class="external mw-magiclink-rfc" rel="nofollow" href="https://tools.ietf.org/html/rfc4180">RFC 4180</a>, which states "Spaces are considered part of a field and should not be ignored."
+<pre>1997, Ford, E350
+not same as
+1997,Ford,E350
+</pre></li><li>According to <a class="external mw-magiclink-rfc" rel="nofollow" href="https://tools.ietf.org/html/rfc4180">RFC 4180</a>, spaces outside quotes in a field are not allowed; however, the RFC also says that "Spaces are considered part of a field and should not be ignored." and "Implementors should 'be conservative in what you do, be liberal in what you accept from others' (<a class="external mw-magiclink-rfc" rel="nofollow" href="https://tools.ietf.org/html/rfc793">RFC 793</a>, section 2.10) when processing CSV files."
+<pre>1997, "Ford" ,E350</pre></li><li>In CSV implementations that do trim leading or trailing spaces, fields with such spaces as meaningful data must be quoted.
+<pre>1997,Ford,E350," Super luxurious truck "</pre></li><li>Double quote processing need only apply if the field starts with a double quote. Note, however, that double quotes are not allowed in unquoted fields according to <a class="external mw-magiclink-rfc" rel="nofollow" href="https://tools.ietf.org/html/rfc4180">RFC 4180</a>.
+<pre>Los Angeles,34°03′N,118°15′W
+New York City,40°42′46″N,74°00′21″W
+Paris,48°51′24″N,2°21′03″E
+</pre></li><li>The first record may be a "header", which contains column names in each of the fields (there is no reliable way to tell whether a file does this or not; however, it is uncommon to use characters other than letters, digits, and underscores in such column names).
+<pre>Year,Make,Model
+1997,Ford,E350
+2000,Mercury,Cougar
+</pre></li></ul></div>
+<h2><span class="mw-headline" id="Example">Example</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Comma-separated_values&amp;action=edit&amp;section=10" title="Edit section: Example">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+
+<tbody><tr>
+<th>Year</th>
+<th>Make</th>
+<th>Model</th>
+<th>Description</th>
+<th>Price
+</th></tr>
+<tr>
+<td>1997</td>
+<td>Ford</td>
+<td>E350</td>
+<td>ac, abs, moon</td>
+<td>3000.00
+</td></tr>
+<tr>
+<td>1999</td>
+<td>Chevy</td>
+<td>Venture "Extended Edition"</td>
+<td></td>
+<td>4900.00
+</td></tr>
+<tr>
+<td>1999</td>
+<td>Chevy</td>
+<td>Venture "Extended Edition, Very Large"</td>
+<td></td>
+<td>5000.00
+</td></tr>
+<tr>
+<td>1996</td>
+<td>Jeep</td>
+<td>Grand Cherokee</td>
+<td>MUST SELL!<br />air, moon roof, loaded</td>
+<td>4799.00
+</td></tr></tbody></table>
+<p>The above table of data may be represented in CSV format as follows:
+</p>
+<pre>Year,Make,Model,Description,Price
+1997,Ford,E350,"ac, abs, moon",3000.00
+1999,Chevy,"Venture ""Extended Edition""","",4900.00
+1999,Chevy,"Venture ""Extended Edition, Very Large""",,5000.00
+1996,Jeep,Grand Cherokee,"MUST SELL!
+air, moon roof, loaded",4799.00
+</pre>
+<p>Example of a USA/UK CSV file (where the <a href="/wiki/Decimal_separator" title="Decimal separator">decimal separator</a> is a period/full stop and the value separator is a comma):
+</p>
+<pre>Year,Make,Model,Length
+1997,Ford,E350,2.35
+2000,Mercury,Cougar,2.38
+</pre>
+<p>Example of an analogous European CSV/<a href="/wiki/Delimiter-separated_values" title="Delimiter-separated values">DSV</a> file (where the <a href="/wiki/Decimal_separator" title="Decimal separator">decimal separator</a> is a comma and the value separator is a semicolon):
+</p>
+<pre>Year;Make;Model;Length
+1997;Ford;E350;2,35
+2000;Mercury;Cougar;2,38
+</pre>
+<p>The latter format is not <a class="external mw-magiclink-rfc" rel="nofollow" href="https://tools.ietf.org/html/rfc4180">RFC 4180</a> compliant.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> Compliance could be achieved by the use of a comma instead of a semicolon as a separator and either the <a href="/wiki/Decimal_mark#Influence_of_calculators_and_computers" class="mw-redirect" title="Decimal mark">international notation</a> for the representation of the <a href="/wiki/Decimal_mark" class="mw-redirect" title="Decimal mark">decimal mark</a> or the practice of quoting all numbers that have a decimal mark.
+</p>
+<h2><span class="mw-headline" id="Application_support">Application support</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Comma-separated_values&amp;action=edit&amp;section=11" title="Edit section: Application support">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The CSV file format is supported by almost all <a href="/wiki/Spreadsheet" title="Spreadsheet">spreadsheets</a> and database management systems, including Apple <a href="/wiki/Numbers_(spreadsheet)" title="Numbers (spreadsheet)">Numbers</a>, <a href="/wiki/LibreOffice_Calc" title="LibreOffice Calc">LibreOffice Calc</a>, and <a href="/wiki/Apache_OpenOffice" title="Apache OpenOffice">Apache OpenOffice</a> Calc. <a href="/wiki/Microsoft_Excel" title="Microsoft Excel">Microsoft Excel</a> also supports CSV, but with restrictions in comparison to other spreadsheet software (e.g., as of 2019<sup class="plainlinks noexcerpt noprint asof-tag update" style="display:none;"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Comma-separated_values&amp;action=edit">&#91;update&#93;</a></sup> Excel still cannot export CSV files in the commonly used <a href="/wiki/UTF-8" title="UTF-8">UTF-8</a> character encoding).
+</p><p>CSV format is supported by libraries available for many <a href="/wiki/Programming_language" title="Programming language">programming languages</a>. Most provide some way to specify the field delimiter, <a href="/wiki/Decimal_separator" title="Decimal separator">decimal separator</a>, character encoding, quoting conventions, date format, etc.
+</p><p>The <a href="/wiki/Emacs" title="Emacs">emacs</a> editor can operate on CSV files using csv-nav mode.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup>
+</p><p>Many utility programs on <a href="/wiki/Unix" title="Unix">Unix</a>-style systems (such as <a href="/wiki/Cut_(Unix)" title="Cut (Unix)">cut</a>, <a href="/wiki/Paste_(Unix)" title="Paste (Unix)">paste</a>, <a href="/wiki/Join_(Unix)" title="Join (Unix)">join</a>, <a href="/wiki/Sort_(Unix)" title="Sort (Unix)">sort</a>, <a href="/wiki/Uniq" title="Uniq">uniq</a>, <a href="/wiki/AWK" title="AWK">awk</a>) can split files on a comma delimiter, and can therefore process simple CSV files. However, this method does not correctly handle commas within quoted strings.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Comma-separated_values&amp;action=edit&amp;section=12" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Comparison_of_data-serialization_formats" title="Comparison of data-serialization formats">Comparison of data-serialization formats</a></li>
+<li><a href="/wiki/Delimiter-separated_values" title="Delimiter-separated values">Delimiter-separated values</a></li>
+<li><a href="/wiki/Delimiter_collision" class="mw-redirect" title="Delimiter collision">Delimiter collision</a></li>
+<li><a href="/wiki/Flat-file_database" title="Flat-file database">Flat-file database</a></li>
+<li><a href="/wiki/Simple_Data_Format" title="Simple Data Format">Simple Data Format</a></li>
+<li><a href="/wiki/Substitute_character" title="Substitute character">Substitute character</a>, <a href="/wiki/Null_character" title="Null character">Null character</a>, <a href="/wiki/General_Punctuation#Block" title="General Punctuation">invisible comma U+2063</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Comma-separated_values&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-rfc4180-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-rfc4180_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-rfc4180_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-rfc4180_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-rfc4180_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFShafranovich2005" class="citation cs1">Shafranovich, Y. (October 2005). <a rel="nofollow" class="external text" href="http://www.ietf.org/rfc/rfc4180.txt#page-1"><i>Common Format and MIME Type for CSV Files</i></a>. <a href="/wiki/Internet_Engineering_Task_Force" title="Internet Engineering Task Force">IETF</a>. p.&#160;1. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<span class="cs1-lock-free" title="Freely accessible"><a rel="nofollow" class="external text" href="https://doi.org/10.17487%2FRFC4180">10.17487/RFC4180</a></span>. <a href="/wiki/RFC_(identifier)" class="mw-redirect" title="RFC (identifier)">RFC</a> <a rel="nofollow" class="external text" href="https://tools.ietf.org/html/rfc4180">4180</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Common+Format+and+MIME+Type+for+CSV+Files&amp;rft.pages=p.-1&amp;rft.pub=IETF&amp;rft.date=2005-10&amp;rft_id=info%3Adoi%2F10.17487%2F&#82;FC4180&amp;rft.aulast=Shafranovich&amp;rft.aufirst=Y.&amp;rft_id=http%3A%2F%2Fwww.ietf.org%2Frfc%2Frfc4180.txt%26%23035%3Bpage-1&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComma-separated+values" class="Z3988"></span><span class="cs1-maint citation-comment">CS1 maint: ref=harv (<a href="/wiki/Category:CS1_maint:_ref%3Dharv" title="Category:CS1 maint: ref=harv">link</a>)</span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-rfc4180pg2-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-rfc4180pg2_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-rfc4180pg2_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFShafranovich2005">Shafranovich (2005)</a> states, "This RFC documents the format of comma separated values (CSV) files and formally registers the "text/csv" MIME type for CSV in accordance with <a class="external mw-magiclink-rfc" rel="nofollow" href="https://tools.ietf.org/html/rfc2048">RFC 2048</a>".</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://datahub.io/docs/data-packages/csv">"CSV - Comma Separated Values"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-12-02</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=CSV+-+Comma+Separated+Values&amp;rft_id=https%3A%2F%2Fdatahub.io%2Fdocs%2Fdata-packages%2Fcsv&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComma-separated+values" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.csvreader.com/csv_format.php">"CSV Files"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">June 4,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=CSV+Files&amp;rft_id=http%3A%2F%2Fwww.csvreader.com%2Fcsv_format.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComma-separated+values" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://edoceo.com/utilitas/csv-file-format">"Comma Separated Values (CSV) Standard File Format"</a>. Edoceo, Inc<span class="reference-accessdate">. Retrieved <span class="nowrap">June 4,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Comma+Separated+Values+%28CSV%29+Standard+File+Format&amp;rft.pub=Edoceo%2C+Inc&amp;rft_id=http%3A%2F%2Fedoceo.com%2Futilitas%2Fcsv-file-format&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComma-separated+values" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation cs2"><a rel="nofollow" class="external text" href="http://bitsavers.trailing-edge.com/pdf/ibm/370/fortran/GC28-6884-0_IBM_FORTRAN_Program_Products_for_OS_and_CMS_General_Information_Jul72.pdf"><i>IBM FORTRAN Program Products for OS and the CMS Component of VM/370 General Information</i></a> <span class="cs1-format">(PDF)</span> (first ed.), July 1972, p.&#160;17, GC28-6884-0<span class="reference-accessdate">, retrieved <span class="nowrap">February 5,</span> 2016</span>, <q>For users familiar with the predecessor FORTRAN IV G and H processors, these are the major new language capabilities</q></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=IBM+FORTRAN+Program+Products+for+OS+and+the+CMS+Component+of+VM%2F370+General+Information&amp;rft.pages=17&amp;rft.edition=first&amp;rft.date=1972-07&amp;rft_id=http%3A%2F%2Fbitsavers.trailing-edge.com%2Fpdf%2Fibm%2F370%2Ffortran%2FGC28-6884-0_IBM_FORTRAN_Program_Products_for_OS_and_CMS_General_Information_Jul72.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComma-separated+values" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation cs2"><a rel="nofollow" class="external text" href="http://docs.oracle.com/cd/E19957-01/805-4939/6j4m0vnc5/index.html">"List-Directed I/O"</a>, <i>Fortran 77 Language Reference</i>, Oracle</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=bookitem&amp;rft.atitle=List-Directed+I%2FO&amp;rft.btitle=Fortran+77+Language+Reference&amp;rft.pub=Oracle&amp;rft_id=http%3A%2F%2Fdocs.oracle.com%2Fcd%2FE19957-01%2F805-4939%2F6j4m0vnc5%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComma-separated+values" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://archive.org/stream/Infoworld-1983-09-12#page/n39/mode/2up/search/%22comma-separated+value%22">"SuperCalc², spreadsheet package for IBM, CP/M"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">December 11,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=SuperCalc%C2%B2%2C+spreadsheet+package+for+IBM%2C+CP%2FM&amp;rft_id=https%3A%2F%2Farchive.org%2Fstream%2FInfoworld-1983-09-12%23page%2Fn39%2Fmode%2F2up%2Fsearch%2F%2522comma-separated%2Bvalue%2522&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComma-separated+values" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://archive.org/stream/bitsavers_osborneexeutiveRef1983_16634758/3F00186-00_ExecutiveRef_1983#page/n143/mode/2up/search/%22comma-separated+value%22">"Comma-Separated-Value Format File Structure"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">December 11,</span> 2017</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Comma-Separated-Value+Format+File+Structure&amp;rft_id=https%3A%2F%2Farchive.org%2Fstream%2Fbitsavers_osborneexeutiveRef1983_16634758%2F3F00186-00_ExecutiveRef_1983%23page%2Fn143%2Fmode%2F2up%2Fsearch%2F%2522comma-separated%2Bvalue%2522&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComma-separated+values" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.digitalpreservation.gov/formats/fdd/fdd000323.shtml">"CSV, Comma Separated Values (RFC 4180)"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">June 4,</span> 2014</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=CSV%2C+Comma+Separated+Values+%28&#82;FC+4180%29&amp;rft_id=http%3A%2F%2Fwww.digitalpreservation.gov%2Fformats%2Ffdd%2Ffdd000323.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComma-separated+values" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">See <a rel="nofollow" class="external text" href="http://www.w3.org/TR/sparql11-results-csv-tsv/">sparql11-results-csv-tsv</a>, the first W3C recommendation scoped in CSV and filling some of RFC4180's deficiencies.</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.w3.org/TR/tabular-data-model/">"Model for Tabular Data and Metadata on the Web - W3C Recommendation 17 December 2015"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">March 23,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Model+for+Tabular+Data+and+Metadata+on+the+Web+-+W3C+Recommendation+17+December+2015&amp;rft_id=https%3A%2F%2Fwww.w3.org%2FTR%2Ftabular-data-model%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComma-separated+values" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">*<cite id="CITEREFCreativyst2010" class="citation cs2">Creativyst (2010), <a rel="nofollow" class="external text" href="http://www.creativyst.com/Doc/Articles/CSV/CSV01.htm"><i>How To: The Comma Separated Value (CSV) File Format</i></a>, creativyst.com<span class="reference-accessdate">, retrieved <span class="nowrap">May 24,</span> 2010</span></cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=How+To%3A+The+Comma+Separated+Value+%28CSV%29+File+Format&amp;rft.pub=creativyst.com&amp;rft.date=2010&amp;rft.au=Creativyst&amp;rft_id=http%3A%2F%2Fwww.creativyst.com%2FDoc%2FArticles%2FCSV%2FCSV01.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComma-separated+values" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://frictionlessdata.io/specs/tabular-data-package/">"Tabular Data Package"</a>. <i>Frictionless Data Specs</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Frictionless+Data+Specs&amp;rft.atitle=Tabular+Data+Package&amp;rft_id=https%3A%2F%2Ffrictionlessdata.io%2Fspecs%2Ftabular-data-package%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComma-separated+values" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://frictionlessdata.io/specs/csv-dialect/">"CSV Dialect"</a>. <i>Frictionless Data Specs</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Frictionless+Data+Specs&amp;rft.atitle=CSV+Dialect&amp;rft_id=https%3A%2F%2Ffrictionlessdata.io%2Fspecs%2Fcsv-dialect%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComma-separated+values" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="http://www.w3.org/2013/csvw/wiki/Main_Page">"CSV on the Web Working Group"</a>. <a href="/wiki/World_Wide_Web_Consortium" title="World Wide Web Consortium">W3C</a> CSV WG. 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-04-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=CSV+on+the+Web+Working+Group&amp;rft.pub=W3C+CSV+WG&amp;rft.date=2013&amp;rft_id=http%3A%2F%2Fwww.w3.org%2F2013%2Fcsvw%2Fwiki%2FMain_Page&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComma-separated+values" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="https://github.com/w3c/csvw">CSV on the Web Repository</a> (on GitHub)</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.w3.org/TR/tabular-data-model/">Model for Tabular Data and Metadata on the Web</a> (W3C Recommendation)</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a href="#CITEREFShafranovich2005">Shafranovich (2005)</a> states, "Within the header and each record, there may be one or more fields, separated by commas."</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.emacswiki.org/emacs/CsvNav">"EmacsWiki: Csv Nav"</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=EmacsWiki%3A+Csv+Nav&amp;rft_id=https%3A%2F%2Fwww.emacswiki.org%2Femacs%2FCsvNav&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComma-separated+values" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+</ol></div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Comma-separated_values&amp;action=edit&amp;section=14" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://www.columbia.edu/sec/acis/db2/db2d0/db2d053.htm">"IBM DB2 Administration Guide - LOAD, IMPORT, and EXPORT File Formats"</a>. <a href="/wiki/IBM" title="IBM">IBM</a>. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20161213014111/https://www.columbia.edu/sec/acis/db2/db2d0/db2d053.htm">Archived</a> from the original on 2016-12-13<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-12-12</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=IBM+DB2+Administration+Guide+-+LOAD%2C+IMPORT%2C+and+EXPORT+File+Formats&amp;rft.pub=IBM&amp;rft_id=https%3A%2F%2Fwww.columbia.edu%2Fsec%2Facis%2Fdb2%2Fdb2d0%2Fdb2d053.htm&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AComma-separated+values" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/> (Has file descriptions of delimited ASCII (.DEL) (including comma- and semicolon-separated) and non-delimited ASCII (.ASC) files for data transfer.)</li></ul>
+<!-- 
+NewPP limit report
+Parsed by mw1332
+Cached time: 20200730134923
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.476 seconds
+Real time usage: 1.018 seconds
+Preprocessor visited node count: 2168/1000000
+Post‐expand include size: 46473/2097152 bytes
+Template argument size: 3278/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 4/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 65775/5000000 bytes
+Lua time usage: 0.219/10.000 seconds
+Lua memory usage: 6.69 MB/50 MB
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  936.269      1 -total
+ 43.94%  411.354      1 Template:Unordered_list
+ 26.42%  247.363      1 Template:Reflist
+  9.55%   89.399      3 Template:Fix
+  9.05%   84.776      1 Template:Cite_IETF
+  7.64%   71.531      1 Template:By_whom
+  6.63%   62.087     12 Template:Cite_web
+  6.26%   58.598      1 Template:IETF_RFC
+  5.95%   55.752      1 Template:Catalog_lookup_link
+  5.84%   54.684      4 Template:Category_handler
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:501906-0!canonical and timestamp 20200730134922 and revision id 959879356
+ -->
+</div><noscript><img src="assets/3f07551aa465d8e435036dce80f3b4e4" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Comma-separated_values&amp;oldid=959879356">https://en.wikipedia.org/w/index.php?title=Comma-separated_values&amp;oldid=959879356</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Spreadsheet_file_formats" title="Category:Spreadsheet file formats">Spreadsheet file formats</a></li><li><a href="/wiki/Category:Delimiter-separated_format" title="Category:Delimiter-separated format">Delimiter-separated format</a></li><li><a href="/wiki/Category:Open_formats" title="Category:Open formats">Open formats</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_ref%3Dharv" title="Category:CS1 maint: ref=harv">CS1 maint: ref=harv</a></li><li><a href="/wiki/Category:Pages_using_RFC_magic_links" title="Category:Pages using RFC magic links">Pages using RFC magic links</a></li><li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_May_2020" title="Category:Articles with specifically marked weasel-worded phrases from May 2020">Articles with specifically marked weasel-worded phrases from May 2020</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_September_2014" title="Category:Articles with unsourced statements from September 2014">Articles with unsourced statements from September 2014</a></li><li><a href="/wiki/Category:All_articles_with_specifically_marked_weasel-worded_phrases" title="Category:All articles with specifically marked weasel-worded phrases">All articles with specifically marked weasel-worded phrases</a></li><li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_September_2017" title="Category:Articles with specifically marked weasel-worded phrases from September 2017">Articles with specifically marked weasel-worded phrases from September 2017</a></li><li><a href="/wiki/Category:Articles_containing_potentially_dated_statements_from_2019" title="Category:Articles containing potentially dated statements from 2019">Articles containing potentially dated statements from 2019</a></li><li><a href="/wiki/Category:All_articles_containing_potentially_dated_statements" title="Category:All articles containing potentially dated statements">All articles containing potentially dated statements</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Comma-separated+values" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Comma-separated+values" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Comma-separated_values" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Comma-separated_values" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/wiki/Comma-separated_values">Read</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Comma-separated_values&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Comma-separated_values&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label">
+		<span>Contribute</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Comma-separated_values" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Comma-separated_values" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Comma-separated_values&amp;oldid=959879356" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Comma-separated_values&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Comma-separated_values&amp;id=959879356&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q935809" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label">
+		<span>Print/export</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Comma-separated+values&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Comma-separated_values&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label">
+		<span>Languages</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/CSV" title="CSV – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/CSV" title="CSV – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/CSV_(Dateiformat)" title="CSV (Dateiformat) – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Valores_separados_por_comas" title="Valores separados por comas – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/CSV" title="CSV – Esperanto" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/CSV" title="CSV – Basque" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D9%85%D9%82%D8%A7%D8%AF%DB%8C%D8%B1_%D8%AC%D8%AF%D8%A7%D8%B4%D8%AF%D9%87_%D8%A8%D8%A7_%D9%88%DB%8C%D8%B1%DA%AF%D9%88%D9%84" title="مقادیر جداشده با ویرگول – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Comma-separated_values" title="Comma-separated values – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/CSV_(%ED%8C%8C%EC%9D%BC_%ED%98%95%EC%8B%9D)" title="CSV (파일 형식) – Korean" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Comma_Separated_Values" title="Comma Separated Values – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Comma-separated_values" title="Comma-separated values – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/CSV" title="CSV – Hebrew" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/.csv_(Dateiformat)" title=".csv (Dateiformat) – Luxembourgish" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/CSV" title="CSV – Lithuanian" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Kommagescheiden_bestand" title="Kommagescheiden bestand – Dutch" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/Comma-Separated_Values" title="Comma-Separated Values – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/CSV" title="CSV – Norwegian Bokmål" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/CSV_(format_pliku)" title="CSV (format pliku) – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Comma-separated_values" title="Comma-separated values – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/CSV" title="CSV – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Comma-separated_values" title="Comma-separated values – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Comma-separated_values" title="Comma-separated values – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/CSV" title="CSV – Finnish" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Comma-separated_values" title="Comma-separated values – Swedish" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%85%E0%AE%A3%E0%AE%BF%E0%AE%A4%E0%AF%8D%E0%AE%A4%E0%AE%B0%E0%AE%B5%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%8B%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81" title="அணித்தரவுக்கோப்பு – Tamil" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/Comma-separated_values" title="Comma-separated values – Thai" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/CSV" title="CSV – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vec"><a href="https://vec.wikipedia.org/wiki/Comma-separated_values" title="Comma-separated values – Venetian" lang="vec" hreflang="vec" class="interlanguage-link-target">Vèneto</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E9%80%97%E5%8F%B7%E5%88%86%E9%9A%94%E5%80%BC" title="逗号分隔值 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q935809#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 31 May 2020, at 01:27<span class="anonymous-show">&#160;(UTC)</span>.</li>
+		<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+		<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+		<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Comma-separated_values&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="assets/d0baecaa986ff7633a512d4b50947d64.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="assets/ff74a01dcaa635dc8296ffd80fbd87eb.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.476","walltime":"1.018","ppvisitednodes":{"value":2168,"limit":1000000},"postexpandincludesize":{"value":46473,"limit":2097152},"templateargumentsize":{"value":3278,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":65775,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  936.269      1 -total"," 43.94%  411.354      1 Template:Unordered_list"," 26.42%  247.363      1 Template:Reflist","  9.55%   89.399      3 Template:Fix","  9.05%   84.776      1 Template:Cite_IETF","  7.64%   71.531      1 Template:By_whom","  6.63%   62.087     12 Template:Cite_web","  6.26%   58.598      1 Template:IETF_RFC","  5.95%   55.752      1 Template:Catalog_lookup_link","  5.84%   54.684      4 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.219","limit":"10.000"},"limitreport-memusage":{"value":7018990,"limit":52428800},"limitreport-logs":"anchor_id_list = table#1 {\n  [\"CITEREFCreativyst2010\"] = 1,\n  [\"CITEREFShafranovich2005\"] = 1,\n}\ntemplate_list = table#1 {\n  [\"As of\"] = 1,\n  [\"By whom\"] = 1,\n  [\"Citation\"] = 3,\n  [\"Citation needed\"] = 1,\n  [\"Cite IETF\"] = 1,\n  [\"Cite web\"] = 12,\n  [\"Code\"] = 1,\n  [\"For\"] = 1,\n  [\"Harvtxt\"] = 2,\n  [\"IETF RFC\"] = 1,\n  [\"Infobox file format\"] = 1,\n  [\"Reflist\"] = 1,\n  [\"Unordered list\"] = 1,\n  [\"Which\"] = 1,\n}\narticle_whitelist = table#1 {\n}\n"},"cachereport":{"origin":"mw1332","timestamp":"20200730134923","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Comma-separated values","url":"https:\/\/en.wikipedia.org\/wiki\/Comma-separated_values","sameAs":"http:\/\/www.wikidata.org\/entity\/Q935809","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q935809","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-03-03T14:56:47Z","dateModified":"2020-05-31T01:27:57Z","headline":"file format used to store data"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":143,"wgHostname":"mw1323"});});</script>
+<div style="position:fixed;top:0;left:0;width:100%;height:45px;z-index:2147483647;background-color:rgba(253,147,38,0.90) !important;color:black !important;text-align:right !important;font:normal 12px/45px Arial, sans-serif !important;border-radius:0 !important;margin:0 !important;max-width:100% !important;background-repeat: no-repeat !important;background-position: 15px center !important;
+background-image: url(data:image/png;base64,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);
+"><span style="padding-right:15px;">You are viewing a snapshot of <a style='font-weight:bold !important; color:white !important' href='https://en.wikipedia.org/wiki/Comma-separated_values'>https://en.wikipedia.org/wiki/Comma-separated_values</a> created on 2020/08/08</span></div></body></html>

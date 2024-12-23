@@ -1,0 +1,759 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Perlin noise - Wikipedia</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgRequestId":"d63e921d-5e39-4583-8e96-dc6ca4e928ac","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Perlin_noise","wgTitle":"Perlin noise","wgCurRevisionId":971299291,"wgRevisionId":971299291,"wgArticleId":452638,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles with example C code","Noise (graphics)","Special effects","Fractals","Computer graphics"],"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgRelevantPageName":"Perlin_noise","wgRelevantArticleId":452638,"wgIsProbablyEditable":!0,
+"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!1},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q1404167"};RLSTATE={"ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","ext.pygments":"ready","skins.vector.styles.legacy":"ready","jquery.makeCollapsible.styles":"ready",
+"mediawiki.toc.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.math.scripts","site","mediawiki.page.startup","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","skins.vector.legacy.js","ext.gadget.ReferenceTooltips","ext.gadget.charinsert","ext.gadget.extra-toolbar-buttons","ext.gadget.refToolbar","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});});</script>
+<link rel="stylesheet" href="assets/a960edb9abf33cf93ee93879e7ba4b24.css"/>
+<script async="" src="assets/c065145ab1ee4f734095d2092a9278ed.php"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="assets/dab0269550e613a8f8d91320ac5db71f.css"/>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.2"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https:assets/4fe348fa22bdc4b97b9e8b243a08c27e.jpg"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Perlin_noise&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Perlin_noise&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Wikipedia Atom feed" href="/w/index.php?title=Special:RecentChanges&amp;feed=atom"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Perlin_noise"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Perlin_noise rootpage-Perlin_noise skin-vector action-view skin-vector-legacy minerva--history-page-action-enabled">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="en">Perlin noise</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+		<a class="mw-jump-link" href="#searchInput">Jump to search</a>
+		<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="thumb tright"><div class="thumbinner" style="width:130px;"><a href="/wiki/File:Perlin_noise.jpg" class="image"><img alt="" src="assets/4fe348fa22bdc4b97b9e8b243a08c27e.jpg" decoding="async" width="128" height="128" class="thumbimage" data-file-width="128" data-file-height="128" /></a>  <div class="thumbcaption">Two-dimensional slice through 3D Perlin noise at z=0</div></div></div>
+<p><b>Perlin noise</b> is a type of <a href="/wiki/Gradient_noise" title="Gradient noise">gradient noise</a> developed by <a href="/wiki/Ken_Perlin" title="Ken Perlin">Ken Perlin</a> in 1983 as a result of his frustration with the "machine-like" look of <a href="/wiki/Computer-generated_imagery" title="Computer-generated imagery">computer-generated imagery</a> (CGI) at the time.<sup id="cite_ref-ken_powerpoint_1-0" class="reference"><a href="#cite_note-ken_powerpoint-1">&#91;1&#93;</a></sup> He formally described his findings in a <a href="/wiki/SIGGRAPH" title="SIGGRAPH">SIGGRAPH</a> paper in 1985 called <i>An image Synthesizer</i>.<sup id="cite_ref-Perlin:1985:IS:325165.325247_2-0" class="reference"><a href="#cite_note-Perlin:1985:IS:325165.325247-2">&#91;2&#93;</a></sup> In 1997, Perlin was awarded an <a href="/wiki/Academy_Award_for_Technical_Achievement" title="Academy Award for Technical Achievement">Academy Award for Technical Achievement</a> for creating the algorithm.<sup id="cite_ref-kens_aa_3-0" class="reference"><a href="#cite_note-kens_aa-3">&#91;3&#93;</a></sup><sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup>
+</p>
+<style data-mw-deduplicate="TemplateStyles:r960796168">.mw-parser-output .templatequote{overflow:hidden;margin:1em 0;padding:0 40px}.mw-parser-output .templatequote .templatequotecite{line-height:1.5em;text-align:left;padding-left:1.6em;margin-top:0}</style><blockquote class="templatequote"><p>To Ken Perlin for the development of Perlin Noise, a technique used to produce natural appearing <a href="/wiki/Texture_mapping" title="Texture mapping">textures</a> on computer generated surfaces for motion picture visual effects.
+The development of Perlin Noise has allowed computer graphics artists to better represent the complexity of natural phenomena in visual effects for the motion picture industry.</p></blockquote>
+<p>Perlin did not apply for any patents on the algorithm, but in 2001 he was granted a patent for the use of 3D+ implementations of <a href="/wiki/Simplex_noise" title="Simplex noise">simplex noise</a> for <a href="/wiki/Texture_synthesis" title="Texture synthesis">texture synthesis</a>. Simplex noise has the same purpose, but uses a simpler space-filling grid. Simplex noise alleviates some of the problems with Perlin's "classic noise", among them computational complexity and visually-significant directional artifacts.<sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup>
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2 id="mw-toc-heading">Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Uses"><span class="tocnumber">1</span> <span class="toctext">Uses</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Development"><span class="tocnumber">2</span> <span class="toctext">Development</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Algorithm_detail"><span class="tocnumber">3</span> <span class="toctext">Algorithm detail</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Grid_definition"><span class="tocnumber">3.1</span> <span class="toctext">Grid definition</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Dot_product"><span class="tocnumber">3.2</span> <span class="toctext">Dot product</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Interpolation"><span class="tocnumber">3.3</span> <span class="toctext">Interpolation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Implementation"><span class="tocnumber">4</span> <span class="toctext">Implementation</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Complexity"><span class="tocnumber">5</span> <span class="toctext">Complexity</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Uses">Uses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Perlin_noise&amp;action=edit&amp;section=1" title="Edit section: Uses">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Fractal_terrain_texture.jpg" class="image"><img alt="" src="assets/7970b31ae4c2613ee56d02df748e7797.jpg" decoding="async" width="220" height="165" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Fractal_terrain_texture.jpg/330px-Fractal_terrain_texture.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Fractal_terrain_texture.jpg/440px-Fractal_terrain_texture.jpg 2x" data-file-width="1280" data-file-height="960" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Fractal_terrain_texture.jpg" class="internal" title="Enlarge"></a></div>A virtual landscape generated using Perlin noise</div></div></div>
+<p>Perlin noise is a <a href="/wiki/Procedural_texture" title="Procedural texture">procedural texture</a> primitive, a type of <a href="/wiki/Gradient_noise" title="Gradient noise">gradient noise</a> used by visual effects artists to increase the appearance of realism in <a href="/wiki/Computer_graphics" title="Computer graphics">computer graphics</a>. The function has a <a href="/wiki/Pseudo-random" class="mw-redirect" title="Pseudo-random">pseudo-random</a> appearance, yet all of its visual details are the same size. This property allows it to be readily controllable; multiple scaled copies of Perlin noise can be inserted into mathematical expressions to create a great variety of procedural textures. Synthetic textures using Perlin noise are often used in CGI to make computer-generated visual elements&#160;&#8211;&#32;such as object surfaces, fire, smoke, or clouds&#160;&#8211;&#32;appear more natural, by imitating the controlled random appearance of textures in nature.
+</p>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/File:Pink_red_liquid_using_perlin_noise_%2B_bump_%2B_coloring_(2415197699).png" class="image"><img alt="" src="assets/c9e32724d77c2215fbe04ee466a18778.png" decoding="async" width="220" height="220" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Pink_red_liquid_using_perlin_noise_%2B_bump_%2B_coloring_%282415197699%29.png/330px-Pink_red_liquid_using_perlin_noise_%2B_bump_%2B_coloring_%282415197699%29.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Pink_red_liquid_using_perlin_noise_%2B_bump_%2B_coloring_%282415197699%29.png/440px-Pink_red_liquid_using_perlin_noise_%2B_bump_%2B_coloring_%282415197699%29.png 2x" data-file-width="701" data-file-height="701" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Pink_red_liquid_using_perlin_noise_%2B_bump_%2B_coloring_(2415197699).png" class="internal" title="Enlarge"></a></div>An organic surface generated with Perlin noise</div></div></div>
+<p>It is also frequently used to generate textures when memory is extremely limited, such as in <a href="/wiki/Demo_(computer_programming)" class="mw-redirect" title="Demo (computer programming)">demos</a>.  Its successors, such as <a href="/wiki/Fractal_noise" class="mw-redirect" title="Fractal noise">fractal noise</a> and <a href="/wiki/Simplex_noise" title="Simplex noise">simplex noise</a>, have become nearly ubiquitous in <a href="/wiki/Graphics_processing_unit" title="Graphics processing unit">graphics processing units</a> both for <a href="/wiki/Real-time_computer_graphics" title="Real-time computer graphics">real-time graphics</a> and for non-realtime procedural textures in all kinds of computer graphics.
+</p>
+<h2><span class="mw-headline" id="Development">Development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Perlin_noise&amp;action=edit&amp;section=2" title="Edit section: Development">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Perlin noise resulted from the work of <a href="/wiki/Ken_Perlin" title="Ken Perlin">Ken Perlin</a>, who developed it at <a href="/wiki/Mathematical_Applications_Group,_Inc." class="mw-redirect" title="Mathematical Applications Group, Inc.">Mathematical Applications Group, Inc.</a> (MAGI) for <a href="/wiki/Disney" class="mw-redirect" title="Disney">Disney</a>'s <a href="/wiki/Computer_animated" class="mw-redirect" title="Computer animated">computer animated</a> <a href="/wiki/Sci-fi" class="mw-redirect" title="Sci-fi">sci-fi</a> motion picture <i><a href="/wiki/Tron" title="Tron">Tron</a></i> (1982). In 1997, he won an <a href="/wiki/Academy_Award_for_Technical_Achievement" title="Academy Award for Technical Achievement">Academy Award for Technical Achievement</a> from the <a href="/wiki/Academy_of_Motion_Picture_Arts_and_Sciences" title="Academy of Motion Picture Arts and Sciences">Academy of Motion Picture Arts and Sciences</a> for this contribution to CGI.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Algorithm_detail">Algorithm detail</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Perlin_noise&amp;action=edit&amp;section=3" title="Edit section: Algorithm detail">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright"><div class="thumbinner" style="width:130px;"><a href="/wiki/File:Perlin.png" class="image"><img alt="" src="assets/a733509ac03825c697d77685ca220f32.png" decoding="async" width="128" height="128" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/en/thumb/e/e5/Perlin.png/192px-Perlin.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/e/e5/Perlin.png/256px-Perlin.png 2x" data-file-width="300" data-file-height="300" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:Perlin.png" class="internal" title="Enlarge"></a></div>Perlin noise rescaled and added into itself to create <a href="/wiki/Fractal_noise" class="mw-redirect" title="Fractal noise">fractal noise</a>.</div></div></div>
+<p>Perlin noise is most commonly implemented as a two-, three- or four-dimensional <a href="/wiki/Function_(mathematics)" title="Function (mathematics)">function</a>, but can be defined for any number of dimensions.  An implementation typically involves three steps: grid definition with random gradient vectors, computation of the <a href="/wiki/Dot_product" title="Dot product">dot product</a> between the distance-gradient vectors and interpolation between these values. <sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Grid_definition">Grid definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Perlin_noise&amp;action=edit&amp;section=4" title="Edit section: Grid definition">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tnone"><div class="thumbinner" style="width:258px;"><a href="/wiki/File:PerlinNoiseGradientGrid.png" class="image"><img alt="" src="assets/2cc531ac45bf84951d5f97d0860b0501.png" decoding="async" width="256" height="128" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/PerlinNoiseGradientGrid.png/384px-PerlinNoiseGradientGrid.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/PerlinNoiseGradientGrid.png/512px-PerlinNoiseGradientGrid.png 2x" data-file-width="1008" data-file-height="504" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:PerlinNoiseGradientGrid.png" class="internal" title="Enlarge"></a></div>A 2-dimensional grid of gradient vectors</div></div></div>
+<p>Define an <i>n</i>-dimensional grid where each point has a random <i>n</i>-dimensional unit-length gradient vector, except in the one dimensional case where the gradients are random scalars between -1 and 1.
+</p><p>Assigning the random gradients in one and two dimensions is trivial using a <a href="/wiki/Random_number_generator" class="mw-redirect" title="Random number generator">random number generator</a>.  For higher dimensions a Monte Carlo approach can be used<sup id="cite_ref-ken_powerpoint_1-1" class="reference"><a href="#cite_note-ken_powerpoint-1">&#91;1&#93;</a></sup> where random Cartesian coordinates are chosen in a unit cube, points falling outside the unit ball are discarded, and the remaining points are normalized to lie on the unit sphere. The process is continued until the required number of random gradients are obtained.
+</p><p>In order to negate the expensive process of computing new gradients for each grid node, some implementations use a <a href="/wiki/Hash_table" title="Hash table">hash and lookup table</a> for a finite number of precomputed gradient vectors.<sup id="cite_ref-libnoise_8-0" class="reference"><a href="#cite_note-libnoise-8">&#91;8&#93;</a></sup>  The use of a hash also permits the inclusion of a random seed where multiple instances of Perlin noise are required.
+</p>
+<h3><span class="mw-headline" id="Dot_product">Dot product</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Perlin_noise&amp;action=edit&amp;section=5" title="Edit section: Dot product">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tnone"><div class="thumbinner" style="width:258px;"><a href="/wiki/File:PerlinNoiseDotProducts.png" class="image"><img alt="" src="assets/fa9e295dd33a7ff205bd3c6c54c77456.png" decoding="async" width="256" height="128" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/PerlinNoiseDotProducts.png/384px-PerlinNoiseDotProducts.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/PerlinNoiseDotProducts.png/512px-PerlinNoiseDotProducts.png 2x" data-file-width="1008" data-file-height="504" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:PerlinNoiseDotProducts.png" class="internal" title="Enlarge"></a></div>The dot product of each point with its nearest grid node gradient value. The dot product with the other three nodes in the cell is not shown.</div></div></div>
+<p>Once an <i>n</i>-dimensional gradient value is generated for each node along the <i>n</i>-dimensional grid, the next series of steps produce values specific to the candidate point one wishes to obtain noise values for. 
+</p><p>An <i>n</i>-dimensional candidate point can be viewed as falling into an <i>n</i>-dimensional grid cell, where the corners are the <i>n</i>-dimensional grid defined previously. Fetch the <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle 2^{n}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mn>2</mn>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 2^{n}}</annotation>
+  </semantics>
+</math></span><img src="assets/a72c1e10a429fd43f6f8378f88e06079" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.381ex; height:2.343ex;" alt="2^{n}"/></span> closest gradient values, located at the <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle 2^{n}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mn>2</mn>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 2^{n}}</annotation>
+  </semantics>
+</math></span><img src="assets/a72c1e10a429fd43f6f8378f88e06079" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.381ex; height:2.343ex;" alt="2^{n}"/></span> corners of the grid cell the candidate point falls into. Then, for each gradient value, compute a distance vector defined as the offset vector from each corner node to the candidate point. After that, compute the <a href="/wiki/Dot_product" title="Dot product">dot product</a> between each pair of gradient vector and distance offset vector. This function has a value of 0 at the node and a <a href="/wiki/Gradient" title="Gradient">gradient</a> equal to the precomputed node gradient. 
+</p><p>For a point in a two-dimensional grid, this will require the computation of 4 distance vectors and dot products, while in three dimensions 8 distance vectors and 8 dot products are needed.  This leads to the <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle O(2^{n})}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>O</mi>
+        <mo stretchy="false">(</mo>
+        <msup>
+          <mn>2</mn>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msup>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle O(2^{n})}</annotation>
+  </semantics>
+</math></span><img src="assets/07ba86a807f73fb0b85d677bca45db9a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:5.964ex; height:2.843ex;" alt="O(2^{n})"/></span> complexity scaling.
+</p>
+<h3><span class="mw-headline" id="Interpolation">Interpolation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Perlin_noise&amp;action=edit&amp;section=6" title="Edit section: Interpolation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tnone"><div class="thumbinner" style="width:258px;"><a href="/wiki/File:PerlinNoiseInterpolated.png" class="image"><img alt="" src="assets/091e43531e41ae6a55306adff93a3d96.png" decoding="async" width="256" height="128" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/PerlinNoiseInterpolated.png/384px-PerlinNoiseInterpolated.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/PerlinNoiseInterpolated.png/512px-PerlinNoiseInterpolated.png 2x" data-file-width="864" data-file-height="432" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/File:PerlinNoiseInterpolated.png" class="internal" title="Enlarge"></a></div>The final interpolated result</div></div></div>
+<p>The final step is interpolation between the <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle 2^{n}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mn>2</mn>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 2^{n}}</annotation>
+  </semantics>
+</math></span><img src="assets/a72c1e10a429fd43f6f8378f88e06079" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.381ex; height:2.343ex;" alt="2^{n}"/></span> dot products computed at the nodes of the cell containing the argument point. Interpolation is performed using a function that has zero first <a href="/wiki/Derivative" title="Derivative">derivative</a> (and possibly also second derivative) at the  <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle 2^{n}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msup>
+          <mn>2</mn>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msup>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 2^{n}}</annotation>
+  </semantics>
+</math></span><img src="assets/a72c1e10a429fd43f6f8378f88e06079" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.381ex; height:2.343ex;" alt="2^{n}"/></span> grid nodes. Therefore, at points close to the grid nodes the output will approximate the dot product from earlier. This means that the noise function will pass through zero at every node and have a <a href="/wiki/Gradient" title="Gradient">gradient</a> equal to the precomputed grid node gradient. These properties give Perlin noise its characteristic spatial scale.
+</p><p>If <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle n=1}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>n</mi>
+        <mo>=</mo>
+        <mn>1</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle n=1}</annotation>
+  </semantics>
+</math></span><img src="assets/e3823f3a714fa33c0f10c83559b446b1" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:5.656ex; height:2.176ex;" alt="n=1"/></span>, an example of a function that interpolates between value <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle a_{0}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a_{0}}</annotation>
+  </semantics>
+</math></span><img src="assets/226c327ef2b4c144109d677538aab4b3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.284ex; height:2.009ex;" alt="a_{0}"/></span> at grid node 0 and value <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle a_{1}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle a_{1}}</annotation>
+  </semantics>
+</math></span><img src="assets/1cdf8709e9dc43633c76c582e3245433" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.284ex; height:2.009ex;" alt="a_{1}"/></span> at grid node 1 is
+</p>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle f(x)=a_{0}+\operatorname {smoothstep} (x)\cdot (a_{1}-a_{0})\ \ {\text{for }}0\leq x\leq 1}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>f</mi>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mo>=</mo>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+        <mo>+</mo>
+        <mi>smoothstep</mi>
+        <mo>&#x2061;<!-- ⁡ --></mo>
+        <mo stretchy="false">(</mo>
+        <mi>x</mi>
+        <mo stretchy="false">)</mo>
+        <mo>&#x22C5;<!-- ⋅ --></mo>
+        <mo stretchy="false">(</mo>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>&#x2212;<!-- − --></mo>
+        <msub>
+          <mi>a</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+        <mo stretchy="false">)</mo>
+        <mtext>&#xA0;</mtext>
+        <mtext>&#xA0;</mtext>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mtext>for&#xA0;</mtext>
+        </mrow>
+        <mn>0</mn>
+        <mo>&#x2264;<!-- ≤ --></mo>
+        <mi>x</mi>
+        <mo>&#x2264;<!-- ≤ --></mo>
+        <mn>1</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f(x)=a_{0}+\operatorname {smoothstep} (x)\cdot (a_{1}-a_{0})\ \ {\text{for }}0\leq x\leq 1}</annotation>
+  </semantics>
+</math></span><img src="assets/1c6731fe10aec4e69202de53748a33bf" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:52.576ex; height:2.843ex;" alt="{\displaystyle f(x)=a_{0}+\operatorname {smoothstep} (x)\cdot (a_{1}-a_{0})\ \ {\text{for }}0\leq x\leq 1}"/></span></dd></dl>
+<p>where the <a href="/wiki/Smoothstep" title="Smoothstep">smoothstep</a> function was used.
+</p><p>Noise functions for use in computer graphics typically produce values in the range [-1.0,1.0].  In order to produce Perlin noise in this range, the interpolated value may need to be scaled by some scaling factor.<sup id="cite_ref-libnoise_8-1" class="reference"><a href="#cite_note-libnoise-8">&#91;8&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Implementation">Implementation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Perlin_noise&amp;action=edit&amp;section=7" title="Edit section: Implementation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The following is a two-dimensional implementation of Classical Perlin Noise, written in C.
+</p>
+<div class="mw-highlight mw-highlight-lang-c mw-content-ltr" dir="ltr"><pre><span></span><span class="cm">/* Function to linearly interpolate between a0 and a1</span>
+<span class="cm"> * Weight w should be in the range [0.0, 1.0]</span>
+<span class="cm"> *</span>
+<span class="cm"> * as an alternative, this equivalent function (macro) can be used:</span>
+<span class="cm"> * #define lerp(a0, a1, w) ((a0) + (w)*((a1) - (a0))) </span>
+<span class="cm"> */</span>
+<span class="kt">float</span> <span class="nf">lerp</span><span class="p">(</span><span class="kt">float</span> <span class="n">a0</span><span class="p">,</span> <span class="kt">float</span> <span class="n">a1</span><span class="p">,</span> <span class="kt">float</span> <span class="n">w</span><span class="p">)</span> <span class="p">{</span>
+    <span class="k">return</span> <span class="p">(</span><span class="mf">1.0f</span> <span class="o">-</span> <span class="n">w</span><span class="p">)</span><span class="o">*</span><span class="n">a0</span> <span class="o">+</span> <span class="n">w</span><span class="o">*</span><span class="n">a1</span><span class="p">;</span>
+<span class="p">}</span>
+
+<span class="c1">// Computes the dot product of the distance and gradient vectors.</span>
+<span class="kt">float</span> <span class="nf">dotGridGradient</span><span class="p">(</span><span class="kt">int</span> <span class="n">ix</span><span class="p">,</span> <span class="kt">int</span> <span class="n">iy</span><span class="p">,</span> <span class="kt">float</span> <span class="n">x</span><span class="p">,</span> <span class="kt">float</span> <span class="n">y</span><span class="p">)</span> <span class="p">{</span>
+
+    <span class="c1">// Precomputed (or otherwise) gradient vectors at each grid node</span>
+    <span class="k">extern</span> <span class="kt">float</span> <span class="n">Gradient</span><span class="p">[</span><span class="n">IYMAX</span><span class="p">][</span><span class="n">IXMAX</span><span class="p">][</span><span class="mi">2</span><span class="p">];</span>
+
+    <span class="c1">// Compute the distance vector</span>
+    <span class="kt">float</span> <span class="n">dx</span> <span class="o">=</span> <span class="n">x</span> <span class="o">-</span> <span class="p">(</span><span class="kt">float</span><span class="p">)</span><span class="n">ix</span><span class="p">;</span>
+    <span class="kt">float</span> <span class="n">dy</span> <span class="o">=</span> <span class="n">y</span> <span class="o">-</span> <span class="p">(</span><span class="kt">float</span><span class="p">)</span><span class="n">iy</span><span class="p">;</span>
+
+    <span class="c1">// Compute the dot-product</span>
+    <span class="k">return</span> <span class="p">(</span><span class="n">dx</span><span class="o">*</span><span class="n">Gradient</span><span class="p">[</span><span class="n">iy</span><span class="p">][</span><span class="n">ix</span><span class="p">][</span><span class="mi">0</span><span class="p">]</span> <span class="o">+</span> <span class="n">dy</span><span class="o">*</span><span class="n">Gradient</span><span class="p">[</span><span class="n">iy</span><span class="p">][</span><span class="n">ix</span><span class="p">][</span><span class="mi">1</span><span class="p">]);</span>
+<span class="p">}</span>
+
+<span class="c1">// Compute Perlin noise at coordinates x, y</span>
+<span class="kt">float</span> <span class="nf">perlin</span><span class="p">(</span><span class="kt">float</span> <span class="n">x</span><span class="p">,</span> <span class="kt">float</span> <span class="n">y</span><span class="p">)</span> <span class="p">{</span>
+
+    <span class="c1">// Determine grid cell coordinates</span>
+    <span class="kt">int</span> <span class="n">x0</span> <span class="o">=</span> <span class="p">(</span><span class="kt">int</span><span class="p">)</span><span class="n">x</span><span class="p">;</span>
+    <span class="kt">int</span> <span class="n">x1</span> <span class="o">=</span> <span class="n">x0</span> <span class="o">+</span> <span class="mi">1</span><span class="p">;</span>
+    <span class="kt">int</span> <span class="n">y0</span> <span class="o">=</span> <span class="p">(</span><span class="kt">int</span><span class="p">)</span><span class="n">y</span><span class="p">;</span>
+    <span class="kt">int</span> <span class="n">y1</span> <span class="o">=</span> <span class="n">y0</span> <span class="o">+</span> <span class="mi">1</span><span class="p">;</span>
+
+    <span class="c1">// Determine interpolation weights</span>
+    <span class="c1">// Could also use higher order polynomial/s-curve here</span>
+    <span class="kt">float</span> <span class="n">sx</span> <span class="o">=</span> <span class="n">x</span> <span class="o">-</span> <span class="p">(</span><span class="kt">float</span><span class="p">)</span><span class="n">x0</span><span class="p">;</span>
+    <span class="kt">float</span> <span class="n">sy</span> <span class="o">=</span> <span class="n">y</span> <span class="o">-</span> <span class="p">(</span><span class="kt">float</span><span class="p">)</span><span class="n">y0</span><span class="p">;</span>
+
+    <span class="c1">// Interpolate between grid point gradients</span>
+    <span class="kt">float</span> <span class="n">n0</span><span class="p">,</span> <span class="n">n1</span><span class="p">,</span> <span class="n">ix0</span><span class="p">,</span> <span class="n">ix1</span><span class="p">,</span> <span class="n">value</span><span class="p">;</span>
+
+    <span class="n">n0</span> <span class="o">=</span> <span class="n">dotGridGradient</span><span class="p">(</span><span class="n">x0</span><span class="p">,</span> <span class="n">y0</span><span class="p">,</span> <span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">);</span>
+    <span class="n">n1</span> <span class="o">=</span> <span class="n">dotGridGradient</span><span class="p">(</span><span class="n">x1</span><span class="p">,</span> <span class="n">y0</span><span class="p">,</span> <span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">);</span>
+    <span class="n">ix0</span> <span class="o">=</span> <span class="n">lerp</span><span class="p">(</span><span class="n">n0</span><span class="p">,</span> <span class="n">n1</span><span class="p">,</span> <span class="n">sx</span><span class="p">);</span>
+
+    <span class="n">n0</span> <span class="o">=</span> <span class="n">dotGridGradient</span><span class="p">(</span><span class="n">x0</span><span class="p">,</span> <span class="n">y1</span><span class="p">,</span> <span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">);</span>
+    <span class="n">n1</span> <span class="o">=</span> <span class="n">dotGridGradient</span><span class="p">(</span><span class="n">x1</span><span class="p">,</span> <span class="n">y1</span><span class="p">,</span> <span class="n">x</span><span class="p">,</span> <span class="n">y</span><span class="p">);</span>
+    <span class="n">ix1</span> <span class="o">=</span> <span class="n">lerp</span><span class="p">(</span><span class="n">n0</span><span class="p">,</span> <span class="n">n1</span><span class="p">,</span> <span class="n">sx</span><span class="p">);</span>
+
+    <span class="n">value</span> <span class="o">=</span> <span class="n">lerp</span><span class="p">(</span><span class="n">ix0</span><span class="p">,</span> <span class="n">ix1</span><span class="p">,</span> <span class="n">sy</span><span class="p">);</span>
+    <span class="k">return</span> <span class="n">value</span><span class="p">;</span>
+<span class="p">}</span>
+</pre></div>
+<h2><span class="mw-headline" id="Complexity">Complexity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Perlin_noise&amp;action=edit&amp;section=8" title="Edit section: Complexity">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>For each evaluation of the noise function, the dot product of the position and gradient vectors must be evaluated at each node of the containing grid cell. Perlin noise therefore scales with complexity <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle O(2^{n})}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>O</mi>
+        <mo stretchy="false">(</mo>
+        <msup>
+          <mn>2</mn>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msup>
+        <mo stretchy="false">)</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle O(2^{n})}</annotation>
+  </semantics>
+</math></span><img src="assets/07ba86a807f73fb0b85d677bca45db9a" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:5.964ex; height:2.843ex;" alt="O(2^{n})"/></span> for <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle n}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>n</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+  </semantics>
+</math></span><img src="assets/f49cf2de85b79c8bb51ea33ee4cec7d9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.395ex; height:1.676ex;" alt="n"/></span> dimensions.  Alternatives to Perlin noise producing similar results with improved complexity scaling include <a href="/wiki/Simplex_noise" title="Simplex noise">simplex noise</a> and <a href="/wiki/OpenSimplex_noise" title="OpenSimplex noise">OpenSimplex noise</a>.
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Perlin_noise&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a href="/wiki/Value_noise" title="Value noise">Value noise</a></li>
+<li><a href="/wiki/Simulation_noise" title="Simulation noise">Simulation noise</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Perlin_noise&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-ken_powerpoint-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-ken_powerpoint_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ken_powerpoint_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite id="CITEREFPerlin" class="citation web cs1">Perlin, Ken. <a rel="nofollow" class="external text" href="https://web.archive.org/web/20071008162042/http://www.noisemachine.com/talk1/">"Making Noise"</a>. <i>noisemachine.com</i>. Ken Perlin. Archived from <a rel="nofollow" class="external text" href="http://www.noisemachine.com/talk1/">the original</a> on October 8, 2007.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=noisemachine.com&amp;rft.atitle=Making+Noise&amp;rft.aulast=Perlin&amp;rft.aufirst=Ken&amp;rft_id=http%3A%2F%2Fwww.noisemachine.com%2Ftalk1%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APerlin+noise" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r951705291">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output .citation q{quotes:"\"""\"""'""'"}.mw-parser-output .id-lock-free a,.mw-parser-output .citation .cs1-lock-free a{background-image:url("assets/d4e7cc61232afb2b2b94df937ca19111.png");background-image:linear-gradient(transparent,transparent),url("assets/bd670353c83f78ac9bf7920d3135114a.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-limited a,.mw-parser-output .id-lock-registration a,.mw-parser-output .citation .cs1-lock-limited a,.mw-parser-output .citation .cs1-lock-registration a{background-image:url("assets/6e4cfa7b3160bba14bae3b7c771d6b1e.png");background-image:linear-gradient(transparent,transparent),url("assets/a37b208d8a82dd697fbb820509243556.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .id-lock-subscription a,.mw-parser-output .citation .cs1-lock-subscription a{background-image:url("assets/0225d20521fa7e24cfc3d4845805124a.png");background-image:linear-gradient(transparent,transparent),url("assets/407b2f7ef21a3c79d854bf0d6e7f538b.svg");background-repeat:no-repeat;background-size:9px;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-ws-icon a{background-image:url("assets/a9fe05a6cf353fa7e0c0643bf92fb39c.png");background-image:linear-gradient(transparent,transparent),url("assets/44712c5455c69cd59c93962ea0465e79.svg");background-repeat:no-repeat;background-size:12px;background-position:right .1em center}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-maint{display:none;color:#33aa33;margin-left:0.3em}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}.mw-parser-output .citation .mw-selflink{font-weight:inherit}</style></span>
+</li>
+<li id="cite_note-Perlin:1985:IS:325165.325247-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Perlin:1985:IS:325165.325247_2-0">^</a></b></span> <span class="reference-text"><cite id="perlin_noise_siggraph_paper" class="citation journal cs1">Perlin, Ken (July 1985). "An Image Synthesizer". <i>SIGGRAPH Comput. Graph</i>. <b>19</b> (97–8930): 287–296. <a href="/wiki/Doi_(identifier)" class="mw-redirect" title="Doi (identifier)">doi</a>:<a rel="nofollow" class="external text" href="https://doi.org/10.1145%2F325165.325247">10.1145/325165.325247</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=SIGGRAPH+Comput.+Graph.&amp;rft.atitle=An+Image+Synthesizer&amp;rft.volume=19&amp;rft.issue=97%E2%80%938930&amp;rft.pages=287-296&amp;rft.date=1985-07&amp;rft_id=info%3Adoi%2F10.1145%2F325165.325247&amp;rft.aulast=Perlin&amp;rft.aufirst=Ken&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APerlin+noise" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-kens_aa-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-kens_aa_3-0">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://mrl.nyu.edu/~perlin/doc/oscar.html#noise">Original source code</a> <a rel="nofollow" class="external text" href="https://web.archive.org/web/20180501200154/http://mrl.nyu.edu/~perlin/doc/oscar.html#noise">Archived</a> 2018-05-01 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a> of Ken Perlin's 'coherent noise function'</span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite id="CITEREFGustavson" class="citation web cs1">Gustavson, Stefan. <a rel="nofollow" class="external text" href="http://staffwww.itn.liu.se/~stegu/simplexnoise/simplexnoise.pdf">"Simplex noise demystified"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">24 April</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Simplex+noise+demystified&amp;rft.aulast=Gustavson&amp;rft.aufirst=Stefan&amp;rft_id=http%3A%2F%2Fstaffwww.itn.liu.se%2F~stegu%2Fsimplexnoise%2Fsimplexnoise.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APerlin+noise" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><span class="citation patent" id="CITEREFKenneth_Perlin2005"><a rel="nofollow" class="external text" href="https://worldwide.espacenet.com/textdoc?DB=EPODOC&amp;IDX=US6867776">US&#32;patent 6867776</a>,&#32;Kenneth Perlin,&#32;"Standard for perlin noise",&#32;issued 2005-03-15,&#32; assigned to Kenneth Perlin&#32;and Wsou Investments LLC</span><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Apatent&amp;rft.number=6867776&amp;rft.cc=US&amp;rft.title=Standard+for+perlin+noise&amp;rft.inventor=Kenneth+Perlin&amp;rft.assignee=Kenneth+Perlin&amp;rft.date=2005-03-15&amp;rft.appldate=2001-01-10&amp;rft.prioritydate=2001-01-10"><span style="display: none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Kerman, Phillip. <i>Macromedia Flash 8 @work: Projects and Techniques to Get the Job Done.</i> Sams Publishing. 2006. <link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/><a href="/wiki/ISBN_(identifier)" class="mw-redirect" title="ISBN (identifier)">ISBN</a>&#160;<a href="/wiki/Special:BookSources/9780672328282" title="Special:BookSources/9780672328282">9780672328282</a>.</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite id="CITEREFGustavson" class="citation web cs1">Gustavson, Stefan. <a rel="nofollow" class="external text" href="http://webstaff.itn.liu.se/~stegu/simplexnoise/simplexnoise.pdf">"Simplex noise demystified"</a> <span class="cs1-format">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">24 April</span> 2019</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Simplex+noise+demystified&amp;rft.aulast=Gustavson&amp;rft.aufirst=Stefan&amp;rft_id=http%3A%2F%2Fwebstaff.itn.liu.se%2F~stegu%2Fsimplexnoise%2Fsimplexnoise.pdf&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APerlin+noise" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+<li id="cite_note-libnoise-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-libnoise_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-libnoise_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web cs1"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20180513055053/http://libnoise.sourceforge.net/index.html">"libnoise"</a>. Archived from <a rel="nofollow" class="external text" href="http://libnoise.sourceforge.net/index.html">the original</a> on 2018-05-13<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-09-22</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=libnoise&amp;rft_id=http%3A%2F%2Flibnoise.sourceforge.net%2Findex.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APerlin+noise" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r951705291"/></span>
+</li>
+</ol></div></div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Perlin_noise&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20170201233641/https://mzucker.github.io/html/perlin-noise-math-faq.html">Matt Zucker's Perlin noise math FAQ </a></li>
+<li><a rel="nofollow" class="external text" href="http://www.ddj.com/architect/222600097?pgno=4">Rob Farber's tutorial demonstrating Perlin noise generation and visualization on CUDA-enabled graphics processors</a></li>
+<li><a rel="nofollow" class="external text" href="http://libnoise.sourceforge.net/">Jason Bevins's extensive C++ library for generating complex, coherent noise values</a></li>
+<li><a rel="nofollow" class="external text" href="https://github.com/A1essandro/perlin-noise-generator/">Realization</a> on PHP (github)</li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20180616011332/http://www.scratchapixel.com/lessons/procedural-generation-virtual-worlds%20/perlin-noise-part-2">Perlin Noise Explained in Depth (with C++ source code)</a></li>
+<li><a rel="nofollow" class="external text" href="https://thebookofshaders.com/11/">The Book of Shaders by Patricio Gonzalez Vivo &amp; Jen Lowe</a></li>
+<li><a rel="nofollow" class="external text" href="http://perlin.mydevelops.com">Perlin noise online generator</a></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Procedural_coherent_noise" style="padding:3px"><table class="nowraplinks mw-collapsible expanded navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Coherent_noise" title="Template:Coherent noise"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/w/index.php?title=Template_talk:Coherent_noise&amp;action=edit&amp;redlink=1" class="new" title="Template talk:Coherent noise (page does not exist)"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Coherent_noise&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Procedural_coherent_noise" style="font-size:114%;margin:0 4em">Procedural coherent noise</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">Approach</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:11.9em"><a href="/w/index.php?title=Lattice_noise&amp;action=edit&amp;redlink=1" class="new" title="Lattice noise (page does not exist)">Lattice based</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:11.9em"><a href="/wiki/Gradient_noise" title="Gradient noise">Gradient noise</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Simplex_noise" title="Simplex noise">Simplex noise</a></li>
+<li><a href="/wiki/OpenSimplex_noise" title="OpenSimplex noise">OpenSimplex noise</a></li>
+<li><a class="mw-selflink selflink">Perlin noise</a></li>
+<li><a href="/wiki/Wavelet_noise" title="Wavelet noise">Wavelet noise</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:11.9em"><a href="/wiki/Value_noise" title="Value noise">Value noise</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Value_noise" title="Value noise">Value noise</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:11.9em">Point based</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Worley_noise" title="Worley noise">Worley noise</a> (Voronoi/Cellular noise)</li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Applications</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Procedural_generation" title="Procedural generation">Procedural generation</a></li>
+<li><a href="/wiki/Computer_graphics" title="Computer graphics">Computer graphics</a></li>
+<li><a href="/wiki/Video_game" title="Video game">Video games</a></li>
+<li><a href="/wiki/Fractal_landscape" title="Fractal landscape">Fractal landscapes</a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Noise_(physics_and_telecommunications)" style="padding:3px"><table class="nowraplinks mw-collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Noise" title="Template:Noise"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Noise" title="Template talk:Noise"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="https://en.wikipedia.org/w/index.php?title=Template:Noise&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Noise_(physics_and_telecommunications)" style="font-size:114%;margin:0 4em"><a href="/wiki/Noise" title="Noise">Noise</a> (physics and telecommunications)</div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%">General</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Acoustic_quieting" title="Acoustic quieting">Acoustic quieting</a></li>
+<li><a href="/wiki/Distortion" title="Distortion">Distortion</a></li>
+<li><a href="/wiki/Active_noise_control" title="Active noise control">Noise cancellation</a></li>
+<li><a href="/wiki/Noise_control" title="Noise control">Noise control</a></li>
+<li><a href="/wiki/Noise_measurement" title="Noise measurement">Noise measurement</a></li>
+<li><a href="/wiki/Noise_power" title="Noise power">Noise power</a></li>
+<li><a href="/wiki/Noise_reduction" title="Noise reduction">Noise reduction</a></li>
+<li><a href="/wiki/Noise_temperature" title="Noise temperature">Noise temperature</a></li>
+<li><a href="/wiki/Phase_distortion" title="Phase distortion">Phase distortion</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Noise in...</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Noise_(audio)" class="mw-redirect" title="Noise (audio)">Audio</a></li>
+<li><a href="/wiki/Architectural_acoustics" title="Architectural acoustics">Buildings</a></li>
+<li><a href="/wiki/Noise_(electronics)" title="Noise (electronics)">Electronics</a></li>
+<li><a href="/wiki/Noise_pollution" title="Noise pollution">Environment</a></li>
+<li><a href="/wiki/Noise_regulation" title="Noise regulation">Government regulation</a></li>
+<li><a href="/wiki/Health_effects_from_noise" title="Health effects from noise">Human health</a></li>
+<li><a href="/wiki/Image_noise" title="Image noise">Images</a></li>
+<li><a href="/wiki/Noise_(radio)" class="mw-redirect" title="Noise (radio)">Radio</a></li>
+<li><a href="/wiki/Soundproofing" title="Soundproofing">Rooms</a></li>
+<li><a href="/wiki/Noise_and_vibration_on_maritime_vessels" title="Noise and vibration on maritime vessels">Ships</a></li>
+<li><a href="/wiki/Sound_masking" title="Sound masking">Sound masking</a></li>
+<li><a href="/wiki/Noise_barrier" title="Noise barrier">Transportation</a></li>
+<li><a href="/wiki/Noise_(video)" title="Noise (video)">Video</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Class of noise</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Additive_white_Gaussian_noise" title="Additive white Gaussian noise">Additive white Gaussian noise</a> (AWGN)</li>
+<li><a href="/wiki/Atmospheric_noise" title="Atmospheric noise">Atmospheric noise</a></li>
+<li><a href="/wiki/Background_noise" title="Background noise">Background noise</a></li>
+<li><a href="/wiki/Brownian_noise" title="Brownian noise">Brownian noise</a></li>
+<li><a href="/wiki/Burst_noise" title="Burst noise">Burst noise</a></li>
+<li><a href="/wiki/Cosmic_noise" title="Cosmic noise">Cosmic noise</a></li>
+<li><a href="/wiki/Flicker_noise" title="Flicker noise">Flicker noise</a></li>
+<li><a href="/wiki/Gaussian_noise" title="Gaussian noise">Gaussian noise</a></li>
+<li><a href="/wiki/Grey_noise" title="Grey noise">Grey noise</a></li>
+<li><a href="/wiki/Jitter" title="Jitter">Jitter</a></li>
+<li><a href="/wiki/Johnson%E2%80%93Nyquist_noise" title="Johnson–Nyquist noise">Johnson–Nyquist noise</a> (thermal noise)</li>
+<li><a href="/wiki/Pink_noise" title="Pink noise">Pink noise</a></li>
+<li><a href="/wiki/Quantization_error" class="mw-redirect" title="Quantization error">Quantization error</a> (or q. noise)</li>
+<li><a href="/wiki/Shot_noise" title="Shot noise">Shot noise</a></li>
+<li><a href="/wiki/White_noise" title="White noise">White noise</a></li>
+<li>Coherent noise
+<ul><li><a href="/wiki/Value_noise" title="Value noise">Value noise</a></li>
+<li><a href="/wiki/Gradient_noise" title="Gradient noise">Gradient noise</a></li>
+<li><a href="/wiki/Worley_noise" title="Worley noise">Worley noise</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Engineering <br />terms</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Channel_noise_level" title="Channel noise level">Channel noise level</a></li>
+<li><a href="/wiki/Circuit_noise_level" title="Circuit noise level">Circuit noise level</a></li>
+<li><a href="/wiki/Effective_input_noise_temperature" title="Effective input noise temperature">Effective input noise temperature</a></li>
+<li><a href="/wiki/Equivalent_noise_resistance" title="Equivalent noise resistance">Equivalent noise resistance</a></li>
+<li><a href="/wiki/Equivalent_pulse_code_modulation_noise" title="Equivalent pulse code modulation noise">Equivalent pulse code modulation noise</a></li>
+<li><a href="/wiki/Impulse_noise_(audio)" class="mw-redirect" title="Impulse noise (audio)">Impulse noise (audio)</a></li>
+<li><a href="/wiki/Noise_figure" title="Noise figure">Noise figure</a></li>
+<li><a href="/wiki/Noise_floor" title="Noise floor">Noise floor</a></li>
+<li><a href="/wiki/Noise_shaping" title="Noise shaping">Noise shaping</a></li>
+<li><a href="/wiki/Noise_spectral_density" title="Noise spectral density">Noise spectral density</a></li>
+<li><a href="/wiki/Noise,_vibration,_and_harshness" title="Noise, vibration, and harshness">Noise, vibration, and harshness</a> (NVH)</li>
+<li><a href="/wiki/Phase_noise" title="Phase noise">Phase noise</a></li>
+<li><a href="/wiki/Pseudorandom_noise" title="Pseudorandom noise">Pseudorandom noise</a></li>
+<li><a href="/wiki/Statistical_noise" class="mw-redirect" title="Statistical noise">Statistical noise</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Ratios</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Carrier-to-noise_ratio" title="Carrier-to-noise ratio">Carrier-to-noise ratio</a> (<i>C</i>/<i>N</i>)</li>
+<li><a href="/wiki/Carrier-to-receiver_noise_density" class="mw-redirect" title="Carrier-to-receiver noise density">Carrier-to-receiver noise density</a> (<i>C</i>/<i>kT</i>)</li>
+<li><i><a href="/wiki/DBrnC" class="mw-redirect" title="DBrnC">dBrnC</a></i></li>
+<li><i><a href="/wiki/Eb/N0" title="Eb/N0">E<sub>b</sub>/N<sub>0</sub></a></i> (energy per bit to noise density)</li>
+<li><i><a href="/wiki/Eb/N0#Relation_to_Es.2FN0" title="Eb/N0">E<sub>s</sub>/N<sub>0</sub></a></i> (energy per symbol to noise density)</li>
+<li><a href="/wiki/Modulation_error_ratio" title="Modulation error ratio">Modulation error ratio</a> (<i>MER</i>)</li>
+<li><a href="/wiki/SINAD" title="SINAD">Signal, noise and distortion</a> (<i>SINAD</i>)</li>
+<li><a href="/wiki/Signal-to-interference_ratio" title="Signal-to-interference ratio">Signal-to-interference ratio</a> (<i>S</i>/<i>I</i>)</li>
+<li><a href="/wiki/Signal-to-noise_ratio" title="Signal-to-noise ratio">Signal-to-noise ratio</a> (<i>S</i>/<i>N</i>,&#160;<i>SNR</i>)</li>
+<li><a href="/wiki/Signal-to-noise_ratio_(imaging)" title="Signal-to-noise ratio (imaging)">Signal-to-noise ratio (imaging)</a></li>
+<li><a href="/wiki/Signal-to-interference-plus-noise_ratio" title="Signal-to-interference-plus-noise ratio">Signal-to-interference-plus-noise ratio</a> (<i>SINR</i>)</li>
+<li><a href="/wiki/Signal-to-quantization-noise_ratio" title="Signal-to-quantization-noise ratio">Signal-to-quantization-noise ratio</a> (<i>SQNR</i>)</li>
+<li><a href="/wiki/Contrast-to-noise_ratio" title="Contrast-to-noise ratio">Contrast-to-noise ratio</a> (<i>CNR</i>)</li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Related topics</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/List_of_noise_topics" title="List of noise topics">List of noise topics</a></li>
+<li><a href="/wiki/Acoustics" title="Acoustics">Acoustics</a></li>
+<li><a href="/wiki/Colors_of_noise" title="Colors of noise">Colors of noise</a></li>
+<li><a href="/wiki/Interference_(communication)" title="Interference (communication)">Interference (communication)</a></li>
+<li><a href="/wiki/Noise_generator" title="Noise generator">Noise generator</a></li>
+<li><a href="/wiki/Spectrum_analyzer" title="Spectrum analyzer">Spectrum analyzer</a></li>
+<li><a href="/wiki/Thermal_radiation" title="Thermal radiation">Thermal radiation</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Denoise <br />methods</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">General</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Low-pass_filter" title="Low-pass filter">Low-pass filter</a></li>
+<li><a href="/wiki/Median_filter" title="Median filter">Median filter</a></li>
+<li><a href="/wiki/Total_variation_denoising" title="Total variation denoising">Total variation denoising</a></li>
+<li><a href="/wiki/Wavelet#Wavelet_denoising" title="Wavelet">Wavelet denoising</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">2D (Image)</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Gaussian_blur" title="Gaussian blur">Gaussian blur</a></li>
+<li><a href="/wiki/Anisotropic_diffusion" title="Anisotropic diffusion">Anisotropic diffusion</a></li>
+<li><a href="/wiki/Bilateral_filter" title="Bilateral filter">Bilateral filter</a></li>
+<li><a href="/wiki/Non-local_means" title="Non-local means">Non-local means</a></li>
+<li><a href="/wiki/Block-matching_and_3D_filtering" title="Block-matching and 3D filtering">Block-matching and 3D filtering</a> (BM3D)</li>
+<li><a href="/wiki/Shrinkage_Fields_(image_restoration)" title="Shrinkage Fields (image restoration)">Shrinkage Fields</a></li>
+<li><a href="/wiki/Autoencoder#Denoising_autoencoder_(DAE)" title="Autoencoder">Denoising autoencoder</a> (DAE)</li>
+<li><a href="/wiki/Deep_Image_Prior" title="Deep Image Prior">Deep Image Prior</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table></div>
+<!-- 
+NewPP limit report
+Parsed by mw1383
+Cached time: 20200805075207
+Cache expiry: 2592000
+Dynamic content: false
+Complications: [vary‐revision‐sha1]
+CPU time usage: 0.316 seconds
+Real time usage: 0.498 seconds
+Preprocessor visited node count: 1239/1000000
+Post‐expand include size: 46014/2097152 bytes
+Template argument size: 1763/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 0/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 32831/5000000 bytes
+Lua time usage: 0.119/10.000 seconds
+Lua memory usage: 3.07 MB/50 MB
+Number of Wikibase entities loaded: 0/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  298.191      1 -total
+ 70.33%  209.729      1 Template:Reflist
+ 35.63%  106.246      4 Template:Cite_web
+ 14.96%   44.607      1 Template:ISBN
+ 13.48%   40.198      1 Template:Quote
+ 11.84%   35.320      5 Template:Navbox
+  7.24%   21.602      1 Template:Procedural_noise
+  6.76%   20.149      1 Template:Webarchive
+  5.50%   16.406      1 Template:Cite_patent
+  5.30%   15.816      1 Template:Noise
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:452638-0!canonical!math=5 and timestamp 20200805075207 and revision id 971299291
+ -->
+</div><noscript><img src="assets/3f07551aa465d8e435036dce80f3b4e4" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Perlin_noise&amp;oldid=971299291">https://en.wikipedia.org/w/index.php?title=Perlin_noise&amp;oldid=971299291</a>"</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Noise_(graphics)" title="Category:Noise (graphics)">Noise (graphics)</a></li><li><a href="/wiki/Category:Special_effects" title="Category:Special effects">Special effects</a></li><li><a href="/wiki/Category:Fractals" title="Category:Fractals">Fractals</a></li><li><a href="/wiki/Category:Computer_graphics" title="Category:Computer graphics">Computer graphics</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_with_example_C_code" title="Category:Articles with example C code">Articles with example C code</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Navigation menu</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Personal tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Perlin+noise" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Perlin+noise" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li></ul>
+		
+	</div>
+</nav>
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Namespaces</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Perlin_noise" title="View the content page [c]" accesskey="c">Article</a></li><li id="ca-talk"><a href="/wiki/Talk:Perlin_noise" rel="discussion" title="Discuss improvements to the content page [t]" accesskey="t">Talk</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variants</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Views</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/wiki/Perlin_noise">Read</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Perlin_noise&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Perlin_noise&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></li></ul>
+		
+	</div>
+</nav>
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>More</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Search</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Special:Search">
+			<input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visit the main page" class="mw-wiki-logo" href="/wiki/Main_Page"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navigation</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Wikipedia:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Visit a randomly selected article [x]" accesskey="x">Random article</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Learn about Wikipedia and how it works">About Wikipedia</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact us</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us by donating to the Wikimedia Foundation">Donate</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-interaction" class="vector-menu vector-menu-portal portal" aria-labelledby="p-interaction-label" role="navigation" 
+	 >
+	<h3 id="p-interaction-label">
+		<span>Contribute</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes to Wikipedia [r]" accesskey="r">Recent changes</a></li><li id="n-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Add images or other media for use on Wikipedia">Upload file</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Tools</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Perlin_noise" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Perlin_noise" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Perlin_noise&amp;oldid=971299291" title="Permanent link to this revision of this page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Perlin_noise&amp;action=info" title="More information about this page">Page information</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Perlin_noise&amp;id=971299291&amp;wpFormIdentifier=titleform" title="Information on how to cite this page">Cite this page</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1404167" title="Structured data on this page hosted by Wikidata [g]" accesskey="g">Wikidata item</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label">
+		<span>Print/export</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="coll-download-as-rl"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Perlin+noise&amp;action=show-download-screen" title="Download this page as a PDF file">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Perlin_noise&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li></ul>
+		
+	</div>
+</nav>
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label">
+		<span>In other projects</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Perlin_noise" hreflang="en">Wikimedia Commons</a></li></ul>
+		
+	</div>
+</nav>
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label">
+		<span>Languages</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Soroll_Perlin" title="Soroll Perlin – Catalan" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Perlin%C5%AFv_%C5%A1um" title="Perlinův šum – Czech" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Perlin-Noise" title="Perlin-Noise – German" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/Ruido_Perlin" title="Ruido Perlin – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Bruit_de_Perlin" title="Bruit de Perlin – French" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Perlinov_%C5%A1um" title="Perlinov šum – Croatian" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Rumore_di_Perlin" title="Rumore di Perlin – Italian" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Perlin-zaj" title="Perlin-zaj – Hungarian" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%83%91%E3%83%BC%E3%83%AA%E3%83%B3%E3%83%8E%E3%82%A4%E3%82%BA" title="パーリンノイズ – Japanese" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Szum_Perlina" title="Szum Perlina – Polish" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%A8%D1%83%D0%BC_%D0%9F%D0%B5%D1%80%D0%BB%D0%B8%D0%BD%D0%B0" title="Шум Перлина – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Perlin_noise" title="Perlin noise – Simple English" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Perlinov_%C5%A1um" title="Perlinov šum – Slovak" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Perlinov_%C5%A1um" title="Perlinov šum – Serbo-Croatian" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/%D0%A8%D1%83%D0%BC_%D0%9F%D0%B5%D1%80%D0%BB%D0%B8%D0%BD%D0%B0" title="Шум Перлина – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/Perlin%E5%99%AA%E5%A3%B0" title="Perlin噪声 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q1404167#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>
+	</div>
+</nav>
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> This page was last edited on 5 August 2020, at 07:52<span class="anonymous-show">&#160;(UTC)</span>.</li>
+		<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+		<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/en.wikipedia.org">Statistics</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+		<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Perlin_noise&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="assets/d0baecaa986ff7633a512d4b50947d64.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="assets/ff74a01dcaa635dc8296ffd80fbd87eb.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.316","walltime":"0.498","ppvisitednodes":{"value":1239,"limit":1000000},"postexpandincludesize":{"value":46014,"limit":2097152},"templateargumentsize":{"value":1763,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":32831,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  298.191      1 -total"," 70.33%  209.729      1 Template:Reflist"," 35.63%  106.246      4 Template:Cite_web"," 14.96%   44.607      1 Template:ISBN"," 13.48%   40.198      1 Template:Quote"," 11.84%   35.320      5 Template:Navbox","  7.24%   21.602      1 Template:Procedural_noise","  6.76%   20.149      1 Template:Webarchive","  5.50%   16.406      1 Template:Cite_patent","  5.30%   15.816      1 Template:Noise"]},"scribunto":{"limitreport-timeusage":{"value":"0.119","limit":"10.000"},"limitreport-memusage":{"value":3222038,"limit":52428800}},"cachereport":{"origin":"mw1383","timestamp":"20200805075207","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Perlin noise","url":"https:\/\/en.wikipedia.org\/wiki\/Perlin_noise","sameAs":"http:\/\/www.wikidata.org\/entity\/Q1404167","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q1404167","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2004-02-03T03:49:20Z","dateModified":"2020-08-05T07:52:05Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/d\/da\/Perlin_noise.jpg"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":130,"wgHostname":"mw1372"});});</script>
+<div style="position:fixed;top:0;left:0;width:100%;height:45px;z-index:2147483647;background-color:rgba(253,147,38,0.90) !important;color:black !important;text-align:right !important;font:normal 12px/45px Arial, sans-serif !important;border-radius:0 !important;margin:0 !important;max-width:100% !important;background-repeat: no-repeat !important;background-position: 15px center !important;
+background-image: url(data:image/png;base64,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);
+"><span style="padding-right:15px;">You are viewing a snapshot of <a style='font-weight:bold !important; color:white !important' href='http://en.wikipedia.org/wiki/Perlin_noise'>http://en.wikipedia.org/wiki/Perlin_noise</a> created on 2020/08/12</span></div></body></html>

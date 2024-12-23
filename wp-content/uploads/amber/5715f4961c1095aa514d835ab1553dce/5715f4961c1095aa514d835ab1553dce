@@ -1,0 +1,927 @@
+
+<!DOCTYPE html>
+<html class="client-nojs" lang="es" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Algoritmo - Wikipedia, la enciclopedia libre</title>
+<script>document.documentElement.className="client-js";RLCONF={"wgBreakFrames":!1,"wgSeparatorTransformTable":[",\t."," \t,"],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","enero","febrero","marzo","abril","mayo","junio","julio","agosto","septiembre","octubre","noviembre","diciembre"],"wgRequestId":"f78f2127-2351-412f-8f08-c967ac5044ba","wgCSPNonce":!1,"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":!1,"wgNamespaceNumber":0,"wgPageName":"Algoritmo","wgTitle":"Algoritmo","wgCurRevisionId":128114830,"wgRevisionId":128114830,"wgArticleId":187,"wgIsArticle":!0,"wgIsRedirect":!1,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia:Páginas con enlaces mágicos de ISBN","Wikipedia:Artículos con identificadores BNE","Wikipedia:Artículos con identificadores BNF","Wikipedia:Artículos con identificadores GND","Wikipedia:Artículos con identificadores LCCN","Wikipedia:Artículos con identificadores AAT","Algoritmos",
+"Palabras y frases en árabe"],"wgPageContentLanguage":"es","wgPageContentModel":"wikitext","wgRelevantPageName":"Algoritmo","wgRelevantArticleId":187,"wgIsProbablyEditable":!0,"wgRelevantPageIsProbablyEditable":!0,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgMediaViewerOnClick":!0,"wgMediaViewerEnabledByDefault":!0,"wgPopupsReferencePreviews":!1,"wgPopupsConflictsWithNavPopupGadget":!1,"wgVisualEditor":{"pageLanguageCode":"es","pageLanguageDir":"ltr","pageVariantFallbacks":"es"},"wgMFDisplayWikibaseDescriptions":{"search":!0,"nearby":!0,"watchlist":!0,"tagline":!0},"wgWMESchemaEditAttemptStepOversample":!1,"wgULSCurrentAutonym":"español","wgNoticeProject":"wikipedia","wgCentralAuthMobileDomain":!1,"wgEditSubmitButtonLabelPublish":!0,"wgULSPosition":"interlanguage","wgWikibaseItemId":"Q8366"};RLSTATE={"ext.gadget.imagenesinfobox":"ready","ext.globalCssJs.user.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready",
+"ext.globalCssJs.user":"ready","user":"ready","user.options":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","ext.pygments":"ready","skins.vector.styles.legacy":"ready","mediawiki.toc.styles":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","wikibase.client.init":"ready"};RLPAGEMODULES=["ext.cite.ux-enhancements","ext.math.scripts","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","skins.vector.legacy.js","ext.gadget.a-commons-directo","ext.gadget.ReferenceTooltips","ext.gadget.refToolbar","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.compactlinks","ext.uls.interface","ext.cx.eventlogging.campaigns","ext.quicksurveys.init","ext.centralNotice.geoIP","ext.centralNotice.startUp"];</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.loader.implement("user.options@1hzgi",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});mw.user.options.set({"variant":"es"});
+});});</script>
+<link rel="stylesheet" href="assets/6493433a89a7e94dd3a9008d33ba7e39.css"/>
+<script async="" src="assets/8532ade5263291bbec023cbcc32e64ff.php"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="assets/b32d9096171b2f3d89b1a76b674653c9.css"/>
+<link rel="stylesheet" href="assets/2ce3a17a5093d86b73f93e840af34bca.css"/>
+<noscript><link rel="stylesheet" href="assets/40ab090647b856ed61869d60e9952ec2.css"/></noscript>
+<meta name="generator" content="MediaWiki 1.36.0-wmf.1"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<meta property="og:image" content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/LampFlowchart-es.svg/1200px-LampFlowchart-es.svg.png"/>
+<link rel="alternate" type="application/x-wiki" title="Editar" href="/w/index.php?title=Algoritmo&amp;action=edit"/>
+<link rel="edit" title="Editar" href="/w/index.php?title=Algoritmo&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (es)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//es.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="alternate" type="application/atom+xml" title="Canal Atom de Wikipedia" href="/w/index.php?title=Especial:CambiosRecientes&amp;feed=atom"/>
+<link rel="canonical" href="https://es.wikipedia.org/wiki/Algoritmo"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/resources/lib/html5shiv/html5shiv.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Algoritmo rootpage-Algoritmo skin-vector action-view skin-vector-legacy minerva--history-page-action-enabled">
+<div id="mw-page-base" class="noprint"></div>
+<div id="mw-head-base" class="noprint"></div>
+<div id="content" class="mw-body" role="main">
+	<a id="top"></a>
+	<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div>
+	<div class="mw-indicators mw-body-content">
+	</div>
+	<h1 id="firstHeading" class="firstHeading" lang="es">Algoritmo</h1>
+	<div id="bodyContent" class="mw-body-content">
+		<div id="siteSub" class="noprint">De Wikipedia, la enciclopedia libre</div>
+		<div id="contentSub"></div>
+		<div id="contentSub2"></div>
+		
+		<div id="jump-to-nav"></div>
+		<a class="mw-jump-link" href="#mw-head">Ir a la navegación</a>
+		<a class="mw-jump-link" href="#searchInput">Ir a la búsqueda</a>
+		<div id="mw-content-text" lang="es" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><div class="rellink noprint">No debe confundirse con <a href="/wiki/Logaritmo" title="Logaritmo">Logaritmo</a>.</div>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/Archivo:LampFlowchart-es.svg" class="image"><img alt="" src="assets/c648541936d3b8c7b68bf44d8043c57e.png" decoding="async" width="220" height="300" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/bd/LampFlowchart-es.svg/330px-LampFlowchart-es.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/bd/LampFlowchart-es.svg/440px-LampFlowchart-es.svg.png 2x" data-file-width="324" data-file-height="442" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:LampFlowchart-es.svg" class="internal" title="Aumentar"></a></div>Los <a href="/wiki/Diagrama_de_flujo" title="Diagrama de flujo">diagramas de flujo</a> sirven para representar algoritmos de manera gráfica</div></div></div>
+<p>En <a href="/wiki/Matem%C3%A1ticas" title="Matemáticas">matemáticas</a>, <a href="/wiki/L%C3%B3gica" title="Lógica">lógica</a>, <a href="/wiki/Ciencias_de_la_computaci%C3%B3n" title="Ciencias de la computación">ciencias de la computación</a> y disciplinas relacionadas, un <b>algoritmo</b> (del latín, <i>dixit algorithmus</i> y este del griego <i>arithmos</i>, que significa «número», quizá también con influencia del nombre del matemático persa <a href="/wiki/Al-Juarismi" title="Al-Juarismi">Al-Juarismi</a>)<sup id="cite_ref-Brassard_1-0" class="reference separada"><a href="#cite_note-Brassard-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>&#8203; es un conjunto de instrucciones o reglas definidas y no-ambiguas, ordenadas y finitas que permite, típicamente, solucionar un problema, realizar un cómputo, procesar datos y llevar a cabo otras tareas o actividades.<sup id="cite_ref-rae_2-0" class="reference separada"><a href="#cite_note-rae-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>&#8203; Dados un estado inicial y una entrada, siguiendo los pasos sucesivos se llega a un estado final y se obtiene una solución. Los algoritmos son el objeto de estudio de la <b>algoritmia</b>.<sup id="cite_ref-Brassard_1-1" class="reference separada"><a href="#cite_note-Brassard-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>&#8203;
+</p><p>En la vida cotidiana, se emplean algoritmos frecuentemente para resolver problemas determinados. Algunos ejemplos son los manuales de usuario, que muestran algoritmos para usar un aparato, o las instrucciones que recibe un trabajador de su <a href="/wiki/Empleador" title="Empleador">patrón</a>. Algunos ejemplos en <a href="/wiki/Matem%C3%A1tica" class="mw-redirect" title="Matemática">matemática</a> son el <a href="/wiki/Algoritmo_de_multiplicaci%C3%B3n" title="Algoritmo de multiplicación">algoritmo de multiplicación</a>, para <a href="/wiki/C%C3%A1lculo" title="Cálculo">calcular</a> el producto, el algoritmo de la <a href="/wiki/Divisi%C3%B3n_(matem%C3%A1ticas)" class="mw-redirect" title="División (matemáticas)">división</a> para calcular el cociente de dos números, el <a href="/wiki/Algoritmo_de_Euclides" title="Algoritmo de Euclides">algoritmo de Euclides</a> para obtener el <a href="/wiki/M%C3%A1ximo_com%C3%BAn_divisor" title="Máximo común divisor">máximo común divisor</a> de dos <a href="/wiki/N%C3%BAmeros_enteros" class="mw-redirect" title="Números enteros">enteros</a> positivos, o el <a href="/wiki/Eliminaci%C3%B3n_de_Gauss-Jordan" title="Eliminación de Gauss-Jordan">método de Gauss</a> para resolver un <a href="/wiki/Sistema_de_ecuaciones_lineales" title="Sistema de ecuaciones lineales">sistema de ecuaciones lineales</a>.
+</p><p>En términos de programación, un algoritmo es una secuencia de pasos lógicos que permiten solucionar un problema.
+</p>
+<div id="toc" class="toc" role="navigation" aria-labelledby="mw-toc-heading"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="es" dir="ltr"><h2 id="mw-toc-heading">Índice</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Definición"><span class="tocnumber">1</span> <span class="toctext">Definición</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Medios_de_expresión_de_un_algoritmo"><span class="tocnumber">2</span> <span class="toctext">Medios de expresión de un algoritmo</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Diagrama_de_flujo"><span class="tocnumber">2.1</span> <span class="toctext">Diagrama de flujo</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Pseudocódigo"><span class="tocnumber">2.2</span> <span class="toctext">Pseudocódigo</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Sistemas_formales"><span class="tocnumber">2.3</span> <span class="toctext">Sistemas formales</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Implementación"><span class="tocnumber">2.4</span> <span class="toctext">Implementación</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Variables"><span class="tocnumber">2.5</span> <span class="toctext">Variables</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Estructuras_secuenciales"><span class="tocnumber">2.6</span> <span class="toctext">Estructuras secuenciales</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Algoritmos_como_funciones"><span class="tocnumber">3</span> <span class="toctext">Algoritmos como funciones</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Análisis_de_algoritmos"><span class="tocnumber">4</span> <span class="toctext">Análisis de algoritmos</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Ejemplo_de_algoritmo"><span class="tocnumber">5</span> <span class="toctext">Ejemplo de algoritmo</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Descripción_de_alto_nivel"><span class="tocnumber">5.1</span> <span class="toctext">Descripción de alto nivel</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Descripción_formal"><span class="tocnumber">5.2</span> <span class="toctext">Descripción formal</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Implementación_2"><span class="tocnumber">5.3</span> <span class="toctext">Implementación</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Véase_también"><span class="tocnumber">6</span> <span class="toctext">Véase también</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#Tipos_de_algoritmos_según_su_función"><span class="tocnumber">6.1</span> <span class="toctext">Tipos de algoritmos según su función</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Técnicas_de_diseño_de_algoritmos"><span class="tocnumber">6.2</span> <span class="toctext">Técnicas de diseño de algoritmos</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Temas_relacionados"><span class="tocnumber">6.3</span> <span class="toctext">Temas relacionados</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Disciplinas_relacionadas"><span class="tocnumber">6.4</span> <span class="toctext">Disciplinas relacionadas</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-20"><a href="#Referencias"><span class="tocnumber">7</span> <span class="toctext">Referencias</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#Bibliografía"><span class="tocnumber">8</span> <span class="toctext">Bibliografía</span></a></li>
+<li class="toclevel-1 tocsection-22"><a href="#Enlaces_externos"><span class="tocnumber">9</span> <span class="toctext">Enlaces externos</span></a></li>
+</ul>
+</div>
+
+<h2><span id="Definici.C3.B3n"></span><span class="mw-headline" id="Definición">Definición</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Algoritmo&amp;action=edit&amp;section=1" title="Editar sección: Definición">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>En general, no existe ningún consenso definitivo en cuanto a la definición formal de algoritmo. Muchos autores los señalan como listas de instrucciones para resolver un <a href="/wiki/C%C3%A1lculo" title="Cálculo">cálculo</a> o un <a href="/wiki/Problema_abstracto" class="mw-redirect" title="Problema abstracto">problema abstracto</a>, es decir, que un número finito de pasos convierten los datos de un problema (entrada) en una solución (salida).<sup id="cite_ref-Brassard_1-2" class="reference separada"><a href="#cite_note-Brassard-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>&#8203;<sup id="cite_ref-rae_2-1" class="reference separada"><a href="#cite_note-rae-2"><span class="corchete-llamada">[</span>2<span class="corchete-llamada">]</span></a></sup>&#8203;<sup id="cite_ref-Cormen_3-0" class="reference separada"><a href="#cite_note-Cormen-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>&#8203;<sup id="cite_ref-Grimaldi_4-0" class="reference separada"><a href="#cite_note-Grimaldi-4"><span class="corchete-llamada">[</span>4<span class="corchete-llamada">]</span></a></sup>&#8203;<sup id="cite_ref-Johnsonbaugh_5-0" class="reference separada"><a href="#cite_note-Johnsonbaugh-5"><span class="corchete-llamada">[</span>5<span class="corchete-llamada">]</span></a></sup>&#8203;<sup id="cite_ref-Reynolds_6-0" class="reference separada"><a href="#cite_note-Reynolds-6"><span class="corchete-llamada">[</span>6<span class="corchete-llamada">]</span></a></sup>&#8203; Sin embargo cabe notar que algunos algoritmos no necesariamente tienen que terminar o resolver un problema en particular. Por ejemplo, una versión modificada de la <a href="/wiki/Criba_de_Erat%C3%B3stenes" title="Criba de Eratóstenes">criba de Eratóstenes</a> que nunca termine de calcular números primos no deja de ser un algoritmo.<sup id="cite_ref-Gurevich_7-0" class="reference separada"><a href="#cite_note-Gurevich-7"><span class="corchete-llamada">[</span>7<span class="corchete-llamada">]</span></a></sup>&#8203;
+</p><p>A lo largo de la historia varios autores han tratado de definir formalmente a los algoritmos utilizando modelos matemáticos. Esto fue realizado por <a href="/wiki/Alonzo_Church" title="Alonzo Church">Alonzo Church</a> en 1936 con el concepto de "calculabilidad efectiva" basada en su <a href="/wiki/C%C3%A1lculo_lambda" title="Cálculo lambda">cálculo lambda</a> y por <a href="/wiki/Alan_Turing" title="Alan Turing">Alan Turing</a> basándose en la <a href="/wiki/M%C3%A1quina_de_Turing" title="Máquina de Turing">máquina de Turing</a>. Los dos enfoques son equivalentes, en el sentido en que se pueden resolver exactamente los mismos problemas con ambos enfoques.<sup id="cite_ref-savage_8-0" class="reference separada"><a href="#cite_note-savage-8"><span class="corchete-llamada">[</span>8<span class="corchete-llamada">]</span></a></sup>&#8203;<sup id="cite_ref-sipser_9-0" class="reference separada"><a href="#cite_note-sipser-9"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup>&#8203; Sin embargo, estos modelos están sujetos a un tipo particular de datos como son números, símbolos o <a href="/wiki/Grafo" title="Grafo">gráficas</a> mientras que, en general, los algoritmos funcionan sobre una vasta cantidad de <a href="/wiki/Estructura_de_datos" title="Estructura de datos">estructuras de datos</a>.<sup id="cite_ref-Cormen_3-1" class="reference separada"><a href="#cite_note-Cormen-3"><span class="corchete-llamada">[</span>3<span class="corchete-llamada">]</span></a></sup>&#8203;<sup id="cite_ref-Brassard_1-3" class="reference separada"><a href="#cite_note-Brassard-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>&#8203; En general, la parte común en todas las definiciones se puede resumir en las siguientes tres propiedades siempre y cuando no consideremos <a href="/wiki/Algoritmo_paralelo" title="Algoritmo paralelo">algoritmos paralelos</a>:<sup id="cite_ref-Gurevich_7-1" class="reference separada"><a href="#cite_note-Gurevich-7"><span class="corchete-llamada">[</span>7<span class="corchete-llamada">]</span></a></sup>&#8203;
+</p>
+<ul><li>Tiempo secuencial. Un algoritmo funciona en tiempo discretizado –paso a paso–, definiendo así una secuencia de estados <i>computacionales</i> por cada entrada válida (la <i>entrada</i> son los datos que se le suministran al algoritmo antes de comenzar).</li>
+<li>Estado abstracto. Cada estado computacional puede ser descrito formalmente utilizando una <a href="/wiki/L%C3%B3gica_matem%C3%A1tica" title="Lógica matemática">estructura de primer orden</a> y cada algoritmo es independiente de su implementación (los algoritmos son objetos abstractos) de manera que en un algoritmo las estructuras de primer orden son invariantes bajo isomorfismo.</li>
+<li>Exploración acotada. La transición de un estado al siguiente queda completamente determinada por una descripción fija y finita; es decir, entre cada estado y el siguiente solamente se puede tomar en cuenta una cantidad fija y limitada de términos del estado actual.</li></ul>
+<p>En resumen, un algoritmo es cualquier cosa que funcione paso a paso, donde cada paso se pueda describir sin ambigüedad y sin hacer referencia a una computadora en particular, y además tiene un límite fijo en cuanto a la cantidad de datos que se pueden leer/escribir en un solo paso.
+Esta amplia definición abarca tanto a algoritmos prácticos como aquellos que solo funcionan en teoría, por ejemplo el <a href="/wiki/M%C3%A9todo_de_Newton" title="Método de Newton">método de Newton</a> y la <a href="/wiki/Eliminaci%C3%B3n_de_Gauss-Jordan" title="Eliminación de Gauss-Jordan">eliminación de Gauss-Jordan</a> funcionan, al menos en principio, con números de precisión infinita; sin embargo no es posible programar la precisión infinita en una computadora, y no por ello dejan de ser algoritmos.<sup id="cite_ref-Dershowitz_10-0" class="reference separada"><a href="#cite_note-Dershowitz-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>&#8203; En particular es posible considerar una cuarta propiedad que puede ser usada para validar la <a href="/wiki/Tesis_de_Church-Turing" title="Tesis de Church-Turing">tesis de Church-Turing</a> de que toda función calculable se puede programar en una máquina de Turing (o equivalentemente, en un lenguaje de programación suficientemente general):<sup id="cite_ref-Dershowitz_10-1" class="reference separada"><a href="#cite_note-Dershowitz-10"><span class="corchete-llamada">[</span>10<span class="corchete-llamada">]</span></a></sup>&#8203;
+</p>
+<ul><li>Aritmetizabilidad. Solamente operaciones innegablemente calculables están disponibles en el paso inicial.</li></ul>
+<h2><span id="Medios_de_expresi.C3.B3n_de_un_algoritmo"></span><span class="mw-headline" id="Medios_de_expresión_de_un_algoritmo">Medios de expresión de un algoritmo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Algoritmo&amp;action=edit&amp;section=2" title="Editar sección: Medios de expresión de un algoritmo">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Los algoritmos pueden ser expresados de muchas maneras, incluyendo al <a href="/wiki/Lenguaje_natural" title="Lenguaje natural">lenguaje natural</a>, <a href="/wiki/Pseudoc%C3%B3digo" title="Pseudocódigo">pseudocódigo</a>, <a href="/wiki/Diagramas_de_flujo" class="mw-redirect" title="Diagramas de flujo">diagramas de flujo</a> y <a href="/wiki/Lenguaje_de_programaci%C3%B3n" title="Lenguaje de programación">lenguajes de programación</a> entre otros. Las descripciones en lenguaje natural tienden a ser ambiguas y extensas. El usar pseudocódigo y diagramas de flujo evita muchas ambigüedades del lenguaje natural. Dichas expresiones son formas más estructuradas para representar algoritmos; no obstante, se mantienen independientes de un lenguaje de programación específico.
+</p><p>La descripción de un algoritmo usualmente se hace en tres niveles:
+</p>
+<ol><li>Descripción de alto nivel. Se establece el problema, se selecciona un modelo matemático y se explica el algoritmo de manera verbal, posiblemente con ilustraciones y omitiendo detalles.</li>
+<li>Descripción formal. Se usa pseudocódigo para describir la secuencia de pasos que encuentran la solución.</li>
+<li>Implementación. Se muestra el algoritmo expresado en un lenguaje de programación específico o algún objeto capaz de llevar a cabo instrucciones.</li></ol>
+<p>También es posible incluir un <a href="/wiki/Teorema" title="Teorema">teorema</a> que demuestre que el algoritmo es correcto, un análisis de complejidad o ambos.
+</p>
+<h3><span class="mw-headline" id="Diagrama_de_flujo">Diagrama de flujo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Algoritmo&amp;action=edit&amp;section=3" title="Editar sección: Diagrama de flujo">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright"><div class="thumbinner" style="width:222px;"><a href="/wiki/Archivo:AlgoritmoRaiz.png" class="image"><img alt="" src="assets/6c535677e8f387054c56a7ec05ebee72.png" decoding="async" width="220" height="315" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/2/26/AlgoritmoRaiz.png 1.5x" data-file-width="308" data-file-height="441" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:AlgoritmoRaiz.png" class="internal" title="Aumentar"></a></div><a href="/wiki/Diagrama_de_flujo" title="Diagrama de flujo">Diagrama de flujo</a> que expresa un algoritmo para calcular la raíz cuadrada de un número <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle x}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x}</annotation>
+  </semantics>
+</math></span><img src="assets/310f31110168b08daa28d564bc147a7b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.33ex; height:1.676ex;" alt="x"/></span></div></div></div>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Diagrama_de_flujo" title="Diagrama de flujo"> Diagrama de flujo</a></i></div>
+<p>Los diagramas de flujo son descripciones gráficas de algoritmos; usan símbolos conectados con flechas para indicar la secuencia de instrucciones y están regidos por <a href="/wiki/Organizaci%C3%B3n_Internacional_para_la_Estandarizaci%C3%B3n" class="mw-redirect" title="Organización Internacional para la Estandarización">ISO</a>.
+</p><p>Los diagramas de flujo son usados para representar algoritmos pequeños, ya que abarcan mucho espacio y su construcción es laboriosa. Por su facilidad de lectura son usados como introducción a los algoritmos, descripción de un lenguaje y descripción de procesos a personas ajenas a la computación.
+</p>
+<h3><span id="Pseudoc.C3.B3digo"></span><span class="mw-headline" id="Pseudocódigo">Pseudocódigo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Algoritmo&amp;action=edit&amp;section=4" title="Editar sección: Pseudocódigo">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Pseudoc%C3%B3digo" title="Pseudocódigo"> Pseudocódigo</a></i></div>
+<p>El pseudocódigo (<i>falso lenguaje</i>, el prefijo <i>pseudo</i> significa <i>falso</i>) es una descripción de alto nivel de un algoritmo que emplea una mezcla de lenguaje natural con algunas convenciones sintácticas propias de lenguajes de programación, como asignaciones, ciclos y condicionales, aunque no está regido por ningún estándar. 
+</p><p>El pseudocódigo está pensado para facilitar a las personas el entendimiento de un algoritmo, y por lo tanto puede omitir detalles irrelevantes que son necesarios en una implementación. Programadores diferentes suelen utilizar convenciones distintas, que pueden estar basadas en la sintaxis de lenguajes de programación concretos. Sin embargo, el pseudocódigo, en general, es comprensible sin necesidad de conocer o utilizar un entorno de programación específico, y es a la vez suficientemente estructurado para que su implementación se pueda hacer directamente a partir de él.
+</p><p>Así el pseudocódigo cumple con las funciones antes mencionadas para representar algo abstracto los protocolos son los lenguajes para la programación. Busque fuentes más precisas para tener mayor comprensión del tema.
+</p>
+<h3><span class="mw-headline" id="Sistemas_formales">Sistemas formales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Algoritmo&amp;action=edit&amp;section=5" title="Editar sección: Sistemas formales">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>La <a href="/wiki/Teor%C3%ADa_de_aut%C3%B3matas" title="Teoría de autómatas">teoría de autómatas</a> y la teoría de <a href="/wiki/Funci%C3%B3n_recursiva" title="Función recursiva">funciones recursivas</a> proveen modelos matemáticos que formalizan el concepto de <i>algoritmo</i>. Los modelos más comunes son la <a href="/wiki/M%C3%A1quina_de_Turing" title="Máquina de Turing">máquina de Turing</a>, <a href="/wiki/M%C3%A1quina_de_registro" title="Máquina de registro">máquina de registro</a> y <a href="/wiki/Funci%C3%B3n_recursiva" title="Función recursiva">funciones μ-recursivas</a>. Estos modelos son tan precisos como un <a href="/wiki/Lenguaje_m%C3%A1quina" class="mw-redirect" title="Lenguaje máquina">lenguaje máquina</a>, careciendo de expresiones coloquiales o ambigüedad, sin embargo se mantienen independientes de cualquier computadora y de cualquier implementación.
+</p>
+<h3><span id="Implementaci.C3.B3n"></span><span class="mw-headline" id="Implementación">Implementación</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Algoritmo&amp;action=edit&amp;section=6" title="Editar sección: Implementación">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Muchos algoritmos son ideados para implementarse en un <a href="/wiki/Programa_(computaci%C3%B3n)" class="mw-redirect" title="Programa (computación)">programa</a>. Sin embargo, los algoritmos pueden ser implementados en otros medios, como una <a href="/wiki/Red_neuronal_artificial" title="Red neuronal artificial">red neuronal</a>, un circuito eléctrico o un aparato mecánico y eléctrico. Algunos algoritmos inclusive se diseñan especialmente para implementarse usando lápiz y papel. El <a href="/wiki/Algoritmo_de_multiplicaci%C3%B3n" title="Algoritmo de multiplicación">algoritmo de multiplicación</a> tradicional, el <a href="/wiki/Algoritmo_de_Euclides" title="Algoritmo de Euclides">algoritmo de Euclides</a>, la <a href="/wiki/Criba_de_Erat%C3%B3stenes" title="Criba de Eratóstenes">criba de Eratóstenes</a> y muchas <a href="/wiki/Formas_de_resolver_la_ra%C3%ADz_cuadrada" class="mw-redirect" title="Formas de resolver la raíz cuadrada">formas de resolver la raíz cuadrada</a> son solo algunos ejemplos.
+</p>
+<h3><span class="mw-headline" id="Variables">Variables</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Algoritmo&amp;action=edit&amp;section=7" title="Editar sección: Variables">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Son elementos que toman valores específicos de un tipo de datos concreto. La declaración de una variable puede realizarse comenzando con <b>var</b>. Principalmente, existen dos maneras de otorgar valores iniciales a variables: 
+</p>
+<ol><li>Mediante una sentencia de asignación.</li>
+<li>Mediante un procedimiento de entrada de datos (por ejemplo: 'read').</li></ol>
+<p>Ejemplo:
+</p>
+<pre>     ...
+    i:=1;
+    read(n);
+    while i &lt; n do begin
+       (* cuerpo del bucle *)
+       i&#160;:= i + 1
+    end;
+     ...
+</pre>
+<h3><span class="mw-headline" id="Estructuras_secuenciales">Estructuras secuenciales</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Algoritmo&amp;action=edit&amp;section=8" title="Editar sección: Estructuras secuenciales">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>La estructura secuencial es aquella en la que una acción sigue a otra en secuencia. Las operaciones se suceden de tal modo que la salida de una es la entrada de la siguiente y así sucesivamente hasta el fin del proceso.
+La asignación de esto consiste, en el paso de valores o resultados a una zona de la memoria. Dicha zona será reconocida con el nombre de la variable que recibe el valor. La asignación se puede clasificar de la siguiente forma: 
+</p>
+<ol><li>Simples: Consiste en pasar un valor constante a una variable (a ← 15)</li>
+<li>Contador: Consiste en usarla como un verificador del número de veces que se realiza un proceso (a ← a + 1)</li>
+<li>Acumulador: Consiste en usarla como un sumador en un proceso (a ← a + b)</li>
+<li>De trabajo: Donde puede recibir el resultado de una operación matemática que involucre muchas variables (a ← c + b*1/2).</li></ol>
+<p>Un ejemplo de estructura secuencial, como obtener el área de un triángulo:
+</p>
+<pre>Inicio 
+...
+    float b, h, a;
+    printf("Diga la base");
+    scanf("%f", &amp;b);
+    printf("Diga la altura");
+    scanf("%f", &amp;h);
+    a = (b*h)/2;
+    printf("El área del triángulo es %f", a)
+...
+Fin
+</pre>
+<h2><span class="mw-headline" id="Algoritmos_como_funciones">Algoritmos como funciones</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Algoritmo&amp;action=edit&amp;section=9" title="Editar sección: Algoritmos como funciones">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/Teor%C3%ADa_de_la_computabilidad" title="Teoría de la computabilidad"> Teoría de la computabilidad</a></i></div>
+<div class="thumb tright"><div class="thumbinner" style="width:402px;"><a href="/wiki/Archivo:Esquem%C3%A1ticaAlgoritmo1.svg" class="image"><img alt="" src="assets/bf6dd6382f6896c031f22446d5941170.png" decoding="async" width="400" height="64" class="thumbimage" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Esquem%C3%A1ticaAlgoritmo1.svg/600px-Esquem%C3%A1ticaAlgoritmo1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Esquem%C3%A1ticaAlgoritmo1.svg/800px-Esquem%C3%A1ticaAlgoritmo1.svg.png 2x" data-file-width="1471" data-file-height="235" /></a>  <div class="thumbcaption"><div class="magnify"><a href="/wiki/Archivo:Esquem%C3%A1ticaAlgoritmo1.svg" class="internal" title="Aumentar"></a></div>Esquemática de un algoritmo que soluciona un problema de <a href="/wiki/Camino_hamiltoniano" title="Camino hamiltoniano">ciclo hamiltoniano</a></div></div></div><p>Un algoritmo se puede concebir como una <a href="/wiki/Funci%C3%B3n_matem%C3%A1tica" title="Función matemática">función</a> que transforma los datos de un <a href="/wiki/Problema_abstracto" class="mw-redirect" title="Problema abstracto">problema</a> (entrada) en los datos de una solución (salida). Mas aún, los datos se pueden representar a su vez como secuencias de <a href="/wiki/Bit" title="Bit">bits</a>, y en general, de símbolos cualesquiera.<sup id="cite_ref-Brassard_1-4" class="reference separada"><a href="#cite_note-Brassard-1"><span class="corchete-llamada">[</span>1<span class="corchete-llamada">]</span></a></sup>&#8203;<sup id="cite_ref-sipser_9-1" class="reference separada"><a href="#cite_note-sipser-9"><span class="corchete-llamada">[</span>9<span class="corchete-llamada">]</span></a></sup>&#8203;<sup id="cite_ref-Kelley_11-0" class="reference separada"><a href="#cite_note-Kelley-11"><span class="corchete-llamada">[</span>11<span class="corchete-llamada">]</span></a></sup>&#8203; Como cada secuencia de bits representa a un <a href="/wiki/N%C3%BAmero_natural" title="Número natural">número natural</a> (véase <a href="/wiki/Sistema_binario" title="Sistema binario">Sistema binario</a>), entonces los algoritmos son en esencia funciones de los números naturales en los números naturales que sí se pueden calcular. Es decir que todo algoritmo calcula una función <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle f:\mathbf {N} \to \mathbf {N} }">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>f</mi>
+        <mo>:</mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="bold">N</mi>
+        </mrow>
+        <mo stretchy="false">&#x2192;<!-- → --></mo>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mi mathvariant="bold">N</mi>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle f:\mathbf {N} \to \mathbf {N} }</annotation>
+  </semantics>
+</math></span><img src="assets/c7e52f81ff92d2ba792b2dd2cfa49291" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:11.013ex; height:2.509ex;" alt="{\displaystyle f:\mathbf {N} \to \mathbf {N} }"/></span> donde cada número natural es la <a href="/wiki/Teor%C3%ADa_de_c%C3%B3digos" title="Teoría de códigos">codificación</a> de un problema o de una solución.
+</p><p>En ocasiones los algoritmos son susceptibles de nunca terminar, por ejemplo, cuando entran a un <a href="/wiki/Bucle_infinito" title="Bucle infinito">bucle infinito</a>. Cuando esto ocurre, el algoritmo nunca devuelve ningún valor de salida, y podemos decir que la función queda indefinida para ese valor de entrada. Por esta razón se considera que los algoritmos son <a href="/wiki/Funci%C3%B3n_parcial" title="Función parcial">funciones parciales</a>, es decir, no necesariamente definidas en todo su <a href="/wiki/Dominio_de_definici%C3%B3n" title="Dominio de definición">dominio de definición</a>.
+</p><p>Cuando una función puede ser calculada por medios algorítmicos, sin importar la cantidad de memoria que ocupe o el tiempo que se tarde, se dice que dicha función es <a href="/wiki/Funci%C3%B3n_computable" title="Función computable">computable</a>. No todas las funciones entre secuencias datos son computables. El <a href="/wiki/Problema_de_la_parada" title="Problema de la parada">problema de la parada</a> es un ejemplo.
+</p>
+<h2><span id="An.C3.A1lisis_de_algoritmos"></span><span class="mw-headline" id="Análisis_de_algoritmos">Análisis de algoritmos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Algoritmo&amp;action=edit&amp;section=10" title="Editar sección: Análisis de algoritmos">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="noprint AP rellink"><span style="font-size:88%">Artículo principal:</span>&#32;<i><a href="/wiki/An%C3%A1lisis_de_algoritmos" title="Análisis de algoritmos"> Análisis de algoritmos</a></i></div>
+<p>Como medida de la eficiencia de un algoritmo, se suelen estudiar los recursos (memoria y tiempo) que consume el algoritmo. El análisis de algoritmos se ha desarrollado para obtener valores que de alguna forma indiquen (o especifiquen) la evolución del gasto de tiempo y memoria en función del tamaño de los valores de entrada.
+</p><p>El análisis y estudio de los algoritmos es una disciplina de las <a href="/wiki/Ciencias_de_la_computacion" class="mw-redirect" title="Ciencias de la computacion">ciencias de la computación</a> y, en la mayoría de los casos, su estudio es completamente abstracto sin usar ningún tipo de <a href="/wiki/Lenguaje_de_programaci%C3%B3n" title="Lenguaje de programación">lenguaje de programación</a> ni cualquier otra implementación; por eso, en ese sentido, comparte las características de las disciplinas matemáticas. Así, el análisis de los algoritmos se centra en los principios básicos del algoritmo, no en los de la implementación particular. Una forma de plasmar (o algunas veces "codificar") un algoritmo es escribirlo en <a href="/wiki/Pseudoc%C3%B3digo" title="Pseudocódigo">pseudocódigo</a> o utilizar un lenguaje muy simple tal como <a href="/wiki/Lexico" title="Lexico">Lexico</a>, cuyos códigos pueden estar en el idioma del programador.
+</p><p>Algunos escritores restringen la definición de algoritmo a procedimientos que deben acabar en algún momento, mientras que otros consideran procedimientos que podrían ejecutarse eternamente sin pararse, suponiendo el caso en el que existiera algún dispositivo físico que fuera capaz de funcionar eternamente. En este último caso, la finalización con éxito del algoritmo no se podría definir como la terminación de este con una salida satisfactoria, sino que el éxito estaría definido en función de las secuencias de salidas dadas durante un periodo de vida de la ejecución del algoritmo. Por ejemplo, un algoritmo que verifica que hay más ceros que unos en una secuencia <a href="/wiki/C%C3%B3digo_binario" title="Código binario">binaria</a> infinita debe ejecutarse siempre para que pueda devolver un valor útil. Si se implementa correctamente, el valor devuelto por el algoritmo será válido, hasta que evalúe el siguiente dígito binario. De esta forma, mientras evalúa la siguiente secuencia podrán leerse dos tipos de señales: una señal positiva (en el caso de que el número de ceros sea mayor que el de unos) y una negativa en caso contrario. Finalmente, la salida de este algoritmo se define como la devolución de valores exclusivamente positivos si hay más ceros que unos en la secuencia y, en cualquier otro caso, devolverá una mezcla de señales positivas y negativas.
+</p>
+<h2><span class="mw-headline" id="Ejemplo_de_algoritmo">Ejemplo de algoritmo</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Algoritmo&amp;action=edit&amp;section=11" title="Editar sección: Ejemplo de algoritmo">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>El problema consiste en encontrar el máximo de un conjunto de números. Para un ejemplo más complejo véase <a href="/wiki/Algoritmo_de_Euclides" title="Algoritmo de Euclides">Algoritmo de Euclides</a>.
+</p>
+<h3><span id="Descripci.C3.B3n_de_alto_nivel"></span><span class="mw-headline" id="Descripción_de_alto_nivel">Descripción de alto nivel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Algoritmo&amp;action=edit&amp;section=12" title="Editar sección: Descripción de alto nivel">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Dado un <a href="/wiki/Conjunto" title="Conjunto">conjunto</a> finito <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle C}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>C</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle C}</annotation>
+  </semantics>
+</math></span><img src="assets/f7cf51de00557a5102a0989ecc84dfab" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.766ex; height:2.176ex;" alt="C"/></span> de números, se tiene el problema de encontrar el número más grande. Sin pérdida de generalidad se puede asumir que dicho conjunto no es vacío y que sus elementos están numerados como <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle c_{0},c_{1},\dots ,c_{n}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>c</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <msub>
+          <mi>c</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <mo>&#x2026;<!-- … --></mo>
+        <mo>,</mo>
+        <msub>
+          <mi>c</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle c_{0},c_{1},\dots ,c_{n}}</annotation>
+  </semantics>
+</math></span><img src="assets/e2fff8f34ec5ec603e9901b04675c579" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:12.56ex; height:2.009ex;" alt="{\displaystyle c_{0},c_{1},\dots ,c_{n}}"/></span>.
+</p><p>Es decir, dado un conjunto <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle C=\{c_{0},c_{1},\dots ,c_{n}\}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>C</mi>
+        <mo>=</mo>
+        <mo fence="false" stretchy="false">{</mo>
+        <msub>
+          <mi>c</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <msub>
+          <mi>c</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>1</mn>
+          </mrow>
+        </msub>
+        <mo>,</mo>
+        <mo>&#x2026;<!-- … --></mo>
+        <mo>,</mo>
+        <msub>
+          <mi>c</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>n</mi>
+          </mrow>
+        </msub>
+        <mo fence="false" stretchy="false">}</mo>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle C=\{c_{0},c_{1},\dots ,c_{n}\}}</annotation>
+  </semantics>
+</math></span><img src="assets/a7234a6afeb75cf689d245ebfc43849e" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:19.749ex; height:2.843ex;" alt="{\displaystyle C=\{c_{0},c_{1},\dots ,c_{n}\}}"/></span> se pide encontrar <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle m}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>m</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle m}</annotation>
+  </semantics>
+</math></span><img src="assets/cd398075fb75b693aa8d7aa30b750c8c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.04ex; height:1.676ex;" alt="m"/></span> tal que <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle x\leq m}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+        <mo>&#x2264;<!-- ≤ --></mo>
+        <mi>m</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x\leq m}</annotation>
+  </semantics>
+</math></span><img src="assets/0b9e04b3492be2b5cc169c780fb9c407" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.505ex; width:6.469ex; height:2.176ex;" alt="{\displaystyle x\leq m}"/></span> para todo elemento <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle x}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x}</annotation>
+  </semantics>
+</math></span><img src="assets/310f31110168b08daa28d564bc147a7b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.33ex; height:1.676ex;" alt="x"/></span> que pertenece al conjunto <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle C}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>C</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle C}</annotation>
+  </semantics>
+</math></span><img src="assets/f7cf51de00557a5102a0989ecc84dfab" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.766ex; height:2.176ex;" alt="C"/></span>.
+</p><p>Para encontrar el elemento máximo, se asume que el primer elemento (<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle c_{0}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>c</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle c_{0}}</annotation>
+  </semantics>
+</math></span><img src="assets/d3059d8a398eebc0775c28350aa9e5c3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.061ex; height:2.009ex;" alt="c_{0}"/></span>) es el máximo; luego, se recorre el conjunto y se compara cada valor con el valor del máximo número encontrado hasta ese momento. En el caso que un elemento sea mayor que el máximo, se asigna su valor al máximo. Cuando se termina de recorrer la lista, el máximo número que se ha encontrado es el máximo de todo el conjunto.
+</p>
+<h3><span id="Descripci.C3.B3n_formal"></span><span class="mw-headline" id="Descripción_formal">Descripción formal</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Algoritmo&amp;action=edit&amp;section=13" title="Editar sección: Descripción formal">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>El algoritmo puede ser escrito de una manera más formal en el siguiente <a href="/wiki/Pseudoc%C3%B3digo" title="Pseudocódigo">pseudocódigo</a>:
+</p>
+<table class="wikitable" style="background:white;">
+<tbody><tr>
+<td><b>Algoritmo </b> Encontrar el máximo de un conjunto
+</td></tr>
+<tr>
+<td>
+<p><b>función</b> max(<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle C}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>C</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle C}</annotation>
+  </semantics>
+</math></span><img src="assets/f7cf51de00557a5102a0989ecc84dfab" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.766ex; height:2.176ex;" alt="C"/></span>)
+</p>
+<dl><dd>//<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle C}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>C</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle C}</annotation>
+  </semantics>
+</math></span><img src="assets/f7cf51de00557a5102a0989ecc84dfab" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.766ex; height:2.176ex;" alt="C"/></span> es un conjunto no vacío de números//</dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle n}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>n</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+  </semantics>
+</math></span><img src="assets/f49cf2de85b79c8bb51ea33ee4cec7d9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.395ex; height:1.676ex;" alt="n"/></span> ← <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle |C|}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mi>C</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle |C|}</annotation>
+  </semantics>
+</math></span><img src="assets/1b44cd98855a1428482d87996bf473e7" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:3.06ex; height:2.843ex;" alt="{\displaystyle |C|}"/></span> //<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle |C|}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+        <mi>C</mi>
+        <mrow class="MJX-TeXAtom-ORD">
+          <mo stretchy="false">|</mo>
+        </mrow>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle |C|}</annotation>
+  </semantics>
+</math></span><img src="assets/1b44cd98855a1428482d87996bf473e7" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.838ex; width:3.06ex; height:2.843ex;" alt="{\displaystyle |C|}"/></span> es el número de elementos de <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle C}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>C</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle C}</annotation>
+  </semantics>
+</math></span><img src="assets/f7cf51de00557a5102a0989ecc84dfab" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.766ex; height:2.176ex;" alt="C"/></span>//</dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle m}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>m</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle m}</annotation>
+  </semantics>
+</math></span><img src="assets/cd398075fb75b693aa8d7aa30b750c8c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.04ex; height:1.676ex;" alt="m"/></span> ← <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle c_{0}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>c</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mn>0</mn>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle c_{0}}</annotation>
+  </semantics>
+</math></span><img src="assets/d3059d8a398eebc0775c28350aa9e5c3" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:2.061ex; height:2.009ex;" alt="c_{0}"/></span></dd>
+<dd><b>para</b> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle i}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>i</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle i}</annotation>
+  </semantics>
+</math></span><img src="assets/e637a2856bf37989187470cae8299dcb" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:0.802ex; height:2.176ex;" alt="i"/></span> ← <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle 1}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mn>1</mn>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle 1}</annotation>
+  </semantics>
+</math></span><img src="assets/fab989dc383ab24b5c1edbaa707f96cf" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.162ex; height:2.176ex;" alt="1"/></span> <b>hasta</b> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle n}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>n</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle n}</annotation>
+  </semantics>
+</math></span><img src="assets/f49cf2de85b79c8bb51ea33ee4cec7d9" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.395ex; height:1.676ex;" alt="n"/></span> <b>hacer</b>
+<dl><dd><b>si</b> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle c_{i}&gt;m}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>c</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+        <mo>&gt;</mo>
+        <mi>m</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle c_{i}&gt;m}</annotation>
+  </semantics>
+</math></span><img src="assets/bcf8db51848eb57adfc6ee3985ab3f69" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:6.945ex; height:2.176ex;" alt="{\displaystyle c_{i}&gt;m}"/></span> <b>entonces</b>
+<dl><dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle m}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>m</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle m}</annotation>
+  </semantics>
+</math></span><img src="assets/cd398075fb75b693aa8d7aa30b750c8c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.04ex; height:1.676ex;" alt="m"/></span> ← <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle c_{i}}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <msub>
+          <mi>c</mi>
+          <mrow class="MJX-TeXAtom-ORD">
+            <mi>i</mi>
+          </mrow>
+        </msub>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle c_{i}}</annotation>
+  </semantics>
+</math></span><img src="assets/fa96aa52e8a7f4305e23f8fc40f1733f" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.671ex; width:1.807ex; height:2.009ex;" alt="c_i"/></span></dd></dl></dd></dl></dd>
+<dd><b>devolver</b> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle m}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>m</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle m}</annotation>
+  </semantics>
+</math></span><img src="assets/cd398075fb75b693aa8d7aa30b750c8c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.04ex; height:1.676ex;" alt="m"/></span></dd></dl>
+</td></tr></tbody></table>
+<p>Sobre la notación:
+</p>
+<ul><li>"←" representa una asignación: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle m}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>m</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle m}</annotation>
+  </semantics>
+</math></span><img src="assets/cd398075fb75b693aa8d7aa30b750c8c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.04ex; height:1.676ex;" alt="m"/></span> ← <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle x}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x}</annotation>
+  </semantics>
+</math></span><img src="assets/310f31110168b08daa28d564bc147a7b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.33ex; height:1.676ex;" alt="x"/></span> significa que la variable <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle m}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>m</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle m}</annotation>
+  </semantics>
+</math></span><img src="assets/cd398075fb75b693aa8d7aa30b750c8c" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:2.04ex; height:1.676ex;" alt="m"/></span> toma el valor de <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle x}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>x</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle x}</annotation>
+  </semantics>
+</math></span><img src="assets/310f31110168b08daa28d564bc147a7b" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.33ex; height:1.676ex;" alt="x"/></span>;</li>
+<li>"<b>devolver</b>" termina el algoritmo y devuelve el valor a su derecha (en este caso, el máximo de <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="assets/03dc2db4ac34a8b7adc2f4095fed2fb9"  alttext="{\displaystyle C}">
+  <semantics>
+    <mrow class="MJX-TeXAtom-ORD">
+      <mstyle displaystyle="true" scriptlevel="0">
+        <mi>C</mi>
+      </mstyle>
+    </mrow>
+    <annotation encoding="application/x-tex">{\displaystyle C}</annotation>
+  </semantics>
+</math></span><img src="assets/f7cf51de00557a5102a0989ecc84dfab" class="mwe-math-fallback-image-inline" aria-hidden="true" style="vertical-align: -0.338ex; width:1.766ex; height:2.176ex;" alt="C"/></span>).</li></ul>
+<h3><span id="Implementaci.C3.B3n_2"></span><span class="mw-headline" id="Implementación_2">Implementación</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Algoritmo&amp;action=edit&amp;section=14" title="Editar sección: Implementación">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>En lenguaje <a href="/wiki/C%2B%2B" title="C++">C++</a>:
+</p>
+<div class="mw-highlight mw-highlight-lang-c mw-content-ltr" dir="ltr"><pre><span></span><span class="kt">int</span> <span class="nf">max</span><span class="p">(</span><span class="kt">int</span> <span class="n">c</span><span class="p">[],</span> <span class="kt">int</span> <span class="n">n</span><span class="p">)</span>
+<span class="p">{</span>
+   <span class="kt">int</span> <span class="n">i</span><span class="p">,</span> <span class="n">m</span> <span class="o">=</span> <span class="n">c</span><span class="p">[</span><span class="mi">0</span><span class="p">];</span>
+   <span class="k">for</span> <span class="p">(</span><span class="n">i</span> <span class="o">=</span> <span class="mi">1</span><span class="p">;</span> <span class="n">i</span> <span class="o">&lt;</span> <span class="n">n</span><span class="p">;</span> <span class="n">i</span><span class="o">++</span><span class="p">)</span>
+      <span class="k">if</span> <span class="p">(</span><span class="n">c</span><span class="p">[</span><span class="n">i</span><span class="p">]</span> <span class="o">&gt;</span> <span class="n">m</span><span class="p">)</span> <span class="n">m</span> <span class="o">=</span> <span class="n">c</span><span class="p">[</span><span class="n">i</span><span class="p">];</span>
+   <span class="k">return</span> <span class="n">m</span><span class="p">;</span>
+<span class="p">}</span>
+</pre></div>
+<h2><span id="V.C3.A9ase_tambi.C3.A9n"></span><span class="mw-headline" id="Véase_también">Véase también</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Algoritmo&amp;action=edit&amp;section=15" title="Editar sección: Véase también">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span id="Tipos_de_algoritmos_seg.C3.BAn_su_funci.C3.B3n"></span><span class="mw-headline" id="Tipos_de_algoritmos_según_su_función">Tipos de algoritmos según su función</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Algoritmo&amp;action=edit&amp;section=16" title="Editar sección: Tipos de algoritmos según su función">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Algoritmo_de_ordenamiento" title="Algoritmo de ordenamiento">Algoritmo de ordenamiento</a></li>
+<li><a href="/wiki/Algoritmo_de_b%C3%BAsqueda" title="Algoritmo de búsqueda">Algoritmo de búsqueda</a></li></ul>
+<h3><span id="T.C3.A9cnicas_de_dise.C3.B1o_de_algoritmos"></span><span class="mw-headline" id="Técnicas_de_diseño_de_algoritmos">Técnicas de diseño de algoritmos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Algoritmo&amp;action=edit&amp;section=17" title="Editar sección: Técnicas de diseño de algoritmos">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Algoritmo_voraz" title="Algoritmo voraz">Algoritmos voraces</a> (greedy): seleccionan los elementos más prometedores del conjunto de candidatos hasta encontrar una solución. En la mayoría de los casos la solución no es óptima.</li>
+<li><a href="/wiki/Algoritmos_paralelos" class="mw-redirect" title="Algoritmos paralelos">Algoritmos paralelos</a>: permiten la división de un problema en subproblemas de forma que se puedan ejecutar de forma simultánea en varios procesadores.</li>
+<li><a href="/wiki/Algoritmo_probabil%C3%ADstico" class="mw-redirect" title="Algoritmo probabilístico">Algoritmos probabilísticos</a>: algunos de los pasos de este tipo de algoritmos están en función de valores <a href="/w/index.php?title=Pseudoaleatoriedad&amp;action=edit&amp;redlink=1" class="new" title="Pseudoaleatoriedad (aún no redactado)">pseudoaleatorios</a>.</li>
+<li><a href="/wiki/Algoritmo_determin%C3%ADstico" class="mw-redirect" title="Algoritmo determinístico">Algoritmos determinísticos</a>: el comportamiento del algoritmo es lineal: cada paso del algoritmo tiene únicamente un paso sucesor y otro antecesor.</li>
+<li><a href="/wiki/Algoritmo_no_determin%C3%ADstico" class="mw-redirect" title="Algoritmo no determinístico">Algoritmos no determinísticos</a>: el comportamiento del algoritmo tiene forma de árbol y a cada paso del algoritmo puede bifurcarse a cualquier número de pasos inmediatamente posteriores, además todas las ramas se ejecutan simultáneamente.</li>
+<li><a href="/wiki/Divide_y_vencer%C3%A1s" title="Divide y vencerás">Divide y vencerás</a>: dividen el problema en subconjuntos disjuntos obteniendo una solución de cada uno de ellos para después unirlas, logrando así la solución al problema completo.</li>
+<li><a href="/wiki/Metaheur%C3%ADsticas" class="mw-redirect" title="Metaheurísticas">Metaheurísticas</a>: encuentran soluciones aproximadas (no óptimas) a problemas basándose en un conocimiento anterior (a veces llamado experiencia) de los mismos.</li>
+<li><a href="/wiki/Programaci%C3%B3n_din%C3%A1mica_(computaci%C3%B3n)" class="mw-redirect" title="Programación dinámica (computación)">Programación dinámica</a>: intenta resolver problemas disminuyendo su coste computacional aumentando el coste espacial.</li>
+<li><a href="/wiki/Ramificaci%C3%B3n_y_acotaci%C3%B3n" class="mw-redirect" title="Ramificación y acotación">Ramificación y acotación</a>: se basa en la construcción de las soluciones al problema mediante un árbol implícito que se recorre de forma controlada encontrando las mejores soluciones.</li>
+<li><a href="/wiki/Vuelta_atr%C3%A1s" title="Vuelta atrás">Vuelta atrás</a> (backtracking): se construye el espacio de soluciones del problema en un árbol que se examina completamente, almacenando las soluciones menos costosas.</li></ul>
+<h3><span class="mw-headline" id="Temas_relacionados">Temas relacionados</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Algoritmo&amp;action=edit&amp;section=18" title="Editar sección: Temas relacionados">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Cota_inferior_asint%C3%B3tica" title="Cota inferior asintótica">Cota inferior asintótica</a></li>
+<li><a href="/wiki/Cota_ajustada_asint%C3%B3tica" title="Cota ajustada asintótica">Cota ajustada asintótica</a></li>
+<li><a href="/wiki/Complejidad_computacional" class="mw-redirect" title="Complejidad computacional">Complejidad computacional</a></li>
+<li><a href="/wiki/Diagrama_de_flujo" title="Diagrama de flujo">Diagramas de flujo</a></li>
+<li><a href="/wiki/Diagrama_Nassi-Shneiderman" title="Diagrama Nassi-Shneiderman">Diagrama Nassi-Shneiderman</a></li>
+<li><a href="/wiki/M%C3%A1quina_de_Turing" title="Máquina de Turing">Máquina de Turing</a></li></ul>
+<h3><span class="mw-headline" id="Disciplinas_relacionadas">Disciplinas relacionadas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Algoritmo&amp;action=edit&amp;section=19" title="Editar sección: Disciplinas relacionadas">editar</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul><li><a href="/wiki/Ciencias_de_la_Computaci%C3%B3n" class="mw-redirect" title="Ciencias de la Computación">Ciencias de la Computación</a></li>
+<li><a href="/wiki/An%C3%A1lisis_de_algoritmos" title="Análisis de algoritmos">Análisis de algoritmos</a></li>
+<li><a href="/wiki/Complejidad_computacional" class="mw-redirect" title="Complejidad computacional">Complejidad computacional</a></li>
+<li><a href="/wiki/Inform%C3%A1tica" title="Informática">Informática</a></li>
+<li><a href="/wiki/Inteligencia_artificial" title="Inteligencia artificial">Inteligencia artificial</a></li>
+<li><a href="/wiki/Investigaci%C3%B3n_operativa" class="mw-redirect" title="Investigación operativa">Investigación operativa</a></li>
+<li><a href="/wiki/Matem%C3%A1ticas" title="Matemáticas">Matemáticas</a></li>
+<li><a href="/wiki/Programaci%C3%B3n" title="Programación">Programación</a></li></ul>
+<h2><span class="mw-headline" id="Referencias">Referencias</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Algoritmo&amp;action=edit&amp;section=20" title="Editar sección: Referencias">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="listaref" style="list-style-type: decimal;"><ol class="references">
+<li id="cite_note-Brassard-1"><span class="mw-cite-backlink">↑ <a href="#cite_ref-Brassard_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Brassard_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Brassard_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Brassard_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Brassard_1-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><span id="CITAREFBrassard,_Gilles;_Bratley,_Paul1997" class="citation libro">Brassard, Gilles; Bratley, Paul (1997). <i>Fundamentos de Algoritmia</i>. Madrid: PRENTICE HALL. <small><a href="/wiki/Especial:FuentesDeLibros/848966000X" class="internal mw-magiclink-isbn">ISBN 84-89660-00-X</a></small>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AAlgoritmo&amp;rft.au=Brassard%2C+Gilles%3B+Bratley%2C+Paul&amp;rft.aulast=Brassard%2C+Gilles%3B+Bratley%2C+Paul&amp;rft.btitle=Fundamentos+de+Algoritmia&amp;rft.date=1997&amp;rft.genre=book&amp;rft.pub=Madrid%3A+PRENTICE+HALL&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-rae-2"><span class="mw-cite-backlink">↑ <a href="#cite_ref-rae_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-rae_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://buscon.rae.es/draeI/SrvltGUIBusUsual?TIPO_HTML=2&amp;TIPO_BUS=3&amp;LEMA=algoritmo">Real Academia Española. Diccionario de la lengua española</a> "<i>Conjunto ordenado y finito de operaciones que permite hallar la solución de un problema.</i>" </span>
+</li>
+<li id="cite_note-Cormen-3"><span class="mw-cite-backlink">↑ <a href="#cite_ref-Cormen_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Cormen_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span id="CITAREFCormenLeiserson,_CharlesRivest,_RonaldStein,_Clifford2009" class="citation libro"><a href="/wiki/Thomas_H._Cormen" title="Thomas H. Cormen">Cormen, Thomas</a>; Leiserson, Charles; Rivest, Ronald; Stein, Clifford (2009). <i>Introduction to algorithms</i>. Cambridge, Massachusetts: The <a href="/wiki/MIT_Press" title="MIT Press">MIT Press</a>. <small><a href="/wiki/Especial:FuentesDeLibros/9780262533058" class="internal mw-magiclink-isbn">ISBN 978-0-262-53305-8</a></small>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AAlgoritmo&amp;rft.au=Cormen%2C+Thomas&amp;rft.au=Leiserson%2C+Charles&amp;rft.au=Rivest%2C+Ronald&amp;rft.au=Stein%2C+Clifford&amp;rft.aufirst=Thomas&amp;rft.aulast=Cormen&amp;rft.btitle=Introduction+to+algorithms&amp;rft.date=2009&amp;rft.genre=book&amp;rft.pub=Cambridge%2C+Massachusetts%3A+The+MIT+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-Grimaldi-4"><span class="mw-cite-backlink"><a href="#cite_ref-Grimaldi_4-0">↑</a></span> <span class="reference-text"><span id="CITAREFRalph_P._Grimaldi1998" class="citation libro">Ralph P. Grimaldi (1998). «Propiedades de los números enteros: Inducción matemática». <i>Matemáticas Discreta y Combinatoria</i>. México: Addison Wesley Longman de México. <small><a href="/wiki/Especial:FuentesDeLibros/9684443242" class="internal mw-magiclink-isbn">ISBN 968-444-324-2</a></small>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AAlgoritmo&amp;rft.atitle=Matem%C3%A1ticas+Discreta+y+Combinatoria&amp;rft.au=Ralph+P.+Grimaldi&amp;rft.aulast=Ralph+P.+Grimaldi&amp;rft.btitle=Propiedades+de+los+n%C3%BAmeros+enteros%3A+Inducci%C3%B3n+matem%C3%A1tica&amp;rft.date=1998&amp;rft.genre=bookitem&amp;rft.pub=M%C3%A9xico%3A+Addison+Wesley+Longman+de+M%C3%A9xico&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-Johnsonbaugh-5"><span class="mw-cite-backlink"><a href="#cite_ref-Johnsonbaugh_5-0">↑</a></span> <span class="reference-text"><span id="CITAREFJohnsonbaugh,_Richard2005" class="citation libro">Johnsonbaugh, Richard (2005). «Introducción a la teoría de números». <i>Matemáticas Discretas</i>. México: PEARSON EDUCACIÓN. <small><a href="/wiki/Especial:FuentesDeLibros/9702606373" class="internal mw-magiclink-isbn">ISBN 970-26-0637-3</a></small>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AAlgoritmo&amp;rft.atitle=Matem%C3%A1ticas+Discretas&amp;rft.au=Johnsonbaugh%2C+Richard&amp;rft.aulast=Johnsonbaugh%2C+Richard&amp;rft.btitle=Introducci%C3%B3n+a+la+teor%C3%ADa+de+n%C3%BAmeros&amp;rft.date=2005&amp;rft.genre=bookitem&amp;rft.pub=M%C3%A9xico%3A+PEARSON+EDUCACI%C3%93N&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-Reynolds-6"><span class="mw-cite-backlink"><a href="#cite_ref-Reynolds_6-0">↑</a></span> <span class="reference-text"><span id="CITAREFCarl_Reynolds_&amp;_Paul_Tymann2008" class="citation libro">Carl Reynolds &amp; Paul Tymann (2008). <i>Schaum's Outline of Principles of Computer Science</i>. McGraw-Hill. <small><a href="/wiki/Especial:FuentesDeLibros/9780071460514" class="internal mw-magiclink-isbn">ISBN 978-0-07-146051-4</a></small>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AAlgoritmo&amp;rft.au=Carl+Reynolds+%26+Paul+Tymann&amp;rft.aulast=Carl+Reynolds+%26+Paul+Tymann&amp;rft.btitle=Schaum%27s+Outline+of+Principles+of+Computer+Science&amp;rft.date=2008&amp;rft.genre=book&amp;rft.pub=McGraw-Hill&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-Gurevich-7"><span class="mw-cite-backlink">↑ <a href="#cite_ref-Gurevich_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Gurevich_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span id="CITAREFGurevich,_Yuri2000" class="citation publicación">Gurevich, Yuri (2000). <a rel="nofollow" class="external text" href="http://research.microsoft.com/en-us/um/people/gurevich/Opera/141.pdf">«Sequential Abstract State Machines capture Sequential Algorithms»</a>. <i>ACM Transactions on Computational Logic</i> <b>1</b> (1): 77-111. <small><a href="/wiki/ISSN" class="mw-redirect" title="ISSN">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//issn.org/resource/issn/1529-3785">1529-3785</a></small>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AAlgoritmo&amp;rft.atitle=Sequential+Abstract+State+Machines+capture+Sequential+Algorithms&amp;rft.au=Gurevich%2C+Yuri&amp;rft.aulast=Gurevich%2C+Yuri&amp;rft.date=2000&amp;rft.genre=article&amp;rft.issn=1529-3785&amp;rft.issue=1&amp;rft.jtitle=ACM+Transactions+on+Computational+Logic&amp;rft.pages=77-111&amp;rft.volume=1&amp;rft_id=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fgurevich%2FOpera%2F141.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-savage-8"><span class="mw-cite-backlink"><a href="#cite_ref-savage_8-0">↑</a></span> <span class="reference-text"><span id="CITAREFJohn_E._Savage1987" class="citation libro">John E. Savage (1987). <i>The Complexity of Computing</i>. Krieger Publishing Co. <small><a href="/wiki/ISBN" title="ISBN">ISBN</a>&#160;<a href="/wiki/Especial:FuentesDeLibros/089874833X" title="Especial:FuentesDeLibros/089874833X">089874833X</a></small>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AAlgoritmo&amp;rft.au=John+E.+Savage&amp;rft.aulast=John+E.+Savage&amp;rft.btitle=The+Complexity+of+Computing&amp;rft.date=1987&amp;rft.genre=book&amp;rft.isbn=089874833X&amp;rft.pub=Krieger+Publishing+Co.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-sipser-9"><span class="mw-cite-backlink">↑ <a href="#cite_ref-sipser_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-sipser_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span id="CITAREFSipser2005" class="citation libro">Sipser, Michael (2005). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20060615070738/http://www-math.mit.edu/~sipser/"><i>Introduction to the Theory of Computation</i></a> (2 edición). Course Technology. <small><a href="/wiki/ISBN" title="ISBN">ISBN</a>&#160;<a href="/wiki/Especial:FuentesDeLibros/978-0534950972" title="Especial:FuentesDeLibros/978-0534950972">978-0534950972</a></small>. Archivado desde <a rel="nofollow" class="external text" href="http://www-math.mit.edu/~sipser/">el original</a> el 15 de junio de 2006.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AAlgoritmo&amp;rft.au=Sipser%2C+Michael&amp;rft.aufirst=Michael&amp;rft.aulast=Sipser&amp;rft.btitle=Introduction+to+the+Theory+of+Computation&amp;rft.date=2005&amp;rft.edition=2&amp;rft.genre=book&amp;rft.isbn=978-0534950972&amp;rft.pub=Course+Technology&amp;rft_id=http%3A%2F%2Fwww-math.mit.edu%2F~sipser%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-Dershowitz-10"><span class="mw-cite-backlink">↑ <a href="#cite_ref-Dershowitz_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Dershowitz_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><span id="CITAREFNachum_Dershowitz_&amp;_Yuri_Gurevich2008" class="citation publicación">Nachum Dershowitz &amp; Yuri Gurevich (2008). <a rel="nofollow" class="external text" href="http://research.microsoft.com/en-us/um/people/gurevich/Opera/188.pdf">«A natural axiomatization of computability and proof of Church's Thesis»</a>. <i>Bulletin of Symbolic Logic</i> <b>14</b> (3): 299-350. <small><a href="/wiki/ISSN" class="mw-redirect" title="ISSN">ISSN</a>&#160;<a rel="nofollow" class="external text" href="//issn.org/resource/issn/1079-8986">1079-8986</a></small>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AAlgoritmo&amp;rft.atitle=A+natural+axiomatization+of+computability+and+proof+of+Church%27s+Thesis&amp;rft.au=Nachum+Dershowitz+%26+Yuri+Gurevich&amp;rft.aulast=Nachum+Dershowitz+%26+Yuri+Gurevich&amp;rft.date=2008&amp;rft.genre=article&amp;rft.issn=1079-8986&amp;rft.issue=3&amp;rft.jtitle=Bulletin+of+Symbolic+Logic&amp;rft.pages=299-350&amp;rft.volume=14&amp;rft_id=http%3A%2F%2Fresearch.microsoft.com%2Fen-us%2Fum%2Fpeople%2Fgurevich%2FOpera%2F188.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+<li id="cite_note-Kelley-11"><span class="mw-cite-backlink"><a href="#cite_ref-Kelley_11-0">↑</a></span> <span class="reference-text"><span id="CITAREFKelley1995" class="citation libro">Kelley, Dean (1995). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20121114162557/http://krypton.mnsu.edu/~kelled/"><i>Teoría de Autómatas y Lenguajes Formales</i></a>. Prentice Hall. <small><a href="/wiki/ISBN" title="ISBN">ISBN</a>&#160;<a href="/wiki/Especial:FuentesDeLibros/0-13-497777-7" title="Especial:FuentesDeLibros/0-13-497777-7">0-13-497777-7</a></small>. Archivado desde <a rel="nofollow" class="external text" href="http://krypton.mnsu.edu/~kelled/">el original</a> el 14 de noviembre de 2012<span class="reference-accessdate">. Consultado el 23 de noviembre de 2009</span>.</span><span title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fes.wikipedia.org%3AAlgoritmo&amp;rft.au=Kelley%2C+Dean&amp;rft.aufirst=Dean&amp;rft.aulast=Kelley&amp;rft.btitle=Teor%C3%ADa+de+Aut%C3%B3matas+y+Lenguajes+Formales&amp;rft.date=1995&amp;rft.genre=book&amp;rft.isbn=0-13-497777-7&amp;rft.pub=Prentice+Hall&amp;rft_id=http%3A%2F%2Fkrypton.mnsu.edu%2F~kelled%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook" class="Z3988"><span style="display:none;">&#160;</span></span></span>
+</li>
+</ol></div>
+<h2><span id="Bibliograf.C3.ADa"></span><span class="mw-headline" id="Bibliografía">Bibliografía</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Algoritmo&amp;action=edit&amp;section=21" title="Editar sección: Bibliografía">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li>Aho, A. <i>The Design and Analysis of Computer Algorithms</i></li>
+<li>Cormen, T. H., Leiserson, C. E., <a href="/wiki/Rivest,_R._L." class="mw-redirect" title="Rivest, R. L.">Rivest, R. L.</a> y Stein, C. <i>Introduction to Algorithms (2nd ed.)</i></li>
+<li><a href="/wiki/Gilles_Brassard" title="Gilles Brassard">Brassard, G.</a> y P. Bratley. <i>Fundamentos de Algoritmia</i>, (<a href="/wiki/Especial:FuentesDeLibros/848966000X" class="internal mw-magiclink-isbn">ISBN 848966000X</a>)</li>
+<li><a href="/wiki/Knuth,_D._E" class="mw-redirect" title="Knuth, D. E">Knuth, D. E</a>. <i>The Art of Computer Programming</i>, [quien fue también, el creador del <a href="/wiki/TeX" title="TeX">TeX</a>]</li>
+<li>Mamber, U. <i>Introduction to Algorithms. A Creative Approach</i></li>
+<li>Sedgewick, R. <i>Algorithms in C (3r ed)</i> (también existen versiones en C++ y <a href="/wiki/Lenguaje_de_programaci%C3%B3n_Java" class="mw-redirect" title="Lenguaje de programación Java">Java</a>)</li></ul>
+<h2><span class="mw-headline" id="Enlaces_externos">Enlaces externos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Algoritmo&amp;action=edit&amp;section=22" title="Editar sección: Enlaces externos">editar</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul><li><img alt="" src="assets/2dfb34af8e937e20608b657b5300d1d0.png" decoding="async" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/23px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/30px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /> <a href="/wiki/Wikilibros" title="Wikilibros">Wikilibros</a> alberga un libro o manual sobre <b><a href="https://es.wikibooks.org/wiki/Algoritmia" class="extiw" title="b:Algoritmia">Algoritmia</a></b>.</li>
+<li><img alt="" src="assets/9c6ca167d16c35576d9cdb75ece9d55f.png" decoding="async" width="20" height="19" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/30px-Wiktionary-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Wiktionary-logo.svg/40px-Wiktionary-logo.svg.png 2x" data-file-width="370" data-file-height="350" /> <a href="/wiki/Wikcionario" title="Wikcionario">Wikcionario</a>  tiene definiciones y otra información sobre <b><a href="https://es.wiktionary.org/wiki/algoritmo" class="extiw" title="wikt:algoritmo">algoritmo</a></b>.</li></ul>
+<style data-mw-deduplicate="TemplateStyles:r118746331">.mw-parser-output .mw-authority-control{margin-top:1.5em}.mw-parser-output .mw-authority-control .navbox hr:last-child{display:none}.mw-parser-output .mw-authority-control .navbox+.mw-mf-linked-projects{display:none}.mw-parser-output .mw-authority-control .mw-mf-linked-projects{display:flex;padding:0.5em;border:1px solid #c8ccd1;background-color:#eaecf0;color:#222222}.mw-parser-output .mw-authority-control .mw-mf-linked-projects ul li{margin-bottom:0}</style><div class="mw-authority-control"><div role="navigation" class="navbox" aria-label="Navbox" style="width: inherit;padding:3px"><table class="hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="row" class="navbox-group" style="width: 12%; text-align:center;"><a href="/wiki/Ayuda:Control_de_autoridades" title="Ayuda:Control de autoridades">Control de autoridades</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><b>Proyectos Wikimedia</b></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata"><img alt="Wd" src="assets/f9e6aa5e6e7d6ac5167869e4200847e5.png" decoding="async" width="20" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/30px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a> Datos:</span> <span class="uid"><a href="https://www.wikidata.org/wiki/Q8366" class="extiw" title="wikidata:Q8366">Q8366</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikimedia_Commons" title="Commonscat"><img alt="Commonscat" src="assets/ebdf4240f222adc950bdd62bb3c27207.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Multimedia:</span> <span class="uid"><span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Category:Algorithms">Algorithms</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikilibros" title="Wikibooks"><img alt="Wikibooks" src="assets/2dfb34af8e937e20608b657b5300d1d0.png" decoding="async" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/23px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/30px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></a> Libros:</span> <span class="uid"><a href="https://es.wikibooks.org/wiki/Algoritmia" class="extiw" title="b:Algoritmia">Algoritmia</a></span></li></ul>
+<hr />
+<ul><li><b>Identificadores</b></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioteca_Nacional_de_Espa%C3%B1a" title="Biblioteca Nacional de España">BNE</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="http://datos.bne.es/resource/XX527980">XX527980</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" class="mw-redirect" title="Bibliothèque nationale de France">BNF</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="https://catalogue.bnf.fr/ark:/12148/cb119358199">119358199</a> <a rel="nofollow" class="external text" href="http://data.bnf.fr/ark:/12148/cb119358199">(data)</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Integrated_Authority_File" class="mw-redirect" title="Integrated Authority File">GND</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="https://d-nb.info/gnd/4001183-5">4001183-5</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="https://id.loc.gov/authorities/sh85003487">sh85003487</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/National_Diet_Library" class="mw-redirect" title="National Diet Library">NDL</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="https://id.ndl.go.jp/auth/ndlna/00560337">00560337</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Art_%26_Architecture_Thesaurus" title="Art &amp; Architecture Thesaurus">AAT</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="https://www.getty.edu/vow/AATFullDisplay?find=&amp;logic=AND&amp;note=&amp;subjectid=300065585">300065585</a></span></li>
+<li><b>Diccionarios y enciclopedias</b></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Enciclopedia_Brit%C3%A1nica" title="Enciclopedia Británica">Britannica</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="https://www.britannica.com/topic/algorithm">url</a></span></li>
+<li><b>Identificadores médicos</b></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Medical_Subject_Headings" title="Medical Subject Headings">MeSH</a>:</span> <span class="uid"><a rel="nofollow" class="external text" href="https://meshb.nlm.nih.gov/#/record/ui?ui=D000465">D000465</a></span></li></ul>
+</div></td></tr></tbody></table></div><div class="mw-mf-linked-projects hlist">
+<ul><li><span style="white-space:nowrap;"><a href="/wiki/Wikidata" title="Wikidata"><img alt="Wd" src="assets/f9e6aa5e6e7d6ac5167869e4200847e5.png" decoding="async" width="20" height="11" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/30px-Wikidata-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Wikidata-logo.svg/40px-Wikidata-logo.svg.png 2x" data-file-width="1050" data-file-height="590" /></a> Datos:</span> <span class="uid"><a href="https://www.wikidata.org/wiki/Q8366" class="extiw" title="wikidata:Q8366">Q8366</a></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikimedia_Commons" title="Commonscat"><img alt="Commonscat" src="assets/ebdf4240f222adc950bdd62bb3c27207.png" decoding="async" width="15" height="20" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/23px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png 2x" data-file-width="1024" data-file-height="1376" /></a> Multimedia:</span> <span class="uid"><span class="plainlinks"><a class="external text" href="https://commons.wikimedia.org/wiki/Category:Algorithms">Algorithms</a></span></span></li>
+<li><span style="white-space:nowrap;"><a href="/wiki/Wikilibros" title="Wikibooks"><img alt="Wikibooks" src="assets/2dfb34af8e937e20608b657b5300d1d0.png" decoding="async" width="15" height="15" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/23px-Wikibooks-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikibooks-logo.svg/30px-Wikibooks-logo.svg.png 2x" data-file-width="300" data-file-height="300" /></a> Libros:</span> <span class="uid"><a href="https://es.wikibooks.org/wiki/Algoritmia" class="extiw" title="b:Algoritmia">Algoritmia</a></span></li></ul>
+</div></div>
+<!-- 
+NewPP limit report
+Parsed by mw1411
+Cached time: 20200730173343
+Cache expiry: 2592000
+Dynamic content: false
+Complications: []
+CPU time usage: 0.320 seconds
+Real time usage: 0.490 seconds
+Preprocessor visited node count: 1208/1000000
+Post‐expand include size: 25916/2097152 bytes
+Template argument size: 1178/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 9/500
+Unstrip recursion depth: 0/20
+Unstrip post‐expand size: 20150/5000000 bytes
+Lua time usage: 0.142/10.000 seconds
+Lua memory usage: 4.23 MB/50 MB
+Number of Wikibase entities loaded: 10/400
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  274.246      1 -total
+ 53.72%  147.336      1 Plantilla:Control_de_autoridades
+ 19.50%   53.467      1 Plantilla:Listaref
+ 12.26%   33.617      8 Plantilla:Cita_libro
+ 11.27%   30.897      1 Plantilla:Distinguir
+  2.30%    6.306      2 Plantilla:Cita_publicación
+  2.19%    5.997      4 Plantilla:AP
+  1.68%    4.604      1 Plantilla:Wikibooks
+  1.39%    3.809      1 Plantilla:Wikcionario
+  1.18%    3.223      1 Plantilla:Algoritmo
+-->
+
+<!-- Saved in parser cache with key eswiki:pcache:idhash:187-0!canonical!math=5 and timestamp 20200730173343 and revision id 128114830
+ -->
+</div><noscript><img src="assets/b24c79a0cf288ab55ac19582a30c6fca" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div><div class="printfooter">Obtenido de «<a dir="ltr" href="https://es.wikipedia.org/w/index.php?title=Algoritmo&amp;oldid=128114830">https://es.wikipedia.org/w/index.php?title=Algoritmo&amp;oldid=128114830</a>»</div>
+		<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Especial:Categor%C3%ADas" title="Especial:Categorías">Categorías</a>: <ul><li><a href="/wiki/Categor%C3%ADa:Algoritmos" title="Categoría:Algoritmos">Algoritmos</a></li><li><a href="/wiki/Categor%C3%ADa:Palabras_y_frases_en_%C3%A1rabe" title="Categoría:Palabras y frases en árabe">Palabras y frases en árabe</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Categorías ocultas: <ul><li><a href="/wiki/Categor%C3%ADa:Wikipedia:P%C3%A1ginas_con_enlaces_m%C3%A1gicos_de_ISBN" title="Categoría:Wikipedia:Páginas con enlaces mágicos de ISBN">Wikipedia:Páginas con enlaces mágicos de ISBN</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_identificadores_BNE" title="Categoría:Wikipedia:Artículos con identificadores BNE">Wikipedia:Artículos con identificadores BNE</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_identificadores_BNF" title="Categoría:Wikipedia:Artículos con identificadores BNF">Wikipedia:Artículos con identificadores BNF</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_identificadores_GND" title="Categoría:Wikipedia:Artículos con identificadores GND">Wikipedia:Artículos con identificadores GND</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_identificadores_LCCN" title="Categoría:Wikipedia:Artículos con identificadores LCCN">Wikipedia:Artículos con identificadores LCCN</a></li><li><a href="/wiki/Categor%C3%ADa:Wikipedia:Art%C3%ADculos_con_identificadores_AAT" title="Categoría:Wikipedia:Artículos con identificadores AAT">Wikipedia:Artículos con identificadores AAT</a></li></ul></div></div>
+	</div>
+</div>
+<div id='mw-data-after-content'>
+	<div class="read-more-container"></div>
+</div>
+
+<div id="mw-navigation">
+	<h2>Menú de navegación</h2>
+	<div id="mw-head">
+		<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-personal" class="vector-menu" aria-labelledby="p-personal-label" role="navigation" 
+	 >
+	<h3 id="p-personal-label">
+		<span>Herramientas personales</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="pt-anonuserpage">No has accedido</li><li id="pt-anontalk"><a href="/wiki/Especial:MiDiscusi%C3%B3n" title="Discusión sobre ediciones hechas desde esta dirección IP [n]" accesskey="n">Discusión</a></li><li id="pt-anoncontribs"><a href="/wiki/Especial:MisContribuciones" title="Una lista de modificaciones hechas desde esta dirección IP [y]" accesskey="y">Contribuciones</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Especial:Crear_una_cuenta&amp;returnto=Algoritmo" title="Te recomendamos crear una cuenta e iniciar sesión; sin embargo, no es obligatorio">Crear una cuenta</a></li><li id="pt-login"><a href="/w/index.php?title=Especial:Entrar&amp;returnto=Algoritmo" title="Te recomendamos iniciar sesión, aunque no es obligatorio [o]" accesskey="o">Acceder</a></li></ul>
+		
+	</div>
+</nav>
+
+
+		<div id="left-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-namespaces" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-namespaces-label" role="navigation" 
+	 >
+	<h3 id="p-namespaces-label">
+		<span>Espacios de nombres</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-nstab-main" class="selected"><a href="/wiki/Algoritmo" title="Ver la página de contenido [c]" accesskey="c">Artículo</a></li><li id="ca-talk"><a href="/wiki/Discusi%C3%B3n:Algoritmo" rel="discussion" title="Discusión acerca de la página [t]" accesskey="t">Discusión</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-variants" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-variants-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+	<h3 id="p-variants-label">
+		<span>Variantes</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+		</div>
+		<div id="right-navigation">
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-views" class="vector-menu vector-menu-tabs vectorTabs" aria-labelledby="p-views-label" role="navigation" 
+	 >
+	<h3 id="p-views-label">
+		<span>Vistas</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="ca-view" class="collapsible selected"><a href="/wiki/Algoritmo">Leer</a></li><li id="ca-edit" class="collapsible"><a href="/w/index.php?title=Algoritmo&amp;action=edit" title="Editar esta página [e]" accesskey="e">Editar</a></li><li id="ca-history" class="collapsible"><a href="/w/index.php?title=Algoritmo&amp;action=history" title="Versiones anteriores de esta página [h]" accesskey="h">Ver historial</a></li></ul>
+		
+	</div>
+</nav>
+
+
+			<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-cactions" class="vector-menu-empty emptyPortlet vector-menu vector-menu-dropdown vectorMenu" aria-labelledby="p-cactions-label" role="navigation" 
+	 >
+	<input type="checkbox" class="vector-menu-checkbox vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+	<h3 id="p-cactions-label">
+		<span>Más</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="menu vector-menu-content-list"></ul>
+		
+	</div>
+</nav>
+
+
+			<div id="p-search" role="search">
+	<h3 >
+		<label for="searchInput">Buscar</label>
+	</h3>
+	<form action="/w/index.php" id="searchform">
+		<div id="simpleSearch">
+			<input type="search" name="search" placeholder="Buscar en Wikipedia" title="Buscar en este wiki [f]" accesskey="f" id="searchInput"/>
+			<input type="hidden" name="title" value="Especial:Buscar">
+			<input type="submit" name="fulltext" value="Buscar" title="Busca páginas con este texto." id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/>
+			<input type="submit" name="go" value="Ir" title="Ir a la página con este nombre exacto si existe" id="searchButton" class="searchButton"/>
+		</div>
+	</form>
+</div>
+
+		</div>
+	</div>
+	
+<div id="mw-panel">
+	<div id="p-logo" role="banner">
+		<a  title="Visitar la página principal" class="mw-wiki-logo" href="/wiki/Wikipedia:Portada"></a>
+	</div>
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-navigation" class="vector-menu vector-menu-portal portal portal-first" aria-labelledby="p-navigation-label" role="navigation" 
+	 >
+	<h3 id="p-navigation-label">
+		<span>Navegación</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="n-mainpage-description"><a href="/wiki/Wikipedia:Portada" title="Visitar la página principal [z]" accesskey="z">Portada</a></li><li id="n-portal"><a href="/wiki/Portal:Comunidad" title="Acerca del proyecto, lo que puedes hacer, dónde encontrar información">Portal de la comunidad</a></li><li id="n-currentevents"><a href="/wiki/Portal:Actualidad" title="Encuentra información de contexto sobre acontecimientos actuales">Actualidad</a></li><li id="n-recentchanges"><a href="/wiki/Especial:CambiosRecientes" title="Lista de cambios recientes en el wiki [r]" accesskey="r">Cambios recientes</a></li><li id="n-newpages"><a href="/wiki/Especial:P%C3%A1ginasNuevas">Páginas nuevas</a></li><li id="n-randompage"><a href="/wiki/Especial:Aleatoria" title="Cargar una página al azar [x]" accesskey="x">Página aleatoria</a></li><li id="n-help"><a href="/wiki/Ayuda:Contenidos" title="El lugar para aprender">Ayuda</a></li><li id="n-sitesupport"><a href="//donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_es.wikipedia.org&amp;uselang=es" title="Apóyanos">Donaciones</a></li><li id="n-bug_in_article"><a href="/wiki/Wikipedia:Informes_de_error">Notificar un error</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-tb" class="vector-menu vector-menu-portal portal" aria-labelledby="p-tb-label" role="navigation" 
+	 >
+	<h3 id="p-tb-label">
+		<span>Herramientas</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="t-whatlinkshere"><a href="/wiki/Especial:LoQueEnlazaAqu%C3%AD/Algoritmo" title="Lista de todas las páginas del wiki que enlazan aquí [j]" accesskey="j">Lo que enlaza aquí</a></li><li id="t-recentchangeslinked"><a href="/wiki/Especial:CambiosEnEnlazadas/Algoritmo" rel="nofollow" title="Cambios recientes en las páginas que enlazan con esta [k]" accesskey="k">Cambios en enlazadas</a></li><li id="t-upload"><a href="//commons.wikimedia.org/wiki/Special:UploadWizard?uselang=es" title="Subir archivos [u]" accesskey="u">Subir archivo</a></li><li id="t-specialpages"><a href="/wiki/Especial:P%C3%A1ginasEspeciales" title="Lista de todas las páginas especiales [q]" accesskey="q">Páginas especiales</a></li><li id="t-permalink"><a href="/w/index.php?title=Algoritmo&amp;oldid=128114830" title="Enlace permanente a esta versión de la página">Enlace permanente</a></li><li id="t-info"><a href="/w/index.php?title=Algoritmo&amp;action=info" title="Más información sobre esta página">Información de la página</a></li><li id="t-cite"><a href="/w/index.php?title=Especial:Citar&amp;page=Algoritmo&amp;id=128114830&amp;wpFormIdentifier=titleform" title="Información sobre cómo citar esta página">Citar esta página</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q8366" title="Enlace al elemento conectado del repositorio de datos [g]" accesskey="g">Elemento de Wikidata</a></li></ul>
+		
+	</div>
+</nav>
+
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-coll-print_export" class="vector-menu vector-menu-portal portal" aria-labelledby="p-coll-print_export-label" role="navigation" 
+	 >
+	<h3 id="p-coll-print_export-label">
+		<span>Imprimir/exportar</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li id="coll-create_a_book"><a href="/w/index.php?title=Especial:Libro&amp;bookcmd=book_creator&amp;referer=Algoritmo">Crear un libro</a></li><li id="coll-download-as-rl"><a href="/w/index.php?title=Especial:ElectronPdf&amp;page=Algoritmo&amp;action=show-download-screen">Descargar como PDF</a></li><li id="t-print"><a href="/w/index.php?title=Algoritmo&amp;printable=yes" title="Versión imprimible de esta página [p]" accesskey="p">Versión para imprimir</a></li></ul>
+		
+	</div>
+</nav>
+
+<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-wikibase-otherprojects" class="vector-menu vector-menu-portal portal" aria-labelledby="p-wikibase-otherprojects-label" role="navigation" 
+	 >
+	<h3 id="p-wikibase-otherprojects-label">
+		<span>En otros proyectos</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Algorithms" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikibooks"><a href="https://es.wikibooks.org/wiki/Algoritmia" hreflang="es">Wikilibros</a></li></ul>
+		
+	</div>
+</nav>
+
+
+	<!-- Please do not use role attribute as CSS selector, it is deprecated. -->
+<nav id="p-lang" class="vector-menu vector-menu-portal portal" aria-labelledby="p-lang-label" role="navigation" 
+	 >
+	<h3 id="p-lang-label">
+		<span>En otros idiomas</span>
+	</h3>
+	<!-- Please do not use the .body class, it is deprecated. -->
+	<div class="body vector-menu-content">
+		<!-- Please do not use the .menu class, it is deprecated. -->
+		<ul class="vector-menu-content-list"><li class="interlanguage-link interwiki-af"><a href="https://af.wikipedia.org/wiki/Algoritme" title="Algoritme (afrikáans)" lang="af" hreflang="af" class="interlanguage-link-target">Afrikaans</a></li><li class="interlanguage-link interwiki-als"><a href="https://als.wikipedia.org/wiki/Algorithmus" title="Algorithmus (Alemannisch)" lang="gsw" hreflang="gsw" class="interlanguage-link-target">Alemannisch</a></li><li class="interlanguage-link interwiki-am"><a href="https://am.wikipedia.org/wiki/%E1%8A%A0%E1%88%8D%E1%8C%8E%E1%88%AA%E1%8B%9D%E1%88%9D" title="አልጎሪዝም (amárico)" lang="am" hreflang="am" class="interlanguage-link-target">አማርኛ</a></li><li class="interlanguage-link interwiki-an"><a href="https://an.wikipedia.org/wiki/Algorismo" title="Algorismo (aragonés)" lang="an" hreflang="an" class="interlanguage-link-target">Aragonés</a></li><li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AE%D9%88%D8%A7%D8%B1%D8%B2%D9%85%D9%8A%D8%A9" title="خوارزمية (árabe)" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-arz"><a href="https://arz.wikipedia.org/wiki/%D8%A7%D9%84%D8%AC%D9%88%D8%B1%D9%8A%D8%B2%D9%85" title="الجوريزم (Egyptian Arabic)" lang="arz" hreflang="arz" class="interlanguage-link-target">مصرى</a></li><li class="interlanguage-link interwiki-as"><a href="https://as.wikipedia.org/wiki/%E0%A6%8F%E0%A6%B2%E0%A6%97%E0%A7%B0%E0%A6%BF%E0%A6%A5%E0%A6%AE_%E0%A6%86%E0%A7%B0%E0%A7%81_%E0%A6%A1%E0%A7%87%E0%A6%87%E0%A6%9F%E0%A6%BE_%E0%A6%B7%E0%A7%8D%E0%A6%9F%E0%A7%8D%E0%A7%B0%E0%A6%BE%E0%A6%95%E0%A6%9A%E0%A6%BE%E0%A7%B0" title="এলগৰিথম আৰু ডেইটা ষ্ট্ৰাকচাৰ (asamés)" lang="as" hreflang="as" class="interlanguage-link-target">অসমীয়া</a></li><li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/Algoritmu" title="Algoritmu (asturiano)" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-az"><a href="https://az.wikipedia.org/wiki/Alqoritm" title="Alqoritm (azerbaiyano)" lang="az" hreflang="az" class="interlanguage-link-target">Azərbaycanca</a></li><li class="interlanguage-link interwiki-azb"><a href="https://azb.wikipedia.org/wiki/%D8%A7%D9%84%D9%82%D9%88%D8%B1%DB%8C%D8%AA%D9%85" title="القوریتم (South Azerbaijani)" lang="azb" hreflang="azb" class="interlanguage-link-target">تۆرکجه</a></li><li class="interlanguage-link interwiki-ba"><a href="https://ba.wikipedia.org/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC" title="Алгоритм (baskir)" lang="ba" hreflang="ba" class="interlanguage-link-target">Башҡортса</a></li><li class="interlanguage-link interwiki-be"><a href="https://be.wikipedia.org/wiki/%D0%90%D0%BB%D0%B3%D0%B0%D1%80%D1%8B%D1%82%D0%BC" title="Алгарытм (bielorruso)" lang="be" hreflang="be" class="interlanguage-link-target">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a href="https://be-tarask.wikipedia.org/wiki/%D0%90%D0%BB%D1%8C%D0%B3%D0%B0%D1%80%D1%8B%D1%82%D0%BC" title="Альгарытм (Belarusian (Taraškievica orthography))" lang="be-tarask" hreflang="be-tarask" class="interlanguage-link-target">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a href="https://bg.wikipedia.org/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D1%8A%D0%BC" title="Алгоритъм (búlgaro)" lang="bg" hreflang="bg" class="interlanguage-link-target">Български</a></li><li class="interlanguage-link interwiki-bn"><a href="https://bn.wikipedia.org/wiki/%E0%A6%85%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%B2%E0%A6%97%E0%A6%B0%E0%A6%BF%E0%A6%A6%E0%A6%AE" title="অ্যালগরিদম (bengalí)" lang="bn" hreflang="bn" class="interlanguage-link-target">বাংলা</a></li><li class="interlanguage-link interwiki-br"><a href="https://br.wikipedia.org/wiki/Algoritm" title="Algoritm (bretón)" lang="br" hreflang="br" class="interlanguage-link-target">Brezhoneg</a></li><li class="interlanguage-link interwiki-bs"><a href="https://bs.wikipedia.org/wiki/Algoritam" title="Algoritam (bosnio)" lang="bs" hreflang="bs" class="interlanguage-link-target">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a href="https://ca.wikipedia.org/wiki/Algorisme" title="Algorisme (catalán)" lang="ca" hreflang="ca" class="interlanguage-link-target">Català</a></li><li class="interlanguage-link interwiki-ckb"><a href="https://ckb.wikipedia.org/wiki/%D8%A6%DB%95%D9%84%DA%AF%DB%86%D8%B1%DB%8C%D8%AA%D9%85" title="ئەلگۆریتم (kurdo sorani)" lang="ckb" hreflang="ckb" class="interlanguage-link-target">کوردی</a></li><li class="interlanguage-link interwiki-cs"><a href="https://cs.wikipedia.org/wiki/Algoritmus" title="Algoritmus (checo)" lang="cs" hreflang="cs" class="interlanguage-link-target">Čeština</a></li><li class="interlanguage-link interwiki-cu"><a href="https://cu.wikipedia.org/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D1%B7%D1%B3%D0%BC%D1%8A" title="Алгорѷѳмъ (eslavo eclesiástico)" lang="cu" hreflang="cu" class="interlanguage-link-target">Словѣньскъ / ⰔⰎⰑⰂⰡⰐⰠⰔⰍⰟ</a></li><li class="interlanguage-link interwiki-cy"><a href="https://cy.wikipedia.org/wiki/Algorithm" title="Algorithm (galés)" lang="cy" hreflang="cy" class="interlanguage-link-target">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Algoritme" title="Algoritme (danés)" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-de"><a href="https://de.wikipedia.org/wiki/Algorithmus" title="Algorithmus (alemán)" lang="de" hreflang="de" class="interlanguage-link-target">Deutsch</a></li><li class="interlanguage-link interwiki-diq"><a href="https://diq.wikipedia.org/wiki/Algoritma" title="Algoritma (Zazaki)" lang="diq" hreflang="diq" class="interlanguage-link-target">Zazaki</a></li><li class="interlanguage-link interwiki-el"><a href="https://el.wikipedia.org/wiki/%CE%91%CE%BB%CE%B3%CF%8C%CF%81%CE%B9%CE%B8%CE%BC%CE%BF%CF%82" title="Αλγόριθμος (griego)" lang="el" hreflang="el" class="interlanguage-link-target">Ελληνικά</a></li><li class="interlanguage-link interwiki-en"><a href="https://en.wikipedia.org/wiki/Algorithm" title="Algorithm (inglés)" lang="en" hreflang="en" class="interlanguage-link-target">English</a></li><li class="interlanguage-link interwiki-eo"><a href="https://eo.wikipedia.org/wiki/Algoritmo" title="Algoritmo (esperanto)" lang="eo" hreflang="eo" class="interlanguage-link-target">Esperanto</a></li><li class="interlanguage-link interwiki-et"><a href="https://et.wikipedia.org/wiki/Algoritm" title="Algoritm (estonio)" lang="et" hreflang="et" class="interlanguage-link-target">Eesti</a></li><li class="interlanguage-link interwiki-eu"><a href="https://eu.wikipedia.org/wiki/Algoritmo" title="Algoritmo (euskera)" lang="eu" hreflang="eu" class="interlanguage-link-target">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%A7%D9%84%DA%AF%D9%88%D8%B1%DB%8C%D8%AA%D9%85" title="الگوریتم (persa)" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-fi"><a href="https://fi.wikipedia.org/wiki/Algoritmi" title="Algoritmi (finés)" lang="fi" hreflang="fi" class="interlanguage-link-target">Suomi</a></li><li class="interlanguage-link interwiki-fo"><a href="https://fo.wikipedia.org/wiki/Algoritma" title="Algoritma (feroés)" lang="fo" hreflang="fo" class="interlanguage-link-target">Føroyskt</a></li><li class="interlanguage-link interwiki-fr"><a href="https://fr.wikipedia.org/wiki/Algorithme" title="Algorithme (francés)" lang="fr" hreflang="fr" class="interlanguage-link-target">Français</a></li><li class="interlanguage-link interwiki-frr"><a href="https://frr.wikipedia.org/wiki/Algoritmus" title="Algoritmus (frisón septentrional)" lang="frr" hreflang="frr" class="interlanguage-link-target">Nordfriisk</a></li><li class="interlanguage-link interwiki-ga"><a href="https://ga.wikipedia.org/wiki/Algartam" title="Algartam (irlandés)" lang="ga" hreflang="ga" class="interlanguage-link-target">Gaeilge</a></li><li class="interlanguage-link interwiki-gcr"><a href="https://gcr.wikipedia.org/wiki/Algoritm" title="Algoritm (Guianan Creole)" lang="gcr" hreflang="gcr" class="interlanguage-link-target">Kriyòl gwiyannen</a></li><li class="interlanguage-link interwiki-gl"><a href="https://gl.wikipedia.org/wiki/Algoritmo" title="Algoritmo (gallego)" lang="gl" hreflang="gl" class="interlanguage-link-target">Galego</a></li><li class="interlanguage-link interwiki-he"><a href="https://he.wikipedia.org/wiki/%D7%90%D7%9C%D7%92%D7%95%D7%A8%D7%99%D7%AA%D7%9D" title="אלגוריתם (hebreo)" lang="he" hreflang="he" class="interlanguage-link-target">עברית</a></li><li class="interlanguage-link interwiki-hi"><a href="https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%B2%E0%A5%8D%E0%A4%97%E0%A5%8B%E0%A4%B0%E0%A4%BF%E0%A4%A6%E0%A5%8D%E0%A4%AE" title="अल्गोरिद्म (hindi)" lang="hi" hreflang="hi" class="interlanguage-link-target">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a href="https://hr.wikipedia.org/wiki/Algoritam" title="Algoritam (croata)" lang="hr" hreflang="hr" class="interlanguage-link-target">Hrvatski</a></li><li class="interlanguage-link interwiki-hu"><a href="https://hu.wikipedia.org/wiki/Algoritmus" title="Algoritmus (húngaro)" lang="hu" hreflang="hu" class="interlanguage-link-target">Magyar</a></li><li class="interlanguage-link interwiki-hy"><a href="https://hy.wikipedia.org/wiki/%D4%B1%D5%AC%D5%A3%D5%B8%D6%80%D5%AB%D5%A9%D5%B4" title="Ալգորիթմ (armenio)" lang="hy" hreflang="hy" class="interlanguage-link-target">Հայերեն</a></li><li class="interlanguage-link interwiki-ia"><a href="https://ia.wikipedia.org/wiki/Algorithmo" title="Algorithmo (interlingua)" lang="ia" hreflang="ia" class="interlanguage-link-target">Interlingua</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Algoritme" title="Algoritme (indonesio)" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ilo"><a href="https://ilo.wikipedia.org/wiki/Algoritmo" title="Algoritmo (ilocano)" lang="ilo" hreflang="ilo" class="interlanguage-link-target">Ilokano</a></li><li class="interlanguage-link interwiki-io"><a href="https://io.wikipedia.org/wiki/Algoritmo" title="Algoritmo (ido)" lang="io" hreflang="io" class="interlanguage-link-target">Ido</a></li><li class="interlanguage-link interwiki-is"><a href="https://is.wikipedia.org/wiki/Reiknirit" title="Reiknirit (islandés)" lang="is" hreflang="is" class="interlanguage-link-target">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a href="https://it.wikipedia.org/wiki/Algoritmo" title="Algoritmo (italiano)" lang="it" hreflang="it" class="interlanguage-link-target">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a href="https://ja.wikipedia.org/wiki/%E3%82%A2%E3%83%AB%E3%82%B4%E3%83%AA%E3%82%BA%E3%83%A0" title="アルゴリズム (japonés)" lang="ja" hreflang="ja" class="interlanguage-link-target">日本語</a></li><li class="interlanguage-link interwiki-ka"><a href="https://ka.wikipedia.org/wiki/%E1%83%90%E1%83%9A%E1%83%92%E1%83%9D%E1%83%A0%E1%83%98%E1%83%97%E1%83%9B%E1%83%98" title="ალგორითმი (georgiano)" lang="ka" hreflang="ka" class="interlanguage-link-target">ქართული</a></li><li class="interlanguage-link interwiki-kaa"><a href="https://kaa.wikipedia.org/wiki/Algoritm" title="Algoritm (karakalpako)" lang="kaa" hreflang="kaa" class="interlanguage-link-target">Qaraqalpaqsha</a></li><li class="interlanguage-link interwiki-ki"><a href="https://ki.wikipedia.org/wiki/Algorithm" title="Algorithm (kikuyu)" lang="ki" hreflang="ki" class="interlanguage-link-target">Gĩkũyũ</a></li><li class="interlanguage-link interwiki-kk"><a href="https://kk.wikipedia.org/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC" title="Алгоритм (kazajo)" lang="kk" hreflang="kk" class="interlanguage-link-target">Қазақша</a></li><li class="interlanguage-link interwiki-ko"><a href="https://ko.wikipedia.org/wiki/%EC%95%8C%EA%B3%A0%EB%A6%AC%EC%A6%98" title="알고리즘 (coreano)" lang="ko" hreflang="ko" class="interlanguage-link-target">한국어</a></li><li class="interlanguage-link interwiki-ku"><a href="https://ku.wikipedia.org/wiki/Algor%C3%AEtma" title="Algorîtma (kurdo)" lang="ku" hreflang="ku" class="interlanguage-link-target">Kurdî</a></li><li class="interlanguage-link interwiki-ky"><a href="https://ky.wikipedia.org/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC" title="Алгоритм (kirguís)" lang="ky" hreflang="ky" class="interlanguage-link-target">Кыргызча</a></li><li class="interlanguage-link interwiki-la"><a href="https://la.wikipedia.org/wiki/Algorithmus" title="Algorithmus (latín)" lang="la" hreflang="la" class="interlanguage-link-target">Latina</a></li><li class="interlanguage-link interwiki-lb"><a href="https://lb.wikipedia.org/wiki/Algorithmus" title="Algorithmus (luxemburgués)" lang="lb" hreflang="lb" class="interlanguage-link-target">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lfn"><a href="https://lfn.wikipedia.org/wiki/Algoritmo" title="Algoritmo (Lingua Franca Nova)" lang="lfn" hreflang="lfn" class="interlanguage-link-target">Lingua Franca Nova</a></li><li class="interlanguage-link interwiki-lmo"><a href="https://lmo.wikipedia.org/wiki/Algoritm" title="Algoritm (Lombard)" lang="lmo" hreflang="lmo" class="interlanguage-link-target">Lumbaart</a></li><li class="interlanguage-link interwiki-lo"><a href="https://lo.wikipedia.org/wiki/%E0%BA%82%E0%BA%B1%E0%BB%89%E0%BA%99%E0%BA%95%E0%BA%AD%E0%BA%99%E0%BA%A7%E0%BA%B4%E0%BA%97%E0%BA%B5" title="ຂັ້ນຕອນວິທີ (lao)" lang="lo" hreflang="lo" class="interlanguage-link-target">ລາວ</a></li><li class="interlanguage-link interwiki-lt"><a href="https://lt.wikipedia.org/wiki/Algoritmas" title="Algoritmas (lituano)" lang="lt" hreflang="lt" class="interlanguage-link-target">Lietuvių</a></li><li class="interlanguage-link interwiki-lv"><a href="https://lv.wikipedia.org/wiki/Algoritms" title="Algoritms (letón)" lang="lv" hreflang="lv" class="interlanguage-link-target">Latviešu</a></li><li class="interlanguage-link interwiki-mhr"><a href="https://mhr.wikipedia.org/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC" title="Алгоритм (Eastern Mari)" lang="mhr" hreflang="mhr" class="interlanguage-link-target">Олык марий</a></li><li class="interlanguage-link interwiki-mk"><a href="https://mk.wikipedia.org/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%B0%D0%BC" title="Алгоритам (macedonio)" lang="mk" hreflang="mk" class="interlanguage-link-target">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a href="https://ml.wikipedia.org/wiki/%E0%B4%85%E0%B5%BD%E0%B4%97%E0%B5%8A%E0%B4%B0%E0%B4%BF%E0%B4%A4%E0%B4%82" title="അൽഗൊരിതം (malayalam)" lang="ml" hreflang="ml" class="interlanguage-link-target">മലയാളം</a></li><li class="interlanguage-link interwiki-mn"><a href="https://mn.wikipedia.org/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC" title="Алгоритм (mongol)" lang="mn" hreflang="mn" class="interlanguage-link-target">Монгол</a></li><li class="interlanguage-link interwiki-mr"><a href="https://mr.wikipedia.org/wiki/%E0%A4%85%E0%A4%B2%E0%A5%8D%E0%A4%97%E0%A5%8B%E0%A4%B0%E0%A4%BF%E0%A4%A6%E0%A4%AE" title="अल्गोरिदम (maratí)" lang="mr" hreflang="mr" class="interlanguage-link-target">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a href="https://ms.wikipedia.org/wiki/Algoritma" title="Algoritma (malayo)" lang="ms" hreflang="ms" class="interlanguage-link-target">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-mwl"><a href="https://mwl.wikipedia.org/wiki/Algoritmo" title="Algoritmo (mirandés)" lang="mwl" hreflang="mwl" class="interlanguage-link-target">Mirandés</a></li><li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/%E1%80%A1%E1%80%86%E1%80%84%E1%80%B7%E1%80%BA%E1%80%86%E1%80%84%E1%80%B7%E1%80%BA%E1%80%90%E1%80%BD%E1%80%80%E1%80%BA%E1%80%94%E1%80%8A%E1%80%BA%E1%80%B8" title="အဆင့်ဆင့်တွက်နည်း (birmano)" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-ne"><a href="https://ne.wikipedia.org/wiki/%E0%A4%85%E0%A4%B2%E0%A5%8D%E0%A4%97%E0%A5%8B%E0%A4%B0%E0%A4%BF%E0%A4%A6%E0%A4%AE" title="अल्गोरिदम (nepalí)" lang="ne" hreflang="ne" class="interlanguage-link-target">नेपाली</a></li><li class="interlanguage-link interwiki-new"><a href="https://new.wikipedia.org/wiki/%E0%A4%85%E0%A4%B2%E0%A5%8D%E0%A4%97%E0%A5%8B%E0%A4%B0%E0%A4%BF%E0%A4%A5%E0%A4%AE" title="अल्गोरिथम (newari)" lang="new" hreflang="new" class="interlanguage-link-target">नेपाल भाषा</a></li><li class="interlanguage-link interwiki-nl"><a href="https://nl.wikipedia.org/wiki/Algoritme" title="Algoritme (neerlandés)" lang="nl" hreflang="nl" class="interlanguage-link-target">Nederlands</a></li><li class="interlanguage-link interwiki-nn"><a href="https://nn.wikipedia.org/wiki/Algoritme" title="Algoritme (noruego nynorsk)" lang="nn" hreflang="nn" class="interlanguage-link-target">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Algoritme" title="Algoritme (noruego bokmal)" lang="nb" hreflang="nb" class="interlanguage-link-target">Norsk bokmål</a></li><li class="interlanguage-link interwiki-oc"><a href="https://oc.wikipedia.org/wiki/Algoritme" title="Algoritme (occitano)" lang="oc" hreflang="oc" class="interlanguage-link-target">Occitan</a></li><li class="interlanguage-link interwiki-om"><a href="https://om.wikipedia.org/wiki/Seermurtoo" title="Seermurtoo (oromo)" lang="om" hreflang="om" class="interlanguage-link-target">Oromoo</a></li><li class="interlanguage-link interwiki-pa"><a href="https://pa.wikipedia.org/wiki/%E0%A8%95%E0%A8%B2%E0%A8%A8_%E0%A8%B5%E0%A8%BF%E0%A8%A7%E0%A9%80" title="ਕਲਨ ਵਿਧੀ (punyabí)" lang="pa" hreflang="pa" class="interlanguage-link-target">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pl"><a href="https://pl.wikipedia.org/wiki/Algorytm" title="Algorytm (polaco)" lang="pl" hreflang="pl" class="interlanguage-link-target">Polski</a></li><li class="interlanguage-link interwiki-pnb"><a href="https://pnb.wikipedia.org/wiki/%D8%A7%D9%84%DA%AF%D9%88%D8%B1%D8%AA%DA%BE%D9%85" title="الگورتھم (Western Punjabi)" lang="pnb" hreflang="pnb" class="interlanguage-link-target">پنجابی</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/Algoritmo" title="Algoritmo (portugués)" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ro"><a href="https://ro.wikipedia.org/wiki/Algoritm" title="Algoritm (rumano)" lang="ro" hreflang="ro" class="interlanguage-link-target">Română</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC" title="Алгоритм (ruso)" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-rue"><a href="https://rue.wikipedia.org/wiki/%D0%90%D0%BB%D2%91%D0%BE%D1%80%D1%96%D1%82%D0%BC" title="Алґорітм (Rusyn)" lang="rue" hreflang="rue" class="interlanguage-link-target">Русиньскый</a></li><li class="interlanguage-link interwiki-sah"><a href="https://sah.wikipedia.org/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC" title="Алгоритм (sakha)" lang="sah" hreflang="sah" class="interlanguage-link-target">Саха тыла</a></li><li class="interlanguage-link interwiki-sc"><a href="https://sc.wikipedia.org/wiki/Algoritmu" title="Algoritmu (sardo)" lang="sc" hreflang="sc" class="interlanguage-link-target">Sardu</a></li><li class="interlanguage-link interwiki-scn"><a href="https://scn.wikipedia.org/wiki/Alguritmu" title="Alguritmu (siciliano)" lang="scn" hreflang="scn" class="interlanguage-link-target">Sicilianu</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Algorithm" title="Algorithm (escocés)" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-sh"><a href="https://sh.wikipedia.org/wiki/Algoritam" title="Algoritam (serbocroata)" lang="sh" hreflang="sh" class="interlanguage-link-target">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-si"><a href="https://si.wikipedia.org/wiki/%E0%B6%87%E0%B6%BD%E0%B7%8A%E0%B6%9C%E0%B7%9C%E0%B6%BB%E0%B7%92%E0%B6%AD%E0%B6%B8" title="ඇල්ගොරිතම (cingalés)" lang="si" hreflang="si" class="interlanguage-link-target">සිංහල</a></li><li class="interlanguage-link interwiki-simple"><a href="https://simple.wikipedia.org/wiki/Algorithm" title="Algorithm (Simple English)" lang="en-simple" hreflang="en-simple" class="interlanguage-link-target">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a href="https://sk.wikipedia.org/wiki/Algoritmus" title="Algoritmus (eslovaco)" lang="sk" hreflang="sk" class="interlanguage-link-target">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a href="https://sl.wikipedia.org/wiki/Algoritem" title="Algoritem (esloveno)" lang="sl" hreflang="sl" class="interlanguage-link-target">Slovenščina</a></li><li class="interlanguage-link interwiki-sq"><a href="https://sq.wikipedia.org/wiki/Algoritmi" title="Algoritmi (albanés)" lang="sq" hreflang="sq" class="interlanguage-link-target">Shqip</a></li><li class="interlanguage-link interwiki-sr"><a href="https://sr.wikipedia.org/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%B0%D0%BC" title="Алгоритам (serbio)" lang="sr" hreflang="sr" class="interlanguage-link-target">Српски / srpski</a></li><li class="interlanguage-link interwiki-su"><a href="https://su.wikipedia.org/wiki/Algoritma" title="Algoritma (sundanés)" lang="su" hreflang="su" class="interlanguage-link-target">Sunda</a></li><li class="interlanguage-link interwiki-sv"><a href="https://sv.wikipedia.org/wiki/Algoritm" title="Algoritm (sueco)" lang="sv" hreflang="sv" class="interlanguage-link-target">Svenska</a></li><li class="interlanguage-link interwiki-sw"><a href="https://sw.wikipedia.org/wiki/Algorithm" title="Algorithm (suajili)" lang="sw" hreflang="sw" class="interlanguage-link-target">Kiswahili</a></li><li class="interlanguage-link interwiki-ta"><a href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%9F%E0%AE%BF%E0%AE%AE%E0%AF%81%E0%AE%B1%E0%AF%88%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AF%80%E0%AE%B0%E0%AF%8D%E0%AE%B5%E0%AF%81" title="படிமுறைத் தீர்வு (tamil)" lang="ta" hreflang="ta" class="interlanguage-link-target">தமிழ்</a></li><li class="interlanguage-link interwiki-te"><a href="https://te.wikipedia.org/wiki/%E0%B0%85%E0%B0%B2%E0%B1%8D%E0%B0%97%E0%B0%BE%E0%B0%B0%E0%B0%BF%E0%B0%A5%E0%B0%82" title="అల్గారిథం (telugu)" lang="te" hreflang="te" class="interlanguage-link-target">తెలుగు</a></li><li class="interlanguage-link interwiki-tg"><a href="https://tg.wikipedia.org/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC" title="Алгоритм (tayiko)" lang="tg" hreflang="tg" class="interlanguage-link-target">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-th"><a href="https://th.wikipedia.org/wiki/%E0%B8%82%E0%B8%B1%E0%B9%89%E0%B8%99%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B8%98%E0%B8%B5" title="ขั้นตอนวิธี (tailandés)" lang="th" hreflang="th" class="interlanguage-link-target">ไทย</a></li><li class="interlanguage-link interwiki-tl"><a href="https://tl.wikipedia.org/wiki/Algorithm" title="Algorithm (tagalo)" lang="tl" hreflang="tl" class="interlanguage-link-target">Tagalog</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Algoritma" title="Algoritma (turco)" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-tt badge-Q17437796 badge-featuredarticle" title="artículo destacado"><a href="https://tt.wikipedia.org/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC" title="Алгоритм (tártaro)" lang="tt" hreflang="tt" class="interlanguage-link-target">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-uk badge-Q17437798 badge-goodarticle" title="artículo bueno"><a href="https://uk.wikipedia.org/wiki/%D0%90%D0%BB%D0%B3%D0%BE%D1%80%D0%B8%D1%82%D0%BC" title="Алгоритм (ucraniano)" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-ur"><a href="https://ur.wikipedia.org/wiki/%D8%A7%D9%84%D8%AE%D9%88%D8%A7%D8%B1%D8%B2%D9%85" title="الخوارزم (urdu)" lang="ur" hreflang="ur" class="interlanguage-link-target">اردو</a></li><li class="interlanguage-link interwiki-uz"><a href="https://uz.wikipedia.org/wiki/Algoritm" title="Algoritm (uzbeko)" lang="uz" hreflang="uz" class="interlanguage-link-target">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/Thu%E1%BA%ADt_to%C3%A1n" title="Thuật toán (vietnamita)" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-wa"><a href="https://wa.wikipedia.org/wiki/Algorisse" title="Algorisse (valón)" lang="wa" hreflang="wa" class="interlanguage-link-target">Walon</a></li><li class="interlanguage-link interwiki-war"><a href="https://war.wikipedia.org/wiki/Algoritmo" title="Algoritmo (waray)" lang="war" hreflang="war" class="interlanguage-link-target">Winaray</a></li><li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E7%AE%97%E6%B3%95" title="算法 (chino wu)" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li><li class="interlanguage-link interwiki-yi"><a href="https://yi.wikipedia.org/wiki/%D7%90%D7%9C%D7%92%D7%90%D7%A8%D7%99%D7%98%D7%9D" title="אלגאריטם (yidis)" lang="yi" hreflang="yi" class="interlanguage-link-target">ייִדיש</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%AE%97%E6%B3%95" title="算法 (chino)" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a href="https://zh-min-nan.wikipedia.org/wiki/I%C3%A1n-s%C7%B9g-hoat" title="Ián-sǹg-hoat (Chinese (Min Nan))" lang="nan" hreflang="nan" class="interlanguage-link-target">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-zh-yue"><a href="https://zh-yue.wikipedia.org/wiki/%E6%BC%94%E7%AE%97%E6%B3%95" title="演算法 (Cantonese)" lang="yue" hreflang="yue" class="interlanguage-link-target">粵語</a></li></ul>
+		<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q8366#sitelinks-wikipedia" title="Editar enlaces interlingüísticos" class="wbc-editpage">Editar enlaces</a></span></div>
+	</div>
+</nav>
+
+
+</div>
+
+</div>
+
+<footer id="footer" class="mw-footer" role="contentinfo" >
+	<ul id="footer-info" >
+		<li id="footer-info-lastmod"> Esta página se editó por última vez el 30 jul 2020 a las 00:09.</li>
+		<li id="footer-info-copyright">El texto está disponible bajo la <a rel="license" href="//es.wikipedia.org/wiki/Wikipedia:Texto_de_la_Licencia_Creative_Commons_Atribuci%C3%B3n-CompartirIgual_3.0_Unported">Licencia Creative Commons Atribución Compartir Igual 3.0</a><a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+pueden aplicarse cláusulas adicionales. Al usar este sitio, usted acepta nuestros <a href="//wikimediafoundation.org/wiki/Terms_of_Use">términos de uso</a> y nuestra <a href="//wikimediafoundation.org/wiki/Privacy_policy">política de privacidad</a>. <br/>Wikipedia&reg; es una marca registrada de la <a href="//www.wikimediafoundation.org/">Fundación Wikimedia, Inc.</a>, una organización sin ánimo de lucro.</li>
+	</ul>
+	<ul id="footer-places" >
+		<li id="footer-places-privacy"><a href="https://meta.wikimedia.org/wiki/Privacy_policy/es" class="extiw" title="m:Privacy policy/es">Política de privacidad</a></li>
+		<li id="footer-places-about"><a href="/wiki/Wikipedia:Acerca_de" title="Wikipedia:Acerca de">Acerca de Wikipedia</a></li>
+		<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:Limitaci%C3%B3n_general_de_responsabilidad" title="Wikipedia:Limitación general de responsabilidad">Limitación de responsabilidad</a></li>
+		<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Desarrolladores</a></li>
+		<li id="footer-places-statslink"><a href="https://stats.wikimedia.org/#/es.wikipedia.org">Estadísticas</a></li>
+		<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement/es">Declaración de cookies</a></li>
+		<li id="footer-places-mobileview"><a href="//es.m.wikipedia.org/w/index.php?title=Algoritmo&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Versión para móviles</a></li>
+	</ul>
+	<ul id="footer-icons" class="noprint">
+		<li id="footer-copyrightico"><a href="https://wikimediafoundation.org/"><img src="assets/cf11dc7c1780c07eace98f814b311864.png" srcset="/static/images/footer/wikimedia-button-1.5x.png 1.5x, /static/images/footer/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation" loading="lazy" /></a></li>
+		<li id="footer-poweredbyico"><a href="https://www.mediawiki.org/"><img src="assets/aefa4f28c6b5afa5121caeb7816f48a3.png" alt="Powered by MediaWiki" srcset="/static/images/footer/poweredby_mediawiki_132x47.png 1.5x, /static/images/footer/poweredby_mediawiki_176x62.png 2x" width="88" height="31" loading="lazy"/></a></li>
+	</ul>
+	<div style="clear: both;"></div>
+</footer>
+
+
+
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.320","walltime":"0.490","ppvisitednodes":{"value":1208,"limit":1000000},"postexpandincludesize":{"value":25916,"limit":2097152},"templateargumentsize":{"value":1178,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":0,"limit":20},"unstrip-size":{"value":20150,"limit":5000000},"entityaccesscount":{"value":10,"limit":400},"timingprofile":["100.00%  274.246      1 -total"," 53.72%  147.336      1 Plantilla:Control_de_autoridades"," 19.50%   53.467      1 Plantilla:Listaref"," 12.26%   33.617      8 Plantilla:Cita_libro"," 11.27%   30.897      1 Plantilla:Distinguir","  2.30%    6.306      2 Plantilla:Cita_publicación","  2.19%    5.997      4 Plantilla:AP","  1.68%    4.604      1 Plantilla:Wikibooks","  1.39%    3.809      1 Plantilla:Wikcionario","  1.18%    3.223      1 Plantilla:Algoritmo"]},"scribunto":{"limitreport-timeusage":{"value":"0.142","limit":"10.000"},"limitreport-memusage":{"value":4432480,"limit":52428800}},"cachereport":{"origin":"mw1411","timestamp":"20200730173343","ttl":2592000,"transientcontent":false}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"Algoritmo","url":"https:\/\/es.wikipedia.org\/wiki\/Algoritmo","sameAs":"http:\/\/www.wikidata.org\/entity\/Q8366","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q8366","author":{"@type":"Organization","name":"Colaboradores de los proyectos Wikimedia"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2002-02-09T02:44:51Z","dateModified":"2020-07-30T00:09:48Z","image":"https:\/\/upload.wikimedia.org\/wikipedia\/commons\/b\/bd\/LampFlowchart-es.svg","headline":"procedimiento e instrucciones para resolver un problema"}</script>
+<script>(RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":163,"wgHostname":"mw1366"});});</script>
+<div style="position:fixed;top:0;left:0;width:100%;height:45px;z-index:2147483647;background-color:rgba(253,147,38,0.90) !important;color:black !important;text-align:right !important;font:normal 12px/45px Arial, sans-serif !important;border-radius:0 !important;margin:0 !important;max-width:100% !important;background-repeat: no-repeat !important;background-position: 15px center !important;
+background-image: url(data:image/png;base64,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);
+"><span style="padding-right:15px;">You are viewing a snapshot of <a style='font-weight:bold !important; color:white !important' href='http://es.wikipedia.org/wiki/Algoritmo'>http://es.wikipedia.org/wiki/Algoritmo</a> created on 2020/08/12</span></div></body></html>

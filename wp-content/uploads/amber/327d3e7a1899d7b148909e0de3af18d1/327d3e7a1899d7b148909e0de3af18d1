@@ -1,0 +1,748 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" id="typepad-standard" xmlns:fb="http://www.facebook.com/2008/fbml">
+<head>
+        <!-- head-common-individual -->
+        <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+        <meta name="generator" content="http://www.typepad.com/" />
+        
+        <meta name="description" content="It's funny how anniversaries sneak up on us. The monstrosity above is an early prototype of the Atari CX2600 Video Computer System that went into production in October 1977. The $199 system came bundled with Combat, two rubberized joysticks, a pair of paddle controllers and a handy dandy RF modulator to mangle your parents' TV reception. The prototype was built..." />
+
+    <link rel="canonical" href="https://www.retrothing.com/2007/09/the-atari-2600-.html" />
+
+
+
+
+        <link rel="stylesheet" href="assets/7f057c0d6ee4ea60f4cef465bc2f3d18.css" type="text/css" media="screen" />
+        <link rel="stylesheet" href="assets/9aa85356fe26a4fbf5f0191e1dc90b58.css" type="text/css" media="print" />
+
+
+<link rel="stylesheet" href="assets/a8648a4510c512040cc20ddff4a9167a.css">
+
+        <link rel="alternate" type="application/atom+xml" title="Posts on 'Retro Thing' (Atom)" href="https://www.retrothing.com/atom.xml" />
+        <link rel="alternate" type="application/rss+xml" title="Posts on 'Retro Thing' (RSS 1.0)" href="https://www.retrothing.com/index.rdf" />
+        <link rel="alternate" type="application/rss+xml" title="Posts on 'Retro Thing' (RSS 2.0)" href="https://www.retrothing.com/rss.xml" />
+        <script type="text/javascript">
+                var TPApp = {};
+                TPApp.app_uri = "https://www.typepad.com/";
+        </script>
+        <script type="text/javascript" src="assets/73aea631a34179ac4fe36304095bcbd2.js"></script>
+
+<script type="text/javascript">
+(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+ga('create', 'UA-225723-36', 'auto', {'name': 'Typepad'}, {'allowLinker': true} );  // Separate tracker for Typepad.
+ga('Typepad.require', 'linker');
+ga('Typepad.linker:autoLink', ['none']);
+ga('Typepad.set', 'dimension1', '6a00d83452989a69e200e5503cca9e8833');
+ga('Typepad.set', 'dimension2', 'Individual');
+ga('Typepad.send', 'pageview');
+</script>
+
+
+
+<meta property="og:title" content="The Atari 2600 celebrates 30 years of low-rez fun" />
+<meta property="og:site_name" content="Retro Thing" />
+<meta property="og:type" content="blog" />
+<meta property="og:url" content="https://www.retrothing.com/2007/09/the-atari-2600-.html" />
+<meta property="og:description" content="It's funny how anniversaries sneak up on us. The monstrosity above is an early prototype of the Atari CX2600 Video Computer System that went into production in October 1977. The $199 system came bundled with Combat, two rubberized joysticks, a pair of paddle controllers and a handy dandy RF modulator to mangle your parents' TV reception. The prototype was built..." />
+<meta property="fb:admins" content="" />
+<meta property="og:image" content="http://retrothing.typepad.com/photos/uncategorized/2007/09/27/vcsprototype.jpg" />
+<meta property="og:image" content="http://retrothing.typepad.com/photos/uncategorized/2007/09/27/cx2600.jpg" />
+<meta property="og:image" content="http://retrothing.typepad.com/photos/uncategorized/2007/09/27/6507_2.jpg" />
+<meta property="og:image" content="http://retrothing.typepad.com/photos/uncategorized/2007/09/27/combatscreenshot.jpg" />
+
+
+
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:site" content="">
+<meta name="twitter:creator" content="">
+<meta name="twitter:title" content="The Atari 2600 celebrates 30 years of low-rez fun">
+<meta name="twitter:description" content="It's funny how anniversaries sneak up on us. The monstrosity above is an early prototype of the Atari CX2600 Video Computer System that went into production in October 1977. The $199 system came bundled with Combat, two rubberized joysticks, a pair of paddle controllers and a handy dandy RF modulator to mangle your parents' TV reception. The prototype was built..."><meta name="twitter:image" content="http://retrothing.typepad.com/photos/uncategorized/2007/09/27/vcsprototype.jpg" />
+<meta name="twitter:image" content="http://retrothing.typepad.com/photos/uncategorized/2007/09/27/cx2600.jpg" />
+<meta name="twitter:image" content="http://retrothing.typepad.com/photos/uncategorized/2007/09/27/6507_2.jpg" />
+<meta name="twitter:image" content="http://retrothing.typepad.com/photos/uncategorized/2007/09/27/combatscreenshot.jpg" />
+
+
+
+
+        <title>Retro Thing: The Atari 2600 celebrates 30 years of low-rez fun</title>
+        <link rel="start" href="https://www.retrothing.com/" title="Home" />
+        <link rel="prev" href="https://www.retrothing.com/2007/09/pepsi-invaders-.html?no_prefetch=1" title="Pepsi Invaders - Primordial Adverware" />
+        <link rel="next" href="https://www.retrothing.com/2007/10/atari-week-reca.html?no_prefetch=1" title="Atari Week Recap" />
+
+    <script src="assets/451493510f76129a4a68022522aecaf2.js"></script>
+</head>
+
+
+
+<body class="layout-two-column-right">
+	
+	<div id="container">
+		<div id="container-inner" class="pkg">
+			
+
+<!-- Page banner + ad leader  -->
+
+<a id="home"></a>
+   
+
+<!-- banner -->
+<div id="banner">
+	<div id="banner-inner" class="pkg">
+		
+		<h1 id="banner-header"><a href="https://www.retrothing.com/" accesskey="1">Retro Thing</a></h1>
+		<h2 id="banner-description">
+		</h2>
+	</div>
+</div>
+
+
+
+
+
+
+			<div id="pagebody">
+                        
+			  <!-- Oct 3 post header - single ad -->
+
+<img border="0" src="assets/9e9313e52f8e6f27b6e45b586040b9fb.gif" align="bottom" width="1000" height="25">	
+
+<div id="top-columns">
+
+		<div id="top-left">
+
+<script type="text/javascript"><!--
+google_ad_client = "ca-pub-0120389414889042";
+/* Header Inside */
+google_ad_slot = "0364357689";
+google_ad_width = 300;
+google_ad_height = 250;
+//-->
+</script>
+<script type="text/javascript" src="assets/33b4d11a35491ae42c8f4ad099c6bb65.js">
+</script>
+		</div>
+		
+		<div id="top-middle">
+
+		<a href="https://www.retrothing.com/2007/11/kenbak-1---the.html"><img border="0" src="assets/7015ff90d74498326a3b833b17077d37.jpg" align="bottom" width="300" height="200"></a>
+<h3 class="image-caption"><img border="0" src="assets/46f47b522e9da195fe7a0893bd11fba0.gif" align="bottom" width="15" height="9">Few people have heard of it, yet many consider John Blankenbaker's KENBAK-1 to be the first commercial personal computer.</h3>
+
+		</div>
+		
+		<div id="top-right">
+
+<a href="https://www.retrothing.com/2009/12/koss-headphones-30-years-later.html"><img border="0" src="assets/1b62978627ca38efdda267b2917fb312.jpg" align="bottom" width="300" height="200"></a>
+<h3 class="image-caption"><img border="0" src="assets/46f47b522e9da195fe7a0893bd11fba0.gif" align="bottom" width="15" height="9">Koss introduced these headphones over 40 years ago, and they remain affordable favorites to this day.</h3>
+
+		</div>
+
+</div>
+
+			<img border="0" src="assets/35fb5ea32e5ceceb808023196c603b18.gif" align="bottom" width="1000" height="20">		
+				<div id="pagebody-inner" class="pkg" style="background-image: url(assets/c4e3679ed7a0f475d380ce5118426512.gif);background-repeat: repeat-y;">
+
+					<div id="alpha">
+						<div id="alpha-inner" class="pkg">
+
+<!-- individual archive entry  -->
+
+<!-- Top of page Google Link Units.  -->
+
+<div class="entry" id="entry-39482598">
+	
+		<h3 class="entry-header">The Atari 2600 celebrates 30 years of low-rez fun</h3>
+                <h5 class="entry-byline">By James Grahame</h5>
+
+	
+	<div class="entry-content">
+		<div class="entry-body">
+			<p><img border="0" src="assets/38b1adb97bde7e62965e6a837a18e5fa.jpg" title="A face only an engineer could love." alt="VCS prototype" />
+
+
+<br />It's funny how anniversaries sneak up on us.</p>
+
+<p>The monstrosity above is an early prototype of the Atari CX2600 Video Computer System that went into production in October 1977. The $199 system came bundled with <em>Combat,</em> two rubberized joysticks, a pair of paddle controllers and a handy dandy RF modulator to mangle your parents' TV reception. </p>
+
+<p>The prototype was built by Steve Mayer and Ron Milner in 1975, and it's now part of the <a href="http://www.computerhistory.org/collections/">Computer History Museum's</a> permanent collection. They relied upon a DEC PDP-11 minicomputer to cross-compile the system's software because there simply weren't any suitable off-the-shelf microcomputers; the <a href="https://www.retrothing.com/2006/02/apple_ii_settin.html">Apple II</a>, <a href="https://www.retrothing.com/2005/10/the_commodore_p.html">Commodore PET </a>and <a href="https://www.retrothing.com/2005/11/trs80_model_one.html">Radio Shack TRS-80</a> were still years away.</p>
+
+<p><img border="0" src="assets/b669adf73214bc8377d15c522f799c63.jpg" title="The original 1977 version of the CX2600 was produced for only a year" alt="CX2600 Sunnyvale" />
+
+
+</p>
+
+<p>The 2600 very nearly didn't happen. The early prototypes relied on a circuit board full of video circuitry which was miniaturized into a single IC, the TIA (Television Interface Adapter). Development costs skyrocketed, and Atari founder Nolan Bushnell realized in 1976 that the company simply didn't have the financial strength to complete the project as <a href="https://www.retrothing.com/2006/02/1975_atari_pong.html">Pong</a> sales plateaued. He sold the company to Warner Communications for $28 million, and it is rumored that the final development cost of the system was more than $100 million. It proved to be an insanely risky but shrewd gamble for Warner.</p>
+
+
+
+<p><img border="0" src="assets/b5e292145c33a667e98b5187b8dd35d4.jpg" title="6507 processor" alt="6507_2" style="margin: 0px 5px 5px 0px; float: left;" />
+ The custom TIA chip was the key to making the system commercially viable. Microcomputer hardware was phenomenally expensive in the mid 1970s, and the first production version was built around only three main chips: the MOS 6507 CPU (a low-cost version of the famed MOS 6502 processor that would eventually power millions of home computers), MOS 6537 RIOT (128 bytes of RAM, two bidirectional I/O ports and a programmable timer), and Jay Miner's crude TIA video chip. The only other significant component was the cartridge ROM.<br /> </p>
+
+<p><img border="0" alt="Combat screenshot" title="Combat just wasn't a fun game to play alone." src="assets/63fb9b93f3e099fb535c227b9c267f18.jpg" style="margin: 0px 0px 5px 5px; float: right;" />Early games such as <em>Combat</em> were crammed into 2K of ROM - a mere 2048 bytes - because memory was incredibly expensive. At the time, no one could imagine using the full 8K that the 6507 was capable of addressing. Incredibly, a handful of later titles included a whopping 32K of bank-switched ROM. </p>
+
+<p>The Atari 2600's impact upon the gaming world was immense. No less than eight variations were produced over its stunning 14 year lifespan, along with three Sears-branded models and over a dozen clones. The system sold in excess of 40 million units, and AtariAge lists well over 1300 different game titles. This is all the more incredible because the system was envisioned to have only a two or three year lifespan before being replaced by something more sophisticated. That day never came. Even though Atari made <a href="https://www.retrothing.com/2006/03/the_less_famous.html">repeated attempts</a> to surpass their initial design, the 2600 remained the pinnacle of the company's console gaming success.</p>
+
+
+<p>The Atari 2600 prototype is part of the <a href="http://www.computerhistory.org/collections/">Computer History Museum's</a> permanent collection in Mountain View, California. Special thanks to <a href="https://atariage.com/">Atari Age</a> for allowing us to reproduce their images as part of Atari Week. Happy Birthday, VCS.</p>
+
+<p>As for you...<em> Have you played Atari today?</em></p>
+		</div>
+		
+	</div>	
+	
+	<p class="entry-footer">
+		Posted by James Grahame on September 28, 2007 in <a href="https://www.retrothing.com/video_games/">Video Games</a>
+ | <a href="https://www.retrothing.com/2007/09/the-atari-2600-.html">Permalink</a>
+	</p>
+</div>
+
+<!-- Twitter & Facebook -->
+<!-- tweet this -->
+<p class="entry-footer-share entry-footer-share-buttons">
+        <span class="entry-footer-links-twitter">
+            <script type="text/javascript">
+                var title = 'The Atari 2600 celebrates 30 years of low-rez fun';
+                var url = 'https://www.retrothing.com/2007/09/the-atari-2600-.html';
+                var limit = 140 - (url.length + 1);
+                if(title.length > limit) {
+                    title = title.substr(0, (limit - 3)) + '...';
+                }
+                var link = 'http://twitter.com/home?status=' + encodeURIComponent(title + ' ' + url);
+                document.write('<a href="' + link + '" target="_blank"'+' class="share-link share-link-twitter">Tweet This!</a>');
+            </script>
+
+<!-- facebook like -->
+<iframe src="https://www.facebook.com/widgets/like.php?href=https%3A%2F%2Fwww.retrothing.com%2F2007%2F09%2Fthe-atari-2600-.html" scrolling="no" frameborder="5" style="border:none; width:390px; height:70px"></iframe>
+
+        </span>
+</p>
+<!-- end twitter & facebook -->
+
+
+
+
+
+<a id="comments"></a>
+
+<!-- Google 336 x 280 Ad between post + comments Sept 2013 -->
+<div style="display:block; float:center; margin: 0px 0px 25px 75px;">
+
+<script async src="assets/0cd73468e920c9cd6270f0fc351b69a6.js"></script>
+<!-- 336 x 280 - following story -->
+<ins class="adsbygoogle"
+     style="display:inline-block;width:336px;height:280px"
+     data-ad-client="ca-pub-0120389414889042"
+     data-ad-slot="1097341499"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
+</div>
+
+
+<h3 class="comments-header">Comments</h3>
+<div class="comments-content">
+    <div id="tpc_thread"></div>
+    <div style="display:none;" id="tpc_post_title">The Atari 2600 celebrates 30 years of low-rez fun</div>
+    <div style="display:none;" id="tpc_post_message"><p><img border="0" src="assets/38b1adb97bde7e62965e6a837a18e5fa.jpg" title="A face only an engineer could love." alt="VCS prototype" />
+
+
+<br />It's funny how anniversaries sneak up on us.</p>
+
+<p>The monstrosity above is an early prototype of the Atari CX2600 Video Computer System that went into production in October 1977. The $199 system came bundled with <em>Combat,</em> two rubberized joysticks, a pair of paddle controllers and a handy dandy RF modulator to mangle your parents' TV reception. </p>
+
+<p>The prototype was built by Steve Mayer and Ron Milner in 1975, and it's now part of the <a href="http://www.computerhistory.org/collections/">Computer History Museum's</a> permanent collection. They relied upon a DEC PDP-11 minicomputer to cross-compile the system's software because there simply weren't any suitable off-the-shelf microcomputers; the <a href="https://www.retrothing.com/2006/02/apple_ii_settin.html">Apple II</a>, <a href="https://www.retrothing.com/2005/10/the_commodore_p.html">Commodore PET </a>and <a href="https://www.retrothing.com/2005/11/trs80_model_one.html">Radio Shack TRS-80</a> were still years away.</p>
+
+<p><img border="0" src="assets/b669adf73214bc8377d15c522f799c63.jpg" title="The original 1977 version of the CX2600 was produced for only a year" alt="CX2600 Sunnyvale" />
+
+
+</p>
+
+<p>The 2600 very nearly didn't happen. The early prototypes relied on a circuit board full of video circuitry which was miniaturized into a single IC, the TIA (Television Interface Adapter). Development costs skyrocketed, and Atari founder Nolan Bushnell realized in 1976 that the company simply didn't have the financial strength to complete the project as <a href="https://www.retrothing.com/2006/02/1975_atari_pong.html">Pong</a> sales plateaued. He sold the company to Warner Communications for $28 million, and it is rumored that the final development cost of the system was more than $100 million. It proved to be an insanely risky but shrewd gamble for Warner.</p>
+
+
+
+<p><img border="0" src="assets/b5e292145c33a667e98b5187b8dd35d4.jpg" title="6507 processor" alt="6507_2" style="margin: 0px 5px 5px 0px; float: left;" />
+ The custom TIA chip was the key to making the system commercially viable. Microcomputer hardware was phenomenally expensive in the mid 1970s, and the first production version was built around only three main chips: the MOS 6507 CPU (a low-cost version of the famed MOS 6502 processor that would eventually power millions of home computers), MOS 6537 RIOT (128 bytes of RAM, two bidirectional I/O ports and a programmable timer), and Jay Miner's crude TIA video chip. The only other significant component was the cartridge ROM.<br /> </p>
+
+<p><img border="0" alt="Combat screenshot" title="Combat just wasn't a fun game to play alone." src="assets/63fb9b93f3e099fb535c227b9c267f18.jpg" style="margin: 0px 0px 5px 5px; float: right;" />Early games such as <em>Combat</em> were crammed into 2K of ROM - a mere 2048 bytes - because memory was incredibly expensive. At the time, no one could imagine using the full 8K that the 6507 was capable of addressing. Incredibly, a handful of later titles included a whopping 32K of bank-switched ROM. </p>
+
+<p>The Atari 2600's impact upon the gaming world was immense. No less than eight variations were produced over its stunning 14 year lifespan, along with three Sears-branded models and over a dozen clones. The system sold in excess of 40 million units, and AtariAge lists well over 1300 different game titles. This is all the more incredible because the system was envisioned to have only a two or three year lifespan before being replaced by something more sophisticated. That day never came. Even though Atari made <a href="https://www.retrothing.com/2006/03/the_less_famous.html">repeated attempts</a> to surpass their initial design, the 2600 remained the pinnacle of the company's console gaming success.</p>
+
+
+<p>The Atari 2600 prototype is part of the <a href="http://www.computerhistory.org/collections/">Computer History Museum's</a> permanent collection in Mountain View, California. Special thanks to <a href="https://atariage.com/">Atari Age</a> for allowing us to reproduce their images as part of Atari Week. Happy Birthday, VCS.</p>
+
+<p>As for you...<em> Have you played Atari today?</em></p></div>
+    <script type="text/javascript">
+        var TPConnect = {};
+
+        TPConnect.tpc_url = 'https://www.retrothing.com/2007/09/the-atari-2600-.html';
+        TPConnect.tpc_title = document.getElementById('tpc_post_title').innerHTML;
+        TPConnect.tpc_message = document.getElementById('tpc_post_message').innerHTML;
+    </script>
+    <script type="text/javascript" src="assets/0c8da7507901434d0ef9db8353318b15.js"></script>
+    <script type="text/javascript" src="assets/5a38f662cbdd97d4161343462af38dbf.js"></script>
+    <noscript><a href="http://profile.typepad.com/services/embed/tpc/6a00d83452989a69e200e5503cca9e8833/thread?permalink=https://www.retrothing.com/2007/09/the-atari-2600-.html">View the entire comment thread.</a></noscript>
+</div>
+
+
+
+						</div>
+					</div>
+					
+					<div id="beta">
+						<div id="beta-inner" class="pkg" style="background-image: url(assets/1d211a17363ac244934cbc873452853b.gif);background-repeat: repeat-y;">
+							<!-- individual post sidebar -->
+<!-- google_ad_section_start(weight=ignore) -->
+
+<!-- two columns -->
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#FFFFFF" width="350" background="http://retrothing.typepad.com/img/sidebar-centerline-rightdot.gif">
+  <tr>
+    <td width="187"  border-right-style: none; border-right-width: 0; border-top-width: 0; border-bottom-width: 0" valign="top">
+
+		<!-- Site info -->
+			<h2 class="module-header">Site Info</h2>
+                	<div class="module-content">
+                		<img border="0" src="assets/15ee7f884f68b8e0e8c073c9afb9390f.gif" align="top" width="15" height="14">     
+				<a href="https://www.retrothing.com/comment.html" title="Contact us!">Contact Us</a>
+			</div>
+			<div class="module-content">
+				<img border="0" src="assets/15ee7f884f68b8e0e8c073c9afb9390f.gif" align="top" width="15" height="14">
+				<a href="https://www.retrothing.com/2006/02/behind_the_scen.html" title="Who's behind this lunacy?">About Retro Thing</a>
+			</div>
+			<div class="module-content">
+				<img border="0" src="assets/15ee7f884f68b8e0e8c073c9afb9390f.gif" align="top" width="15" height="14">
+				<a href="https://www.retrothing.com/submit.html" title="Submit a tip">Submit a Tip</a>
+			</div>  
+		<br>
+		
+		<!-- Google Search box -->
+<form action="https://www.google.com/cse" id="cse-search-box">
+  <div>
+    <input type="hidden" name="cx" value="partner-pub-0120389414889042:9286102633" />
+    <input type="hidden" name="ie" value="UTF-8" />
+    <input type="text" name="q" size="10" />
+    <input type="submit" name="sa" value="Search" />
+  </div>
+</form>
+
+<script type="text/javascript" src="assets/f2fe47b89ed09dbd3d4e3b93df99ad7b"></script>
+
+		<br><a href="https://feeds.feedburner.com/RetroThing"><img src="assets/1d79ec99bd5e5fd8fd283aa3bd0cd626.png" title="subscribe" alt="subscribe with feedburner" border="0" /></a>
+		<br><div><a href="http://www.ifeedreaders.com/news/5/" style="font:9px Verdana, Arial, Helvetica, sans-serif; width:100px;">Feed Button Help</a></div> 
+		
+		<!-- Google/6AM 160x600 skyscraper -->
+<script type="text/javascript"><!--
+google_ad_client = "pub-0120389414889042";
+/* 160x600 skyscraper (inside pages) */
+google_ad_slot = "0490882963";
+google_ad_width = 160;
+google_ad_height = 600;
+//-->
+</script>
+<script type="text/javascript" src="assets/33b4d11a35491ae42c8f4ad099c6bb65.js">
+</script>
+
+<!-- END TAG -->
+		<br> <br>
+
+    </td>
+    <td width="163"  valign="top">
+
+		<!-- Categories -->
+		<div class="module-categories module">
+	        <h2 class="module-header">Sections</h2>
+	        <div class="module-content">
+		   <ul class="module-list">
+			   
+				   
+					<li class="module-list-item">
+					<img border="0" src="assets/15ee7f884f68b8e0e8c073c9afb9390f.gif" align="top" width="15" height="14">
+					<a href="https://www.retrothing.com/automobiles/">
+					Automobiles</a></li>
+				
+				
+			
+				   
+					<li class="module-list-item">
+					<img border="0" src="assets/15ee7f884f68b8e0e8c073c9afb9390f.gif" align="top" width="15" height="14">
+					<a href="https://www.retrothing.com/bikes_and_trikes/">
+					Bikes + Trikes</a></li>
+				
+				
+			
+				   
+					<li class="module-list-item">
+					<img border="0" src="assets/15ee7f884f68b8e0e8c073c9afb9390f.gif" align="top" width="15" height="14">
+					<a href="https://www.retrothing.com/books/">
+					Books</a></li>
+				
+				
+			
+				   
+					<li class="module-list-item">
+					<img border="0" src="assets/15ee7f884f68b8e0e8c073c9afb9390f.gif" align="top" width="15" height="14">
+					<a href="https://www.retrothing.com/cameras_optics/">
+					Cameras + Optics</a></li>
+				
+				
+			
+				   
+					<li class="module-list-item">
+					<img border="0" src="assets/15ee7f884f68b8e0e8c073c9afb9390f.gif" align="top" width="15" height="14">
+					<a href="https://www.retrothing.com/classic_computing/">
+					Classic Computing</a></li>
+				
+				
+			
+				   
+					<li class="module-list-item">
+					<img border="0" src="assets/15ee7f884f68b8e0e8c073c9afb9390f.gif" align="top" width="15" height="14">
+					<a href="https://www.retrothing.com/doityourself/">
+					Do-It-Yourself</a></li>
+				
+				
+			
+				   
+					<li class="module-list-item">
+					<img border="0" src="assets/15ee7f884f68b8e0e8c073c9afb9390f.gif" align="top" width="15" height="14">
+					<a href="https://www.retrothing.com/transportation/">
+					Flying Things</a></li>
+				
+				
+			
+				   
+					<li class="module-list-item">
+					<img border="0" src="assets/15ee7f884f68b8e0e8c073c9afb9390f.gif" align="top" width="15" height="14">
+					<a href="https://www.retrothing.com/games_toys/">
+					Games + Toys</a></li>
+				
+				
+			
+				   
+					<li class="module-list-item">
+					<img border="0" src="assets/15ee7f884f68b8e0e8c073c9afb9390f.gif" align="top" width="15" height="14">
+					<a href="https://www.retrothing.com/handheld_game_consoles/">
+					Handheld Games</a></li>
+				
+				
+			
+				   
+					<li class="module-list-item">
+					<img border="0" src="assets/15ee7f884f68b8e0e8c073c9afb9390f.gif" align="top" width="15" height="14">
+					<a href="https://www.retrothing.com/hifi_audio/">
+					Hi-Fi Audio</a></li>
+				
+				
+			
+				   
+					<li class="module-list-item">
+					<img border="0" src="assets/15ee7f884f68b8e0e8c073c9afb9390f.gif" align="top" width="15" height="14">
+					<a href="https://www.retrothing.com/home_movies/">
+					Home Movies</a></li>
+				
+				
+			
+				   
+					<li class="module-list-item">
+					<img border="0" src="assets/15ee7f884f68b8e0e8c073c9afb9390f.gif" align="top" width="15" height="14">
+					<a href="https://www.retrothing.com/household_design/">
+					Household + Design</a></li>
+				
+				
+			
+				   
+					<li class="module-list-item">
+					<img border="0" src="assets/15ee7f884f68b8e0e8c073c9afb9390f.gif" align="top" width="15" height="14">
+					<a href="https://www.retrothing.com/mechanical_things/">
+					Mechanical Things</a></li>
+				
+				
+			
+				   
+					<li class="module-list-item">
+					<img border="0" src="assets/15ee7f884f68b8e0e8c073c9afb9390f.gif" align="top" width="15" height="14">
+					<a href="https://www.retrothing.com/militaria/">
+					Militaria</a></li>
+				
+				
+			
+				   
+					<li class="module-list-item">
+					<img border="0" src="assets/15ee7f884f68b8e0e8c073c9afb9390f.gif" align="top" width="15" height="14">
+					<a href="https://www.retrothing.com/other/">
+					Miscellania</a></li>
+				
+				
+			
+				   
+					<li class="module-list-item">
+					<img border="0" src="assets/15ee7f884f68b8e0e8c073c9afb9390f.gif" align="top" width="15" height="14">
+					<a href="https://www.retrothing.com/movie_cameras/">
+					Movie Cameras</a></li>
+				
+				
+			
+				   
+					<li class="module-list-item">
+					<img border="0" src="assets/15ee7f884f68b8e0e8c073c9afb9390f.gif" align="top" width="15" height="14">
+					<a href="https://www.retrothing.com/movies_tv/">
+					Movies & TV Shows</a></li>
+				
+				
+			
+				   
+					<li class="module-list-item">
+					<img border="0" src="assets/15ee7f884f68b8e0e8c073c9afb9390f.gif" align="top" width="15" height="14">
+					<a href="https://www.retrothing.com/music/">
+					Music</a></li>
+				
+				
+			
+				   
+					<li class="module-list-item">
+					<img border="0" src="assets/15ee7f884f68b8e0e8c073c9afb9390f.gif" align="top" width="15" height="14">
+					<a href="https://www.retrothing.com/musical_instruments/">
+					Musical Instruments</a></li>
+				
+				
+			
+				   
+					<li class="module-list-item">
+					<img border="0" src="assets/15ee7f884f68b8e0e8c073c9afb9390f.gif" align="top" width="15" height="14">
+					<a href="https://www.retrothing.com/novelties/">
+					Novelties</a></li>
+				
+				
+			
+				   
+					<li class="module-list-item">
+					<img border="0" src="assets/15ee7f884f68b8e0e8c073c9afb9390f.gif" align="top" width="15" height="14">
+					<a href="https://www.retrothing.com/reviews/">
+					Reviews</a></li>
+				
+				
+			
+				   
+					<li class="module-list-item">
+					<img border="0" src="assets/15ee7f884f68b8e0e8c073c9afb9390f.gif" align="top" width="15" height="14">
+					<a href="https://www.retrothing.com/robots/">
+					Robots</a></li>
+				
+				
+			
+				   
+					<li class="module-list-item">
+					<img border="0" src="assets/15ee7f884f68b8e0e8c073c9afb9390f.gif" align="top" width="15" height="14">
+					<a href="https://www.retrothing.com/space/">
+					Space</a></li>
+				
+				
+			
+				   
+					<li class="module-list-item">
+					<img border="0" src="assets/15ee7f884f68b8e0e8c073c9afb9390f.gif" align="top" width="15" height="14">
+					<a href="https://www.retrothing.com/timepieces/">
+					Timepieces</a></li>
+				
+				
+			
+				   
+					<li class="module-list-item">
+					<img border="0" src="assets/15ee7f884f68b8e0e8c073c9afb9390f.gif" align="top" width="15" height="14">
+					<a href="https://www.retrothing.com/video_tv/">
+					Video + TV Gear</a></li>
+				
+				
+			
+				   
+					<li class="module-list-item">
+					<img border="0" src="assets/15ee7f884f68b8e0e8c073c9afb9390f.gif" align="top" width="15" height="14">
+					<a href="https://www.retrothing.com/video_games/">
+					Video Games</a></li>
+				
+				
+			
+		        </ul>
+	                </div>
+                        </div>
+		<br> 
+
+		<!-- Archive list -->
+		 
+		<div class="module-archives module"> 
+			<h2 class="module-header">Archives</h2> 
+			<div class="module-content"> <ul class="module-list"> 
+			<li class="module-list-item">
+			<img border="0" src="assets/15ee7f884f68b8e0e8c073c9afb9390f.gif" align="top" width="15" height="14">
+			<a href="https://www.retrothing.com/2016/11/index.html"> 
+			November 2016</a></li> 
+			<li class="module-list-item">
+			<img border="0" src="assets/15ee7f884f68b8e0e8c073c9afb9390f.gif" align="top" width="15" height="14">
+			<a href="https://www.retrothing.com/2016/02/index.html"> 
+			February 2016</a></li> 
+			<li class="module-list-item">
+			<img border="0" src="assets/15ee7f884f68b8e0e8c073c9afb9390f.gif" align="top" width="15" height="14">
+			<a href="https://www.retrothing.com/2015/09/index.html"> 
+			September 2015</a></li> 
+			<li class="module-list-item">
+			<img border="0" src="assets/15ee7f884f68b8e0e8c073c9afb9390f.gif" align="top" width="15" height="14">
+			<a href="https://www.retrothing.com/2015/07/index.html"> 
+			July 2015</a></li> 
+			 
+			</ul>			
+			</div> 
+			  <div class="module-content">
+			     <img border="0" src="assets/15ee7f884f68b8e0e8c073c9afb9390f.gif" align="top" width="15" height="14">
+			     <a href="https://www.retrothing.com/archives.html">Older Stories</a>
+			  </div>  
+		</div> 
+		
+
+    </td>
+  </tr>
+</table>
+
+
+</p>
+
+</div>
+
+<!-- classic posts -->
+
+<div style="display:block; float:center; margin: 0px 0px 0px 15px;">
+
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#ffffff" width="300" align="left">
+    <tr>
+      <td width="100%">
+      <h2 class="module-header">Classic Retro Thing</h2><br>
+
+<script type="text/javascript" language="javascript" src="assets/a1cc286e3389a34a2024ad411a6735a9.js">
+</script>
+
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- google_ad_section_end -->
+						</div>
+					</div>	
+					
+				</div>
+			</div>
+			
+
+
+
+		</div>
+	</div>
+	
+
+
+
+
+
+
+
+	
+<img border="0" src="assets/8043a3fa8fd3a87d50abbf4a55f609a1.gif" align="bottom" width="1000" height="40">
+
+<script src="assets/497737b3a236606b8160cc1604d12c6e.js" type="text/javascript"></script>
+
+<!-- Copyright & Google tracking -->
+
+<h2 class="copyright">Retro Thing - Copyright © 2005-2016 James Grahame & Bohuš Blahut - All rights reserved</h2>
+<h2 class="copyright"><a href="http://reflexaudio.com/privacy.htm">
+<font size="1">Click 
+here</font></a> for our privacy policy.</h2>
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-326859-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+<br>
+
+<script>
+var linkwithin_site_id = 109979;
+</script>
+<script src="https://www.linkwithin.com/widget.js"></script>
+<a href="http://www.linkwithin.com/"><img src="assets/81ea51b785685c19e69608ac3ad8001a.png" alt="Related Posts Plugin for WordPress, Blogger..." style="border: 0" /></a>
+
+
+<div style="position:fixed;top:0;left:0;width:100%;height:45px;z-index:2147483647;background-color:rgba(253,147,38,0.90) !important;color:black !important;text-align:right !important;font:normal 12px/45px Arial, sans-serif !important;border-radius:0 !important;margin:0 !important;max-width:100% !important;background-repeat: no-repeat !important;background-position: 15px center !important;
+background-image: url(data:image/png;base64,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);
+"><span style="padding-right:15px;">You are viewing a snapshot of <a style='font-weight:bold !important; color:white !important' href='http://www.retrothing.com/2007/09/the-atari-2600-.html'>http://www.retrothing.com/2007/09/the-atari-2600-.html</a> created on 2020/08/11</span></div></body>
+</html>
+
+<script type="text/javascript" src="//www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
+<script type="text/javascript">
+var captchaImgAttempts = 0;
+var allowAnonComments = '0';
+var registrationRequired = 0;
+var registrationOptional = 1;
+var emailRequired = 0;
+var useAvatars = 1;
+
+var showSignInMessaging = 0;
+var jsonURL = "/.services/json-rpc";
+
+var captchaSrc = "/.services/captcha?code_encrypted=";
+var alertCommentCannotBeBlank = "You can not leave an empty comment. Please enter some text in the Comment field.";
+var alertEditingExpired = "Sorry, you're no longer allowed to edit this comment. You may have taken too much time before submitting your edit or someone may have already replied to it.";
+
+var alertAuthorCannotBeBlank = "Name must not be blank.";
+var alertEmailCannotBeBlank = "Email Address must not be blank.";
+var alertAuthorAndEmailCannotBeBlank = "Name and email address are both required!";
+var alertEmailIsInvalid = "The Email Address you entered is invalid. Please enter a valid email address.";
+var alertUnauthorizedAction = "The comments on this post are closed.";
+var msgPostReplyTo = "Reply to ";  
+var msgInReplyTo = "In reply to ";
+var msgPostAComment = "Post a comment ";
+var atpCommentsPath = "/.shared/js/atpcomments_yui.js?v=5";
+var hasChanged = 0;
+var hostName = ".retrothing.com/";
+var tp_comment_token = "1597153900-52a0e3ebb7a1ce2212ba57798fb66b52763ad0d6:bCvc20NMyVwt1uKZ";
+
+var use_recaptcha = 1;
+var recaptcha_publickey = "6Ldg1s4SAAAAAEvvZX2ILFkWp7KB-jjdL4v0JV2e";
+var isPage = 0;
+var blog_xid = "6a00d83452989a69e200e5503cca9e8833";
+var xid = "";
+var injectCode = '<div id=\"comment-preview\" class=\"hiddenBox\">\n\t<h3 id=\"header-verify-comment\" class=\"comments-header font-entryheader  hiddenBox\">Verify your Comment<\/h3>\n    <h3 id=\"header-preview-comment\" class=\"comments-header font-entryheader  hiddenBox\">Previewing your Comment<\/h3>\n\t<div class=\"comments-content font-entrybody\">\n\t\t<div class=\"comment comment-has-avatar\">\n\t\t\t<div id=\"comment-preview-content\" class=\"comment-content\">\n\t\t\t<\/div>\n\t\t\t<p class=\"comment-footer\">\n\t\t\t\tPosted by: \n\t\t\t\t<span id=\"comment-preview-author\"><\/span>&nbsp;|&nbsp;<span id=\"comment-preview-datetime\"><\/span>\n\t\t\t<\/p>\n\t\t<\/div>\n\t<\/div>\n<\/div>\n<div id=\"comment-preview-confirmation\" class=\"font-entrybody hiddenBox yellowBox\">\n    <p>This is only a preview. Your comment has not yet been posted.<\/p>\n        <form id=\"comment-preview-form\"\n                method=\"post\"\n                onsubmit=\"atpComments.interceptPost(1); return false;\">\n                <input type=\"submit\" class=\"form-control font-entrybody\" name=\"post\" id=\"comment-confirm-post\" value=\"&nbsp;Post&nbsp;\" onclick=\"atpComments.interceptPost(1); return false;\"/>\n                <input type=\"submit\" class=\"form-control font-entrybody\"  name=\"edit\" id=\"comment-edit\" value=\"&nbsp;&nbsp;Edit&nbsp;&nbsp;\" onclick=\"atpComments.previewOnly(2); return false;\"/>\n        <span id=\"previewFormSpinner\" class=\"hiddenBox\"><img src=\"/.shared/images/spinner.gif\" alt=\"Working...\" /><\/span>\n        <\/form>\n<\/div>\n\n<div id=\"comment-error\" class=\"hiddenBox font-entrybody redBox\">\t    \n   Your comment could not be posted. Error type: <span id=\"comment-error-msg\"><\/span> \n<\/div>\t\n<div id=\"comment-complete\" class=\"hiddenBox font-entrybody  yellowGreenBox\">\n    Your comment has been posted. <a href=\"javascript:void 0;\" onclick=\"window.location.hash=\'#comment-form\';window.location.reload(false)\">Post another comment<\/a>\n<\/div>\t\n<div id=\"comment-captcha\" class=\"hiddenBox yellowBox font-entrybody\">\t\n    <div id=\"captchaText\">\n\t    <p id=\"captchaFailMsg\" class=\"captchaErrorText hiddenBox\">The letters and numbers you entered did not match the image. Please try again.<\/p>\t    \t        \n\t    <p>As a final step before posting your comment, enter the letters and numbers you see in the image below. This prevents automated programs from posting comments.<\/p>\n\t    <p><span id=\"comment-captcha-viewalt\">Having trouble reading this image? <a href=\"#comment-captcha\" onClick=\"atpComments.generateReCaptcha();\">View an alternate.<\/a><\/span><\/p>\n    <\/div>\n    <form id=\"comment-captcha-form\" \n\t\t  method=\"post\"\n\t\t  onsubmit=\"atpComments.submitWithReCaptcha(); return false;\">\n    <div id=\"recaptcha_content\">\n      <noscript>\n        <iframe src=\"6Ldg1s4SAAAAAEvvZX2ILFkWp7KB-jjdL4v0JV2e\" height=\"300\" width=\"500\" frameborder=\"0\"><\/iframe><br />\n        <textarea name=\"recaptcha_challenge_field\" rows=\"3\" cols=\"40\"><\/textarea>\n        <input type=\'hidden\' name=\'recaptcha_response_field\' value=\'manual_challenge\' />\n      <\/noscript>\n    <\/div>\n  <script type=\"text/javascript\">\n    $(document).ready(function() {\n        Recaptcha.create(\"6Ldg1s4SAAAAAEvvZX2ILFkWp7KB-jjdL4v0JV2e\",\n                         \"recaptcha_content\", {\n                             theme: \"red\",\n                             callback: Recaptcha.focus_response_field\n        });\n    });\n  <\/script>\n        <p>\n            <input type=\"submit\" name=\"continue\" id=\"captcha-continue\" value=\"&nbsp;Continue&nbsp;\" />\n            <span id=\"captchaFormSpinner\" class=\"commentSpinner hiddenBox\"><img src=\"/.shared/images/spinner.gif\" alt=\"Working...\" /><\/span>\n        <\/p>\n    <\/form>\n<\/div>\n'; 
+var entryPermalink = "https://www.retrothing.com/2007/09/the-atari-2600-.html";
+var inlineReply = document.createElement("div");
+var commentFooterLinks;
+var commentHeader;
+var commentReplyXID;
+var commentReplyAuthor;
+var commentReplyComplete;
+var inlineReplyLoaded = 0;
+var commentFormNum = undefined; /* Deprecated but still exists in advanced template sets, so must be defined */
+
+function xidToCommentPermalink (entryUrl, xid) {
+    return entryUrl + "?cid=" + xid + "#comment-" + xid;
+}
+
+
+/* Deprecated advanced template functions */
+function handleSubmit() { return true; };
+function handleChange() { return true; };
+</script>
+<script type="text/javascript" src="assets/8fcacaf2662379ed239eddd515033d68.js"></script>
+<script type="text/javascript" src="assets/79af13fd1c396431158c7fa456e32829.js"></script>
+
+<!-- Begin disqus Tag -->
+
+<!-- End disqus Tag -->
+<!-- ph=1 -->

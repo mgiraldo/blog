@@ -1,0 +1,588 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<html xmlns:og="http://opengraphprotocol.org/schema/"
+      xmlns:fb="http://www.facebook.com/2008/fbml">
+
+<head>
+<title>the show with zefrank<? if ($isready) print " - 07-14-06"; ?></title>
+<meta name="description" content="Offered every weekday, The Show with Ze Frank offers knowledge, humor and duckies." />
+<meta name="keywords" content="ugly, designers, myspace, ugly, ugly song, mushy peas, momma, happy birthday becky, news, humor, podcast, daily, ze frank, zefrank, current events, the show, ducky, rss" />
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta http-equiv="imagetoolbar" content="no" />
+
+<meta property="og:type" content="public_figure"/>
+<meta property="og:title" content="07-14-06"/>
+<meta property="og:url" content="http://www.zefrank.com/theshow/archives/2006/07/071406.html"/>
+<meta property="og:image" content="http://www.zefrank.com/theshow/images/podcast.png"/>
+<meta property="og:site_name" content="Ze Frank"/>
+<meta property="fb:page_id" content="113546358931" />
+<meta property="fb:admins" content="506654603" />
+
+<?
+
+$agent = getenv("HTTP_USER_AGENT");
+$iPhone = preg_match("/iPhone/i", "$agent") || preg_match("/iPod/i", "$agent");
+
+?>
+
+<link rel="stylesheet" href="assets/c98ce173b9f4059aa84935509056a08c.css" type="text/css" />
+
+<? if ($iPhone) { ?>
+<link rel="stylesheet" href="assets/eff5d2b20d0f8aee202bcd16e0933f5f.css" type="text/css" />
+<meta name="viewport" content="width=354" />
+<? } ?>
+
+<link rel="alternate" type="application/rss+xml" title="RSS 2.0" href="http://www.zefrank.com/theshow/index.xml" />
+<link rel="permalink" title="07-14-06" href="http://www.zefrank.com/theshow/archives/2006/07/071406.html" />
+
+<script src="assets/291383aa98a4eb3aa3eb3a13fda72053.js" language="JavaScript" type="text/javascript"></script>
+
+<?
+ $e = "442";
+ if ($e==630) print "<script src='assets/474e741f1a80c14ae6966c7f6a12a6ea.js' language='JavaScript' type='text/javascript'></script>";
+ else print "<script src='assets/87f3e8d46d59fa0cead9bf377e1d8f71.js' language='JavaScript' type='text/javascript'></script>";
+?>
+
+
+
+
+
+
+<style type="text/css">
+.adHeadline {font: normal 9pt Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: underline; color: #8fabbe;}
+.adText {font: normal 9pt Verdana, Geneva, Arial, Helvetica, sans-serif; text-decoration: none; color: #f9f9f9;}
+</style>
+
+</head>
+
+<?
+   include_once "/home/zefrank/public_html/theshow/site4/theshow.php";
+   include_once "/home/zefrank/public_html/theshow/site4/koc.php";
+
+   $embed = trim('165999,161892,Zefrank-071406938.mov,Zefrank-071406938-508.jpg
+');
+?>
+
+<?
+   $matches = explode(",", $embed);
+   $mediaID = $matches[0];
+   $useBlip = 1;
+   $mov = $matches[2];
+?>
+
+
+<?
+   $url = 'http://www.zefrank.com/theshow/archives/2006/07/071406.html';
+   $i = strrpos($url, "/") + 1;
+   $len = strlen($url);
+   $share_url = substr($url, 0, $i) . "share_" . substr($url, $i);
+
+   $entry_title = '07-14-06';
+
+   $commentgame_status = z_commentgame_getstatus($entry_title);
+   $entry_id = "442";
+
+      $comments_accepted = 0;
+   
+
+   $comment_count = 276;
+
+   $bestof = ($entry_id > 668);
+   if ($bestof)
+   {
+      $i = strrpos($entry_title, ":");
+      $bestof_title = trim(substr($entry_title, $i+1));
+   }
+?>
+
+<body>
+
+<div id="page">
+
+<? if ($bestof) { ?>
+<img src="assets/c7752d308431390d9e6e76d53277934f.gif" width="900" height="114" alt="the show with zefrank" border="0" usemap="#worsteastereggever" />
+<? } else if ($iPhone) { ?>
+<img src="assets/2de4d33908dc0dd0357a717974741842.gif" width="350" height="36" alt="the show with zefrank" border="0" />
+<? } else { ?>
+<img src="assets/9c44e6c328af8bf01c22ae858b1aa607.gif" width="900" height="114" alt="the show with zefrank" border="0" usemap="#worsteastereggever" />
+<? } ?>
+<map name="worsteastereggever">
+<area shape="circle" coords="543,22,15" href="http://www.zefrank.com/theshow/randomshow.php" />
+<area shape="rect" coords="0,0,900,114" href="http://www.zefrank.com/theshow/" />
+<area shape="default" href="http://www.zefrank.com/theshow/" />
+</map>
+
+<div id="leftpanel">
+
+<div id="leftmenu">
+<div id="leftmenuspacer">
+<p><a onfocus="blur()"  onmouseover="menuHover(1,1)" onmouseout="menuHover(1,0)" href="javascript:menu(1);">about the show<img id="ma1" src="assets/869c10b342ec49eafac2df91c0861ea6.gif" width="6" height="7" alt="" border="0" /></a></p>
+
+<p class="spacer"><a onfocus="blur()" onmouseover="menuHover(2,1)" onmouseout="menuHover(2,0)" href="http://www.zefrank.com/theshow/popular.html" target="_blank">popular shows</a></p>
+
+<p class="spacer"><a onfocus="blur()" href="http://www.zefrank.com/theshow/randomshow.php" target="_blank">random show</a></p>
+
+
+<p class="spacer"><a onfocus="blur()" onmouseover="menuHover(3,1)" onmouseout="menuHover(3,0)" href="javascript:menu(3);">projects<img id="ma3" src="assets/869c10b342ec49eafac2df91c0861ea6.gif" width="6" height="7" alt="" border="0" /></a></p>
+
+<p class="spacer"><a onfocus="blur()" href="http://www.zefrank.com/theforum/" target="_blank">the forum</a></p>
+<p><a onfocus="blur()" href="http://www.zefrank.com/thewiki/" target="_blank">the wiki</a></p>
+
+
+<p class="spacer"><a onclick="blur();toggleVis('contact');return false;" href="#">contact</a></p>
+
+<div id="contact" class="hidden" style="margin-top: 0px; margin-left: 8px;">
+<p><a onfocus="blur()" href="mailto:theshow@zefrank.com?subject=advertising%20-%20the%20show">&middot;&nbsp;advertising</a></p>
+<p><a onfocus="blur()" href="http://www.zefrank.com/theforum/forumdisplay.php?f=8">&middot;&nbsp;tech issues</a></p>
+<p><a onfocus="blur()" href="mailto:ze@zefrank.com?subject=the%20show">&middot;&nbsp;email ze</a></p>
+</div>
+
+<p class="spacer"><a onfocus="blur()" onmouseover="menuHover(4,1)" onmouseout="menuHover(4,0)" href="javascript:menu(4);">search the site<img id="ma4" src="assets/869c10b342ec49eafac2df91c0861ea6.gif" width="6" height="7" alt="" border="0" /></a></p>
+
+<p class="spacer"><a onfocus="blur()" href="http://www.zefrank.com/theshow/shirts/" target="_blank">buy a shirt</a></p>
+<p><a onfocus="blur()" href="http://www.comedycentral.com/mobile/ringtones/ze_frank/index.jhtml" target="_blank">buy a ringtone</a></p>
+<!--<p><a onfocus="blur()" href="http://www.gimmesomecandy.com/zefrank/" target="_blank">buy a duckie</a></p>-->
+<p><a onfocus="blur()" href="http://click.linksynergy.com/fs-bin/stat?id=QNgNN57UwZc&offerid=78941&type=3&subid=0&tmpid=1826&RD_PARM1=http%253A%252F%252Fphobos.apple.com%252FWebObjects%252FMZStore.woa%252Fwa%252FviewAlbum%253Fi%253D250505730%2526id%253D250505616%2526s%253D143441%2526partnerId%253D30" target="_blank">buy the songs</a></p>
+<p><a onfocus="blur()" href="http://www.jonathancoulton.com/store/downloads#15" target="_blank">coulton covers</a></p>
+
+</div>
+</div>
+
+</div>
+
+<div id="centerpanel">
+
+<div id="theshow">
+
+<div id="navheader">
+<center><table cellpadding="0" cellspacing="0"><tr><td>
+<a href="http://www.zefrank.com/theshow/archives/2006/07/071306.html" onmouseover="javascript:navHover(1,1);" onmouseout="javascript:navHover(1,0);"><img id="nav1" src="assets/f88150164ea71f97bd72f2f373f810a3.gif" height="7" width="6" alt="prev" border="0" />07-13-06</a>&nbsp;|&nbsp;</td><td><span style="color: #333333; font-weight:bold;">07-14-06</span></td><td>&nbsp;|&nbsp;<a href="http://www.zefrank.com/theshow/archives/2006/07/071706.html" onmouseover="javascript:navHover(2,1);" onmouseout="javascript:navHover(2,0);">07-17-06<img id="nav2" src="assets/869c10b342ec49eafac2df91c0861ea6.gif" height="7" width="6" alt="next" border="0" /></a></td></tr></table></center>
+</div>
+
+<center>
+<div id="movie">
+<? if ($iPhone) { 
+   $mov = preg_replace('/\.mov/', '.mp4', $mov);
+?>
+<div class='blip'><embed src='http://blip.tv/file/get/<?=$mov?>' type='video/x-m4v' scale='1' width='350' height='248' autoplay='true' bgcolor='f9f9f9' /></div>
+<? } else { ?>
+<div class='blip' id='blip_movie_content_<?=$mediaID?>'></div>
+
+<script type='text/javascript'src='http://blip.tv/syndication/write_player/?posts_id=<?=$mediaID?>&amp;skin=js&amp;file_type=flv&amp;nowmode=1&amp;thumbnail=http://www.zefrank.com/theshow/site4/leader_blip.gif'></script>
+<script type='text/javascript'>PokkariPlayerOptions.useShowPlayer = true;PokkariPlayerOptions.showPlayerOptions = {brandname: 'zefrank',brandlink: 'http://www.zefrank.com/',tabType1: 'details',tabTitle1: 'About',tabType2: 'guide',tabTitle2: 'More from Ze',tabUrl2: 'http://zefrank.blip.tv/rss/flash'
+};play_blip_movie_<?=$mediaID?>();</script> 
+<? } if (false) { ?>
+<img id="leaderimg" src="assets/ed417c834c8fdacc8bf31b22268a3877.gif" width="320" height="271" alt="theshow" border="0" usemap="#poop" />
+<map name="poop">
+<area shape="rect" coords="197,230,320,270" href="javascript:showFlash('<?=$mediaID?>','movie');" />
+<area shape="rect" coords="0,0,320,271" href="javascript:showQT('<?=$mediaID?>','movie');" />
+<area shape="default" href="javascript:showQT('<?=$mediaID?>','movie');" />
+</map>
+<? } ?>
+</div>
+</center>
+
+<div id="belowvideo">
+<? if ($bestof == false) { z_theshow_commentstats($entry_id, $entry_title, $comments_accepted, $comment_count) ;?>
+<a href="<?=$share_url?>" target="_blank">share this movie</a> <br/> <p>under construction - will be fixed soon!</p>
+<? } ?>
+</div>
+
+<? if ($iPhone) { ?>
+<div id="thetags">
+&quot;ugly, designers, myspace, ugly, ugly song, mushy peas, momma, happy birthday becky&quot;
+
+</div>
+<? } else { ?>
+<div id="thetags" style="width: 468px; max-width: 468px; border: 0px;">
+&quot;ugly, designers, myspace, ugly, ugly song, mushy peas, momma, happy birthday becky&quot;
+
+</div>
+
+<script type="text/javascript" src="assets/1eb89e8d53d242fb35e2011fb58e45a0"></script>
+
+<div id="candytopzone">
+<script type="text/javascript">CANDY.topZone();</script>
+</div>
+
+<? if ($entry_id==577) { ?>
+<center>
+<div>
+<a href="http://www.zefrank.com/theshow/extras/holiday2006.html"><img src="assets/fc7b2590b7397c2b00678809f9b60e2f.gif" width="308" height="350" border="0" alt="gift duckie for ze from the sports racers" />
+</div>
+</center>
+<? } ?>
+
+<? if ($entry_id > 520 && $entry_id < 662) { ?>
+<script type="text/javascript">CANDY.blingZone();</script>
+<br />
+<script type="text/javascript">CANDY.bottomZone();</script>
+<br />
+<? } ?>
+
+<div id="commentblock" style="display:none; visibility:hidden">loading comments...</div>
+
+
+
+<? } // iPhone ?>
+
+</div>
+
+<div id="theshow-margin">
+
+<div id="theshow1" class="hidden">
+<div class="header">about the show</div>
+
+produced monday through friday for one year, "the show with zefrank" was a short video program and podcast by
+<a href="http://www.zefrank.com/thewiki/Ze_Frank" target="_blank">ze frank</a>.
+
+<br /><br />
+
+the show was a conversation between the host and the viewers of the program, called sportsracers.
+
+<br /><br />
+
+like any good conversation, it can be a bit confusing if you join
+in the middle.  to get caught up, watch some <a onfocus="blur()" href="javascript:menu(2)">popular episodes</a>
+and check out <a onfocus="blur()" href="javascript:menu(3)">what the sports racers created</a>.
+
+<br /><br />
+
+an extensive viewer-created <a href="http://www.zefrank.com/thewiki/the_show_with_zefrank" >program guide</a> is available and a friendly <a href="http://www.zefrank.com/theforum/" target="_blank">forum community</a> can also help you out.
+
+<br /><br />
+
+the show began with the <a href="http://www.zefrank.com/theshow/archives/2006/03/031706.html">march 17, 2006 episode</a> and ended exactly one year later.
+
+<br /><br />
+
+you can watch the show by surfing around the archive or subscribe to a best-of feed using the <a href="http://www.zefrank.com/index.xml" target="_blank">RSS&nbsp;feed</a> or <a href="http://phobos.apple.com/WebObjects/MZStore.woa/wa/viewPodcast?id=163927365" target="_blank">iTunes&nbsp;subscription</a> links.  you can also share your favorite videos and post them on your blog or myspace page using the "share this video" link found under each video.
+
+<div class="back"><a href="javascript:menu(0);" onmouseover="javascript:navHover(11,1);" onmouseout="javascript:navHover(11,0);" style="text-decoration: none"><img id="nav11" src="assets/f88150164ea71f97bd72f2f373f810a3.gif" height="7" width="6" alt="prev" style="border: 0px" />back to the show</a></div>
+</div>
+
+<div id="theshow3" class="hidden">
+<div class="header">projects</div>
+
+<table>
+<tr><td class="thumb">
+<img src="assets/e74e46d732248bc6c3e373bd3ed55d62.gif" height="60" width="60" alt="" />
+</td><td>
+<span class="title">earth sandwich</span><br />
+<p class="subtitle">collaborative challenge to align slices of bread<br />on opposite sides of the globe</p>
+<p><a href="http://www.zefrank.com/sandwich/" target="_blank">all about the earth sandwich</a></p>
+</td></tr>
+
+<tr><td class="thumb">
+<a href="http://www.zefrank.com/vacuums/" target="_blank"><img 
+src="assets/052c53434a62146cbb2d4f282ec7e5aa.jpg" height="60" width="60" alt="" />
+</a>
+</td><td>
+<span class="title">dress up</span><br />
+<p class="subtitle">the League of Awesomeness demands that viewers<br />dress up their vacuum cleaners</p>
+<p><a
+href="http://www.zefrank.com/theshow/archives/2006/09/091806.html" target="_blank">challenge episode</a></p>
+</td></tr>
+
+<tr><td class="thumb">
+<a href="http://www.zefrank.com/theshow/whipass" target="_blank"><img src="assets/4a1bf259823c5b9f282afdba1196428a.jpg" height="60" width="60" alt="" /></a>
+</td><td>
+<a href="http://www.zefrank.com/theshow/whipass" target="_blank"><span class="title">remixes for ray</span></a><br />
+<p class="subtitle">ray wrote a song to make his daughter happy<br />we made remixes to make Ray happy</p>
+<p><a href="http://www.zefrank.com/theshow/whipass" target="_blank">remixes</a> | <a href="http://www.zefrank.com/theshow/archives/2006/09/091906.html" target="_blank">challenge episode</a> | <a href="http://www.zefrank.com/theshow/archives/2007/02/022807.html" target="_blank">meet ray</a></p>
+</td></tr>
+
+<tr><td class="thumb">
+<a href="http://www.zefrank.com/wiki/index.php/I_knows_me_some_ugly_myspace_showdown" target="_blank"><img src="assets/a4a8190d4b5c1fcef2455aa4bc99e4f8.jpg" height="60" width="60" alt="" /></a>
+</td><td>
+<a href="http://www.zefrank.com/wiki/index.php/I_knows_me_some_ugly_myspace_showdown" target="_blank"><span class="title">i knows me some ugly myspace showdown</span></a><br />
+<p class="subtitle">who can craft the ugliest myspace page?</p>
+<p><a href="http://www.zefrank.com/wiki/index.php/I_knows_me_some_ugly_myspace_showdown" target="_blank">contestants</a> | <a
+href="http://www.zefrank.com/theshow/archives/2006/07/071406.html" target="_blank">challenge episode</a> | <a
+href="http://www.myspace.com/soybuddha" target="_blank">ugliest page winner<img style="border: 0px" src="assets/f709cd036ee082c3381b00fad19b206f.gif" width="5" height="6" alt="" /></a></p>
+</td></tr>
+
+<tr><td class="thumb">
+<img src="assets/fac420d7f16f11a3cb27fd61dd9e739c.jpg" height="60" width="60" alt="" />
+</td><td>
+<span class="title">carve a pumpkin jamboree</span><br />
+<p class="subtitle">the twist: a body part must be inside the pumpkin</p>
+<p><a
+href="http://www.zefrank.com/theshow/archives/2006/10/102006.html" target="_blank">challenge episode</a></p>
+</td></tr>
+
+<tr><td class="thumb">
+<a href="http://www.zefrank.com/theshow/archives/2006/06/060906.html" target="_blank"><img src="assets/26d3567c869710412fd461ed15bc6bc3.jpg" height="60" width="60" alt="" /></a>
+</td><td>
+<a href="http://www.zefrank.com/theshow/archives/2006/06/060906.html" target="_blank"><span class="title">fabuloso friday</span></a>
+<p class="subtitle">viewers write an episode of the show</p>
+<p><a href="http://www.zefrank.com/theshow/archives/2006/06/060906.html" target="_blank">episode</a> | <a href="http://www.zefrank.com/wiki/index.php/Fabuloso_Friday" target="_blank">collaborative script wiki</a> | <a
+href="http://www.nytimes.com/2006/06/18/fashion/sundaystyles/18ze.html?ex=1153022400&amp;en=de11935d930bb2e0&amp;ei=5070" target="_blank">NYT coverage (reg req'd)<img style="border: 0px" src="assets/f709cd036ee082c3381b00fad19b206f.gif" width="5" height="6" alt="" /></a></p>
+</td></tr>
+
+<tr><td class="thumb">
+<a class="title" href="http://www.zefrank.com/thewiki/Fabuloso_Friday_2/Fabuloso_Chess" target="_blank"><img src="assets/2a53a74029b85c0e6dc9dd1d79cd32de.jpg" height="60" width="60" alt="" /></a>
+</td><td>
+<a href="http://www.zefrank.com/thewiki/Fabuloso_Friday_2/Fabuloso_Chess" target="_blank"><span class="title">fabuloso chess</span></a><br />
+<p class="subtitle">the fabulosos inadvertently challenge Ze to a game of chess</p>
+<p><a href="http://www.zefrank.com/thewiki/Fabuloso_Friday_2/Fabuloso_Chess" target="_blank">strategy wiki</a> | <a
+href="http://www.zefrank.com/theshow/archives/2006/06/062206_1.html" target="_blank">challenge episode</a> | <a
+href="http://www.zefrank.com/theshow/archives/2007/03/030808.html" target="_blank">the prize</a></p>
+
+</td></tr></table>
+
+<div class="back"><a href="javascript:menu(0);" onmouseover="javascript:navHover(13,1);" onmouseout="javascript:navHover(13,0);"><img id="nav13" src="assets/f88150164ea71f97bd72f2f373f810a3.gif" height="7" width="6" alt="prev" style="border: 0px" />back to the show</a></div>
+</div>
+
+<div id="theshow4" class="hidden">
+
+<div id="search1" class="hidden">
+<form id="searchbox_009471525974103222997:8lbh86eqw9g" action="http://www.google.com/cse">
+  <input type="hidden" name="cx" value="009471525974103222997:8lbh86eqw9g" />
+  <input class="searchbox" id="f1" name="q" type="text" size="35" value=" " />
+<input class="searchbutton" type="submit" name="sa" value="search" />
+  <input type="hidden" name="cof" value="FORID:1" />
+</form>
+<script type="text/javascript" src="assets/5a6cd4c98478dfec03e963bd0a1a9c61"></script>
+</div>
+
+<div id="search2" class="hidden">
+<form id="searchbox_009471525974103222997:fezg3rvulmu" action="http://www.google.com/cse">
+  <input type="hidden" name="cx" value="009471525974103222997:fezg3rvulmu" />
+  <input class="searchbox" id="f2" name="q" type="text" size="35" value=" " />
+<input class="searchbutton" type="submit" name="sa" value="search" />
+  <input type="hidden" name="cof" value="FORID:1" />
+</form>
+<script type="text/javascript" src="assets/a3b788d79332ece6bc0d8471b244a8c5"></script>
+</div>
+
+<div id="search3" class="hidden">
+<form id="searchbox_009471525974103222997:tmu4x4wvyrq" action="http://www.google.com/cse">
+  <input type="hidden" name="cx" value="009471525974103222997:tmu4x4wvyrq" />
+  <input class="searchbox" id="f3" name="q" type="text" size="35" value=" " />
+<input class="searchbutton" type="submit" name="sa" value="search" />
+  <input type="hidden" name="cof" value="FORID:1" />
+</form>
+<script type="text/javascript" src="assets/f6541313a84b39f385cc8ea722f3d60d"></script>
+</div>
+
+<div id="search4">
+<form id="searchbox_009471525974103222997:5pvrdjhri-w" action="http://www.google.com/cse">
+  <input type="hidden" name="cx" value="009471525974103222997:5pvrdjhri-w" />
+  <input class="searchbox" id="f4" name="q" type="text" size="35" value=" " />
+<input class="searchbutton" type="submit" name="sa" value="search" />
+  <input type="hidden" name="cof" value="FORID:1" />
+</form>
+<script type="text/javascript" src="assets/4be596c5c0088505a42f833621d8e870"></script>
+</div>
+
+<div id="searchoptions">
+<form action="" onsubmit="return false">
+<input type="radio" onclick="javascript:blur();showSearch(1)" name="1" />&nbsp;transcripts&nbsp;&nbsp;
+<input type="radio" onclick="javascript:blur();showSearch(2)" name="1" />&nbsp;the wiki&nbsp;&nbsp;
+<input type="radio" onclick="javascript:blur();showSearch(3)" name="1" />&nbsp;the forum&nbsp;&nbsp;
+<input type="radio" onclick="javascript:blur();showSearch(4)" name="1" checked="checked" />&nbsp;everything&nbsp;&nbsp;
+</form>
+</div>
+
+<div id="searchback" style="margin-right: 10px"><a style="text-decoration: none" href="javascript:menu(0);" onmouseover="javascript:navHover(14,1);" onmouseout="javascript:navHover(14,0);"><img id="nav14" src="assets/f88150164ea71f97bd72f2f373f810a3.gif" height="7" width="6" alt="prev" style="border: 0px" />back to the show</a></div>
+
+</div>
+
+<div id="theshow2" class="hidden">
+<div class="header">popular shows</div>
+</br></br>
+<p class="spacer"><a onfocus="blur()" href="http://www.zefrank.com/theshow/pop_show.html" target="_blank">go to the popular show page (larger listing)</a><br /><a onfocus="blur()" href="http://www.zefrank.com/thewiki/favorite_shows" target="_blank">go to the wiki top 50</a></p>
+
+<table>
+
+ <tr>
+   <td align="center" class="thumb"><a  href="http://www.zefrank.com/theshow/archives/2006/05/051506.html" target="_blank"><span class="title">hindsight </span></a> <br />
+       <span class="date">(05-15-06)</span><br />
+       <a  href="http://www.zefrank.com/theshow/archives/2006/05/051506.html" target="_blank"><img src="assets/0ee15889023f0adfedf791b47d8421f9.jpg" height="75" width="100" alt="" /></a><br />
+       <a href="http://www.zefrank.com/theshow/archives/2006/05/051506.html" target="_blank">watch</a> | <a 
+href="http://www.zefrank.com/wiki/index.php/the%20show:%2005-15-06" target="_blank">transcript</a></td>
+   <td align="center" class="thumb"><a href="http://www.zefrank.com/theshow/archives/2006/08/083006.html" target="_blank"><span class="title">fingers in food </span></a> <span class="date"><br />
+     (08-30-06)</span><a href="http://www.zefrank.com/theshow/archives/2006/08/083006.html" target="_blank"><br />
+  <img src="assets/c86627cc92c1b69d391ec883425d3a0e.jpg" height="75" width="100" alt="" /><br />
+       watch</a> | <a 
+href="http://www.zefrank.com/wiki/index.php/the%20show:%2008-30-06" target="_blank">transcript</a><a href="http://www.zefrank.com/theshow/archives/2006/08/083006.html" target="_blank"></a></td>
+   <td align="center" class="thumb"><a href="http://www.zefrank.com/theshow/archives/2006/05/050806.html" target="_blank"><span class="title">austrian arrows</span></a><br />
+       <span class="date">(05-08-06)</span><br />
+       <a href="http://www.zefrank.com/theshow/archives/2006/05/050806.html" target="_blank"><img src="assets/86046c4582b17ec66c9110c6cb6fe2f4.jpg" height="75" width="100" alt="" /></a><br />
+       <a href="http://www.zefrank.com/theshow/archives/2006/05/050806.html" target="_blank">watch </a>| <a 
+href="http://www.zefrank.com/wiki/index.php/the%20show:%2005-08-06" target="_blank"> transcript</a></td>
+  </tr>
+
+<tr>
+  <td align="center" class="thumb"><a  href="http://www.zefrank.com/theshow/archives/2006/11/112706.html" target="_blank"><span class="title">scrabble</span></a> <br />
+      <span class="date">(11-27-06)</span><br />
+      <a href="http://www.zefrank.com/theshow/archives/2006/11/112706.html" target="_blank"><img src="http://www.zefrank.com/theshow/thumb/scrabble.jpg" height="75" width="100" alt="" /></a><br />
+      <a href="http://www.zefrank.com/theshow/archives/2006/11/112706.html" target="_blank">watch </a> | <a 
+href="http://www.zefrank.com/thewiki/the_show:_11-27-06" target="_blank">transcript</a></td>
+  <td align="center" class="thumb"><a  href="http://www.zefrank.com/theshow/archives/2006/05/050506.html" target="_blank"><span class="title">anti-intellect </span></a> <br />
+      <span class="date">(05-05-06)</span><br />
+      <a href="http://www.zefrank.com/theshow/archives/2006/05/050506.html" target="_blank"><img src="http://www.zefrank.com/theshow/thumb/05_05_06.jpg" alt="" width="100" height="75" border="0" /></a><br />
+      <a href="http://www.zefrank.com/theshow/archives/2006/05/050506.html" target="_blank">watch </a> | <a 
+href="http://www.zefrank.com/thewiki/the_show:_05-05-06" target="_blank">transcript</a></td>
+  <td align="center" class="thumb"><a href="http://www.zefrank.com/theshow/archives/2006/08/082906.html" target="_blank"><span class="title">jon benet&trade;</span></a><br />
+      <span class="date">(08-29-06)</span><br />
+      <a href="http://www.zefrank.com/theshow/archives/2006/08/082906.html" target="_blank"><img src="assets/de4301d3e796434a65c02768f6f11814.jpg" height="75" width="100" alt="" /></a><br />
+      <a href="http://www.zefrank.com/theshow/archives/2006/08/082906.html" target="_blank">watch </a> | <a 
+href="http://www.zefrank.com/wiki/index.php/the%20show:%2008-29-06" target="_blank"> transcript</a></td>
+  </tr>
+<tr>
+  <td align="center" class="thumb"><a  href="http://www.zefrank.com/theshow/archives/2007/01/010406.html" target="_blank"><span class="title">placement </span></a> <br />
+      <span class="date">(01-04-07)</span><br />
+      <a href="http://www.zefrank.com/theshow/archives/2007/01/010406.html" target="_blank"><img src="http://www.zefrank.com/theshow/thumb/01_04_07.jpg" alt="" width="100" height="75" border="0" /></a><br />
+      <a href="http://www.zefrank.com/theshow/archives/2007/01/010406.html" target="_blank">watch </a> | <a 
+href="http://www.zefrank.com/thewiki/the_show:_01-04-07" target="_blank">transcript</a></td>
+  <td align="center" class="thumb"><a  href="http://www.zefrank.com/theshow/archives/2007/02/020107.html" target="_blank"><span class="title">supabah</span></a> <br />
+       <span class="date">(02-01-07)</span><br /><a href="http://www.zefrank.com/theshow/archives/2007/02/020107.html" target="_blank"><img src="http://www.zefrank.com/theshow/thumb/supabah.jpg" alt="" width="100" height="75" border="0" /></a><br />
+  <a href="http://www.zefrank.com/theshow/archives/2006/07/072506.html" target="_blank">watch </a> | <a 
+href="http://www.zefrank.com/thewiki/the_show:_02-01-07" target="_blank">transcript</a></td>
+  <td align="center" class="thumb"><a  href="http://www.zefrank.com/theshow/archives/2006/05/051506.html" target="_blank"><span class="title">olympics</span></a> <br />
+       <span class="date">(11-14-06)</span><br />
+       <a href="http://www.zefrank.com/theshow/archives/2006/11/111406.html" target="_blank"><img src="http://www.zefrank.com/theshow/thumb/olympics.jpg" alt="" width="100" height="75" border="0" /></a><br />
+  <a href="http://www.zefrank.com/theshow/archives/2006/07/072506.html" target="_blank">watch </a> | <a 
+href="http://www.zefrank.com/thewiki/the_show:_11-" target="_blank">transcript</a></td>
+  </tr>
+<tr>
+  <td align="center" class="thumb"><a  href="http://www.zefrank.com/theshow/archives/2007/01/011607.html" target="_blank"><span class="title">outside</span></a> <br />
+      <span class="date">(01-16-07)</span><br />
+    <a href="http://www.zefrank.com/theshow/archives/2007/01/011607.html" target="_blank"><img src="http://www.zefrank.com/theshow/thumb/outside.jpg" alt="" width="100" height="75" border="0" /></a><br />
+      <a href="http://www.zefrank.com/theshow/archives/2007/01/011607.html" target="_blank">watch </a> | <a 
+href="http://www.zefrank.com/thewiki/the_show:_01-16-07" target="_blank">transcript</a></td>
+  <td align="center" class="thumb"><a  href="http://www.zefrank.com/theshow/archives/2006/07/071106.html" target="_blank"><span class="title">brain crack </span></a> <br />
+       <span class="date">(07-11-06)</span><br /><a href="http://www.zefrank.com/theshow/archives/2006/07/071106.html" target="_blank"><img src="assets/58316b905a77daa4d4254183da4352de.jpg" alt="" width="100" height="75" border="0" /></a><br />
+  <a href="http://www.zefrank.com/theshow/archives/2006/07/072506.html" target="_blank">watch </a> | <a 
+href="http://www.zefrank.com/thewiki/the_show:_07-11-06" target="_blank">transcript</a></td>
+  <td align="center" class="thumb"><a  href="http://www.zefrank.com/theshow/archives/2006/12/120506.html" target="_blank"><span class="title">snakes &amp; cages </span></a> <br />
+       <span class="date">(12-05-06)</span><br /><a href="http://www.zefrank.com/theshow/archives/2006/12/120506.html" target="_blank"><img src="http://www.zefrank.com/theshow/thumb/snakes_cages.jpg" alt="" width="100" height="75" border="0" /></a><br />
+  <a href="http://www.zefrank.com/theshow/archives/2006/07/072506.html" target="_blank">watch </a> | <a 
+href="http://www.zefrank.com/thewiki/the_show:_12-05-06" target="_blank">transcript</a></td>
+  </tr>
+<tr>
+  <td align="center" class="thumb"><a  href="http://www.zefrank.com/theshow/archives/2006/11/111506.html" target="_blank"><span class="title">wii</span></a> <br />
+      <span class="date">(01-18-07)</span><br />
+      <a href="http://www.zefrank.com/theshow/archives/2007/01/011807.html" target="_blank"><img src="http://www.zefrank.com/theshow/thumb/wii_youwin.jpg" alt="" width="100" height="75" border="0" /></a><br />
+      <a href="http://www.zefrank.com/theshow/archives/2007/01/011807.html" target="_blank">watch </a> | <a 
+href="http://www.zefrank.com/thewiki/the_show:_01-18-07" target="_blank">transcript</a></td>
+  <td align="center" class="thumb"><a  href="http://www.zefrank.com/theshow/archives/2006/08/081706.html" target="_blank"><span class="title">ICEC</span></a> <br />
+    <span class="date">(08-17-06)</span><br /><a href="http://www.zefrank.com/theshow/archives/2006/08/081706.html" target="_blank"><img src="http://www.zefrank.com/theshow/thumb/icec.jpg" alt="" width="100" height="75" border="0" /></a><br />
+    <a href="http://www.zefrank.com/theshow/archives/2006/08/081706.html" target="_blank">watch </a> | <a 
+href="http://www.zefrank.com/thewiki/the_show:_08-17-06" target="_blank">transcript</a></td>
+  <td align="center" class="thumb"><a  href="http://www.zefrank.com/theshow/archives/2006/11/111606.html" target="_blank"><span class="title">sleeping macho </span></a> <br />
+      <span class="date">(11-16-06)</span><br />
+      <a href="http://www.zefrank.com/theshow/archives/2006/11/111606.html" target="_blank"><img src="http://www.zefrank.com/theshow/thumb/sleeping_macho.jpg" alt="" width="100" height="75" border="0" /></a><br />
+      <a href="http://www.zefrank.com/theshow/archives/2006/11/111606.html" target="_blank">watch </a> | <a 
+href="http://www.zefrank.com/thewiki/the_show:_11-16-06" target="_blank">transcript</a></td>
+</tr>
+</table>
+
+<div class="back"><a href="javascript:menu(0);" onmouseover="javascript:navHover(12,1);" onmouseout="javascript:navHover(12,0);"><img id="nav12" src="assets/f88150164ea71f97bd72f2f373f810a3.gif" height="7" width="6" alt="prev" style="border: 0px" />back to the show</a></div>
+
+</div>
+</div>
+</div>
+
+<div id="rightpanel">
+
+<div id="rightpanelshow">
+<div id="rightbox">
+<div id="rightboxspacer">today's links</div>
+</div>
+<br>
+<div id="rightdetails">
+
+<fb:like href="http://www.zefrank.com/theshow/archives/2006/07/071406.html" layout="button_count" show_faces="false" width="225"></fb:like> 
+
+
+<p><a href="http://www.zefrank.com/theshow/uglymyspace/" target=_blank>VOTE IN THE<br />
+UGLY MYSPACE<br />
+CONTEST!!!</a></p>
+
+<? if ($bestof) { ?>
+<p><a href="http://www.zefrank.com/thewiki/the%20show:%20<? print $bestof_title; ?>" target="_blank">wiki: <? print $bestof_title; ?></a></p>
+<? } else { ?>
+<p><a href="http://www.zefrank.com/thewiki/the%20show:%2007-14-06" target="_blank">wiki: 07-14-06</a></p>
+<? } ?>
+
+
+<a href="http://www.zefrank.com/wiki/index.php/Ze_Frank/Press" target="_blank">press coverage</a><br />
+
+<a href="http://www.zefrank.com/theshow/index.xml" target="_blank">subscribe</a><img src="assets/8af8497e7c2bee5520aacbf0e3971ca2.gif" width="10" height="10" style="margin-left: 4px;" border="0" alt="rss" /><br />
+<br />
+
+<table><tr><td width=120>
+<script type="text/javascript">
+//<![CDATA[
+(function(id) {
+ document.write('<script type="text/javascript" src="' +
+   'http://connect.decknetwork.net/deck' + id + '_js.php?' +
+   (new Date().getTime()) + '"></' + 'script>');
+})("ZF");
+//]]>
+</script>
+
+<p class="spacer" style="color: #cccccc">the show<br />&copy; zefrank 2006-8</p>
+
+</div>
+</div>
+</div>
+</div>
+
+<div class="hidden">
+<img src="assets/b0b5e42c706db7fa69a58dacf9c3d2c6.gif" alt="" />
+<img src="assets/3f0a93a27bbc2bc057c94beb4c5286af.gif" alt="" />
+
+<img src="assets/c5c47ddfadbc8fd4902f5f1e9c9a00ce.gif" alt="" />
+<img src="assets/6dddab9153dcfd36db1494e7391323bd.gif" alt="" />
+<img src="assets/5d6882cb5882aa0fdb4a726c14b8443b.gif" alt="" />
+<img src="assets/c004ca6e692a0da23ee94e4239551e2d.gif" alt="" />
+<img src="assets/cbff85a4f0c2434d97c8da84aa700efe.gif" alt="" />
+
+<img src="assets/c878ea38fa8acdaf0ad7de415ee9e94f.gif" alt="" />
+<img src="assets/51c0f90e14fa085c54906534a41ae708.gif" alt="" />
+<img src="assets/2193028119b1e31b4178ee5bca74dafe.gif" alt="" />
+<img src="assets/fdddc58308d145e10835f0881c2e2446.gif" alt="" />
+<img src="assets/34b7db954bb02b3a5559bb230feda3f1.gif" alt="" />
+<img src="assets/3752d6ad136d881131e751d889d0857f.gif" alt="" />
+<img src="assets/faeab9ded0d32e655619e4024c015b46.gif" alt="" />
+<img src="assets/d0e4fd22d4c344ca75d0a0added5f085.gif" alt="" />
+
+</div>
+
+
+<script type="text/javascript">
+var gaJsHost = (("https:" == document.location.protocol) ? "https://ssl." : "http://www.");
+document.write(unescape("%3Cscript src='" + gaJsHost + "google-analytics.com/ga.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+<script type="text/javascript">
+try {
+var pageTracker = _gat._getTracker("UA-13162169-1");
+pageTracker._trackPageview();
+} catch(err) {}</script>
+
+
+<div id="fb-root"></div>
+<script>
+window.fbAsyncInit = function() {
+FB.init({appId: '114024458649869', status: true, cookie: true,
+xfbml: true});
+};
+(function() {
+var e = document.createElement('script'); e.async = true;
+e.src = document.location.protocol +
+'//connect.facebook.net/en_US/all.js';
+document.getElementById('fb-root').appendChild(e);
+}());
+</script>
+
+
+<div style="position:fixed;top:0;left:0;width:100%;height:45px;z-index:2147483647;background-color:rgba(253,147,38,0.90) !important;color:black !important;text-align:right !important;font:normal 12px/45px Arial, sans-serif !important;border-radius:0 !important;margin:0 !important;max-width:100% !important;background-repeat: no-repeat !important;background-position: 15px center !important;
+background-image: url(data:image/png;base64,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);
+"><span style="padding-right:15px;">You are viewing a snapshot of <a style='font-weight:bold !important; color:white !important' href='http://www.zefrank.com/theshow/archives/2006/07/071406.html'>http://www.zefrank.com/theshow/archives/2006/07/071406.html</a> created on 2020/08/12</span></div></body>
+</html>
+

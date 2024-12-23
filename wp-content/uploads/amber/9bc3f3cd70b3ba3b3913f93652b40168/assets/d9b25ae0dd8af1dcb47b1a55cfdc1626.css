@@ -1,0 +1,86 @@
+@charset "iso-8859-1";
+
+
+
+body,td,li{
+	line-height:12pt;
+}
+
+body,td,form,li{
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size:8pt;
+	color:#585858;
+}
+input{
+	font-size:8pt;
+}
+
+A
+{
+COLOR:"";text-decoration:none}a:link{color:;text-decoration:none
+}
+
+
+em{
+	font-style:normal;
+}
+
+p{
+	margin-top:4px;
+	margin-bottom:8px;
+	padding-right:12px;
+}
+ul{
+	margin-top:4px;
+	font-size:9pt;
+}
+ul li{
+	list-style-type:none;
+	list-style-position:outside;
+	margin-left:-38px;
+	padding-left:10px;
+	background-image:url(../assets/32eba6093eb8bb4430c523f1ad2d7801.gif);
+	background-repeat:no-repeat;
+}
+
+
+
+
+
+
+
+
+
+.border1pxGrey {
+	border: 1px solid #EEEEEE;
+}
+
+.linkArea {
+}
+
+.linkArea a {
+	text-decoration:none;
+    color:#585858;
+}
+
+.linkArea a.linkMore{
+	color:#074888;
+}
+
+
+
+<style>
+<!--
+p {text-align : justify}
+
+A  {text-decoration : none; color : #3399CC}
+A:Visited  {text-decoration : none; color : #077ba1}
+A:Active  {text-decoration : none; color : #0033FF}
+A:Hover  {text-decoration : underline; color : blue}
+
+.none {text-decoration: none; color:#3366cc}
+.none2 {text-decoration: none; color:#551C81}
+.none3 {text-decoration: none; color:#11708B}
+.box {font-size: 12px}
+-->
+</style>

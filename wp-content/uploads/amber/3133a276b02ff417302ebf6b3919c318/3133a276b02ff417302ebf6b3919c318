@@ -1,0 +1,273 @@
+<html>
+<head><script type="text/javascript" language="JavaScript" src="assets/e01fe43fefe8e403dfd99d9270ff4693.js"></script>
+
+<!-- BEGIN noticia --><title> ELMUNDO.ES | SUPLEMENTOS | MAGAZINE 410 | En Japón le idolatran más que a David Beckham </title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="stylesheet" href="https://e00-elmundo.uecdn.es/suplementos/estilos/mgzn_nw.css" type="text/css">
+<script type="text/javascript" language="javascript" src="assets/bc81b47f89a580615a205245706edf70.js"></script>
+<script>window.googlefc=window.googlefc||{},window.googlefc.callbackQueue=window.googlefc.callbackQueue||[],googlefc.controlledMessagingFunction=function(e){var o=!1;try{if(new RegExp("https?://www.elmundo.es/(em/premium.html)?$").test(window.location.origin+window.location.pathname))console.log("GFC in home or premium page"),o=!1,e.proceed(o);else{if(window._apw=window._apw||{},!window._apw||!window._apw.settings)return console.log("GFC _apw not defined"),void e.proceed(!1);_apw&&_apw.settings&&_apw.settings.payload&&_apw.settings.payload.user&&null!=_apw.settings.payload.user.uid?_apw.modules.subscribers_ac.load(function(o){o&&o.subscribed("5")?(console.log("GFC premium user"),e.proceed(!1)):(console.log("GFC not premium user"),"function"==typeof envioSC&&"function"==typeof s_gi&&envioSC("mostrarGFC"),e.proceed(!0))}):(o=!0,console.log("GFC show message: "+o),1==o&&"function"==typeof envioSC&&"function"==typeof s_gi&&envioSC("mostrarGFC"),e.proceed(o))}}catch(o){console.log("GFC test exception"),e.proceed(!1)}};</script>
+<script async src="https://contributor.google.com/scripts/390bb73beea1e4b2/loader.js"></script><script>(function(){'use strict';var g=function(a){var b=0;return function(){return b<a.length?{done:!1,value:a[b++]}:{done:!0}}},l=this||self,aa=/^[\w+/_-]+[=]{0,2}$/,m=null,p=function(){},q=function(a){var b=typeof a;if("object"==b)if(a){if(a instanceof Array)return"array";if(a instanceof Object)return b;var c=Object.prototype.toString.call(a);if("[object Window]"==c)return"object";if("[object Array]"==c||"number"==typeof a.length&&"undefined"!=typeof a.splice&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("splice"))return"array";if("[object Function]"==c||"undefined"!=typeof a.call&&"undefined"!=typeof a.propertyIsEnumerable&&!a.propertyIsEnumerable("call"))return"function"}else return"null";else if("function"==b&&"undefined"==typeof a.call)return"object";return b},r=Date.now||function(){return+new Date},t=function(a,b){function c(){}c.prototype=b.prototype;a.prototype=new c;a.prototype.constructor=a};var ba=function(a,b){Object.defineProperty(l,a,{configurable:!1,get:function(){return b},set:p})};var x=function(a,b){this.b=a===v&&b||"";this.a=w},w={},v={};var ca=function(a,b){a.src=b instanceof x&&b.constructor===x&&b.a===w?b.b:"type_error:TrustedResourceUrl";if(null===m)b:{b=l.document;if((b=b.querySelector&&b.querySelector("script[nonce]"))&&(b=b.nonce||b.getAttribute("nonce"))&&aa.test(b)){m=b;break b}m=""}b=m;b&&a.setAttribute("nonce",b)};var y=function(){return Math.floor(2147483648*Math.random()).toString(36)+Math.abs(Math.floor(2147483648*Math.random())^r()).toString(36)};var z=function(a,b){b=String(b);"application/xhtml+xml"===a.contentType&&(b=b.toLowerCase());return a.createElement(b)},A=function(a){this.a=a||l.document||document};A.prototype.appendChild=function(a,b){a.appendChild(b)};var B=function(a,b,c,d,e,f){try{var k=a.a,h=z(a.a,"SCRIPT");h.async=!0;ca(h,b);k.head.appendChild(h);h.addEventListener("load",function(){e();d&&k.head.removeChild(h)});h.addEventListener("error",function(){0<c?B(a,b,c-1,d,e,f):(d&&k.head.removeChild(h),f())})}catch(n){f()}};var da=l.atob("aHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vaW1hZ2VzL2ljb25zL21hdGVyaWFsL3N5c3RlbS8xeC93YXJuaW5nX2FtYmVyXzI0ZHAucG5n"),ea=l.atob("WW91IGFyZSBzZWVpbmcgdGhpcyBtZXNzYWdlIGJlY2F1c2UgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlIGlzIGludGVyZmVyaW5nIHdpdGggdGhpcyBwYWdlLg=="),fa=l.atob("RGlzYWJsZSBhbnkgYWQgb3Igc2NyaXB0IGJsb2NraW5nIHNvZnR3YXJlLCB0aGVuIHJlbG9hZCB0aGlzIHBhZ2Uu"),ha=function(a,b,c){this.b=a;this.f=new A(this.b);this.a=null;this.c=[];this.g=!1;this.i=b;this.h=c},E=function(a){if(a.b.body&&!a.g){var b=function(){C(a);l.setTimeout(function(){return D(a,3)},50)};B(a.f,a.i,2,!0,function(){l[a.h]||b()},b);a.g=!0}},C=function(a){for(var b=F(1,5),c=0;c<b;c++){var d=G(a);a.b.body.appendChild(d);a.c.push(d)}b=G(a);b.style.bottom="0";b.style.left="0";b.style.position="fixed";b.style.width=F(100,110).toString()+"%";b.style.zIndex=F(2147483544,2147483644).toString();b.style["background-color"]=H(249,259,242,252,219,229);b.style["box-shadow"]="0 0 12px #888";b.style.color=H(0,10,0,10,0,10);b.style.display="flex";b.style["justify-content"]="center";b.style["font-family"]="Roboto, Arial";c=G(a);c.style.width=F(80,85).toString()+"%";c.style.maxWidth=F(750,775).toString()+"px";c.style.margin="24px";c.style.display="flex";c.style["align-items"]="flex-start";c.style["justify-content"]="center";d=z(a.f.a,"IMG");d.className=y();d.src=da;d.style.height="24px";d.style.width="24px";d.style["padding-right"]="16px";var e=G(a),f=G(a);f.style["font-weight"]="bold";f.textContent=ea;var k=G(a);k.textContent=fa;I(a,e,f);I(a,e,k);I(a,c,d);I(a,c,e);I(a,b,c);a.a=b;a.b.body.appendChild(a.a);b=F(1,5);for(c=0;c<b;c++)d=G(a),a.b.body.appendChild(d),a.c.push(d)},I=function(a,b,c){for(var d=F(1,5),e=0;e<d;e++){var f=G(a);b.appendChild(f)}b.appendChild(c);c=F(1,5);for(d=0;d<c;d++)e=G(a),b.appendChild(e)},F=function(a,b){return Math.floor(a+Math.random()*(b-a))},H=function(a,b,c,d,e,f){return"rgb("+F(Math.max(a,0),Math.min(b,255)).toString()+","+F(Math.max(c,0),Math.min(d,255)).toString()+","+F(Math.max(e,0),Math.min(f,255)).toString()+")"},G=function(a){a=z(a.f.a,"DIV");a.className=y();return a},D=function(a,b){0>=b||null!=a.a&&0!=a.a.offsetHeight&&0!=a.a.offsetWidth||(ia(a),C(a),l.setTimeout(function(){return D(a,b-1)},50))},ia=function(a){var b=a.c;var c="undefined"!=typeof Symbol&&Symbol.iterator&&b[Symbol.iterator];b=c?c.call(b):{next:g(b)};for(c=b.next();!c.done;c=b.next())(c=c.value)&&c.parentNode&&c.parentNode.removeChild(c);a.c=[];(b=a.a)&&b.parentNode&&b.parentNode.removeChild(b);a.a=null};var ka=function(a,b,c,d,e){var f=ja(c),k=function(n){n.appendChild(f);l.setTimeout(function(){f?(0!==f.offsetHeight&&0!==f.offsetWidth?b():a(),f.parentNode&&f.parentNode.removeChild(f)):a()},d)},h=function(n){document.body?k(document.body):0<n?l.setTimeout(function(){h(n-1)},e):b()};h(3)},ja=function(a){var b=document.createElement("div");b.className=a;b.style.width="1px";b.style.height="1px";b.style.position="absolute";b.style.left="-10000px";b.style.top="-10000px";b.style.zIndex="-10000";return b};var J={},K=null;var L=function(){},M="function"==typeof Uint8Array,N=function(a,b){a.b=null;b||(b=[]);a.j=void 0;a.f=-1;a.a=b;a:{if(b=a.a.length){--b;var c=a.a[b];if(!(null===c||"object"!=typeof c||"array"==q(c)||M&&c instanceof Uint8Array)){a.g=b-a.f;a.c=c;break a}}a.g=Number.MAX_VALUE}a.i={}},O=[],P=function(a,b){if(b<a.g){b+=a.f;var c=a.a[b];return c===O?a.a[b]=[]:c}if(a.c)return c=a.c[b],c===O?a.c[b]=[]:c},Q=function(a,b,c){if(b<a.g)a.a[b+a.f]=c;else{var d=a.g+a.f;a.a[d]||(a.c=a.a[d]={});a.c[b]=c}return a},S=function(a,b){var c=R;a.b||(a.b={});if(!a.b[b]){var d=P(a,b);d&&(a.b[b]=new c(d))}return a.b[b]};L.prototype.h=M?function(){var a=Uint8Array.prototype.toJSON;Uint8Array.prototype.toJSON=function(){var b;void 0===b&&(b=0);if(!K){K={};for(var c="ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789".split(""),d=["+/=","+/","-_=","-_.","-_"],e=0;5>e;e++){var f=c.concat(d[e].split(""));J[e]=f;for(var k=0;k<f.length;k++){var h=f[k];void 0===K[h]&&(K[h]=k)}}}b=J[b];c=[];for(d=0;d<this.length;d+=3){var n=this[d],u=(e=d+1<this.length)?this[d+1]:0;h=(f=d+2<this.length)?this[d+2]:0;k=n>>2;n=(n&3)<<4|u>>4;u=(u&15)<<2|h>>6;h&=63;f||(h=64,e||(u=64));c.push(b[k],b[n],b[u]||"",b[h]||"")}return c.join("")};try{return JSON.stringify(this.a&&this.a,T)}finally{Uint8Array.prototype.toJSON=a}}:function(){return JSON.stringify(this.a&&this.a,T)};var T=function(a,b){return"number"!=typeof b||!isNaN(b)&&Infinity!==b&&-Infinity!==b?b:String(b)};L.prototype.toString=function(){return this.a.toString()};var R=function(a){N(this,a)};t(R,L);var U=function(a){N(this,a)};t(U,L);var la=function(a,b){this.c=new A(a);var c=S(b,5);c=new x(v,P(c,4)||"");this.b=new ha(a,c,P(b,4));this.a=b},ma=function(a,b,c,d){b=new R(b?JSON.parse(b):null);b=new x(v,P(b,4)||"");B(a.c,b,3,!1,c,function(){ka(function(){E(a.b);d(!1)},function(){d(!0)},P(a.a,2),P(a.a,3),P(a.a,1))})};var na=function(a,b){V(a,"internal_api_load_with_sb",function(c,d,e){ma(b,c,d,e)});V(a,"internal_api_sb",function(){E(b.b)})},V=function(a,b,c){a=l.btoa(a+b);ba(a,c)},W=function(a,b,c){for(var d=[],e=2;e<arguments.length;++e)d[e-2]=arguments[e];e=l.btoa(a+b);e=l[e];if("function"==q(e))e.apply(null,d);else throw Error("API not exported.");};var X=function(a){N(this,a)};t(X,L);var Y=function(a){var b=this.h=l.document;var c=new U;var d=P(a,3);c=Q(c,1,d);d=P(a,12);c=Q(c,2,d);d=P(a,5);c=Q(c,3,d);d=P(a,10);c=Q(c,4,d);d=S(a,11);c.b||(c.b={});var e=d?d.a:d;c.b[5]=d;c=Q(c,5,e);this.g=new la(b,c);this.a=P(a,1);this.f=S(a,2);this.c=!1;this.b=a};Y.prototype.start=function(){try{oa(),na(this.a,this.g),l.googlefc=l.googlefc||{},"callbackQueue"in l.googlefc||(l.googlefc.callbackQueue=[]),pa(this)}catch(a){W(this.a,"internal_api_sb")}};var oa=function(){var a=function(){if(!l.frames.googlefcPresent)if(document.body){var b=document.createElement("iframe");b.style.display="none";b.style.width="0px";b.style.height="0px";b.style.border="none";b.style.zIndex="-1000";b.style.left="-1000px";b.style.top="-1000px";b.name="googlefcPresent";document.body.appendChild(b)}else l.setTimeout(a,5)};a()},pa=function(a){var b=r();W(a.a,"internal_api_load_with_sb",a.f.h(),function(){var c;var d=a.a,e=l[l.btoa(d+"cached_js")];if(e){e=l.atob(e);e=parseInt(e,10);d=l.btoa(d+"cached_js").split(".");var f=l;d[0]in f||"undefined"==typeof f.execScript||f.execScript("var "+d[0]);for(;d.length&&(c=d.shift());)d.length?f[c]&&f[c]!==Object.prototype[c]?f=f[c]:f=f[c]={}:f[c]=null;c=Math.abs(b-e);c=1728E5>c?0:c}else c=-1;0!=c&&(W(a.a,"internal_api_sb"),Z(a,P(a.b,9)))},function(c){c?Z(a,P(a.b,7)):Z(a,P(a.b,8))})},Z=function(a,b){a.c||(a.c=!0,a=new l.XMLHttpRequest,a.open("GET",b,!0),a.send())};(function(a,b){l[a]=function(c){for(var d=[],e=0;e<arguments.length;++e)d[e-0]=arguments[e];l[a]=p;b.apply(null,d)}})("__475an521in8a__",function(a){"function"==typeof l.atob&&(a=l.atob(a),a=new X(a?JSON.parse(a):null),(new Y(a)).start())});}).call(this);window.__475an521in8a__("WyIzOTBiYjczYmVlYTFlNGIyIixbbnVsbCxudWxsLG51bGwsImh0dHBzOi8vZnVuZGluZ2Nob2ljZXNtZXNzYWdlcy5nb29nbGUuY29tL2YvQUdTS1d4VkJrY3JzdmFYeGpINnUxSU9BS1pkMEF5ZEFkdWppZzJFZG5pUDNCbXdRVE9POEd3SXFHanUySms1SmdmemJMU1gxSkllZENZWGZBWHZCMjg5NHF0VVx1MDAzZCJdCiwyMCxudWxsLDEwMCxudWxsLCJodHRwczovL2Z1bmRpbmdjaG9pY2VzbWVzc2FnZXMuZ29vZ2xlLmNvbS9sL0FHU0tXeFZDTFprekUxdFJYczlZM2taR3JIZlRIUjdSV3BFOXFmLUpNUlZxeGhKbGFQY0dmTDdQaFpFT2M2SGdYRDRjSjJtX0Z5QVdZdEQzbVFJbDVPOV8/YWJcdTAwM2QxIiwiaHR0cHM6Ly9mdW5kaW5nY2hvaWNlc21lc3NhZ2VzLmdvb2dsZS5jb20vbC9BR1NLV3hWZmFNV2pQdWVwOURPTGh5bXlaekFwb3luRGtoQkRteVpEU1piMG92clk2R1JfUGZtaWMxUVRZeldSTmhmaVBDYTh0MzZwWWdnWVBPS3lkZXpRP2FiXHUwMDNkMlx1MDAyNnNiZlx1MDAzZDEiLCJodHRwczovL2Z1bmRpbmdjaG9pY2VzbWVzc2FnZXMuZ29vZ2xlLmNvbS9sL0FHU0tXeFhkZGxNbUdTd0FlQzVJMnNjNnRfVUxFWkNMU0FrUGF3N1ltTmFjWVQtcDN6bEUxdHppcnFuWE1kbVpRaEhoZE8wc1RtVUdYeEhlVjJPSTVMRUg/c2JmXHUwMDNkMiIsIk16a3dZbUkzTTJKbFpXRXhaVFJpTWdcdTAwM2RcdTAwM2QiLFtudWxsLG51bGwsbnVsbCwiaHR0cHM6Ly93d3cuZ3N0YXRpYy5jb20vMGVtbi9mL3AvMzkwYmI3M2JlZWExZTRiMi5qcz91c3FwXHUwMDNkQ0FnIl0KLCJkaXYtZ3B0LWFkIl0K");</script>
+<script type="text/javascript" src="assets/97159f48ad17e5c54f233c17057d2104.js" data-key="03f1af55-a479-4c1f-891a-7481345171ce" id="spcloader" async></script>
+<script>var gptadslots=[],googletag=googletag||{};googletag.cmd=googletag.cmd||[]</script>
+<script src="assets/1fac36cbb5cf27e613f699ba8cc9aa16.js"></script>
+<script type='text/javascript'>function loadFreemium(){if("undefined"!=typeof frm&&null!=frm&&"function"==typeof frm)frm();else{var e=document.createElement("script");e.async=!0,e.type="text/javascript";var t="https:"==document.location.protocol;e.src=(t?"https:":"http:")+"assets/1fac36cbb5cf27e613f699ba8cc9aa16.js";var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(e,r),frm()};clearTimeout(secFrm)}var secFrm=setTimeout(function(){loadFreemium()},5e3);</script>
+<script type='text/javascript'>function initAdServer(){loadFreemium()}</script>
+<script type='text/javascript' async>var pbjs=pbjs||{};pbjs.que=pbjs.que||[];(function(){var e=document.createElement("script");e.type="text/javascript",e.async=!0,e.src="//e00-elmundo.uecdn.es/js/pbmu.js";var t=document.getElementsByTagName("head")[0];t.insertBefore(e,t.firstChild)})()</script>
+<script type="text/javascript" src="assets/f84ac9e2baf9cd6c15b2901702544dd6.js"></script>
+<script type="text/javascript">!function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},targetingKeys:function(){return[]},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore(A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js")</script>
+<script src="assets/5c48e67cbd46357c30f81394a04a49ec.js"></script>
+<script src="assets/6cbc641286f663f28af8b3328ed55fbb.js"></script>
+
+<script src="assets/d3958c58b4cf1c0b92d75c4adb2ed6d8.js"></script>
+
+<script>(function(src){var a=document.createElement("script");a.type="text/javascript";a.async=true;a.src=src;var b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(a,b)})("https://experience.tinypass.com/xbuilder/experience/load?aid=wQKkKmsRpu");</script>
+</head>
+<body bgcolor="#FFFFFF" text="#000000" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0">
+<table width="750" border="0" cellspacing="0" cellpadding="0" align="center">
+ <tr>
+<td bgcolor="#EEEEEE" height="70" class="MAGAZINE" align="left">
+<!-- HX=magazine730 --><!-- CrawlerB. --> </td>
+</tr>
+ <tr>
+<td bgcolor="#000000" height="70" class="MAGAZINE" align="right">
+<table width="750" border="0" cellpadding="10" cellspacing="0">
+<tr>
+<td width="230">&nbsp;</td>
+<td class="cabecerabig">M A G A Z I N E</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#CCCCCC" height="1"><img src="assets/09ed59ea1bc6f669733c23c9fa52bf81.gif" width="1" height="1"></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" class="MAGAZINE" align="right">
+<table border="0" cellpadding="0" cellspacing="0" width="750">
+<tr>
+<td width="150" height="25" align="right" bgcolor="#999999" class="numerodos"> <a href="https://www.elmundo.es"><img src="assets/5546633cb14d807b360e56e8e5d51806.gif" width="150" height="25" border="0"></a></td>
+<td width="1" height="25" bgcolor="#FFFFFF"><img src="https://e00-elmundo.uecdn.es/suplementos/magazine/2007/410/noticia_files/pix.gif" height="1" width="1"></td>
+<td height="25" align="center" bgcolor="#dddddd" class="directorioblanco"><a href="index.html" class="directoriosuperior">OTROS
+ARTICULOS EN ESTE N&Uacute;MERO</a></td>
+<td width="1" height="25" bgcolor="#FFFFFF"><img src="https://e00-elmundo.uecdn.es/suplementos/magazine/2007/410/noticia_files/pix.gif" height="1" width="1"></td>
+<td width="250" height="25" align="center" bgcolor="#eeeeee" class="pie_numero">Domingo, 5 de agosto de 2007</td>
+<td width="1" height="25" bgcolor="#FFFFFF"><img src="https://e00-elmundo.uecdn.es/suplementos/magazine/2007/410/noticia_files/pix.gif" height="1" width="1"></td>
+<td width="70" height="25" align="center" bgcolor="#eeeeee" class="numerodos">410</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#CCCCCC" height="1"><img src="assets/09ed59ea1bc6f669733c23c9fa52bf81.gif" width="1" height="1"></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF">&nbsp;</td>
+</tr>
+<tr>
+<td bgcolor="#000000">
+<table width="750" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>
+<table border="0" cellpadding="0" cellspacing="3" width="400">
+<tr>
+<td>
+<div><img src="https://e00-elmundo.uecdn.es/suplementos/imagenes/2007/08/02/1186053889_0.jpg" border="0" width="400" height="322" alt="“Parisino” feliz. En el ático de un hotel en París, Miyamoto luce en la chaqueta la Legión de Honor concedida por el Gobierno francés." title="“Parisino” feliz. En el ático de un hotel en París, Miyamoto luce en la chaqueta la Legión de Honor concedida por el Gobierno francés."/>
+</div>
+<div class="noticiacajafotopie">“Parisino” feliz. En el ático de un hotel en París, Miyamoto luce en la chaqueta la Legión de Honor concedida por el Gobierno francés.</div>
+</td>
+</tr>
+</table>
+</td>
+<td width="10"><img src="assets/09ed59ea1bc6f669733c23c9fa52bf81.gif" width="10" height="1"></td>
+<td width="1" bgcolor="#FFFFFF"><img src="assets/09ed59ea1bc6f669733c23c9fa52bf81.gif" width="1" height="1"></td>
+<td width="10"><img src="assets/09ed59ea1bc6f669733c23c9fa52bf81.gif" width="10" height="1"></td>
+<td width="729" align="left" valign="bottom" class="pieblanco">
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" height="10" class="texto">
+<img src="assets/09ed59ea1bc6f669733c23c9fa52bf81.gif" width="10" height="10">
+</td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" height="200" class="texto">
+<br>
+<span class="titulo">
+En Japón le idolatran más que a David Beckham</span>
+<br>
+<span class="entradilla">
+<br>
+No puede salir a la calle porque le acosan como si fuera Beckham. Y eso que este japonés de 54 años no es ni un as del deporte ni una belleza del cine: solamente crea videojuegos. Shigeru Miyamot0, cerebro de las mejores ideas de la compañía Nintendo como Mario Bros o la consola Wii, siempre se ha inspirado en su infancia para diseñar. Y eso que de niño le castigaban de tanto jugar. &laquo;Cuando me uní a Nintendo, mis padres se avergonzaron&raquo;, relata.</span>
+<br>
+ <br clear="all"/>
+<table border="0" cellpadding="0" cellspacing="0" align="right" class="noticiacajafoto">
+<tr>
+<td width="10"><img src="assets/09ed59ea1bc6f669733c23c9fa52bf81.gif" width="10" height="1"></td>
+<td width="1" bgcolor="#CCCCCC"><img src="assets/09ed59ea1bc6f669733c23c9fa52bf81.gif" width="1" height="1"></td>
+<td width="10"><img src="assets/09ed59ea1bc6f669733c23c9fa52bf81.gif" width="10" height="8"></td>
+<td valign="top">
+<table border="0" cellpadding="0" cellspacing="0" width="200" align="right">
+<tr>
+<td>
+<div><img src="https://e00-elmundo.uecdn.es/suplementos/imagenes/2007/08/02/1186053889_extras_noticia_1_0.jpg" border="0" width="200" height="191" alt="La saga de Zelda es considerada uno de los mejores videojuegos de la historia." title="La saga de Zelda es considerada uno de los mejores videojuegos de la historia."/>
+</div>
+<div class="titmenor">La saga de Zelda es considerada uno de los mejores videojuegos de la historia.</div>
+</td>
+</tr>
+</table>
+<br clear="all"/>
+<table border="0" cellpadding="0" cellspacing="0" width="200" align="right">
+<tr>
+<td>
+<div><img src="assets/250746fe5dc846bab1cc19f647ae11d4.jpg" border="0" width="200" height="222" alt="Wario, el archienemigo de Mario Bross" title="Wario, el archienemigo de Mario Bross"/>
+</div>
+<div class="titmenor">Wario, el archienemigo de Mario Bross</div>
+</td>
+</tr>
+</table>
+<br clear="all"/>
+<table border="0" cellpadding="0" cellspacing="0" width="200" align="right">
+<tr>
+<td>
+<div><img src="assets/9c9a85b9bfa165d0bbac71ec82c3028c.jpg" border="0" width="200" height="139" alt="Su otro yo. Miyamoto reconoce que le gusta la parte menos seria de la vida." title="Su otro yo. Miyamoto reconoce que le gusta la parte menos seria de la vida."/>
+</div>
+<div class="titmenor">Su otro yo. Miyamoto reconoce que le gusta la parte menos seria de la vida.</div>
+</td>
+</tr>
+</table>
+<br clear="all"/>
+</td>
+</tr>
+</table>
+  <p><b><span class="cintillo">Por Ferrán Viladeval</span></b></p>
+<br>
+<span class="texto">
+<p>&laquo;Lo siento, pero no puede salir a la calle. Enseguida quedaría rodeado de admiradores y la situación puede volverse peligrosa&raquo;. Es un aviso. Sale de la boca de su agente, cuyo tono denota tensión. &laquo;Tendremos que hacer las fotos dentro del hotel&raquo;. Se está refiriendo a Mr. Shigeru Miyamoto (Kyoto, Japón, 1952). Un genio de los videojuegos. Una celebridad, un visionario. Dios. Al menos para sus fieles, millones de aficionados a esta forma de entretenimiento que llevan casi tres décadas disfrutando de sus creaciones. Los videojuegos Donkey Kong y Super Mario Bros &ndash;cuyo protagonista era un fontanero bigotudo&ndash; le lanzaron al estrellato. Nintendo, empresa nipona de la que es uno de sus cerebros, proclama haber vendido más de 190 millones de sus títulos en todo el mundo.</p>
+<p>Durante la conferencia de diseñadores de videojuegos, celebrada en San Francisco a principios de marzo, Miyamoto hizo una aparición estelar. Más de mil aficionados quisieron verle en carne y hueso. Con bocas abiertas y silencio sepulcral, esperaron a que su pequeña figura apareciera en un escenario, coronado con pantallas para la ocasión. Cuando hizo acto de presencia, el ruido fue ensordecedor. Palmas, gritos de alegría y emoción. Era como si el Mesías hubiera llegado. Unas horas más tarde, Magazine tuvo la oportunidad de encontrarse con él. A solas, en la tranquilidad de una oscura habitación de hotel.</p>
+<p>Lejos del estrado, este japonés de 54 años sigue mostrando el mismo porte sereno que viste a los orientales, rematado con una sonrisa casi permanente. No parece más que un niño travieso atrapado en el cuerpo de un adulto. Nada que ver con el status que parece dictar su fama. Sobre todo si pensamos que le han bautizado como el Steven Spielberg de los videojuegos. El mejor creador y diseñador del mundo es también artífice de Wii, la última diversión de Nintendo, en la que el jugador, empuñando un control a distancia, realiza movimientos virtuales con el cuerpo frente a la pantalla, que el videojuego reproduce fielmente y a tiempo real. Este prodigio ha quintuplicado los beneficios de la compañía (485 millones de euros).</p>
+<p><strong> P. </strong> Cuando le llaman visionario, ¿cómo se lo toma?</p>
+<p><strong> R. </strong> Me pone nervioso porque sólo soy un simple creador de ideas. Y, además, lo hago únicamente porque me gusta. No es para conseguir muestras de admiración. Así que no debo creérmelo mucho.</p>
+<p><strong> P. </strong> Mario ha sido su personaje más popular. Un hombre de mediana edad y más bien feo. ¿Tiene algo en común con usted?</p>
+<p><strong> R. </strong> Mario no es un personaje muy serio que digamos. Y yo prefiero la parte menos seria de la vida. Así que quizás nos unen las ganas de disfrutar, aunque yo tiendo a ser demasiado serio. Ojalá fuera un poco más como él.</p>
+<p><strong> P. </strong>¿Cuál es el secreto de su éxito?</p>
+<p><strong> R. </strong> Comer bien y dormir bien (risas). Cuando tengo una idea no es exclusivamente para un juego. Es una idea general sobre algo que luego trato de implementar en un juego. No hablo con los ingenieros o los especialistas hasta que tengo clara la idea y la solución de cómo aplicarla a un videojuego. Así que mi forma de diseño de juegos está más cercana al diseño industrial que otra cosa. Y ése puede ser uno de los secretos, como dices, de mi éxito.</p>
+<p><strong> P. </strong> Tengo entendido que cuando era joven encontró una cueva que le sirvió de inspiración, elemento que ha repetido en algunos juegos como aventuras subterráneas. ¿Es cierto?</p>
+<p><strong> R. </strong> Es cierto que los elementos naturales que aparecen tanto en los juegos de Mario como en los de Zelda están inspirados en mis experiencias de joven. Viví en el campo durante un tiempo y para alguien tan pequeño, una gruta de dimensiones reducidas puede parecer algo gigantesco y, por lo tanto, queda impresionado. Al hacerme mayor, vi que los juegos eran una plataforma ideal para recrear las sensaciones &ndash;estimulantes y de suspense&ndash; que tuve descubriendo esos rincones naturales.</p>
+<p><strong> P. </strong> Aparte de la naturaleza, ¿de dónde saca la inspiración?</p>
+<p><strong> R. </strong> A la hora de crear software gran parte del tiempo lo pasamos delante de un monitor comprobando los avances de dicho programa, interactuando con él. A veces, cuando es hora de pensar, me reúno con algunos miembros de mi equipo de desarrollo para hablar de ideas. Nos sirve de plataforma. Les cuento lo que se me ha ocurrido y al intentar explicarlo, me ayuda a redefinirlo. Pero paso mucho tiempo pensando en cosas nuevas. Y me he dado cuenta que cuando estoy solo en la bañera, descansando, es cuando encuentro el mayor número de soluciones a los problemas que me preocupan. El tema está en estar constantemente pensando en ello. La persistencia hace que los momentos de lucidez sean más frecuentes.</p>
+<p><strong> P. </strong> Dicen que algunos de los mejores creativos fueron niños que crecieron en un ambiente solitario, encerrados en su mundo. ¿Fue ese su caso o no se ajusta a su perfil?</p>
+<p><strong> R. </strong> No, mi perfil no se adapta al estereotipo (risas). Jugaba con todo el mundo. Es más, mis padres se enfadaban conmigo porque jugaba demasiado. Por ejemplo, cuando era pequeño fabricaba marionetas con las que luego escenificaba obras para los niños del barrio. Había niños y niñas y me encantaba el aspecto de la performance. También me gustaba organizar clubes de aventura y de exploración, incluidos los niños del barrio. Los juntaba y cada vez hacíamos algo diferente. Recuerdo que en una ocasión propuse hacernos pasar por espías secretos. Fabriqué unas cartas personalizadas y las repartí. Cada uno tenía un número como el 007, o el 006. Era nuestra forma de identificarnos. Supongo que ya entonces estaba creando formas de entretenimiento, en definitiva, juegos. Más adelante, en la escuela, pasé mucho tiempo dibujando cómics. Que luego enseñaba a todo el mundo, por supuesto (risas).</p>
+<p><strong> P. </strong>¿Qué piensan sus padres ahora de su éxito, después de castigarle por tanto jugar?</p>
+<p><strong> R. </strong> Eran muy estrictos. Ambos trabajaban como profesores, por lo que se tomaban muy en serio mi educación. Y claro, el verme jugar tanto era algo que no les gustaba. Insistían en que estudiara más, pero no había remedio. Siempre que podía, me iba a jugar. Con mucha frecuencia. Cuando me uní a Nintendo para crear juegos, mis padres se sintieron avergonzados y no decían nada a sus amistades sobre mi profesión. Pero últimamente la cosa ha cambiado. Ahora fardan con las visitas. Les cuentan lo que hago con una sonrisa en la cara. Han aceptado que, en el fondo, fue una bendición que jugara tanto de pequeño.</p>
+<p><strong> P. </strong>¿Qué opinión tiene sobre la violencia en los videojuegos?</p>
+<p><strong> R. </strong> Una de las razones por las que creamos el Wii es para no tener que contestar a este tipo de preguntas.</p>
+<p>Miyamoto suelta una risilla nerviosa. Y no es para menos. La industria ha sido acusada en numerosas ocasiones de tener efectos nocivos entre la población más joven. Un estudio publicado hace siete años en el Journal of Personality and Social Psychology por los psicólogos Craig Anderson y Karen Dill, certificaba la conexión entre la violencia de los juegos y el aumento de la agresividad en los jugadores. Uno de sus argumentos fue conectar a Eric Harris y Dylan Klebold &ndash;autores de la masacre del instituto de Columbine, Colorado&ndash; con el videojuego Doom. Aquella matanza paralizó Estados Unidos en 1999.</p>
+<p><strong> P. </strong> Esencialmente acusaron a los dos jóvenes perturbados de poner en práctica, en la vida real, lo que veían en la pantalla.</p>
+<p><strong> R. </strong> En general, intento hacer mis juegos evitando que la violencia sea uno de los elementos básicos de la experiencia. Si lo piensas bien, Mario es un tipo suficientemente violento. Pero no es la base de sus aventuras. Prefiero no tener que depender de la violencia para sorprender o impresionar a la gente.</p>
+<p><strong> P. </strong> Otro de los aspectos más discutidos de los videojuegos es que pueden ser adictivos. ¿Qué piensa usted?</p>
+<p><strong> R. </strong> La gente es adicta a muchas cosas, a lo que quiere en realidad. No es algo exclusivo de los videojuegos. Si encuentran algo interesante, algo que les satisface ese interés, les cuesta dejarlo. Los elementos interactivos del videojuego son algo único y en ese sentido, es fácil entender que sea más interesante la experiencia que otras formas de entretenimiento. Pero es importante que los padres sepan a qué están jugando sus hijos y saber el tiempo que pasan pegados a ellos.</p>
+<p><strong> P. </strong> Se dice que las prestaciones técnicas de la Wii no está a la altura de las consolas Playstation 3 o Xbox. ¿Es por esa razón que optáis por utilizar personajes de estilo más infantil, más naïf, para camuflar las posibles limitaciones técnicas?</p>
+<p><strong> R. </strong> Si hablamos de las prestaciones técnicas, sí que es cierto que la Wii no tiene tanta potencia. Pero hay que tener en cuenta mucho más a la hora de crear una consola de videojuegos, no sólo sus componentes técnicos. Hay varios elementos que ayudan a definir la capacidad que tiene un sistema de videojuegos de ser entretenido. Y creo que la Wii tiene la mejor mezcla de esos elementos.</p>
+<p><strong> P. </strong> A nivel tecnológico, ¿van muy avanzados con respecto a lo que sacan en el mercado?</p>
+<p><strong> R. </strong> Mi visión personal es que los grandes cambios ocurren cada 10 años, más o menos. Algo que viene influenciado por la evolución tecnológica, por supuesto. Y puede que en un futuro próximo, el margen de cambio sea más corto. En cualquier caso en Nintendo, tenemos un departamento que está al día de lo que pasa. Preparándonos tanto para cambios graduales como para la eventualidad de un salto evolutivo drástico.</p>
+<p><strong> P. </strong> Hasta la fecha, los principales consumidores de videojuegos han sido masculinos. ¿Qué papel le da a las mujeres en un futuro próximo?</p>
+<p><strong> R. </strong> Nintendo ha experimentado un aumento considerable de consumidoras con lo que tiene en el mercado. Creo que es la marca que ha conseguido atraer al mayor número de mujeres al ramo. Nuestra plataforma DS en Japón es muy popular entre las féminas. Quizás una de las razones que puede justificar porqué el número de jugadoras ha sido reducido hasta la fecha es que el sector del videojuego no ha creado un producto que sea interesante o atractivo para ellas. Obviamente, una zapatería que venda zapatos para señoras no tendrá muchos clientes masculinos (risas).</p>
+<p><strong> P. </strong>¿Juega a los videojuegos en casa?</p>
+<p><strong> R. </strong> No mucho, especialmente cuando trabajo en un proyecto en concreto. Últimamente sí que he pasado más tiempo con los aparatos. Junto a mi familia. Pero no todos pueden jugar con la Wii. Está agotado en Japón y a los empleados de Nintendo sólo nos autorizan a comprar uno.</p>
+<p><strong> P. </strong>¿Juega con productos de otras marcas competidoras como las consolas Playstation o la Xbox?</p>
+<p><strong> R. </strong> De vez en cuando, para saber qué es lo que hacen y conocer de cerca con qué ideas están trabajando. Pero es algo puntual.</p>
+<p><strong> P. </strong>¿Puede enumerar tres requisitos que ha de tener un buen juego?</p>
+<p><strong> R. </strong> El primero es que la gente que está alrededor del que juega tiene que entender qué es lo que hace el jugador. En segundo lugar es importante que el que está a los mandos sepa qué tipo de decisión tiene que tomar para avanzar en el juego. La tercera es que la gente que lo diseña no sólo se base en las influencias de otros videojuegos, sino en experiencias vitales y emociones.</p>
+<p><strong> P. </strong> Se dice que sus juegos nunca han fracasado. ¿No siente presión cada vez que tiene que lanzar uno nuevo?</p>
+<p><strong> R. </strong> El estrés y la presión no llevan a ninguna parte. Sólo tengo dos opciones: crear un juego igual o mejor que el anterior; la otra es no sacarlo al mercado.</p>
+<p><strong> P. </strong>¿Cómo le gustaría ser recordado?</p>
+<p><strong> R. </strong> (Risas) Nunca me lo he planteado. Pero puestos a pensar en algo, me gustaría que si se acuerdan de mí, que sea porque me gustaba crear cosas. Con eso tendría suficiente.</p>
+<p><strong> Más información en las páginas web <a href="http://www.nintendo.es">www.nintendo.es</a>, <a href="http://www.nintendo.com">www.nintendo.com</a> y <a href="http://es.wii.com"> http://es.wii.com</a></strong></p>
+</span>
+<br>
+<br>
+<ul class="apoyonoticia"></ul>
+</td>
+</tr>
+<tr>
+<td height="1" align="center">&nbsp;</td>
+</tr>
+<tr>
+<td bgcolor="#CCCCCC" height="1" align="center"><img src="assets/09ed59ea1bc6f669733c23c9fa52bf81.gif" width="1" height="1"></td>
+</tr>
+<tr>
+<td height="1" align="left">
+<table width="200" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td class="piesdefoto" bgcolor="#CCCCCC" height="10">&nbsp;</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height="1" align="right">
+<table width="700" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>&nbsp;</td>
+</tr>
+<tr>
+<td>
+<span class="titulillo"></span><br>
+<span class="entradilla"></span><br>
+<span class="autor">Hitos del “reinado” de Miyamoto</span><br>
+<span class="texto"><li>En 1981 crea Donkey Kong, mito de los juegos arcade. </li><p>
+<li>Inventa con Super Mario Bros el género “plataformas” o juegos de habilidad, en 1986. l En 1996 la revista “Time” le apodó el Steven Spielberg de los videojuegos. </li><p><li> Super Mario 64 (1997) supuso su primer mundo hecho en 3D. </li><p>
+<li>En The Legend of Zelda: Ocarina of Time (1997) incluye guionistas y compositores. Es considerado el mejor videojuego de la historia. </li><p> <li>En 2005 crea Nintendogs o mascotas virtuales. l 2006: la consola Wii revoluciona el concepto de ocio en casa. </li><p> </span></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td height="1" align="center">&nbsp;</td>
+</tr>
+<tr>
+<td bgcolor="#CCCCCC" height="1" align="center"><img src="assets/09ed59ea1bc6f669733c23c9fa52bf81.gif" width="1" height="1"></td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" height="1" align="center">&nbsp;</td>
+</tr>
+<!-- END noticia --> <tr>
+<td bgcolor="#FFFFFF" align="center">
+ <table width="750" border="0" cellspacing="10" cellpadding="0">
+<tr>
+<td align="center">
+<div class="publicidadtexto"><!-- HX=pr_728 --><!-- CrawlerB. --> </div>
+</td>
+</tr>
+</table>
+ </td>
+</tr>
+<tr>
+<td bgcolor="#FFFFFF" height="1" align="center" class="creditos">
+<table width="650" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="250">&nbsp;</td>
+<td width="400" class="creditos">&copy; Mundinteractivos, S.A. <a href="https://www.elmundo.es/privacidad/" class="creditos">Pol&iacute;tica
+de privacidad</a></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+<p class="titulo">&nbsp;</p>
+<!-- SiteCatalyst code version: H.21.
+Copyright 1996-2010 Adobe, Inc. All Rights Reserved
+More info available at http://www.omniture.com -->
+<script type="text/javascript">_satellite.pageBottom();</script>
+<script type="text/javascript"><!--
+if(navigator.appVersion.indexOf('MSIE')>=0)document.write(unescape('%3C')+'!-'+'-')
+//--></script><noscript><img src="assets/1db07ff8286fdf84f30ec99b25e02e66"
+height="1" width="1" alt="" /></noscript><!--/DO NOT REMOVE/-->
+
+<div style="position:fixed;top:0;left:0;width:100%;height:45px;z-index:2147483647;background-color:rgba(253,147,38,0.90) !important;color:black !important;text-align:right !important;font:normal 12px/45px Arial, sans-serif !important;border-radius:0 !important;margin:0 !important;max-width:100% !important;background-repeat: no-repeat !important;background-position: 15px center !important;
+background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAHwAAAAYCAYAAAA4e5nyAAAKQWlDQ1BJQ0MgUHJvZmlsZQAASA2dlndUU9kWh8+9N73QEiIgJfQaegkg0jtIFQRRiUmAUAKGhCZ2RAVGFBEpVmRUwAFHhyJjRRQLg4Ji1wnyEFDGwVFEReXdjGsJ7601896a/cdZ39nnt9fZZ+9917oAUPyCBMJ0WAGANKFYFO7rwVwSE8vE9wIYEAEOWAHA4WZmBEf4RALU/L09mZmoSMaz9u4ugGS72yy/UCZz1v9/kSI3QyQGAApF1TY8fiYX5QKUU7PFGTL/BMr0lSkyhjEyFqEJoqwi48SvbPan5iu7yZiXJuShGlnOGbw0noy7UN6aJeGjjAShXJgl4GejfAdlvVRJmgDl9yjT0/icTAAwFJlfzOcmoWyJMkUUGe6J8gIACJTEObxyDov5OWieAHimZ+SKBIlJYqYR15hp5ejIZvrxs1P5YjErlMNN4Yh4TM/0tAyOMBeAr2+WRQElWW2ZaJHtrRzt7VnW5mj5v9nfHn5T/T3IevtV8Sbsz55BjJ5Z32zsrC+9FgD2JFqbHbO+lVUAtG0GQOXhrE/vIADyBQC03pzzHoZsXpLE4gwnC4vs7GxzAZ9rLivoN/ufgm/Kv4Y595nL7vtWO6YXP4EjSRUzZUXlpqemS0TMzAwOl89k/fcQ/+PAOWnNycMsnJ/AF/GF6FVR6JQJhIlou4U8gViQLmQKhH/V4X8YNicHGX6daxRodV8AfYU5ULhJB8hvPQBDIwMkbj96An3rWxAxCsi+vGitka9zjzJ6/uf6Hwtcim7hTEEiU+b2DI9kciWiLBmj34RswQISkAd0oAo0gS4wAixgDRyAM3AD3iAAhIBIEAOWAy5IAmlABLJBPtgACkEx2AF2g2pwANSBetAEToI2cAZcBFfADXALDIBHQAqGwUswAd6BaQiC8BAVokGqkBakD5lC1hAbWgh5Q0FQOBQDxUOJkBCSQPnQJqgYKoOqoUNQPfQjdBq6CF2D+qAH0CA0Bv0BfYQRmALTYQ3YALaA2bA7HAhHwsvgRHgVnAcXwNvhSrgWPg63whfhG/AALIVfwpMIQMgIA9FGWAgb8URCkFgkAREha5EipAKpRZqQDqQbuY1IkXHkAwaHoWGYGBbGGeOHWYzhYlZh1mJKMNWYY5hWTBfmNmYQM4H5gqVi1bGmWCesP3YJNhGbjS3EVmCPYFuwl7ED2GHsOxwOx8AZ4hxwfrgYXDJuNa4Etw/XjLuA68MN4SbxeLwq3hTvgg/Bc/BifCG+Cn8cfx7fjx/GvyeQCVoEa4IPIZYgJGwkVBAaCOcI/YQRwjRRgahPdCKGEHnEXGIpsY7YQbxJHCZOkxRJhiQXUiQpmbSBVElqIl0mPSa9IZPJOmRHchhZQF5PriSfIF8lD5I/UJQoJhRPShxFQtlOOUq5QHlAeUOlUg2obtRYqpi6nVpPvUR9Sn0vR5Mzl/OX48mtk6uRa5Xrl3slT5TXl3eXXy6fJ18hf0r+pvy4AlHBQMFTgaOwVqFG4bTCPYVJRZqilWKIYppiiWKD4jXFUSW8koGStxJPqUDpsNIlpSEaQtOledK4tE20Otpl2jAdRzek+9OT6cX0H+i99AllJWVb5SjlHOUa5bPKUgbCMGD4M1IZpYyTjLuMj/M05rnP48/bNq9pXv+8KZX5Km4qfJUilWaVAZWPqkxVb9UU1Z2qbapP1DBqJmphatlq+9Uuq43Pp893ns+dXzT/5PyH6rC6iXq4+mr1w+o96pMamhq+GhkaVRqXNMY1GZpumsma5ZrnNMe0aFoLtQRa5VrntV4wlZnuzFRmJbOLOaGtru2nLdE+pN2rPa1jqLNYZ6NOs84TXZIuWzdBt1y3U3dCT0svWC9fr1HvoT5Rn62fpL9Hv1t/ysDQINpgi0GbwaihiqG/YZ5ho+FjI6qRq9Eqo1qjO8Y4Y7ZxivE+41smsImdSZJJjclNU9jU3lRgus+0zwxr5mgmNKs1u8eisNxZWaxG1qA5wzzIfKN5m/krCz2LWIudFt0WXyztLFMt6ywfWSlZBVhttOqw+sPaxJprXWN9x4Zq42Ozzqbd5rWtqS3fdr/tfTuaXbDdFrtOu8/2DvYi+yb7MQc9h3iHvQ732HR2KLuEfdUR6+jhuM7xjOMHJ3snsdNJp9+dWc4pzg3OowsMF/AX1C0YctFx4bgccpEuZC6MX3hwodRV25XjWuv6zE3Xjed2xG3E3dg92f24+ysPSw+RR4vHlKeT5xrPC16Il69XkVevt5L3Yu9q76c+Oj6JPo0+E752vqt9L/hh/QL9dvrd89fw5/rX+08EOASsCegKpARGBFYHPgsyCRIFdQTDwQHBu4IfL9JfJFzUFgJC/EN2hTwJNQxdFfpzGC4sNKwm7Hm4VXh+eHcELWJFREPEu0iPyNLIR4uNFksWd0bJR8VF1UdNRXtFl0VLl1gsWbPkRoxajCCmPRYfGxV7JHZyqffS3UuH4+ziCuPuLjNclrPs2nK15anLz66QX8FZcSoeGx8d3xD/iRPCqeVMrvRfuXflBNeTu4f7kufGK+eN8V34ZfyRBJeEsoTRRJfEXYljSa5JFUnjAk9BteB1sl/ygeSplJCUoykzqdGpzWmEtPi000IlYYqwK10zPSe9L8M0ozBDuspp1e5VE6JA0ZFMKHNZZruYjv5M9UiMJJslg1kLs2qy3mdHZZ/KUcwR5vTkmuRuyx3J88n7fjVmNXd1Z752/ob8wTXuaw6thdauXNu5Tnddwbrh9b7rj20gbUjZ8MtGy41lG99uit7UUaBRsL5gaLPv5sZCuUJR4b0tzlsObMVsFWzt3WazrWrblyJe0fViy+KK4k8l3JLr31l9V/ndzPaE7b2l9qX7d+B2CHfc3em681iZYlle2dCu4F2t5czyovK3u1fsvlZhW3FgD2mPZI+0MqiyvUqvakfVp+qk6oEaj5rmvep7t+2d2sfb17/fbX/TAY0DxQc+HhQcvH/I91BrrUFtxWHc4azDz+ui6rq/Z39ff0TtSPGRz0eFR6XHwo911TvU1zeoN5Q2wo2SxrHjccdv/eD1Q3sTq+lQM6O5+AQ4ITnx4sf4H++eDDzZeYp9qukn/Z/2ttBailqh1tzWibakNml7THvf6YDTnR3OHS0/m/989Iz2mZqzymdLz5HOFZybOZ93fvJCxoXxi4kXhzpXdD66tOTSna6wrt7LgZevXvG5cqnbvfv8VZerZ645XTt9nX297Yb9jdYeu56WX+x+aem172296XCz/ZbjrY6+BX3n+l37L972un3ljv+dGwOLBvruLr57/17cPel93v3RB6kPXj/Mejj9aP1j7OOiJwpPKp6qP6391fjXZqm99Oyg12DPs4hnj4a4Qy//lfmvT8MFz6nPK0a0RupHrUfPjPmM3Xqx9MXwy4yX0+OFvyn+tveV0auffnf7vWdiycTwa9HrmT9K3qi+OfrW9m3nZOjk03dp76anit6rvj/2gf2h+2P0x5Hp7E/4T5WfjT93fAn88ngmbWbm3/eE8/syOll+AAAACXBIWXMAAC4jAAAuIwF4pT92AAACL2lUWHRYTUw6Y29tLmFkb2JlLnhtcAAAAAAAPHg6eG1wbWV0YSB4bWxuczp4PSJhZG9iZTpuczptZXRhLyIgeDp4bXB0az0iWE1QIENvcmUgNS40LjAiPgogICA8cmRmOlJERiB4bWxuczpyZGY9Imh0dHA6Ly93d3cudzMub3JnLzE5OTkvMDIvMjItcmRmLXN5bnRheC1ucyMiPgogICAgICA8cmRmOkRlc2NyaXB0aW9uIHJkZjphYm91dD0iIgogICAgICAgICAgICB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iCiAgICAgICAgICAgIHhtbG5zOnRpZmY9Imh0dHA6Ly9ucy5hZG9iZS5jb20vdGlmZi8xLjAvIj4KICAgICAgICAgPHhtcDpDcmVhdG9yVG9vbD5BZG9iZSBJbWFnZVJlYWR5PC94bXA6Q3JlYXRvclRvb2w+CiAgICAgICAgIDx0aWZmOllSZXNvbHV0aW9uPjMwMDwvdGlmZjpZUmVzb2x1dGlvbj4KICAgICAgICAgPHRpZmY6T3JpZW50YXRpb24+MTwvdGlmZjpPcmllbnRhdGlvbj4KICAgICAgICAgPHRpZmY6WFJlc29sdXRpb24+MzAwPC90aWZmOlhSZXNvbHV0aW9uPgogICAgICA8L3JkZjpEZXNjcmlwdGlvbj4KICAgPC9yZGY6UkRGPgo8L3g6eG1wbWV0YT4KsBaN+QAADtFJREFUaAWdmQew3UUVh18qoSX0BAMISaQ6FOldpY1SRBSGamQYBDMKSFPRkSYzDNIE1KEJgqAIBpAiohJw6BB6kwChQ6ihJJCX5vedu+dm3333vjw8M+fu7jm/U/bs/vdf7oCurq4B8HxYWnfQoEET5s+fv/mAAQNWYfwpPIXxtfPmzfs1/XlwELh96OyLbj2wK9K+TjsZ2YVz5879ewPVNZC2aVNkC2sin8GDB28+Z86cxwF/DNc5Lsw+Y44D+CH81me0z1ijsfsEfq+NfWKGoxsJzxs6dOgwarAY/UHUYUZ3d/cL9GfAUubUGC34TT8jsR+JzVxaZa2E6/mDZ8+e/T6Klytl2q84ZMiQzyGPMfE/wdc0xu9W2J45DBw48GQWcX4nRv8wxsvDQ8Dc3AlX5BdVgdpNoFL36DaxxHsSX7sU7eAeqL4HgcX+BPiY/8N+kDbEvoRNt0MH+4gBZp8y349pZ5d+1tCxdXATSBa8lcIPcc4qtrNo57Xh7qKfWBykr8z1vKKfU9q5tJ/CU6jBEVXQgVmcs9gVTQW76WnGzwEcBm8GL8l4fYwn0Z8Nrw9LXr33we4mr4iNYekggg3iSj+Qfuy6kC78xwnMoQBbkcPa9MfDN8J5AtFdKAWWfDfCxxdA/wqeA/cnDws5F14V/i72d9FK2vYi9MOJ0wXvymn0BoChXGmDkK/Aibgd8mOo2Yb0N0RnrdrmAH4k/CS43bFfqmBpmuScvMLzim09NZdF/yr1/grtovgYhq+V6O9CDm6m3dDtyHhOF8X9KoLcldPp74Uid1DXsGHDVkN2V4UJLBN5CsduhiaB2Q3+oMLuXpSxsZrAzp3csb8vPjxSXTQpdI1ux99cmAHk5wkxnxw3Lej+5JAXwEnaUpszOtgOUU6Mw8HNpJtxC7zZrKkfcCcUSWsOMQZzLfy3plXfnTpW1kt7L7xexBy2MIfmXBj8VUHhnSsLFz0TXBb9OxXO3ey9SxJn4Ay+R4X7twDIJOtEQ9jyk5tseey7KdLxtG/A5xVc5tJi1mOYm8JNmhvv4n7aZ/wlif0y9takzr8OlAt+NJiPUOSxbY7mYLso7KY4DYxXZvqv6xBzQn8DfJ14aBE469napo8AFpy3nxvhu4vQ3PQr60t9HPl0R+ggr4C7uOxvUg8r99jwKNToXY6GK2iDOH4upOMx7pEvzmPQY2cgPiaif4i+tB48ClZXT5RhLzKuBfoOzRCOpBNLnEMZLwGbS+uEEfWgiMEEN0I6n5xPoN0bNoeF2Wf8/bEbReyTsFkXXhqOudG2kkVV5/wlW9lY3bDzuZ5mGdhblFTPQVtJP3lMp492bWLCiJ/aXryU8c0hZMznahVc5RsY3Kc76cX4bfzUjsOIBXgm9TiYWvo6TdImCo4+sS6Uk5X6WnB1PhtIE+BIkJgX0x9E0fZTAcWiNLptfzP+Zmjf5b56Iu0c7McXdCd77XIuh9G/mdieLMtxS1i92Ibv0s9Gf+3kqe8ih/ccUGzvs1I7vLLMLRcxwP380bbeSGkWvsjhbQVs4qUFvVO0nRYmExxecDadkkrs4gXrInofljrZqIvJUpRt2CxjWKAzFUIvwV4hRziA9JcxQtDyExuViXlqPV50l+PTTSR1srcO3u83BLsm7CuoRZrOibUJrdQurnPqVOzAM6eoK3PylUpqVwexXuWSuXTidjmkTTtd5rCcIOY1TccPOoC+DK8Du9M9qk1gaBkL3pl+EP3/lq72TljWRludbwW7o16mkaV2E21oyi/4I+EneRq9F1HcJ4l1BrwmhduiwGJz9DBsDJycp5F26+BnkmIW7Dc0q3DMf80x1M4+CsNVfTh2U7kiwhbsE8SOudBvl78ya2CdJGNbN9vwiT9Pp/d5L36CVqpPz4akYZP+3ZRi2nFi0i5bc8gNY1zn6DhkzGsP+rOY18Pe0A+A88nbq2I03IPYnT6NJuYxlDGZHqAyANd8CMTupCLOZNqZmKw0qsQ4uDFsLLh95M/DVxZ5J1+5kOvoB2xemdrfA99S7BNXhrFg9oeDmU3OeZp4/z0DnpJA2py3C6r+OGzyBKtgjS66b8E+pR9blK25Ry5gboXvAOPD3/LwUoV9fvBWICuPB0HapKgdtrfD96Swpd0QnTmc2pQj+I/CwtO5ms6gvxe8H3xNkaf+G03DxsPQ+uC3xeEP4McTS9+NEU+JtFmoyrTZjSKA/wW2s5Dm7UCbLKxPw+54CyDlJmmMGr/hB9x4eAYinx+CGMcHEgYrFVFtn/EngPOEsthBjPeEveIstpR2mdeP0VvM79N64Yynfwh8Av3b1FnLhmnYttYhF/xqsbAfXj6BPy48o4xtjfPT4is3Ti74begeQedJMxJelbhbwadrB7sZMne67G4MJhdlLmyvFswPA82RCfZ6+H04v+408eBeApdFar2iiotomgXAz9vwBUVpQdXlxOLqx++RRZ/yMowmZPi4ENyjRZGT9OvgB8hPLvJYMPrN+OieAnNZ0ecRPRaZi7Z9kWfcXPAj1cN+v/gI9lVQ9itX1uMB+t8u9jbNmPRzwW8g/nPE2Q7sNwvvTpvs9409wa+hAyh95IJfh954bph3S5vxLwSfeWc9uhYHdD+coLr1s97dJLODkWwZK6sxPfokPxXoGPFQXwuei7Sz/sB+MSwWTKgM41i/xaI0Bb0xUQQwD+PrkoLTf8Y4B/mbLfaRmw9rxqfN20CzQMjfxufPil1ulFzwuMLRjYbdJJ4qPst4So2iVptjnx+RzkEm5WLZzwW/BdzNCvpBtX0u+D/Mk3hn07oWvytzWaXyt2AdAEwqQMGvMMFjMd4J3hqDtSoj/1xxF8UCg3sGPh4+BKy3gWmpo30NO+89UnNnNYbN35zwP8HfX6T1hBTlgrnzvdryISoXRUzaLAHG4+9ghZALEzH4U2It7eF8eNM+fV/KHLwFSfqSs5gezTepgLJoueDewz9F7iJ3JDBfh42deWXuOX8X/IbiwNtg5tbattYxc5yU+ePnL/DLVTLmusAO5f5wLuDjKJv3sMooCgrOxAJL+2f0WeiE+uDjbgsMi3N6UeQEE2ebxRtb8H7wfwV+E/YLW7Lj18tYv3n1pn3TF7t6Y/ReqRuUQInJwvjwdmvRxaLRXxKZR/BBRZ65RsscTqGYrxedjXPOBf8Jdh8xzocp46mXjamPuD2AuwCOd3JkkpjID7l1nRjSBXUpwz6bnJcPbfcWpPOxTh7lUs4zBibk35ySBT+IR/jp9J3AbNhjVqf2x8Lbwr5uvQhuvF3YHenrkMl/yGvQnvh5iv5oMDvSau/DkBMUn+TYJ90DbfHpA4mymISyQtro+wNekbak3Rs+Gs7PlT7MaUPouRuBmclr3bOMpYynXtx58B/hleFXYOPvTzMP2z85hsQ1ibzuxedxCNIm8i4AscZImxyrTnlsHHz8AV8HuxnJz38e63mmvXa1f8f9IWN50khuQJ8ZrmGzXsGr2O30XXTXkEouOIZvD0HvHWaxvXdvDTauXIqUV66LXVOMwZ1fsG+iXKEA6gnmpAaD88Hv/NpJH/3F9Ev8wwomd28UFd3l6CymZIyMk7GHgvkIzEmB4If+FGQXlXH4Kf20WQn9PHjXChM4bI/VH/KsQ8Yr0GiifvTGgfWWtFNR6iPzvgHddUWe+DLss4kcsf0XfEdBRk0YXw3PQJanT2D9Wa4AXZx2lJPwHTHp1dLxyq4pxuzmj4tQ27SvcTEpEvLJcymurtOK0sJlIVpbE58JXwnngufJYesp4RWezwLGyCvcK0h/3egvhifQdxNvT38cC3euYyjxdf9V/L4Ce7pI9XzEW8Mopso2FHhiLa+OeJ2+uH2WhW4NY90zr5gDNT1AEDX21iuFfiATmdoYd40rrQZ18NgxHM+rFb1XxaqlX+N0GMHw+SX1tB67ed8KnXIojzBf8+6An4ct2izYxWvH3ciNfS5FG0sBt2CoTxdSGoF8DO09Mer9E/E54n6LalmO1k3I71D4GY7YfI3LvLRu+sbvI7Cfa6Ua49h5y1K22Te33AzeiuYS6wmVUF0Px3UtHfeHMp71ytPOxbf/KTn7zcRXOhe/IWdwMRxHNe14FEn1RCz0ExVuGqBlClDnTiwKD2aXCndpwdSTyf7qBbd7weTClWGvJidnLr4zX1UQcZyyAbbUH0/jaxd5xqkdhQzcdfjwKPdv2EMKoF38kIE5Buw74HLx4kGsyN2kIyofYpq5Kie3Hc0N/C8rXKj8QeeRfkvRWU991Ky/Xn6R5Xyux/5BxlLGjtyRnwu7uVYOLTs9nmwVwv6z9CMUw0PZMF4HeXw1KpjcHF5JYwsuGvS+fvjhITAuQtHXxY+dSJxTwVnETDDb2mVrP20PwdYrLQvtJvDz71vIMlY7f1GE3BzgvY2lDwvaSuGr4L2KxhVAbDJiHoWPD1uNythNsR76fJ65psJlbrkofji5vtL3txv5YXsV/EAxSt/N+ZDni+hzQ8QO9B06F9LW16C7AD5E2+O9m7GvNon9kP5E2D/YfZdOue1FJYFcAIeZxCJiKeSZBRMTL/2+mrT3fVv7UxLMeBJ870L8WYwoCHN7GvxlC8FnvBHGgw8u+HgQwoevZcqtiReFfCdyT8P3YHXWMu00T5/2c8G9wj0BHoUfoX8/fB/9yfDD8EPwC8z3LI2g9NG0V99Qxfxy0bOuaxT/P4/F4P58KwJ3+ubFaEnalbkHrEibC3afr1nc8y7A+TbIPw+709eCN4HHwEk38dCwLwOPEoPbStkfjW/fo85G9kFoFmDKsG2jHyc7ixx8kOqG4yENf8vB1zJ+Fn3GaefE+VjcaeDvZE4v9YHPvGeB/QSbKeCfK3if3I0zDPa0sbi2vj4+RR4+JR/PM8NR9B9CLrZdXuZinLexexF+jf4bMv1XC79E+wZ+HoEno6tJe+M+hs5a1DEyL78WajdKQwFBHO+bkuSlKD0C3J3T4dvh7yUmW2T7wX4DfovWyc+EH2A8ITG0uRMr0YJ4RdiMX4MW0q/9al/7qHWd3NT4ut8ffPrvj136czN0wneSp21r24qvx3W/tsuLtut/szhyWqonQDsAAAAASUVORK5CYII=);
+"><span style="padding-right:15px;">You are viewing a snapshot of <a style='font-weight:bold !important; color:white !important' href='http://www.elmundo.es/suplementos/magazine/2007/410/1186053889.html'>http://www.elmundo.es/suplementos/magazine/2007/410/1186053889.html</a> created on 2020/08/11</span></div></body>
+</html>
