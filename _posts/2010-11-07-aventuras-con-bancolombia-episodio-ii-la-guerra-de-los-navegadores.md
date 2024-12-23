@@ -17,18 +17,18 @@ Si algún empleado de Bancolombia con capacidad (y ganas) puede arreglar este �
 
 Si quiero transferir a otra cuenta, en este caso a un proveedor, debo usar esta interfaz (primeros campos completados ya):
 
-[![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/11/01-300x173.png "Antes de seleccionar fecha")]({{ site.url }}/wp-content/uploads/2010/11/01.png)
+[![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/11/01-300x173.png "Antes de seleccionar fecha")](/wp-wp-content/uploads/2010/11/01.png)
 
 Necesito asignar una fecha para la transferencia así que hago clic en el botón ese que parece un calendario. Aparece el diálogo de selección de fecha:
 
-[![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/11/02-300x191.png "Seleccionando fecha")]({{ site.url }}/wp-content/uploads/2010/11/02.png)
+[![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/11/02-300x191.png "Seleccionando fecha")](/wp-wp-content/uploads/2010/11/02.png)
 
 Selecciono hoy 7 de Noviembre de 2010. El diálogo de fecha se cierra y llena el campo “Fecha aplicación (dd/mm/aaaa)”:
 
-[![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/11/03-300x166.png "Fecha seleccionada")]({{ site.url }}/wp-content/uploads/2010/11/03.png)
+[![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/11/03-300x166.png "Fecha seleccionada")](/wp-wp-content/uploads/2010/11/03.png)
 
 Todo parece estar bien así que hago clic en “Continuar” y sucede esto:
 
-[![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/11/04-300x170.png "¿Fecha inválida? WTF")]({{ site.url }}/wp-content/uploads/2010/11/04.png)
+[![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/11/04-300x170.png "¿Fecha inválida? WTF")](/wp-wp-content/uploads/2010/11/04.png)
 
 ¿Cómo así que “*La fecha no puede estar antes de la presente*“? Pues si se fija, el campo de fecha ahora **tiene un cero menos** y dice “07/11/201”. ¡Quien hizo el Javascript de alguna forma está modificando/validando la fecha y en el proceso elimina el último caracter del campo! Adivine: esta interfaz **solo funciona bien en Internet Explorer para Windows**. Obviamente para quien lo hizo [el 55% de los navegadores](http://en.wikipedia.org/wiki/Usage_share_of_web_browsers) no son importantes. Y no, si cambio manualmente la fecha tampoco funciona.
