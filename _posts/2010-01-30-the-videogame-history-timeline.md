@@ -25,7 +25,7 @@ I had the opportunity of creating a history timeline for a client and decided to
 
 The URL is: <http://www.mauriciogiraldo.com/vgline/beta/>
 
-<figure aria-describedby="caption-attachment-620" class="wp-caption alignnone" id="attachment_620" style="width: 300px">[![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-29-53-300x190.png "principal")](/wp-wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-29-53.png)<figcaption class="wp-caption-text" id="caption-attachment-620">clic para ver imagen completa</figcaption></figure>
+<figure aria-describedby="caption-attachment-620" class="wp-caption alignnone" id="attachment_620" style="width: 300px">[![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-29-53-300x190.png "principal")](/assets/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-29-53.png)<figcaption class="wp-caption-text" id="caption-attachment-620">clic para ver imagen completa</figcaption></figure>
 
 The timeline showcases **eight types of events**:
 
@@ -48,17 +48,17 @@ Presenting this information clearly to the user is rather complicated. *Not to s
 
 You need to press SPACEBAR in order to see the relationships between events:
 
-<figure aria-describedby="caption-attachment-621" class="wp-caption alignnone" id="attachment_621" style="width: 300px">[![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-29-57-300x190.png "relations between events")](/wp-wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-29-57.png)<figcaption class="wp-caption-text" id="caption-attachment-621">relations between events</figcaption></figure>
+<figure aria-describedby="caption-attachment-621" class="wp-caption alignnone" id="attachment_621" style="width: 300px">[![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-29-57-300x190.png "relations between events")](/assets/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-29-57.png)<figcaption class="wp-caption-text" id="caption-attachment-621">relations between events</figcaption></figure>
 
 Given that you see *a lot* of relations between events in the default display mode (and even more events are missing from the timeline) I decided to allow the user **to turn on/off event types and relation types**. This way, if I turn off all events except people and games, I can see the screen with less “noise”:
 
-<figure aria-describedby="caption-attachment-622" class="wp-caption alignnone" id="attachment_622" style="width: 300px">[![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-30-15-300x190.png "people and games")](/wp-wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-30-15.png)<figcaption class="wp-caption-text" id="caption-attachment-622">people and games</figcaption></figure>
+<figure aria-describedby="caption-attachment-622" class="wp-caption alignnone" id="attachment_622" style="width: 300px">[![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-30-15-300x190.png "people and games")](/assets/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-30-15.png)<figcaption class="wp-caption-text" id="caption-attachment-622">people and games</figcaption></figure>
 
 It’s difficult (maybe even impossible) to plot all events and relations while completely avoiding superposed lines (or maybe I need to investigate a little more). However, I believe that the current solution is easy to understand once you have played with it for a few minutes (I didn’t set out to create a conventional interface; I wanted to experiment a little).
 
 This is what I see if I turn on *series* and games:
 
-<figure aria-describedby="caption-attachment-623" class="wp-caption alignnone" id="attachment_623" style="width: 300px">[![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-30-57-300x190.png "game series")](/wp-wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-30-57.png)<figcaption class="wp-caption-text" id="caption-attachment-623">game series</figcaption></figure>
+<figure aria-describedby="caption-attachment-623" class="wp-caption alignnone" id="attachment_623" style="width: 300px">[![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-30-57-300x190.png "game series")](/assets/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-0-30-57.png)<figcaption class="wp-caption-text" id="caption-attachment-623">game series</figcaption></figure>
 
 You can see that [Doom II](http://www.mauriciogiraldo.com/vgline/beta/#/338 "Doom II en la línea de tiempo") goes after [Doom](http://www.mauriciogiraldo.com/vgline/beta/#/323 "Doom en la línea de tiempo") and that there is [another later game](http://www.mauriciogiraldo.com/vgline/beta/#/342 "Doom III en la línea de tiempo") in the series. [Riven](http://www.mauriciogiraldo.com/vgline/beta/#/267 "Riven en la línea de tiempo") goes after [Myst](http://www.mauriciogiraldo.com/vgline/beta/#/265 "Myst en la línea de tiempo"), etc.
 
@@ -66,7 +66,7 @@ You can see that [Doom II](http://www.mauriciogiraldo.com/vgline/beta/#/338 "Doo
 
 Users are lazy (okay, all but you) and if they don’t find what they are looking for in a few seconds they will go somewhere else. Also, in large sets of information (even though the timeline currently has only a few hundred events) it is difficult to predict how a user expects to find some particular data point. This is why the timeline has a search box:
 
-<figure aria-describedby="caption-attachment-624" class="wp-caption alignnone" id="attachment_624" style="width: 300px">[![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-2-4-28-300x190.png "search results")](/wp-wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-2-4-28.png)<figcaption class="wp-caption-text" id="caption-attachment-624">search results for "nintendo"</figcaption></figure>
+<figure aria-describedby="caption-attachment-624" class="wp-caption alignnone" id="attachment_624" style="width: 300px">[![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-2-4-28-300x190.png "search results")](/assets/uploads/2010/01/www.mauriciogiraldo.com-screen-capture-2010-1-25-2-4-28.png)<figcaption class="wp-caption-text" id="caption-attachment-624">search results for "nintendo"</figcaption></figure>
 
 ### Viva la *open source*!
 

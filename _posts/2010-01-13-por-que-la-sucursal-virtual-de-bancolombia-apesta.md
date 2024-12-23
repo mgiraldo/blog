@@ -26,7 +26,7 @@ Cuán equivocado estaba…
 
 Empecemos por el *login*:
 
-<figure aria-describedby="caption-attachment-581" class="wp-caption alignnone" id="attachment_581" style="width: 300px">[![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/01/login-300x228.png "login")](/wp-wp-content/uploads/2010/01/login.png)<figcaption class="wp-caption-text" id="caption-attachment-581">login fail</figcaption></figure>
+<figure aria-describedby="caption-attachment-581" class="wp-caption alignnone" id="attachment_581" style="width: 300px">[![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/01/login-300x228.png "login")](/assets/uploads/2010/01/login.png)<figcaption class="wp-caption-text" id="caption-attachment-581">login fail</figcaption></figure>
 
 Algunos detalles:
 
@@ -39,7 +39,7 @@ Algunos detalles:
 
 Ya sé lo que están pensando: “el punto del tecladito ese es para evitar [*key loggers*](http://es.wikipedia.org/wiki/Keylogger)“. La verdad **no imagino que clase de imbécil se mete a la sucursal virtual de una empresa desde un web café** (que es donde suele haber *key loggers*) pero digamos que es medianamente sensato (aunque estoy seguro que si hay *key loggers* será igual de facil instalar otro tipo de programas espías). Eso significa que la Sucursal Virtual Empresas mantiene esa seguridad en todos lados donde se solicita la clave. ¿Cierto? Por ejemplo, donde uno puede cambiar su clave:
 
-<figure aria-describedby="caption-attachment-584" class="wp-caption alignnone" id="attachment_584" style="width: 300px">[![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/01/clave-300x225.png "clave")](/wp-wp-content/uploads/2010/01/clave.png)<figcaption class="wp-caption-text" id="caption-attachment-584">¿y dónde está el teclado?</figcaption></figure>
+<figure aria-describedby="caption-attachment-584" class="wp-caption alignnone" id="attachment_584" style="width: 300px">[![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/01/clave-300x225.png "clave")](/assets/uploads/2010/01/clave.png)<figcaption class="wp-caption-text" id="caption-attachment-584">¿y dónde está el teclado?</figcaption></figure>
 
 Dejemos de lado esto y más bien hablemos de lo servicios de la Sucursal Virtual Empresas Bancolombia (suena elegante ¿no?).
 
@@ -49,7 +49,7 @@ Dicho eso, veamos un par de casos:
 
 ### Navegación
 
-<figure aria-describedby="caption-attachment-585" class="wp-caption alignnone" id="attachment_585" style="width: 300px">[![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/01/navegacion-300x193.png "navegacion")](/wp-wp-content/uploads/2010/01/navegacion.png)<figcaption class="wp-caption-text" id="caption-attachment-585">test de motricidad fina</figcaption></figure>
+<figure aria-describedby="caption-attachment-585" class="wp-caption alignnone" id="attachment_585" style="width: 300px">[![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/01/navegacion-300x193.png "navegacion")](/assets/uploads/2010/01/navegacion.png)<figcaption class="wp-caption-text" id="caption-attachment-585">test de motricidad fina</figcaption></figure>
 
 Este bello menú anidado nos transporta a una época web donde todo parecía no tener límites (¿recuerdan la [burbuja](http://en.wikipedia.org/wiki/Dot-com_bubble)?) pero en este caso a alguien se le ocurrió que era el menú el que no debía tener límites. Muy 1990’s, este menú me recuerda [otro que lo supera en su complejidad](http://www.frys.com "fijarse en el menú superior, mire a ver si puede llegar a discos duros SCSI"). **Un diseño de información adecuado debe poder organizarla de forma que evite este tipo de malabarismos**.
 
@@ -57,11 +57,11 @@ Si doy clic en “saldos” veamos qué sale (no sé por qué toca hacer clic y 
 
 ### Saldos y Movimientos
 
-<figure aria-describedby="caption-attachment-586" class="wp-caption alignnone" id="attachment_586" style="width: 300px">[![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/01/saldo-resumen-300x225.png "saldo resumen")](/wp-wp-content/uploads/2010/01/saldo-resumen.png)<figcaption class="wp-caption-text" id="caption-attachment-586">óptimo uso del espacio disponible</figcaption></figure>
+<figure aria-describedby="caption-attachment-586" class="wp-caption alignnone" id="attachment_586" style="width: 300px">[![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/01/saldo-resumen-300x225.png "saldo resumen")](/assets/uploads/2010/01/saldo-resumen.png)<figcaption class="wp-caption-text" id="caption-attachment-586">óptimo uso del espacio disponible</figcaption></figure>
 
 En esta pantalla se nota que el diseñador tuvo un momento de lucidez destacable. **Es un juego compositivo que busca darle un nuevo significado al espacio en blanco**. Un par de clics más y vemos el detalle de una cuenta (sí, si quiero llegar a ver el detalle de movimientos de una cuenta todavía me falta ver dos pantallas que no quiero incluir para no aburrirlos):
 
-<figure aria-describedby="caption-attachment-587" class="wp-caption alignnone" id="attachment_587" style="width: 300px">[![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/01/movimientos-300x189.png "movimientos")](/wp-wp-content/uploads/2010/01/movimientos.png)<figcaption class="wp-caption-text" id="caption-attachment-587">¿qué prefiere, tablas o tablas?</figcaption></figure>
+<figure aria-describedby="caption-attachment-587" class="wp-caption alignnone" id="attachment_587" style="width: 300px">[![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/01/movimientos-300x189.png "movimientos")](/assets/uploads/2010/01/movimientos.png)<figcaption class="wp-caption-text" id="caption-attachment-587">¿qué prefiere, tablas o tablas?</figcaption></figure>
 
 Empezamos a ver un patrón (y no me refiero a [ese patrón](http://en.wikipedia.org/wiki/Pablo_Escobar "Wikipedia: Pablo Escobar")) sino a un patrón que suelo llamar *Save as…* pero combinado con otro que suelo llamar *Plantilla predeterminada 1*. Todas las pantallas de la Sucursal Virtual Empresas Bancolombia (sí, voy a procurar escribir el nombre completo siempre para ver si recibo algo de *ranking* Google para esos términos) **parecen sacadas de un *template* de Microsoft FrontPage o Visual Studio**.
 
@@ -69,11 +69,11 @@ Empezamos a ver un patrón (y no me refiero a [ese patrón](http://en.wikipedia.
 
 Hagamos una transferencia. Eso sí es un servicio. Todo lo anterior no ha sido más que presentación de datos. Supongamos que ya tengo una cuenta creada (ese formato también es bello pero me lo voy a saltar) y que voy a hacer un “pago a proveedores”:
 
-<figure aria-describedby="caption-attachment-589" class="wp-caption alignnone" id="attachment_589" style="width: 300px">[![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/01/transferencias-300x134.png "transferencias")](/wp-wp-content/uploads/2010/01/transferencias.png)<figcaption class="wp-caption-text" id="caption-attachment-589">formulario de creación de transferencia</figcaption></figure>
+<figure aria-describedby="caption-attachment-589" class="wp-caption alignnone" id="attachment_589" style="width: 300px">[![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/01/transferencias-300x134.png "transferencias")](/assets/uploads/2010/01/transferencias.png)<figcaption class="wp-caption-text" id="caption-attachment-589">formulario de creación de transferencia</figcaption></figure>
 
 En “tipo de pago” hay:
 
-<figure aria-describedby="caption-attachment-590" class="wp-caption alignnone" id="attachment_590" style="width: 300px">[![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/01/pagos-300x223.png "pagos")](/wp-wp-content/uploads/2010/01/pagos.png)<figcaption class="wp-caption-text" id="caption-attachment-590">¿cuál de estos es el formato correcto?</figcaption></figure>
+<figure aria-describedby="caption-attachment-590" class="wp-caption alignnone" id="attachment_590" style="width: 300px">[![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/01/pagos-300x223.png "pagos")](/assets/uploads/2010/01/pagos.png)<figcaption class="wp-caption-text" id="caption-attachment-590">¿cuál de estos es el formato correcto?</figcaption></figure>
 
 …no uno ni dos ni tres sino **veintisiete tipos de “pagos a proveedores” diferentes** (¿WTF?).
 
@@ -85,11 +85,11 @@ En “tipo de pago” hay:
 
 Bueno selecciono “pago a proveedores”. Ahora solo debo ponerle un nombre al pago… algo que me sirva para luego recordar qué estaba pensando yo al mandarle plata a otra persona: “Pago Paulo Pinto 12/1/2010” es suficientemente claro y explícito (cualquier parecido con nombres de personas reales es pura coincidencia):
 
-<figure aria-describedby="caption-attachment-591" class="wp-caption alignnone" id="attachment_591" style="width: 300px">[![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/01/limite-chars-300x198.png "limite chars")](/wp-wp-content/uploads/2010/01/limite-chars.png)<figcaption class="wp-caption-text" id="caption-attachment-591">26 caracteres ya es demasiado</figcaption></figure>
+<figure aria-describedby="caption-attachment-591" class="wp-caption alignnone" id="attachment_591" style="width: 300px">[![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/01/limite-chars-300x198.png "limite chars")](/assets/uploads/2010/01/limite-chars.png)<figcaption class="wp-caption-text" id="caption-attachment-591">26 caracteres ya es demasiado</figcaption></figure>
 
 ¡Pues no! ¿Quién dijo que podía usar más de 25 caracteres? ¡Bruto! ¡Lo que sea que le va a poner al nombre de la transferencia debe ser menos de 25 letras y espacios! ¡25 es más que suficiente!
 
-Con lo costoso que es guardar, digamos, 64 caracteres… hay niños muriendo de hambre y usted pidiendo más de 25 caracteres. ¿[Alguien quiere pensar en los niños](/wp-wp-content/uploads/2010/01/queremosprohibicion.mp3)? Supongo que si permitiera más caracteres el servicio no podría ser tan económico… 200 dólares al año son una **ganga** (ni mencionar la Sucursal Virtual Personas Bancolombia que **cobra por cada login**). Esto me recuerda la arbitrariedad que tenían (y tienen) algunos sistemas operativos con los nombres de los archivos ([8 caracteres debía ser suficiente](http://blogs.msdn.com/oldnewthing/archive/2009/06/10/9718865.aspx "Why does MS-DOS use 8.3 filenames instead of, say, 11.2 or 16.16?")).
+Con lo costoso que es guardar, digamos, 64 caracteres… hay niños muriendo de hambre y usted pidiendo más de 25 caracteres. ¿[Alguien quiere pensar en los niños](/assets/uploads/2010/01/queremosprohibicion.mp3)? Supongo que si permitiera más caracteres el servicio no podría ser tan económico… 200 dólares al año son una **ganga** (ni mencionar la Sucursal Virtual Personas Bancolombia que **cobra por cada login**). Esto me recuerda la arbitrariedad que tenían (y tienen) algunos sistemas operativos con los nombres de los archivos ([8 caracteres debía ser suficiente](http://blogs.msdn.com/oldnewthing/archive/2009/06/10/9718865.aspx "Why does MS-DOS use 8.3 filenames instead of, say, 11.2 or 16.16?")).
 
 FAIL
 
@@ -99,7 +99,7 @@ Olvidaba mencionar que **los nombres de las transferencias deben ser únicos** (
 
 Seleccionemos una cuenta a la cual transferir:
 
-<figure aria-describedby="caption-attachment-592" class="wp-caption alignnone" id="attachment_592" style="width: 300px">[![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/01/abono-ahorros-300x182.png "abono ahorros")](/wp-wp-content/uploads/2010/01/abono-ahorros.png)<figcaption class="wp-caption-text" id="caption-attachment-592">¿pago en efectivo? ¿desde la Sucursal Virtual empresas de Bancolombia?</figcaption></figure>
+<figure aria-describedby="caption-attachment-592" class="wp-caption alignnone" id="attachment_592" style="width: 300px">[![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/01/abono-ahorros-300x182.png "abono ahorros")](/assets/uploads/2010/01/abono-ahorros.png)<figcaption class="wp-caption-text" id="caption-attachment-592">¿pago en efectivo? ¿desde la Sucursal Virtual empresas de Bancolombia?</figcaption></figure>
 
 Arriba vemos “Benef” que, supongo, significa “Beneficiario” (alguien tiene que pensar en los niños).
 
