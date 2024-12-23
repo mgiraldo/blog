@@ -5,7 +5,7 @@ date: '2010-05-05T21:28:43+00:00'
 author: blog
 layout: post
 guid: 'http://www.mauriciogiraldo.com/blog/?p=757'
-permalink: /2010/05/05/ahora-en-su-iphoneandroidpalm/
+permalink: /blog/2010/05/05/ahora-en-su-iphoneandroidpalm/
 categories:
     - general
 ---

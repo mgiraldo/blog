@@ -5,7 +5,7 @@ date: '2011-03-18T21:06:29+00:00'
 author: blog
 layout: post
 guid: 'http://www.mauriciogiraldo.com/blog/?p=806'
-permalink: /2011/03/18/socially-nervous/
+permalink: /blog/2011/03/18/socially-nervous/
 categories:
     - arte
     - crítica

@@ -5,7 +5,7 @@ date: '2014-10-10T16:22:06+00:00'
 author: blog
 layout: post
 guid: 'http://www.mauriciogiraldo.com/blog/?p=886'
-permalink: /2014/10/10/generative-ebook-covers/
+permalink: /blog/2014/10/10/generative-ebook-covers/
 categories:
     - general
     - programación

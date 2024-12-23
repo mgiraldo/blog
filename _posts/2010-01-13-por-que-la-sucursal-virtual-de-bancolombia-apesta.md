@@ -5,7 +5,7 @@ date: '2010-01-13T21:00:00+00:00'
 author: blog
 layout: post
 guid: 'http://www.mauriciogiraldo.com/blog/?p=566'
-permalink: /2010/01/13/por-que-la-sucursal-virtual-de-bancolombia-apesta/
+permalink: /blog/2010/01/13/por-que-la-sucursal-virtual-de-bancolombia-apesta/
 enclosure:
     - "http://localhost:8888/blog/wp-content/uploads/2010/01/queremosprohibicion.mp3\n303566\naudio/mpeg\n"
 categories:

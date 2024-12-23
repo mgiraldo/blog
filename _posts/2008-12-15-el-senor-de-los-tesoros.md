@@ -5,7 +5,7 @@ date: '2008-12-15T17:08:06+00:00'
 author: blog
 layout: post
 guid: 'http://www.mauriciogiraldo.com/blog/?p=128'
-permalink: /2008/12/15/el-senor-de-los-tesoros/
+permalink: /blog/2008/12/15/el-senor-de-los-tesoros/
 cc_content_license:
     - ''
 cc_content_license_uri:

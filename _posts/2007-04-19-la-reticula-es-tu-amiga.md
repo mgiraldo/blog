@@ -5,7 +5,7 @@ date: '2007-04-19T20:16:22+00:00'
 author: blog
 layout: post
 guid: 'http://www.mauriciogiraldo.com/blog/2007/04/19/la-reticula-es-tu-amiga/'
-permalink: /2007/04/19/la-reticula-es-tu-amiga/
+permalink: /blog/2007/04/19/la-reticula-es-tu-amiga/
 categories:
     - diseño
     - tipografí­a

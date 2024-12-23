@@ -5,7 +5,7 @@ date: '2007-02-05T01:37:33+00:00'
 author: blog
 layout: post
 guid: 'http://www.mauriciogiraldo.com/blog/2007/02/05/ayude-a-evitar-el-spam-use-el-bcc/'
-permalink: /2007/02/05/ayude-a-evitar-el-spam-use-el-bcc/
+permalink: /blog/2007/02/05/ayude-a-evitar-el-spam-use-el-bcc/
 categories:
     - general
     - tips

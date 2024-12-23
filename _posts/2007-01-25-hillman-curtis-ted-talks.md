@@ -5,7 +5,7 @@ date: '2007-01-25T09:26:13+00:00'
 author: blog
 layout: post
 guid: 'http://www.mauriciogiraldo.com/blog/?p=6'
-permalink: /2007/01/25/hillman-curtis-ted-talks/
+permalink: /blog/2007/01/25/hillman-curtis-ted-talks/
 categories:
     - diseño
     - general

@@ -5,7 +5,7 @@ date: '2009-08-18T19:05:53+00:00'
 author: blog
 layout: post
 guid: 'http://www.mauriciogiraldo.com/blog/?p=432'
-permalink: /2009/08/18/vendiendo-cafe-a-batazos/
+permalink: /blog/2009/08/18/vendiendo-cafe-a-batazos/
 categories:
     - general
 ---

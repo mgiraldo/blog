@@ -5,7 +5,7 @@ date: '2007-02-19T02:36:37+00:00'
 author: blog
 layout: post
 guid: 'http://www.mauriciogiraldo.com/blog/2007/02/19/%c2%bfciencia-o-fe/'
-permalink: /2007/02/19/ciencia-o-fe/
+permalink: /blog/2007/02/19/ciencia-o-fe/
 categories:
     - ciencia
     - general

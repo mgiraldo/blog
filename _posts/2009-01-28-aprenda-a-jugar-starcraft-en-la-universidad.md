@@ -5,7 +5,7 @@ date: '2009-01-28T22:23:52+00:00'
 author: blog
 layout: post
 guid: 'http://www.mauriciogiraldo.com/blog/?p=224'
-permalink: /2009/01/28/aprenda-a-jugar-starcraft-en-la-universidad/
+permalink: /blog/2009/01/28/aprenda-a-jugar-starcraft-en-la-universidad/
 categories:
     - historia
     - juegos

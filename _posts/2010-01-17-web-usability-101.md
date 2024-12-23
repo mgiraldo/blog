@@ -5,7 +5,7 @@ date: '2010-01-17T05:01:50+00:00'
 author: blog
 layout: post
 guid: 'http://www.mauriciogiraldo.com/blog/?p=607'
-permalink: /2010/01/17/web-usability-101/
+permalink: /blog/2010/01/17/web-usability-101/
 categories:
     - general
 ---

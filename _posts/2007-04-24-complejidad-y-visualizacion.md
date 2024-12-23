@@ -5,7 +5,7 @@ date: '2007-04-24T23:28:23+00:00'
 author: blog
 layout: post
 guid: 'http://www.mauriciogiraldo.com/blog/2007/04/24/complejidad-y-visualizacion/'
-permalink: /2007/04/24/complejidad-y-visualizacion/
+permalink: /blog/2007/04/24/complejidad-y-visualizacion/
 categories:
     - ciencia
     - diseño

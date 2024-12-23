@@ -5,7 +5,7 @@ date: '2010-03-28T17:13:59+00:00'
 author: blog
 layout: post
 guid: 'http://www.mauriciogiraldo.com/blog/?p=713'
-permalink: /2010/03/28/the-thought-factory/
+permalink: /blog/2010/03/28/the-thought-factory/
 categories:
     - arte
     - diseño

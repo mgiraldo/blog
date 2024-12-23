@@ -5,7 +5,7 @@ date: '2007-09-09T22:45:11+00:00'
 author: blog
 layout: post
 guid: 'http://www.mauriciogiraldo.com/blog/2007/09/09/reinados-y-diseno/'
-permalink: /2007/09/09/reinados-y-diseno/
+permalink: /blog/2007/09/09/reinados-y-diseno/
 cc_content_license:
     - ''
 cc_content_license_uri:

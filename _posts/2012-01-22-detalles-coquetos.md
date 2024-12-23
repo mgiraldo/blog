@@ -5,7 +5,7 @@ date: '2012-01-22T21:32:47+00:00'
 author: blog
 layout: post
 guid: 'http://www.mauriciogiraldo.com/blog/?p=866'
-permalink: /2012/01/22/detalles-coquetos/
+permalink: /blog/2012/01/22/detalles-coquetos/
 categories:
     - diseño
     - interacción

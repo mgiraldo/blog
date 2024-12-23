@@ -5,7 +5,7 @@ date: '2008-01-17T18:42:10+00:00'
 author: blog
 layout: post
 guid: 'http://www.mauriciogiraldo.com/blog/2008/01/17/el-chef-recomienda-johnny-lee-y-el-wii/'
-permalink: /2008/01/17/el-chef-recomienda-johnny-lee-y-el-wii/
+permalink: /blog/2008/01/17/el-chef-recomienda-johnny-lee-y-el-wii/
 cc_content_license:
     - ''
 cc_content_license_uri:

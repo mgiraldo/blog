@@ -5,7 +5,7 @@ date: '2007-01-25T09:28:18+00:00'
 author: blog
 layout: post
 guid: 'http://www.mauriciogiraldo.com/blog/?p=8'
-permalink: /2007/01/25/soundflavor-las-obras-completas-de-charles-darwin/
+permalink: /blog/2007/01/25/soundflavor-las-obras-completas-de-charles-darwin/
 categories:
     - arte
     - ciencia

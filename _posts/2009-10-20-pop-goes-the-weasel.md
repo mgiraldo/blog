@@ -5,7 +5,7 @@ date: '2009-10-20T20:31:38+00:00'
 author: blog
 layout: post
 guid: 'http://www.mauriciogiraldo.com/blog/?p=479'
-permalink: /2009/10/20/pop-goes-the-weasel/
+permalink: /blog/2009/10/20/pop-goes-the-weasel/
 categories:
     - ciencia
     - general

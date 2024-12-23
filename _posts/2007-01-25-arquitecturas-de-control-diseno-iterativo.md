@@ -5,7 +5,7 @@ date: '2007-01-25T09:26:48+00:00'
 author: blog
 layout: post
 guid: 'http://www.mauriciogiraldo.com/blog/?p=7'
-permalink: /2007/01/25/arquitecturas-de-control-diseno-iterativo/
+permalink: /blog/2007/01/25/arquitecturas-de-control-diseno-iterativo/
 categories:
     - arte
     - diseño

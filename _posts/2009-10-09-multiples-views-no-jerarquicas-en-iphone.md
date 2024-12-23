@@ -5,7 +5,7 @@ date: '2009-10-09T03:25:29+00:00'
 author: blog
 layout: post
 guid: 'http://www.mauriciogiraldo.com/blog/?p=446'
-permalink: /2009/10/09/multiples-views-no-jerarquicas-en-iphone/
+permalink: /blog/2009/10/09/multiples-views-no-jerarquicas-en-iphone/
 enclosure:
     - "http://localhost:8888/blog/wp-content/uploads/2009/10/InfiniteViews1.mov\n255554\nvideo/quicktime\n"
 categories:

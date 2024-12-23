@@ -5,7 +5,7 @@ date: '2007-01-25T09:23:19+00:00'
 author: blog
 layout: post
 guid: 'http://www.mauriciogiraldo.com/blog/?p=3'
-permalink: /2007/01/25/primer-post/
+permalink: /blog/2007/01/25/primer-post/
 categories:
     - general
 ---

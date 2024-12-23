@@ -5,7 +5,7 @@ date: '2007-08-20T03:39:12+00:00'
 author: blog
 layout: post
 guid: 'http://www.mauriciogiraldo.com/blog/2007/08/20/web-design-patterns-will-wright-y-spore/'
-permalink: /2007/08/20/web-design-patterns-will-wright-y-spore/
+permalink: /blog/2007/08/20/web-design-patterns-will-wright-y-spore/
 cc_content_license:
     - ''
 cc_content_license_uri:

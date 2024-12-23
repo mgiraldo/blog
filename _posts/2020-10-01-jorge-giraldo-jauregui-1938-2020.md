@@ -5,7 +5,7 @@ date: '2020-10-01T15:53:47+00:00'
 author: blog
 layout: post
 guid: 'https://mauriciogiraldo.com/blog/?p=1143'
-permalink: /2020/10/01/jorge-giraldo-jauregui-1938-2020/
+permalink: /blog/2020/10/01/jorge-giraldo-jauregui-1938-2020/
 categories:
     - general
 ---

@@ -5,7 +5,7 @@ date: '2007-08-11T22:03:01+00:00'
 author: blog
 layout: post
 guid: 'http://www.mauriciogiraldo.com/blog/2007/08/11/jeffrey-zeldman-milton-glaser-shigeru-miyamoto/'
-permalink: /2007/08/11/jeffrey-zeldman-milton-glaser-shigeru-miyamoto/
+permalink: /blog/2007/08/11/jeffrey-zeldman-milton-glaser-shigeru-miyamoto/
 cc_content_license:
     - 'Creative Commons Attribution-NonCommercial-NoDerivs 3.0 Unported'
 cc_content_license_uri:

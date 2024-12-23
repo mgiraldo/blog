@@ -5,7 +5,7 @@ date: '2007-10-01T15:40:41+00:00'
 author: blog
 layout: post
 guid: 'http://www.mauriciogiraldo.com/blog/2007/10/01/%c2%a1entre-ya-a-mit-calvinball/'
-permalink: /2007/10/01/entre-ya-a-mit-calvinball/
+permalink: /blog/2007/10/01/entre-ya-a-mit-calvinball/
 categories:
     - comics
     - general

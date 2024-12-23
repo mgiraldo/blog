@@ -5,7 +5,7 @@ date: '2009-08-03T18:02:55+00:00'
 author: blog
 layout: post
 guid: 'http://www.mauriciogiraldo.com/blog/?p=396'
-permalink: /2009/08/03/tip-para-acelerar-su-blog-de-wordpress/
+permalink: /blog/2009/08/03/tip-para-acelerar-su-blog-de-wordpress/
 categories:
     - tips
     - video

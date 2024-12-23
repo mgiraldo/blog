@@ -5,7 +5,7 @@ date: '2010-01-20T21:29:53+00:00'
 author: blog
 layout: post
 guid: 'http://www.mauriciogiraldo.com/blog/?p=610'
-permalink: /2010/01/20/una-mejor-sucursal-virtual/
+permalink: /blog/2010/01/20/una-mejor-sucursal-virtual/
 categories:
     - general
 ---

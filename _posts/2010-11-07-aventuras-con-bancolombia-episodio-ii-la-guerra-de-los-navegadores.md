@@ -5,7 +5,7 @@ date: '2010-11-07T13:58:08+00:00'
 author: blog
 layout: post
 guid: 'http://www.mauriciogiraldo.com/blog/?p=760'
-permalink: /2010/11/07/aventuras-con-bancolombia-episodio-ii-la-guerra-de-los-navegadores/
+permalink: /blog/2010/11/07/aventuras-con-bancolombia-episodio-ii-la-guerra-de-los-navegadores/
 categories:
     - crítica
     - general

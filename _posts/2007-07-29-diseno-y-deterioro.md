@@ -5,7 +5,7 @@ date: '2007-07-29T22:05:14+00:00'
 author: blog
 layout: post
 guid: 'http://www.mauriciogiraldo.com/blog/2007/07/29/diseno-y-deterioro/'
-permalink: /2007/07/29/diseno-y-deterioro/
+permalink: /blog/2007/07/29/diseno-y-deterioro/
 cc_content_license:
     - ''
 cc_content_license_uri:

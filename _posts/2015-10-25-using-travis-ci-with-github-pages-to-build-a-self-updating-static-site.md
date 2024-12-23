@@ -5,7 +5,7 @@ date: '2015-10-25T15:30:14+00:00'
 author: blog
 layout: post
 guid: 'http://www.mauriciogiraldo.com/blog/?p=944'
-permalink: /2015/10/25/using-travis-ci-with-github-pages-to-build-a-self-updating-static-site/
+permalink: /blog/2015/10/25/using-travis-ci-with-github-pages-to-build-a-self-updating-static-site/
 categories:
     - general
     - programación

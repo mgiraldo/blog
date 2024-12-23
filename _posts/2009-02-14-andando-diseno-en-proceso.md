@@ -5,7 +5,7 @@ date: '2009-02-14T14:29:49+00:00'
 author: blog
 layout: post
 guid: 'http://www.mauriciogiraldo.com/blog/?p=256'
-permalink: /2009/02/14/andando-diseno-en-proceso/
+permalink: /blog/2009/02/14/andando-diseno-en-proceso/
 categories:
     - general
 ---
