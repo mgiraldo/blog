@@ -265,7 +265,7 @@ And voilà! Once these files are added to the repository, upon next deploy on th
 
 Hope this is useful to you and do [contact me](https://twitter.com/mgiraldo) if there’s any glaring issues/omissions in this quick example. Special thanks to [@auremoser](https://twitter.com/auremoser) for her feedback while writing this text.
 
-<div class="footnotes">---
+<div class="footnotes" markdown="1">---
 
 1. [https://rmflight.github.io/posts/2014/11/travis\_ci\_gh\_pages.html](https://rmflight.github.io/posts/2014/11/travis_ci_gh_pages.html) [↩](#fnref-944-1)
 2. <http://awestruct.org/auto-deploy-to-github-pages/> [↩](#fnref-944-2)

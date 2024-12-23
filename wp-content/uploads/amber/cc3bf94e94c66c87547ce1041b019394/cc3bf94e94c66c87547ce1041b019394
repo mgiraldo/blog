@@ -394,7 +394,7 @@ env:
   - secure: travis-generated-stuff</pre><p></p>
 <p>And voilà! Once these files are added to the repository, upon next deploy on the <code>csv</code> branch Travis-CI will trigger the scripts and update all the data in ElasticSearch and the Github Pages website.</p>
 <p>Hope this is useful to you and do <a href="https://twitter.com/mgiraldo" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/7bd32ea596d5d61cac2f0bdcc1b862af/" data-versiondate="2017-06-07T02:57:09+00:00" data-amber-behavior="">contact me</a> if there&#8217;s any glaring issues/omissions in this quick example. Special thanks to <a href="https://twitter.com/auremoser" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/9985ac41c3bc180ced3884095e817ea3/" data-versiondate="2017-06-07T03:05:30+00:00" data-amber-behavior="">@auremoser</a> for her feedback while writing this text.</p>
-<div class="footnotes">
+<div class="footnotes" markdown="1">
 <hr />
 <ol>
 <li id="fn-944-1">
@@ -644,7 +644,7 @@ Se trata de un paso a paso que, utilizando herramientas de georeferenciación gr
 <p><script src="https://gist.github.com/mgiraldo/bb98fd95e3dc9166e39a.js?file=template.html"></script></p>
 <p><a href="http://bit.ly/nypllabs-geo101-result" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/909b77969c07b6caf9c750eacb727b82/" data-versiondate="2017-01-24T03:13:33+00:00" data-amber-behavior="">Puedes ver el mapa terminado aquí</a>. Sólo hice algunas modificaciones mínimas al CSS para que se viera mejor en la ventana del navegador.</p>
 <p>Ojalá este tutorial sea útil. <a href="https://twitter.com/mgiraldo" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/7bd32ea596d5d61cac2f0bdcc1b862af/" data-versiondate="2017-06-07T02:57:09+00:00" data-amber-behavior="">Cuéntame</a> si tienes algún comentario o sugerencia.</p>
-<div class="footnotes">
+<div class="footnotes" markdown="1">
 <hr />
 <ol>
 <li id="fn-resampling">Similar a lo que ocurre <a href="https://en.wikipedia.org/wiki/Sample_rate_conversion" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/77d08d6d3183eed4f4dcbaad0e1b3443/" data-versiondate="2017-01-24T06:04:30+00:00" data-amber-behavior="">con la música</a> cuando se convierte de calidad CD a MP3.  <a href="#fnref-resampling" title="Return to article" class="reversefootnote">&#x21A9;</a></li>
@@ -858,7 +858,7 @@ Your map with custom data on it</em></p>
 <p>View the code on <a href="https://gist.github.com/mgiraldo/93c3457c4f512b34433f">Gist</a>.</p>
 <p><a href="http://bit.ly/nypllabs-geo101-result" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/909b77969c07b6caf9c750eacb727b82/" data-versiondate="2017-01-24T03:13:33+00:00" data-amber-behavior="">You can see the finished map here</a>. I made minor modifications to the CSS to fill the browser window.</p>
 <p>Hope you found this tutorial useful. <a href="https://twitter.com/mgiraldo" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/7bd32ea596d5d61cac2f0bdcc1b862af/" data-versiondate="2017-06-07T02:57:09+00:00" data-amber-behavior="">Drop me a line</a> if you have any comments or questions!</p>
-<div class="footnotes">
+<div class="footnotes" markdown="1">
 <hr />
 <ol>
 <li id="fn-resampling">Similar to <a href="https://en.wikipedia.org/wiki/Sample_rate_conversion" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/77d08d6d3183eed4f4dcbaad0e1b3443/" data-versiondate="2017-01-24T06:04:30+00:00" data-amber-behavior="">what happens with music</a> when converted from CD quality to MP3. <a class="reversefootnote" title="Return to article" href="#fnref-resampling">&#x21A9;</a></li>

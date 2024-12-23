@@ -310,7 +310,7 @@ https://gist.github.com/mgiraldo/93c3457c4f512b34433f#file-template-html
 
 Hope you found this tutorial useful. [Drop me a line](https://twitter.com/mgiraldo) if you have any comments or questions!
 
-<div class="footnotes">---
+<div class="footnotes" markdown="1">---
 
 1. Similar to [what happens with music](https://en.wikipedia.org/wiki/Sample_rate_conversion) when converted from CD quality to MP3. [↩](#fnref-resampling "Return to article")
 2. [Read this explanation](https://www.mapbox.com/foundations/how-web-maps-work/) for a better introduction on how web map tiles work. [↩](#fnref-maptiles "Return to article")

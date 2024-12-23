@@ -335,7 +335,7 @@ Lo último sería compilar estos tres *snippets* de código en una página HTML 
 
 Ojalá este tutorial sea útil. [Cuéntame](https://twitter.com/mgiraldo) si tienes algún comentario o sugerencia.
 
-<div class="footnotes">---
+<div class="footnotes" markdown="1">---
 
 1. Similar a lo que ocurre [con la música](https://en.wikipedia.org/wiki/Sample_rate_conversion) cuando se convierte de calidad CD a MP3. [↩](#fnref-resampling "Return to article")
 2. [Esta explicación puede ser útil](https://www.mapbox.com/foundations/how-web-maps-work/) para una introducción más profunda sobre cómo funcionan los tilesets en los mapas web. [↩](#fnref-maptiles "Return to article")
