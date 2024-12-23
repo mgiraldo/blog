@@ -217,7 +217,7 @@
             },
             firebase: {
                 config: {
-                    apiKey: 'AIzaSyBqfebhuwHJuZRko9qIT87K_EIlKGTfHbA',
+                    apiKey: 'REDACTED',
                     authDomain: 'i-cnet-engagement-prod.firebaseapp.com',
                     projectId: 'i-cnet-engagement-prod',
                     appId: '1:914013374524:web:4ae41512a7271cf2451b39',
