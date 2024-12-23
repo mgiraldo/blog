@@ -19,25 +19,25 @@ I was invited by my colleagues Hernando Barragán and Annelie Franke to collabor
 
 With this in mind, the *Thought Factory* was created and its main purpose was to save and classify the thoughts of festival visitors. Thoughts are abstract and intangible notions (we can’t read minds… yet). The Factory was made to make those thoughts somewhat tangible, “saving” them in bottles that can later be opened and their contents made visible as the genius in the lamp.
 
-<object classid="clsid:02bf25d5-8c17-4b23-bc80-d3488abddc6b" codebase="http://www.apple.com/qtactivex/qtplugin.cab#version=6,0,2,0" height="288" width="450"><param name="autoplay" value="false"></param><param name="loop" value="false"></param><param name="controller" value="true"></param><param name="src" value="/blog/wp-content/uploads/2010/03/visualizador.m4v"></param><embed autoplay="false" controller="true" height="288" loop="false" src="/blog/wp-content/uploads/2010/03/visualizador.m4v" type="video/quicktime" width="450"></embed></object>
+<object classid="clsid:02bf25d5-8c17-4b23-bc80-d3488abddc6b" codebase="http://www.apple.com/qtactivex/qtplugin.cab#version=6,0,2,0" height="288" width="450"><param name="autoplay" value="false"></param><param name="loop" value="false"></param><param name="controller" value="true"></param><param name="src" value="/wp-content/uploads/2010/03/visualizador.m4v"></param><embed autoplay="false" controller="true" height="288" loop="false" src="/wp-content/uploads/2010/03/visualizador.m4v" type="video/quicktime" width="450"></embed></object>
 
 Each bottle represents an inquiry made by festival organizers. Every hour and a half a new bottle is placed in the filling station:
 
-<figure aria-describedby="caption-attachment-705" class="wp-caption alignnone" id="attachment_705" style="width: 450px">![](/blog/assets/uploads/2010/03/fill.jpg "A bottle being filled")<figcaption class="wp-caption-text" id="caption-attachment-705">A bottle being filled</figcaption></figure>
+<figure aria-describedby="caption-attachment-705" class="wp-caption alignnone" id="attachment_705" style="width: 450px">![](/wp-content/uploads/2010/03/fill.jpg "A bottle being filled")<figcaption class="wp-caption-text" id="caption-attachment-705">A bottle being filled</figcaption></figure>
 
 From that moment, and during the next ninety minutes, that bottle will be filled with thoughts from people who type them in the input stations:
 
-<figure aria-describedby="caption-attachment-703" class="wp-caption alignnone" id="attachment_703" style="width: 450px">![](/blog/assets/uploads/2010/03/input.jpg "Thought input machine")<figcaption class="wp-caption-text" id="caption-attachment-703">Thought input machine</figcaption></figure>
+<figure aria-describedby="caption-attachment-703" class="wp-caption alignnone" id="attachment_703" style="width: 450px">![](/wp-content/uploads/2010/03/input.jpg "Thought input machine")<figcaption class="wp-caption-text" id="caption-attachment-703">Thought input machine</figcaption></figure>
 
 Thoughts can also be sent as an SMS message via mobile phone.
 
 Since the Festival as for all ages it was necessary to curate these thoughts (basically removing obscene ones… let’s be honest, there’s plenty of obscenities in our thoughts :P).
 
-<figure aria-describedby="caption-attachment-710" class="wp-caption alignnone" id="attachment_710" style="width: 450px">![](/blog/assets/uploads/2010/03/curaduria.jpg "Curating machine")<figcaption class="wp-caption-text" id="caption-attachment-710">Curating machine</figcaption></figure>
+<figure aria-describedby="caption-attachment-710" class="wp-caption alignnone" id="attachment_710" style="width: 450px">![](/wp-content/uploads/2010/03/curaduria.jpg "Curating machine")<figcaption class="wp-caption-text" id="caption-attachment-710">Curating machine</figcaption></figure>
 
 Once approved, the message enters the bottle in the filling station:
 
-<object classid="clsid:02bf25d5-8c17-4b23-bc80-d3488abddc6b" codebase="http://www.apple.com/qtactivex/qtplugin.cab#version=6,0,2,0" height="288" width="450"><param name="autoplay" value="false"></param><param name="loop" value="false"></param><param name="controller" value="true"></param><param name="src" value="/blog/wp-content/uploads/2010/03/llenado.m4v"></param><embed autoplay="false" controller="true" height="288" loop="false" src="/blog/wp-content/uploads/2010/03/llenado.m4v" type="video/quicktime" width="450"></embed></object>
+<object classid="clsid:02bf25d5-8c17-4b23-bc80-d3488abddc6b" codebase="http://www.apple.com/qtactivex/qtplugin.cab#version=6,0,2,0" height="288" width="450"><param name="autoplay" value="false"></param><param name="loop" value="false"></param><param name="controller" value="true"></param><param name="src" value="/wp-content/uploads/2010/03/llenado.m4v"></param><embed autoplay="false" controller="true" height="288" loop="false" src="/wp-content/uploads/2010/03/llenado.m4v" type="video/quicktime" width="450"></embed></object>
 
 When removed from the filling station, the bottle is labelled and placed with the rest of the full bottles so its thoughts can be read in the viewing station.
 

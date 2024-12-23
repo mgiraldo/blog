@@ -1,0 +1,9 @@
+/* 
+Title:		Screen styles and ie/win patches
+Author: 	neilio@mozilla.com
+*/
+
+/* import stylesheets and hide from ie/mac \*/
+@import url("../wp-content/531ec4be4c89060719362d6d8ad24edf.css");
+@import url("../wp-content/a0af334277144d6ba401a41b15d5e8cb.css");
+/* end import/hide */

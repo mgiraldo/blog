@@ -11,7 +11,7 @@ categories:
     - web
 ---
 
-[![Subtraction Grid](/blog/assets/uploads/2007/04/sbutractiongrid.gif)](http://www.subtraction.com/archives/2004/1231_grid_computi.php "Diseño web con retículas por Khoi Vinh")
+[![Subtraction Grid](/wp-content/uploads/2007/04/sbutractiongrid.gif)](http://www.subtraction.com/archives/2004/1231_grid_computi.php "Diseño web con retículas por Khoi Vinh")
 
 La retí­cula tipográfica (bien) aplicada a la creación web permite ampliar las posibilidades de diseño a la vez que mantiene la estructura y jerarquí­a visuales de los elementos. Los primeros navegadores fueron desarrollados con un mí­nimo de funcionalidades tipográficas. En 1996 se introducen las **hojas de estilo** ([CSS](http://www.w3.org/Style/CSS/ "Especificación de CSS en el W3C")) que permiten un mayor control en términos de diseño aunque no fueron [adoptadas por sitios web importantes](http://www.stopdesign.com/portfolio/web_interface/wired_news.html "Rediseño de wired.com usando CSS") sino hasta 2002. En vista que hoy dí­a [la gran mayorí­a de usuarios web](http://www.w3schools.com/browsers/browsers_stats.asp "estadí­sticas de navegadores") tiene un navegador *decente* (entiéndase esto como [Firefox](http://www.mozilla.com/firefox "sitio web oficial"), mi preferido, [Opera](http://www.opera.com/ "sitio web oficial"), [Safari](http://www.apple.com/safari/ "sitio web oficial") o en su defecto [Internet Explorer](http://www.microsoft.com/ie/ "sitio web oficial") 6 o superior) que puede mostrar las hojas de estilo con cierta precisión, se ha dado un resurgimiento de los conceptos tipográficos elementales, esta vez aplicados al diseño web. Algunos ejemplos:
 

@@ -6,14 +6,14 @@ author: blog
 layout: post
 permalink: /2009/10/09/multiples-views-no-jerarquicas-en-iphone/
 enclosure:
-    - "/blog/wp-content/uploads/2009/10/InfiniteViews1.mov\n255554\nvideo/quicktime\n"
+    - "/wp-content/uploads/2009/10/InfiniteViews1.mov\n255554\nvideo/quicktime\n"
 categories:
     - iphone
     - programación
     - tips
 ---
 
-<object classid="clsid:02bf25d5-8c17-4b23-bc80-d3488abddc6b" codebase="http://www.apple.com/qtactivex/qtplugin.cab#version=6,0,2,0" height="380" style="width: 192px; height: 380px;" width="192"><param name="src" value="/blog/wp-content/uploads/2009/10/InfiniteViews1.mov"></param><param name="align" value="right"></param><embed align="right" height="380" src="/blog/wp-content/uploads/2009/10/InfiniteViews1.mov" style="width: 192px; height: 380px;" type="video/quicktime" width="192"></embed></object>
+<object classid="clsid:02bf25d5-8c17-4b23-bc80-d3488abddc6b" codebase="http://www.apple.com/qtactivex/qtplugin.cab#version=6,0,2,0" height="380" style="width: 192px; height: 380px;" width="192"><param name="src" value="/wp-content/uploads/2009/10/InfiniteViews1.mov"></param><param name="align" value="right"></param><embed align="right" height="380" src="/wp-content/uploads/2009/10/InfiniteViews1.mov" style="width: 192px; height: 380px;" type="video/quicktime" width="192"></embed></object>
 
 *(English version at the bottom of this post)*
 
@@ -25,7 +25,7 @@ Algo importante a tener en cuenta al usar NIBs es que para que el iPhone efectiv
 
 Si lo que acabo de escribir suena un poco a chino avanzado (para aquellos no familiarizados con Obj-C), en parte es porque lo es (para mi Obj-C ha sido como un camino zen… el camino del ninja o algo así). Inauguro, entonces, el *tag* “iphone” en mi blog con este ZIP que pueden bajar y usar libremente (y si se le tira el proyecto que está haciendo no me eche la culpa):
 
-[Descargar InfiniteViews](/blog/assets/uploads/2009/10/InfiniteViews.zip)
+[Descargar InfiniteViews](/wp-content/uploads/2009/10/InfiniteViews.zip)
 
 Para que los angloparlantes puedan llegar a este post, a continuación la versión en inglés:
 
@@ -33,4 +33,4 @@ Para que los angloparlantes puedan llegar a este post, a continuación la versi�
 
 This is a a framework based on [the work of Jeffrey Berthiaume](http://www.pushplay.net/blog_detail.php?id=27 " Framework for having Multiple Views in an iPhone app") for developing NIB-based iPhone applications with non-linear, non-hierarchichal UIViewControllers, when the UITabBarController is not an option (games with multiple NIBs come to mind). Keep in mind that, in order for Obj-C to free NIBs with UIImageViews from memory, you need to load the images via code **without** using imageNamed. More info regarding this can be seen in [this question in Stackoverflow](http://stackoverflow.com/questions/1482934/iphone-app-with-multiple-views-subviews-memory-is-not-being-deallocated "iphone app with multiple views/subviews: memory is not being deallocated"):
 
-[Download InfiniteViews](/blog/assets/uploads/2009/10/InfiniteViews.zip)
+[Download InfiniteViews](/wp-content/uploads/2009/10/InfiniteViews.zip)

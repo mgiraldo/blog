@@ -1,0 +1,625 @@
+@charset "utf-8";
+body {
+background-color:#858585;
+color:#222222;
+font-family:Verdana, Arial, Helvetica, sans-serif;
+font-size:1em;
+margin:0;
+padding:0
+}
+
+a img {
+border:none;
+margin:0;
+padding:0;
+text-decoration:none
+}
+
+#header {
+background:#eeeeee url(../wp-content/0d33d2479d94e02040acf6f76f409dde.png) repeat-x top left;
+height:100px;
+margin:0;
+padding:0;
+width:100%
+}
+
+#logo {
+background:#eeeeee url(../wp-content/95416159a8edd2e4654983b49732df5e.png) no-repeat top left;
+cursor:pointer;
+height:80px;
+margin:0;
+padding:0;
+width:485px
+}
+
+#nocss {
+display:none
+}
+
+#bar {
+color:#eeeeee;
+font-size:0.9em;
+font-weight:bold;
+height:23px;
+margin:2px 0 0;
+padding:0;
+text-align:center;
+width:100%
+}
+
+#bar a {
+color:#eeeeee;
+text-decoration:none
+}
+
+#bar a:link {
+color:#eeeeee;
+text-decoration:none
+}
+
+#bar a:hover {
+border-bottom:1px dotted #f8f8f8;
+color:#FFCC00
+}
+
+#menu {
+float:left;
+font-size:0.9em;
+width:155px
+}
+
+#menu_top {
+background:#f8f8f8 url(../wp-content/95416159a8edd2e4654983b49732df5e.png) no-repeat 0px -80px;
+height:14px;
+width:155px
+}
+
+#menu_center {
+background:#f8f8f8 url(../wp-content/d25802853d799bc0a04381495496a401.png) repeat-y top left;
+padding-left:8px;
+width:146px
+}
+
+#menu_bottom {
+background:#f8f8f8 url(../wp-content/95416159a8edd2e4654983b49732df5e.png) no-repeat -155px -80px;
+height:14px;
+width:155px
+}
+
+#menu h1 {
+font-size:1.1em;
+margin-bottom:2px;
+margin-top:6px
+}
+
+#menu h2 {
+font-size:1.1em;
+margin-bottom:2px;
+margin-top:6px
+}
+
+#menu h3 {
+font-size:1.1em;
+margin-bottom:2px;
+margin-top:6px
+}
+
+#menu hr {
+margin-bottom:4px;
+margin-top:4px;
+width:100px
+}
+
+#menu a {
+color:#222222;
+display:block;
+margin-right:12px;
+padding-left:1em;
+text-decoration:none
+}
+
+#menu a:link {
+color:#222222;
+display:block;
+margin-right:12px;
+padding-left:1em;
+text-decoration:none
+}
+
+#menu_navlinks a:hover {
+background-color:#f8f8f8;
+color:#bb0000;
+margin-right:12px;
+text-decoration:none
+}
+
+#content {
+background-color:#f8f8f8;
+font-size:0.9em;
+margin:0;
+padding:0 20px 0 165px
+}
+
+#main {
+background-color:#f8f8F8
+}
+
+#content h1 {
+margin:6px 6px 6px 0;
+text-align:left;
+font-size:1.7em
+}
+
+#content h2 {
+background:transparent url(../wp-content/9935cc73b8f03a7b280e51580bcecb2f.png) no-repeat center left;
+padding-left:24px;
+font-size:1.25em
+}
+
+#content h3 {
+background:transparent url(../wp-content/9935cc73b8f03a7b280e51580bcecb2f.png) no-repeat center left;
+padding-left:24px;
+font-size:1.05em
+}
+
+#content ul {
+list-style:none;
+margin:0;
+padding:0
+}
+
+#content ul li {
+background:transparent url(../wp-content/778eed932368dcd734fe4e40a59b0643.png) no-repeat top left;
+list-style:none;
+margin-bottom:1px;
+margin-left:16px;
+padding-left:18px
+}
+
+#content a {
+border-bottom:1px dotted #bb0000;
+color:#000000;
+text-decoration:none
+}
+
+#content a:link {
+border-bottom:1px dotted #bb0000;
+color:#000000;
+text-decoration:none
+}
+
+#content a:hover {
+background-color:#f8f8f8;
+color:#bb0000;
+text-decoration:none
+}
+
+#overall {
+background-color:#f8f8f8;
+display:block;
+margin:0;
+padding:0;
+width:100%
+}
+
+div.footer {
+background:url(../wp-content/0d33d2479d94e02040acf6f76f409dde.png) repeat-x 0px -100px;
+display:block;
+height:50px;
+left:0;
+margin:0;
+padding:0;
+position:absolute;
+width:100%
+}
+
+* html #footer {
+background:#f8f8f8
+}
+
+div.footer_sponsor1 {
+color:#858585;
+font-size:0.8em;
+padding-top:4px;
+text-align:center
+}
+
+.footer_sponsor1 a {
+border-bottom:1px dotted #444444;
+color:#bb0000;
+text-decoration:none
+}
+
+.footer_sponsor1 a:link {
+border-bottom:1px dotted #444444;
+color:#bb0000;
+text-decoration:none
+}
+
+.footer_sponsor1 a:hover {
+border-bottom:1px solid #bb0000;
+color:#444444;
+text-decoration:none
+}
+
+div.footer_sponsor2 {
+color:#eeeeee;
+font-size:0.8em;
+padding-top:12px;
+text-align:center
+}
+
+.footer_sponsor2 a {
+border-bottom:1px dotted #bb0000;
+color:#dddddd;
+text-decoration:none
+}
+
+.footer_sponsor2 a:link {
+border-bottom:1px dotted #cc0000;
+color:#dddddd;
+text-decoration:none
+}
+
+.footer_sponsor2 a:hover {
+border-bottom:1px solid #aaaaaa;
+color:#bb0000;
+text-decoration:none
+}
+
+#overallend {
+clear:both;
+min-height:10px
+}
+
+#quickdownloadbox {
+margin-left:50px;
+overflow:hidden
+}
+
+#quickdownloadbox a {
+border-bottom:none;
+color:#ffffff
+}
+
+#quickdownloadbox a:link {
+border-bottom:none;
+color:#ffffff
+}
+
+#quickdownloadbox a:hover {
+background-color:transparent;
+border-bottom:none;
+color:#cccccc
+}
+
+.quickdownload {
+background:url(../wp-content/f605fc20e68ecc6115f9f9ad169d9630.png) no-repeat;
+float:left;
+height:84px;
+padding-left:18px;
+padding-top:11px;
+width:250px
+}
+
+.quickdownload span {
+font-size:11px
+}
+
+.quickdownload strong {
+font-size:20px;
+line-height:20px
+}
+
+.downloadbutton {
+background:url(../wp-content/1d3e262bff1748ecb10840393d67ad01.png) no-repeat;
+height:84px;
+padding-left:18px;
+padding-top:22px;
+width:250px;
+margin-bottom:-20px
+}
+
+.downloadbutton span {
+font-size:11px
+}
+
+.downloadbutton strong {
+font-size:20px;
+line-height:20px
+}
+
+.downloadplatformspacer {
+height:105px
+}
+
+.downloadplatformend {
+clear:right;
+margin-bottom:-10px;
+margin-left:50px;
+margin-top:-20px
+}
+
+.downloadplatform p {
+margin-left:24px
+}
+
+.downloadplatform a {
+background:url(../wp-content/8b3edbb7ee2ed6a7d44bc3b6f7cc2890.png) no-repeat;
+padding-left:20px
+}
+
+.downloadplatform a:link {
+background:url(../wp-content/8b3edbb7ee2ed6a7d44bc3b6f7cc2890.png) no-repeat;
+padding-left:20px
+}
+
+.downloadbutton a {
+background:none;
+padding-left:0px
+}
+
+.downloadbutton a:link {
+background:none;
+padding-left:0px;
+}
+
+#menu_buttons {
+text-align:center;
+width:125px
+}
+
+#menu_buttons img {
+margin-bottom:5px
+}
+
+#menu_buttons p {
+margin: 2px;
+text-align:left;
+padding-left:1em;
+font-size:0.75em;
+color: #333333
+}
+
+#warningbox {
+background-color:#ffaaaa
+}
+
+#infobox {
+background-color:#ffffdd
+}
+
+#warningbox, #infobox {
+border:dashed;
+border-color:#000000;
+border-width:2px;
+padding:10px;
+margin-bottom:1em
+}
+
+#warningbox h2, #infobox h2 {
+background:none;
+margin-top:0;
+padding-left:0
+}
+
+#warningbox ul li, #infobox ul li {
+margin-bottom:5px
+}
+
+.nightly th {
+background:#D0D0D0;
+text-align:left
+}
+
+.nightly td {
+padding:3px
+}
+
+.nightlysuccessful td {
+background:#A0FFA0;
+}
+
+.nightlyfailed td {
+background:#FFA0A0
+}
+
+.nightlyskipped td {
+background:#FFA0A0
+}
+
+.nightlyrunning td {
+background:#C0C0FF
+}
+
+.nightlypending td {
+background:#E0E0E0
+}
+
+table.translations {
+border:solid;
+border-color:#000000;
+border-width:1px
+}
+
+table.translations th {
+border-bottom:dashed;
+border-width:1px
+}
+
+table.translations .tr_tr {
+background:#E0E0E0;
+text-align:right;
+font-size:95%
+}
+
+table.translations .tr_fz {
+text-align:right;
+font-size:95%
+}
+
+table.translations .tr_un {
+background:#E0E0E0;
+text-align:right;
+font-size:95%
+}
+
+table.translations .tr_download {
+background:#E0E0E0
+}
+
+table.translations .tr_graph {
+padding-left:5px;
+padding-right:5px;
+white-space:nowrap
+}
+
+.translations .template td {
+border-top:dashed;
+border-width:1px
+}
+
+table.translations .tr_total {
+text-align:center
+}
+
+.compileerror_caption {
+color:#500000;
+font-size:130%;
+font-weight:bold
+}
+
+.compileerror {
+border:solid;
+border-width:1px;
+padding:0 10px 10px
+}
+
+.clnavbox {
+background:#dddddd;
+border:solid;
+border-width:1px;
+float:right;
+margin-bottom:10px;
+margin-left:5px;
+min-width:270px;
+padding:3px
+}
+
+.clnavbox div {
+padding:1px
+}
+
+.clnavbox p {
+margin-bottom:3px;
+margin-top:0;
+padding:0
+}
+
+h3 {
+margin-bottom:3px;
+margin-top:0;
+min-width:270px;
+padding:0
+}
+
+.pagenavbottom {
+background:#dddddd;
+border:solid;
+border-width:1px;
+bottom:45px;
+float:right;
+margin-bottom:10px;
+padding:3px;
+position:relative
+}
+
+.pagenavbottom p {
+margin-bottom:3px;
+margin-top:0;
+min-width:270px;
+padding:0
+}
+
+.changelog ul {
+margin-top:7px
+}
+
+.changelog h3 {
+padding-bottom:5px
+}
+
+.changelog a {
+color:#707070;
+text-decoration:none
+}
+
+.changelog a:hover {
+border-bottom:dotted;
+border-width:1px;
+color:#0000FF
+}
+
+.downloadscreenshot {
+float:right;
+clear:right
+}
+.screenshots p {
+margin-bottom:0
+}
+
+.screenshot {
+float:left;
+margin-right:15px;
+text-align:center
+}
+
+.screenshotnewline {
+clear:both
+}
+
+.screenshots img {
+border:none
+}
+
+.details {
+display:none;
+margin-top:-10px
+}
+
+.details p {
+font-size:70%;
+padding-left:20px;
+margin-top:-10px;
+margin-bottom:10px
+}
+
+.checksum {
+padding-left:20px
+}
+
+#content .detailslink a {
+background:none;
+padding-left:0px;
+border-bottom:0px
+}
+
+#content .detailslink a img {
+margin-bottom:-3px
+}
+
+.sourceforge_accelerator {
+height:54px;
+}
+
+.otherplatforms a {
+background:none;
+padding-left:0px;
+margin-left:5px
+}
+
+.otherplatforms a:link {
+background:none;
+padding-left:0px;
+margin-left:5px
+}

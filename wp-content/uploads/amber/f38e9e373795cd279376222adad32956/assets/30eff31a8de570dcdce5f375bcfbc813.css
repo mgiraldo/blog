@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'Fira Mono';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Fira Mono Regular'), local('FiraMono-Regular'), url(../wp-content/7c731bac102ef8d010251dab1d5fe3fd.ttf) format('truetype');
+}
+@font-face {
+  font-family: 'Fira Mono';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Fira Mono Bold'), local('FiraMono-Bold'), url(../wp-content/f2cfdefc78d009b9828e914bc2c9a773.ttf) format('truetype');
+}

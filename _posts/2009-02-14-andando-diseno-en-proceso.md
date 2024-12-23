@@ -9,7 +9,7 @@ categories:
     - general
 ---
 
-![andando: diseño en proceso](/blog/assets/uploads/2009/02/invitacion_andando_3.gif "andando: diseño en proceso")
+![andando: diseño en proceso](/wp-content/uploads/2009/02/invitacion_andando_3.gif "andando: diseño en proceso")
 
 Hasta el **martes 24 de febrero** el Departamento de Diseño de la Uninversidad de los Andes estará exponiendo proyectos de estudiantes del **nuevo programa de Diseño**. Dicha exposición se está realizando en la **Sala de Exposiciones Julio Mario Santo Domingo** de la Universidad.
 

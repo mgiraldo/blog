@@ -23,7 +23,7 @@ domain: mgiraldo.github.io
 description: >- # this means to ignore newlines until "baseurl:"
   ISSN 2011-0146
 url: https://mgiraldo.github.io
-baseurl: "blog/" # leave blank for custom domain
+# baseurl: "/blog" # leave blank for custom domain
 github_username:  mgiraldo
 
 # Build settings

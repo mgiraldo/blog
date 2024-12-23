@@ -10,7 +10,7 @@ categories:
     - juegos
 ---
 
-![Starcraft 2](/blog/assets/uploads/2009/01/sc2.jpg "Starcraft 2")
+![Starcraft 2](/wp-content/uploads/2009/01/sc2.jpg "Starcraft 2")
 
 (en <span style="color: #999999;">gris</span> las actualizaciones al post original)
 

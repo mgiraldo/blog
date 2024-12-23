@@ -1,0 +1,8 @@
+/*  Clearing floats: http://annevankesteren.nl/2005/03/clearing-floats */
+#branding, #nav-main, #content-summary, #content-members, body.individual #content-sub {_height: 1%;}
+
+
+/* Explorer only */
+* html #nav-supp a {background: url(../wp-content/ef3e0a60cea1df48c83547e8ce5d2a74.gif) no-repeat;}
+* html #nav-supp a:hover {background: url(../wp-content/8773148f34789dc253cca931b8b70d03.gif) no-repeat;}
+* html body.index #content-main div {height:32em;}

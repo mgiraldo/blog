@@ -1,0 +1,1186 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>mga/blog</title>
+	<atom:link href="https://mauriciogiraldo.com/blog/feed/" rel="self" type="application/rss+xml" />
+	<link>https://mauriciogiraldo.com/blog</link>
+	<description>ISSN 2011-0146</description>
+	<lastBuildDate>Sat, 08 Aug 2020 08:32:13 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=5.4.2</generator>
+	<item>
+		<title>Aereo</title>
+		<link>https://mauriciogiraldo.com/blog/2020/08/08/aereo/</link>
+		
+		<dc:creator><![CDATA[mga]]></dc:creator>
+		<pubDate>Sat, 08 Aug 2020 01:11:00 +0000</pubDate>
+				<category><![CDATA[arte]]></category>
+		<category><![CDATA[diseño]]></category>
+		<category><![CDATA[información]]></category>
+		<category><![CDATA[interacción]]></category>
+		<category><![CDATA[programación]]></category>
+		<category><![CDATA[visualización]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">https://mauriciogiraldo.com/blog/?p=1006</guid>
+
+					<description><![CDATA[Last year I had the honor of being selected by the DX Lab of the State Library of New South Wales (SLNSW) for their 2019 Fellowship. The fellowship asked proponents for a project idea that would require about eight weeks of work on site in Sydney, Australia, where SLNSW is located. I had never been [&#8230;]]]></description>
+										<content:encoded><![CDATA[
+<blockquote class="wp-block-quote"><p>Last year I had the honor of being selected by the <a href="https://dxlab.sl.nsw.gov.au/">DX Lab</a> of the <a href="https://sl.nsw.gov.au/">State Library of New South Wales</a> (SLNSW) for their <a href="https://dxlab.sl.nsw.gov.au/blog/winner-dx-lab-fellowship-3">2019 Fellowship</a>. The fellowship asked proponents for a project idea that would require about eight weeks of work on site in Sydney, Australia, where SLNSW is located. I had never been to Australia before so I flew in early February of 2020, anticipating what I imagined would be two months of work and then a couple of weeks of regional travel. These plans were sidetracked by the Covid-19 pandemic and I was forced to leave Sydney in mid March and complete the project back home in Brooklyn. The project would eventually be called <em>Aereo</em>, which is the spanish word for “aerial”. The text below was <a href="https://dxlab.sl.nsw.gov.au/blog/building-aereo">originally published in the DX Lab blog</a> and I plan on writing another post detailing a bit of the process behind the project. There is also a <a href="https://www.youtube.com/watch?v=mSuvocjJgAw" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/b620df64dfe91f766c87589f7ed5bbc2/" data-versiondate="2020-08-08T06:26:10+00:00" data-amber-behavior="">recording of the talk I did</a> when the project was launched, in July of 2020, that goes through some of that process.</p></blockquote>
+
+
+
+<p class="lede"><em>Aereo</em> is an attempt at looking at library digital collections as a whole, rather than a list of discrete items or files in response to a keyword search. By displaying everything<sup class="footnote-ref"><a id="fnref1" href="#fn1">1</a></sup> in a single interface there is hopefully more opportunity for a broad-based and serendipitous exploration of the collection.</p>
+
+
+
+<figure class="wp-block-image size-large"><img src="https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/categories@2x-1024x590.jpg" alt="" class="wp-image-1007" srcset="https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/categories@2x-1024x590.jpg 1024w, https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/categories@2x-300x173.jpg 300w, https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/categories@2x-768x442.jpg 768w, https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/categories@2x.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /></figure>
+
+
+
+<p>To the layperson, a library “item” can represent many different things: <a href="https://collection.sl.nsw.gov.au/record/1l4lKpX1">a collection of personal records, architectural drawings, photographs, and other documents from the construction of the Sydney Opera House</a>; <a href="https://collection.sl.nsw.gov.au/record/nV2qer7n">a group of sketches</a> from that same collection; <a href="https://collection.sl.nsw.gov.au/digital/yJz2xMPA07eWa">a photograph of a scale model</a> during the construction phase of the project, in that same collection. <em>Aereo</em> is only concerned with the digital surrogates of these items: the <em>files</em>, photographs taken by library staff of these items. The categories and years for these files are inherited from the items they portray. An item might fall under multiple categories (e.g.: medals are also objects) and can also have multiple files, like <a href="https://collection.sl.nsw.gov.au/record/n88X6WJn">this model of the Globe Theatre, London</a> which can be seen from different angles and even has <a href="https://collection.sl.nsw.gov.au/digital/jjV5LQrwxpVdL">a drawer</a>.</p>
+
+
+
+<figure class="wp-block-image alignnone size-large wp-image-4280"><img src="https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/globe@2x-1024x738.jpg" alt="" class="wp-image-1009" srcset="https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/globe@2x-1024x738.jpg 1024w, https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/globe@2x-300x216.jpg 300w, https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/globe@2x-768x554.jpg 768w, https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/globe@2x.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Model of the Globe Theatre, London</figcaption></figure>
+
+
+
+<p>Not every item is (or will be) photographed by the Library to be published online. As of early February 2020, when this fellowship began and I received a bulk data set, the Library had provided access to over two million item files. I selected a subset of 18 categories (or “formats” in library parlance) to work with: <a class="" href="https://dxlab.sl.nsw.gov.au/aereo/#/viewer?bucket=archTechDrawings" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/1cf3caf2c9bd3b00036ba5ada24338ba/" data-versiondate="2020-08-08T06:26:16+00:00" data-amber-behavior="">architectural drawings</a>, <a class="" href="https://dxlab.sl.nsw.gov.au/aereo/#/viewer?bucket=newspapers" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/30bdbad30ebe46a8927445bf24e4eb38/" data-versiondate="2020-08-08T06:26:18+00:00" data-amber-behavior="">newspapers</a>, <a class="" href="https://dxlab.sl.nsw.gov.au/aereo/#/viewer?bucket=coin" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/8ed2e0493a873cfa2b575c17f55e406e/" data-versiondate="2020-08-08T06:26:20+00:00" data-amber-behavior="">coins</a>, <a class="" href="https://dxlab.sl.nsw.gov.au/aereo/#/viewer?bucket=drawings" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/25f1ba21b1c21fc59133c1fab81a3e89/" data-versiondate="2020-08-08T06:26:22+00:00" data-amber-behavior="">drawings</a>, <a class="" href="https://dxlab.sl.nsw.gov.au/aereo/#/viewer?bucket=ephemera" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/0c89fa07adcce91298f4c8c1994fa397/" data-versiondate="2020-08-08T06:26:24+00:00" data-amber-behavior="">ephemera</a>, <a class="" href="https://dxlab.sl.nsw.gov.au/aereo/#/viewer?bucket=journals" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/0ac2a4b58544c3a2e38bfc3de4299c32/" data-versiondate="2020-08-08T06:26:27+00:00" data-amber-behavior="">journals</a>, <a class="" href="https://dxlab.sl.nsw.gov.au/aereo/#/viewer?bucket=manuscripts" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/2fd170bdaf683ba551a079eb63d2f468/" data-versiondate="2020-08-08T06:26:29+00:00" data-amber-behavior="">manuscripts</a>, <a class="" href="https://dxlab.sl.nsw.gov.au/aereo/#/viewer?bucket=manuscriptMaps" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/49d64387fd32f63f2faeb54500a6e902/" data-versiondate="2020-08-08T06:26:31+00:00" data-amber-behavior="">unpublished maps</a>, <a class="" href="https://dxlab.sl.nsw.gov.au/aereo/#/viewer?bucket=maps" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/03d928d41b9d88cd72859fdf686d61af/" data-versiondate="2020-08-08T06:26:33+00:00" data-amber-behavior="">published maps</a>, <a class="" href="https://dxlab.sl.nsw.gov.au/aereo/#/viewer?bucket=medals" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/6cc325cf2584b225ac73c56f91f28176/" data-versiondate="2020-08-08T06:26:35+00:00" data-amber-behavior="">medals</a>, <a class="" href="https://dxlab.sl.nsw.gov.au/aereo/#/viewer?bucket=negatives" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/c9ab31462dfdbde4b0310c4d848385a1/" data-versiondate="2020-08-08T06:26:37+00:00" data-amber-behavior="">negatives</a>, <a class="" href="https://dxlab.sl.nsw.gov.au/aereo/#/viewer?bucket=objects" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/1177b7f7ffee6605993697f5d993419a/" data-versiondate="2020-08-08T06:26:39+00:00" data-amber-behavior="">objects</a>, <a class="" href="https://dxlab.sl.nsw.gov.au/aereo/#/viewer?bucket=paintings" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/59f51bdf0a289ca273f30174c8ac375d/" data-versiondate="2020-08-08T06:26:41+00:00" data-amber-behavior="">paintings</a>, <a class="" href="https://dxlab.sl.nsw.gov.au/aereo/#/viewer?bucket=photographs" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/d175dc454972f28fdda892f99124931c/" data-versiondate="2020-08-08T06:26:43+00:00" data-amber-behavior="">photographs</a>, <a class="" href="https://dxlab.sl.nsw.gov.au/aereo/#/viewer?bucket=pictures" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/1f17b5f0e01e70506f0650e080214bd3/" data-versiondate="2020-08-08T06:26:45+00:00" data-amber-behavior="">pictures</a>, <a class="" href="https://dxlab.sl.nsw.gov.au/aereo/#/viewer?bucket=posters" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/3e62f0c87edbf9a1d425aa93c36f5d35/" data-versiondate="2020-08-08T06:26:48+00:00" data-amber-behavior="">posters</a>, <a class="" href="https://dxlab.sl.nsw.gov.au/aereo/#/viewer?bucket=prints" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/f0807235d4c5470e9616e91bae065f14/" data-versiondate="2020-08-08T06:26:50+00:00" data-amber-behavior="">prints</a>, and <a class="" href="https://dxlab.sl.nsw.gov.au/aereo/#/viewer?bucket=stamps" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/3412e40255eeac624a67e9282d93b912/" data-versiondate="2020-08-08T06:26:52+00:00" data-amber-behavior="">stamps</a>. These categories comprise about 1.2 million files which were then analysed with different algorithms to produce <em>Aereo</em>. This selection left out, for example, books (some interesting book covers but mostly text and remember that each image of each page of every book would be present in<em> Aereo</em> and we’re talking of about 1.5 million books here so… skipped this one), audio and music (although it would be interesting to explore an interface that would combine both audio and images). If you look at the formats available currently in the <a href="https://collection.sl.nsw.gov.au/digital">Library website</a> you will notice only 11 and I have just mentioned 21. That is because I had access to a bit more granular data about the items. That granular data about the format of some items is not available. Today’s cataloguing standards, including detailed format information, are much higher than they would have been in the past. You will probably see things that seem odd and that is to be expected. For any questions regarding the categorization, you can <a href="https://www.sl.nsw.gov.au/research-and-collections/ask-librarian">ask a librarian</a>.</p>
+
+
+
+<h2 id="sorting-and-machine-learning">Sorting and machine learning</h2>
+
+
+
+<p><em>Aereo</em> comprises about 1.2 million files in 18 different categories that can each be organised in four ways: unsorted, year, colour, and “look-alike”.</p>
+
+
+
+<p><video class="video" src="https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/sorting.mp4" preload="" autoplay="autoplay" loop="loop" muted="muted" width="100%" height="auto"> This displays a video. You can<br />
+<a href="https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/sorting.mp4" target="_blank" rel="noopener noreferrer">download the video</a> instead</video></p>
+
+
+
+<h3 id="unsorted">1. Unsorted</h3>
+
+
+
+<p>Pretty self-explanatory, except that it isn’t <em>really</em> “unsorted”. This sorting is just the default way the files were returned by a query made to the Library database. It is kind of like doing an empty search on a given category and receiving results sorted by “relevance”. This relevance is simply a measure of different weights given to different parts of the metadata of items and ranking them by the score they get. For example, the title of an item could be weighted higher than its author or format, so an item with the title “May Gibbs” and format “photograph” could appear before an item with the title “Illustration for Snugglepot and Cuddlepie” and author “May Gibbs”. As you can imagine, fine-tuning these weights is a difficult process and can be counterbalanced by the presence of other sorting criteria. The most common being alphabetical (by author or title) and…</p>
+
+
+
+<h3 id="year">2. Year</h3>
+
+
+
+<p>Dates are another common criteria for search interface sorting, that is, when items <em>do</em> have a date associated with them. In the Library data set an item can have multiple dates or none at all. For the purpose of this project I chose to work with what the data set calls <code>published.date_creation</code> and <code>archive.date_production</code> as items have either one or the other and it corresponds to what their name implies. These dates are sometimes also represented as a range (e.g. 28 July 1914 to 11 November 1918) so I selected the year of the lower bound of any range I found (e.g. 1914). In the case of no date found it will be zero and not displayed.</p>
+
+
+
+<h3 id="colour">3. Colour</h3>
+
+
+
+<p>I wanted to provide new ways of sorting and looking at the items, beyond what already existed in the data set. I processed all 2 million images through a <a href="http://mkweb.bcgsc.ca/colorsummarizer/">colour summarizer</a> that extracts the most prominent colours from an image as well as other information such as its histogram. This information is displayed above the selected image as coloured boxes, the size of which is proportional to the amount of that colour in the image:</p>
+
+
+
+<div class="wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group"><div class="wp-block-group__inner-container">
+<div class="wp-block-group"><div class="wp-block-group__inner-container">
+<figure class="wp-block-gallery columns-3 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/palette1@2x.png" alt="An example color palette" data-id="1012" data-full-url="https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/palette1@2x.png" data-link="https://mauriciogiraldo.com/blog/2020/08/08/aereo/palette12x/" class="wp-image-1012" srcset="https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/palette1@2x.png 400w, https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/palette1@2x-256x300.png 256w" sizes="(max-width: 400px) 100vw, 400px" /></figure></li><li class="blocks-gallery-item"><figure><img src="https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/palette2@2x.png" alt="An example color palette" data-id="1013" data-full-url="https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/palette2@2x.png" data-link="https://mauriciogiraldo.com/blog/2020/08/08/aereo/palette22x/" class="wp-image-1013" srcset="https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/palette2@2x.png 400w, https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/palette2@2x-256x300.png 256w" sizes="(max-width: 400px) 100vw, 400px" /></figure></li><li class="blocks-gallery-item"><figure><img src="https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/palette3@2x.png" alt="An example color palette" data-id="1014" data-full-url="https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/palette3@2x.png" data-link="https://mauriciogiraldo.com/blog/2020/08/08/aereo/palette32x/" class="wp-image-1014" srcset="https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/palette3@2x.png 400w, https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/palette3@2x-256x300.png 256w" sizes="(max-width: 400px) 100vw, 400px" /></figure></li></ul></figure>
+</div></div>
+</div></div>
+</div></div>
+</div></div>
+
+
+
+<p>As a bonus, clicking on a colour will copy its hexadecimal red, green, blue value (e.g. “#FF0000” for red) to the clipboard.</p>
+
+
+
+<p>Sorting by colour <a href="https://www.alanzucconi.com/2015/09/30/colour-sorting/">is hard</a>, especially when we’re talking about 500 thousand images as is the case for manuscripts. For simplicity, I’m choosing the <strong>first colour</strong>, which is the most prominent from the list of five and sorting by hue, then saturation and, finally, lightness. Colour sorting is <a class="" href="https://dxlab.sl.nsw.gov.au/aereo/#/viewer?bucket=pictures&amp;sort=hue" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/f82f67f7e21194f179f79f662e79fd69/" data-versiondate="2020-08-08T06:27:16+00:00" data-amber-behavior="">better viewed when image thumbnails are not visible</a>:</p>
+
+
+
+<figure class="wp-block-image alignnone size-large wp-image-4281"><img src="https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/colour@2x-1024x570.png" alt="" class="wp-image-1016" srcset="https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/colour@2x-1024x570.png 1024w, https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/colour@2x-300x167.png 300w, https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/colour@2x-768x428.png 768w, https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/colour@2x.png 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Colour sorting example</figcaption></figure>
+
+
+
+<h3 id="â€œlook-alikeâ€">4. “Look alike”</h3>
+
+
+
+<p>The Library has done some <a href="https://www.sl.nsw.gov.au/blogs/tiger-using-artificial-intelligence-discover-our-collections">great work using machine learning to automatically create descriptive keywords</a> for item files called TIGER. A similar process is used for the “look-alike” sorting in <em>Aereo</em> but, while TIGER aims to provide a description of an individual file, I use it to determine how similar images are to each other. The process basically provides a score between 0 and 1 for 4,096 words for every one of the 2 million images. This score represents how confident the algorithm is on a given word being present in an image: 0 being total certainty it <em>is not</em> present and 1 being total certainty it <em>is</em> present. Since there will always be some level of uncertainty, zeroes or ones will rarely come up, and more often values in between will be returned:</p>
+
+
+
+<figure class="wp-block-gallery columns-2 is-cropped"><ul class="blocks-gallery-grid"><li class="blocks-gallery-item"><figure><img src="https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/predictions1@2x.jpg" alt="" data-id="1017" data-full-url="https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/predictions1@2x.jpg" data-link="https://mauriciogiraldo.com/blog/?attachment_id=1017" class="wp-image-1017" srcset="https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/predictions1@2x.jpg 600w, https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/predictions1@2x-300x141.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></figure></li><li class="blocks-gallery-item"><figure><img src="https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/predictions2@2x.jpg" alt="" data-id="1018" data-full-url="https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/predictions2@2x.jpg" data-link="https://mauriciogiraldo.com/blog/?attachment_id=1018" class="wp-image-1018" srcset="https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/predictions2@2x.jpg 600w, https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/predictions2@2x-300x141.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></figure></li><li class="blocks-gallery-item"><figure><img src="https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/predictions3@2x.jpg" alt="" data-id="1019" data-full-url="https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/predictions3@2x.jpg" data-link="https://mauriciogiraldo.com/blog/?attachment_id=1019" class="wp-image-1019" srcset="https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/predictions3@2x.jpg 600w, https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/predictions3@2x-300x141.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></figure></li><li class="blocks-gallery-item"><figure><img src="https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/predictions4@2x.jpg" alt="" data-id="1020" data-full-url="https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/predictions4@2x.jpg" data-link="https://mauriciogiraldo.com/blog/?attachment_id=1020" class="wp-image-1020" srcset="https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/predictions4@2x.jpg 600w, https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/predictions4@2x-300x141.jpg 300w" sizes="(max-width: 600px) 100vw, 600px" /></figure></li></ul></figure>
+
+
+
+<p>Machine learning algorithms are only as good as their training data: somebody has previously classified by hand as many images as possible with a set of words or labels, and the algorithm “learns” what, for example, a photo with a cat or a dog “looks like”. These algorithms and training sets are hard to produce so there aren’t many available and companies that have proprietary versions charge a lot of money for their use.</p>
+
+
+
+<p>Fortunately, there are open source data sets, one of which, called <a href="http://image-net.org/about-stats" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/63a7b0fa3006e29ef474f10727f108f5/" data-versiondate="2020-08-08T06:27:21+00:00" data-amber-behavior="">Imagenet</a> is in use in <em>Aereo</em>. Imagenet is trained on contemporary images, so it is “looking” for things like “food processor”, “vacuum cleaner”, or “Frisbee”, which may not be present in a collection that spans hundreds of years to the past and, conversely, contains images for words not present in the Imagenet vocabulary. While these words won’t be useful to describe the images themselves, it can be useful to find images that <em>look similar to the algorithm</em>.</p>
+
+
+
+<p>The algorithm will make mistakes, classifying an image as, for example, a Frisbee, but it will make similar mistakes for images that look similar (other images that look like Frisbees to the algorithm). Notice how, in the two black and white images above, the algorithm has mistakenly classified them as “barbershop” and “barber chair” but the images do look similar: black and white, a person in a white outfit standing holding something, indoors in a relatively aseptic environment. The complete process of converting these values into a similarity score will be described in a separate post but you can <a class="" href="https://dxlab.sl.nsw.gov.au/aereo/#/viewer?bucket=paintings&amp;sort=similar" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/42af3bc4b33e7572865888ee571d8f08/" data-versiondate="2020-08-08T06:27:24+00:00" data-amber-behavior="">see it in action</a> (remember to activate thumbnails).</p>
+
+
+
+<figure class="wp-block-image alignnone size-large wp-image-4289"><img src="https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/similarity@2x-1024x549.jpg" alt="" class="wp-image-1022" srcset="https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/similarity@2x-1024x549.jpg 1024w, https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/similarity@2x-300x161.jpg 300w, https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/similarity@2x-768x412.jpg 768w, https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/similarity@2x.jpg 1200w" sizes="(max-width: 1024px) 100vw, 1024px" /><figcaption>Images sorted by similarity</figcaption></figure>
+
+
+
+<h2 id="its-all-yours">It’s all yours!</h2>
+
+
+
+<p><a rel="noopener noreferrer" href="https://dxlab.sl.nsw.gov.au/aereo" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/2ee52c043c3be7b6f91124bae18f933e/" data-versiondate="2020-08-08T06:27:27+00:00" data-amber-behavior="" target="_blank"><em>Aereo</em></a> is only an interface to a bunch of data that I have produced with the help of the awesome DX-Lab and web teams of the State Library of New South Wales and all of it is available for you to download and do whatever you want to do with it. <strong>Processing and classifying two million images was no small task</strong>, and you don’t have to!</p>
+
+
+
+<h3 id="code-repositories">Code repositories</h3>
+
+
+
+<ul><li><a href="https://github.com/slnsw/dxlab-fellowship-2019">Code repository for <em>Aereo</em> interface</a></li><li><a href="https://github.com/mgiraldo/image-utils">Code repository for image colour and similarity processing</a></li><li><a href="https://github.com/mgiraldo/aereo-pixels">Code repository for thumbnail processing for <em>Aereo</em></a></li></ul>
+
+
+
+<h3 id="data-and-files">Data and files</h3>
+
+
+
+<table width="100%"><thead><tr><th class="has-text-align-left" data-align="left">Name</th><th class="has-text-align-left" data-align="left">File count<sup class="footnote-ref"><a id="fnref2" href="#fn2">2</a></sup></th><th>Size</th></tr></thead><tbody><tr><td class="has-text-align-left" data-align="left">File ID to URL mapping for categories/full set (CSV)</td><td class="has-text-align-left" data-align="left">22</td><td>48.1 MB</td></tr><tr><td class="has-text-align-left" data-align="left">Colour summarizing (full version)</td><td class="has-text-align-left" data-align="left">2,212,318</td><td>64.3 GB</td></tr><tr><td class="has-text-align-left" data-align="left">Colour summarizing (compact version)</td><td class="has-text-align-left" data-align="left">2,231,480</td><td>1.3 GB</td></tr><tr><td class="has-text-align-left" data-align="left">Image predictions (4,096 word values, gzipped)</td><td class="has-text-align-left" data-align="left">2,231,222</td><td>33.8 GB</td></tr><tr><td class="has-text-align-left" data-align="left">Image similarity intermediate data</td><td class="has-text-align-left" data-align="left">81</td><td>2.9 GB</td></tr><tr><td class="has-text-align-left" data-align="left">Image thumbnails (150&#215;150 pixels)</td><td class="has-text-align-left" data-align="left">2,231,496</td><td>9.8 GB</td></tr><tr><td class="has-text-align-left" data-align="left">Image thumbnails (32&#215;32 pixels)</td><td class="has-text-align-left" data-align="left">2,238,557</td><td>3.5 GB</td></tr></tbody></table>
+
+
+
+<h2>Thanks!</h2>
+
+
+
+<p>Thanks to the State Library of New South Wales, State Librarian Dr John Vallance and Mitchell Librarian and Director, Engagement Richard Neville, and especially to the DX Lab team: Paula Bray, Kaho Cheung, and Luke Dearnley, for their support during this project. Thanks also to Jenna Bain and Robertus Johansyah in the Digital Channels team, and all the Library staff who were immensely helpful and patient.</p>
+
+
+
+<p>I also want to thank folks at the open-source community who helped me out in this project: Douglas Duhaime at the Yale DH Lab, Mario Klingemann, Kyle McDonald, Cyril Diagne, Gene Kogan, Ricardo Cabello.</p>
+
+
+
+<ol class="footnotes-list"><li>“everything” is a complicated word in library land and will be addressed in a future post but for now let’s say it means everything that was digitised at the Library by early February 2020 and was classified in the selected categories. <a href="#fnref1"><img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/21a9.png" alt="↩" class="wp-smiley" style="height: 1em; max-height: 1em;" /></a></li><li>The discrepancy in file counts is due to some images being unable to be processed on any given step. Some files may also be empty. <a href="#fnref2"><img src="https://s.w.org/images/core/emoji/12.0.0-1/72x72/21a9.png" alt="↩" class="wp-smiley" style="height: 1em; max-height: 1em;" /></a></li></ol>
+<p><a href="https://mauriciogiraldo.com/blog/2020/08/08/aereo/" rel="bookmark">Aereo</a> originalmente escrito en <a href="https://mauriciogiraldo.com/blog">mga/blog</a> en August 8, 2020.</p>
+]]></content:encoded>
+					
+		
+		<enclosure url="https://mauriciogiraldo.com/blog/wp-content/uploads/2020/08/sorting.mp4" length="1785324" type="video/mp4" />
+
+			</item>
+		<item>
+		<title>Using Travis-CI with Github Pages to build a self-updating static site</title>
+		<link>https://mauriciogiraldo.com/blog/2015/10/25/using-travis-ci-with-github-pages-to-build-a-self-updating-static-site/</link>
+		
+		<dc:creator><![CDATA[mga]]></dc:creator>
+		<pubDate>Sun, 25 Oct 2015 15:30:14 +0000</pubDate>
+				<category><![CDATA[general]]></category>
+		<category><![CDATA[programación]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">http://www.mauriciogiraldo.com/blog/?p=944</guid>
+
+					<description><![CDATA[Recently I came across a project where one collaborator was generating CSV files that would then used to produce static minisite with an ElasticSearch-powered search. I decided to use Github Pages and Travis-CI for two main reasons: a simple git push would let anyone update the site any time Travis-CI could take care of static [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Recently I came across a project where one collaborator was generating CSV files that would then used to produce static minisite with an ElasticSearch-powered search. I decided to use <a href="https://pages.github.com/">Github Pages</a> and Travis-CI for two main reasons:</p>
+<ul>
+<li>a simple <code>git push</code> would let anyone update the site any time</li>
+<li>Travis-CI could take care of static file generation and search indexing whenever a new set of CSVs was deployed</li>
+</ul>
+<p>If you have a similar need, read on. This post is informed by many blog posts around the web (see footnotes<sup id="fnref-944-1"><a href="#fn-944-1" class="jetpack-footnote">1</a></sup> <sup id="fnref-944-2"><a href="#fn-944-2" class="jetpack-footnote">2</a></sup> <sup id="fnref-944-3"><a href="#fn-944-3" class="jetpack-footnote">3</a></sup> <sup id="fnref-944-4"><a href="#fn-944-4" class="jetpack-footnote">4</a></sup>).</p>
+<p><strong>NOTE:</strong> This is not a recommendation on how to produce static sites. There are better tools out there for that. Check out <a href="https://staticsitegenerators.net/" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/25f7fbdfeabe3edfb2153c0e4c9af463/" data-versiondate="2017-06-07T01:24:41+00:00" data-amber-behavior="">StaticSiteGenerators</a> if you need a proper system for static site generation. This tutorial is more the README I wish I found in the web while looking to solve this particular problem.</p>
+<h2>About Travis-CI and Github Pages</h2>
+<p><a href="https://pages.github.com/">Github Pages</a> is a quick and easy way to host static websites (you do need to know <a href="http://git-scm.com/" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/6a39c5566c81cc96bb39199ca0470695/" data-versiondate="2017-06-07T01:28:44+00:00" data-amber-behavior=""><code>git</code></a> and a Github account, but you already do, right?).</p>
+<p><a href="https://travis-ci.org/" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/dea1f043c38cdb90c832ca65abe3e08b/" data-versiondate="2017-06-07T01:48:14+00:00" data-amber-behavior="">Travis-CI</a> is a service that lets you trigger arbitrary code whenever you push changes to a code repository. The most popular use is code-testing. We will use the free version that requires your repository to be public. Take this into account if you require your code to be private.</p>
+<p>In this example we will use Travis-CI to execute some Python code in the repository which takes care of indexing, static file-generation and repository updates. The project in question has two branches: the mandatory <code>gh-pages</code> branch, which Github will use for hosting the static site, and a <code>csv</code> branch to which will receive the latest CSVs. The <code>gh-pages</code> branch will be updated every time a new <code>push</code> arrives in the <code>csv</code> branch.</p>
+<p>Suppose a basic structure of the project like this:</p>
+<p></p><pre class="crayon-plain-tag">.travis.yml
+index.html
+csv/data.csv
+    static.txt
+python/indexer.py
+        build.sh
+        requirements.txt
+javascripts/...
+images/...
+css/...</pre><p></p>
+<p><code>indexer.py</code> will update the ElasticSearch index using <code>data.csv</code>, and also generate <code>static.txt</code> as a sort of pre-caching of the site. This may sound a little roundabout but bear with me. This structure was actually useful in our case. I will eventually publish the final site.</p>
+<p>You will also notice a <code>/python/build.sh</code> file. This file contains the steps you use to create the index and static file manually. It is basically the list of UNIX commands you would type in your terminal to do the process yourself, only that you want Travis-CI to do it for you (magick!).</p>
+<h2>Setup permissions</h2>
+<p>Your Github account needs to allow Travis-CI some operations in your repositories.</p>
+<p><strong>NOTE:</strong> Make sure you consult others on security. I am not an expert on this subject. Refer to the footnotes for more details. I will just cover the basics.</p>
+<p>In Github:</p>
+<ul>
+<li>Click on your avatar in the top-right and select <code>Settings &gt; Personal access tokens</code></li>
+<li>Generate a new token with <a href="http://docs.travis-ci.com/user/github-oauth-scopes/" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/c4f0d99b6f4c72f05d4b8340361569ab/" data-versiondate="2017-06-07T02:18:26+00:00" data-amber-behavior="">these permissions</a>: <code>user:email</code>, <code>read:org</code>, <code>repo_deployment</code>, <code>repo:status</code>, <code>write:repo_hook</code>, <code>public_repo</code></li>
+<li><strong>IMPORTANT:</strong> Save the token somewhere you can easily retrieve it because Github shows it only once</li>
+</ul>
+<p>In Travis-CI:</p>
+<ul>
+<li>Install the Travis Ruby gem in your machine and login: </li>
+</ul>
+<p></p><pre class="crayon-plain-tag">gem install travis
+travis login</pre><p></p>
+<ul>
+<li>Go to <a href="https://travis-ci.org/profile" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/cb00085cabd5a96cf8316edba3a45a2f/" data-versiondate="2017-06-07T02:27:03+00:00" data-amber-behavior="">your Travis-CI profile</a> and turn on the repository you want to activate</li>
+<li>Click the little gear icon to access the settings for that repo</li>
+<li>Add any environment variables that your scripts use such as the URL to your ElasticSearch service or the <code>path/to/some/file</code> in the repository</li>
+</ul>
+<p>Let&#8217;s look at a trimmed-down (useless) version of the Python <code>indexer.py</code> file (the <code># comments</code> in the code will clarify the main parts):</p>
+<p></p><pre class="crayon-plain-tag">#!/usr/bin/python
+
+import csv
+import os
+# elasticsearch and elasticsearch_dsl are not in python by default
+from elasticsearch import Elasticsearch
+from elasticsearch import helpers
+from elasticsearch_dsl import connections, Index, DocType, Nested, String, GeoPoint, Integer
+
+... 
+
+# now an example function that uses an environment variable
+def process_csv(filename):
+    basepath = os.environ['BASEPATH']
+    readpath = basepath+filename
+    print &quot;loaded &quot; + readpath
+    response = open(readpath)
+    reader = csv.DictReader(response)
+    # down here some code to index
+    # also produce some flat static.txt file
+
+
+...
+
+# note the presence of prints
+def main():
+    process_csv(&quot;data.csv&quot;)
+
+if __name__ == &quot;__main__&quot;:
+    main()</pre><p></p>
+<p>The file has two purposes:</p>
+<ol>
+<li>index the CSV in the ElasticSearch</li>
+<li>produce a <code>csv/static.txt</code></li>
+</ol>
+<h2>The post-deploy script</h2>
+<p>You may have noticed a <code>requirements.txt</code> file above. Vanilla Python in Travis-CI does not have every module by default. We need this file to tell Travis what to install once the repository is deployed. You can add as many modules as you want, these are just examples:</p>
+<p></p><pre class="crayon-plain-tag"># requirements.txt
+elasticsearch==1.7.0
+elasticsearch-dsl==0.0.8</pre><p></p>
+<p>Now let&#8217;s look at the <code>build.sh</code> file. This is where the magic happens! This is also where the token we created above enters the scene. We will encrypt it in a minute.</p>
+<p>But first:</p>
+<p>Travis-CI requires a <code>.travis.yml</code> file (you might have noticed it in the root folder, next to <code>index.html</code>) that describes what happens once a new deploy is detected. Let&#8217;s start with the basic structure (once again, the <code># comments</code> will clarify):</p>
+<p></p><pre class="crayon-plain-tag">language: python
+branches:
+  except:
+  - gh-pages # pushes to this branch will be ignored
+  only:
+  - csv # pushes to this branch will activate travis-ci
+python:
+- '2.7' # the python version required
+install:
+- pip install -r ./python/requirements.txt # to install the needed extra modules</pre><p></p>
+<p>Once we have that file, we can add the encrypted Github token using the following command:</p>
+<p></p><pre class="crayon-plain-tag">travis encrypt GH_TOKEN=&quot;whatever_github_generated&quot; --add</pre><p></p>
+<p>The <code>--add</code> flag will append the encrypted string to the <code>.travis.yml</code> file like so:</p>
+<p></p><pre class="crayon-plain-tag">language: python
+branches:
+  except:
+  - gh-pages
+  only:
+  - csv
+python:
+- '2.7'
+install:
+- pip install -r ./python/requirements.txt 
+env:
+  global:
+  - secure: encrypted-stuff-here</pre><p></p>
+<p>Note the new <code>env &gt; global &gt; secure</code> structure in the above snippet where the Travis-CI command-line program inserted some <code>encrypted-stuff-here</code> automatically.</p>
+<p>This creates a new environment variable named <code>GH_TOKEN</code> available to any scripts run by Travis-CI (similar to adding the variable in the settings panel but in a more secure way). We will also add a variable for the repository name. You may want to encrypt it also but I will leave it plain text for example purposes:</p>
+<p></p><pre class="crayon-plain-tag">env:
+  global:
+  - GH_REPO=&quot;myaccount/myrepo&quot;
+  - secure: encrypted-stuff-here</pre><p></p>
+<p>Now we need to create the build script itself, <code>python/build.sh</code>. The steps are:</p>
+<ol>
+<li><code>clone</code> the repository to a new folder (I had to do it this way because the scope in Travis-initiated processes seems to be limited to a single branch and I was not able to pull/push to other branches)</li>
+<li><code>checkout</code> and <code>pull</code> the latest code in the <code>csv</code> branch</li>
+<li><code>checkout</code> and <code>merge</code> the code into the <code>gh-pages</code> branch</li>
+<li>run the indexing and output new static files</li>
+<li><code>add</code> the new files and create a new <code>commit</code></li>
+<li><code>push</code>  the result to <code>gh-pages</code></li>
+</ol>
+<p>Below is a condensed version of this script. The <code>echos</code> (and all other terminal-visible commands in your scripts such as <code>print</code>) will be visible in the <a href="https://travis-ci.org/" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/dea1f043c38cdb90c832ca65abe3e08b/" data-versiondate="2017-06-07T01:48:14+00:00" data-amber-behavior="">Travis console</a> so you can debug what may be going wrong:</p>
+<p></p><pre class="crayon-plain-tag">#!/bin/bash
+
+export REPO_URL=&quot;https://$GH_TOKEN@github.com/$GH_REPO.git&quot;
+
+git config --global user.name &quot;travis-bot&quot;
+git config --global user.email &quot;travis&quot;
+
+echo &quot;Clone to the new folder&quot;
+git clone $REPO_URL _cloned
+
+cd _cloned
+
+echo &quot;Getting csv branch&quot;
+git checkout origin csv
+
+echo &quot;Pulling&quot;
+git pull origin csv
+
+echo &quot;Checkout of gh-pages&quot;
+git checkout -b gh-pages origin/gh-pages
+
+echo &quot;Merging&quot;
+git merge csv -m &quot;merge from travis-ci&quot;
+
+echo &quot;Run the index&quot;
+python ./python/index_builder.py
+
+echo &quot;Checking status&quot;
+git status
+
+echo &quot;Adding new files in /csv folder&quot;
+git add csv
+
+git commit -m &quot;new deploy from travis-ci&quot;
+
+echo &quot;Push&quot;
+
+git push origin gh-pages</pre><p></p>
+<p>Now we need to tell Travis-CI to add executable permissions to this file and run it in the <code>install</code> part of <a href="http://docs.travis-ci.com/user/customizing-the-build/" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/5233445320848e6685f11689e7d4aa29/" data-versiondate="2017-06-07T02:31:28+00:00" data-amber-behavior="">the build lifecycle</a>. We also add <code>before_install</code> and <code>script</code> sections to <code>.travis.yml</code>. The end result looks like:</p>
+<p></p><pre class="crayon-plain-tag">language: python
+branches:
+  except:
+  - gh-pages
+  only:
+  - csv
+python:
+- '2.7'
+before_install:
+- chmod 755 ./python/prebuild.sh
+install:
+- pip install -r ./python/requirements.txt
+script:
+- &quot;./python/build.sh&quot;
+env:
+  global:
+  - GH_REPO=&quot;account/repo&quot;
+  - secure: travis-generated-stuff</pre><p></p>
+<p>And voilà! Once these files are added to the repository, upon next deploy on the <code>csv</code> branch Travis-CI will trigger the scripts and update all the data in ElasticSearch and the Github Pages website.</p>
+<p>Hope this is useful to you and do <a href="https://twitter.com/mgiraldo" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/7bd32ea596d5d61cac2f0bdcc1b862af/" data-versiondate="2017-06-07T02:57:09+00:00" data-amber-behavior="">contact me</a> if there&#8217;s any glaring issues/omissions in this quick example. Special thanks to <a href="https://twitter.com/auremoser" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/9985ac41c3bc180ced3884095e817ea3/" data-versiondate="2017-06-07T03:05:30+00:00" data-amber-behavior="">@auremoser</a> for her feedback while writing this text.</p>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn-944-1">
+<a href="https://rmflight.github.io/posts/2014/11/travis_ci_gh_pages.html" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/b5339dfdc64085091575e1a4cf66a201/" data-versiondate="2017-06-07T03:21:14+00:00" data-amber-behavior="">https://rmflight.github.io/posts/2014/11/travis_ci_gh_pages.html</a>&#160;<a href="#fnref-944-1">&#8617;</a>
+</li>
+<li id="fn-944-2">
+<a href="http://awestruct.org/auto-deploy-to-github-pages/" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/996c637160cc380faa58cac42546793a/" data-versiondate="2017-06-07T03:43:04+00:00" data-amber-behavior="">http://awestruct.org/auto-deploy-to-github-pages/</a>&#160;<a href="#fnref-944-2">&#8617;</a>
+</li>
+<li id="fn-944-3">
+<a href="http://pghalliday.com/github/ssh/travis-ci/2014/09/19/auto-build-and-deploy-github-pages-with-travis-ci.html" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/ac5b14ea16258331e8ca2ba5aa76c174/" data-versiondate="2017-06-07T03:45:41+00:00" data-amber-behavior="">http://pghalliday.com/github/ssh/travis-ci/2014/09/19/auto-build-and-deploy-github-pages-with-travis-ci.html<br />
+</a>&#160;<a href="#fnref-944-3">&#8617;</a>
+</li>
+<li id="fn-944-4">
+<a href="https://gist.github.com/bewest/6100033">https://gist.github.com/bewest/6100033</a>&#160;<a href="#fnref-944-4">&#8617;</a>
+</li>
+</ol>
+</div>
+<p><a href="https://mauriciogiraldo.com/blog/2015/10/25/using-travis-ci-with-github-pages-to-build-a-self-updating-static-site/" rel="bookmark">Using Travis-CI with Github Pages to build a self-updating static site</a> originalmente escrito en <a href="https://mauriciogiraldo.com/blog">mga/blog</a> en October 25, 2015.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Del papel a la web: haz tus propios mapas interactivos.</title>
+		<link>https://mauriciogiraldo.com/blog/2015/03/20/del-papel-a-la-web-haz-tus-propios-mapas-interactivos/</link>
+		
+		<dc:creator><![CDATA[mga]]></dc:creator>
+		<pubDate>Fri, 20 Mar 2015 11:30:18 +0000</pubDate>
+				<category><![CDATA[arte]]></category>
+		<category><![CDATA[diseño]]></category>
+		<category><![CDATA[interacción]]></category>
+		<category><![CDATA[programación]]></category>
+		<category><![CDATA[tips]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">http://www.mauriciogiraldo.com/blog/?p=937</guid>
+
+					<description><![CDATA[Esta es una traducción de “From Paper Maps to the Web: A DIY Digital Maps Primer” realizada por Daniela Schütte, coordinadora del proyecto Memoria Chilena de la Biblioteca Nacional de Chile. NOTA: hay terminología que debe mantenerse en inglés puesto que así debe escribirse en el código. En noviembre del 2014, fui invitado a la [&#8230;]]]></description>
+										<content:encoded><![CDATA[<blockquote><p>
+  <em>Esta es una traducción de <a href="http://www.mauriciogiraldo.com/blog/2015/01/08/from-paper-maps-to-the-web-a-diy-digital-maps-primer/">“From Paper Maps to the Web: A DIY Digital Maps Primer”</a> realizada por <a href="//twitter.com/dani_schutte">Daniela Schütte</a>, coordinadora del <a href="http://www.memoriachilena.cl">proyecto Memoria Chilena de la Biblioteca Nacional de Chile</a>.</em></p>
+<p>  <strong>NOTA:</strong> hay terminología que debe mantenerse en inglés puesto que así debe escribirse en el código.
+</p></blockquote>
+<p>En noviembre del 2014, fui invitado a la <a href="http://www.bibliotecanacional.gov.co/content/segunda-semana-del-libro-digital-2014">2<sup>a</sup> semana del libro digital</a> organizado por la Biblioteca Nacional de Colombia. La idea era  presentar los proyectos que estamos desarrollando en el NYP Labs y también, dictar un taller sobre herramientas para geolocalización de mapas. Pienso que puede ser útil compartir los contenidos de ese taller, ya que integra diversas herramientas y procesos que permiten que la cartografía digital sea, hoy en día, accesible para todos.  <br />
+Se trata de un paso a paso que, utilizando herramientas de georeferenciación gratuitas, te enseñará a hacer tu propio e increíble mapa georeferenciado.</p>
+<h2 id="resumiendo">RESUMIENDO…</h2>
+<p><a href="http://bit.ly/nypllabs-geo101-result" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/909b77969c07b6caf9c750eacb727b82/" data-versiondate="2017-01-24T03:13:33+00:00" data-amber-behavior="">Esto</a> es lo que haremos. Este tutorial asume que ya tienes un mapa digitalizado y que tienes claro qué información quieres incorporar. Usualmente, los pasos son: </p>
+<ol>
+<li>Georeferenciar el mapa escaneado para poder generar la cuadrícula (“tileset” en inglés) del mapa; </li>
+<li>
+<p>Procesar los datos en GeoJSON para sobreponerlos al mapa escaneado; </p>
+</li>
+<li>
+<p>Crear un mapa personalizado que servirá de referencia como mapa de la actualidad; </p>
+</li>
+<li>
+<p>Integrar todos los elementos en una página web interactiva. </p>
+</li>
+</ol>
+<blockquote>
+<p><strong>NOTA:</strong> Este tutorial asume que estás usando <a href="https://www.mozilla.org/en-US/firefox/" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/20021742ac78e09dc8d083b9df121440/" data-versiondate="2017-01-24T03:08:43+00:00" data-amber-behavior="">Mozilla Firefox</a>, <a href="https://www.apple.com/safari/">Apple Safari</a> o <a href="http://www.google.com/chrome/">Google Chrome</a>. Tendremos que jugar con la consola de desarrollo y no tengo instrucciones multinavegador.
+</p>
+</blockquote>
+<h2 id="empecemos">¡Empecemos!</h2>
+<p><a href="http://bit.ly/nypllabs-geo101-result" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/909b77969c07b6caf9c750eacb727b82/" data-versiondate="2017-01-24T03:13:33+00:00" data-amber-behavior="">Esto es lo que queremos hacer</a>. Un mapa de Bogotá de 1891 <a href="http://www.bibliotecanacional.gov.co/ultimo2/tools/marco.php?idcategoria=45223" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/0098c503b65c150aa05843fe4bf1c11b/" data-versiondate="2017-01-24T03:28:36+00:00" data-amber-behavior="">conservado en la Biblioteca Nacional de Colombia</a> (el link requiere Flash Player) enriquecido con datos extraídos de un <a href="http://www.bibliotecanacional.gov.co/recursos_user/bookreader/1889_sala3a_12756/" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/cdc60f36135ddea5a33f84f17913b5b0/" data-versiondate="2017-01-24T03:34:07+00:00" data-amber-behavior="">directorio de Bogotá de 1888</a>. </p>
+<h3 id="1-geo-localizando">1) Geo-localizando.</h3>
+<p>El primer paso, luego de digitalizar el mapa, es agregar la información geográfica. Para esto, es necesario establecer la equivalencia entre pixeles y ubicación exacta que ellos representan. Esto se conoce con el nombre de geolocalización. Este proceso distorsionará la imagen digitalizada: </p>
+<p><img alt="Original scan" src="https://i.imgur.com/UTGlBEk.jpg" title="" width="50%"/>  <br />
+<em>Imagen original digitalizada (encogida, por supuesto)</em></p>
+<p>…Al hacerla calzar con la <a href="https://es.wikipedia.org/wiki/Proyecci%C3%B3n_cartogr%C3%A1fica" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/8bfbbdf417b87f23a9e31813ecbe9ad6/" data-versiondate="2017-01-24T03:40:03+00:00" data-amber-behavior="">proyección de Mercator</a> que es la que se utiliza en la mayoría de los proyectos que utilizan mapas digitales como OpenStreetMap or Google Maps: </p>
+<p><img alt="Mapa en proyeccion Mercator" src="https://i.imgur.com/M6whllY.png" title="" width="50%"/> <br />
+<em>Proyección Mercator de la imagen original geolocalizada</em> </p>
+<p>El porcentaje de distorsión dependerá de la calidad de la muestra –el mapa digitalizado–, su estado de conservación y la proyección del mapa original. Es posible que te estés preguntando ¿y cómo ocurrirá esto? Existen softwares propietarios y open-source que permiten geolocalizar imágenes de un modo sencillo. Sin embargo, el objetivo de este tutorial es lograrlo <em>sin que tengas que instalar ningún programa que no sea tu navegador</em>. </p>
+<p>Para empezar, anda a: <a href="http://mapwarper.net/">Map Warper</a>. Esta es una herramienta web que te permite subir tu mapa digitalizado para luego, a través de una sencilla interfaz, geolocalizarlo (o “rectificarlo” para hablar como cartógrafos). En el lado izquierdo verás el mapa digitalizado y en el lado derecho, la proyección Mercator.</p>
+<p><img width="100%" src="https://i.imgur.com/XveF5Q5.png" alt="Map Warper" title=""/>  <br />
+<em>Así se ve la interfaz dividida para la rectificación en Map Warper</em> </p>
+<p>Fíjate en los marcadores de la imagen. Cada pin tiene un número y el mismo marcador se ve en ambos lados de la imagen. Asimismo, cada uno de ellos te servirá para darte cuenta que en el mapa digitalizado, el Norte está hacia el lado izquierdo, mientras que el Este está hacia arriba. <strong>Si bien, cuantos más marcadores agregues, más precisa será la referenciación; debes considerar que también será más lento el procesamiento de la imagen final</strong>. No obstante, la imagen se genera sólo una vez, así que yo no me preocuparía demasiado por eso. De lo que sí debes preocuparte es de cuántos marcadores estás dispuesto a agregar. El mapa de este tutorial, por ejemplo, tiene 101.</p>
+<p>Una consideración final en este proceso es estar seguros que, luego de la distorsión producida por la geolocalización de la imagen, tienes una imagen de alta calidad. El proceso de distorsionar la imagen original se llama <a href="https://en.wikipedia.org/wiki/Image_scaling" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/ebff996902034e83c69bfa1ab3703e70/" data-versiondate="2017-01-24T03:48:42+00:00" data-amber-behavior="">resamplear</a> <a href="#fn-resampling" id="fnref-resampling" title="See footnote" class="footnote">1</a>. En  las opciones avanzadas de Map Warper puedes definir si quieres que el proceso sea rápido pero de inferior calidad (seleccionando la opción “Nearest Neighbour”) o un poco más lento, pero de mejor calidad (seleccionando “Cubic Spline”): </p>
+<p><img width="100%" src="https://i.imgur.com/h5s13Mm.png" alt="Resampling method selection" title=""/>  <br />
+<em>Selecciona “Cubic Spline” en el menú “Resampling Method option”</em></p>
+<p><a href="http://mapwarper.net/maps/4949#Preview_Map_tab">Puedes ver el mapa final aquí</a>. También puedes descargarlo en alta resolución en la pestaña “Export”. Sin embargo, pienso que  el <strong>insumo principal</strong>  que se obtiene de Map Warper  es la  <strong>cuadrícula o baldosas</strong> (“tileset” en inglés), como prefieran llamarlas. Y que en el fondo, es la URL que se ve aquí: </p>
+<p><img width="100%" src="https://i.imgur.com/KP75kOT.png" alt="Map Warper" title=""/>  <br />
+<em>Puedes encontrar la URL del tileset en la pestaña “Export”</em> </p>
+<p>Y el template es: <code>http://mapwarper.net/maps/tile/4949/{z}/{x}/{y}.png</code></p>
+<p>Para seguir trabajando necesitarás esta URL así que guárdala en un lugar seguro, un bloc de notas por ejemplo, para ir dejando todos estos datos, que luego ocuparemos. Map Warper tiene un motor que utiliza la imagen geolocalizada para generar un tileset en el mapa que opera a distintos niveles del zoom. Así que sólo se nuestra la parte en la que estás trabajando <a href="#fn-maptiles" id="fnref-maptiles" title="See footnote" class="footnote">2</a>. Esta es una baldosa o una parte del tileset de ejemplo: </p>
+<p><img src="//i.imgur.com/r3FNJ5T.png" alt="a web map tile" title=""/> <br />
+<em>Un mapa Web está hecho de millones de estas</em> </p>
+<h3 id="2-extracción-de-datos">2) Extracción de datos.</h3>
+<p>Ya tenemos el mapa. Ahora tenemos que pensar qué información queremos mostrar en él. Nuestro ejemplo utiliza <a href="http://www.bibliotecanacional.gov.co/recursos_user/bookreader/1889_sala3a_12756/" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/cdc60f36135ddea5a33f84f17913b5b0/" data-versiondate="2017-01-24T03:34:07+00:00" data-amber-behavior="">este directorio de la ciudad de Bogotá de  1888</a>, la capital de Colombia. Este documento tiene información valiosa sobre: decenas de miles de personas, cada una de ellas con su nombre completo, ocupación y dirección; docenas de ocupaciones diferentes (descritas en la <a href="http://www.bibliotecanacional.gov.co/recursos_user/bookreader/1889_sala3a_12756/#page/4/mode/2up" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/55b1826767efe1c11003254ca70721a2/" data-versiondate="2017-01-24T03:58:39+00:00" data-amber-behavior="">página 4</a>) y avisos publicitarios (junto con la dirección de locales comerciales y los nombres de sus dueños). Este directorio  constituye un interesante retrato de la vida colombiana en la segunda mitad del siglo XIX: abogados, fotógrafos y contadores comparten páginas con talabarteros y herreros. Yo me fui por el camino aburrido y decidí buscar políticos influyentes de la época, como por ejemplo el presidente en ejercicio (<a href="http://www.bibliotecanacional.gov.co/recursos_user/bookreader/1889_sala3a_12756/#page/222/mode/2up" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/05756fcdc9b667b4aff55841dc800ead/" data-versiondate="2017-01-24T04:04:32+00:00" data-amber-behavior="">página 222</a>, primero en la segunda columna). La <a href="https://gist.githubusercontent.com/mgiraldo/adc66ff03fc41c88a9ef/raw/db06e19048e1bee737c8897b65517e2e2916af44/directorio%20bogota%CC%81%201888.csv">lista</a> tiene los nombres de siete personas: cuatro presidentes, un vicepresidente, un ministro, y un presidente en ejercicio <a href="#fn-caveat" id="fnref-caveat" title="See footnote" class="footnote">3</a>. En ella se incluye:</p>
+<ul>
+<li>nombre; </li>
+<li>cargo (El cargo más alto en el poder ejecutivo colombiano); </li>
+<li>período de ejercicio; </li>
+<li>página (en la que aparece en el directorio);</li>
+<li>ocupación (de acuerdo con la tipificación del directorio); </li>
+<li>dirección; </li>
+<li>La URL de una fotografía de Wikimedia (en caso de existir una); </li>
+<li>latitud, longitud (un marcador de posición del centro de Bogotá que modificaremos en esta etapa). </li>
+</ul>
+<p><a href="https://gist.githubusercontent.com/mgiraldo/adc66ff03fc41c88a9ef/raw/db06e19048e1bee737c8897b65517e2e2916af44/directorio%20bogota%CC%81%201888.csv">Descarga la lista en CSV</a>. </p>
+<p>Puedes crear tu propia lista con otros datos que te parezcan más interesantes o más útiles. <strong>Sólo debes asegurarte de incluir una columna para indicar la “latitud” y la “longitud” </strong> y guardarla en una <a href="https://es.wikipedia.org/wiki/CSV" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/5a1e5178308c8b97e97c24c094796392/" data-versiondate="2017-01-24T04:14:05+00:00" data-amber-behavior="">lista de valores separados por comas</a>. </p>
+<h4 id="geojson">GeoJSON.</h4>
+<p>Hasta acá, tus datos están almacenados en una lista de valores separados por comas, pero las herramientas para geolocalización en la web, generalmente utilizan el <a href="http://geojson.org/" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/3afb1a3f9a003237e0d6329166f930c2/" data-versiondate="2017-01-24T04:20:04+00:00" data-amber-behavior="">estándar de datos GeoJSON</a>. GeoJSON está basado en JSON que es una de las formas más populares de estructurar datos en la web. GeoJSON utiliza el concepto de “atributos” para describir los datos geográficos. Estos atributos pueden ser puntos (como en este caso) o <a href="https://en.wikipedia.org/wiki/GeoJSON" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/ed1360949ad54f37bcfe859eb9a50a86/" data-versiondate="2017-01-24T04:24:08+00:00" data-amber-behavior="">formas geométricas complejas</a> como líneas sencillas, compuestas o polígonos. Cada atributo es descrito por su geometría, en inglés <code>geometry</code>, (el punto, la línea o el polígono en sí mismo) y por sus propiedades, en inglés <code>properties</code>, que en el fondo son todos los datos extra que quieras asociar a ellos (en este caso, el nombre de la persona, su dirección, fotografía, etc.). Por ejemplo<a href="#fn-geojson" id="fnref-geojson" title="See footnote" class="footnote">4</a>: </p>
+<p><script src="https://gist.github.com/mgiraldo/93c3457c4f512b34433f.js?file=example.json"></script></p>
+<p>Ahora tenemos que convertir la hoja de datos en un objeto GeoJSON y actualizar los valores de latitud y longitud, en inglés <code>latitude</code> y <code>longitude</code>, de los marcadores de posición. Para esto, utilizaremos el mismo mapa. Pero necesitaremos una herramienta que nos permita generar el archivo GeoJSON y manipularlo fácilmente.</p>
+<p>Lo que nos lleva a <a href="http://geojson.io/" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/c79243a87c170dac044061cbfc54abb2/" data-versiondate="2017-01-24T04:30:08+00:00" data-amber-behavior="">GeoJSON.io</a>. Es “una rápida y sencilla herramienta para crear, visualizar y compartir mapas”. GeoJSON.io tiene una elegante interfaz que nos permitirá crear el archivo GeoJSON que necesitamos. </p>
+<p><a href="http://geojson.io/" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/c79243a87c170dac044061cbfc54abb2/" data-versiondate="2017-01-24T04:30:08+00:00" data-amber-behavior="">Carga la página de GeoJSON.io</a> en una nueva pestaña del navegador. Lo primero que verás será un mapa por defecto en un zoom out completo. Entonces, tendremos que intervenir un poco.  Haz click con el botón derecho en algún punto del mapa y selecciona <code>Inspeccionar elemento</code> (o <code>Inspect element</code> si tienes el navegador en inglés): </p>
+<p><img width="90%" src="https://i.imgur.com/EIqHCRu.gif" alt="Right-Click -/> Inspect Element&#8221; title=&#8221;&#8221;>  </p>
+<p><em>Click botón derecho ? Inspeccionar elemento</em></p>
+<p>Al hacer esto, tendrás una visualización avanzada para desarrolladores, esto significa que podrás ver y modificar el código de la página que estás viendo (en este caso, la interfaz del mapa). GeoJSON.io incluye una interfaz para programación (API) que te permitirá también, controlar el despliegue del mapa. El núcleo de este sitio es <a href="https://www.mapbox.com/mapbox.js/">MapBoxJS</a>, que está construido en <a href="http://leafletjs.com/" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/642ad308ded3c92804f33582828190e8/" data-versiondate="2017-01-24T04:40:09+00:00" data-amber-behavior="">Leaflet</a>, una “librería JavaScript de código abierto para el desarrollo de mapas interactivos compatibles con dispositivos móviles”. Menciono ambos asuntos porque, en la mayoría de los casos, lo que funciona en uno de ellos, funcionará también en el otro. (<em>Es importante</em> que leas toda la documentación antes de tomar cualquier decisión). De ahora en adelante, me referiré a Leaflet en lugar de MapBoxJS. </p>
+<p>En la pestaña “Consola” (o “Console” en inglés) verás algo de texto y, al final, un cursor en el que podrás ejecutar el código JavaScript. También te darás cuenta que hay algunos comentarios del <a href="https://twitter.com/tmcw" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/d02bf615e85e76b5affcde9f5535f7fe/" data-versiondate="2017-01-24T04:44:11+00:00" data-amber-behavior="">creador de GeoJSON.io</a>. Escribe esto en el área que mencioné y presiona ENTER (fíjate en el GIF animado de más abajo): </p>
+<p><script src="https://gist.github.com/mgiraldo/93c3457c4f512b34433f.js?file=geojsonio1.js"></script></p>
+<p>Con esto, lograrás que el mapa se centre y haga un “zoom” en Bogotá, Colombia, el área comprendida por el mapa de 1891. Ahora escribe esto:</p>
+<p><script src="https://gist.github.com/mgiraldo/93c3457c4f512b34433f.js?file=geojsonio2.js"></script></p>
+<p>y presiona ENTER. Al hacerlo, agregarás el tileset que ya habíamos creado. Fíjate que la línea de código que acabamos de escribir <strong>incluye la URL que copiamos en el paso 1</strong>. El resultado, debiera verse más o menos así: </p>
+<p><img width="100%" src="https://i.imgur.com/81lQIRG.gif" alt="Antes y despues de ejecutar los comandos" title=""/> <br />
+<em>Una rápida “intervención” a GeoJSON.io</em> </p>
+<p>Ahora, puedes cerrar la ventana de consola (<em>No</em> la ventana del navegador).</p>
+<blockquote><p>
+  <strong>NOTA:</strong> Será necesario que apliques este código cada vez que cargues GeoJSON.io ya que <em>no guarda</em> las modificaciones vía consola. Lo que <em>sí</em> puedes hacer es registrarte y así guardar los datos que agregaste a tu mapa.
+</p></blockquote>
+<h4 id="agregando-datos-a-geojsonio">Agregando datos a GeoJSON.io.</h4>
+<p>Ahora usaremos la versión modificada del mapa como base para geolocalizar correctamente la <a href="https://gist.githubusercontent.com/mgiraldo/adc66ff03fc41c88a9ef/raw/db06e19048e1bee737c8897b65517e2e2916af44/directorio%20bogota%CC%81%201888.csv">lista CSV de presidentes</a>. Arrastra la lista CSV que descargaste sobre el mapa: </p>
+<p><img width="100%" src="https://i.imgur.com/YL0VrXE.gif" alt="drag and drop magic" title=""/>  <br />
+<em>La magia de arrastrar y soltar en GeoJSON.io</em> </p>
+<p>Te darás cuenta cómo los datos inmediatamente son convertidos a GeoJSON (panel derecho) y el mapa muestra los marcadores de cada presidente (panel izquierdo). Aparecerá un pequeño mensaje verde (arriba a la izquierda) que indica que siete atributos fueron importados. </p>
+<p>Pero… ¡El mapa de 1891 desapareció! No te asustes. Esto sólo significa que el mapa ha hecho un zoom “demasiado cerca de la tierra” y la URL del tileset no tiene imágenes a esa escala. Haz un zoom out y verás que el mapa de 1891 aparece otra vez. </p>
+<h4 id="moviendo-lo-marcadores">Moviendo lo marcadores.</h4>
+<p>Como podrás darte cuenta, los marcadores de la lista CSV quedaron geolocalizados, uno encima de otro, en la misma ubicación, la <a href="https://es.wikipedia.org/wiki/Plaza_de_Bol%C3%ADvar" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/813696fc9c38fe5486d223a09b470e9c/" data-versiondate="2017-01-24T04:49:51+00:00" data-amber-behavior="">Plaza de Bolívar</a> en Bogotá. Así que tendremos que moverlos a su ubicación correcta. Si haces click sobre el marcador gris, verás los datos adicionales del primero en la lista (el General Rafael Reyes). Su dirección, en ese entonces, era 50, Calle 16 (el número 50  de la Calle 16). Encontrar la dirección en el mapa será relativamente sencillo ya que cada cuadra tiene la numeración de inicio y término escrita en cada esquina. Si te fijas, la numeración de las “Carreras” (vías verticales) aumenta hacia el Norte con los números pares e impares de Este a Oeste, mientras que la numeración de las “Calles” (vías horizontales) aumenta hacia el Oeste con los números pares e impares de Norte a Sur: </p>
+<p><img width="100%" src="https://i.imgur.com/RAQxw8q.gif" alt="Address numbers" title=""/> </p>
+<p>Como puede ser que no sepamos exactamente dónde estaba una dirección, pondremos los marcadores en su ubicación estimada. Para hacerlo, es necesario que actives el modo de edición, haciendo click en el ícono editar:</p>
+<p><img src="https://i.imgur.com/52FWtfw.png" alt="Edit icon" title=""/></p>
+<p>Los marcadores tendrán ahora un borde rosado y los podrás mover donde quieras. Una vez ubicados en su posición correcta, recuerda guardar, haciendo click sobre el botón “Save”: </p>
+<p><img width="75%" src="https://i.imgur.com/LEfv82X.gif" alt="Moving points around" title=""/> </p>
+<p>Hay algunas direcciones más complejas que otras, pero como podrás imaginarte, esta es una tarea bastante agradable, porque literalmente, te pierdes en las calles de Bogotá de 1891. Un aspecto interesante de este mapa es que los edificios de gobierno aparecen coloreados con los tonos de la <a href="https://es.wikipedia.org/wiki/Bandera_de_Colombia" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/c78c16c9c0c1fbb09bda595b499ebd16/" data-versiondate="2017-01-24T04:54:14+00:00" data-amber-behavior="">bandera colombiana</a>. Cuando encuentres la casa de <a href="https://es.wikipedia.org/wiki/Rafael_Núñez" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/00dff6d9a924c2c8e3ca03a2d8a2b439/" data-versiondate="2017-01-24T05:00:16+00:00" data-amber-behavior="">Rafael Núñez Moledo</a>, el entonces presidente en ejercicio, notarás que su dirección coincide con uno de esos edificios del color de la bandera colombiana; esa es la <a href="https://es.wikipedia.org/wiki/Casa_de_Nari%C3%B1o" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/d0d090333dadf4073a690ce132e79df5/" data-versiondate="2017-01-24T05:04:18+00:00" data-amber-behavior="">Casa de Nariño</a>. </p>
+<h4 id="guardando-el-geojson">Guardando el GeoJSON.</h4>
+<p>Ahora, tenemos que generar la versión final del archivo GeoJSON para crear el mapa interactivo. Simplemente selecciona <code>Save &gt; GeoJSON</code> en el menú de GeoJSON.io. Un archivo llamado <code>map.geojson</code> se descargará en tu computador. Si prefieres, puedes <a href="https://gist.githubusercontent.com/mgiraldo/924b6bf7cc34402d2cae/raw/377d533d5047905ccbb91d1535cfb604468ea0d0/directorio%20bogota%CC%81%201888.geojson">descargar el que hice yo</a>.</p>
+<h3 id="3-haciendo-un-mapa-del-2014-personalizado-opcional">3) Haciendo un mapa del 2014 personalizado (opcional).</h3>
+<p>En verdad, lo que queremos es poder comparar cómo ha cambiado Bogotá desde 1891 a nuestros días. Entonces, lo que necesitamos es un “mapa base”, que básicamente, es lo que aparece en tu pantalla cuando cargas GeoJSON.io: un mapa (esperemos, exacto) “color vainilla” de calles del mundo actual. Puedes usar la cuadrídula estándar de <a href="http://wiki.openstreetmap.org/wiki/Tiles" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/9c9809e5e998f9fa91932c91da10eb59/" data-versiondate="2017-01-24T05:14:25+00:00" data-amber-behavior="">OpenStreetMap</a> o también, puedes usar un servicio como <a href="https://www.mapbox.com/">MapBox</a> para generar un mapa completamente a tu gusto (MapBox usa datos OSM). MapBox ofrece bastantes alternativas: te deja cambiar los colores, elegir qué se muestra (calles, edificios, parques, etc.) e incluso te permite usar imágenes satelitales. </p>
+<p>No voy a describir cómo hacer tu propio mapa en MapBox. Mejor, puedes leerlo en su <a href="https://www.mapbox.com/mapbox-studio/style-quickstart/">excelente tutorial</a>. Una vez que estén listos, tienen que guardar el identificador del mapa que crearon, que es algo así como <code>usuario.k53dp4io</code>. Puedes usar la página de proyectos de MapBox  para ver todos sus mapas y copiar fácilmente el ID al bloc de notas: </p>
+<p><img src="https://i.imgur.com/se6Hmtd.png" alt="MapBox Map ID" title=""/> </p>
+<blockquote><p>
+  <strong>NOTA:</strong> Si no quieren explorar el proceso de personalizar su propio mapa, pueden usar el ID de alguno de los ejemplos de MapBox.
+</p></blockquote>
+<h3 id="4-el-montaje-final">4) El montaje final.</h3>
+<p>Ya tenemos todas las piezas para ensamblar nuestro mapa interactivo. Para eso tenemos:</p>
+<ul>
+<li>los datos del mapa en formato GeoJSON;</li>
+<li>el tileset del mapa de 1891;</li>
+<li>el tileset del mapa actual o el ID de MapBox del mapa de 2014.</li>
+</ul>
+<p>El prototipo del mapa interactivo lo armaremos en <a href="http://jsfiddle.net/">JSFiddle</a>, una herramienta que permite crear y testear rápidamente código HTML/JavaScript/CSS. Revisa <a href="http://doc.jsfiddle.net/tutorial.html" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/06dd861089d39df4cf71a16f72351be8/" data-versiondate="2017-01-24T05:34:22+00:00" data-amber-behavior="">este breve tutorial</a> para que te familiarices con la interfaz.</p>
+<p>JSFiddle tiene cuatro paneles principales: </p>
+<ul>
+<li>Código HTML (arriba a la izquierda); </li>
+<li>Código CSS (arriba a la derecha); </li>
+<li>Código JavaScript (abajo a la izquierda); </li>
+<li>Resultado final (abajo a la derecha). </li>
+</ul>
+<p>JSFiddle se encarga de ensamblar los componentes de los tres códigos en el resultado, cada vez que presionas “Run” (arriba, barra azul). </p>
+<h4 id="html-css">HTML &amp; CSS.</h4>
+<p>En este ejemplo, la parte de HTML y CSS son <em>muy</em> sencillas. Sólo necesitamos un área rectangular en la página, en la que ubicaremos el mapa y todos sus controles. </p>
+<p>Primero, el elemento HTML en el que ubicaremos el mapa. Escribe o copia y pega esto en el panel HTML:</p>
+<p><script src="https://gist.github.com/mgiraldo/93c3457c4f512b34433f.js?file=div.html"></script></p>
+<p>Con este código, creas un elemento <code>div</code> cuyo identificador es <code>map</code> y, como te podrás imaginar, contendrá al mapa. Ahora, necesitamos darle “estilo” a este elemento (debe tener alto, ancho, altura y, si queremos, bordes y otros atributos). El estilo se controla con el código CSS.  Escribe o copia y pega lo siguiente en el panel CSS: </p>
+<p><script src="https://gist.github.com/mgiraldo/93c3457c4f512b34433f.js?file=style.css"></script></p>
+<p>Al hacer esto, el elemento, cuyo identificador es <code>map</code>, tendrá una altura y un ancho de 400 pixeles (el prefijo <code>#</code> significa “ID” en CSS). Por supuesto que pueden hacer el rectángulo más grande (si tu monitor es lo suficientemente grande) o aplicarle algunos otros atributos entre las llaves <code>{ }</code> (por ejemplo: <code>background-color: #f00;</code> para un fondo rojo, si quieres ver el elemento sin el mapa) pero en realidad, preferiría que lo mantuvieras lo más sencillo posible. </p>
+<p>Si presionas “Run” en este momento, no verás mucho (a menos que hayas añadido algún color de fondo o borde al elemento). En cualquier caso, ese es <em>todo</em> el HTML y CSS que necesitas por el momento.</p>
+<h4 id="agregar-el-mapboxjs">Agregar el MapBoxJS.</h4>
+<p>Para visualizar el mapa y hacerlo interactivo necesitaremos de algunas piezas adicionales y un poco de JavaScript. Mencioné hace un rato <a href="http://leafletjs.com/" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/642ad308ded3c92804f33582828190e8/" data-versiondate="2017-01-24T04:40:09+00:00" data-amber-behavior="">Leaflet</a> y <a href="https://www.mapbox.com/mapbox.js/">MapBoxJS</a>. Leaflet está incluido en MapBoxJS, así que más tarde nos ocuparemos de él. </p>
+<p>MapBoxJS se compone de dos archivos separados: uno JS y otro CSS. Ya tenemos una idea de qué es lo que hace el CSS. El archivo JavaScript contiene toda la magia del mapeo interactivo. Estas son las URLs de los archivos en cuestión (Esta no es la más reciente versión de MapBoxJS pero no hay que preocuparse, funcionará): </p>
+<p>Archivo CSS: </p>
+<p><code>https://api.tiles.mapbox.com/mapbox.js/v1.5.0/mapbox.css</code> </p>
+<p>Archivo JavaScript: </p>
+<p><code>https://api.tiles.mapbox.com/mapbox.js/v1.5.0/mapbox.js</code> </p>
+<p>En la columna de la izquierda de JSFiddle busca la sección “External Resources”. Ahora, copia estas URLs y pégalas en la caja <code>JavaScript/CSS URI</code> y luego presiona el botón <code>+</code>. Verás que algo como esto aparece después de hacerlo: </p>
+<p><img src="https://i.imgur.com/FTBBQmq.png" alt="jQuery in JSFiddle" title=""/> <br />
+<em>Este es tu “fiddle” una vez has agregado los dos archivos de MapBoxJS</em> </p>
+<p>Esto hará que JSFiddle cargue los archivos la próxima vez que hagas clic en el botón “Run”. </p>
+<h4 id="hola-mapa">¡Hola mapa!</h4>
+<p>¡<em>Ahora sí</em> viene la parte que hemos estado esperando! Escribamos unas líneas de JavaScript para poder ver el mapa de 1891. Copia y pega esto en el panel de JavaScript: </p>
+<p><script src="https://gist.github.com/mgiraldo/bb98fd95e3dc9166e39a.js?file=x1.js"></script></p>
+<p>…y presiona “Run”. Esto es lo que deberías ver: </p>
+<p><img width="100%" src="https://i.imgur.com/C1bj4Pj.png" alt="Hello map" title=""/>  <br />
+<em>¡Tu primer mapa web!</em> </p>
+<p>Gracias a Leaflet, es <em>así</em> de fácil trabajar con mapas web. </p>
+<blockquote><p>
+  <strong>NOTA:</strong> No voy a entrar en detalles respecto de los diferentes aspectos de las APIs de Leaflet o MapBoxJS. Cada uno tiene sus propios <a href="http://leafletjs.com/examples.html">tutoriales</a> y <a href="https://www.mapbox.com/mapbox.js/example/v1.0.0/">ejemplos</a>.
+</p></blockquote>
+<p>Lo que sí voy a hacer es dar algunos <em>snippets</em> y explicar, en términos sencillos, para qué sirven. La idea es que copies, pegues, hagas clic en “Run” y que la <strong>magia</strong> ocurra<a href="#fn-magic" id="fnref-magic" title="See footnote" class="footnote">5</a>. Luego podrás investigar, probar y resolver cómo hacer otras cosas por tu cuenta.</p>
+<h4 id="trabajando-con-múltiples-tilesets">Trabajando con múltiples tilesets.</h4>
+<p>Habrás notado que el mapa es completamente blanco, a excepción del mapa de 1891. Esto es bueno y ocurre porque el tileset sólo tiene el mapa rectificado y nada más. Necesitamos un tileset adicional, del 2014, para poder comparar (podemos usar el ID de un mapa de MapBox, en caso de que no hayas creado el tuyo en el paso 3 de más arriba). Reemplazaremos el código JS con uno nuevo que incluirá:</p>
+<ul>
+<li>Información de la fuente y/o atribución del mapa; </li>
+<li>el tileset del 2014;</li>
+<li>una herramineta de control que nos permitirá cambiar entre un tileset y otro.</li>
+</ul>
+<p>Este código debe <strong>reemplazar el anterior código JS:</strong> </p>
+<p><script src="https://gist.github.com/mgiraldo/bb98fd95e3dc9166e39a.js?file=x2.js"></script></p>
+<p>Si miras con detención este código, te darás cuenta que es bastante similar al que habíamos usado antes. La diferencia principal está en los datos de atribución y en los tilesets de MapBox (que incorporamos con su respectivo ID del mapa). La herramienta de control, son sólo dos líneas: la primera, que crea la variable “mapa base” y que soporta los tilesets (puedes agregar cuantos sets quieras); y la segunda, que crea “el control” y lo incrusta en el mapa. Veamos el control en acción: </p>
+<p><img width="70%" src="https://i.imgur.com/EHuMxuX.gif" alt="Tile set magic" title=""/>  <br />
+<em>Fíjate cómo cambia la atribución (al pie del mapa) al cambiar de un tileset a otro</em> </p>
+<p>¡Ya casi terminamos! </p>
+<p>Ahora lo único que falta es que podamos desplegar nuestros datos. Leaflet hace este proceso bastante sencillo porque es soporte nativo de GeoJSON. Bastan unas pocas líneas de código… pero <strong>primero debes borrar la linea que hace zoom</strong> <code>map.setView([4.598056, -74.075833],14)</code>. Ahora pega este código en la parte de abajo del panel JS: </p>
+<p><script src="https://gist.github.com/mgiraldo/bb98fd95e3dc9166e39a.js?file=x3.js"></script></p>
+<p>Debes copiar el código GeoJSON del archivo de texto que descargaste de GeoJSON.io y pegarlo en donde dice <code>'pegar_geojson_aca_mantener_comillas'</code>. <strong>Asegúrate de conservar las comillas sencillas:  <code>''</code></strong>. Hecho el cambio, esa línea debiera verse como esta (por brevedad reemplacé el contenido de las “features” con un …):</p>
+<p><script src="https://gist.github.com/mgiraldo/93c3457c4f512b34433f.js?file=x4.js"></script></p>
+<p>Ahora, reemplacemos la función del zoom con <code>map.fitBounds(geolayer.getBounds())</code>. Esto hace al mapa “más inteligente”: en lugar de especificar de forma manual la longitud, latitud y el nivel del zoom, dejamos que Leaflet calcule el área que ocupa el set de marcadores con <code>getBounds()</code> y entregue ese valor al mapa mediante la función <code>fitBounds()</code>. Voilá, el zoom del mapa muestra ahora todos los marcadores. Si quieres agregar algunos más… ¡el área cambiará automáticamente!</p>
+<p>También puedes agregar puntos u otra información adicional sobrepuesta en el control de capas. Sólo tienes que crear una variable similar a la que creamos anteriormente y actualizar el código de creación, por ejemplo:</p>
+<p><script src="https://gist.github.com/mgiraldo/bb98fd95e3dc9166e39a.js?file=x5.js"></script></p>
+<p>Cuando presiones “Run” deberás ver algo así: </p>
+<p><img width="70%" src="https://i.imgur.com/jE881o7.png" alt="Hello pins" title=""/>  <br />
+<em>El mapa con datos</em> </p>
+<blockquote><p>
+  <strong>NOTA:</strong> Asegúrate de mover el código de creación del control <code>L.control.layers</code> <strong>por debajo de donde está el GeoJSON</strong>. La variable <code>geolayer</code> necesita existir para poder ser añadida a as otras capas. Puedes guiarte por <a href="http://bit.ly/1K1RcRd">mi resultado en JSFiddle</a> si necesitas más detalles.
+</p></blockquote>
+<p>Otra línea importante es la de la función <code>L.geoJson()</code> que es la encargada de regular el comportamiento de todos los atributos descritos por <code>map.geojson</code>. Leaflet/MapBoxJS tiene por defecto íconos azules para los marcadores, pero <a href="http://leafletjs.com/reference.html#icon" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/3be9cfe00caa6f82061202f614f4c3ae/" data-versiondate="2017-01-24T05:54:27+00:00" data-amber-behavior="">pueden ser modificados si quisieran</a>. <code>L.geoJson()</code> también permite agregar interacción a los marcadores. Si ahora hacemos click con el botón derecho, no pasa nada. </p>
+<h4 id="marcadores-que-cobran-vida">Marcadores que cobran vida.</h4>
+<p>Me gustaría que, al hacer clic sobre un marcador, apareciera una ventana o “popup” con la información que asociamos a cada uno de ellos (en las <code>properties</code> de cada punto). Para lograrlo, tenemos que hacer dos cosas:</p>
+<ol>
+<li>Crear una función que construya y despliegue el popup para cada punto (marcador).</li>
+<li>
+<p>Modificar el llamado <code>L.geoJson()</code> para que utilice esta función.</p>
+</li>
+</ol>
+<p>Leaflet tiene la función <code>bindPopup()</code>, que hace precisamente eso: dibuja una caja con un texto para un determinado <code>layer</code> (el término en inglés para los elementos que se dibujan en el mapa). Este texto puede incluir HTML. Copia y pega este código, debajo de todo lo que llevas hasta el momento:</p>
+<p><script src="https://gist.github.com/mgiraldo/93c3457c4f512b34433f.js?file=x6.js"></script></p>
+<p>Esta función <code>showPopup()</code> recibe un <code>feature</code>, la pieza de GeoJSON que contiene toda la información (geometría y propiedades), y un <code>layer</code> (en nuestro caso, el marcador azul). Estos dos parámetros son procesados automáticamente por la función <code>L.geoJson()</code>. <code>showPopup()</code> extrae las propiedades de cada atributo (nombre, dirección, etc.) y las articula en una cadena HTML que luego es usada para crear el popup. </p>
+<p>Pero para que funcione, tenemos que conectar la función <code>showPopup</code> a algo. Para hacerlo, debemos modificar la actual línea de <code>L.geoJson</code> de la siguiente forma: </p>
+<p><script src="https://gist.github.com/mgiraldo/93c3457c4f512b34433f.js?file=x7.js"></script></p>
+<p>…solamente estamos agregando <code>, {onEachFeature: showPopup}</code> después de <code>geodata</code>. Lo que hicimos fue decirle a Leaflet que aplique la función <code>showPopup</code> a cada atributo en GeoJSON. </p>
+<blockquote><p>
+  <strong>NOTA:</strong> Si nuestro GeoJSON tiene multiples tipos de atributos (por ejemplo: puntos, líneas o polígonos) es importante tener en mente que <strong>la misma función será aplicada a cada uno de ellos</strong>. Por ejemplo, los polígonos tienen un área, pero los puntos no; entonces será necesario que revisemos si el atributo sobre el que clickeamos tiene área antes de intentar usar la función <code>fitBounds</code> en el mapa.
+</p></blockquote>
+<p>Al cargar el mapa y hacer clic sobre un marcador, debiera verse así:</p>
+<p><img width="70%" src="https://i.imgur.com/gz58uZb.png" alt="A popup!" title=""/> </p>
+<p>Se ve bastante bien y todo, pero… ¿no sería mejor <em>ver</em> la foto y quizás linkear a la página que corresponde del directorio? </p>
+<p>¡Hagamos eso! </p>
+<p>Remplacemos la función <code>showPopup</code> con esta: </p>
+<p><script src="https://gist.github.com/mgiraldo/93c3457c4f512b34433f.js?file=x8.js"></script></p>
+<p>Lo que acabamos de hacer fue agregar una cosa más para el popup: Si <code>key</code> es igual a “Page” linkeamos al directorio y si <code>key</code> es igual a “Photo” construimos un contenedor para la imagen que la despliega a 150 pixels de alto (sólo en caso de que sea demasiado grande). </p>
+<p>Así es como se veía el Sr. Núñez: </p>
+<p><img width="50%" src="https://i.imgur.com/0LFioyt.png" alt="Rafael Núñez bio" title=""/> </p>
+<p>…digno de un presidente! </p>
+<p>Y, ahora sí, <strong>casi terminamos</strong>. </p>
+<h4 id="empaquetando">Empaquetando.</h4>
+<p>Lo último sería compilar estos tres <em>snippets</em> de código en una página HTML para que puedas publicar tu nuevo mapa en alguna parte. No te preocupes, para esto hay otra plantilla que tiene marcados los sitios en los que debes pegar el CSS, HTML y JS.  Guarda todo el código como un archivo <code>.html</code> y publícalo donde quieras: </p>
+<p><script src="https://gist.github.com/mgiraldo/bb98fd95e3dc9166e39a.js?file=template.html"></script></p>
+<p><a href="http://bit.ly/nypllabs-geo101-result" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/909b77969c07b6caf9c750eacb727b82/" data-versiondate="2017-01-24T03:13:33+00:00" data-amber-behavior="">Puedes ver el mapa terminado aquí</a>. Sólo hice algunas modificaciones mínimas al CSS para que se viera mejor en la ventana del navegador.</p>
+<p>Ojalá este tutorial sea útil. <a href="https://twitter.com/mgiraldo" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/7bd32ea596d5d61cac2f0bdcc1b862af/" data-versiondate="2017-06-07T02:57:09+00:00" data-amber-behavior="">Cuéntame</a> si tienes algún comentario o sugerencia.</p>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn-resampling">Similar a lo que ocurre <a href="https://en.wikipedia.org/wiki/Sample_rate_conversion" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/77d08d6d3183eed4f4dcbaad0e1b3443/" data-versiondate="2017-01-24T06:04:30+00:00" data-amber-behavior="">con la música</a> cuando se convierte de calidad CD a MP3.  <a href="#fnref-resampling" title="Return to article" class="reversefootnote">&#x21A9;</a></li>
+<li id="fn-maptiles"><a href="https://www.mapbox.com/foundations/how-web-maps-work/">Esta explicación puede ser útil</a> para una introducción más profunda sobre cómo funcionan los tilesets en los mapas web.  <a href="#fnref-maptiles" title="Return to article" class="reversefootnote">&#x21A9;</a></li>
+<li id="fn-caveat">No hice una investigación acuciosa de los nombres, así que puede ser (aunque es improbable) que existan homónimos.  <a href="#fnref-caveat" title="Return to article" class="reversefootnote">&#x21A9;</a></li>
+<li id="fn-geojson">De <a href="http://geojson.org/" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/3afb1a3f9a003237e0d6329166f930c2/" data-versiondate="2017-01-24T04:20:04+00:00" data-amber-behavior="">GeoJSON.org</a> <a href="#fnref-geojson" title="Return to article" class="reversefootnote">&#x21A9;</a></li>
+<li id="fn-magic">¡Todo debiera funcionar así! <a href="#fnref-magic" title="Return to article" class="reversefootnote">&#x21A9;</a></li>
+</ol>
+</div>
+<p><a href="https://mauriciogiraldo.com/blog/2015/03/20/del-papel-a-la-web-haz-tus-propios-mapas-interactivos/" rel="bookmark">Del papel a la web: haz tus propios mapas interactivos.</a> originalmente escrito en <a href="https://mauriciogiraldo.com/blog">mga/blog</a> en March 20, 2015.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>From Paper Maps to the Web: A DIY Digital Maps Primer</title>
+		<link>https://mauriciogiraldo.com/blog/2015/01/08/from-paper-maps-to-the-web-a-diy-digital-maps-primer/</link>
+					<comments>https://mauriciogiraldo.com/blog/2015/01/08/from-paper-maps-to-the-web-a-diy-digital-maps-primer/#comments</comments>
+		
+		<dc:creator><![CDATA[mga]]></dc:creator>
+		<pubDate>Thu, 08 Jan 2015 10:13:42 +0000</pubDate>
+				<category><![CDATA[arte]]></category>
+		<category><![CDATA[diseño]]></category>
+		<category><![CDATA[interacción]]></category>
+		<category><![CDATA[programación]]></category>
+		<category><![CDATA[tips]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">http://www.mauriciogiraldo.com/blog/?p=909</guid>
+
+					<description><![CDATA[Este post fue publicado inicialmente en los blogs de NYPL. Versión en español pronto. I was invited to the National Library of Colombia’s 2nd Digital Book Week as a speaker and to give a workshop on digital mapping tools. I thought it would be useful to share that workshop since it encompasses a lot of [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><em>Este post fue <a href="http://www.nypl.org/blog/2015/01/05/web-maps-primer">publicado inicialmente en los blogs de NYPL</a>. Versión en español pronto.</em></p>
+<p>I was invited to the National Library of Colombia’s <a href="http://www.bibliotecanacional.gov.co/content/segunda-semana-del-libro-digital-2014">2<sup>nd</sup> Digital Book Week</a> as a speaker and to give a workshop on digital mapping tools. I thought it would be useful to share that workshop since it encompasses a lot of different processes and tools that make digital cartography today very accessible. It is a primer on working with various free web mapping tools so you can make your own awesome maps.</p>
+<h2 id="tldr">TL;DR</h2>
+<p>You will make <a href="http://bit.ly/nypllabs-geo101-result" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/909b77969c07b6caf9c750eacb727b82/" data-versiondate="2017-01-24T03:13:33+00:00" data-amber-behavior="">this</a>. This tutorial assumes you have a digitized map and some data you want to overlay on it. The general steps covered are:</p>
+<ol>
+<li>geo-referencing the scanned map so that web tiles can be generated</li>
+<li>generating GeoJSON data to be overlaid</li>
+<li>creating a custom base map (to serve as reference/present day)</li>
+<li>integrating all assets in an interactive web page</li>
+</ol>
+<blockquote><p><strong>Note:</strong> This tutorial assumes you are using <a href="https://www.mozilla.org/en-US/firefox/" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/20021742ac78e09dc8d083b9df121440/" data-versiondate="2017-01-24T03:08:43+00:00" data-amber-behavior="">Mozilla Firefox</a>, <a href="https://www.apple.com/safari/">Apple Safari</a> or <a href="http://www.google.com/chrome/">Google Chrome</a>. You will be playing with the developer console and I don’t have multi-browser instructions.</p></blockquote>
+<h2 id="lets-get-started">Let’s get started!</h2>
+<p><a href="http://bit.ly/nypllabs-geo101-result" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/909b77969c07b6caf9c750eacb727b82/" data-versiondate="2017-01-24T03:13:33+00:00" data-amber-behavior="">This is what we want to make</a>. It is an 1891 map of Bogotá <a href="http://www.bibliotecanacional.gov.co/ultimo2/tools/marco.php?idcategoria=45223" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/0098c503b65c150aa05843fe4bf1c11b/" data-versiondate="2017-01-24T03:28:36+00:00" data-amber-behavior="">available in the National Library of Colombia</a> (link requires Flash Player) annotated with some data found in an <a href="http://www.bibliotecanacional.gov.co/recursos_user/bookreader/1889_sala3a_12756/" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/cdc60f36135ddea5a33f84f17913b5b0/" data-versiondate="2017-01-24T03:34:07+00:00" data-amber-behavior="">1888 Bogotá City Directory</a>.</p>
+<h3 id="1-geo-referencing">1) Geo-referencing</h3>
+<p>The first step after scanning a map is to add geographical data to it; to establish an equivalence between its pixels and the geographic location they represent. This is called geo-referencing. This process will distort the scanned image:</p>
+<p><img title="" src="https://i.imgur.com/UTGlBEk.jpg" alt="Original scan" /><em><br />
+Original scan (shrunk, of course)</em></p>
+<p>…to match the <a href="https://en.wikipedia.org/wiki/Mercator_projection" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/f875cb8e9f51a5243012bc98b0628a69/" data-versiondate="2016-02-24T19:54:54+00:00" data-amber-behavior="">Mercator projection</a> which is used in most web mapping projects such as OpenStreetMap or Google Maps:</p>
+<p><img title="" src="https://i.imgur.com/M6whllY.png" alt="Geo-referenced scan in Mercator projection" /><em><br />
+Geo-referenced scan in Mercator projection</em></p>
+<p>The amount of distortion will depend on the quality of the survey, preservation state and original projection of the map. You may be asking: how did this magically happen? There’s commercial and open-source software that allows you to geo-reference images but the point of this tutorial is doing all of this <em>without installing any software other than your web browser</em>. Enter: The <a href="http://mapwarper.net/">Map Warper</a>! Map Warper is a web tool that lets you upload your scanned maps and provides a simple interface for you to geo-reference them (or “rectify” in geo parlance). Referencing boils down to you telling what part of the scanned map (left) corresponds to what part of the Mercator projection (right):</p>
+<p><a href="https://i.imgur.com/XveF5Q5.png" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/9517b3fff114250c795a60fb8122bfb0/" data-versiondate="2016-02-24T20:18:58+00:00" data-amber-behavior=""><img class="alignnone" src="https://i.imgur.com/XveF5Q5.png" alt="Map Warper" width="479" height="233" /></a><em><br />
+The split-view rectification interface in Map Warper</em></p>
+<p>Notice the pins in the image. Each pin has a number and the same pin is present in both views. From them you can tell that North in the scan is pointing leftwards while East is pointing upwards. <strong>The more pins you add, the more precise the referencing will be but the slower the final image generation.</strong> However, image generation happens only once so I wouldn’t worry too much about that. It’s more an issue of how many pins you are willing to add. The map in this tutorial has 101 pins.</p>
+<p>A final consideration in this process is to make sure you get a high-quality geo-referenced image after distortion. The process of distorting the original image is called <a href="https://en.wikipedia.org/wiki/Image_scaling" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/ebff996902034e83c69bfa1ab3703e70/" data-versiondate="2017-01-24T03:48:42+00:00" data-amber-behavior="">resampling</a> <a id="fnref-resampling" class="footnote" title="See footnote" href="#fn-resampling"><sup>1</sup></a>. In the Map Warper’s <code>Advanced options</code> you can set the method from the low-quality but fast <code>Nearest Neighbour</code> to high-quality but slow <code>Cubic Spline</code>:</p>
+<p><a href="https://i.imgur.com/h5s13Mm.png" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/a4a272ed6789ab53088f5cc09f75a902/" data-versiondate="2016-02-24T20:56:37+00:00" data-amber-behavior=""><img class="alignnone" src="https://i.imgur.com/h5s13Mm.png" alt="Resampling method selection" width="478" height="320" /></a><em><br />
+Select “Cubic Spline” in the Resampling Method option</em></p>
+<p><a href="http://mapwarper.net/maps/4949#Preview_Map_tab">You can view the final map here</a>. You can also download high-resolution assets in the <code>Export</code> tab. However, I think the <strong>main perk</strong> you get from the Map Warper are the <strong>tiles</strong>. It’s that URL template you see here:</p>
+<p><a href="https://i.imgur.com/KP75kOT.png" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/dfe56aeeb7eb834685d1dad7fece6b01/" data-versiondate="2016-02-24T21:17:51+00:00" data-amber-behavior=""><img class="alignnone" src="https://i.imgur.com/KP75kOT.png" alt="Map Warper" width="478" height="195" /></a><em><br />
+You can find the tile URL in the “Export” tab</em></p>
+<p>The template is:</p>
+<p><code>http://mapwarper.net/maps/tile/4949/{z}/{x}/{y}.png</code></p>
+<p>You will need this URL! Keep it somewhere safe. Map Warper has a tile-generating engine that uses the geo-referenced image to produce square map tiles at different zoom levels and coordinates so that only the necessary parts of the interactive map get displayed as you use it<a id="fnref-maptiles" class="footnote" title="See footnote" href="#fn-maptiles"><sup>2</sup></a>. This is an example tile:</p>
+<p><img title="" src="//mapwarper.net/maps/tile/4949/17/38565/63860.png" alt="a web map tile" /><em><br />
+Web maps are made up of millions of these</em></p>
+<h3 id="2-data-extraction">2) Data extraction</h3>
+<p>We have the map. Now we want to figure out what data to show on it. Our example uses <a href="http://www.bibliotecanacional.gov.co/recursos_user/bookreader/1889_sala3a_12756/" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/cdc60f36135ddea5a33f84f17913b5b0/" data-versiondate="2017-01-24T03:34:07+00:00" data-amber-behavior="">this 1888 City Directory of Bogotá</a>, Colombia’s capital city. This directory is information-rich, containing tens of thousands of person names (each with address and occupation), dozens of different occupations (described in <a href="http://www.bibliotecanacional.gov.co/recursos_user/bookreader/1889_sala3a_12756/#page/4/mode/2up" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/55b1826767efe1c11003254ca70721a2/" data-versiondate="2017-01-24T03:58:39+00:00" data-amber-behavior="">page 4</a>) and advertisements (along with many store addresses and owner names).</p>
+<p>The directory provides an interesting view of life in late XIX century Colombia: lawyers, photographers and accountants share pages with saddlers and blacksmiths. I went the boring route and looked for some prominent politicians of the time, such as then-sitting president (<a href="http://www.bibliotecanacional.gov.co/recursos_user/bookreader/1889_sala3a_12756/#page/222/mode/2up" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/05756fcdc9b667b4aff55841dc800ead/" data-versiondate="2017-01-24T04:04:32+00:00" data-amber-behavior="">page 222</a>, first in the second column). The <a href="https://gist.githubusercontent.com/mgiraldo/adc66ff03fc41c88a9ef/raw/db06e19048e1bee737c8897b65517e2e2916af44/directorio%20bogota%CC%81%201888.csv">current list</a> contains seven people: four presidents, a vice-president, a minister and an acting president<a id="fnref-caveat" class="footnote" title="See footnote" href="#fn-caveat"><sup>3</sup></a>. The list includes:</p>
+<ul>
+<li>name</li>
+<li>office (highest office held in the Colombian executive branch)</li>
+<li>term</li>
+<li>page (where it appears in the directory)</li>
+<li>occupation (as displayed in the directory)</li>
+<li>address</li>
+<li>Wikimedia Commons photo URL</li>
+<li>latitude, longitude (a placeholder set to downtown Bogotá that we will change in this step)</li>
+</ul>
+<p><a href="https://gist.githubusercontent.com/mgiraldo/adc66ff03fc41c88a9ef/raw/db06e19048e1bee737c8897b65517e2e2916af44/directorio%20bogota%CC%81%201888.csv">Download the CSV list</a></p>
+<p>You can create your own list from other data you find more interesting or useful. <strong>Make sure to include <code>latitude</code> and <code>longitude</code> columns</strong> and save it as a <a href="https://en.wikipedia.org/wiki/Comma-separated_values" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/9d23c31f2dcc1ace9296037f327563a4/" data-versiondate="2016-02-24T22:27:46+00:00" data-amber-behavior="">comma-separated list</a>.</p>
+<h4 id="geojson">GeoJSON</h4>
+<p>So far our data is contained in a comma-separated list, but web mapping tools generally use the <a href="http://geojson.org/" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/3afb1a3f9a003237e0d6329166f930c2/" data-versiondate="2017-01-24T04:20:04+00:00" data-amber-behavior="">GeoJSON standard</a>. GeoJSON is based on JSON which is one of the most popular ways of structuring data in the web. GeoJSON uses the concept of “features” to describe geographic data. Those features can be points (as is our current case) or <a href="https://en.wikipedia.org/wiki/GeoJSON" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/ed1360949ad54f37bcfe859eb9a50a86/" data-versiondate="2017-01-24T04:24:08+00:00" data-amber-behavior="">more complex geometries</a> such as lines, multilines and polygons. Each feature is described by its <code>geometry</code> (the point, line, polygon itself) accompanied by its <code>properties</code> which is whatever extra data you want to associate with it (in our case, a person’s name, address, photo, etc.). For example<a id="fnref-geojson" class="footnote" title="See footnote" href="#fn-geojson"><sup>4</sup></a>:</p>
+<p>View the code on <a href="https://gist.github.com/mgiraldo/93c3457c4f512b34433f">Gist</a>.</p>
+<p>We need to convert our spreadsheet into a GeoJSON object and then update the placeholder <code>latitude</code> and <code>longitude</code> values to the proper values. We will use the map itself to help us figure out those. We need a tool that lets us generate GeoJSON that we can easily manipulate.</p>
+<p>Enter <a href="http://geojson.io/" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/c79243a87c170dac044061cbfc54abb2/" data-versiondate="2017-01-24T04:30:08+00:00" data-amber-behavior="">GeoJSON.io</a>! This is “a quick, simple tool for creating, viewing, and sharing maps”. GeoJSON.io has this nifty interface we can use to create the GeoJSON we need.</p>
+<p>Go ahead and <a href="http://geojson.io/" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/c79243a87c170dac044061cbfc54abb2/" data-versiondate="2017-01-24T04:30:08+00:00" data-amber-behavior="">open GeoJSON.io</a> in a new browser window. you will see the default map at full zoom out. Now we need to do a little hacking. Right-click somewhere on the map and select <code>Inspect Element</code>:</p>
+<p><a href="https://i.imgur.com/EIqHCRu.gif" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/8d69e5a98a6202df9a9a0ab702d49399/" data-versiondate="2016-02-24T23:25:37+00:00" data-amber-behavior=""><img class="alignnone" src="//i.imgur.com/EIqHCRu.gif" alt="Right-Click -&gt; Inspect Element" width="477" height="327" /></a><em><br />
+Right-Click ? Inspect Element</em></p>
+<p>This opens an advanced developer view that let’s you view and modify the code of the page you are viewing (in this case, the map interface). GeoJSON.io includes a programming interface (API) that lets you control the map being displayed. The core of this site is <a href="https://www.mapbox.com/mapbox.js/">MapBoxJS</a>, which is itself built on top of <a href="http://leafletjs.com/" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/642ad308ded3c92804f33582828190e8/" data-versiondate="2017-01-24T04:40:09+00:00" data-amber-behavior="">Leaflet</a>, an “Open-Source JavaScript Library for Mobile-Friendly Interactive Maps”. I mention both because, for the most part, whatever works on one of them works on the other (<em>do</em> read the documentation before making any decisions!) and I will be referring to it as Leaflet instead of MapBoxJS.</p>
+<p>In the Console tab you’ll see some text and, at the bottom, a cursor where you can execute JavaScript code. You’ll see some comments from the <a href="https://twitter.com/tmcw" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/d02bf615e85e76b5affcde9f5535f7fe/" data-versiondate="2017-01-24T04:44:11+00:00" data-amber-behavior="">creator of GeoJSON.io</a> and a row where you can type new JavaScript commands. Type this in that area and press ENTER (refer to the animated GIF below):</p>
+<p>View the code on <a href="https://gist.github.com/mgiraldo/93c3457c4f512b34433f">Gist</a>.</p>
+<p>This will center and zoom the map in Bogotá, Colombia, the area covered by the 1891 map. Now type this:</p>
+<p>View the code on <a href="https://gist.github.com/mgiraldo/93c3457c4f512b34433f">Gist</a>.</p>
+<p>…and press ENTER. This will add the tile layer itself. Notice that line of code <strong>includes the URL you copied in step 1</strong>. The end result will look something like this:</p>
+<p><a href="https://i.imgur.com/81lQIRG.gif"><img class="alignnone" src="//i.imgur.com/81lQIRG.gif" alt="Before and after executing the commands" width="478" height="426" /></a><em><br />
+A quick “hacking” of GeoJSON.io</em></p>
+<p>You can now close the development window (<em>not</em> the browser window!).</p>
+<blockquote><p><strong>Note:</strong> You will need to re-apply this code every time you load GeoJSON.io since it doesn’t save modifications made via console. You <em>can</em> save the data you add to the map by logging in.</p></blockquote>
+<h4 id="adding-data-to-geojsonio">Adding data to GeoJSON.io</h4>
+<p>Now we will use this modified version of the map as a base to properly geo-locate the <a href="https://gist.githubusercontent.com/mgiraldo/adc66ff03fc41c88a9ef/raw/db06e19048e1bee737c8897b65517e2e2916af44/directorio%20bogota%CC%81%201888.csv">CSV list of presidents</a>.</p>
+<p>Drag the CSV file you downloaded on the map:</p>
+<p><a href="https://i.imgur.com/YL0VrXE.gif" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/579bf440e46a85ce559e6f15cc4a4790/" data-versiondate="2016-02-25T00:18:46+00:00" data-amber-behavior=""><img class="alignnone" src="//i.imgur.com/YL0VrXE.gif" alt="drag and drop magic" width="479" height="210" /></a><em><br />
+Drag and drop magic in GeoJSON.io</em></p>
+<p>You will notice how the data is immediately converted to GeoJSON (right pane) and the map zooms in to show the points that represent each president (left pane). You can see a small green message (top left) showing seven features were imported.</p>
+<p>But the 1891 map disappears! No worries. This just means that the map is zoomed in “too close to the ground” and the tile URL template does not have images up to that level. Zoom out a bit and you will see the 1891 map appear again.</p>
+<h4 id="moving-the-points-around">Moving the points around</h4>
+<p>The points in the CSV are all geo-located on top of each other on the same point in Bogotá’s <a href="https://en.wikipedia.org/wiki/Bol%C3%ADvar_Square" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/826cf684ee90817da56debd7e59c4aa0/" data-versiondate="2016-02-25T01:00:49+00:00" data-amber-behavior="">Plaza de Bolívar</a>. We need to move them to their proper location. If you click the gray pin you will see the additional data for the topmost one (General Rafael Reyes). His address at the time was 50, Calle 16 (50 16th Street). We need to find that address in the map.</p>
+<p>Finding the address will be relatively easy since each block has its starting and ending address numbers written on the corners. You will notice that “Carrera” (vertical-ish streets) numbers increase northward with odd numbers east and even numbers west while “Calle” (horizontal-ish streets) numbers increase westward with odd numbers south and even numbers north:</p>
+<p><a href="https://i.imgur.com/RAQxw8q.gif" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/bed2ee9f35b31a2e2fdde94f56b95fc5/" data-versiondate="2016-02-25T01:15:01+00:00" data-amber-behavior=""><img class="alignnone" src="https://i.imgur.com/RAQxw8q.gif" alt="Address numbers" width="479" height="243" /></a></p>
+<p>We will place the point in the approximate location between corners in a given block. To do so, activate editing mode by clicking the <img title="" src="https://i.imgur.com/52FWtfw.png" alt="Edit icon" /> icon. Pins will have a pink outline and you can move them around. Place the pins in the desired location and click “Save” to commit the changes:</p>
+<p><img title="" src="//i.imgur.com/LEfv82X.gif" alt="Moving points around" /></p>
+<p>There are some tricky addresses but this task can be quite enjoyable since you literally get lost in 1891 Bogotá. An interesting aspect of this map is that government buildings are colored with the <a href="https://en.wikipedia.org/wiki/Flag_of_Colombia" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/6e509a5ad6325f26487ad372fc269f54/" data-versiondate="2016-02-25T01:20:15+00:00" data-amber-behavior="">Colombian flag</a>. When you place <a href="https://es.wikipedia.org/wiki/Rafael_N%C3%BA%C3%B1ez" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/8df3f504da73b6d3a22f6588a1cf3756/" data-versiondate="2016-02-25T01:25:39+00:00" data-amber-behavior="">Rafael Núñez Moledo</a>, the sitting president at the time, you will notice that his address matches one of those flag-colored buildings (the <a href="https://es.wikipedia.org/wiki/Casa_de_Nari%C3%B1o" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/d0d090333dadf4073a690ce132e79df5/" data-versiondate="2017-01-24T05:04:18+00:00" data-amber-behavior="">Casa de Nariño</a>).</p>
+<h4 id="saving-the-geojson">Saving the GeoJSON</h4>
+<p>Now we must generate the final GeoJSON that we will use to create our interactive map. Simply select <code>Save &gt; GeoJSON</code> in the editor menu. A file called <code>map.geojson</code> will be generated and downloaded to your computer. You can also just <a href="https://gist.githubusercontent.com/mgiraldo/924b6bf7cc34402d2cae/raw/377d533d5047905ccbb91d1535cfb604468ea0d0/directorio%20bogota%CC%81%201888.geojson">download the one I did</a>, cheater!</p>
+<h3 id="3-creating-a-2014-custom-map-optional">3) Creating a 2014 custom map (optional)</h3>
+<p>We want to be able to compare this 1891 map with present day Bogotá so we can see how things have changed over time. We need a “base map” which is basically what GeoJSON.io has when you load it: a (hopefully accurate) “plain vanilla” street map of the present day world. You could use the <a href="http://wiki.openstreetmap.org/wiki/Tiles" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/9c9809e5e998f9fa91932c91da10eb59/" data-versiondate="2017-01-24T05:14:25+00:00" data-amber-behavior="">standard OpenStreetMap tiles</a> or use a service such as <a href="https://www.mapbox.com/">MapBox</a> to produce a completely custom map (MapBox uses OSM data). MapBox is quite powerful: it lets you change colors, customize what gets shown (streets, buildings, parks, etc.) and even use satellite imagery!</p>
+<p>I’m not going to describe how to create your own map in MapBox. I will leave that to their <a href="https://www.mapbox.com/guides/intro-to-studio/">excellent tutorial</a>. When you’re done, you will need to write down the Map ID which looks something like <code>username.k53dp4io</code>. You can use the MapBox projects page to see all your maps and easily copy the ID to clipboard:</p>
+<p><img title="" src="//i.imgur.com/se6Hmtd.png" alt="MapBox Map ID" /></p>
+<blockquote><p><strong>NOTE:</strong> If you don’t want to go through the process of customizing your map, you can use an example MapBox ID later.</p></blockquote>
+<h3 id="4-final-assembly">4) Final assembly</h3>
+<p>We now have all the assets required to assemble our interactive map:</p>
+<ul>
+<li>map data in GeoJSON format</li>
+<li>a tile template for the 1891 map</li>
+<li>a tile template or MapBox ID for the 2014 map</li>
+</ul>
+<p>We will prototype the interactive map in <a href="http://jsfiddle.net/">JSFiddle</a>, a tool that lets you quickly create and test HTML/JavaScript/CSS code. Check out <a href="http://doc.jsfiddle.net/tutorial.html" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/06dd861089d39df4cf71a16f72351be8/" data-versiondate="2017-01-24T05:34:22+00:00" data-amber-behavior="">this quick tutorial</a> to familiarize yourself with the interface.</p>
+<p>JSFiddle has four main panes:</p>
+<ul>
+<li>HTML code (top left)</li>
+<li>CSS code (top right)</li>
+<li>JavaScript code (bottom left)</li>
+<li>The end result (bottom right)</li>
+</ul>
+<p>JSFiddle takes care of assembling the three code components into the result every time you click “Run” (in top, blue bar).</p>
+<h4 id="html-css">HTML &amp; CSS</h4>
+<p>In this example the HTML and CSS parts are <em>very</em> simple. We only need a rectangular area in the page that will display the map and all its controls.</p>
+<p>We need an HTML element where the map will go. Type or copy/paste this in the HTML pane:</p>
+<p>View the code on <a href="https://gist.github.com/mgiraldo/93c3457c4f512b34433f">Gist</a>.</p>
+<p>With this code we create a <code>div</code> element whose identifier is <code>map</code> and, as you can imagine, it will contain the map. We now need to “style” the element (give it a width and a height and, if you want to, borders and other attributes). Styling is controlled with CSS. Type or copy/paste this in the CSS pane:</p>
+<p>View the code on <a href="https://gist.github.com/mgiraldo/93c3457c4f512b34433f">Gist</a>.</p>
+<p>This applies a width and a height of 400 pixels to the element whose identifier is <code>map</code> (the <code>#</code> prefix means “id” in CSS). Of course you can make the rectangle bigger (if your monitor is big enough) and apply other attributes between those <code>{ }</code> brackets (e.g.: <code>background-color: #f00;</code> for a red background if you want to see the element with no map) but I just wanted to keep it very simple.</p>
+<p>If you click “Run” now you won’t see much (unless you added a background color or a border to the element). That’s all the HTML and CSS you will need for now.</p>
+<h4 id="adding-mapboxjs">Adding MapBoxJS</h4>
+<p>To present the map and make it interactive we will need some external assets and JavaScript. I mentioned <a href="http://leafletjs.com/" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/642ad308ded3c92804f33582828190e8/" data-versiondate="2017-01-24T04:40:09+00:00" data-amber-behavior="">Leaflet</a> and <a href="https://www.mapbox.com/mapbox.js/">MapBoxJS</a> before. We are going to need them in order to present and control the map. Leaflet is included in MapBoxJS so we just need to worry about the latter. MapBoxJS is composed of two separate files: a JS file and a CSS file. You already have an idea of what the CSS file does. The JavaScript file contains all the interactive mapping magic. These are the URLs to the files in question (note that it is not the latest MapBoxJS version but no worries, it will work):</p>
+<p>CSS file:</p>
+<p><code>https://api.tiles.mapbox.com/mapbox.js/v1.5.0/mapbox.css</code></p>
+<p>JavaScript file:</p>
+<p><code>https://api.tiles.mapbox.com/mapbox.js/v1.5.0/mapbox.js</code></p>
+<p>In the left column in JSFiddle find the “External Resources” section. You need to copy those URLs and paste each in the <code>JavaScript/CSS URI</code> box and click the <code>+</code> button. You will see something like this after you do it:</p>
+<p><img title="" src="https://i.imgur.com/FTBBQmq.png" alt="jQuery in JSFiddle" /><em><br />
+Your “fiddle” once you add the two MapBoxJS files</em></p>
+<p>This will make JSFiddle load those files the next time you click “Run” and from then on.</p>
+<h4 id="hello-map">Hello map!</h4>
+<p><em>Now</em> comes the part we’ve been waiting for! Let’s write some JavaScript so we can see the 1891 map. Write this in the JavaScript pane:</p>
+<p>View the code on <a href="https://gist.github.com/mgiraldo/93c3457c4f512b34433f">Gist</a>.</p>
+<p>…and click “Run”. This is what you should see:</p>
+<p><a href="https://i.imgur.com/C1bj4Pj.png" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/4aa943eab44a442257548e25dc65f1e9/" data-versiondate="2016-02-25T04:39:04+00:00" data-amber-behavior=""><img class="alignnone" src="//i.imgur.com/C1bj4Pj.png" alt="Hello map" width="478" height="242" /></a><em><br />
+You first web map!</em></p>
+<p>Thanks to Leaflet, it’s <em>that</em> easy to work with web maps.</p>
+<blockquote><p><strong>Note:</strong> I’m not going into details here about the different aspects of the Leaflet or MapBoxJS APIs. They each have their own <a href="http://leafletjs.com/examples.html">tutorials</a> and <a href="https://www.mapbox.com/mapbox.js/example/v1.0.0/">examples</a>. I will instead give some code snippets and superficially explain what they do. You will copy, paste and click “Run” and <strong>magic</strong> will happen<a id="fnref-magic" class="footnote" title="See footnote" href="#fn-magic"><sup>5</sup></a>. You will later figure out how to do more awesome things on your own.</p></blockquote>
+<h4 id="managing-multiple-tile-sets">Managing multiple tile sets</h4>
+<p>You may notice that the map is all white except for the 1891 map and that is good. The tile set URL only has the rectified map on it and nothing else. We need to have an additional 2014 tile set to compare (I will use an example MapBox Map ID, in case you did not create your own in step 3 above). We will replace the JS code with new one that will contain:</p>
+<ul>
+<li>some attribution information for the map (useful for when you want to, you know, attribute data in the map)</li>
+<li>the 2014 tile set</li>
+<li>a control that will let us swap one tile set for another</li>
+</ul>
+<p>This code should <strong>replace your previous JS:</strong></p>
+<p>View the code on <a href="https://gist.github.com/mgiraldo/93c3457c4f512b34433f">Gist</a>.</p>
+<p>If you look throught this code you will notice it is quite similar to what we had before. The main differences are the addition of attributions and MapBox tile sets (via the map ID). The control itself is two lines: one to create a <code>baseMaps</code> variable that will hold the tile sets (you can add as many tile sets as you want) and another to create the control and add it to the map. Behold the control in action:</p>
+<p><img title="" src="//i.imgur.com/EHuMxuX.gif" alt="Tile set magic" /><em><br />
+Notice how the attribution changes when you toggle the tile sets</em></p>
+<p>We’re almost there! We now need to display our data. Leaflet makes this process quite easy since it natively supports GeoJSON. The process is just a few lines, but <strong>first remove the map zoom function</strong> <code>map.setView([4.598056, -74.075833],14)</code>. Now paste this code at the bottom of the JS pane:</p>
+<p>View the code on <a href="https://gist.github.com/mgiraldo/93c3457c4f512b34433f">Gist</a>.</p>
+<p>You need to copy the GeoJSON output from the text file you downloaded from GeoJSON.io and paste it where you see <code>'paste_geojson_here_keep_quotes'</code>. <strong>Make sure you keep those quotes!</strong> That line should end up looking something like:</p>
+<p>View the code on <a href="https://gist.github.com/mgiraldo/93c3457c4f512b34433f">Gist</a>.</p>
+<p>We replaced the zoom function with <code>map.fitBounds(geolayer.getBounds())</code>. This makes the map “smarter”: instead of us typing longitude, latitude and zoom level by hand we let Leaflet calculate the bounding area for the set of points provided with <code>getBounds()</code> and pass that as a value to the map’s <code>fitBounds()</code> function. Voilá, the map now zooms to show all the points in the set. If you add more points the bounds will change automatically!</p>
+<p>You can also add the points and any other data overlay to the layer toggler. You just need to create a variable similar to the one you created for the tile sets and update the control creation code:</p>
+<p>View the code on <a href="https://gist.github.com/mgiraldo/93c3457c4f512b34433f">Gist</a>.</p>
+<p>You will see something like this when you click “Run”:</p>
+<p><img title="" src="//i.imgur.com/jE881o7.png" alt="Hello pins" /><em><br />
+Your map with custom data on it</em></p>
+<blockquote><p><strong>Note:</strong> Make sure to move the control creation code <code>L.control.layers</code> to a point <strong>below where the GeoJSON is being parsed</strong>. The <code>geolayer</code> variable needs to exist for it to be added to the <code>overlays</code>. Refer to <a href="http://bit.ly/1K1RcRd">my JSFiddle result</a> for details.</p></blockquote>
+<p>Another important line is the one with the <code>L.geoJson()</code> function. This function parses all the features described by the <code>map.geojson</code>. Leaflet/MapBoxJS have default blue pin icons for point features which you can <a href="http://leafletjs.com/reference.html#icon" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/3be9cfe00caa6f82061202f614f4c3ae/" data-versiondate="2017-01-24T05:54:27+00:00" data-amber-behavior="">customize if you want</a>. <code>L.geoJson()</code> will also let us add some interaction to the pins. Right now clicking them does nothing.</p>
+<h4 id="making-the-pins-come-alive">Making the pins come alive</h4>
+<p>We want to click on the pins and show a popup box with the data we have associated to it (in the feature’s <code>properties</code>). We need to do two things:</p>
+<ol>
+<li>a function that will build and present the popup for a given feature (point)</li>
+<li>modify the <code>L.geoJson()</code> call to use this function</li>
+</ol>
+<p>Leaflet’s <code>bindPopup()</code> layer function does just that: draws a box with text next to a given <code>layer</code>. This text can be marked up with HTML. Copy/paste this code below all you have so far:</p>
+<p>View the code on <a href="https://gist.github.com/mgiraldo/93c3457c4f512b34433f">Gist</a>.</p>
+<p>This <code>showPopup()</code> function receives a <code>feature</code>, the piece of GeoJSON that contains all the information (geometry and properties), and a <code>layer</code>, the same GeoJSON as displayed by Leaflet (in our case, the blue pin). These two parameters are passed automatically by the <code>L.geoJson()</code> function. <code>showPopup()</code> then loops through each property in the feature (name, address, etc.) and builds an HTML string. This string is used as the markup for the popup.</p>
+<p>We have not connected <code>showPopup</code> to anything. Modify your current <code>L.geoJson</code> line as follows:</p>
+<p>View the code on <a href="https://gist.github.com/mgiraldo/93c3457c4f512b34433f">Gist</a>.</p>
+<p>…you are just adding <code>, {onEachFeature: showPopup}</code> after <code>geodata</code>. This tells Leaflet to apply the <code>showPopup</code> function for each feature in the GeoJSON.</p>
+<blockquote><p><strong>Note:</strong> If your GeoJSON contains multiple types of features (e.g.: points, lines and polygons) you need to keep in mind <strong>the same function will be applied to all of them</strong>. For example, polygons have <code>bounds</code> but points do not. You will need to check to see if the feature being clicked has <code>bounds</code> before trying to <code>fitBounds</code> the map.</p></blockquote>
+<p>Running the map and clicking on a pin will result in something like this:</p>
+<p><img title="" src="//i.imgur.com/gz58uZb.png" alt="A popup!" /></p>
+<p>This is nice and all but wouldn’t it be better to actually <em>see</em> the photo and maybe link that page number to the directory itself? Let’s do just that! Replace the <code>showPopup</code> function with this one:</p>
+<p>View the code on <a href="https://gist.github.com/mgiraldo/93c3457c4f512b34433f">Gist</a>.</p>
+<p>We just added a check in the loop: if <code>key</code> equals “Page” we build a link to the directory and if <code>key</code> equals “Photo” we build an image tag and constrain the height to 150 pixels (just in case the image is too big).</p>
+<p>This is how Mr. Núñez looks like now:</p>
+<p><img title="" src="//i.imgur.com/0LFioyt.png" alt="Rafael Núñez bio" /></p>
+<p>…worthy of a president!</p>
+<p>And we’re done!</p>
+<h4 id="wrapping-it-all-up">Wrapping it all up</h4>
+<p>You will want to compile these three code snippets in an HTML page to publish your new map somewhere. Worry not, below is a code snippet that has the requisite spots for you to paste CSS, HTML and JS. Save all the code as a <code>.html</code> file and publish it somewhere:</p>
+<p>View the code on <a href="https://gist.github.com/mgiraldo/93c3457c4f512b34433f">Gist</a>.</p>
+<p><a href="http://bit.ly/nypllabs-geo101-result" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/909b77969c07b6caf9c750eacb727b82/" data-versiondate="2017-01-24T03:13:33+00:00" data-amber-behavior="">You can see the finished map here</a>. I made minor modifications to the CSS to fill the browser window.</p>
+<p>Hope you found this tutorial useful. <a href="https://twitter.com/mgiraldo" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/7bd32ea596d5d61cac2f0bdcc1b862af/" data-versiondate="2017-06-07T02:57:09+00:00" data-amber-behavior="">Drop me a line</a> if you have any comments or questions!</p>
+<div class="footnotes">
+<hr />
+<ol>
+<li id="fn-resampling">Similar to <a href="https://en.wikipedia.org/wiki/Sample_rate_conversion" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/77d08d6d3183eed4f4dcbaad0e1b3443/" data-versiondate="2017-01-24T06:04:30+00:00" data-amber-behavior="">what happens with music</a> when converted from CD quality to MP3. <a class="reversefootnote" title="Return to article" href="#fnref-resampling">&#x21A9;</a></li>
+<li id="fn-maptiles"><a href="https://www.mapbox.com/foundations/how-web-maps-work/">Read this explanation</a> for a better introduction on how web map tiles work. <a class="reversefootnote" title="Return to article" href="#fnref-maptiles">&#x21A9;</a></li>
+<li id="fn-caveat">I did not thoroughly research the names in question so it may be (however unlikely) that they are homonyms. <a class="reversefootnote" title="Return to article" href="#fnref-caveat">&#x21A9;</a></li>
+<li id="fn-geojson">From <a href="http://geojson.org/" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/3afb1a3f9a003237e0d6329166f930c2/" data-versiondate="2017-01-24T04:20:04+00:00" data-amber-behavior="">GeoJSON.org</a> <a class="reversefootnote" title="Return to article" href="#fnref-geojson">&#x21A9;</a></li>
+<li id="fn-magic">Everything should work this way! <a class="reversefootnote" title="Return to article" href="#fnref-magic">&#x21A9;</a></li>
+</ol>
+</div>
+<p><a href="https://mauriciogiraldo.com/blog/2015/01/08/from-paper-maps-to-the-web-a-diy-digital-maps-primer/" rel="bookmark">From Paper Maps to the Web: A DIY Digital Maps Primer</a> originalmente escrito en <a href="https://mauriciogiraldo.com/blog">mga/blog</a> en January 8, 2015.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://mauriciogiraldo.com/blog/2015/01/08/from-paper-maps-to-the-web-a-diy-digital-maps-primer/feed/</wfw:commentRss>
+			<slash:comments>7</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Generative ebook covers</title>
+		<link>https://mauriciogiraldo.com/blog/2014/10/10/generative-ebook-covers/</link>
+		
+		<dc:creator><![CDATA[mga]]></dc:creator>
+		<pubDate>Fri, 10 Oct 2014 16:22:06 +0000</pubDate>
+				<category><![CDATA[general]]></category>
+		<category><![CDATA[programación]]></category>
+		<category><![CDATA[tipografí­a]]></category>
+		<category><![CDATA[visualización]]></category>
+		<guid isPermaLink="false">http://www.mauriciogiraldo.com/blog/?p=886</guid>
+
+					<description><![CDATA[Este post fue publicado inicialmente en los blogs de NYPL. Versión en español pronto. Finding better covers for public domain ebooks Here at NYPL Labs we’re working on an ebook-borrowing and reading app. On the technical side, Leonard Richardson is doing all the back end magic, consolidating multiple data sources for each book into a [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><em>Este post fue <a href="http://www.nypl.org/blog/2014/08/29/generative-ebook-covers">publicado inicialmente en los blogs de NYPL</a>. Versión en español pronto.<br />
+</em></p>
+<p><img title="" src="//i.imgur.com/pdLwuTZ.png" alt="header" width="450" /></p>
+<h3 id="finding-better-covers-for-public-domain-ebooks">Finding better covers for public domain ebooks</h3>
+<p>Here at <a href="http://www.nypl.org/collections/labs">NYPL Labs</a> we’re working on an ebook-borrowing and reading app. On the technical side, <a href="https://twitter.com/leonardr">Leonard Richardson</a> is doing all the back end magic, consolidating multiple data sources for each book into a single concise format: title, author, book cover and description. John Nowak is writing the code of the app itself (that you will be able to download to your phone). I am doing the design (and writing blog posts). Many of the ebooks we will be offering come from public domain sites such as <a href="http://www.gutenberg.org/">Project Gutenberg</a>. If you spend a few minutes browsing that site you will notice that many of its ebooks either have a really crappy cover image or none at all:</p>
+<p><a href="http://www.gutenberg.org/ebooks/46683"><img title="" src="//www.gutenberg.org/cache/epub/46683/pg46683.cover.small.jpg" alt="PG cover" /></a> <a href="http://www.gutenberg.org/ebooks/46681"><img title="" src="//www.gutenberg.org/cache/epub/46681/pg46681.cover.small.jpg" alt="PG cover" /></a> <a href="http://www.gutenberg.org/ebooks/46672"><img title="" src="//www.gutenberg.org/cache/epub/46672/pg46672.cover.small.jpg" alt="PG cover" /></a></p>
+<p>Book covers weren’t a big deal until the 20th century, but now they’re how people first interact with a book, so not having one really puts a book at a disadvantage. They are problematic, and not only in ebooks. It’s difficult to find high-quality, reusable covers of out-of-print or public domain books. There are some projects such as <a href="http://recoveringtheclassics.com/">Recovering the Classics</a> that approach this problem in interesting ways. However, we at NYPL are still left with very limited (and expensive) solutions to this problem.</p>
+<p>Given that the app’s visual quality is highly dependant on ebook cover quality (a wall of bad book covers makes the whole app look bad) we had to have a solution for displaying ebooks with no cover or a bad cover. The easy answer in this situation is doing what retail websites do for products with no associated image: display a generic image.</p>
+<p><img title="" src="//i.imgur.com/nszu54A.jpg" alt="iTunes no cover" height="160" /> <img title="" src="//i.imgur.com/J5LVHEL.jpg" alt="S&amp;S no cover" height="160" /> <img title="" src="//i.imgur.com/sJ3CT4V.gif" alt="Abrams no cover" height="160" /></p>
+<p>This is not a very elegant solution. When dealing with books, it seems lazy to have a “nothing to see here” image. We will have at least a title and an author to work with. The next obvious choice is to make a generic cover that incorporates the book’s title and author. This is also a common choice in software such as iBooks:</p>
+<p><img title="" src="//i.imgur.com/YqjnSsF.png" alt="iBooks cover" /></p>
+<p><a href="https://en.wikipedia.org/wiki/Skeuomorph">Skeuomorphism</a> aside, it is a decent book cover. However, it feels a bit cheesy and I wanted something more in line with the rest of the design of the app (a design which I am leaving for a future post). We need a design that can display very long titles (up to 80 characters) but that would also look good with short ones (two or three characters); it should allow for one credited author, multiple authors or none at all. I decided on a more plain and generic cover image:</p>
+<p><img title="" src="//i.imgur.com/JQjY36C.png" alt="NYPL cover 1" /></p>
+<p>Needless to say this didn’t impress anyone; which is OK because the point was not to impress; we needed <em>a</em> cover that displayed author and title information and was legible to most people and this checked every box… but… at the same time… <em>wouldn’t it be cool if</em>…</p>
+<h2 id="10-print-book-cover">10 PRINT “BOOK COVER”</h2>
+<p>While discussing options for doing a better generative cover I remembered <em><a href="http://10print.org/">10 PRINT</a></em>, a generative-art project and book led by Casey Reas that explores one line of Commodore 64 (C64) code:</p>
+<p><code>10 PRINT CHR$(205.5+RND(1)); : GOTO 10</code></p>
+<p>This code draws one of two possible characters (diagonal up or diagonal down) on the screen at random, over and over again. The C64 screen can show up to 40 characters in a row. The end result is a maze-like graphic like the one seen in this video:</p>
+<p><iframe width="420" height="315" src="//www.youtube-nocookie.com/embed/m9joBLOZVEo?rel=0" frameborder="0" allowfullscreen="allowfullscreen"></iframe></p>
+<p>At the 2012 Eyeo festival, Casey Reas talked about this project, which involves nine other authors who are collected in <a href="http://10print.org/">this book</a>. I <em>highly recommend</em> <a href="https://vimeo.com/45851523#t=30m11s">watching Reas’s presentation</a> (link jumps to 30:11 when <em>10 PRINT</em> is mentioned). The two characters–diagonal up and diagonal down–come from the C64 PETSCII character list which is laid out here on the Commodore keyboard:</p>
+<p><img title="" src="//i.imgur.com/ee1qIPG.png" alt="PETSCII" width="100%" /></p>
+<p>Each key on the PETSCII keyboard has a geometric shape associated with it. These shapes can be used to generate primitive graphics in the C64 operating system. For example, here is a rounded rectangle (I added some space to make it easier to see each character):</p>
+<p><img title="" src="//i.imgur.com/61xJ5a5.png" alt="5" /> <img title="" src="//i.imgur.com/CFr9mB4.png" alt="3" /> <img title="" src="//i.imgur.com/CFr9mB4.png" alt="3" /> <img title="" src="//i.imgur.com/CFr9mB4.png" alt="3" /> <img title="" src="//i.imgur.com/zHx7ke0.png" alt="9" /></p>
+<p><img title="" src="//i.imgur.com/MVOeQK4.png" alt="2" /> <img title="" src="//i.imgur.com/pvF4JZr.png" alt="0" /> <img title="" src="//i.imgur.com/pvF4JZr.png" alt="0" /> <img title="" src="//i.imgur.com/pvF4JZr.png" alt="0" /> <img title="" src="//i.imgur.com/MVOeQK4.png" alt="2" /></p>
+<p><img title="" src="//i.imgur.com/MVOeQK4.png" alt="2" /> <img title="" src="//i.imgur.com/pvF4JZr.png" alt="0" /> <img title="" src="//i.imgur.com/pvF4JZr.png" alt="0" /> <img title="" src="//i.imgur.com/pvF4JZr.png" alt="0" /> <img title="" src="//i.imgur.com/MVOeQK4.png" alt="2" /></p>
+<p><img title="" src="//i.imgur.com/5hKRP5S.png" alt="a" /> <img title="" src="//i.imgur.com/CFr9mB4.png" alt="3" /> <img title="" src="//i.imgur.com/CFr9mB4.png" alt="3" /> <img title="" src="//i.imgur.com/CFr9mB4.png" alt="3" /> <img title="" src="//i.imgur.com/MgqFkjR.png" alt="b" /></p>
+<p>In terms of the letters on the same keyboard, that rectangle looks like this:<br />
+<code><br />
+UCCCI<br />
+B   B<br />
+B   B<br />
+JCCCK<br />
+</code><br />
+<em>10 PRINT</em> was the starting point for my next ebook cover generator. In <em>10 PRINT</em> a non-alphanumeric character is chosen by a random “coin toss” and displayed as a graphic. In my cover generator, a book’s title is transformed into a graphic. Each letter A-Z and digit 0-9 is replaced with its PETSCII graphic equivalent (e.g. the W gets replaced with an empty circle). I used <a href="http://processing.org">Processing</a> to quickly create sketches that allowed for some parameter control such as line thickness and grid size. For characters not on the PETSCII “keyboard” (such as accented Latin letters or Chinese characters) I chose a replacement graphic based on the output of passing the character into Processing’s <code>int()</code> function.</p>
+<h3 id="colors-and-fonts">Colors and fonts</h3>
+<p>In order to have a variety of colors across the books, I decided to use the combined length of the book title and the author’s name as a seed number, and use that seed to generate a color. This color and its complimentary are used for drawing the shapes. Processing has a few functions that let you easily create colors. I used the <a href="https://en.wikipedia.org/wiki/HSL_and_HSV">HSL color space</a> which facilitates generating complimentary colors (each color, or hue in HSL parlance, is located in a point on a circle, its complementary is the diametrically opposite point). The gist code:</p><pre class="crayon-plain-tag">int counts = title.length() + author.length();
+
+// map the count to a number between 30 and 260
+// (seemed to give the best results)
+int colorSeed = int(map(counts, 2, 80, 30, 260));
+
+// use HSL color space
+colorMode(HSB, 360, 100, 100);
+
+// main color is darker
+shapeColor = color(colorSeed, baseSaturation, baseBrightness-(counts%20));
+
+// complementary color
+baseColor = color((colorSeed+180)%360, baseSaturation, baseBrightness);</pre><p>This results in something like:</p>
+<p><img title="" src="//i.imgur.com/uuMcbA0.png" alt="hsl" width="100%" /></p>
+<p>To ensure legibility and avoid clashes with the generated colors, I always use black on white for text. I chose <a href="http://www.fonts.com/font/linotype/avenir-next">Avenir Next</a> as the font. The app as a whole uses that font for its interface, it’s already installed on the OS and it contains glyphs for multiple languages.</p>
+<p>There are more (and better) ways to create colors using code. I didn’t really go down the rabbit hole here but if you feel so inclined, take a look at <a href="http://devmag.org.za/2012/07/29/how-to-choose-colours-procedurally-algorithms/">Herman Tulleken’s work with procedural color palettes</a>, <a href="http://earthobservatory.nasa.gov/blogs/elegantfigures/2013/08/05/subtleties-of-color-part-1-of-6/">Rob Simmon’s extensive work on color</a>, or this cool post on <a href="http://www.panic.com/blog/itunes-11-and-colors/">emulating iTunes 11’s album cover color extractor</a>.</p>
+<h3 id="shapes">Shapes</h3>
+<p>I created a function that draws graphic alternate characters for the letters A-Z and the digits 0-9. I decided to simplify a few graphics to more basic shapes: the PETSCII club (X) became three dots, and the spade (A) became a triangle.</p>
+<p>I wrote a function that draws a shape given a character <code>k</code>, a position <code>x,y</code> and a size <code>s</code>. Here you can see the code for drawing the graphics for the letter Q (a filled circle) and the letter W (an open circle).</p><pre class="crayon-plain-tag">void drawShape(char k, int x, int y, int s) {
+  ellipseMode(CORNER);
+  fill(shapeColor);
+  switch (k) {
+    case 'q':
+    case 'Q':
+      ellipse(x, y, s, s);
+      break;
+    case 'w':
+    case 'W':
+      ellipse(x, y, s, s);
+      s = s-(shapeThickness*2);
+      fill(baseColor);
+      ellipse(x+shapeThickness, y+shapeThickness, s, s);
+      break;
+    // plus all the other letters below
+  }
+}</pre><p>My cover generator calls <code>drawShape</code> repeatedly for each character in a book’s title. The size of the shape is controlled by the length of the title: the longer the title, the smaller the shape.</p>
+<p>Each letter in the title is replaced by a graphic and repeated as many times as it can fit in the space allotted. The resulting grid is a sort of visualization of the title; an alternate alphabet. In the example below, the M in “Macbeth” is replaced by a diagonal downwards stroke (the same character used to great effect in <em>10 PRINT</em>). The A is replaced by a triangle (rather than the club found on the PETSCII keyboard). The C becomes a horizontal line offset from the top, the B a vertical line offset from the left, and so on. Since the title is short, the grid is large, and the full title is not visible, but you get the idea:</p>
+<p><img title="" src="//i.imgur.com/lZXynwS.jpg" alt="10 PRINT &quot;BOOK COVER&quot;" width="100%" /></p>
+<p>There is a <a href="https://github.com/mgiraldo/tenprintcover-p5">Git repository for this cover generator</a> you can play with.</p>
+<p>Some more examples (notice how “Moby Dick”, nine characters including the space, does fit in the 3&#215;3 grid below and how the M in “Max” is repeated):</p>
+<p><img title="" src="//i.imgur.com/UxE9F4t.png" alt="Macbeth" /></p>
+<p><code>MOB<br />
+Y D<br />
+ICK<br />
+</code></p>
+<p><img title="" src="//i.imgur.com/QnxW60L.png" alt="Max" /></p>
+<p><code>MA<br />
+XM<br />
+</code><br />
+And so on:</p>
+<p><img title="" src="//i.imgur.com/SbbvlS2.png" alt="Douglass" /> <img title="" src="//i.imgur.com/KD9t5XZ.png" alt="Aesop" /></p>
+<p>The original design featured the cover on a white (or very light) background. This proved problematic, as the text could be dissociated from the artwork, so we went for a more “enclosed” version (I especially like how the Ruzhen Li cover turned out!):</p>
+<p><img title="" src="//i.imgur.com/6niAJai.png" alt="Doctorow" width="30%" /> <img title="" src="//i.imgur.com/zt5DhWt.png" alt="Li" width="30%" /> <img title="" src="//i.imgur.com/dar2fwM.png" alt="Justice" width="30%" /></p>
+<p>We initially thought about generating all these images and putting them on a server along with the ebooks themselves, but 1) it is an inefficient use of network resources since we needed several different sizes and resolutions and 2) when converted to PNG the covers lose a lot of their quality. I ended up producing an Objective-C version of this code (<a href="https://github.com/mgiraldo/tenprintcover-ios">Git repo</a>) that will run on the device and generate a cover on-the-fly when no cover is available. The Obj-C version subclasses <code>UIView</code> and can be used as a fancy-ish “no cover found” replacement.</p>
+<h2 id="cover-illustrated">Cover, illustrated</h2>
+<p>Of course, these covers do not reflect the content of the book. You can’t get an idea of what the book is about by looking at the cover. However, Leonard brought up the fact that many Project Gutenberg books, <a href="http://www.gutenberg.org/files/20299/20299-h/20299-h.htm">such as this one</a>, include illustrations embedded as JPG or PNG files. We decided to use those images, when they are available, as a starting point for a generated cover. Our idea is to generate one cover for each illustration in a book and let people decide which cover is best using a simple web interface.</p>
+<p>I tried a very basic first pass using Python (which I later abandoned for Processing):</p>
+<p><img title="" src="//i.imgur.com/7aPvLJG.png" alt="Sherlock" /></p>
+<p>This lacks personality and becomes problematic as titles get longer. I then ran into <a href="http://www.lightindustry.org/editions/">Chris Marker and Jason Simon’s work</a>, and was inspired:</p>
+<p><img title="" src="//i.imgur.com/rOgGvdM.jpg" alt="Marker &amp; Simon" width="100%" /></p>
+<p>I liked the desaturated color and emphasis on faces. Faces can be automatically detected in images using computer-vision algorithms, and some of those are included in <a href="http://opencv.org/">OpenCV</a>, an open-source library that <a href="https://github.com/atduskgreg/opencv-processing">can be used in Processing</a>. Here’s my first attempt in the style of Marker and Simon, with and without face detection added:</p>
+<p><img title="" src="//i.imgur.com/aBo9ZUy.png" alt="no cv" /> <img title="" src="//i.imgur.com/dLy56BY.png" alt="cv" /></p>
+<p>I also tried variations on the design, adding or removing elements, and inverting the colors:</p>
+<p><img title="" src="//i.imgur.com/Gq4jmPN.png" alt="no cv line" width="30%" /> <img title="" src="//i.imgur.com/HmF49cu.png" alt="cv line" width="30%" /> <img title="" src="//i.imgur.com/STjUjPd.png" alt="no cv inverted" width="30%" /></p>
+<p>Since Leonard and I couldn’t agree on which variation was best, we decided to create a <a href="https://www.surveymonkey.com/s/NTNMZKV">survey</a> and let the people decide (I am not a fan of this approach, which can easily become a <a href="http://www.zeldman.com/2009/03/20/41-shades-of-blue/">41 shades of blue</a> situation but I also didn’t have a compelling case for either version). The clear winner was, to my surprise, using inverted colors and no face detection:</p>
+<p><img title="" src="//i.imgur.com/GyUiYzT.png" alt="flatland" width="30%" /> <img title="" src="//i.imgur.com/5pz7JXo.png" alt="ten girls" width="30%" /> <img title="" src="//i.imgur.com/ydKpz5C.png" alt="procopius" width="30%" /></p>
+<p>The final Processing sketch (<a href="https://github.com/mgiraldo/imagecoverp5tint">Git repo</a>) has many more parameters than the 10 PRINT generator:</p>
+<p><img title="" src="//i.imgur.com/vJKKaex.jpg" alt="Image Cover P5" width="100%" /></p>
+<h2 id="conclusion">Conclusion</h2>
+<p>As with many subjects, you can go <em>really</em> deep down the rabbit hole when it comes to creating the <em>perfect</em> automated book cover. What if we detect illustrations vs. photographs and produce a different style for each? What about detecting where the main image is so we can crop it better? What if we do some OCR on the images to automatically exclude text-heavy images which will probably not work as covers?</p>
+<p>This can become a never-ending project and we have an app to ship. This is <em>good enough</em> for now. Of course, you are welcome to play with and improve on it:</p>
+<ul>
+<li><a href="https://github.com/mgiraldo/tenprintcover-p5">10 PRINT “BOOK COVER” (Processing version)</a></li>
+<li><a href="https://github.com/mgiraldo/tenprintcover-ios">10 PRINT “BOOK COVER” (iOS version)</a></li>
+<li><a href="https://github.com/mgiraldo/imagecoverp5tint">Cover Illustrated</a></li>
+</ul>
+<p><a href="https://mauriciogiraldo.com/blog/2014/10/10/generative-ebook-covers/" rel="bookmark">Generative ebook covers</a> originalmente escrito en <a href="https://mauriciogiraldo.com/blog">mga/blog</a> en October 10, 2014.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>BodyType v0.1</title>
+		<link>https://mauriciogiraldo.com/blog/2012/03/04/bodytype-v0-1/</link>
+		
+		<dc:creator><![CDATA[mga]]></dc:creator>
+		<pubDate>Sun, 04 Mar 2012 01:00:56 +0000</pubDate>
+				<category><![CDATA[arte]]></category>
+		<category><![CDATA[diseño]]></category>
+		<category><![CDATA[interacción]]></category>
+		<category><![CDATA[kinect]]></category>
+		<category><![CDATA[programación]]></category>
+		<category><![CDATA[tipografí­a]]></category>
+		<guid isPermaLink="false">http://www.mauriciogiraldo.com/blog/?p=879</guid>
+
+					<description><![CDATA[Create fonts by waving in thin air! I have finally found some time to build a semi-standalone binary (Mac OS X 10.6 or better) of BodyType, my Kinect-based font creation software. This version supports only UPPERCASE A-Z and 0-9. If you want to create more glyphs, let me know. The download includes a README.txt file [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><strong>Create fonts by waving in thin air!</strong></p>
+<p>I have <em>finally</em> found some time to build a <a href="http://www.mauriciogiraldo.com/lab/bodytype/bodytype.0.1.zip">semi-standalone binary</a> (Mac OS X 10.6 or better) of <a href="http://www.mauriciogiraldo.com/blog/2011/06/29/body-type/">BodyType</a>, my Kinect-based font creation software.  This version supports <strong>only UPPERCASE A-Z and 0-9.</strong> If you want to create more glyphs, <a href="/contact/">let me know</a>. The download includes a README.txt file that, as its name indicates, you <em>must</em> read. BodyType v0.1 is dependent in other libraries and programs in order to create your fonts properly and that file explains how to install them. They all should be installed with <a href="http://www.macports.org/install.php" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/13437274b2a50d86349e26014578539d/" data-versiondate="2017-01-19T01:13:33+00:00" data-amber-behavior="">MacPorts</a>.</p>
+<p>The code is also available for <a href="http://code.google.com/p/bodytype/" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/f226d6cdb4dbfd2a13300a4ff0a2ccc7/" data-versiondate="2017-01-24T09:45:15+00:00" data-amber-behavior="">download in Google Code</a>.</p>
+<p><iframe src="https://player.vimeo.com/video/25793769?title=0&amp;byline=0&amp;portrait=0&amp;color=80ceff" width="475" height="356" frameborder="0"></iframe></p>
+<p><strong>Acknowledgements</strong></p>
+<p>This project was done as part of the requirements to complete the <a href="http://golancourses.net/2011spring/" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/a57e5090b158a340500a44d1ab0f1d3d/" data-versiondate="2017-01-24T11:29:41+00:00" data-amber-behavior="">Spring 2011 Interactive Art and Computational Design</a> course with Professor Golan Levin in Carnegie Mellon University.</p>
+<p>BodyType was built with <a href="http://www.openframeworks.cc/" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/4ba6ae889c8bb58b9da98f56145cb67f/" data-versiondate="2017-01-24T09:19:13+00:00" data-amber-behavior="">openFrameworks</a> and makes use of <a href="http://www.imagemagick.org" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/e8b2dc847ed6b90fd99bfbe399f2f0fd/" data-versiondate="2017-01-19T01:34:47+00:00" data-amber-behavior="">ImageMagick</a>, <a href="http://fontforge.sourceforge.net/" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/45ece9401f619b20103deeb63842f996/" data-versiondate="2017-01-24T09:48:47+00:00" data-amber-behavior="">FontForge</a> and <a href="http://potrace.sf.net" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/e1a2befd82bedb8f82fb61bed2f3660b/" data-versiondate="2017-01-19T01:43:53+00:00" data-amber-behavior="">Potrace</a>.</p>
+<p><a href="https://mauriciogiraldo.com/blog/2012/03/04/bodytype-v0-1/" rel="bookmark">BodyType v0.1</a> originalmente escrito en <a href="https://mauriciogiraldo.com/blog">mga/blog</a> en March 4, 2012.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Presentando Stereogranimator</title>
+		<link>https://mauriciogiraldo.com/blog/2012/01/26/presentando-stereogranimator/</link>
+		
+		<dc:creator><![CDATA[mga]]></dc:creator>
+		<pubDate>Thu, 26 Jan 2012 11:03:16 +0000</pubDate>
+				<category><![CDATA[arte]]></category>
+		<category><![CDATA[diseño]]></category>
+		<category><![CDATA[historia]]></category>
+		<category><![CDATA[interacción]]></category>
+		<category><![CDATA[programación]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">http://www.mauriciogiraldo.com/blog/?p=872</guid>
+
+					<description><![CDATA[GIF made with the NYPL Labs Stereogranimator Publico esta foto hecha con el Stereogranimator como abrebocas para un post que publicaré más adelante sobre mi trabajo en la Biblioteca Pública de New York.]]></description>
+										<content:encoded><![CDATA[<p><a href="http://stereo.nypl.org/view/210" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/d3c95e0e9db882d435fffe588b87f246/" data-versiondate="2017-01-24T06:13:44+00:00" data-amber-behavior=""><img alt="GIF made with the NYPL Labs Stereogranimator - view more at http://stereo.nypl.org/gallery/index" src="https://i.imgur.com/IvoqaFL.gif" /><br />GIF made with the NYPL Labs Stereogranimator</a></p>
+<p>Publico esta foto hecha con el <a href="http://stereo.nypl.org">Stereogranimator</a> como abrebocas para un post que publicaré más adelante sobre mi trabajo en la <a href="http://nypl.org">Biblioteca Pública de New York</a>.</p>
+<p><a href="https://mauriciogiraldo.com/blog/2012/01/26/presentando-stereogranimator/" rel="bookmark">Presentando Stereogranimator</a> originalmente escrito en <a href="https://mauriciogiraldo.com/blog">mga/blog</a> en January 26, 2012.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>detalles coquetos</title>
+		<link>https://mauriciogiraldo.com/blog/2012/01/22/detalles-coquetos/</link>
+		
+		<dc:creator><![CDATA[mga]]></dc:creator>
+		<pubDate>Sun, 22 Jan 2012 21:32:47 +0000</pubDate>
+				<category><![CDATA[diseño]]></category>
+		<category><![CDATA[interacción]]></category>
+		<category><![CDATA[web]]></category>
+		<guid isPermaLink="false">http://www.mauriciogiraldo.com/blog/?p=866</guid>
+
+					<description><![CDATA[Leyendo un post comentando sobre la compra de Summify por parte de Twitter llego al sitio web del primero: Notarán el video que se insinúa arriba. No es un error. Ese detalle motiva a &#8220;buscar&#8221; el video, ya sea haciendo scroll vertical (que no funciona, pero sería elegante que sí) o dando clic en play. [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>Leyendo un <a href="http://www.mikeindustries.com/blog/archive/2012/01/twitter-buys-summify-gives-everyone-a-reason-to-use-it" title="ver el post"><em>post</em> comentando sobre la compra de Summify por parte de Twitter</a> llego al sitio web del primero:</p>
+<p><a href="https://www.mauriciogiraldo.com/blog/wp-content/uploads/2012/01/Screen-shot-2012-01-22-at-7.54.22-PM.png"><img src="//www.mauriciogiraldo.com/blog/wp-content/uploads/2012/01/Screen-shot-2012-01-22-at-7.54.22-PM-300x215.png" alt="Summify" title="Summify - Página principal - clic para ver grande" width="300" height="215" class="alignnone size-medium wp-image-867" srcset="https://mauriciogiraldo.com/blog/wp-content/uploads/2012/01/Screen-shot-2012-01-22-at-7.54.22-PM-300x215.png 300w, https://mauriciogiraldo.com/blog/wp-content/uploads/2012/01/Screen-shot-2012-01-22-at-7.54.22-PM.png 1013w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>Notarán el video que se insinúa arriba. No es un error. Ese detalle motiva a &#8220;buscar&#8221; el video, ya sea haciendo <em>scroll</em> vertical (que no funciona, pero sería elegante que sí) o dando clic en <e>play. Al dar clic aparece el video:</p>
+<p><a href="https://www.mauriciogiraldo.com/blog/wp-content/uploads/2012/01/Screen-shot-2012-01-22-at-7.55.03-PM.png"><img src="//www.mauriciogiraldo.com/blog/wp-content/uploads/2012/01/Screen-shot-2012-01-22-at-7.55.03-PM-300x214.png" alt="" title="Summify - Viendo el video - clic para ver grande" width="300" height="214" class="alignnone size-medium wp-image-868" srcset="https://mauriciogiraldo.com/blog/wp-content/uploads/2012/01/Screen-shot-2012-01-22-at-7.55.03-PM-300x214.png 300w, https://mauriciogiraldo.com/blog/wp-content/uploads/2012/01/Screen-shot-2012-01-22-at-7.55.03-PM.png 1013w" sizes="(max-width: 300px) 100vw, 300px" /></a></p>
+<p>Me pareció una curiosa forma de &#8220;mostrar el video sin mostrarlo&#8221; sacando provecho de la tendecia que tenemos a <a href="http://es.wikipedia.org/wiki/Psicolog%C3%ADa_de_la_Gestalt" title="Gestalt en Wikipedia">completar las formas</a>.</e></p>
+<p><a href="https://mauriciogiraldo.com/blog/2012/01/22/detalles-coquetos/" rel="bookmark">detalles coquetos</a> originalmente escrito en <a href="https://mauriciogiraldo.com/blog">mga/blog</a> en January 22, 2012.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
+		<title>Body Type updates</title>
+		<link>https://mauriciogiraldo.com/blog/2011/06/29/body-type/</link>
+					<comments>https://mauriciogiraldo.com/blog/2011/06/29/body-type/#comments</comments>
+		
+		<dc:creator><![CDATA[mga]]></dc:creator>
+		<pubDate>Wed, 29 Jun 2011 19:49:20 +0000</pubDate>
+				<category><![CDATA[arte]]></category>
+		<category><![CDATA[diseño]]></category>
+		<category><![CDATA[interacción]]></category>
+		<category><![CDATA[kinect]]></category>
+		<category><![CDATA[programación]]></category>
+		<category><![CDATA[tipografí­a]]></category>
+		<guid isPermaLink="false">http://www.mauriciogiraldo.com/blog/?p=856</guid>
+
+					<description><![CDATA[Update 2: Download a semi-standalone binary (Mac OS X 10.6 or better) of the project. This version supports only UPPERCASE A-Z and 0-9. Working on a Latin-1-friendly version. Update: I have released most of the code for this project so that you can take a look. Send any improvements! ;) A typeface is an environment [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p><em>Update 2: Download a <a href="http://www.mauriciogiraldo.com/lab/bodytype/bodytype.0.1.zip" title="click to download Mac version (OS X 10.6 or better)">semi-standalone binary</a> (Mac OS X 10.6 or better) of the project. This version supports only UPPERCASE A-Z and 0-9. Working on a Latin-1-friendly version.</em></p>
+<p><em>Update: I have released most of the <a href="http://code.google.com/p/bodytype/" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/f226d6cdb4dbfd2a13300a4ff0a2ccc7/" data-versiondate="2017-01-24T09:45:15+00:00" data-amber-behavior="">code for this project</a> so that you can take a look. Send any improvements! ;)</em></p>
+<p><iframe src="//player.vimeo.com/video/25793769?title=0&amp;byline=0&amp;portrait=0&amp;color=80ceff" width="475" height="356" frameborder="0"></iframe></p>
+<p>A typeface is an environment for someone&#8217;s expression: using typefaces we write documents, create posters and subtitle movies. We follow the type creator&#8217;s restrictions and design decisions (kerning, spacing, proportion) when using her fonts. Good typefaces are created by highly-skilled people and can take several years to create. <em>Body Type</em> aims to allow anyone to create a highly expressive and personal typeface using only their body and hand gestures.</p>
+<p><em>Body Type</em> is an excercise on freestyle computing and was built using OpenFrameworks, the Microsoft Kinect sensor, OpenNI, FontForge, Potrace, ImageMagick, PHP, TouchOSC and the Apple iPhone.</p>
+<p><strong>Background</strong></p>
+<p>This project builds on a <a href="http://golancourses.net/2011spring/03/23/project-4-body-font-mauricio-giraldo/" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/d8cc2df799e9401d61422477b2952681/" data-versiondate="2017-01-24T09:39:15+00:00" data-amber-behavior="">previous exercise on generative art</a> that made use of the Kinect OpenNI skeleton system to create letterforms. I decided to take the idea further and create a self-contained application that would allow anyone to create a <a href="http://en.wikipedia.org/wiki/TrueType" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/7f26f6ad1028fe195a8179d65755caf3/" data-versiondate="2017-01-24T09:35:17+00:00" data-amber-behavior="">TrueType</a> font using their body and gestures. The software should allow people to create type using their body in a way evocative of light painting photography:</p>
+<p><a href="http://www.flickr.com/photos/sovietuk/1780992565/" title="love more. by tricky &#x2122;, on Flickr"><img src="//farm3.static.flickr.com/2357/1780992565_e1c5a92c89.jpg" width="500" height="333" alt="love more."/></a></p>
+<p><strong>Technical information</strong></p>
+<p><em>Body Type</em> was created using the Microsoft Kinect sensor which was controlled by a C++ application created using <a href="http://www.openframeworks.cc/" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/4ba6ae889c8bb58b9da98f56145cb67f/" data-versiondate="2017-01-24T09:19:13+00:00" data-amber-behavior="">openFrameworks</a> and its OpenNI extension. This allowed for the 3D input received from the sensor to be converted into variable-width outlines and skeletons. The next issue was creating a TrueType font (.TTF file) from these silhouettes. The font-generation process goes through several stages in order to achieve this:</p>
+<ol>
+<li>Using openFrameworks to generate a black and white bitmap representation of each letter.</li>
+<li><a href="http://www.imagemagick.org/" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/f38303a88a97a1d6b54edaedcd8067b1/" data-versiondate="2017-01-24T09:25:11+00:00" data-amber-behavior="">ImageMagick</a> is used to convert the image to a format compatible with <a href="http://fontforge.sourceforge.net/" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/45ece9401f619b20103deeb63842f996/" data-versiondate="2017-01-24T09:48:47+00:00" data-amber-behavior="">FontForge</a>.</li>
+<li>FontForge makes use of <a href="http://potrace.sourceforge.net/" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/c7b88dc7519a517c8a8b6e00bf7ac1b7/" data-versiondate="2017-01-24T09:55:19+00:00" data-amber-behavior="">Potrace</a> to vectorize the bitmap and then generates the final letterform and font.</li>
+<li>Since <em>Body Type</em> was displayed in the STUDIO for Creative Inquiry as part of an exhibition, web functionality was added so that font-creators could send themselves the resulting files. PHP was used to create a compressed ZIP file of all image and TTF files and send it to the specified email address.</li>
+</ol>
+<p>The created font has six different possible parameters to determine a letterform&#8217;s visual attributes: skeleton lines, skeleton dots, line width, upper body, lower body and hand trails. Since controlling these parameters would be quite complicated to do by using gestures or on-screen menus, a <a href="http://hexler.net/software/touchosc" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/703b0d27d447969ca45d5191e942d82b/" data-versiondate="2017-01-24T09:59:23+00:00" data-amber-behavior="">TouchOSC</a> iOS overlay was created to allow remote control via <a href="http://opensoundcontrol.org/" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/3731c7ea8d1cfb5b6d079eeffbfbca5d/" data-versiondate="2017-01-24T10:05:25+00:00" data-amber-behavior="">Open Sound Control</a>:</p>
+<p><a href="http://www.flickr.com/photos/mgiraldo/5668581588/" title="Body Type iPhone console by m g a, on Flickr"><img src="//farm6.static.flickr.com/5030/5668581588_c26cbbce13.jpg" width="320" height="480" alt="Body Type iPhone console"/></a></p>
+<p><strong>Results</strong></p>
+<p>During the STUDIO exhibition dozens of fonts were created. Below are samples of some of them.</p>
+<p><a href="http://www.flickr.com/photos/mgiraldo/5709784934/" title="meta 2 by m g a, on Flickr"><img src="//farm4.static.flickr.com/3579/5709784934_d9d729f449.jpg" width="500" height="142" alt="meta 2"/></a><br />
+By <a href="http://www.design.cmu.edu/show_person.php?t=f&#038;id=TerryIrwin">Terry Irwin</a></p>
+<p><a href="http://www.flickr.com/photos/mgiraldo/5678372426/" title="shawn sims outline by m g a, on Flickr"><img src="//farm6.static.flickr.com/5104/5678372426_38c38f3276.jpg" width="500" height="142" alt="shawn sims outline"/></a><br />
+By <a href="http://twitter.com/shawn_sims_">Shawn Sims</a></p>
+<p><a href="http://www.flickr.com/photos/mgiraldo/5678620912/" title="heather knight flower alphabet by m g a, on Flickr"><img src="//farm6.static.flickr.com/5302/5678620912_ba6e33fe5c.jpg" width="500" height="94" alt="heather knight flower alphabet"/></a><br />
+By <a href="http://www.marilynmonrobot.com/" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/e6c8ba2024c5b23de47208f5c6e6ea4b/" data-versiondate="2017-01-24T10:38:35+00:00" data-amber-behavior="">Heather Knight</a> (dingbats)</p>
+<p><a href="http://www.flickr.com/photos/mgiraldo/5688023016/" title="chinese whispers by m g a, on Flickr"><img src="//farm6.static.flickr.com/5266/5688023016_213c687672.jpg" width="500" height="98" alt="chinese whispers"/></a><br />
+By <a href="http://www.facebook.com/#!/profile.php?id=643284734">Cong Ma</a> (chinese characters)</p>
+<p><a href="http://www.flickr.com/photos/mgiraldo/5688066958/" title="faste bold by m g a, on Flickr"><img src="//farm6.static.flickr.com/5228/5688066958_67535fb7e7.jpg" width="500" height="144" alt="faste bold"/></a><br />
+By <a href="http://www.haakonfaste.com/" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/9f6ec334bbcb75ded099dfc33186e268/" data-versiondate="2017-01-24T10:59:33+00:00" data-amber-behavior="">Haakon Faste</a></p>
+<p>Creating the font is just part of the process. A font is made to be used. This project acknowledges the limitations of the fonts created both technically (since they lack proper letter spacing) and alphabetically  (since they contain only representations for letters A to Z and numbers 0 to 9). However, these fonts allow for &#8220;freestyle&#8221; graphic experimentation:</p>
+<p><a href="http://golancourses.net/2011spring/wp-content/uploads/blue.jpg" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/ef69938df7f64fb31435745c2d2a5ac2/" data-versiondate="2017-01-24T11:03:33+00:00" data-amber-behavior=""><img src="//i.imgur.com/9jqiJYk.jpg" alt="" title="by Paulo Pinto" width="300" height="300" class="alignnone size-medium wp-image-6884" /></a><br />
+By <a href="http://www.axxostudio.com/">Paulo Pinto</a></p>
+<p><a href="http://golancourses.net/2011spring/wp-content/uploads/nadia.jpeg" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/e3662b8a85e25705e9610a09d6088300/" data-versiondate="2017-01-24T11:13:36+00:00" data-amber-behavior=""><img src="//i.imgur.com/H1yMcuc.jpg" alt="" title="By Juan Carlos Cammaert" width="300" height="300" class="alignnone size-medium wp-image-6885" /></a><br />
+By <a href="http://welovebooks.net/">Juan Carlos Cammaert</a></p>
+<p><a href="http://www.flickr.com/photos/mgiraldo/5663272807/" title="Body Type by m g a, on Flickr"><img src="//farm6.static.flickr.com/5030/5663272807_ca505eab13.jpg" width="324" height="500" alt="Body Type"/></a><br />
+By <a href="http://www.mauriciogiraldo.com/blog">Mauricio Giraldo Arteaga</a></p>
+<p>Further work can be explored creating complete characters sets.</p>
+<p>This project was done as part of the requirements to complete the <a href="http://golancourses.net/2011spring/" data-versionurl="https://mauriciogiraldo.com/blog/amber/cache/a57e5090b158a340500a44d1ab0f1d3d/" data-versiondate="2017-01-24T11:29:41+00:00" data-amber-behavior="">Spring 2011 Interactive Art and Computational Design course</a> with Professor Golan Levin in Carnegie Mellon University.</p>
+<p><a href="https://mauriciogiraldo.com/blog/2011/06/29/body-type/" rel="bookmark">Body Type updates</a> originalmente escrito en <a href="https://mauriciogiraldo.com/blog">mga/blog</a> en June 29, 2011.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://mauriciogiraldo.com/blog/2011/06/29/body-type/feed/</wfw:commentRss>
+			<slash:comments>3</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Body Type</title>
+		<link>https://mauriciogiraldo.com/blog/2011/03/26/body-font/</link>
+		
+		<dc:creator><![CDATA[mga]]></dc:creator>
+		<pubDate>Sat, 26 Mar 2011 16:54:27 +0000</pubDate>
+				<category><![CDATA[arte]]></category>
+		<category><![CDATA[interacción]]></category>
+		<category><![CDATA[kinect]]></category>
+		<category><![CDATA[programación]]></category>
+		<category><![CDATA[tipografí­a]]></category>
+		<category><![CDATA[video]]></category>
+		<guid isPermaLink="false">http://www.mauriciogiraldo.com/blog/?p=838</guid>
+
+					<description><![CDATA[UPDATE: &#8220;Light painting&#8221; test: NUEVO: Prueba con &#8220;dibujo con luz&#8221;: &#8212; Body Type is a body-based font generator using OpenFrameworks, OpenNI and the Kinect sensor. Project for the Spring 2011 Interactive Art &#38; Computational Design course in Carnegie Mellon University golancourses.net/2011spring/ &#8212; Body Type es un generador de tipografías basadas en el cuerpo que usa [&#8230;]]]></description>
+										<content:encoded><![CDATA[<p>UPDATE: &#8220;Light painting&#8221; test:<br />
+<em>NUEVO: Prueba con &#8220;dibujo con luz&#8221;:</em></p>
+<p><iframe src="//player.vimeo.com/video/22129794?title=0&amp;byline=0&amp;portrait=0&amp;color=80ceff" width="475" height="356" frameborder="0"></iframe></p>
+<p>&#8212;</p>
+<p><iframe src="//player.vimeo.com/video/21396223?title=0&amp;byline=0&amp;portrait=0&amp;color=80ceff" width="475" height="356" frameborder="0"></iframe></p>
+<p>Body Type is a body-based font generator using OpenFrameworks, OpenNI and the Kinect sensor.</p>
+<p>Project for the Spring 2011 Interactive Art &amp; Computational Design course in Carnegie Mellon University<br />
+<a href="http://golancourses.net/?2011spring/" rel="nofollow">golancourses.net/2011spring/</a></p>
+<p>&#8212;</p>
+<p><em>Body Type es un generador de tipografías basadas en el cuerpo que usa OpenFrameworks, OpenNI y el Kinect.</p>
+<p>Proyecto para el curso Interactive Art &amp; Computational Design en Carnegie Mellon University<br />
+<a href="http://golancourses.net/?2011spring/" rel="nofollow">golancourses.net/?2011spring/</a></em></p>
+<p><a title="mga bold by m g a, on Flickr" href="http://www.flickr.com/photos/mgiraldo/5552701652/"><img src="//farm6.static.flickr.com/5256/5552701652_0af5068126.jpg" alt="mga bold" width="500" height="374" /></a><br />
+<strong>mga bold</strong></p>
+<p>&nbsp;</p>
+<p><a title="mga outline by m g a, on Flickr" href="http://www.flickr.com/photos/mgiraldo/5552701624/"><img src="//farm6.static.flickr.com/5027/5552701624_b2336f86fa.jpg" alt="mga outline" width="500" height="375" /></a><br />
+<strong>mga outline</strong></p>
+<p><a href="https://mauriciogiraldo.com/blog/2011/03/26/body-font/" rel="bookmark">Body Type</a> originalmente escrito en <a href="https://mauriciogiraldo.com/blog">mga/blog</a> en March 26, 2011.</p>
+]]></content:encoded>
+					
+		
+		
+			</item>
+	</channel>
+</rss>

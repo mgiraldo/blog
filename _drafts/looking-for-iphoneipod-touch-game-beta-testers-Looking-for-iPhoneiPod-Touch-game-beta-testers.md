@@ -14,7 +14,7 @@ categories:
 
 I thought this day would never come! For the past 8 months I have been working (not-actually-full-time work though) on my first iPhone/iPod Touch game. I am more experienced in Flash ActionScript and PHP so the whole [Objective-C/Cocoa Touch](http://developer.apple.com/cocoa/) has been kind of a pain… but one that’s been quite fun. Now the game is almost finished! **I am looking for iPhone or iPod Touch gamers who would be interested in beta-testing the game before launch.** I want to make sure everything works in the different devices and OS versions (at least iPhone OS 3.0). I also want to receive feedback on the game as to how it could be improved.
 
-![](/blog/assets/uploads/2010/04/promo.jpg "promo")
+![](/wp-content/uploads/2010/04/promo.jpg "promo")
 
 If you are interested in testing the game ; ), [please contact me](/contacto/) and I will send you additional information. For you to become a beta tester, **I need your iPhone/iPod Touch’s UDID number** so I can create a beta tester profile in Apple.com. You can find the UDID number using iTunes:
 

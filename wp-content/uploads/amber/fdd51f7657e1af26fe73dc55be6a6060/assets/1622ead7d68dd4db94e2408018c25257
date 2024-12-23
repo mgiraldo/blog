@@ -1,0 +1,1059 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+	<meta content="en-us" http-equiv="Content-Language" />
+	<meta content="text/html; charset=windows-1252" http-equiv="Content-Type" />
+
+   <title>Bill Buxton Home Page</title>
+   <style type="text/css">
+<!--
+ li.MsoNormal
+	{mso-style-parent:"";
+	margin-bottom:.0001pt;
+	font-size:12.0pt;
+	font-family:"Times New Roman";
+	margin-left:0in; margin-right:0in; margin-top:0in}
+.style9 {
+	font-size: x-small;
+}
+.style12 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: large;
+}
+h1
+	{margin-top:24.0pt;
+	margin-right:0in;
+	margin-bottom:0in;
+	margin-left:0in;
+	margin-bottom:.0001pt;
+	line-height:115%;
+	page-break-after:avoid;
+	font-size:14.0pt;
+	font-family:"Cambria","serif";
+	color:#365F91;
+	}
+.style15 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-small;
+}
+.style21 {
+	border-width: 0px;
+}
+.style22 {
+	font-size: medium;
+}
+.style23 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: medium;
+	text-align: center;
+}
+.style24 {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: x-small;
+	text-align: left;
+}
+	
+	b.author {
+		font-size: 14px; color: #333;
+	}	
+	
+	ol
+	{margin-bottom:0in;}
+	
+	.style13 {color: #000000}
+	
+	.style29 {
+	border-top-style: none;
+	border-top-width: medium;
+}
+	
+	.auto-style3 {
+	   font-size: small;
+   }
+	
+	.auto-style4 {
+	text-align: center;
+	font-size: x-large;
+}
+	
+	-->
+   </style>
+   <script type="text/javascript">
+<!--
+function FP_swapImg() {//v1.0
+ var doc=document,args=arguments,elm,n; doc.$imgSwaps=new Array(); for(n=2; n<args.length;
+ n+=2) { elm=FP_getObjectByID(args[n]); if(elm) { doc.$imgSwaps[doc.$imgSwaps.length]=elm;
+ elm.$src=elm.src; elm.src=args[n+1]; } }
+}
+
+function FP_preloadImgs() {//v1.0
+ var d=document,a=arguments; if(!d.FP_imgs) d.FP_imgs=new Array();
+ for(var i=0; i<a.length; i++) { d.FP_imgs[i]=new Image; d.FP_imgs[i].src=a[i]; }
+}
+
+function FP_getObjectByID(id,o) {//v1.0
+ var c,el,els,f,m,n; if(!o)o=document; if(o.getElementById) el=o.getElementById(id);
+ else if(o.layers) c=o.layers; else if(o.all) el=o.all[id]; if(el) return el;
+ if(o.id==id || o.name==id) return o; if(o.childNodes) c=o.childNodes; if(c)
+ for(n=0; n<c.length; n++) { el=FP_getObjectByID(id,c[n]); if(el) return el; }
+ f=o.forms; if(f) for(n=0; n<f.length; n++) { els=f[n].elements;
+ for(m=0; m<els.length; m++){ el=FP_getObjectByID(id,els[n]); if(el) return el; } }
+ return null;
+}
+// -->
+</script>
+</head>
+
+
+
+
+<body text="#330033" bgcolor="#FFFFFF" link="#3333FF" vlink="#551A8B" alink="#3333FF" onload="FP_preloadImgs
+	(/*url*/'indexAssets/button2.jpg', /*url*/'indexAssets/button3.jpg',/*url*/'indexAssets/button4.jpg',/*url*/'indexAssets/button6.jpg', 
+	/*url*/ 'indexAssets/button7.jpg',/*url*/'indexAssets/button9.jpg',/*url*/'indexAssets/buttonA.jpg',/*url*/'indexAssets/button12.jpg',
+	/*url*/'indexAssets/button13.jpg',/*url*/'indexAssets/button1E.jpg',/*url*/'indexAssets/button1F.jpg',/*url*/'indexAssets/button38.jpg',
+	/*url*/'indexAssets/button39.jpg',/*url*/'indexAssets/button3E.jpg',/*url*/'indexAssets/button3F.jpg',/*url*/'indexAssets/button41.jpg',
+	/*url*/'indexAssets/button42.jpg',/*url*/'indexAssets/button44.jpg',/*url*/'indexAssets/button45.jpg',/*url*/'indexAssets/button47.jpg',
+	/*url*/'indexAssets/button48.jpg')">
+
+<center>
+
+<a href="#upcoming">
+	<img id="img1" alt="Upcoming Talks &amp; Events" fp-style="fp-btn: Glass Rectangle 5; fp-proportional: 0" 
+	fp-title="Upcoming Talks &amp; Events" height="20" 
+	onmousedown="FP_swapImg(1,0,/*id*/'img1',/*url*/'indexAssets/button4.jpg')" 
+	onmouseout="FP_swapImg(0,0,/*id*/'img1',/*url*/'indexAssets/button2.jpg')" 
+	onmouseover="FP_swapImg(1,0,/*id*/'img1',/*url*/'indexAssets/button3.jpg')" 
+	onmouseup="FP_swapImg(0,0,/*id*/'img1',/*url*/'indexAssets/button3.jpg')" 
+	src="indexAssets/button2.jpg" style="border: 0" 
+	width="174"></a> 
+	
+<a href="#recent">
+	<img id="img2" alt="New Work &amp; Activities" fp-style="fp-btn: Glass Rectangle 5; fp-proportional: 0" 
+	fp-title="New Work &amp; Activities" height="20" 
+	onmousedown="FP_swapImg(1,0,/*id*/'img2',/*url*/'indexAssets/button7.jpg')" 
+	onmouseout="FP_swapImg(0,0,/*id*/'img2',/*url*/'indexAssets/button5.jpg')" 
+	onmouseover="FP_swapImg(1,0,/*id*/'img2',/*url*/'indexAssets/button6.jpg')" 
+	onmouseup="FP_swapImg(0,0,/*id*/'img2',/*url*/'indexAssets/button6.jpg')" 
+	src="indexAssets/button5.jpg" style="border: 0" 
+	width="174"> </a>
+	
+<a href="#talk">
+<img id="img3" alt="On-line Talks &amp; Interviews" fp-style="fp-btn: Glass Rectangle 5; fp-proportional: 0" 
+	fp-title="On-line Talks &amp; Interviews" height="20" 
+	onmousedown="FP_swapImg(1,0,/*id*/'img3',/*url*/'indexAssets/buttonA.jpg')" 
+	onmouseout="FP_swapImg(0,0,/*id*/'img3',/*url*/'indexAssets/button8.jpg')" 
+	onmouseover="FP_swapImg(1,0,/*id*/'img3',/*url*/'indexAssets/button9.jpg')" 
+	onmouseup="FP_swapImg(0,0,/*id*/'img3',/*url*/'indexAssets/button9.jpg')" 
+	src="indexAssets/button8.jpg" style="border: 0" 
+	width="174"></a>
+	
+<a href="#bio">
+<img id="img4" alt="Biography" fp-style="fp-btn: Glass Rectangle 5; fp-proportional: 0" fp-title="Biography" height="20" 
+	onmousedown="FP_swapImg(1,0,/*id*/'img4',/*url*/'indexAssets/button13.jpg')" 
+	onmouseout="FP_swapImg(0,0,/*id*/'img4',/*url*/'indexAssets/button11.jpg')" 
+	onmouseover="FP_swapImg(1,0,/*id*/'img4',/*url*/'indexAssets/button12.jpg')" 
+	onmouseup="FP_swapImg(0,0,/*id*/'img4',/*url*/'indexAssets/button12.jpg')" 
+	src="indexAssets/button11.jpg" style="border: 0" 
+	width="174"></a>
+	
+<a href="#professional">
+<img id="img6" alt="Papers, Videos, CV,..." fp-style="fp-btn: Glass Rectangle 5; fp-proportional: 0" 
+	fp-title="Papers, Videos, CV,..." height="20" 
+	onmousedown="FP_swapImg(1,0,/*id*/'img6',/*url*/'indexAssets/button39.jpg')" 
+	onmouseout="FP_swapImg(0,0,/*id*/'img6',/*url*/'indexAssets/button37.jpg')" 
+	onmouseover="FP_swapImg(1,0,/*id*/'img6',/*url*/'indexAssets/button38.jpg')" 
+	onmouseup="FP_swapImg(0,0,/*id*/'img6',/*url*/'indexAssets/button38.jpg')" 
+	src="indexAssets/button37.jpg" style="border: 0" 
+	width="174"></a>
+<br/>
+
+<a href="#BW">
+<img id="img5" alt="Recent Columns &amp; Essays" height="20" 
+	onmousedown="FP_swapImg(1,0,/*id*/'img5',/*url*/'indexAssets/button1F.jpg')" 
+	onmouseout="FP_swapImg(0,0,/*id*/'img5',/*url*/'indexAssets/button1D.jpg')" 
+	onmouseover="FP_swapImg(1,0,/*id*/'img5',/*url*/'indexAssets/button1E.jpg')" 
+	onmouseup="FP_swapImg(0,0,/*id*/'img5',/*url*/'indexAssets/button1E.jpg')" 
+	src="indexAssets/button1D.jpg" style="border: 0" 
+	width="174"/><!-- MSComment="ibutton" fp-style="fp-btn: Glass Rectangle 5; fp-proportional: 0" fp-title="Recent Columns & Essays" --></a>
+	
+<a href="#lincoln">
+<img id="img7" alt="Lincoln Lab History" fp-style="fp-btn: Glass Rectangle 5; fp-proportional: 0" fp-title="Lincoln Lab History" height="20" 
+	onmousedown="FP_swapImg(1,0,/*id*/'img7',/*url*/'indexAssets/button3F.jpg')" 
+	onmouseout="FP_swapImg(0,0,/*id*/'img7',/*url*/'indexAssets/button3D.jpg')" 
+	onmouseover="FP_swapImg(1,0,/*id*/'img7',/*url*/'indexAssets/button3E.jpg')" 
+	onmouseup="FP_swapImg(0,0,/*id*/'img7',/*url*/'indexAssets/button3E.jpg')" 
+	src="indexAssets/button3D.jpg" style="border: 0" 
+	width="174"></a>
+	
+<a href="#nrc">
+<img id="img8" alt="NRC History" fp-style="fp-btn: Glass Rectangle 5; fp-proportional: 0" fp-title="NRC History" height="20" 
+	onmousedown="FP_swapImg(1,0,/*id*/'img8',/*url*/'indexAssets/button42.jpg')" 
+	onmouseout="FP_swapImg(0,0,/*id*/'img8',/*url*/'indexAssets/button40.jpg')" 
+	onmouseover="FP_swapImg(1,0,/*id*/'img8',/*url*/'indexAssets/button41.jpg')" 
+	onmouseup="FP_swapImg(0,0,/*id*/'img8',/*url*/'indexAssets/button41.jpg')" 
+	src="indexAssets/button40.jpg" style="border: 0" 
+	width="174"></a>
+	
+<a href="#personal">
+<img id="img9" alt="Personal Pages" fp-style="fp-btn: Glass Rectangle 5; fp-proportional: 0" fp-title="Personal Pages" height="20" 
+	onmousedown="FP_swapImg(1,0,/*id*/'img9',/*url*/'indexAssets/button45.jpg')" 
+	onmouseout="FP_swapImg(0,0,/*id*/'img9',/*url*/'indexAssets/button43.jpg')" 
+	onmouseover="FP_swapImg(1,0,/*id*/'img9',/*url*/'indexAssets/button44.jpg')" 
+	onmouseup="FP_swapImg(0,0,/*id*/'img9',/*url*/'indexAssets/button44.jpg')" 
+	src="indexAssets/button43.jpg" style="border: 0" 
+	width="174"></a>
+	
+<a href="#related">
+<img id="img10" alt="Related Links" fp-style="fp-btn: Glass Rectangle 5; fp-proportional: 0" fp-title="Related Links" height="20" 
+	onmousedown="FP_swapImg(1,0,/*id*/'img10',/*url*/'indexAssets/button48.jpg')" 
+	onmouseout="FP_swapImg(0,0,/*id*/'img10',/*url*/'indexAssets/button46.jpg')" 
+	onmouseover="FP_swapImg(1,0,/*id*/'img10',/*url*/'indexAssets/button47.jpg')" 
+	onmouseup="FP_swapImg(0,0,/*id*/'img10',/*url*/'indexAssets/button47.jpg')" 
+	src="indexAssets/button46.jpg" style="border: 0" 
+	width="174"></a>
+	
+	<br/>
+
+
+<table CELLSPACING=20 CELLPADDING=5 WIDTH="90%"  >
+
+	<tr>
+		<td VALIGN=TOP BGCOLOR="#FFFFFF">
+			<center>
+	
+			<table border="0" id="table1" style="width: 831; height: 480">
+				<tr>
+					<td valign="top" rowspan="2" style="width: 581px" class="style15">			
+						
+						<table style="width: 100%">
+							<tr>
+								<td valign="top">
+									<p class="style23">
+									<a href="canoe.html">
+									<img alt="" height="300" src="indexAssets/EugeniaSm.JPG" width="260" class="style21" /></a></p>
+									<p class="style24"><span class="style22">B</span>irch Bark Canoe Project:<br/>
+									In the late summer of 2010, three friends 
+									and I realized a plan that was 3 years in 
+									the making:&nbsp; to paddle part of the old fur 
+									trade route in Northern Saskatchewan, and to 
+									do so in traditional birch bark 
+									canoes.&nbsp; Of course, you need a canoe to 
+									do so.&nbsp; To learn more about the trip 
+									and the construction of the canoe, click on 
+									the picture above.</p>
+								</td>
+								<td valign="top" style="width: 269px">
+									<p class="style23">
+									<img alt="" height="300" src="indexAssets/CoverAnimation.gif" width="246" /></p>
+									<p class="style24"><span class="style22">S</span>ketching User Experiences:<br />
+									Available inEnglish,
+									<a href="http://www.amazon.cn/mn/detailApp/ref=sr_1_6?_encoding=UTF8&amp;
+									s=books&amp;qid=1272889253&amp;asin=B002ZJXOH0&amp;sr=1-6"  
+									target="_blank">
+									Chinese</a> and 
+									<a href="http://insightbook.co.kr/entry/&#46300;&#45964;-									sketching-user-experience&#49324;&#50857;&#51088;-&#44221;&#54744;-&#49828;&#52992;&#52824;&#44032;-&#45208;&#50741;&#45768;&#45796;" target="_blank">Korean.</a> The English language book can 
+									be ordered from the normal on-line vendors 
+									such as 
+									<a href="http://www.amazon.com/Sketching-User-Experiences-Getting-Design/dp/0123740371/ref=pd_bbs_sr_1/104-7396138-7307151?ie=UTF8&amp;s=books&amp;qid=1177046911&amp;sr=8-1">
+									amazon.com</a> and <a href="http://www.chapters.indigo.ca/books/Sketching-User-Experiences-Getting-Design-Bill-Buxton/9780123740373-item.html?ref=Search+Books%3a+'buxton+sketching'&sterm=buxton+sketching+-+Books" target="_blank">
+									chapters.ca</a>, and is also available as an 
+									e-book for the
+									<a href="http://www.amazon.com/Sketching-User-Experiences-Getting-Design/dp/B001GNBXKQ/ref=sr_1_
+									1?ie=UTF8&amp;s=books&amp;qid=1222710582&amp;sr=8-1"  target="_blank">
+									Kindle</a>.</p>
+									<p class="style24">
+									<a href="http://www.amazon.com/Sketching-User-Experiences-Saul-Greenberg/dp/0123819598/ref=sr_1_1?ie=UTF8&amp;qid=1322408005&amp;sr=8-1" target="_blank">
+									<span class="style22">S</span>ketching User 
+									Experiences: The Workbo<em>ok</em></a><em>:<br />
+									</em>An inexpensive workbook to support the 
+									practice an learning of experience sketching 
+									is English,
+									<a href="http://www.flag.com.tw/book/5105.asp?bokno=F5846">
+									Chinese</a>,
+									<a href="http://www.amazon.de/Sketching-User-Experiences-Arbeitsbuch-Skizziermethoden/dp/3826694597/ref=sr_1_1?s=books&amp;ie=UTF8&amp;qid=1449097948&amp;sr=1-1&amp;keywords=sketching+user+experiences">
+									German</a>, and Korean. </p>
+									<p class="style24">
+									<a href="http://sketchbook.cpsc.ucalgary.ca">
+									<span class="style22">S</span>ketching UX 
+									Resources</a>:<br />
+									A web site with slide decks to teaching, 
+									videos, exercises, etc. to support teaching, 
+									practicing/, learnig &amp; coaching.</p>
+								</td>
+								<td valign="top">
+									<p class="style23">
+									<a target="_blank" href="https://www.microsoft.com/buxtoncollection">
+									<img alt="Buxton Collection" class="style21" height="300" src="indexAssets/Collection.JPG" width="265" /></a>&nbsp;</p>
+									<p class="style24">&nbsp;<span class="style22">T</span>he 
+									&quot;<a target="_blank" href="https://www.microsoft.com/buxtoncollection">Buxton 
+									Collection</a>&quot; is a collection of  
+									interactive devices that I have been 
+									collecting for about 35 years.&nbsp; This 
+									site, created with my colleagues from 
+									Microsoft Research, documents the 
+									collection, and is intended as a resource 
+									for those interested in design, user 
+									experience, and the history of interaction.</p>
+									<p class="style24">Since only about 1/2 the 
+									collection is yet on-line, here is the
+									<a href="Catalogue.pdf">current complete 
+									catalogue</a>.</p>
+									<p class="style24">
+									<a href="http://www.digitalnarratives.net/Experimental.html?NarrativeId=1d2e44a7-738e-4c2f-8966-46eb0c24b77d" target="_blank">This is a prototype video</a> to explore how 
+									we plan to add narratiives that link the 
+									devices in the collection.&nbsp; And, <em>
+									mia culpa, </em>&nbsp;in the very first 
+									example, I misattribute the mouse as being 
+									from the 1982 Xerox 8010 Star workstation, 
+									whereas it is actually from the follow-up 
+									system, the Xerox 6085 &quot;Viewpoint&quot; 
+									workstation.&nbsp; Sigh.</p></td>
+							</tr>
+						</table>
+					</td>
+			
+					<td class="style12" valign="top" align="right"><strong>
+						<p><br/></p>
+					<p>Bill Buxton<br/>
+						<span class="style9">Principal Researcher<br/>
+						Microsoft Research</span></p>
+						<span class="style9">
+						<p>2 Alfresco Lawn<br/>
+						Toronto, Ontario<br/>
+						Canada M4E 1A1</p>
+					<p>Building 99/4106<br/>One Microsoft Way<br/>Redmond, 
+					Washington 98052<br/>USA<br/></p>
+  						<p>Tel: +1 (425) 722-4626 <br/></p>
+						</span>
+						<img border="0" src="email2.jpg" width="162" height="20"/></strong><br />
+					<table style="width: 100%">
+						<tr>
+							<td style="width: 145px">
+							<img alt="" height="20" src="indexAssets/YouTubeLogo.JPG" width="66" /></td>
+							<td><span class="auto-style3">
+							<a href="http://www.youtube.com/user/wasbuxton?blend=1&amp;ob=5" target="_blank">wasbuxton</a></span></td>
+						</tr>
+						<tr>
+							<td class="auto-style3" style="width: 145px">
+							<img alt="" height="20" src="indexAssets/TwitterLogo.JPG" width="59" /></td>
+							<td><span class="auto-style3">
+							<a href="http://twitter.com/#!/search/wasbuxton"  target="_blank">wasbuxton</a></span></td>
+						</tr>
+					</table>
+					<br />
+&nbsp;<br />
+&nbsp;<span class="auto-style3"><br />
+					<br />
+					</span>
+					</td>
+				</tr>
+			</table>
+
+
+			<hr/>
+
+
+			<p class="auto-style4"><em>Ultimately, we are deluding 
+			ourselves if we think that the products that we design are the 
+			&quot;things&quot; that we sell, rather than the individual, social and 
+			cultural experience that they engender, and the value and impact 
+			that they have. Design that ignores this is not worthy of the name. 
+			(Personal mantra.)</em></p>
+			
+
+			<table border="0" width="100%" id="table4" cellspacing="10">
+				<tr>
+					<td valign="top" align="left"class="style29" style="width: 440px">
+						<hr/>
+						<h3><a name="upcoming"></a>Upcoming Talks &amp; Events:.</h3>
+							<p>In order to concentrate on my own work,&nbsp; I 
+							am trying to limit speaking engagements.&nbsp; However, 
+							I will post what public events I do accept here.</p>
+						<ul>
+							<li>Oct. 31-Nov. 3 2019: Keynote, Wild Design for 
+							Living in the Wild&nbsp; <a href="https://canux.io/">CanUX</a>, Ottawa, 
+							Canada.</li>
+							<li>Nov. 11, 2019: Keynote, Ubiety, Mobility &amp; 
+							Transitions: The Quest for Ecological Intelligence,&nbsp;
+							<a href="https://iss.acm.org/2019/">ACM ISS 
+							Interactive Surfaces and Spaces Conference</a>, 
+							KAIST, Daejeon, South Korea.</li>
+							<li>Nov. 15 2019:&nbsp; Keynote,
+							<a href="http://design3-0.org/2019/">Design 3.0</a>, 
+							KAIST, Daejeon, South Korea.</li>
+						</ul>
+						<hr/>
+						<h3><a name="BW"></a>Selected Columns &amp; Essays</h3>
+							<ul>
+  								<li>
+								<a href="Gesture%20Refs.pdf" target="_blank">Comments &amp; Selected 
+								References on Gesture</a>. Draft manuscript, 
+								May, 2013</li>
+								<li>
+								<a href="http://fortune.com/2011/09/21/steve-jobs-patents-a-vital-lesson-for-ceos/">Steve Jobs' patents: A vital lesson for CEOs.</a> 
+								Fortune.&nbsp; Sept. 21st, 2011.</li>
+								<li>
+								<a href="IDSA%20Innovations%20Kodakcommentary.pdf">Design 
+								History Appreciated</a>.&nbsp; Innovation 
+								Quarterly of the Industrial Designers Society of 
+								America,
+								<a href="http://www.idsa.org/2011-summer-issue-now-available">
+								Summer 2011 Issue</a>, p.8.</li>
+								<li>
+								<a href="BW%20Assets/13%20shooting%20toe.pdf" target="_blank">The 
+								Problem with Great Ideas</a>.&nbsp; BusinessWeek.com, 
+								June 9th, 2010.</li>
+								<li>
+								<a href="BW%20Assets/12%20setting%20bar.pdf" target="_blank">Don't Set the Bar Too Low</a>.&nbsp; 
+								BusinessWeek.com, Dec. 14th, 2009.</li>
+								<li>
+								<a href="BW%20Assets/11%20touch%20watches%20full.PDF" target="_blank">The Mad Dash Towards Touch Technology</a>.&nbsp; 
+								BusinessWeek.com, October 21, 2009.</li>
+								<li>
+								<a href="BW%20Assets/10%20I-shaped%20People.pdf" target="_blank">Innovation Calls for I-Shaped People.</a> 
+								BusinessWeek.com, July 13th, 2009.</li>
+								<li>
+								<a href="BW%20Assets/09%20design%20and%20engineering.pdf" target="_blank">On Engineering and Design: An Open Letter.</a> 
+								BusinessWeek.com, April 29th, 2009.</li>
+								<li>
+								<a href="BW%20Assets/08.%20Pencil.pdf" target="_blank">How to Think Outside the Box.</a> 
+								BusinessWeek.com, March 30th, 2009.</li>
+								<li>
+								<a href="BW%20Assets/07.%20bad.pdf" target="_blank">How to Keep Innovating</a><strong>.&nbsp; 
+								</strong>BusinessWeek.com, February 18th, 2009</li>
+								<li>
+								<a href="BW%20Assets/06%20Research%20Policy.pdf" target="_blank">The Price of Forgoing Basic Research</a><strong>.&nbsp; 
+								</strong>BusinessWeek.com, December 17th, 2008.</li>
+								<li>
+								<a href="BW%20Assets/05%20Kodak%20Apple.pdf" target="_blank">Lessons from History:&nbsp; What Apple Learned From 
+								Kodak</a>.&nbsp; BusinessWeek.com, Dec. 5, 2008.</li>
+								<li>
+								<a href="BW%20Assets/04.%20OOM.pdf" target="_blank">A New Mantra for Creativity</a>.&nbsp; 
+								BusinessWeek.com, May 12th, 2008.</li>
+								<li>
+								<a href="BW%20Assets/03a.%20Risk%20Published.pdf" target="_blank">Why Risk is Important<strong>.</strong></a><strong>&nbsp;
+								</strong>BusinessWeek.com, March 12th, 2008.</li>
+								<li>
+								<a href="BW%20Assets/02a.%20A%20Familiar%20Problem%20Published.pdf" target="_blank">A Familiar Problem</a>.&nbsp; BusinessWeek.com, 
+								February 6th, 2008<strong>.</strong></li>
+								<li>
+								<a href="BW%20Assets/01%20The%20Long%20Nose%20of%20Innovation%20Revised.pdf" target="_blank">The Long Nose of Innovation</a>. 
+								BusinessWeek.com, January 2nd, 2008.</li>
+							</ul>
+						<hr/>
+						<h3><a name="recent"></a>Selected Work &amp; Activities</h3>
+							<ul>
+								<li class=MsoNormal><a href="SID10%2031-1.pdf" target="_blank">A 
+								Touching Story: A Personal Perspective on the 
+								History of Touch Interfaces Past and Future</a>.&nbsp;An 
+								invited paper presented in <em>Society for 
+								Information Display (SID) Symposium Digest of 
+								Technical Papers</em>, May 2010, Volume 41(1), 
+								Session 31, 444-448. </li>
+								<li class=MsoNormal><strong>&nbsp;</strong><a href="SID10%2038-2.pdf" target="_blank">Direct 
+								Display Interaction via Simultaneous Pen + 
+								Multi-touch Input</a>.&nbsp;Paper presented by Ken 
+								Hinckley, Michel&nbsp; &amp; myself in <em>Society for 
+								Information Display (SID) Symposium Digest of 
+								Technical Papers</em>, May 2010, Volume 41(1), 
+								Session 38, 537-540.</li>
+								<li class=MsoNormal><a href="manual%20deskterity.pdf" target="_blank">
+								Manual Deskterity : An Exploration of&nbsp; 
+								Simultaneous Pen + Touch Direct Input.</a> 
+									Paper and <a href="http://www.youtube.com/watch?v=9sTgLYH8qWs" target="_blank">
+									video</a> presented , by Ken Hinckley, Koji 
+								Yatani, Michel Pahud, Nicole Coddington, Jenny 
+								Rodenhouse, &amp; myself in,<em>
+									Proceedings of the 28th International 
+								Conference Extended Abstracts on Human Factors 
+								in Computing Systems, CHI'10</em> (alt.chi), 
+								2793 - 2802.</li>
+							</ul>
+						<hr/>
+						<h3><a name="talk"></a>On-line Talks &amp; Interviews</h3>
+							<ul>
+								<li>
+								April 5, 2019: 
+								<a href="https://www.youtube.com/watch?v=wGOBLbTLyeg&amp;t=8150s">
+								Artificial Social Intelligence, Mobility &amp; 
+								Ubiety</a>. Keynote,
+							<a href="ixdasf.ning.com/page/interaction-19-sf-redux">Interaction 19 // redux</a>: San Francisco</li>
+								<li>
+								Wed. Feb. 6, 2019:
+								<a href="https://interaction19.ixda.org/program/keynote--bill-buxton/">
+								Wild Design for Living in the Wild</a>.&nbsp; 
+								Keynote,
+								<a href="https://interaction19.ixda.org/">
+								Interaction 19</a>, Seattle, WA.</li>
+								<li>
+								Jan. 4, 2019. CBC SPARK Podcast,
+								<a href="https://www.cbc.ca/radio/spark/420-1.4965975/wearables-go-beyond-fitness-tracking-to-help-people-with-chronic-health-conditions-1.4965986">
+								Wearables go beyond fitness tracking to help 
+								people with chronic health conditions </a></li>
+								<li>
+								Nov. 29th, 2018, .NET Rocks! Podcast:
+								<a href="https://www.dotnetrocks.com/default.aspx?ShowNum=1602&amp;utm_source=t.co&amp;utm_medium=referral">
+								Morality of Software Development</a>. </li>
+								<li>
+								Oct. 17, 2018, Microsoft Research Podcast,
+								<a href="https://www.microsoft.com/en-us/research/blog/designing-the-future-with-the-help-of-the-past-with-bill-buxton/?OCID=msr_podcast_bbuxton_tw">
+								Designing the Future with the Help of the Past</a>.</li>
+								<li>
+								<span lang="en-ca">May 27th, 2016.
+								<a href="https://www.youtube.com/watch?v=rEeEofRShAQ&amp;index=18&amp;list=PL3_sP0zWUT12Wi7nYBoejXjOA8srrTJgi">
+								Socializing Technology for the Mobile Human</a>.&nbsp; 
+								Keynote, The Next Web Conference, 
+								Amsterdam/Europe.</span></li>
+								<li>
+								March 28, 2013.
+								<a href="http://gvu.gatech.edu/events/gvu-brown-bag-seminar-bill-buxton?destination=node/3164" target="_blank">
+								End Discrimination Now!</a> GVU Distinguished 
+								Brown Bag seminar.&nbsp; 
+							Georgia Tech, Atlanta GA.</li>
+								<li>March 18, 2013.&nbsp;
+								<a href="http://research.microsoft.com/apps/video/default.aspx?id=188797" target="_blank">
+								Designing for Ubiquitous Computing</a>.&nbsp; 
+								MSR TechFest, Redmond.&nbsp; Accompanying slides 
+								can be downloaded
+								<a href="http://www.billbuxton.com/Buxton%20TechFest%202013_v08.ppsx">
+								here</a>.</li>
+								<li>
+								Jan. 30, 2013.&nbsp;
+								<a target="_blank" href="https://www.youtube.com/watch?v=Atsmy_oMLaI">A Tribute to Bill Moggridge, 1943-2012</a>.&nbsp;With 
+								Helen Walters, Ellen Lupton, David Kelley &amp; 
+								Bruce Nussbaum, NYC. </li>
+								<li>
+								Oct. 28th, 2011:&nbsp; 
+								<a href="http://www.youtube.com/watch?v=e0Jqs9IcTJY&amp;feature=youtu.be">
+								Whereable Media:&nbsp; An Ecological Perspective</a>, Keynote,
+								<a href="http://www.tiffnexus.net/locative-media-innovation-day/" target="_blank">
+								TIFF Nexus Locative Media Innovation Day</a> @ 
+								Digifest 2011, Toronto.</li>
+								<li>
+								Oct. 
+								25th, 2011.
+								<a href="http://openwebcast.nl/?p=1165">Design 
+								is Science</a>.&nbsp; A debate with Prof. E.W. 
+								Meijer, Spinoza Laureate and professor of 
+								Chemical Engineering at TU Eindhoven during 
+								Dutch Design Week.</li>
+								<li>March 1st, 2011.
+								<a href="http://www.microsoft.com/canada/momentum/innovation-plus.aspx">
+								Risk and Innovation</a>.&nbsp; Microsoft Canada 
+								CIO Dinner, Toronto.</li>
+								<li>Oct. 13th, 2010.&nbsp; <a href="http://designmind.frogdesign.com/blog/how-design-triggers-transformation.html?utm_source=feedburner&amp;utm_medium=feed&amp;utm_campaign=Feed%3A+frog-design-blog+%28All+Blogs%29">
+								How Design Triggers 
+								Transformation.</a> &nbsp;
+								Speaker,with Tjeerd Hoek &amp;Marcel Kampman,
+								Design Mind Salon, Amsterdam. </li>
+								<li>
+								Oct. 4, 2010.&nbsp; TechTalk:
+							<a href="http://channel9.msdn.com/posts/TechTalk-NUI-Whats-in-a-Name" target="_blank">NUI - 
+							What's in a Name</a>, Microsoft Development Center 
+								Copenhagen, Denmark.</li>
+								<li>
+								July 
+								14th, 2010.
+								<a href="http://digitalwpc.com/Videos/AllVideos/Permalink/1b555c6b-bad5-4e66-b8d1-ab54ed44aa69" target="_blank">
+								On innovation, climate, and peripheral displays</a>.&nbsp; 
+								Video,
+								<a href="http://digitalwpc.com/Videos/AllVideos/Permalink/1b555c6b-bad5-4e66-b8d1-ab54ed44aa69" target="_blank">
+								WPC10</a> Expo Theatre (13:40).May 10th, 2010.
+								<a href="http://www.vimeo.com/12640635" target="_blank">Invited 
+								Presentation</a> (8:49)(via videoconference),
+								<a href="http://thishappened.nl/" target="_blank">This Happened 
+								- Utrecht #6</a>, Utrecht, NL</li>
+								<li>
+								March 31st, 2010.
+								<a href="http://channel9.msdn.com/posts/LauraFoy/Bill-Buxton--Student-Insiders/" target="_blank">
+								Interview with Student Insiders at MIX10</a> 
+								(23:39). Channel 9. </li>
+								<li>
+								March 30th, 2010.
+								<a href="http://channel9.msdn.com/posts/NicFill/Channel-9-Live-at-MIX10-Bill-Buxton--Erik-Meijer-Perspectives-on-Design/" target="_blank">
+								Bill Buxton &amp; Erik Meijer - Perspectives on 
+								Design</a> (29:38).&nbsp; Channel 9.</li>
+								<li>
+								March 25th, 2010, 
+								<a href="http://channel9.msdn.com/Blogs/Bytes+by+MSDN/Bytes-by-MSDN-Bill-Buxton-and-Tim-Huckaby-discuss-Design-Multi-touch-and-Innovation" target="_blank">Interview on Innovation 
+								plus Technology as 
+								&quot;Cultural Artifact</a>&quot; (9:32).&nbsp; Bytes by MSDN.</li>
+								<li>
+								March 21st, 2010,
+								<a href="http://www.youtube.com/watch?v=NcdrfacG_y4" target="_blank">
+								Video on Natural User Interfaces</a> (8:18). 
+								Microsoft Research.</li>
+								<li>
+								March 16th, 2010, 
+								<a href="http://live.visitmix.com/MIX10/Sessions/KEY02" target="_blank">
+								Closing Keynote</a>,
+							<a href="http://live.visitmix.com/" target="_blank">
+								MIX10</a>, Las Vegas. Note, a short segment of 
+								this talk demonstrating a novel paint program, 
+								Project Gustav, using simultaneous pen + touch 
+								is available for view
+								<a href="http://www.youtube.com/watch?v=WET3jAecH68" target="_blank">
+								here</a> (6:50).</li>
+								<li>
+								March 16th, 2010,
+								<a href="http://channel9.msdn.com/events/MIX/MIX10/DS16" target="_blank">An Hour with Bill Buxton</a> (64:44).&nbsp;
+							<a href="http://live.visitmix.com/" target="_blank">
+								MIX10</a>, Las Vegas.</li>
+								<li>
+								<a href="http://channel9.msdn.com/posts/NicFill/A-Conversation-with-Bill-Buxton-and-Albert-Shum-Microsofts-UX-Gurus/Default.aspx?wa=wsignin1.0" target="_blank">
+								A Conversation with Bill Buxton and Albert Shum</a> 
+								(34:26). A conversation about design and design 
+								languages.&nbsp; Channel 9, March 5th, 2010.</li>
+								<li>
+								<a href="http://www.cbc.ca/spark/2010/01/full-interview-bill-buxton-and-jared-spool/http://www.cbc.ca/spark/2010/01/full-interview-bill-buxton-and-jared-spool/" target="_blank">
+								Digital Swiss Army Knives?</a> (38:34).&nbsp; A radio 
+								interview with
+								<a href="http://www.uie.com/ " target="_blank" jQuery1262970455881="10">
+								Jared Spool</a> and myself by CBC's
+								<a href="http://sparkblog.ca/spark/nora/" target="_blank">
+								Nora Young</a> about the relative merits of 
+								single-purpose and multi-function devices [runs 
+								38:34].&nbsp;A shorter version of this discussion 
+								will air on <a href="http://www.cbc.ca/spark" target="_blank">
+								Spark</a> 98, Jan. 10th, 2010.</li>
+								<li>
+								<a href="http://channel9.msdn.com/posts/LarryLarsen/CES-2010-NUI-with-Bill-Buxton/" target="_blank">
+								Natural User Interfaces (NUI)</a> (38:42). An 
+								interview with Larry Larsen, Channel 9, Jan, 
+								6th, 2010.</li>
+								<li>
+								<a href="http://www.tvo.org/cfmx/tvoorg/theagenda/index.cfm?page_id=7&amp;bpn=779675&amp;ts=2009-12-16%2020:00:00.0"  target="_blank">
+								Debate:&nbsp; the Future of Reading</a> (53:06). The 
+								Agenda with Steve Pakin, TV Ontario, Dec. 16th, 
+								2009</li>
+								<li>
+								<a href="http://www.microsoft.com/presspass/videos/default.mspx?VideoGUID=55ae8729-501e-4b52-9f39-6604f191418c"  target="_blank">
+								Computing Everywhere, Naturally</a> (2:57).&nbsp; A 
+								short clip speaking about surface computing and 
+								natural interaction.&nbsp; Nov. 15, 2009.</li>
+								<li>
+								<a href="http://www.businessinnovationfactory.com/iss/video/bif5-bill-buxton#comment-302" target="_blank">
+								On Design, Values &amp; History</a> 
+								(28:00).&nbsp;Talk/Story at
+								<a href="http://www.businessinnovationfactory.com/bif-5" target="_blank">
+								BIF-5 Summit</a>, Business Innovation Factory, 
+								Providence RI, Oct. 7-8, 2009.</li>
+								<li>
+								<a href="http://community.microsoftadvertising.com/blogs/analytics/archive/2009/10/23/bill-buxton-video-by-popular-demand.aspx" target="_blank">
+								The Future of Advertising</a>.&nbsp;
+								<a href="http://advertising.microsoft.com/cannes/programme" target="_blank">
+								Microsoft Business Forum</a>, Lions Advertising 
+								Festival, Cannes, France, June 24, 2009.&nbsp; 
+								Keynote, 
+								</li>
+								<li>
+								<a href="http://www.youtube.com/watch?v=ZvHqSgOX4SU">Innovation and Canada</a> (4:08), Interview with 
+								Canadian Business Magazine, May 28th, 2009.&nbsp; 
+								</li>
+								<li>
+								<a href="http://phillychi.acm.org/?p=198" target="_blank">From the Materialistic to the Experiential:&nbsp; A 
+								Changing Perspective on Design</a>, Joint 
+								PhillyCHI | NJ UPA April Meeting, 
+								Princeton University, April 21, 2009:&nbsp; </li>
+								<li>
+								<a href="http://videos.visitmix.com/MIX09/KEY01" target="_blank">Return on Experience - By Design</a>.&nbsp; Opening 
+								Keynote,&nbsp;
+								<a href="http://2009.visitmix.com/" target="_blank">MIX 09</a>, Las Vegas, March 18 - 20, 2009.</li>
+								<li>
+								<a href="http://intruders.tv/en-tech/remix08-fireside-chat-with-bill-buxton-principal-researcher-at-microsoft/" target="_blank">Interview on touch, design, and interaction</a>, 
+								Intruder's TV, ReMix, Brighton UK, Sept. 28th, 
+								2008.</li>
+								<li>
+								<a href="mms://wm.microsoft.com/ms/research/Events/MSR-NE_Opening_Symposium/07_Experience_of_Design_(Buxton).wmv" target="_blank">Designing Experience/The Experience of Design</a>, 
+								Microsoft Research New England Opening 
+								Symposium, MIT, Sept. 22nd, 2008.</li>
+								<li>
+								<a href="http://ww.cpac.ca/forms/index.asp?dsp=template&amp;act=view3&amp;pagetype=vod&amp;lang=e&amp;clipID=1835" target="_blank">T.S. Eliot's &quot;The Rock&quot; and the Uncertain Path 
+								from Noise to Wisdom</a>.&nbsp; Opening Keynote,
+								<a href="http://www.couch.ca/conference/index.html" target="_blank">77th Annual Summer Conference</a>, Lake 
+								Couchiching, Ontario, Canada, August 7, 2008.</li>
+								<li>
+								<a href="http://www.youtube.com/watch?v=JTfNMJ9ONpg" target="_blank">The Design Ecosystem</a>.&nbsp; Invited Lecture,
+									<a href="http://www.chifoo.org/" target="_blank">CHIFOO</a>, Computer-Human Interaction Forum of 
+								Oregon, June 11, 2008, Portland, OR.</li>
+								<li>
+								<a href="https://vimeo.com/5189134" target="_blank">Design Thinking in the Wild</a>,&nbsp; Guest lecture 
+								at the annual
+									<a href="http://trex.id.iit.edu/events/strategyconference/2008/" target="_blank">IIT Institute of Design Strategy Conference</a>, 
+								May 22, 2008, Chicago IL</li>
+								<li>
+								<a href="http://www.cbc.ca/spark/blog/2008/05/full_interview_does_location_m_1.html" target="_blank">Does Location Matter?</a> CBC interview with 
+								Nora Young,
+								<a href="http://www.meshconference.com/schedule2008/" target="_blank">Mesh Conference</a>, Toronto, May 20, 2008.</li>
+								<li>
+								<a href="http://media.rotman.utoronto.ca/vod?AdminView=yes&amp;mediaid=755" target="_blank">Managing Design / Design Management</a>, talk 
+								delivered as part of the 
+								<a href="http://www.rotman.utoronto.ca/events/index.htm" target="_blank">Design Thinking Speaker Series</a>,. Rotman 
+								School of Business, University of Toronto, April 
+								14, 2008.</li>
+								<li>
+								<a href="http://dmcc.acm.org/pres/?query=/dmcc///confdata/chi2008/plenary/2008-04-10_16h53" target="_blank">On Being Human in a Digital World</a>.&nbsp; Closing 
+								Plenary,
+								<a href="http://www.chi2008.org/" target="_blank">CHI08</a>, Florence Italy, April 10th, 2008.</li>
+								<li>
+								<a href="http://www.brightcove.tv/title.jsp?title=1418571118&amp;channel=1274129191" target="_blank">The Design Eco-System</a><b class="author">, 
+								</b>Keynote,
+									<a href="http://interaction08.ixda.org/" target="_blank">IxDA Interaction 08</a>, SCAD, Savanna, GA., 
+								Feb. 10, 2008.</li>
+								<li class="style13">
+								<a href="http://www.youtube.com/watch?v=ZvHqSgOX4SU" target="_blank">Interview</a> associated with keynote at,
+								<a href="http://site.canadianbusiness.com/leadershipforum/index.html" target="_blank">Canadian Business Leadership Forum</a>, Oct. 
+								18,&nbsp;2007,Toronto, Canada.</li>
+								<li>
+								<a href="http://www.microsoft.com/expression/events-training/globalevent/player/Default.html?Canada_Speaker_1=Bill_Buxton=Design_for_the_Wild:_Sketching_Experiences" target="_blank">Above and Below the Surface: A Perspective 
+								on Interactive Experience.</a> 
+									A talk about user experience and Surface 
+								Computing. 
+									<a href="http://www.microsoft.com/canada/expression/events-training/globalevent/default.aspx" target="_blank">Expression Around the Clock</a>. October, 
+								2007. Toronto, Ontario.</li>
+								<li>
+								<a href="http://channel9.msdn.com/ShowForum.aspx?ForumID=14" target="_blank">Conversation around Design and User 
+								Experience</a>. Video Interview on Channel 9, 
+								Sept. 2007.</li>
+								<li><em>The Importance of Arts and Innovation.</em> 
+								A two-part radio interview with Andy Barrie, 
+								Metro Morning, CBC Radio.
+									<a href="http://cbc.ca/metromorning/media/20070625BX1JUN25.ram" target="_blank">Part I</a>,(7:40),June 25, 2007;
+									<a href="http://www.cbc.ca/metromorning/2007/06/june_26_2007.html" target="_blank">Part II</a> 
+									(5:42), June 26, 2007.</li>
+								<li><em>
+								<a href="http://www.youtube.com/watch?v=xx1WveKV7aE" target="_blank">Sketching and Experience Design</a>, HCI Seminar 
+								on People, Computers and Design, Stanford 
+								University, June 1, 200.</em></li>
+								<li>
+								<a href="http://channel9.msdn.com/media/ju_buxton.mp3" target="_blank">A Conversation About Design Thinking</a>. Phone 
+								interview with
+									<a href="http://blog.jonudell.net/2007/05/31/a-conversation-with-bill-buxton-about-design-thinking/" target="_blank">Jon Udell</a>. May 2007.</li>
+								<li>
+								<a href="http://bostonchi.org/videos.html" target="_blank">Sketching and Experience Design</a>. Nov. 
+								21st, 2006, 
+									<a href="http://www.bostonchi.org/" target="_blank">BostonCHI</a>.</li>
+								<li>
+								<a href="http://www.albertaingenuity.ca/news_detail.aspx?itemid=44" target="_blank">What if Leopold Didn't Have a Piano?</a>, 1st 
+								Annual Ingenuity Lecture, Lethbridge, Calgary 
+								and Edmonton Alberta, Nov. 22, 23 and 25, 2005.
+								<a href="http://www.innovationalberta.com/article.php?articleid=669" target="_blank">Follow-up radio interview.</a></li>
+								<li>
+								<a href="http://videolectures.net/mlmi04ch_buxton_meerm/" target="_blank">Mountains, Exploration, Education, Rich Media &amp; 
+								Design</a>, KMDI, Toronto, Dec. 9, 2004</li>
+								<li>
+								<a href="http://www.icore.ca/webcast_buxton_sml.htm">On Appearances and the 3 Rules of Real Estate</a>.&nbsp; 
+								iCore Summit, Banff, Alberta, June 8, 2004.</li>
+								<li>
+								<a href="http://epresence.tv/mediaContent/archives/2004_apr22/?archiveID=65" target="_blank">The Role of Design in Software Product 
+								Development</a>, KMDI, Toronto, April 22, 2004</li>
+							</ul>
+					</td>
+					<td valign="top" align="left"width="50%">
+						<hr/>
+						<h3><a name="bio"></a>Biography:</h3>
+							<p><span class="style22">B</span>ill Buxton is a 
+							relentless advocate for innovation, design, and - 
+							especially - the appropriate consideration of human 
+							values, capacity, and culture in the conception, 
+							implementation, and use of new products and 
+							technologies.&nbsp; This is reflected in his <a href="papers.html">
+							research</a>, teaching, <a href="#talk">talks</a>, 
+							and writing - including his past column on design and 
+							innovation for
+							<a href="http://www.businessweek.com/innovation/columnists/" target="_blank">
+							BusinessWeek.com</a>, and his 2007 book, <em>
+							<a href="http://www.amazon.com/Sketching-User-Experiences-Getting-Design/dp/0123740371/ref=pd_bbs_sr_1/104-7396138-7307151?ie=UTF8&amp;
+							s=books&amp;qid=1177046911&amp;sr=8-1" target="_blank">
+							Sketching User Experiences</a>.</em></p>
+
+							<p>He is a Partner Researcher at Microsoft Research, 
+							where he has been employed since December 2005. 
+							Prior to that, he was Principal of his own 
+							Toronto-based boutique design and consulting firm, <em>
+							Buxton Design</em>.</p>
+			
+							<p>Buxton began his career as a composer and 
+							performer, having done a Bachelor of Music degree at 
+							Queen's University. He then studied and taught for 
+							two years at the <em><a href="http://www.koncon.nl/" target="_blank">
+							Institute of Sonology,</a> </em>
+							Utrecht, The Netherlands.</p>
+							
+							<p>In 1975 Bill started designing his own digital 
+							musical instruments.&nbsp; This is what led him to the <em><a href="http://www.toronto.edu/uoft.html" target="_blank">
+							University of Toronto</a></em>, at first as an 
+							artist in residence.&nbsp; This led to his earning 
+							an 
+							MSc in Computer Science, after which he joined the 
+							faculty of the Department of Computer Science, where 
+							he is still an adjunct professor.&nbsp; It is this 
+							path which led him to 
+							the field of human-computer interaction, his 
+							technical area of specialty.</p>
+							<p>From 1987-89, Buxton was in Cambridge England, 
+							helping establish a new satellite of Xerox's Palo Alto 
+							Research Center (EuroPARC).&nbsp; From 1989-94 he split 
+							his time between Toronto, where he was Scientific 
+							Director of the <em>Ontario Telepresence Project</em>, 
+							and Palo Alto, California, where he was a consulting 
+							researcher at <em><a href="http://www.parc.xerox.com/parc-go.html" target="_blank">
+							Xerox PARC</a></em>.</p>
+							
+							<p>From 1994 until December 2002, he was Chief Scientist 
+							of <em>Alias|Wavefront</em>, (now part of Autodesk) and 
+							from 1995, its parent company <em>SGI Inc</em>.&nbsp; In 
+							the fall of 2004, he became a part-time instructor in 
+							the Department of Industrial Design at the 
+							<em><a href="http://www.ocad.ca" target="_blank">
+							Ontario College of Art and Design</a></em>.&nbsp; In 
+							2004/05 he was also Visiting Professor at the 
+							<a href="http://www.kmdi.utoronto.ca/" target="_blank">
+							Knowledge Media Design Institute</a> 
+							(KMDI) at the University of Toronto.&nbsp; He currently 
+							splits his time between Redmond and Toronto.  
+							</p>
+		
+							<p>In 1995, Buxton became the third recipient of the 
+							<a href="http://www.cs.ubc.ca/spider/ksbooth/gi/chccs" target="_blank">
+							Canadian Human-Computer Communications Society</a> 
+							Award for contributions to research in computer 
+							graphics and human-computer interaction.&nbsp; In 
+							2000 he was given the New Media Visionary of the 
+							Year Award at the
+							<a href="http://www.cnma.ca/index_e.html" target="_blank">
+							Canadian New Media Awards</a>.&nbsp; In 2001, <em>
+							The Hollywood Reporter</em> 
+							named him one of the 10 most influential innovators 
+							in Hollywood.&nbsp; In 2002,<em> Time Magazine </em>
+							named him one of the top 5 designers in Canada.&nbsp; 
+							Also in 2002, he was elected to the 
+							<em><a href="http://sigchi.org/documents/awards.html#Academy" target="_blank">
+							CHI Academy</a>.</em>&nbsp; In October, 2005, he and 
+							Gord Kurtenbach received the &quot;Lasting Impact Award&quot;, 
+							from ACM <a href="http://www.acm.org/uist/" target="_blank">
+							UIST 2005</a>, which was awarded for their 1991 
+							paper, 
+							<a href="GEdit.html">Issues in Combining Marking and 
+							Direct Manipulation Techniques</a>.&nbsp; In 2008 he 
+							became the 10th recipient of<em> </em>the ACM SIGCHI
+							<a href="http://www.sigchi.org/documents/awards/awards-2008.html#buxton" target="_blank">
+							Lifetime Achievement Award</a>, &quot;for fundamental 
+							contributions to the field of Computer Human 
+							Interaction.&quot;&nbsp; In 2009 he was elected 
+							<a href="http://fellows.acm.org/fellow_citation.cfm?id=7390685&amp;srt=year&amp;year=2008" target="_blank">
+							Fellow of the Association of Computing Machinery</a> 
+							(ACM, for his contributions to the field of 
+							human-computer interaction, and in 2011 he became 
+							the first recipeint of the annual
+							<a href="http://www.grand-nce.ca/newsandmedia/canadian-digital-media-pioneer-awards/bill-buxton-xx">
+							Grand Canadian Digital Media Pioneer Award</a>.</p>
+							
+							<p>Buxton has been awarded four doctorates <em>Honoris 
+							Causa: </em>
+							Doctor of Design from the <a href="http://www.ocad.ca/alumni/hon_doctorates.htm" target="_blank">
+							Ontario College of Art and Design</a>, Toronto, 
+							Ontario (June, 2007), Doctor of Laws from his alma 
+							mater, Queen's University, Kingston Ontario (June, 
+							2009), Doctor of Industrial Design, from the
+							<a href="http://w3.tue.nl/en/news/news_article/?tx_ttnews%5btt_news%5d=8794&amp;tx_ttnews%5bbackPid%5d=361&amp;cHash=0da33b5783" target="_blank">
+							Technical University of Eindhoven</a>, The 
+							Netherlands (April, 2010), where he was also 
+							appointed Distinguished Professor (October, 2010), 
+							and 
+							<a href="https://www.utoronto.ca/news/honorary-graduate-william-buxton">Doctor of Science</a> from his alma mater, The 
+							University of Toronto (June, 2013).</p>
+				
+							<p>From 1998-2004, Buxton was on the board of the <em><a href="http://www.cdnfilmcentre.com/" target="_blank">
+							Canadian Film Centre,</a> </em>and in 1998-99 
+							chaired a panel to advise the premier of Ontario on 
+							developing long term policy to foster <a href="OJIB.html" target="_blank">
+							innovation</a>, through the<em> Ontario Jobs and 
+							Investment Board</em>. He is on the advisory board of 
+							the <a href="http://www.tue.nl/en/university/departments/industrial-design/home-industrial-design/" 
+							target="_blank">Department of Industrial Design</a> of the Technical 
+							University in Eindhoven, the Netherlands, the 
+							President's Advisory Board of the <a href="http://www.ocad.ca/">
+							Ontario College of Art and Design</a>, the Advisory 
+							Council of The Mountaineer's <em>
+							<a href="http://www.mountaineersbooks.org/wp-content/ClientPages/misc_LegendsAndLore.aspx">
+							Legends and Lore</a></em> book series, and in 2018 
+							joined the 
+							<a href="https://canoemuseum.ca/national-council-2/">National 
+							Council</a> of the
+							<a href="http://canoemuseum.ca/">Canadian Canoe 
+							Museum</a>, where he is also a member of the 
+							Collections Committee. Buxton is a 
+							member of the <a href="http://www.acm.org/" target="_blank">
+							Association of Computing Machinery</a> 
+							and the <a href="http://www.idsa.org/" target="_blank">
+							Industrial Designers Society of America</a>.</p>
+
+							<p>Outside of work, Buxton loves the outdoors. He is 
+							especially passionate about mountains, including skiing, 
+							climbing, and touring. This interest extends to the 
+							written word. He has <a href="papers.html#mountains" target="_blank">
+							contributed to the literature</a> on mountain 
+							history and exploration, is an avid
+							<a href="climbing.html">bibliophile</a>, and was on 
+							the jury of the <a href="http://www.banffmountainfestivals.ca/festivals/2005/book/awards.asp" target="_blank">
+							2005 Banff Mountain Book Festival</a>.&nbsp; He is 
+							an accomplished <a href="equestrian.html" target="_blank">equestrian</a>, 
+							and in 1996 was awarded the <em>Veteran Rider of the 
+							Year</em> award from the <em>
+							<a href="http://www.horsetrials.on.ca/" target="_blank">Ontario Horse Trials Association</a>, </em>and in 
+							2000 was named to the <a href="http://www.eventingnews.net/page177.html" target="_blank">
+							Talent Squad</a> of the National Eventing Team.&nbsp; In 
+							addition, he is an avid cyclist, and active paddlerr 
+							- kayaks and canoes.&nbsp; Finally, 
+							he has a life-long fascination with both art and his 
+							wife, the artist <a href="http://www.lizruss.com/">Elizabeth Russ</a>, 
+							owner and operator of Toronto-based <em>
+							<a href="http://www.studio888.ca/" target="_blank">
+							Studio 888</a>,</em> a&nbsp; gallery whose mission 
+							is the promotion of emerging local artists.</p>
+							
+						<hr/>
+						<h3><a name="professional"></a>Papers, Videos, CV, ...</h3>
+							<ul>
+								<li><a href="papers.html">Selected Papers/Articles</a> (sorted by topic)</li>
+								<li><a href="buxtonVideos.html">Selected Research Videos and Demonstrations</a></li>
+								<li><a href="http://www.youtube.com/user/wasbuxton">My YouTube Channel</a></li>
+								<li><a href="cv.html">Curriculum Vitae: includes complete listing of papers, etc.</a></li>
+								<li><a href="patents.html">Patents &amp; Invention Disclosures</a></li>
+								<li><a href="InputSources.html">A Directory of Sources for Input Devices and Technologies</a></li>
+								<li><a href="multitouchOverview.html">Multi-Touch Systems that I Have Known and Loved</a>. 
+									An overview of multi-point touch systems and their history.</li>
+								<li>
+								<a href="inputTimeline.html">Some 
+									Milestones in Computer Input Devices: An Informal Timeline</a>:&nbsp; A timeline and 
+									overview of key innovations in input technologies, such as mice, pens, touch, gesture, etc.</li>
+								<li><a href="briefs.html">Technology Briefs</a> (Studies of various technologies that I have assembled)</li>
+								<li><a href="designNarratives.htm">Design Narratives</a>: A set of informal narratives 
+									describing some of my work.</li>
+								<li><a href="ActiveDesk.html">The Active Desk</a>:&nbsp; A brief history of an electronic drafting table 
+									developed at the University of Toronto in 1992.</li>
+								<li><a href="bill_buxton_design_library.html">
+									Books on Design.</a>&nbsp; This material documents 
+									the books on aspects of design, such as 
+									sketching, design thinking, creativity, etc. 
+									that are in my library.</li>
+								<li><a href="advisory.html">Corporate &amp; Technical Advisory Boards / Committees</a></li>
+							</ul>
+
+						<hr/>
+						<h3><a name="personal"></a>Personal Pages</h3>
+							<ul>
+								<li><a href="climbing.html">Books on History, 
+									Exploration and Mountaineering, with a focus on 
+									Central Asia and the Himalaya.</a>  
+									This is material, including bibliography, 
+									essays, etc. pertaining to my books on Central 
+									Asia and mountaineering.</li>
+								<li><a href="furtrade.html">Books on the early 
+									History of Canada, First Nations, the Fur Trade, 
+									and the Canoe</a>.&nbsp; This is material documenting 
+									this part of my library.</li>
+								<li><a href="billPhotos.html">Photos</a> A 
+									mixture of personal photos. Some high res for PR 
+									purposes, some of historical interest, and some 
+									are just for fun.</li>
+								<li><a href="canoe.html">Birch Bark/ 
+									Birchbark Canoe Project</a>.</li>
+								<li><a href="http://www.gallery888.com">Gallery 
+									888</a>: This is a Toronto art gallery devoted 
+									to the work of emerging artists that was owned 
+									and curated by my wife, the artist Liz Russ.</li>
+								<li><a href="equestrian.html">Horse Stuff</a> : 
+									This just reflects a past obsession. No excuses.</li>
+								<li><a href="cambridge.html">Cambridge 2005</a>:&nbsp; 
+									A brief photo diary of our time in Cambridge, 
+									UK, Jan-April 2005.</li>
+							</ul>
+						<hr/>
+						<h3><a name="lincoln"></a>MIT Lincoln Lab History 
+						Project</h3>
+
+							<p>I am interested in the contribution made to 
+							interactive computing and computer graphics by the 
+							researchers at MIT's Lincoln Lab in the 1950's and 
+							60's. Consequently, I organized a panel including 
+							some of the key protagonists at the 2005 SIGCHI 
+							Conference in Portland Oregon, and I have started a 
+							web page which is intended to be a clearing house 
+							for some of the material on and by the researchers 
+							of the group, which was mainly centred around the 
+							TX-2 computer. The page now includes a video of the 
+							panel session, including the examples. See the 
+							following work in progress:</p>
+							
+							<blockquote>
+  								<p><a href="Lincoln.html" target="_blank">
+								Resource Page on Early HCI Research of the 
+								Lincoln Lab TX-2 Group</a></p>	
+							</blockquote>
+							
+						<hr/>
+						<h3><a name="nrc"></a>NRC of Canada History Project in 
+							Computer Music &amp; Animation</h3>
+
+							<p>The work in computer music and animation in the 
+							early 1970's at the National Research Council of 
+							Canada was extremely important in the field of 
+							human-computer interaction - not just music and 
+							animation.&nbsp; This is where I first saw and used 
+							a computer, and that experience had a huge impact on 
+							shaping my career.&nbsp; The music work, in 
+							particular, is not well known.&nbsp; The following <a href="MyVision.pdf">a book 
+							chapter</a> contains a summary of the system, my 
+							personal experience using it, as well as my comments 
+							on its importance.&nbsp; Through the cooperation of the 
+							NRC and especially my friend and mentor Marceli 
+							Wein, I was able to get some historic 16mm 
+							film footage of these systems digitized.&nbsp; These 
+							can be viewed on my YouTube channel as follows:</p>
+						<ul>
+							<li>
+							<a href="https://www.youtube.com/watch?v=EPIE_h8jf6E&amp;t=6s">
+							Key Frame Animation (1971)</a></li>
+							<li>
+							<a href="https://www.youtube.com/watch?v=Bfq0r6pJzP8&amp;t=7s">
+							The Music Machine (1971)</a></li>
+						</ul>
+
+						<hr/>
+						<h3><a name="related"></a>Related Links:</h3>
+							<ul>
+								<li><a href="http://research.microsoft.com/en-us/" target="_blank">
+									Microsoft Research</a></li>
+								<li><a href="http://research.microsoft.com/aboutmsr/labs/cambridge/default.aspx" target="_blank">
+									Microsoft Research, Cambridge, UK</a></li>
+								<li><a href="http://research.microsoft.com/cml/" target="_blank">Computer-Mediated Living Group</a>, Microsoft 
+									Research Cambridge.</li>
+								<li><a href="http://www.dgp.toronto.edu/" target="_blank">Dynamic Graphics Project:</a> The Computer 
+									Graphics and User Interface Group at the University of Toronto</li>
+								<li>
+									<a href="http://www.tue.nl/en/university/departments/industrial-design/home-industrial-design/"
+									target="_blank">Department of Industrial Design</a>, Technical University of Eindhoven</li>
+								<li><a href="http://www.cs.toronto.edu/" target="_blank">Dept. of Computer Science</a> , University of 
+									Toronto.</li>
+								<li><a href="http://www.kmdi.utoronto.ca/" target="_blank">Knowledge Media Design Institute</a> (KMDI), 
+									University of Toronto </li>
+							</ul>
+					</td>
+				</tr>
+
+				<tr VALIGN=TOP>
+					<td style="width: 440px"><font color="#000000">Last 
+					updated&nbsp;</font><span class="style13">October 23rd, 2019</span></td>
+
+				</tr>
+			</table>
+			</center>
+		</td>
+	</tr>
+</table>
+</center>
+</body>
+</html>

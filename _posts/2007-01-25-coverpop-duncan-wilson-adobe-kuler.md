@@ -13,7 +13,7 @@ categories:
     - web
 ---
 
-[![Coverpop](/blog/assets/uploads/2007/03/coverpop.jpg)](http://www.coverpop.com/pop/visco/)
+[![Coverpop](/wp-content/uploads/2007/03/coverpop.jpg)](http://www.coverpop.com/pop/visco/)
 
 **[Coverpop por Jim Bumgardner](http://www.coverpop.com/pop/visco/)** – Con algo de tiempo libre se pueden hacer cosas bien interesantes. Este personaje decidió crear un í­ndice visual de algunos miles de carátulas de revistas de ciencia ficción, organizado cronológicamente y por tonalidad.
 
