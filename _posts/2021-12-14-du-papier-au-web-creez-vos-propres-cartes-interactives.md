@@ -457,5 +457,3 @@ J’espère que ce tutoriel vous aura été utile. N’hésitez pas à [me conta
 3. Je n’ai pas fait de recherche approfondie sur les noms, il se peut donc (bien que peu probable) que des homonymes existent. [↩](#fnref-caveat)
 4. De [GeoJSON.org](http://geojson.org/) [↩](#fnref-geojson)
 5. ¡Tout devrait fonctionner comme ça! [↩](#fnref-magic)
-
-</body></html>
