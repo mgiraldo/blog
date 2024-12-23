@@ -4,7 +4,6 @@ title: 'todos los derechos reservados ©'
 date: '2009-07-18T15:48:47+00:00'
 author: blog
 layout: post
-guid: 'http://www.mauriciogiraldo.com/blog/?p=290'
 permalink: /blog/2009/07/18/todos-los-derechos-reservados/
 cc_content_license:
     - ''

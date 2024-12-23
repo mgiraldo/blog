@@ -4,8 +4,6 @@ title: 'advergames, taxi web, vida sin mouse'
 date: '2024-12-23T03:41:09+00:00'
 author: blog
 layout: post
-guid: 'http://www.mauriciogiraldo.com/blog/?p=126'
-permalink: '/?p=126'
 categories:
     - general
 ---

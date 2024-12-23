@@ -4,7 +4,6 @@ title: 'Bill Gates y Steve Jobs sentados en la misma sala'
 date: '2007-06-04T01:02:07+00:00'
 author: blog
 layout: post
-guid: 'http://www.mauriciogiraldo.com/blog/2007/06/04/bill-gates-y-steve-jobs-sentados-en-la-misma-sala/'
 permalink: /blog/2007/06/04/bill-gates-y-steve-jobs-sentados-en-la-misma-sala/
 categories:
     - diseño

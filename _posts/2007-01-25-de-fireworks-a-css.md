@@ -4,7 +4,6 @@ title: 'Pasando de Fireworks a CSS&#8230;'
 date: '2007-01-25T09:34:04+00:00'
 author: blog
 layout: post
-guid: 'http://www.mauriciogiraldo.com/blog/?p=12'
 permalink: /blog/2007/01/25/de-fireworks-a-css/
 categories:
     - diseño

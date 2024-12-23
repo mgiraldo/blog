@@ -4,7 +4,6 @@ title: 'Visualización de información, diseño de interfaces, naturaleza y cód
 date: '2007-04-03T13:14:54+00:00'
 author: blog
 layout: post
-guid: 'http://www.mauriciogiraldo.com/blog/2007/04/03/visualizacion-de-informacion-diseno-de-interfaces-naturaleza-y-codigo/'
 permalink: /blog/2007/04/03/visualizacion-de-informacion-diseno-de-interfaces-naturaleza-y-codigo/
 categories:
     - arte

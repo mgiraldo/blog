@@ -4,7 +4,6 @@ title: 'Ze Frank, carátulas, juegos de video'
 date: '2007-04-03T23:04:17+00:00'
 author: blog
 layout: post
-guid: 'http://www.mauriciogiraldo.com/blog/2007/04/03/ze-frank-caratulas-juegos-de-video/'
 permalink: /blog/2007/04/03/ze-frank-caratulas-juegos-de-video/
 categories:
     - arte

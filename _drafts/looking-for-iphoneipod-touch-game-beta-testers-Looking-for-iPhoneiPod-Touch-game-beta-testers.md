@@ -4,8 +4,6 @@ title: 'Looking for iPhone/iPod Touch game beta testers'
 date: '2010-04-04T16:53:10+00:00'
 author: blog
 layout: post
-guid: 'http://www.mauriciogiraldo.com/blog/?p=733'
-permalink: '/?p=733'
 categories:
     - general
 ---

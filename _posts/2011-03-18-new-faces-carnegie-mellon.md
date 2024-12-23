@@ -4,7 +4,6 @@ title: 'New Faces'
 date: '2011-03-18T22:34:19+00:00'
 author: blog
 layout: post
-guid: 'http://www.mauriciogiraldo.com/blog/?p=794'
 permalink: /blog/2011/03/18/new-faces-carnegie-mellon/
 categories:
     - arte

@@ -4,17 +4,16 @@ title: 'Múltiples views no-jerárquicas en iPhone'
 date: '2009-10-09T03:25:29+00:00'
 author: blog
 layout: post
-guid: 'http://www.mauriciogiraldo.com/blog/?p=446'
 permalink: /blog/2009/10/09/multiples-views-no-jerarquicas-en-iphone/
 enclosure:
-    - "http://localhost:8888/blog/wp-content/uploads/2009/10/InfiniteViews1.mov\n255554\nvideo/quicktime\n"
+    - "/blog/wp-content/uploads/2009/10/InfiniteViews1.mov\n255554\nvideo/quicktime\n"
 categories:
     - iphone
     - programación
     - tips
 ---
 
-<object classid="clsid:02bf25d5-8c17-4b23-bc80-d3488abddc6b" codebase="http://www.apple.com/qtactivex/qtplugin.cab#version=6,0,2,0" height="380" style="width: 192px; height: 380px;" width="192"><param name="src" value="http://localhost:8888/blog/wp-content/uploads/2009/10/InfiniteViews1.mov"></param><param name="align" value="right"></param><embed align="right" height="380" src="http://localhost:8888/blog/wp-content/uploads/2009/10/InfiniteViews1.mov" style="width: 192px; height: 380px;" type="video/quicktime" width="192"></embed></object>
+<object classid="clsid:02bf25d5-8c17-4b23-bc80-d3488abddc6b" codebase="http://www.apple.com/qtactivex/qtplugin.cab#version=6,0,2,0" height="380" style="width: 192px; height: 380px;" width="192"><param name="src" value="/blog/wp-content/uploads/2009/10/InfiniteViews1.mov"></param><param name="align" value="right"></param><embed align="right" height="380" src="/blog/wp-content/uploads/2009/10/InfiniteViews1.mov" style="width: 192px; height: 380px;" type="video/quicktime" width="192"></embed></object>
 
 *(English version at the bottom of this post)*
 

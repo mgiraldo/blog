@@ -4,8 +4,6 @@ title: 'tecnologia invisible vintage web como cobrar'
 date: '2008-12-12T11:18:59+00:00'
 author: blog
 layout: post
-guid: 'http://www.mauriciogiraldo.com/blog/?p=132'
-permalink: '/?p=132'
 categories:
     - Uncategorized
 ---

@@ -4,8 +4,6 @@ title: 'sobre reticulas'
 date: '2009-12-02T00:42:14+00:00'
 author: blog
 layout: post
-guid: 'http://www.mauriciogiraldo.com/blog/?p=556'
-permalink: '/?p=556'
 categories:
     - general
 ---

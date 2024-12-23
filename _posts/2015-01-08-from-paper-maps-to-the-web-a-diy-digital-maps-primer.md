@@ -4,7 +4,6 @@ title: 'From Paper Maps to the Web: A DIY Digital Maps Primer'
 date: '2015-01-08T10:13:42+00:00'
 author: blog
 layout: post
-guid: 'http://www.mauriciogiraldo.com/blog/?p=909'
 permalink: /blog/2015/01/08/from-paper-maps-to-the-web-a-diy-digital-maps-primer/
 categories:
     - arte

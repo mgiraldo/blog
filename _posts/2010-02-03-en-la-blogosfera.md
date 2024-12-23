@@ -4,7 +4,6 @@ title: 'línea de tiempo en la blogosfera :)'
 date: '2010-02-03T20:44:17+00:00'
 author: blog
 layout: post
-guid: 'http://www.mauriciogiraldo.com/blog/?p=647'
 permalink: /blog/2010/02/03/en-la-blogosfera/
 categories:
     - general

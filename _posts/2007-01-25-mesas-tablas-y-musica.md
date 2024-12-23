@@ -4,7 +4,6 @@ title: 'Mesas, tablas y música'
 date: '2007-01-25T09:33:19+00:00'
 author: blog
 layout: post
-guid: 'http://www.mauriciogiraldo.com/blog/?p=11'
 permalink: /blog/2007/01/25/mesas-tablas-y-musica/
 enclosure:
     - "http://www.onomy.com/video/Tilty.mov\n4609875\nvideo/quicktime"

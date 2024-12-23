@@ -4,8 +4,6 @@ title: 'john lennon'
 date: '2008-12-10T00:43:42+00:00'
 author: blog
 layout: post
-guid: 'http://www.mauriciogiraldo.com/blog/?p=130'
-permalink: '/?p=130'
 categories:
     - general
 ---

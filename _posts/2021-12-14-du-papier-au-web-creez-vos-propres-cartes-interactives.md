@@ -4,7 +4,6 @@ title: 'Du papier au Web : créez vos propres cartes interactives'
 date: '2021-12-14T17:07:08+00:00'
 author: blog
 layout: post
-guid: 'https://mauriciogiraldo.com/blog/?p=1149'
 permalink: /blog/2021/12/14/du-papier-au-web-creez-vos-propres-cartes-interactives/
 categories:
     - arte

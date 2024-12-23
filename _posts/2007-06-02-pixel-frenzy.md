@@ -4,7 +4,6 @@ title: pixel-frenzy
 date: '2007-06-02T13:47:05+00:00'
 author: blog
 layout: post
-guid: 'http://www.mauriciogiraldo.com/blog/2007/06/02/pixel-frenzy/'
 permalink: /blog/2007/06/02/pixel-frenzy/
 categories:
     - general

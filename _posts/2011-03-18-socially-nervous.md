@@ -4,7 +4,6 @@ title: 'socially nervous'
 date: '2011-03-18T21:06:29+00:00'
 author: blog
 layout: post
-guid: 'http://www.mauriciogiraldo.com/blog/?p=806'
 permalink: /blog/2011/03/18/socially-nervous/
 categories:
     - arte

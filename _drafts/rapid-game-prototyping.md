@@ -4,8 +4,6 @@ title: 'rapid game prototyping'
 date: '2008-12-26T19:17:14+00:00'
 author: blog
 layout: post
-guid: 'http://www.mauriciogiraldo.com/blog/?p=215'
-permalink: '/?p=215'
 categories:
     - general
 ---

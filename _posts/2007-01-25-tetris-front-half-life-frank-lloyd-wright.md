@@ -4,7 +4,6 @@ title: 'Tetris, Front, Half-life + Frank Lloyd Wright'
 date: '2007-01-25T09:31:50+00:00'
 author: blog
 layout: post
-guid: 'http://www.mauriciogiraldo.com/blog/?p=9'
 permalink: /blog/2007/01/25/tetris-front-half-life-frank-lloyd-wright/
 categories:
     - diseño

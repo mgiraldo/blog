@@ -4,7 +4,6 @@ title: 'tron legacy'
 date: '2009-07-25T15:49:34+00:00'
 author: blog
 layout: post
-guid: 'http://www.mauriciogiraldo.com/blog/?p=381'
 permalink: /blog/2009/07/25/tron-legacy/
 categories:
     - general

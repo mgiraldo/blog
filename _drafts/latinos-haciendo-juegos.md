@@ -4,8 +4,6 @@ title: 'latinos haciendo juegos'
 date: '2009-01-30T22:55:52+00:00'
 author: blog
 layout: post
-guid: 'http://www.mauriciogiraldo.com/blog/?p=240'
-permalink: '/?p=240'
 categories:
     - general
     - juegos

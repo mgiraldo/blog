@@ -4,8 +4,6 @@ title: 'H&#038;FJ News | Hoefler &#038; Frere-Jones'
 date: '2009-09-30T21:57:22+00:00'
 author: blog
 layout: post
-guid: 'http://www.mauriciogiraldo.com/blog/?p=444'
-permalink: '/?p=444'
 categories:
     - general
 ---

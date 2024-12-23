@@ -4,7 +4,6 @@ title: 'El diseño apesta'
 date: '2007-03-25T14:11:34+00:00'
 author: blog
 layout: post
-guid: 'http://www.mauriciogiraldo.com/blog/2007/03/25/el-diseno-apesta/'
 permalink: /blog/2007/03/25/el-diseno-apesta/
 enclosure:
     - "http://audio.sxsw.com/podcast/interactive/panel/2007/SXSW07.INT.20070312.WebTypographySucks.mp3\n28486115\naudio/mpeg"

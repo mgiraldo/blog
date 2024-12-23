@@ -4,8 +4,6 @@ title: 'Facebook: Relax, we won&#8217;t sell your photos | The Social &#8211; CN
 date: '2009-07-17T19:39:33+00:00'
 author: blog
 layout: post
-guid: 'http://www.mauriciogiraldo.com/blog/?p=279'
-permalink: '/?p=279'
 categories:
     - general
 ---

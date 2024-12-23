@@ -4,7 +4,6 @@ title: 'Coverpop, Duncan Wilson, Adobe Kuler&#8230;'
 date: '2007-01-25T09:32:41+00:00'
 author: blog
 layout: post
-guid: 'http://www.mauriciogiraldo.com/blog/?p=10'
 permalink: /blog/2007/01/25/coverpop-duncan-wilson-adobe-kuler/
 categories:
     - arte

@@ -4,8 +4,6 @@ title: kickflip
 date: '2009-08-13T01:36:51+00:00'
 author: blog
 layout: post
-guid: 'http://www.mauriciogiraldo.com/blog/?p=427'
-permalink: '/?p=427'
 categories:
     - general
 ---

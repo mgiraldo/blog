@@ -4,8 +4,6 @@ title: 'star wars en html'
 date: '2015-12-20T19:57:06+00:00'
 author: blog
 layout: post
-guid: 'http://www.mauriciogiraldo.com/blog/?p=618'
-permalink: '/?p=618'
 categories:
     - general
 tags:

@@ -4,8 +4,6 @@ title: 'YouTube &#8211; (RELEASE) Half-Life2: All sounds replaced with my voice'
 date: '2009-09-28T01:50:31+00:00'
 author: blog
 layout: post
-guid: 'http://www.mauriciogiraldo.com/blog/?p=440'
-permalink: '/?p=440'
 categories:
     - general
 ---

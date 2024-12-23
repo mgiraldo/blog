@@ -4,7 +4,6 @@ title: 'bicicletero suicida'
 date: '2009-12-16T16:04:41+00:00'
 author: blog
 layout: post
-guid: 'http://www.mauriciogiraldo.com/blog/?p=562'
 permalink: /blog/2009/12/16/bicicletero-suicida/
 categories:
     - general

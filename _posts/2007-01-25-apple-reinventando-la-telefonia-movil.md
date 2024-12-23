@@ -4,7 +4,6 @@ title: 'Apple: ¿reinventando la telefonía móvil?'
 date: '2007-01-25T09:35:17+00:00'
 author: blog
 layout: post
-guid: 'http://www.mauriciogiraldo.com/blog/?p=13'
 permalink: /blog/2007/01/25/apple-reinventando-la-telefonia-movil/
 categories:
     - diseño

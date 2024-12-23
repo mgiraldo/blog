@@ -4,8 +4,6 @@ title: 'Hello world!'
 date: '2024-12-23T03:38:41+00:00'
 author: blog
 layout: post
-guid: 'http://localhost:8888/blog/?p=1'
-permalink: '/?p=1'
 categories:
     - Uncategorized
 ---

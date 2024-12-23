@@ -4,8 +4,6 @@ title: 'heaven 17 @ le poisson rouge'
 date: '2022-09-27T19:17:00+00:00'
 author: blog
 layout: post
-guid: 'https://mauriciogiraldo.com/blog/?p=1165'
-permalink: '/?p=1165'
 categories:
     - crítica
     - música

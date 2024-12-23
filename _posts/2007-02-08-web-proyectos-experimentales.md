@@ -4,7 +4,6 @@ title: 'Web: proyectos experimentales (2006-2)'
 date: '2007-02-08T16:17:57+00:00'
 author: blog
 layout: post
-guid: 'http://www.mauriciogiraldo.com/blog/2007/02/08/web-proyectos-experimentales/'
 permalink: /blog/2007/02/08/web-proyectos-experimentales/
 categories:
     - arte

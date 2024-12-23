@@ -4,7 +4,6 @@ title: 'Software gratuito recomendado&#8230;'
 date: '2007-01-30T18:16:11+00:00'
 author: blog
 layout: page
-guid: 'http://www.mauriciogiraldo.com/blog/software-gratuito-recomendado/'
 ---
 
 Para navegar nada mejor que [Mozilla Firefox](http://www.mozilla.com/) ya que tiene una gran cantidad de programas gratuitos que se instalan en el navegador (extensiones) y que facilitan muchas tareas. Algunas de las extensiones que tengo instaladas:

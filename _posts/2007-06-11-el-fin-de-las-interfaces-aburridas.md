@@ -4,7 +4,6 @@ title: '¿El fin de las interfaces aburridas?'
 date: '2007-06-11T13:49:46+00:00'
 author: blog
 layout: post
-guid: 'http://www.mauriciogiraldo.com/blog/2007/06/11/%c2%bfel-fin-de-las-interfaces-aburridas/'
 permalink: /blog/2007/06/11/el-fin-de-las-interfaces-aburridas/
 cc_content_license:
     - ''

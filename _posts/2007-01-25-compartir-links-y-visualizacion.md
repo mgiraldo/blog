@@ -4,7 +4,6 @@ title: 'Compartiendo links y visualización'
 date: '2007-01-25T09:24:43+00:00'
 author: blog
 layout: post
-guid: 'http://www.mauriciogiraldo.com/blog/?p=4'
 permalink: /blog/2007/01/25/compartir-links-y-visualizacion/
 categories:
     - general

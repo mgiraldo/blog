@@ -4,7 +4,6 @@ title: '¿qué es diseño web?'
 date: '2008-02-19T01:32:47+00:00'
 author: blog
 layout: post
-guid: 'http://www.mauriciogiraldo.com/blog/2008/02/19/%c2%bfque-es-diseno-web/'
 permalink: /blog/2008/02/19/que-es-diseno-web/
 cc_content_license:
     - ''

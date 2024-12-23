@@ -4,7 +4,6 @@ title: 'Interfases táctiles, serpientes, Metal Gear Solid'
 date: '2007-03-11T20:22:51+00:00'
 author: blog
 layout: post
-guid: 'http://www.mauriciogiraldo.com/blog/2007/03/11/interfases-tactiles-serpientes-hideo-kojima/'
 permalink: /blog/2007/03/11/interfases-tactiles-serpientes-hideo-kojima/
 categories:
     - ciencia

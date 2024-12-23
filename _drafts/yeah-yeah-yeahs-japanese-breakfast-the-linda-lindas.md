@@ -4,8 +4,6 @@ title: 'yeah yeah yeahs + japanese breakfast + the linda lindas'
 date: '2022-10-03T19:17:01+00:00'
 author: blog
 layout: post
-guid: 'https://mauriciogiraldo.com/blog/?p=1163'
-permalink: '/?p=1163'
 categories:
     - crítica
     - música

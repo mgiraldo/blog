@@ -4,7 +4,6 @@ title: 'Presentando Stereogranimator'
 date: '2012-01-26T11:03:16+00:00'
 author: blog
 layout: post
-guid: 'http://www.mauriciogiraldo.com/blog/?p=872'
 permalink: /blog/2012/01/26/presentando-stereogranimator/
 categories:
     - arte

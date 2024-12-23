@@ -4,7 +4,6 @@ title: 'Larga vida a Helvetica'
 date: '2007-05-11T20:48:12+00:00'
 author: blog
 layout: post
-guid: 'http://www.mauriciogiraldo.com/blog/2007/05/11/larga-vida-a-helvetica/'
 permalink: /blog/2007/05/11/larga-vida-a-helvetica/
 categories:
     - diseño

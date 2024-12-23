@@ -4,8 +4,6 @@ title: 'trafik, afiches, budget graph, css tips'
 date: '2007-07-29T19:53:05+00:00'
 author: blog
 layout: post
-guid: 'http://www.mauriciogiraldo.com/blog/?p=73'
-permalink: '/?p=73'
 categories:
     - arte
     - diseño
