@@ -11,7 +11,7 @@ categories:
 
 Ya [dije lo que no me gustaba](http://www.mauriciogiraldo.com/blog/2010/01/13/%c2%bfpor-que-la-sucursal-virtual-de-bancolombia-apesta/)… Este es un boceto rápido de cómo podría ser una sucursal virtual que a mi me gustaría usar:
 
-<figure aria-describedby="caption-attachment-609" class="wp-caption alignnone" id="attachment_609" style="width: 300px">[![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/01/bancolombia-300x262.gif "banco/mga")](https://mgiraldo.github.io/blog/wp-content/uploads/2010/01/bancolombia.gif)<figcaption class="wp-caption-text" id="caption-attachment-609">clic para ver grande</figcaption></figure>
+<figure aria-describedby="caption-attachment-609" class="wp-caption alignnone" id="attachment_609" style="width: 300px">[![](//www.mauriciogiraldo.com/blog/wp-content/uploads/2010/01/bancolombia-300x262.gif "banco/mga")](/wp-content/uploads/2010/01/bancolombia.gif)<figcaption class="wp-caption-text" id="caption-attachment-609">clic para ver grande</figcaption></figure>
 
 ### ¿Cuál es la propuesta?
 
