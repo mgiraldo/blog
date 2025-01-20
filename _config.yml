@@ -19,12 +19,11 @@
 # in the templates via {{ site.myvariable }}.
 
 title: mga/blog
-domain: mgiraldo.github.io
+domain: mauriciogiraldo.com
 description: >- # this means to ignore newlines until "baseurl:"
   ISSN 2011-0146
-url: https://mgiraldo.github.io
+url: https://mauriciogiraldo.com
 baseurl: "/blog" # leave blank for custom domain
-github_username:  mgiraldo
 
 # Build settings
 theme: minima
